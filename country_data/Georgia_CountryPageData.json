@@ -26,18 +26,18 @@
             "2017": 0.6557,
             "2018": 0.5682,
             "2019": 0.0,
-            "2020": 0.5038,
+            "2020": 1.0076,
             "2021": 0.4878,
-            "2022": 0.9818,
-            "2023": 0.0
+            "2022": 2.4546,
+            "2023": 0.9328
         },
-        "average_rate": 0.3969
+        "average_rate": 0.6134
     },
     "domainwise_data": {
         "country": "Georgia",
-        "total_retractions": 11,
+        "total_retractions": 17,
         "years": {
-            "2022": {
+            "2023": {
                 "total": 2,
                 "marks": {
                     "alterations": 0,
@@ -47,9 +47,26 @@
                     "system": 0
                 },
                 "domain": {
-                    "B/T": 2,
+                    "BLS": 6,
                     "": 2,
-                    "SOC": 2,
+                    "PHY": 2,
+                    "HSC": 1
+                }
+            },
+            "2022": {
+                "total": 5,
+                "marks": {
+                    "alterations": 3,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 2,
+                    "system": 0
+                },
+                "domain": {
+                    "": 5,
+                    "B/T": 5,
+                    "SOC": 4,
+                    "PHY": 3,
                     "HUM": 1
                 }
             },
@@ -69,17 +86,17 @@
                 }
             },
             "2020": {
-                "total": 1,
+                "total": 2,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "BLS": 3,
-                    "": 1
+                    "BLS": 6,
+                    "": 2
                 }
             },
             "2018": {
@@ -101,9 +118,9 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -131,8 +148,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -158,10 +175,10 @@
             "2004": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -173,12 +190,22 @@
     },
     "yearly_retractions": {
         "country": "Georgia",
-        "total_retractions": 11,
+        "total_retractions": 17,
         "years": {
-            "2022": {
+            "2023": {
                 "total": 2,
                 "marks": {
                     "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 2,
+                    "system": 0
+                }
+            },
+            "2022": {
+                "total": 5,
+                "marks": {
+                    "alterations": 3,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 2,
@@ -196,9 +223,9 @@
                 }
             },
             "2020": {
-                "total": 1,
+                "total": 2,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
@@ -219,9 +246,9 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -240,8 +267,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -258,22 +285,26 @@
             "2004": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "China": 4,
+            "China": 8,
+            "Spain": 2,
+            "United States": 2,
+            "Iran": 2,
+            "India": 1,
+            "South Korea": 1,
+            "Turkey": 1,
             "Germany": 1,
             "Nigeria": 1,
             "Serbia": 1,
-            "Iran": 1,
-            "France": 1,
-            "United States": 1
+            "France": 1
         }
     },
     "country_flag": "/country_flags/Georgia.svg"

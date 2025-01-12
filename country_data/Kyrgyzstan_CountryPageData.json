@@ -19,7 +19,7 @@
             "2010": 0.0,
             "2011": 0.0,
             "2012": 0.0,
-            "2013": 0.0,
+            "2013": 6.6667,
             "2014": 0.0,
             "2015": 0.0,
             "2016": 13.1004,
@@ -28,32 +28,49 @@
             "2019": 0.0,
             "2020": 1.8215,
             "2021": 3.1847,
-            "2022": 22.508,
-            "2023": 0.0
+            "2022": 33.7621,
+            "2023": 4.1494
         },
-        "average_rate": 5.3354
+        "average_rate": 7.4314
     },
     "domainwise_data": {
         "country": "Kyrgyzstan",
-        "total_retractions": 28,
+        "total_retractions": 39,
         "years": {
-            "2022": {
-                "total": 14,
+            "2023": {
+                "total": 3,
                 "marks": {
                     "alterations": 0,
-                    "research": 3,
-                    "researcher_integrity": 0,
+                    "research": 0,
+                    "researcher_integrity": 3,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 4,
+                    "B/T": 3,
+                    "": 3,
+                    "PHY": 2,
+                    "ENV": 1
+                }
+            },
+            "2022": {
+                "total": 21,
+                "marks": {
+                    "alterations": 4,
+                    "research": 4,
+                    "researcher_integrity": 2,
                     "supplemental": 11,
                     "system": 0
                 },
                 "domain": {
-                    "B/T": 20,
-                    "": 14,
-                    "SOC": 7,
-                    "HUM": 3,
-                    "PHY": 2,
-                    "HSC": 1,
-                    "BLS": 1
+                    "B/T": 32,
+                    "": 21,
+                    "SOC": 15,
+                    "HUM": 4,
+                    "PHY": 3,
+                    "HSC": 3,
+                    "BLS": 2
                 }
             },
             "2021": {
@@ -75,9 +92,9 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -89,10 +106,10 @@
             "2018": {
                 "total": 8,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 1,
+                    "research": 3,
                     "researcher_integrity": 0,
-                    "supplemental": 8,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -104,31 +121,55 @@
             "2016": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 3,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 3,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "SOC": 3,
-                    "": 3,
                     "HSC": 3,
+                    "": 3,
+                    "SOC": 3,
                     "B/T": 2
+                }
+            },
+            "2013": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 5,
+                    "": 1
                 }
             }
         }
     },
     "yearly_retractions": {
         "country": "Kyrgyzstan",
-        "total_retractions": 28,
+        "total_retractions": 39,
         "years": {
-            "2022": {
-                "total": 14,
+            "2023": {
+                "total": 3,
                 "marks": {
                     "alterations": 0,
-                    "research": 3,
-                    "researcher_integrity": 0,
+                    "research": 0,
+                    "researcher_integrity": 3,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2022": {
+                "total": 21,
+                "marks": {
+                    "alterations": 4,
+                    "research": 4,
+                    "researcher_integrity": 2,
                     "supplemental": 11,
                     "system": 0
                 }
@@ -147,37 +188,52 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2018": {
                 "total": 8,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 1,
+                    "research": 3,
                     "researcher_integrity": 0,
-                    "supplemental": 8,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2016": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 3,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 3,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2013": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "China": 13,
-            "Pakistan": 3,
-            "Cyprus": 1
+            "China": 18,
+            "Pakistan": 7,
+            "Kazakhstan": 2,
+            "India": 1,
+            "United Kingdom": 1,
+            "Cyprus": 1,
+            "Saudi Arabia": 1,
+            "United States": 1
         }
     },
     "country_flag": "/country_flags/Kyrgyzstan.svg"

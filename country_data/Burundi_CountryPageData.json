@@ -28,28 +28,31 @@
             "2019": 0.0,
             "2020": 7.9365,
             "2021": 0.0,
-            "2022": 15.873,
+            "2022": 87.3016,
             "2023": 0.0
         },
-        "average_rate": 2.5063
+        "average_rate": 10.0251
     },
     "domainwise_data": {
         "country": "Burundi",
-        "total_retractions": 3,
+        "total_retractions": 12,
         "years": {
             "2022": {
-                "total": 2,
+                "total": 11,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 8,
+                    "research": 3,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "B/T": 4,
-                    "": 2,
-                    "SOC": 2
+                    "B/T": 13,
+                    "": 11,
+                    "PHY": 7,
+                    "SOC": 5,
+                    "ENV": 4,
+                    "BLS": 2
                 }
             },
             "2020": {
@@ -70,15 +73,15 @@
     },
     "yearly_retractions": {
         "country": "Burundi",
-        "total_retractions": 3,
+        "total_retractions": 12,
         "years": {
             "2022": {
-                "total": 2,
+                "total": 11,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 8,
+                    "research": 3,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -94,7 +97,9 @@
             }
         },
         "collaborations": {
-            "China": 3
+            "China": 12,
+            "Pakistan": 1,
+            "Malaysia": 1
         }
     },
     "country_flag": "/country_flags/Burundi.svg"

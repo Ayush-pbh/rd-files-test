@@ -25,18 +25,35 @@
             "2016": 1.3973,
             "2017": 0.4108,
             "2018": 0.4047,
-            "2019": 0.0,
+            "2019": 0.4513,
             "2020": 0.3823,
-            "2021": 0.8966,
+            "2021": 1.1955,
             "2022": 0.2123,
-            "2023": 0.0
+            "2023": 0.3836
         },
-        "average_rate": 0.327
+        "average_rate": 0.4459
     },
     "domainwise_data": {
         "country": "Macau",
-        "total_retractions": 11,
+        "total_retractions": 15,
         "years": {
+            "2023": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 3,
+                    "ENV": 2,
+                    "": 2,
+                    "HSC": 1,
+                    "PHY": 1
+                }
+            },
             "2022": {
                 "total": 1,
                 "marks": {
@@ -52,18 +69,18 @@
                 }
             },
             "2021": {
-                "total": 3,
+                "total": 4,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 3,
+                    "research": 2,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "B/T": 4,
-                    "": 3,
-                    "SOC": 3,
+                    "B/T": 5,
+                    "SOC": 5,
+                    "": 4,
                     "PHY": 1,
                     "HSC": 1
                 }
@@ -83,13 +100,27 @@
                     "": 1
                 }
             },
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 2,
+                    "": 1
+                }
+            },
             "2018": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -103,8 +134,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -133,8 +164,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -147,8 +178,18 @@
     },
     "yearly_retractions": {
         "country": "Macau",
-        "total_retractions": 11,
+        "total_retractions": 15,
         "years": {
+            "2023": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
             "2022": {
                 "total": 1,
                 "marks": {
@@ -160,12 +201,12 @@
                 }
             },
             "2021": {
-                "total": 3,
+                "total": 4,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 3,
+                    "research": 2,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -179,13 +220,23 @@
                     "system": 0
                 }
             },
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
             "2018": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -194,8 +245,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -214,19 +265,22 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "China": 9,
+            "China": 13,
+            "United States": 4,
             "Hong Kong": 4,
-            "United States": 3,
             "Australia": 3,
+            "Taiwan": 2,
             "Canada": 2,
             "South Korea": 2,
+            "Pakistan": 1,
+            "Vietnam": 1,
             "Algeria": 1,
             "Angola": 1,
             "Benin": 1,
@@ -255,7 +309,6 @@
             "Zimbabwe": 1,
             "Japan": 1,
             "Singapore": 1,
-            "Taiwan": 1,
             "Grenada": 1,
             "Spain": 1
         }

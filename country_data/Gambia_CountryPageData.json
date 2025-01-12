@@ -25,17 +25,17 @@
             "2016": 0.0,
             "2017": 0.0,
             "2018": 0.0,
-            "2019": 0.0,
-            "2020": 0.0,
-            "2021": 3.3784,
+            "2019": 10.4712,
+            "2020": 20.6612,
+            "2021": 6.7568,
             "2022": 3.3223,
             "2023": 0.0
         },
-        "average_rate": 0.5316
+        "average_rate": 2.6582
     },
     "domainwise_data": {
         "country": "Gambia",
-        "total_retractions": 2,
+        "total_retractions": 10,
         "years": {
             "2022": {
                 "total": 1,
@@ -52,24 +52,56 @@
                 }
             },
             "2021": {
-                "total": 1,
+                "total": 2,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "ENV": 1,
-                    "": 1
+                    "BLS": 2,
+                    "HSC": 2,
+                    "": 2,
+                    "ENV": 1
+                }
+            },
+            "2020": {
+                "total": 5,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 5,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 7,
+                    "": 5,
+                    "ENV": 3
+                }
+            },
+            "2019": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 3,
+                    "": 2,
+                    "ENV": 1
                 }
             }
         }
     },
     "yearly_retractions": {
         "country": "Gambia",
-        "total_retractions": 2,
+        "total_retractions": 10,
         "years": {
             "2022": {
                 "total": 1,
@@ -82,17 +114,39 @@
                 }
             },
             "2021": {
-                "total": 1,
+                "total": 2,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2020": {
+                "total": 5,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 5,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2019": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
+            "Pakistan": 9,
+            "Saudi Arabia": 2,
             "Algeria": 1,
             "Angola": 1,
             "Benin": 1,
@@ -121,7 +175,7 @@
             "Zambia": 1,
             "Zimbabwe": 1,
             "Australia": 1,
-            "Pakistan": 1
+            "China": 1
         }
     },
     "country_flag": "/country_flags/Gambia.svg"

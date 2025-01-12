@@ -21,8 +21,8 @@
             "2012": 0.0,
             "2013": 0.0,
             "2014": 0.0,
-            "2015": 5.4348,
-            "2016": 0.0,
+            "2015": 16.3043,
+            "2016": 11.2994,
             "2017": 0.0,
             "2018": 0.0,
             "2019": 0.0,
@@ -31,11 +31,11 @@
             "2022": 3.0303,
             "2023": 0.0
         },
-        "average_rate": 2.0699
+        "average_rate": 3.1048
     },
     "domainwise_data": {
         "country": "Gabon",
-        "total_retractions": 8,
+        "total_retractions": 12,
         "years": {
             "2022": {
                 "total": 1,
@@ -51,27 +51,41 @@
                     "": 1
                 }
             },
-            "2015": {
-                "total": 1,
+            "2016": {
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
                     "BLS": 2,
-                    "HSC": 1,
-                    "": 1
+                    "": 2
+                }
+            },
+            "2015": {
+                "total": 3,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 1,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 6,
+                    "": 3,
+                    "HSC": 1
                 }
             },
             "2010": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -143,7 +157,7 @@
     },
     "yearly_retractions": {
         "country": "Gabon",
-        "total_retractions": 8,
+        "total_retractions": 12,
         "years": {
             "2022": {
                 "total": 1,
@@ -155,12 +169,22 @@
                     "system": 0
                 }
             },
-            "2015": {
-                "total": 1,
+            "2016": {
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2015": {
+                "total": 3,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
                     "supplemental": 1,
                     "system": 0
                 }
@@ -168,9 +192,9 @@
             "2010": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -217,7 +241,8 @@
             }
         },
         "collaborations": {
-            "France": 2,
+            "France": 6,
+            "Saudi Arabia": 3,
             "Algeria": 1,
             "Angola": 1,
             "Benin": 1,

@@ -4,7 +4,7 @@
         "yearly_rates": {
             "1996": 0.0,
             "1997": 0.0,
-            "1998": 0.5192,
+            "1998": 0.0,
             "1999": 0.0,
             "2000": 0.4419,
             "2001": 0.0,
@@ -19,70 +19,87 @@
             "2010": 0.2949,
             "2011": 0.0,
             "2012": 0.4752,
-            "2013": 0.3405,
+            "2013": 0.454,
             "2014": 0.0959,
             "2015": 0.3584,
-            "2016": 0.3962,
+            "2016": 0.4754,
             "2017": 0.2311,
             "2018": 0.276,
             "2019": 0.0,
-            "2020": 0.2259,
-            "2021": 0.2069,
-            "2022": 0.11,
-            "2023": 0.0
+            "2020": 0.2824,
+            "2021": 0.4656,
+            "2022": 0.3851,
+            "2023": 0.0551
         },
-        "average_rate": 0.1868
+        "average_rate": 0.2433
     },
     "domainwise_data": {
         "country": "Chile",
-        "total_retractions": 43,
+        "total_retractions": 56,
         "years": {
-            "2022": {
-                "total": 2,
+            "2023": {
+                "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 2,
+                    "research": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "BLS": 4,
-                    "": 2,
-                    "HSC": 1
+                    "PHY": 3,
+                    "": 1
+                }
+            },
+            "2022": {
+                "total": 7,
+                "marks": {
+                    "alterations": 2,
+                    "research": 0,
+                    "researcher_integrity": 4,
+                    "supplemental": 1,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 12,
+                    "": 7,
+                    "HSC": 3,
+                    "ENV": 2,
+                    "PHY": 2
                 }
             },
             "2021": {
-                "total": 4,
+                "total": 9,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 1,
-                    "supplemental": 2,
+                    "alterations": 2,
+                    "research": 2,
+                    "researcher_integrity": 3,
+                    "supplemental": 1,
                     "system": 1
                 },
                 "domain": {
-                    "BLS": 4,
-                    "": 4,
-                    "HSC": 2,
-                    "SOC": 2,
+                    "BLS": 9,
+                    "": 9,
+                    "HSC": 7,
+                    "PHY": 4,
                     "ENV": 2,
+                    "SOC": 2,
                     "HUM": 1
                 }
             },
             "2020": {
-                "total": 4,
+                "total": 5,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 2,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "researcher_integrity": 1,
+                    "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
-                    "": 4,
+                    "": 5,
+                    "BLS": 4,
                     "HSC": 4,
-                    "BLS": 2,
                     "B/T": 1,
                     "ENV": 1,
                     "PHY": 1
@@ -92,9 +109,9 @@
                 "total": 4,
                 "marks": {
                     "alterations": 0,
-                    "research": 2,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "research": 3,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -107,33 +124,33 @@
             "2017": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 3,
-                    "system": 0
+                    "supplemental": 1,
+                    "system": 1
                 },
                 "domain": {
                     "BLS": 4,
                     "": 3,
-                    "SOC": 1,
                     "ENV": 1,
-                    "PHY": 1
+                    "PHY": 1,
+                    "SOC": 1
                 }
             },
             "2016": {
-                "total": 5,
+                "total": 6,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 2,
                     "research": 3,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
-                    "system": 0
+                    "supplemental": 0,
+                    "system": 1
                 },
                 "domain": {
+                    "BLS": 8,
                     "HSC": 6,
-                    "": 5,
-                    "BLS": 4,
+                    "": 6,
                     "PHY": 2,
                     "SOC": 1
                 }
@@ -141,16 +158,16 @@
             "2015": {
                 "total": 4,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
                     "": 4,
-                    "BLS": 3,
                     "ENV": 3,
+                    "BLS": 3,
                     "B/T": 2
                 }
             },
@@ -169,27 +186,27 @@
                 }
             },
             "2013": {
-                "total": 3,
+                "total": 4,
                 "marks": {
-                    "alterations": 2,
+                    "alterations": 3,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 1
                 },
                 "domain": {
-                    "BLS": 10,
-                    "": 3
+                    "BLS": 13,
+                    "": 4
                 }
             },
             "2012": {
                 "total": 4,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 3,
-                    "system": 0
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 1
                 },
                 "domain": {
                     "BLS": 6,
@@ -202,8 +219,8 @@
                 "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 2,
-                    "researcher_integrity": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -216,10 +233,10 @@
             "2008": {
                 "total": 2,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
+                    "alterations": 2,
+                    "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -271,20 +288,6 @@
                     "": 1
                 }
             },
-            "1998": {
-                "total": 1,
-                "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 0,
-                    "system": 0
-                },
-                "domain": {
-                    "HSC": 2,
-                    "": 1
-                }
-            },
             "1990": {
                 "total": 1,
                 "marks": {
@@ -303,35 +306,45 @@
     },
     "yearly_retractions": {
         "country": "Chile",
-        "total_retractions": 43,
+        "total_retractions": 56,
         "years": {
-            "2022": {
-                "total": 2,
+            "2023": {
+                "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 2,
+                    "research": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 }
             },
-            "2021": {
-                "total": 4,
+            "2022": {
+                "total": 7,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 2,
                     "research": 0,
-                    "researcher_integrity": 1,
-                    "supplemental": 2,
+                    "researcher_integrity": 4,
+                    "supplemental": 1,
+                    "system": 0
+                }
+            },
+            "2021": {
+                "total": 9,
+                "marks": {
+                    "alterations": 2,
+                    "research": 2,
+                    "researcher_integrity": 3,
+                    "supplemental": 1,
                     "system": 1
                 }
             },
             "2020": {
-                "total": 4,
+                "total": 5,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 2,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "researcher_integrity": 1,
+                    "supplemental": 1,
                     "system": 0
                 }
             },
@@ -339,39 +352,39 @@
                 "total": 4,
                 "marks": {
                     "alterations": 0,
-                    "research": 2,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "research": 3,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2017": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 3,
-                    "system": 0
+                    "supplemental": 1,
+                    "system": 1
                 }
             },
             "2016": {
-                "total": 5,
+                "total": 6,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 2,
                     "research": 3,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
-                    "system": 0
+                    "supplemental": 0,
+                    "system": 1
                 }
             },
             "2015": {
                 "total": 4,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -386,9 +399,9 @@
                 }
             },
             "2013": {
-                "total": 3,
+                "total": 4,
                 "marks": {
-                    "alterations": 2,
+                    "alterations": 3,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
@@ -398,19 +411,19 @@
             "2012": {
                 "total": 4,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 3,
-                    "system": 0
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 1
                 }
             },
             "2010": {
                 "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 2,
-                    "researcher_integrity": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -418,10 +431,10 @@
             "2008": {
                 "total": 2,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
+                    "alterations": 2,
+                    "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -455,16 +468,6 @@
                     "system": 0
                 }
             },
-            "1998": {
-                "total": 1,
-                "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 0,
-                    "system": 0
-                }
-            },
             "1990": {
                 "total": 1,
                 "marks": {
@@ -477,33 +480,46 @@
             }
         },
         "collaborations": {
-            "Spain": 6,
+            "Pakistan": 11,
+            "Spain": 11,
+            "India": 9,
+            "Australia": 8,
+            "Saudi Arabia": 8,
+            "United States": 8,
+            "China": 6,
+            "Germany": 6,
+            "Argentina": 6,
             "United Kingdom": 6,
-            "United States": 6,
-            "Argentina": 5,
-            "Germany": 5,
-            "Pakistan": 4,
-            "Saudi Arabia": 4,
-            "Egypt": 3,
-            "France": 3,
-            "Malaysia": 3,
-            "Australia": 3,
-            "India": 3,
-            "China": 2,
+            "Ecuador": 5,
+            "Italy": 5,
+            "Hong Kong": 4,
+            "Malaysia": 4,
+            "Egypt": 4,
+            "France": 4,
+            "Canada": 4,
+            "Russia": 3,
+            "Iran": 3,
+            "Portugal": 2,
+            "Romania": 2,
+            "Turkey": 2,
+            "Taiwan": 2,
             "Brazil": 2,
-            "Canada": 2,
-            "Italy": 2,
-            "Iran": 2,
+            "Peru": 2,
             "Serbia": 2,
+            "Kazakhstan": 1,
+            "Finland": 1,
+            "Ukraine": 1,
             "Czech Republic": 1,
-            "Peru": 1,
+            "Poland": 1,
+            "Bangladesh": 1,
+            "Norway": 1,
+            "Colombia": 1,
             "South Africa": 1,
             "Thailand": 1,
             "Austria": 1,
             "Mexico": 1,
             "Netherlands": 1,
-            "Switzerland": 1,
-            "Norway": 1
+            "Switzerland": 1
         }
     },
     "country_flag": "/country_flags/Chile.svg"

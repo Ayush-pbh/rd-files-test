@@ -27,61 +27,63 @@
             "2018": 0.0,
             "2019": 0.9381,
             "2020": 0.8244,
-            "2021": 2.4631,
-            "2022": 5.137,
-            "2023": 0.6116
+            "2021": 3.0788,
+            "2022": 13.6986,
+            "2023": 1.2232
         },
-        "average_rate": 1.4432
+        "average_rate": 2.5099
     },
     "domainwise_data": {
         "country": "Sudan",
-        "total_retractions": 23,
+        "total_retractions": 40,
         "years": {
             "2023": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
                     "HSC": 3,
-                    "": 1
+                    "": 2,
+                    "BLS": 1
                 }
             },
             "2022": {
-                "total": 9,
+                "total": 24,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 5,
-                    "supplemental": 3,
+                    "alterations": 10,
+                    "research": 2,
+                    "researcher_integrity": 10,
+                    "supplemental": 2,
                     "system": 0
                 },
                 "domain": {
-                    "HSC": 11,
-                    "": 9,
-                    "B/T": 7,
-                    "BLS": 1,
-                    "ENV": 1,
-                    "PHY": 1
+                    "HSC": 31,
+                    "": 24,
+                    "B/T": 17,
+                    "BLS": 10,
+                    "PHY": 6,
+                    "ENV": 3,
+                    "SOC": 2
                 }
             },
             "2021": {
-                "total": 4,
+                "total": 5,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 1,
+                    "research": 1,
                     "researcher_integrity": 3,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "HSC": 4,
-                    "": 4,
-                    "BLS": 4,
+                    "HSC": 5,
+                    "": 5,
+                    "BLS": 5,
                     "SOC": 1
                 }
             },
@@ -104,9 +106,9 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -161,10 +163,10 @@
             "2011": {
                 "total": 3,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -192,35 +194,35 @@
     },
     "yearly_retractions": {
         "country": "Sudan",
-        "total_retractions": 23,
+        "total_retractions": 40,
         "years": {
             "2023": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
                 }
             },
             "2022": {
-                "total": 9,
+                "total": 24,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 5,
-                    "supplemental": 3,
+                    "alterations": 10,
+                    "research": 2,
+                    "researcher_integrity": 10,
+                    "supplemental": 2,
                     "system": 0
                 }
             },
             "2021": {
-                "total": 4,
+                "total": 5,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 1,
+                    "research": 1,
                     "researcher_integrity": 3,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -238,9 +240,9 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -277,10 +279,10 @@
             "2011": {
                 "total": 3,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -296,17 +298,23 @@
             }
         },
         "collaborations": {
-            "Saudi Arabia": 5,
-            "Malaysia": 4,
+            "Saudi Arabia": 14,
+            "India": 8,
+            "Malaysia": 8,
+            "Iraq": 7,
+            "Pakistan": 5,
+            "Egypt": 3,
+            "China": 3,
             "Libya": 3,
-            "Pakistan": 2,
-            "Iraq": 2,
+            "Nigeria": 2,
             "Sweden": 2,
-            "India": 1,
+            "Ethiopia": 1,
+            "Palestine": 1,
+            "United Kingdom": 1,
+            "Yemen": 1,
+            "Jordan": 1,
             "Nepal": 1,
             "Tunisia": 1,
-            "Nigeria": 1,
-            "China": 1,
             "Italy": 1,
             "South Korea": 1,
             "Burkina Faso": 1,

@@ -26,16 +26,16 @@
             "2017": 4.0404,
             "2018": 0.0,
             "2019": 0.0,
-            "2020": 1.5361,
+            "2020": 3.0722,
             "2021": 0.0,
             "2022": 3.5651,
             "2023": 0.0
         },
-        "average_rate": 1.1536
+        "average_rate": 1.2978
     },
     "domainwise_data": {
         "country": "Montenegro",
-        "total_retractions": 8,
+        "total_retractions": 9,
         "years": {
             "2022": {
                 "total": 2,
@@ -43,7 +43,7 @@
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
@@ -54,26 +54,28 @@
                 }
             },
             "2020": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
+                    "researcher_integrity": 1,
                     "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
+                    "B/T": 2,
+                    "ENV": 2,
                     "PHY": 2,
-                    "": 1
+                    "": 2
                 }
             },
             "2017": {
                 "total": 2,
                 "marks": {
-                    "alterations": 0,
-                    "research": 0,
+                    "alterations": 1,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -100,10 +102,10 @@
             "2005": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -114,10 +116,10 @@
             "2003": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -129,20 +131,10 @@
     },
     "yearly_retractions": {
         "country": "Montenegro",
-        "total_retractions": 8,
+        "total_retractions": 9,
         "years": {
             "2022": {
                 "total": 2,
-                "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
-                    "system": 0
-                }
-            },
-            "2020": {
-                "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
@@ -151,13 +143,23 @@
                     "system": 0
                 }
             },
-            "2017": {
+            "2020": {
                 "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 1,
+                    "system": 0
+                }
+            },
+            "2017": {
+                "total": 2,
+                "marks": {
+                    "alterations": 1,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -174,26 +176,27 @@
             "2005": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2003": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "Serbia": 4,
+            "Serbia": 5,
+            "Egypt": 2,
             "Croatia": 2,
             "Iran": 1,
             "Cyprus": 1,
@@ -208,7 +211,6 @@
             "Tunisia": 1,
             "Turkey": 1,
             "United Kingdom": 1,
-            "Egypt": 1,
             "Albania": 1,
             "New Zealand": 1
         }

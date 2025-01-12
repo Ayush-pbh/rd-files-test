@@ -23,105 +23,111 @@
             "2014": 0.7872,
             "2015": 0.4575,
             "2016": 0.1782,
-            "2017": 0.6277,
+            "2017": 0.9416,
             "2018": 0.8224,
-            "2019": 1.4637,
-            "2020": 1.1478,
-            "2021": 0.5724,
-            "2022": 0.4046,
-            "2023": 0.1093
+            "2019": 1.6263,
+            "2020": 1.4922,
+            "2021": 1.6028,
+            "2022": 2.0231,
+            "2023": 1.2028
         },
-        "average_rate": 0.6272
+        "average_rate": 1.2014
     },
     "domainwise_data": {
         "country": "Vietnam",
-        "total_retractions": 83,
+        "total_retractions": 159,
         "years": {
             "2023": {
-                "total": 2,
+                "total": 22,
                 "marks": {
-                    "alterations": 1,
-                    "research": 0,
-                    "researcher_integrity": 0,
+                    "alterations": 2,
+                    "research": 1,
+                    "researcher_integrity": 13,
+                    "supplemental": 6,
+                    "system": 0
+                },
+                "domain": {
+                    "": 22,
+                    "B/T": 19,
+                    "ENV": 17,
+                    "PHY": 13,
+                    "BLS": 10,
+                    "HSC": 10,
+                    "SOC": 4
+                }
+            },
+            "2022": {
+                "total": 35,
+                "marks": {
+                    "alterations": 18,
+                    "research": 4,
+                    "researcher_integrity": 7,
+                    "supplemental": 6,
+                    "system": 0
+                },
+                "domain": {
+                    "": 35,
+                    "B/T": 31,
+                    "HSC": 25,
+                    "PHY": 20,
+                    "SOC": 16,
+                    "BLS": 12,
+                    "ENV": 8,
+                    "HUM": 1
+                }
+            },
+            "2021": {
+                "total": 28,
+                "marks": {
+                    "alterations": 9,
+                    "research": 4,
+                    "researcher_integrity": 15,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "": 28,
+                    "B/T": 21,
+                    "PHY": 19,
+                    "ENV": 13,
+                    "HSC": 12,
+                    "BLS": 5,
+                    "SOC": 5
+                }
+            },
+            "2020": {
+                "total": 26,
+                "marks": {
+                    "alterations": 12,
+                    "research": 6,
+                    "researcher_integrity": 6,
                     "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
-                    "BLS": 6,
-                    "": 2,
-                    "HSC": 1
-                }
-            },
-            "2022": {
-                "total": 7,
-                "marks": {
-                    "alterations": 1,
-                    "research": 1,
-                    "researcher_integrity": 2,
-                    "supplemental": 3,
-                    "system": 0
-                },
-                "domain": {
-                    "": 7,
-                    "HSC": 5,
-                    "B/T": 5,
-                    "PHY": 3,
-                    "SOC": 2,
-                    "BLS": 1,
-                    "ENV": 1
-                }
-            },
-            "2021": {
-                "total": 10,
-                "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 2,
-                    "supplemental": 7,
-                    "system": 0
-                },
-                "domain": {
-                    "": 10,
-                    "PHY": 8,
-                    "B/T": 7,
+                    "PHY": 35,
+                    "": 26,
+                    "B/T": 14,
                     "HSC": 6,
-                    "SOC": 2,
-                    "ENV": 2,
-                    "BLS": 1
-                }
-            },
-            "2020": {
-                "total": 20,
-                "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 18,
-                    "system": 0
-                },
-                "domain": {
-                    "PHY": 30,
-                    "": 20,
-                    "B/T": 7,
-                    "HSC": 3,
-                    "BLS": 3,
-                    "ENV": 1
+                    "BLS": 5,
+                    "ENV": 1,
+                    "SOC": 1
                 }
             },
             "2019": {
-                "total": 18,
+                "total": 20,
                 "marks": {
-                    "alterations": 0,
-                    "research": 6,
-                    "researcher_integrity": 0,
-                    "supplemental": 12,
+                    "alterations": 2,
+                    "research": 8,
+                    "researcher_integrity": 7,
+                    "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
-                    "PHY": 18,
-                    "": 18,
+                    "PHY": 20,
+                    "": 20,
+                    "B/T": 9,
                     "HSC": 7,
-                    "B/T": 7,
                     "SOC": 5,
                     "BLS": 4
                 }
@@ -129,10 +135,10 @@
             "2018": {
                 "total": 7,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 3,
                     "research": 1,
                     "researcher_integrity": 1,
-                    "supplemental": 4,
+                    "supplemental": 2,
                     "system": 0
                 },
                 "domain": {
@@ -145,20 +151,20 @@
                 }
             },
             "2017": {
-                "total": 4,
+                "total": 6,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
+                    "alterations": 1,
+                    "research": 2,
                     "researcher_integrity": 0,
-                    "supplemental": 3,
+                    "supplemental": 2,
                     "system": 0
                 },
                 "domain": {
-                    "PHY": 5,
-                    "": 4,
-                    "BLS": 2,
-                    "B/T": 1,
-                    "HSC": 1
+                    "BLS": 12,
+                    "PHY": 7,
+                    "": 6,
+                    "HSC": 1,
+                    "B/T": 1
                 }
             },
             "2016": {
@@ -178,34 +184,34 @@
             "2015": {
                 "total": 2,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
                     "PHY": 3,
-                    "": 2,
                     "BLS": 2,
+                    "": 2,
                     "ENV": 1
                 }
             },
             "2014": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "": 3,
                     "BLS": 3,
+                    "": 3,
+                    "HSC": 1,
                     "B/T": 1,
-                    "PHY": 1,
-                    "HSC": 1
+                    "PHY": 1
                 }
             },
             "2013": {
@@ -213,8 +219,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
-                    "supplemental": 1,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -228,9 +234,9 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -241,10 +247,10 @@
             "2011": {
                 "total": 2,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
@@ -256,10 +262,10 @@
             "2010": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 1,
                     "system": 0
                 },
                 "domain": {
@@ -270,10 +276,10 @@
             "2009": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -285,75 +291,75 @@
     },
     "yearly_retractions": {
         "country": "Vietnam",
-        "total_retractions": 83,
+        "total_retractions": 159,
         "years": {
             "2023": {
-                "total": 2,
+                "total": 22,
                 "marks": {
-                    "alterations": 1,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "alterations": 2,
+                    "research": 1,
+                    "researcher_integrity": 13,
+                    "supplemental": 6,
                     "system": 0
                 }
             },
             "2022": {
-                "total": 7,
+                "total": 35,
                 "marks": {
-                    "alterations": 1,
-                    "research": 1,
-                    "researcher_integrity": 2,
-                    "supplemental": 3,
+                    "alterations": 18,
+                    "research": 4,
+                    "researcher_integrity": 7,
+                    "supplemental": 6,
                     "system": 0
                 }
             },
             "2021": {
-                "total": 10,
+                "total": 28,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 2,
-                    "supplemental": 7,
+                    "alterations": 9,
+                    "research": 4,
+                    "researcher_integrity": 15,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2020": {
-                "total": 20,
+                "total": 26,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 18,
+                    "alterations": 12,
+                    "research": 6,
+                    "researcher_integrity": 6,
+                    "supplemental": 1,
                     "system": 0
                 }
             },
             "2019": {
-                "total": 18,
+                "total": 20,
                 "marks": {
-                    "alterations": 0,
-                    "research": 6,
-                    "researcher_integrity": 0,
-                    "supplemental": 12,
+                    "alterations": 2,
+                    "research": 8,
+                    "researcher_integrity": 7,
+                    "supplemental": 1,
                     "system": 0
                 }
             },
             "2018": {
                 "total": 7,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 3,
                     "research": 1,
                     "researcher_integrity": 1,
-                    "supplemental": 4,
+                    "supplemental": 2,
                     "system": 0
                 }
             },
             "2017": {
-                "total": 4,
+                "total": 6,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
+                    "alterations": 1,
+                    "research": 2,
                     "researcher_integrity": 0,
-                    "supplemental": 3,
+                    "supplemental": 2,
                     "system": 0
                 }
             },
@@ -370,20 +376,20 @@
             "2015": {
                 "total": 2,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 2,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2014": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -392,8 +398,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
-                    "supplemental": 1,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -401,83 +407,96 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
             "2011": {
                 "total": 2,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "supplemental": 1,
                     "system": 0
                 }
             },
             "2010": {
                 "total": 3,
                 "marks": {
-                    "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 1,
                     "system": 0
                 }
             },
             "2009": {
                 "total": 1,
                 "marks": {
-                    "alterations": 0,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "Iran": 15,
-            "South Korea": 12,
-            "China": 10,
-            "Saudi Arabia": 9,
-            "United States": 8,
-            "India": 6,
-            "Germany": 6,
-            "Malaysia": 6,
-            "Canada": 6,
-            "Japan": 5,
-            "Italy": 5,
-            "Serbia": 5,
-            "Iraq": 4,
-            "Australia": 4,
+            "China": 33,
+            "Saudi Arabia": 24,
+            "Iran": 24,
+            "United States": 16,
+            "South Korea": 15,
+            "Taiwan": 14,
+            "Malaysia": 14,
+            "Iraq": 14,
+            "Pakistan": 12,
+            "India": 11,
+            "Germany": 10,
+            "Serbia": 9,
+            "Japan": 8,
+            "Canada": 7,
+            "Russia": 6,
+            "Belgium": 6,
+            "Italy": 6,
+            "Bangladesh": 5,
+            "Tunisia": 5,
+            "Mexico": 5,
+            "Australia": 5,
+            "Ghana": 5,
+            "France": 5,
+            "Turkey": 4,
             "Thailand": 4,
-            "Pakistan": 4,
-            "Russia": 3,
-            "United Arab Emirates": 3,
+            "United Arab Emirates": 4,
+            "Poland": 3,
             "Uzbekistan": 3,
             "Indonesia": 3,
-            "France": 3,
+            "Nigeria": 3,
             "Algeria": 3,
             "Egypt": 2,
-            "Taiwan": 2,
-            "Belgium": 2,
-            "Nigeria": 2,
             "Jordan": 2,
             "Romania": 2,
             "Czech Republic": 1,
             "Morocco": 1,
-            "Turkey": 1,
-            "Ghana": 1,
-            "Mexico": 1,
+            "Mongolia": 1,
+            "Macau": 1,
+            "Brazil": 1,
+            "Kazakhstan": 1,
+            "Myanmar (formerly Burma)": 1,
             "Philippines": 1,
             "Singapore": 1,
+            "Eswatini (formerly Swaziland)": 1,
+            "Sweden": 1,
+            "Bosnia & Herzegovina": 1,
+            "Croatia": 1,
             "New Zealand": 1,
+            "Portugal": 1,
             "Nepal": 1,
             "Papua New Guinea": 1,
-            "Portugal": 1,
+            "Azerbaijan": 1,
             "United Kingdom": 1
         }
     },

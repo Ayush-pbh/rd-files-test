@@ -27,27 +27,45 @@
             "2018": 0.0,
             "2019": 0.0,
             "2020": 0.0,
-            "2021": 0.0,
-            "2022": 0.9597,
+            "2021": 1.0504,
+            "2022": 2.8791,
             "2023": 0.0
         },
-        "average_rate": 0.0996
+        "average_rate": 0.3985
     },
     "domainwise_data": {
         "country": "Zambia",
-        "total_retractions": 1,
+        "total_retractions": 4,
         "years": {
             "2022": {
-                "total": 1,
+                "total": 3,
                 "marks": {
                     "alterations": 0,
                     "research": 1,
-                    "researcher_integrity": 0,
+                    "researcher_integrity": 2,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
+                    "PHY": 3,
+                    "": 3,
+                    "ENV": 2,
                     "HSC": 2,
+                    "BLS": 1
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 4,
+                    "PHY": 1,
                     "": 1
                 }
             }
@@ -55,20 +73,33 @@
     },
     "yearly_retractions": {
         "country": "Zambia",
-        "total_retractions": 1,
+        "total_retractions": 4,
         "years": {
             "2022": {
-                "total": 1,
+                "total": 3,
                 "marks": {
                     "alterations": 0,
                     "research": 1,
-                    "researcher_integrity": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
+            "India": 3,
+            "South Korea": 3,
+            "China": 1,
             "Algeria": 1,
             "Angola": 1,
             "Benin": 1,
@@ -95,7 +126,9 @@
             "Togo": 1,
             "Uganda": 1,
             "United Kingdom": 1,
-            "Zimbabwe": 1
+            "Zimbabwe": 1,
+            "Saudi Arabia": 1,
+            "Tunisia": 1
         }
     },
     "country_flag": "/country_flags/Zambia.svg"

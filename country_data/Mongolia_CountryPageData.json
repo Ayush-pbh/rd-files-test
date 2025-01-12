@@ -27,28 +27,61 @@
             "2018": 0.0,
             "2019": 0.0,
             "2020": 2.924,
-            "2021": 1.1919,
-            "2022": 0.0,
-            "2023": 0.0
+            "2021": 2.3838,
+            "2022": 2.3585,
+            "2023": 1.1025
         },
-        "average_rate": 0.5863
+        "average_rate": 1.0553
     },
     "domainwise_data": {
         "country": "Mongolia",
-        "total_retractions": 5,
+        "total_retractions": 9,
         "years": {
-            "2021": {
+            "2023": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
                     "B/T": 2,
+                    "ENV": 1,
                     "": 1
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 3,
+                    "": 2,
+                    "HSC": 1,
+                    "PHY": 1,
+                    "SOC": 1
+                }
+            },
+            "2021": {
+                "total": 2,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 4,
+                    "": 2,
+                    "HUM": 1
                 }
             },
             "2020": {
@@ -56,8 +89,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -84,8 +117,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -97,15 +130,35 @@
     },
     "yearly_retractions": {
         "country": "Mongolia",
-        "total_retractions": 5,
+        "total_retractions": 9,
         "years": {
-            "2021": {
+            "2023": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2021": {
+                "total": 2,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -114,8 +167,8 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 2,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -134,14 +187,20 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "China": 1
+            "China": 4,
+            "Taiwan": 2,
+            "Pakistan": 1,
+            "Vietnam": 1,
+            "India": 1,
+            "Indonesia": 1,
+            "United States": 1
         }
     },
     "country_flag": "/country_flags/Mongolia.svg"

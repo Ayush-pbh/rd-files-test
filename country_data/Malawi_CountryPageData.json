@@ -27,23 +27,37 @@
             "2018": 0.0,
             "2019": 0.0,
             "2020": 0.0,
-            "2021": 0.0,
+            "2021": 0.8547,
             "2022": 0.0,
             "2023": 0.0
         },
-        "average_rate": 0.1665
+        "average_rate": 0.2498
     },
     "domainwise_data": {
         "country": "Malawi",
-        "total_retractions": 2,
+        "total_retractions": 3,
         "years": {
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 2,
+                    "": 1
+                }
+            },
             "2015": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -70,15 +84,25 @@
     },
     "yearly_retractions": {
         "country": "Malawi",
-        "total_retractions": 2,
+        "total_retractions": 3,
         "years": {
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
             "2015": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -93,7 +117,12 @@
                 }
             }
         },
-        "collaborations": {}
+        "collaborations": {
+            "India": 1,
+            "Kuwait": 1,
+            "Norway": 1,
+            "Russia": 1
+        }
     },
     "country_flag": "/country_flags/Malawi.svg"
 }
