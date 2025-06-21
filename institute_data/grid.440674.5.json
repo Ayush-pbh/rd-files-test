@@ -1,52 +1,165 @@
-[
-  {
-    "_id": "6855d574b14f7811d233fa1f",
-    "Record ID": "63506",
-    "Title": "A combination of TEXTCNN model and Bayesian classifier for microblog sentiment analysis",
-    "Subject": [
-      "(B/T) Computer Science",
-      "(B/T) Technology",
-      "(SOC) Communications",
-      "(SOC) Linguistics",
-      "(SOC) Psychology"
+{
+  "institute": {
+    "_id": "6856ff51cf2c75a5cba30428",
+    "grid_id": "grid.440674.5",
+    "institute_name": "Chaohu University",
+    "country": "China",
+    "retracted_record_ids": [
+      "63506"
     ],
-    "Institution": [
-      "School of Computer Science and Artificial Intelligence, Chaohu University, Hefei, 238024, Anhui, China",
-      "School of Big Data and Artificial Intelligence, Anhui Xinhua University, Hefei, 230088, Anhui, China"
+    "pub_count": [
+      {
+        "year": 2024,
+        "count": 222
+      },
+      {
+        "year": 2023,
+        "count": 169
+      },
+      {
+        "year": 2022,
+        "count": 143
+      },
+      {
+        "year": 2025,
+        "count": 129
+      },
+      {
+        "year": 2021,
+        "count": 122
+      },
+      {
+        "year": 2020,
+        "count": 56
+      },
+      {
+        "year": 2019,
+        "count": 50
+      },
+      {
+        "year": 2013,
+        "count": 43
+      },
+      {
+        "year": 2018,
+        "count": 39
+      },
+      {
+        "year": 2012,
+        "count": 31
+      },
+      {
+        "year": 2017,
+        "count": 29
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2011,
+        "count": 21
+      },
+      {
+        "year": 2009,
+        "count": 17
+      },
+      {
+        "year": 2010,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2008,
+        "count": 6
+      },
+      {
+        "year": 2007,
+        "count": 5
+      },
+      {
+        "year": 2005,
+        "count": 4
+      },
+      {
+        "year": 2006,
+        "count": 3
+      },
+      {
+        "year": 2004,
+        "count": 1
+      }
     ],
-    "Journal": "Journal of Combinatorial Optimization",
-    "Publisher": "Springer - Nature Publishing Group",
-    "Country": [
-      "China"
-    ],
-    "Author": [
-      "Zhanfeng Wang",
-      "Lisha Yao",
-      "Xiaoyu Shao",
-      "Honghai Wang"
-    ],
-    "ArticleType": [
-      "Research Article"
-    ],
-    "RetractionDate": "3/25/2024 0:00",
-    "RetractionDOI": "10.1007/s10878-024-01129-7",
-    "RetractionPubMedID": "0.0",
-    "OriginalPaperDate": "5/11/2023 0:00",
-    "OriginalPaperDOI": "10.1007/s10878-023-01038-1",
-    "OriginalPaperPubMedID": "37200571.0",
-    "RetractionNature": "Retraction",
-    "Reason": [
-      "+Concerns/Issues about Referencing/Attributions",
-      "+Concerns/Issues with Peer Review",
-      "+Fake Peer Review",
-      "+Investigation by Journal/Publisher",
-      "+Objections by Author(s)",
-      "+Rogue Editor",
-      "+Unreliable Results and/or Conclusions"
-    ],
-    "Paywalled": "No",
-    "notice_year": 2024,
-    "year": 2023,
-    "mark": "integrity"
-  }
-]
+    "retraction_count": [
+      {
+        "year": 2023,
+        "count": 1,
+        "notice_count": 0
+      },
+      {
+        "year": 2024,
+        "count": 0,
+        "notice_count": 1
+      }
+    ]
+  },
+  "retractions": [
+    {
+      "_id": "6855d574b14f7811d233fa1f",
+      "Record ID": "63506",
+      "Title": "A combination of TEXTCNN model and Bayesian classifier for microblog sentiment analysis",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(SOC) Communications",
+        "(SOC) Linguistics",
+        "(SOC) Psychology"
+      ],
+      "Institution": [
+        "School of Computer Science and Artificial Intelligence, Chaohu University, Hefei, 238024, Anhui, China",
+        "School of Big Data and Artificial Intelligence, Anhui Xinhua University, Hefei, 230088, Anhui, China"
+      ],
+      "Journal": "Journal of Combinatorial Optimization",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Zhanfeng Wang",
+        "Lisha Yao",
+        "Xiaoyu Shao",
+        "Honghai Wang"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/25/2024 0:00",
+      "RetractionDOI": "10.1007/s10878-024-01129-7",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "5/11/2023 0:00",
+      "OriginalPaperDOI": "10.1007/s10878-023-01038-1",
+      "OriginalPaperPubMedID": "37200571.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "integrity"
+    }
+  ]
+}
