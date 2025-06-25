@@ -28,30 +28,76 @@
             "2019": 0.0,
             "2020": 7.9365,
             "2021": 0.0,
-            "2022": 87.3016,
-            "2023": 0.0
+            "2022": 119.0476,
+            "2023": 32.0
         },
-        "average_rate": 10.0251
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 0.0,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 0.0,
+            "2020": 0.0,
+            "2021": 8.2645,
+            "2022": 0.0,
+            "2023": 144.0
+        },
+        "average_rate": 16.7084
     },
     "domainwise_data": {
         "country": "Burundi",
-        "total_retractions": 12,
+        "total_retractions": 20,
         "years": {
-            "2022": {
-                "total": 11,
+            "2023": {
+                "total": 4,
                 "marks": {
-                    "alterations": 8,
-                    "research": 3,
+                    "alterations": 0,
+                    "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "B/T": 13,
-                    "": 11,
-                    "PHY": 7,
+                    "PHY": 13,
+                    "": 4,
+                    "ENV": 3,
+                    "B/T": 1
+                }
+            },
+            "2022": {
+                "total": 15,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 13
+                },
+                "domain": {
+                    "PHY": 15,
+                    "": 15,
+                    "B/T": 14,
+                    "ENV": 10,
                     "SOC": 5,
-                    "ENV": 4,
                     "BLS": 2
                 }
             },
@@ -61,8 +107,58 @@
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
-                    "system": 0
+                    "supplemental": 0,
+                    "system": 1
+                },
+                "domain": {
+                    "B/T": 2,
+                    "": 1
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                },
+                "domain": {
+                    "B/T": 1,
+                    "BLS": 1,
+                    "ENV": 1,
+                    "": 1
+                }
+            },
+            "2023": {
+                "total": 18,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 12
+                },
+                "domain": {
+                    "PHY": 28,
+                    "": 18,
+                    "B/T": 14,
+                    "ENV": 12,
+                    "SOC": 5,
+                    "BLS": 1
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
                 },
                 "domain": {
                     "B/T": 2,
@@ -73,16 +169,26 @@
     },
     "yearly_retractions": {
         "country": "Burundi",
-        "total_retractions": 12,
+        "total_retractions": 20,
         "years": {
-            "2022": {
-                "total": 11,
+            "2023": {
+                "total": 4,
                 "marks": {
-                    "alterations": 8,
-                    "research": 3,
-                    "researcher_integrity": 0,
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 4,
                     "supplemental": 0,
                     "system": 0
+                }
+            },
+            "2022": {
+                "total": 15,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 2,
+                    "supplemental": 0,
+                    "system": 13
                 }
             },
             "2020": {
@@ -90,14 +196,51 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
-                    "system": 0
+                    "supplemental": 0,
+                    "system": 1
+                }
+            },
+            "2023": {
+                "total": 18,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 6,
+                    "supplemental": 0,
+                    "system": 12
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
                 }
             }
         },
         "collaborations": {
-            "China": 12,
+            "China": 20,
+            "Malaysia": 1,
+            "Pakistan": 1
+        },
+        "notice_collaborations": {
+            "China": 20,
             "Pakistan": 1,
             "Malaysia": 1
         }

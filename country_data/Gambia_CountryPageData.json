@@ -31,6 +31,36 @@
             "2022": 3.3223,
             "2023": 0.0
         },
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 0.0,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 0.0,
+            "2020": 0.0,
+            "2021": 0.0,
+            "2022": 6.6445,
+            "2023": 0.0
+        },
         "average_rate": 2.6582
     },
     "domainwise_data": {
@@ -54,11 +84,11 @@
             "2021": {
                 "total": 2,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 1
                 },
                 "domain": {
                     "BLS": 2,
@@ -72,9 +102,9 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 5,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 5
                 },
                 "domain": {
                     "BLS": 7,
@@ -87,12 +117,45 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 2,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 2
+                },
+                "domain": {
+                    "BLS": 3,
+                    "": 2,
+                    "ENV": 1
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 8,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 8
+                },
+                "domain": {
+                    "BLS": 12,
+                    "": 8,
+                    "ENV": 4,
+                    "HSC": 2
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "BLS": 3,
+                    "HSC": 2,
                     "": 2,
                     "ENV": 1
                 }
@@ -108,7 +171,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 1,
-                    "researcher_integrity": 0,
+                    "integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -116,11 +179,11 @@
             "2021": {
                 "total": 2,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "integrity": 1,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 1
                 }
             },
             "2020": {
@@ -128,9 +191,9 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 5,
+                    "integrity": 0,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 5
                 }
             },
             "2019": {
@@ -138,7 +201,29 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 2,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 2
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 8,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 8
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -176,6 +261,39 @@
             "Zimbabwe": 1,
             "Australia": 1,
             "China": 1
+        },
+        "notice_collaborations": {
+            "Pakistan": 9,
+            "Saudi Arabia": 2,
+            "China": 1,
+            "Algeria": 1,
+            "Angola": 1,
+            "Benin": 1,
+            "Burkina Faso": 1,
+            "Cameroon": 1,
+            "Canada": 1,
+            "Democratic Republic of the Congo": 1,
+            "Ethiopia": 1,
+            "France": 1,
+            "Gabon": 1,
+            "Germany": 1,
+            "Ghana": 1,
+            "Kenya": 1,
+            "Macau": 1,
+            "Madagascar": 1,
+            "Mali": 1,
+            "Morocco": 1,
+            "Mozambique": 1,
+            "Namibia": 1,
+            "Niger": 1,
+            "Senegal": 1,
+            "South Africa": 1,
+            "Togo": 1,
+            "Uganda": 1,
+            "United Kingdom": 1,
+            "Zambia": 1,
+            "Zimbabwe": 1,
+            "Australia": 1
         }
     },
     "country_flag": "/country_flags/Gambia.svg"

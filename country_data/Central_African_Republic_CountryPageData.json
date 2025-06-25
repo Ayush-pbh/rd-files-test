@@ -31,6 +31,36 @@
             "2022": 0.0,
             "2023": 0.0
         },
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 14.2857,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 18.5185,
+            "2020": 0.0,
+            "2021": 0.0,
+            "2022": 0.0,
+            "2023": 0.0
+        },
         "average_rate": 1.8433
     },
     "domainwise_data": {
@@ -41,7 +71,7 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 1,
+                    "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
@@ -65,6 +95,36 @@
                     "": 1
                 }
             }
+        },
+        "notice_years": {
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 3,
+                    "": 1
+                }
+            },
+            "2016": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 3,
+                    "": 1
+                }
+            }
         }
     },
     "yearly_retractions": {
@@ -75,13 +135,35 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 1,
-                    "researcher_integrity": 0,
+                    "research": 0,
+                    "integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 }
             },
             "2014": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2016": {
                 "total": 1,
                 "marks": {
                     "alterations": 1,
@@ -93,6 +175,12 @@
             }
         },
         "collaborations": {
+            "Republic of the Congo (Congo-Brazzaville)": 1,
+            "South Africa": 1,
+            "United States": 1,
+            "Senegal": 1
+        },
+        "notice_collaborations": {
             "Republic of the Congo (Congo-Brazzaville)": 1,
             "South Africa": 1,
             "United States": 1,

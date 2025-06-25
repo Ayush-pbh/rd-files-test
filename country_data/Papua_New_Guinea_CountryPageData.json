@@ -27,29 +27,59 @@
             "2018": 0.0,
             "2019": 4.4248,
             "2020": 4.5662,
-            "2021": 11.4943,
+            "2021": 15.3257,
             "2022": 0.0,
             "2023": 0.0
         },
-        "average_rate": 1.2127
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 0.0,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 0.0,
+            "2020": 0.0,
+            "2021": 0.0,
+            "2022": 7.5758,
+            "2023": 15.748
+        },
+        "average_rate": 1.4553
     },
     "domainwise_data": {
         "country": "Papua New Guinea",
-        "total_retractions": 5,
+        "total_retractions": 6,
         "years": {
             "2021": {
-                "total": 3,
+                "total": 4,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
-                    "supplemental": 2,
-                    "system": 0
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 2
                 },
                 "domain": {
-                    "B/T": 5,
-                    "": 3,
-                    "SOC": 2,
+                    "B/T": 7,
+                    "SOC": 4,
+                    "": 4,
                     "HSC": 1
                 }
             },
@@ -58,7 +88,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -73,7 +103,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -83,20 +113,55 @@
                     "": 1
                 }
             }
+        },
+        "notice_years": {
+            "2023": {
+                "total": 4,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 2
+                },
+                "domain": {
+                    "B/T": 7,
+                    "SOC": 4,
+                    "": 4,
+                    "HSC": 1
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "": 2,
+                    "BLS": 2,
+                    "B/T": 1,
+                    "PHY": 1,
+                    "HSC": 1
+                }
+            }
         }
     },
     "yearly_retractions": {
         "country": "Papua New Guinea",
-        "total_retractions": 5,
+        "total_retractions": 6,
         "years": {
             "2021": {
-                "total": 3,
+                "total": 4,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
-                    "supplemental": 2,
-                    "system": 0
+                    "integrity": 2,
+                    "supplemental": 0,
+                    "system": 2
                 }
             },
             "2020": {
@@ -104,7 +169,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "integrity": 1,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -114,18 +179,54 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2023": {
+                "total": 4,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 2
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
                     "supplemental": 0,
                     "system": 0
                 }
             }
         },
         "collaborations": {
-            "China": 3,
+            "China": 4,
+            "Spain": 2,
             "India": 2,
             "United States": 1,
             "South Korea": 1,
-            "Spain": 1,
+            "United Kingdom": 1,
+            "Australia": 1,
+            "France": 1,
+            "Saudi Arabia": 1,
+            "Vietnam": 1,
+            "Brazil": 1,
+            "Portugal": 1
+        },
+        "notice_collaborations": {
+            "China": 4,
+            "Spain": 2,
+            "India": 2,
+            "United States": 1,
+            "South Korea": 1,
             "United Kingdom": 1,
             "Australia": 1,
             "France": 1,

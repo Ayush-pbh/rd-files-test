@@ -27,6 +27,32 @@
             "2022": 0.0,
             "2023": 0.0
         },
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2002": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 0.0,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 0.0,
+            "2020": 0.0,
+            "2021": 0.0,
+            "2022": 90.9091,
+            "2023": 0.0
+        },
         "average_rate": 7.4074
     },
     "domainwise_data": {
@@ -38,7 +64,23 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 1,
+                    "": 1
+                }
+            }
+        },
+        "notice_years": {
+            "2022": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -58,6 +100,18 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
+                    "integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2022": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
                     "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
@@ -65,6 +119,10 @@
             }
         },
         "collaborations": {
+            "Italy": 1,
+            "United Kingdom": 1
+        },
+        "notice_collaborations": {
             "Italy": 1,
             "United Kingdom": 1
         }

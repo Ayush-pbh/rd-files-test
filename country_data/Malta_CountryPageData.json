@@ -31,6 +31,36 @@
             "2022": 1.5516,
             "2023": 0.0
         },
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 1.4728,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 1.1614,
+            "2020": 2.9499,
+            "2021": 81.8103,
+            "2022": 2.3274,
+            "2023": 0.0
+        },
         "average_rate": 8.3611
     },
     "domainwise_data": {
@@ -42,9 +72,9 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 1,
-                    "system": 0
+                    "system": 1
                 },
                 "domain": {
                     "HSC": 2,
@@ -54,9 +84,9 @@
             "2021": {
                 "total": 4,
                 "marks": {
-                    "alterations": 2,
+                    "alterations": 1,
                     "research": 1,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -73,8 +103,8 @@
                     "alterations": 0,
                     "research": 1,
                     "researcher_integrity": 0,
-                    "supplemental": 26,
-                    "system": 13
+                    "supplemental": 25,
+                    "system": 14
                 },
                 "domain": {
                     "HSC": 52,
@@ -82,8 +112,8 @@
                     "SOC": 12,
                     "HUM": 5,
                     "B/T": 3,
-                    "PHY": 1,
-                    "ENV": 1
+                    "ENV": 1,
+                    "PHY": 1
                 }
             },
             "2019": {
@@ -98,9 +128,9 @@
                 "domain": {
                     "": 6,
                     "HSC": 5,
-                    "BLS": 3,
                     "HUM": 3,
                     "PHY": 3,
+                    "BLS": 3,
                     "SOC": 1,
                     "B/T": 1
                 }
@@ -112,7 +142,7 @@
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 46
+                    "system": 45
                 },
                 "domain": {
                     "": 47,
@@ -122,6 +152,102 @@
                     "HSC": 4,
                     "BLS": 4,
                     "SOC": 2
+                }
+            },
+            "2016": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 1,
+                    "ENV": 1,
+                    "PHY": 1,
+                    "": 1
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 1,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 1,
+                    "": 1
+                }
+            },
+            "2022": {
+                "total": 3,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 3
+                },
+                "domain": {
+                    "HSC": 5,
+                    "": 3,
+                    "BLS": 1
+                }
+            },
+            "2021": {
+                "total": 94,
+                "marks": {
+                    "alterations": 1,
+                    "research": 2,
+                    "researcher_integrity": 0,
+                    "supplemental": 24,
+                    "system": 62
+                },
+                "domain": {
+                    "": 94,
+                    "HSC": 58,
+                    "HUM": 33,
+                    "B/T": 19,
+                    "SOC": 17,
+                    "PHY": 14,
+                    "BLS": 10,
+                    "ENV": 1
+                }
+            },
+            "2020": {
+                "total": 3,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 1,
+                    "system": 1
+                },
+                "domain": {
+                    "": 3,
+                    "HSC": 2,
+                    "HUM": 2
+                }
+            },
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "HUM": 1,
+                    "": 1
                 }
             },
             "2016": {
@@ -151,17 +277,17 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "integrity": 0,
                     "supplemental": 1,
-                    "system": 0
+                    "system": 1
                 }
             },
             "2021": {
                 "total": 4,
                 "marks": {
-                    "alterations": 2,
+                    "alterations": 1,
                     "research": 1,
-                    "researcher_integrity": 1,
+                    "integrity": 2,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -171,9 +297,9 @@
                 "marks": {
                     "alterations": 0,
                     "research": 1,
-                    "researcher_integrity": 0,
-                    "supplemental": 26,
-                    "system": 13
+                    "integrity": 0,
+                    "supplemental": 25,
+                    "system": 14
                 }
             },
             "2019": {
@@ -181,7 +307,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
+                    "integrity": 0,
                     "supplemental": 0,
                     "system": 6
                 }
@@ -191,9 +317,71 @@
                 "marks": {
                     "alterations": 1,
                     "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 45
+                }
+            },
+            "2016": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 1,
+                    "system": 0
+                }
+            },
+            "2022": {
+                "total": 3,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 46
+                    "system": 3
+                }
+            },
+            "2021": {
+                "total": 94,
+                "marks": {
+                    "alterations": 1,
+                    "research": 2,
+                    "researcher_integrity": 2,
+                    "supplemental": 24,
+                    "system": 62
+                }
+            },
+            "2020": {
+                "total": 3,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 1,
+                    "system": 1
+                }
+            },
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
                 }
             },
             "2016": {
@@ -216,6 +404,27 @@
             "Greece": 2,
             "Netherlands": 2,
             "Switzerland": 2,
+            "Australia": 1,
+            "Austria": 1,
+            "Italy": 1,
+            "Norway": 1,
+            "Portugal": 1,
+            "Spain": 1,
+            "Brazil": 1,
+            "Canada": 1,
+            "Israel": 1,
+            "United Kingdom": 1,
+            "United States": 1
+        },
+        "notice_collaborations": {
+            "Bahrain": 2,
+            "Jordan": 2,
+            "Saudi Arabia": 2,
+            "Germany": 2,
+            "Greece": 2,
+            "Netherlands": 2,
+            "Switzerland": 2,
+            "Pakistan": 2,
             "Australia": 1,
             "Austria": 1,
             "Italy": 1,

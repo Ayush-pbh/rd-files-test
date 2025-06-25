@@ -28,41 +28,73 @@
             "2019": 0.0,
             "2020": 0.5741,
             "2021": 1.9704,
-            "2022": 0.5123,
+            "2022": 1.0246,
             "2023": 0.0
         },
-        "average_rate": 0.4267
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 1.0695,
+            "2016": 0.0,
+            "2017": 0.7924,
+            "2018": 0.0,
+            "2019": 0.6406,
+            "2020": 0.5741,
+            "2021": 0.4926,
+            "2022": 1.5369,
+            "2023": 0.5
+        },
+        "average_rate": 0.4741
     },
     "domainwise_data": {
         "country": "Bosnia & Herzegovina",
-        "total_retractions": 9,
+        "total_retractions": 10,
         "years": {
             "2022": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
-                    "system": 0
+                    "supplemental": 0,
+                    "system": 1
                 },
                 "domain": {
-                    "HSC": 1,
-                    "": 1
+                    "BLS": 4,
+                    "ENV": 2,
+                    "": 2,
+                    "HSC": 1
                 }
             },
             "2021": {
                 "total": 4,
                 "marks": {
-                    "alterations": 3,
+                    "alterations": 2,
                     "research": 0,
-                    "researcher_integrity": 1,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
-                    "BLS": 4,
                     "": 4,
+                    "BLS": 4,
                     "HSC": 3,
                     "B/T": 1,
                     "ENV": 1,
@@ -114,28 +146,220 @@
                     "": 1
                 }
             }
-        }
-    },
-    "yearly_retractions": {
-        "country": "Bosnia & Herzegovina",
-        "total_retractions": 9,
-        "years": {
-            "2022": {
+        },
+        "notice_years": {
+            "2024": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
+                    "system": 1
+                },
+                "domain": {
+                    "BLS": 4,
+                    "ENV": 2,
+                    "": 1
+                }
+            },
+            "2023": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
                     "system": 0
+                },
+                "domain": {
+                    "B/T": 1,
+                    "ENV": 1,
+                    "PHY": 1,
+                    "": 1
+                }
+            },
+            "2022": {
+                "total": 3,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 4,
+                    "": 3,
+                    "HSC": 1
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 3,
+                    "": 1
+                }
+            },
+            "2020": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 2,
+                    "PHY": 1,
+                    "": 1
+                }
+            },
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 1,
+                    "PHY": 1,
+                    "": 1
+                }
+            },
+            "2017": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "HUM": 1,
+                    "": 1
+                }
+            },
+            "2015": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 5,
+                    "": 1
+                }
+            }
+        }
+    },
+    "yearly_retractions": {
+        "country": "Bosnia & Herzegovina",
+        "total_retractions": 10,
+        "years": {
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
                 }
             },
             "2021": {
                 "total": 4,
                 "marks": {
-                    "alterations": 3,
+                    "alterations": 2,
+                    "research": 0,
+                    "integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2020": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2016": {
+                "total": 2,
+                "marks": {
+                    "alterations": 2,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2010": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                }
+            },
+            "2023": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2022": {
+                "total": 3,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -150,17 +374,27 @@
                     "system": 0
                 }
             },
-            "2016": {
-                "total": 2,
+            "2019": {
+                "total": 1,
                 "marks": {
-                    "alterations": 2,
+                    "alterations": 1,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 }
             },
-            "2010": {
+            "2017": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2015": {
                 "total": 1,
                 "marks": {
                     "alterations": 1,
@@ -173,14 +407,28 @@
         },
         "collaborations": {
             "Serbia": 3,
+            "Pakistan": 2,
+            "Saudi Arabia": 2,
             "China": 2,
             "Malaysia": 2,
+            "Egypt": 1,
             "Germany": 1,
             "Qatar": 1,
             "Russia": 1,
             "Vietnam": 1,
-            "Pakistan": 1,
-            "Saudi Arabia": 1,
+            "India": 1
+        },
+        "notice_collaborations": {
+            "Serbia": 3,
+            "Pakistan": 2,
+            "Saudi Arabia": 2,
+            "China": 2,
+            "Malaysia": 2,
+            "Egypt": 1,
+            "Russia": 1,
+            "Vietnam": 1,
+            "Germany": 1,
+            "Qatar": 1,
             "India": 1
         }
     },

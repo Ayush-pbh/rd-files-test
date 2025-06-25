@@ -28,23 +28,70 @@
             "2019": 7.1429,
             "2020": 0.0,
             "2021": 0.0,
-            "2022": 1.4327,
+            "2022": 2.8653,
             "2023": 1.3928
         },
-        "average_rate": 1.847
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 0.0,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 7.1429,
+            "2020": 4.3384,
+            "2021": 0.0,
+            "2022": 2.8653,
+            "2023": 1.3928
+        },
+        "average_rate": 6.3325
     },
     "domainwise_data": {
         "country": "Democratic Republic of the Congo",
-        "total_retractions": 7,
+        "total_retractions": 24,
         "years": {
+            "2024": {
+                "total": 16,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 16,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 37,
+                    "": 16,
+                    "B/T": 2,
+                    "SOC": 2,
+                    "BLS": 1
+                }
+            },
             "2023": {
                 "total": 1,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 1
                 },
                 "domain": {
                     "B/T": 3,
@@ -52,17 +99,18 @@
                 }
             },
             "2022": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 1,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 1
                 },
                 "domain": {
                     "HSC": 2,
-                    "": 1
+                    "": 2,
+                    "PHY": 1
                 }
             },
             "2019": {
@@ -85,7 +133,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 2,
+                    "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
@@ -110,28 +158,212 @@
                     "": 1
                 }
             }
-        }
-    },
-    "yearly_retractions": {
-        "country": "Democratic Republic of the Congo",
-        "total_retractions": 7,
-        "years": {
-            "2023": {
+        },
+        "notice_years": {
+            "2025": {
+                "total": 16,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 16,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 37,
+                    "": 16,
+                    "B/T": 2,
+                    "SOC": 2,
+                    "BLS": 1
+                }
+            },
+            "2024": {
                 "total": 1,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 0
+                    "system": 1
+                },
+                "domain": {
+                    "B/T": 3,
+                    "": 1
+                }
+            },
+            "2023": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                },
+                "domain": {
+                    "PHY": 1,
+                    "": 1
                 }
             },
             "2022": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 1,
                     "researcher_integrity": 0,
+                    "supplemental": 1,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 4,
+                    "": 2,
+                    "BLS": 1
+                }
+            },
+            "2020": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 6,
+                    "HSC": 2,
+                    "": 2
+                }
+            },
+            "2019": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 2,
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 4,
+                    "BLS": 2,
+                    "": 2
+                }
+            }
+        }
+    },
+    "yearly_retractions": {
+        "country": "Democratic Republic of the Congo",
+        "total_retractions": 24,
+        "years": {
+            "2024": {
+                "total": 16,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 16,
+                    "system": 0
+                }
+            },
+            "2023": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                }
+            },
+            "2019": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 2,
+                    "system": 0
+                }
+            },
+            "2018": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2016": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 1,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2025": {
+                "total": 16,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 16,
+                    "system": 0
+                }
+            },
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                }
+            },
+            "2023": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 1
+                }
+            },
+            "2022": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 1,
+                    "system": 0
+                }
+            },
+            "2020": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
                     "supplemental": 0,
                     "system": 0
                 }
@@ -145,49 +377,33 @@
                     "supplemental": 2,
                     "system": 0
                 }
-            },
-            "2018": {
-                "total": 2,
-                "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 2,
-                    "supplemental": 0,
-                    "system": 0
-                }
-            },
-            "2016": {
-                "total": 1,
-                "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
-                    "system": 0
-                }
             }
         },
         "collaborations": {
+            "India": 16,
+            "Cameroon": 7,
+            "Kenya": 6,
+            "Zambia": 6,
             "France": 6,
+            "Libya": 5,
             "United States": 4,
+            "Pakistan": 2,
             "Senegal": 2,
             "Belgium": 2,
             "Luxembourg": 2,
+            "Botswana": 1,
             "China": 1,
-            "Pakistan": 1,
             "Saudi Arabia": 1,
             "Algeria": 1,
             "Angola": 1,
             "Benin": 1,
             "Burkina Faso": 1,
-            "Cameroon": 1,
             "Canada": 1,
             "Ethiopia": 1,
             "Gabon": 1,
             "Gambia": 1,
             "Germany": 1,
             "Ghana": 1,
-            "Kenya": 1,
             "Macau": 1,
             "Madagascar": 1,
             "Mali": 1,
@@ -199,7 +415,44 @@
             "Togo": 1,
             "Uganda": 1,
             "United Kingdom": 1,
-            "Zambia": 1,
+            "Zimbabwe": 1
+        },
+        "notice_collaborations": {
+            "India": 16,
+            "Cameroon": 7,
+            "Kenya": 6,
+            "Zambia": 6,
+            "France": 6,
+            "Libya": 5,
+            "United States": 4,
+            "Pakistan": 2,
+            "Senegal": 2,
+            "Belgium": 2,
+            "Luxembourg": 2,
+            "Botswana": 1,
+            "China": 1,
+            "Saudi Arabia": 1,
+            "Algeria": 1,
+            "Angola": 1,
+            "Benin": 1,
+            "Burkina Faso": 1,
+            "Canada": 1,
+            "Ethiopia": 1,
+            "Gabon": 1,
+            "Gambia": 1,
+            "Germany": 1,
+            "Ghana": 1,
+            "Macau": 1,
+            "Madagascar": 1,
+            "Mali": 1,
+            "Morocco": 1,
+            "Mozambique": 1,
+            "Namibia": 1,
+            "Niger": 1,
+            "South Africa": 1,
+            "Togo": 1,
+            "Uganda": 1,
+            "United Kingdom": 1,
             "Zimbabwe": 1
         }
     },

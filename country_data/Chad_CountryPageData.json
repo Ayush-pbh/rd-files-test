@@ -26,17 +26,62 @@
             "2017": 0.0,
             "2018": 0.0,
             "2019": 14.7059,
-            "2020": 0.0,
+            "2020": 14.2857,
             "2021": 0.0,
             "2022": 8.7719,
             "2023": 0.0
         },
-        "average_rate": 1.9589
+        "notice_yearly_rates": {
+            "1996": 0.0,
+            "1997": 0.0,
+            "1998": 0.0,
+            "1999": 0.0,
+            "2000": 0.0,
+            "2001": 0.0,
+            "2002": 0.0,
+            "2003": 0.0,
+            "2004": 0.0,
+            "2005": 0.0,
+            "2006": 0.0,
+            "2007": 0.0,
+            "2008": 0.0,
+            "2009": 0.0,
+            "2010": 0.0,
+            "2011": 0.0,
+            "2012": 0.0,
+            "2013": 0.0,
+            "2014": 0.0,
+            "2015": 0.0,
+            "2016": 0.0,
+            "2017": 0.0,
+            "2018": 0.0,
+            "2019": 0.0,
+            "2020": 0.0,
+            "2021": 0.0,
+            "2022": 8.7719,
+            "2023": 7.6923
+        },
+        "average_rate": 3.9177
     },
     "domainwise_data": {
         "country": "Chad",
-        "total_retractions": 2,
+        "total_retractions": 4,
         "years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 2,
+                    "PHY": 1,
+                    "": 1
+                }
+            },
             "2022": {
                 "total": 1,
                 "marks": {
@@ -49,6 +94,20 @@
                 "domain": {
                     "B/T": 1,
                     "PHY": 1,
+                    "": 1
+                }
+            },
+            "2020": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 4,
                     "": 1
                 }
             },
@@ -66,13 +125,111 @@
                     "": 1
                 }
             }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 6,
+                    "": 2,
+                    "PHY": 1
+                }
+            },
+            "2023": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "B/T": 1,
+                    "PHY": 1,
+                    "": 1
+                }
+            },
+            "2022": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 3,
+                    "": 1
+                }
+            }
         }
     },
     "yearly_retractions": {
         "country": "Chad",
-        "total_retractions": 2,
+        "total_retractions": 4,
         "years": {
+            "2024": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
             "2022": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2020": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2019": {
+                "total": 1,
+                "marks": {
+                    "alterations": 1,
+                    "research": 0,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            }
+        },
+        "notice_years": {
+            "2024": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2023": {
                 "total": 1,
                 "marks": {
                     "alterations": 1,
@@ -82,7 +239,7 @@
                     "system": 0
                 }
             },
-            "2019": {
+            "2022": {
                 "total": 1,
                 "marks": {
                     "alterations": 1,
@@ -93,7 +250,14 @@
                 }
             }
         },
-        "collaborations": {}
+        "collaborations": {
+            "Turkey": 1,
+            "China": 1
+        },
+        "notice_collaborations": {
+            "Turkey": 1,
+            "China": 1
+        }
     },
     "country_flag": "/country_flags/Chad.svg"
 }
