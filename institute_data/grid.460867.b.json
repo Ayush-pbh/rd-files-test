@@ -1,81 +1,446 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba303ee",
+    "_id": "685b3f25aa23308c0687786a",
     "grid_id": "grid.460867.b",
     "institute_name": "Dijlah University College",
     "country": "Iraq",
     "retracted_record_ids": [
+      "57045",
+      "52579",
+      "61904",
+      "56629",
+      "56565",
+      "46916",
+      "63510",
       "63540",
-      "63510"
-    ],
-    "pub_count": [
-      {
-        "year": 2022,
-        "count": 220
-      },
-      {
-        "year": 2023,
-        "count": 154
-      },
-      {
-        "year": 2024,
-        "count": 85
-      },
-      {
-        "year": 2021,
-        "count": 76
-      },
-      {
-        "year": 2025,
-        "count": 34
-      },
-      {
-        "year": 2020,
-        "count": 26
-      },
-      {
-        "year": 2019,
-        "count": 19
-      },
-      {
-        "year": 2017,
-        "count": 6
-      },
-      {
-        "year": 2018,
-        "count": 6
-      },
-      {
-        "year": 2016,
-        "count": 4
-      },
-      {
-        "year": 2012,
-        "count": 3
-      },
-      {
-        "year": 2014,
-        "count": 3
-      },
-      {
-        "year": 2015,
-        "count": 2
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2023,
-        "count": 2,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 2
-      }
+      "56555",
+      "46995",
+      "50691",
+      "61731",
+      "49018",
+      "52065",
+      "53420",
+      "46990"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d2341348",
+      "Record ID": "57045",
+      "Title": "Decision-level fusion scheme for nasopharyngeal carcinoma identification using machine learning techniques",
+      "Subject": [
+        "(B/T) Data Science",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Otorhinolaryngology"
+      ],
+      "Institution": [
+        "Biomedical Computing and Engineering Technologies (BIOCORE) Applied Research Group, Faculty of Information and Communication Technology, Universiti Teknikal Malaysia Melaka, Durian Tunggal, Malaysia",
+        "Planning and Follow Up Department, University Headquarter, University of Anbar, Anbar, Iraq",
+        "School of EEE, Sastra University, Thanjavur, India",
+        "Faculty of Computer Science and Information Technology, Universiti Tun Hussein Onn Malaysia, Parit Raja, Johor, Malaysia",
+        "Department of Otorinolaringologi, Hospital Pakar Sultanah Fatimah Muar, Muar, Johor, Malaysia",
+        "Dijlah University College, Baghdad, Iraq",
+        "Department of Biomedical Engineering, Jordan University of Science and Technology, Irbid, Jordan",
+        "Departamento de Telem\u00e1tica, Universidad del Cauca, Popay\u00e1n, Cauca, 190002, Colombia"
+      ],
+      "Journal": "Neural Computing and Applications",
+      "Publisher": "Springer",
+      "Country": [
+        "Colombia",
+        "India",
+        "Iraq",
+        "Jordan",
+        "Malaysia"
+      ],
+      "Author": [
+        "Mohd Khanapi Abd Ghani",
+        "Mazin Abed Mohammed",
+        "N Arunkumar",
+        "Salama A Mostafa",
+        "Dheyaa Ahmed Ibrahim",
+        "Mohamad Khir Abdullah",
+        "Mustafa Musa Jaber",
+        "Enas Abdulhay",
+        "Gustavo Ramirez-Gonzalez",
+        "M A Burhanuddin"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "4/22/2024 0:00",
+      "RetractionDOI": "10.1007/s00521-024-09807-7",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "11/19/2018 0:00",
+      "OriginalPaperDOI": "10.1007/s00521-018-3882-6",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2018,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d23424a3",
+      "Record ID": "52579",
+      "Title": "Identify Biomarkers and Design Effective Multi-Target Drugs in Ovarian Cancer: Hit Network-Target Sets Model Optimizing",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "Institution": [
+        "Salamat yar Behesht Dayan, Dayan Biotech Company, Tehran 14531, Iran",
+        "Department of Obstetrics and Gynecology, Medical College of Iran University, Tehran 14535, Iran",
+        "Department of Computer Science, Al-Turath University College Al Mansour, Baghdad 10011, Iraq",
+        "Medical Laboratory Techniques Department, AL-Mustaqbal University College, Hillah 51001, Iraq",
+        "Computer Techniques Engineering Department, Dijlah University College, Baghdad 00964, Iraq",
+        "Computer Techniques Engineering Department, Al-Farahidi University, Baghdad 10011, Iraq",
+        "Department of Forensic Medicine, School of Medicine, Iran University of Medical Sciences, Tehran 14535, Iran",
+        "Department of Infectious Disease, School of Medicine, Babol University of Medical Sciences, Babol 47414, Iran",
+        "Department of Medical Biochemistry, Faculty of Medicine, Cukurova University, Adana 01330, Turkey",
+        "Department of Animal Science, College of Agriculture and Natural Resources, University of Tehran, Karaj 1417643184, Iran",
+        "Biomedical Center for Systems Biology Science Munich, Ludwig-Maximilians-University, 80333 Munich, Germany",
+        "Department of Health, University of Calgary, Calgary, AB T2N 1N4, Canada"
+      ],
+      "Journal": "Biology",
+      "Publisher": "MDPI",
+      "Country": [
+        "Canada",
+        "Germany",
+        "Iran",
+        "Iraq",
+        "Turkey"
+      ],
+      "Author": [
+        "Amir Abbas Esmaeilzadeh",
+        "Mahdis Kashian",
+        "Hayder Mahmood Salman",
+        "Marwa Fadhil Alsaffar",
+        "Mustafa Musa Jaber",
+        "Siamak Soltani",
+        "Danial Amiri Manjili",
+        "Ahmet Ilhan",
+        "Abolfazl Bahrami",
+        "John W Kastelic"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "1/30/2024 0:00",
+      "RetractionDOI": "10.3390/biology13020086",
+      "RetractionPubMedID": "38392351.0",
+      "OriginalPaperDate": "12/19/2022 0:00",
+      "OriginalPaperDOI": "10.3390/biology11121851",
+      "OriginalPaperPubMedID": "36552360.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/4C4054C84A7AF908ADCFC78C311382",
+      "notice_year": 2024,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2340052",
+      "Record ID": "61904",
+      "Title": "Investigation of the Role of Leuconostoc mesenteroides subsp. cremoris in Periodontitis around Abutments of Fixed Prostheses",
+      "Subject": [
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Dentistry",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "Institution": [
+        "Department of Medical Laboratory Technique, Dijlah University College, Iraq",
+        "Department of Prosthodontics, College of Dentistry, University of Dijlah, Iraq",
+        "Dentistry Department, Dijlah University College, Iraq",
+        "Department of Mechanical Engineering, Mizan-Tepi University, Ethiopia"
+      ],
+      "Journal": "BioMed Research International",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "Iraq"
+      ],
+      "Author": [
+        "Saif Ali Mohammed Hussein",
+        "Rehab Aamer Kareem",
+        "Ali Maki Hamed Al-Dahbi",
+        "Mequanint Birhan"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/11/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9764690",
+      "RetractionPubMedID": "37860717.0",
+      "OriginalPaperDate": "5/20/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/8790096",
+      "OriginalPaperPubMedID": "35647195.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/E111E44042C7A28C6A87C30CA1F0D1",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d23414e8",
+      "Record ID": "56629",
+      "Title": "The Practices of Solid Waste Utility and Thriving Conditions of Logistics (a Case of Tepi Town): A Study to Treat the Healthy Environment",
+      "Subject": [
+        "(B/T) Business - General",
+        "(B/T) Urban Planning",
+        "(ENV) Environmental Sciences"
+      ],
+      "Institution": [
+        "Department of Civil Engineering, Mizan Tepi University, Tepi, Ethiopia",
+        "Department Medical Laboratory Technique, Dijlah University College, Baghdad, Iraq",
+        "Department of Mechanical Engineering, Mizan Tepi University, Tepi, Ethiopia",
+        "Al-Farahidi University, Communication Technical Engineering, Baghdad, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Department of Medical Laboratory Techniques, Al-Turath University College, Baghdad 10021, Iraq"
+      ],
+      "Journal": "Journal of Environmental and Public Health",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "Iraq"
+      ],
+      "Author": [
+        "Ngiste Amare",
+        "Ola Al-Bhadly",
+        "Mequanint Birhan",
+        "Sana Sulaiman Hamid",
+        "A. Abdullah. H. Mohamad"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/27/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9760232",
+      "RetractionPubMedID": "37811437.0",
+      "OriginalPaperDate": "7/9/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/8391616",
+      "OriginalPaperPubMedID": "35855815.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2341528",
+      "Record ID": "56565",
+      "Title": "Hyperspectral Image Analysis of Colon Tissue and Deep Learning for Characterization of Health care",
+      "Subject": [
+        "(B/T) Technology",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of Medical Laboratory Techniques, Al-maarif University College, Ramadi, Al-Anbar, Iraq",
+        "Al-Farahidi University, Communication Technical Engineering, Baghdad, Iraq",
+        "Department of Dental Industry, College of Medical Technology, Al-Kitab University, Kirkuk, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Department of Physics, Jayaraj Annapackiam College for Women Periyakulam, Theni, Tamil Nadu, India",
+        "Accounting and Financial Management School of Management Studies, University of Khartoum, Khartoum, Sudan"
+      ],
+      "Journal": "Journal of Environmental and Public Health",
+      "Publisher": "Hindawi",
+      "Country": [
+        "India",
+        "Iraq",
+        "Sudan"
+      ],
+      "Author": [
+        "Ammar Akram Abdulrazzaq",
+        "Sana Sulaiman Hamid",
+        "Asaad T Al-Douri",
+        "A A Hamad Mohamad",
+        "D Selvi",
+        "Abdelrahman Mohamed Ibrahim"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/27/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9763039",
+      "RetractionPubMedID": "37811452.0",
+      "OriginalPaperDate": "5/31/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/8670534",
+      "OriginalPaperPubMedID": "35685861.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2343ab5",
+      "Record ID": "46916",
+      "Title": "Early Detection of Autism Spectrum Disorders (ASD) with the Help of Data Mining Tools",
+      "Subject": [
+        "(B/T) Data Science",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Pediatrics"
+      ],
+      "Institution": [
+        "Department of Medical Laboratory Techniques, Al-Maarif University College, Al-Anbar, Iraq",
+        "Al-Farahidi University, Communication Technical Engineering, Baghdad, Iraq",
+        "Department of Dental Industry, College of Medical Technology, Al-Kitab University, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Accounting and Financial Management, School of Management Studies, University of Khartoum, Sudan"
+      ],
+      "Journal": "BioMed Research International",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Iraq",
+        "Sudan"
+      ],
+      "Author": [
+        "Ammar Akram Abdulrazzaq",
+        "Sana Sulaiman Hamid",
+        "Asaad T Al-Douri",
+        "A A Hamad Mohamad",
+        "Abdelrahman Mohamed Ibrahim"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/21/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9819043",
+      "RetractionPubMedID": "37388337.0",
+      "OriginalPaperDate": "5/23/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/1201129",
+      "OriginalPaperPubMedID": "35655478.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d233fa1b",
+      "Record ID": "63510",
+      "Title": "Analysis of modern circulation industry development level using industrial structure mechanism",
+      "Subject": [
+        "(B/T) Business - Economics",
+        "(B/T) Urban Planning"
+      ],
+      "Institution": [
+        "Computer Techniques Engineering Department, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Najaf, 10023, Iraq",
+        "Department of Computer Science, Al-Turath University College, Baghdad, Iraq",
+        "Medical Instrumentation Techniques Engineering Department, Al-Farahidi University, Baghdad, Iraq",
+        "Department of Computer Science, Dijlah University College, Baghdad, 10021, Iraq",
+        "Altoosi University College, Najaf, Iraq",
+        "Department of Computer Technical Engineering, College of Technical Engineering, The Islamic University, Najaf, Iraq",
+        "Medical Instrumentation Techniques Engineering Department, Al-Mustaqbal University College, Babylon, Iraq",
+        "Computer Technical Engineering, Mazaya University College, Nasiriyah, Dhi Qar, Iraq"
+      ],
+      "Journal": "Journal of Combinatorial Optimization",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "Iraq"
+      ],
+      "Author": [
+        "Mohammed Hasan Ali",
+        "Mustafa Musa Jaber",
+        "Sura Khalil Abd",
+        "Ali S Abosinnee",
+        "Z H Kareem",
+        "Hassan Falih Hamdan"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "4/9/2024 0:00",
+      "RetractionDOI": "10.1007/s10878-024-01162-6",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/30/2023 0:00",
+      "OriginalPaperDOI": "10.1007/s10878-022-00973-9",
+      "OriginalPaperPubMedID": "36741828.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "integrity"
+    },
     {
       "_id": "6855d574b14f7811d233f9fd",
       "Record ID": "63540",
@@ -138,61 +503,470 @@
       "mark": "integrity"
     },
     {
-      "_id": "6855d574b14f7811d233fa1b",
-      "Record ID": "63510",
-      "Title": "Analysis of modern circulation industry development level using industrial structure mechanism",
+      "_id": "6855d574b14f7811d2341532",
+      "Record ID": "56555",
+      "Title": "Perception of the Impact of Artificial Intelligence in the Decision-Making Processes of Public Healthcare Professionals",
       "Subject": [
-        "(B/T) Business - Economics",
-        "(B/T) Urban Planning"
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - General"
       ],
       "Institution": [
-        "Computer Techniques Engineering Department, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Najaf, 10023, Iraq",
-        "Department of Computer Science, Al-Turath University College, Baghdad, Iraq",
-        "Medical Instrumentation Techniques Engineering Department, Al-Farahidi University, Baghdad, Iraq",
-        "Department of Computer Science, Dijlah University College, Baghdad, 10021, Iraq",
-        "Altoosi University College, Najaf, Iraq",
-        "Department of Computer Technical Engineering, College of Technical Engineering, The Islamic University, Najaf, Iraq",
-        "Medical Instrumentation Techniques Engineering Department, Al-Mustaqbal University College, Babylon, Iraq",
-        "Computer Technical Engineering, Mazaya University College, Nasiriyah, Dhi Qar, Iraq"
+        "Department of Medical Laboratory Techniques, Al-maarif University College, Ramadi, Al-Anbar, Iraq",
+        "Department of Medical Instruments Engineering Techniques, Al-Farahidi University, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "Department of Statistics, Injibara University, Injibara, Ethiopia"
       ],
-      "Journal": "Journal of Combinatorial Optimization",
-      "Publisher": "Springer - Nature Publishing Group",
+      "Journal": "Journal of Environmental and Public Health",
+      "Publisher": "Hindawi",
       "Country": [
+        "Ethiopia",
         "Iraq"
       ],
       "Author": [
-        "Mohammed Hasan Ali",
+        "Yousif Saleh Ibrahim",
+        "Waleed Khalid Al-Azzawi",
+        "A. Abdullah Hamad Mohamad",
+        "Ahmed Nouri Hassan",
+        "Zelalem Meraf"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/27/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9873901",
+      "RetractionPubMedID": "37811466.0",
+      "OriginalPaperDate": "7/13/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/8028275",
+      "OriginalPaperPubMedID": "35874877.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2343a66",
+      "Record ID": "46995",
+      "Title": "Synthesis and Use of Environmentally Friendly Superabsorbent Smart Polymer to Improve the Properties of the Gypsum Soil",
+      "Subject": [
+        "(ENV) Ecology",
+        "(ENV) Environmental Sciences",
+        "(PHY) Materials Science"
+      ],
+      "Institution": [
+        "Chemistry Department, College of Science, University of Sfax, Tunisia",
+        "Department of Medical Instruments Engineering Techniques, Al-Farahidi University, Baghdad 10021, Iraq",
+        "Department of Medical Laboratory Techniques, Al-Turath University College, Baghdad 10021, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Department of Statistics, Injibara University, Ethiopia"
+      ],
+      "Journal": "Adsorption Science & Technology",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "Iraq",
+        "Tunisia"
+      ],
+      "Author": [
+        "Foud Nihad Abed",
+        "Mustafa Mahdi Abdulridha",
+        "A A Hamad Mohamad",
+        "Zelalem Meraf",
+        "Mohamed Abdelhedi"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/21/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9798319",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "7/11/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/3320135",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2342bff",
+      "Record ID": "50691",
+      "Title": "Assessing Deep Learning Techniques for the Recognition of Tropical Disease in Images from Parasitological Exams",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of Medical Laboratory Technologies, Al-Maarif University College, Ramadi, Iraq",
+        "Department of Dental Industry, College of Medical Technology, Al-Kitab University, Alton Kopru, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "Department of Medical Laboratory Techniques, Al-Turath University College, Baghdad 10021, Iraq",
+        "Department of Medical Instruments Engineering Techniques, Al-Farahidi University, Baghdad 10021, Iraq",
+        "Department of Statistics, Injibara University, Injibara, Ethiopia"
+      ],
+      "Journal": "Bioinorganic Chemistry and Applications",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "Iraq"
+      ],
+      "Author": [
+        "Ammar Akram Abdulrazzaq",
+        "Asaad T Al-Douri",
+        "Abdulsattar Abdullah Hamad",
         "Mustafa Musa Jaber",
-        "Sura Khalil Abd",
-        "Ali S Abosinnee",
-        "Z H Kareem",
-        "Hassan Falih Hamdan"
+        "Zelalem Meraf"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/23/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9836730",
+      "RetractionPubMedID": "37664223.0",
+      "OriginalPaperDate": "5/9/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/2682287",
+      "OriginalPaperPubMedID": "35586785.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/ADF1C71D4460BD3AAC771EBABBAA24",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d23400ff",
+      "Record ID": "61731",
+      "Title": "Automatic Segmentation of Calcification Areas in Digital Breast Images",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of Medical Laboratory Technologies, Al-Maarif University College, Iraq",
+        "College of Technical Engineering, Al-Farahidi University, Baghdad, Iraq",
+        "Department of Dental Industry, College of Medical Technology, Al-Kitab University, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Accounting and Financial Management, School of Management Studies, University of Khartoum, Sudan"
+      ],
+      "Journal": "BioMed Research International",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Iraq",
+        "Sudan"
+      ],
+      "Author": [
+        "Ammar Akram Abdulrazzaq",
+        "Yasser Muhammed",
+        "Asaad T Al-Douri",
+        "A A Hamad Mohamad",
+        "Abdelrahman Mohamed Ibrahim"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "10/11/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9832038",
+      "RetractionPubMedID": "37860719.0",
+      "OriginalPaperDate": "6/3/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/2525433",
+      "OriginalPaperPubMedID": "35692589.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2343285",
+      "Record ID": "49018",
+      "Title": "Biocomposite\u2019s Multiple Uses for a New Approach in the Diagnosis of Parkinson\u2019s Disease Using a Machine Learning Algorithm",
+      "Subject": [
+        "(B/T) Data Science",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Neurology"
+      ],
+      "Institution": [
+        "Department of Mathematics, Faculty of Science and Technology, Irbid National University, PO Box: 2600 Irbid, Jordan",
+        "Department of Medical Instruments Engineering Techniques, Al-Farahidi University, Baghdad 10021, Iraq",
+        "Department of Medical Laboratory Techniques, Al-Turath University College, Baghdad 10021, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Accounting and Financial Management, School of Management Studies, University of Khartoum, Sudan"
+      ],
+      "Journal": "Adsorption Science & Technology",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Iraq",
+        "Jordan",
+        "Sudan"
+      ],
+      "Author": [
+        "Abdallah Al-Husban",
+        "Mustafa Mahdi Abdulridha",
+        "AA Hamad Mohamad",
+        "Abdelrahman Mohamed Ibrahim"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/21/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9812139",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "7/14/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/6159392",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/CE61DF2E8E1548E4D6FEDFD618A473",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d23426a3",
+      "Record ID": "52065",
+      "Title": "Using Convolutional Neural Networks for Segmentation of Multiple Sclerosis Lesions in 3D Magnetic Resonance Imaging",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "Department of Medical Laboratory Techniques, Al-Turath University College, Baghdad 10021, Iraq",
+        "Department of Medical Instruments Engineering Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "Department of Medical Instruments Engineering Techniques, Al-Farahidi University, Baghdad 10021, Iraq",
+        "Department of Computer Engineering, College of Computer Engineering & Sciences, Prince Sattam Bin Abdulaziz University, Al-Kharj 11942, Saudi Arabia",
+        "Department of Computer Engineering, University of Technology, Baghdad, Iraq",
+        "Al-Nahrain Nanorenewable Energy Research Center, Al-Nahrain University, Baghdad, Iraq",
+        "Department of Statistics, Injibara University, Injibara, Ethiopia"
+      ],
+      "Journal": "Advances in Materials Science and Engineering",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Abdulsattar Abdullah Hamad",
+        "Mustafa Musa Jaber",
+        "Mohammed Altaf Ahmed",
+        "Ghaida Muttashar Abdulsahib",
+        "Osamah Ibrahim Khalaf",
+        "Zelalem Meraf"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "11/1/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9807562",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "4/22/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/4905115",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234216c",
+      "Record ID": "53420",
+      "Title": "Toxic hydrazoic acid vapor detection and adsorption by different metal-decorated BN nanotubes: A first-principles study",
+      "Subject": [
+        "(PHY) Chemistry",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Medical Laboratory Techniques Department, Al-maarif University College, Al-anbar-Ramadi, Iraq",
+        "College of Medicine, University of Al-Ameed, Karbala, Iraq",
+        "College of Business Administration, Ajman University, Ajman, United Arab Emirates",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad, 10021, Iraq",
+        "College of Technical Engineering, The Islamic University, Najaf, Iraq",
+        "Department of Pharmacy, Osol Aldeen University College, Baghdad, Iraq",
+        "Anesthesia Techniques Department, Al-Mustaqbal University College, Babylon, Iraq",
+        "Computer Engineering Techniques Department, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Department of Agriculture, Jouybar Branch, Islamic Azad University, Jouybar, Iran"
+      ],
+      "Journal": "Computational and Theoretical Chemistry",
+      "Publisher": "Elsevier",
+      "Country": [
+        "Iran",
+        "Iraq",
+        "United Arab Emirates"
+      ],
+      "Author": [
+        "Saade Abdalkareem Jasim",
+        "Moaed E Al-Gazally",
+        "Maria Jade Catalan Opulencia",
+        "Mustafa M Kadhim",
+        "Ahmed B Mahdi",
+        "Ali Thaeer Hammid",
+        "Abdol Ghaffar Ebadi"
       ],
       "ArticleType": [
         "Research Article"
       ],
-      "RetractionDate": "4/9/2024 0:00",
-      "RetractionDOI": "10.1007/s10878-024-01162-6",
+      "RetractionDate": "3/29/2024 0:00",
+      "RetractionDOI": "10.1016/j.comptc.2024.114577",
       "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/30/2023 0:00",
-      "OriginalPaperDOI": "10.1007/s10878-022-00973-9",
-      "OriginalPaperPubMedID": "36741828.0",
+      "OriginalPaperDate": "4/20/2022 0:00",
+      "OriginalPaperDOI": "10.1016/j.comptc.2022.113721",
+      "OriginalPaperPubMedID": "0.0",
       "RetractionNature": "Retraction",
       "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Article",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Fake Peer Review",
+        "+Concerns/Issues About Authorship/Affiliation",
         "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor",
         "+Unreliable Results and/or Conclusions"
       ],
       "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/A04BA8A768F0302A8BA3C6512803E6",
       "notice_year": 2024,
-      "year": 2023,
+      "year": 2022,
       "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2343a6b",
+      "Record ID": "46990",
+      "Title": "Preparation of Alumina Nanoparticles and Coating with Polyvinylpyrrolidone to Treat Cadmium Contamination of Water",
+      "Subject": [
+        "(ENV) Environmental Sciences",
+        "(PHY) Materials Science",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "College of Sciences Department of Physics, Tikrit University, Iraq",
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, University of Tikrit, Iraq",
+        "Department of Medical Laboratory Techniques, Dijlah University College, Baghdad 10021, Iraq",
+        "The University of Mashreq, Research Center, Baghdad, Iraq",
+        "Department of Medical Instruments Engineering Techniques, Al-Farahidi University, Baghdad 10021, Iraq",
+        "Department of Pharmaceutics and Industrial Pharmacy, College of Pharmacy, Taif University, P.O. Box 11099, Taif 21944, Saudi Arabia",
+        "College of Natural and Computational Science, Department of Chemistry, Mizan-Tepi University, Ethiopia",
+        "Department of Statistics, Mizan-Tepi University, Ethiopia"
+      ],
+      "Journal": "Adsorption Science & Technology",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Shaymaa Mohammed Fayyadh",
+        "Foud Nihad Abed",
+        "Emaad Muhamme Awsaj",
+        "Samar S Mohammed",
+        "Abdulsattar Abdullah Hamad Mohamad",
+        "M Mahdi Abdulridha",
+        "Sameer Alshehri",
+        "Gashaw Tadele",
+        "Wegayehu Enbeyle"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/21/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9842571",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "9/9/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/1902868",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
     }
   ]
 }

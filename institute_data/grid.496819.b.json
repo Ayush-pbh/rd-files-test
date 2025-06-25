@@ -1,107 +1,59 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba303e4",
+    "_id": "685b3f25aa23308c06877860",
     "grid_id": "grid.496819.b",
     "institute_name": "Jiangmen Polytechnic",
     "country": "China",
     "retracted_record_ids": [
-      "63553"
-    ],
-    "pub_count": [
-      {
-        "year": 2024,
-        "count": 41
-      },
-      {
-        "year": 2023,
-        "count": 30
-      },
-      {
-        "year": 2013,
-        "count": 28
-      },
-      {
-        "year": 2015,
-        "count": 24
-      },
-      {
-        "year": 2021,
-        "count": 23
-      },
-      {
-        "year": 2022,
-        "count": 23
-      },
-      {
-        "year": 2025,
-        "count": 22
-      },
-      {
-        "year": 2012,
-        "count": 19
-      },
-      {
-        "year": 2014,
-        "count": 17
-      },
-      {
-        "year": 2019,
-        "count": 14
-      },
-      {
-        "year": 2016,
-        "count": 11
-      },
-      {
-        "year": 2020,
-        "count": 9
-      },
-      {
-        "year": 2011,
-        "count": 8
-      },
-      {
-        "year": 2010,
-        "count": 4
-      },
-      {
-        "year": 2018,
-        "count": 4
-      },
-      {
-        "year": 2009,
-        "count": 3
-      },
-      {
-        "year": 2017,
-        "count": 3
-      },
-      {
-        "year": 2005,
-        "count": 2
-      },
-      {
-        "year": 2006,
-        "count": 2
-      },
-      {
-        "year": 2008,
-        "count": 2
-      },
-      {
-        "year": 2007,
-        "count": 1
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2024,
-        "count": 1,
-        "notice_count": 1
-      }
+      "43355",
+      "63553",
+      "62570"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d2344890",
+      "Record ID": "43355",
+      "Title": "Method for identifying potentially dangerous data of underlying network in cloud storage system",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "School of Information Engineering, Jiangmen Polytechnic, Jiangmen, Guangdong, China",
+        "Faculty of Intelligent Manufacturing, Wuyi University, Jiangmen, Guangdong, China"
+      ],
+      "Journal": "Evolutionary Intelligence",
+      "Publisher": "Springer",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Zongfu Zhang",
+        "Rundan Xing",
+        "Shangan Huang"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/6/2022 0:00",
+      "RetractionDOI": "10.1007/s12065-021-00621-x",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/23/2021 0:00",
+      "OriginalPaperDOI": "10.1007/s12065-021-00621-x",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2021,
+      "mark": "integrity"
+    },
     {
       "_id": "6855d574b14f7811d233f9f1",
       "Record ID": "63553",
@@ -147,6 +99,51 @@
       "Notes": "Publication date of the original article derived from https://www.semanticscholar.org/paper/Improving-power-cable-partial-discharge-pattern-Chen-Zhang/c0031c0340e227a46fd738294a0df0e5bc3d486f Author affiliation derived from http://www.globalauthorid.com/WebPortal/ArticleView?wd=99650DDA0778E9ED3E521183B6E0C92BEDC8822A34967F86",
       "notice_year": 2024,
       "year": 2024,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d233fdb9",
+      "Record ID": "62570",
+      "Title": "Intelligent monitoring methodology for large-scale logistics transport vehicles based on parallel Internet of Vehicles",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(B/T) Transportation"
+      ],
+      "Institution": [
+        "Jiangmen Polytechnic, Jiangmen City, Guangdong Province, China"
+      ],
+      "Journal": "Eurasip Journal on Wireless Communications and Networking",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Chengzhang Liang"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/13/2024 0:00",
+      "RetractionDOI": "10.1186/s13638-024-02358-4",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/15/2023 0:00",
+      "OriginalPaperDOI": "10.1186/s13638-023-02287-8",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
       "mark": "integrity"
     }
   ]

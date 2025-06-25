@@ -1,72 +1,66 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba304ed",
+    "_id": "685b3f25aa23308c06877969",
     "grid_id": "grid.495615.a",
     "institute_name": "Changzhou Vocational Institute of Engineering",
     "country": "China",
     "retracted_record_ids": [
-      "63292"
-    ],
-    "pub_count": [
-      {
-        "year": 2021,
-        "count": 59
-      },
-      {
-        "year": 2023,
-        "count": 51
-      },
-      {
-        "year": 2024,
-        "count": 49
-      },
-      {
-        "year": 2022,
-        "count": 48
-      },
-      {
-        "year": 2019,
-        "count": 40
-      },
-      {
-        "year": 2025,
-        "count": 38
-      },
-      {
-        "year": 2020,
-        "count": 35
-      },
-      {
-        "year": 2018,
-        "count": 29
-      },
-      {
-        "year": 2017,
-        "count": 28
-      },
-      {
-        "year": 2016,
-        "count": 13
-      },
-      {
-        "year": 2015,
-        "count": 1
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2023,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 1
-      }
+      "55366",
+      "63292",
+      "41156",
+      "43583",
+      "51345",
+      "29631"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23419d5",
+      "Record ID": "55366",
+      "Title": "Optimizing DODAG Build with RPL Protocol",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(PHY) Engineering - Electrical"
+      ],
+      "Institution": [
+        "Changzhou Vocational Institute of Engineering, Changzhou, Jiangsu, China"
+      ],
+      "Journal": "Mathematical Problems in Engineering",
+      "Publisher": "Hindawi",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Xin Niu"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/19/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9830181",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "4/2/2021 0:00",
+      "OriginalPaperDOI": "10.1155/2021/5579564",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/C28A346B8E32131ABE7C2FC17C8D38",
+      "notice_year": 2023,
+      "year": 2021,
+      "mark": "research"
+    },
     {
       "_id": "6855d574b14f7811d233faf3",
       "Record ID": "63292",
@@ -115,6 +109,181 @@
       "notice_year": 2024,
       "year": 2023,
       "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234511b",
+      "Record ID": "41156",
+      "Title": "Research on sales information prediction system of e-commerce enterprises based on time series model",
+      "Subject": [
+        "(B/T) Business - Economics",
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "School of Economics and Sports Management, Changzhou Vocational Institute of Engineering, Changzhou, 213164, Jiangsu, China",
+        "Nanjing University Business School, Nanjing, 210093, Jiangsu, China",
+        "Changzhou Tiansheng New Materials Co, Ltd, Changzhou, 213000, Jiangsu, China"
+      ],
+      "Journal": "Information Systems and e-Business Management",
+      "Publisher": "Springer",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Jian Liu",
+        "Chunlin Liu",
+        "Lanping Zhang",
+        "Yi Xu"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "11/29/2022 0:00",
+      "RetractionDOI": "10.1007/s10257-022-00607-x",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/22/2019 0:00",
+      "OriginalPaperDOI": "10.1007/s10257-019-00399-7",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2019,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d23447ae",
+      "Record ID": "43583",
+      "Title": "Research on the application of speech recognition in computer network technology in the era of big data",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(SOC) Linguistics"
+      ],
+      "Institution": [
+        "General Education Teaching Department, Changzhou Vocational Institute of Engineering, Changzhou, 213164, Jiangsu, China"
+      ],
+      "Journal": "International Journal of Speech Technology",
+      "Publisher": "Springer",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Baohua Zhang"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/19/2022 0:00",
+      "RetractionDOI": "10.1007/s10772-021-09936-7",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "11/25/2021 0:00",
+      "OriginalPaperDOI": "10.1007/s10772-021-09936-7",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Euphemisms for Plagiarism",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Plagiarism of Data"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2021,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2342973",
+      "Record ID": "51345",
+      "Title": "Application of Carbon Fiber Cement-Based Composites in Improving Construction Durability",
+      "Subject": [
+        "(PHY) Engineering - Mechanical",
+        "(PHY) Materials Science"
+      ],
+      "Institution": [
+        "Institute of Construction Engineering Technology, Changzhou Vocational Institute of Engineering, Changzhou, Jiangsu 213164, China"
+      ],
+      "Journal": "International Journal of Analytical Chemistry",
+      "Publisher": "Hindawi",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Xiaoming Xu"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/16/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9861854",
+      "RetractionPubMedID": "37621907.0",
+      "OriginalPaperDate": "8/24/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/2323534",
+      "OriginalPaperPubMedID": "36060531.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/05DF4F6DB6F8544675FDE852486A50",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2347de8",
+      "Record ID": "29631",
+      "Title": "Carbon Quantum Dots Derived N-Doped Porous Carbon Frameworks with High Electrocatalytic for Oxygen Reduction Reaction",
+      "Subject": [
+        "(PHY) Engineering - Electrical",
+        "(PHY) Materials Science"
+      ],
+      "Institution": [
+        "School of Chemical Engineering, Changzhou Vocational Institute of Engineering, Changzhou 213164, P. R. China",
+        "Key Laboratory for Soft Chemistry and Functional Materials of Ministry Education, Nanjing University of Science and Technology, Nanjing 210094, P. R. China"
+      ],
+      "Journal": "Nano",
+      "Publisher": "World Scientific Publishing Company",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Xuelian Li",
+        "Xuming Xue",
+        "Yongsheng Fu"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/26/2020 0:00",
+      "RetractionDOI": "10.1142/S1793292020930017",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/1/2017 0:00",
+      "OriginalPaperDOI": "10.1142/S179329201750093X",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2020,
+      "year": 2017,
+      "mark": "alterations"
     }
   ]
 }

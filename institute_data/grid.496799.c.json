@@ -1,70 +1,216 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba30473",
+    "_id": "685b3f25aa23308c068778ef",
     "grid_id": "grid.496799.c",
     "institute_name": "Al-Nisour University College",
     "country": "Iraq",
     "retracted_record_ids": [
+      "38037",
+      "62503",
+      "54052",
       "63414",
-      "63387"
-    ],
-    "pub_count": [
-      {
-        "year": 2024,
-        "count": 412
-      },
-      {
-        "year": 2023,
-        "count": 268
-      },
-      {
-        "year": 2022,
-        "count": 243
-      },
-      {
-        "year": 2025,
-        "count": 153
-      },
-      {
-        "year": 2021,
-        "count": 24
-      },
-      {
-        "year": 2020,
-        "count": 19
-      },
-      {
-        "year": 2019,
-        "count": 6
-      },
-      {
-        "year": 2017,
-        "count": 1
-      },
-      {
-        "year": 2018,
-        "count": 1
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2022,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 1,
-        "notice_count": 1
-      },
-      {
-        "year": 2025,
-        "count": 0,
-        "notice_count": 1
-      }
+      "49376",
+      "53413",
+      "47340",
+      "50294",
+      "55500",
+      "53322",
+      "43178",
+      "40584",
+      "59272",
+      "63387",
+      "44998"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d2345d34",
+      "Record ID": "38037",
+      "Title": "Evaluating the secondary bioactive metabolites in Geodia corticostylifera",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Zoology"
+      ],
+      "Institution": [
+        "Prince Sattam bin Abdulaziz University, College of Applied Medical Sciences, Department of Health and Rehabilitation Sciences, Al Kharj, Saudi Arabia",
+        "Cairo University, Kasr Al-Aini Hospital, Department of Physical Therapy, Giza, Egypt",
+        "Sechenov First Moscow State Medical University, Institute of Pharmacy, Moscow, Russian Federation",
+        "Federal Research Center of Nutrition, Biotechnology and Food Safety, Laboratory of Food Chemistry, Moscow, Russian Federation",
+        "Al-maarif University College, Medical Laboratory Techniques Department, Al-anbar-Ramadi, Iraq",
+        "Bahauddin Zakariya University, Department of Botany, Multan, Pakistan",
+        "Al-Ayen University, College of Health and Medical Technololgy, Department of Optics, Thi-Qar, Iraq",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Al-Manara College for Medical Sciences, Amarah, Iraq",
+        "Yanka Kupala State University of Grodno, Faculty of Biology and Ecology, Grodno, Belarus",
+        "The Islamic University, College of Technical Engineering, Najaf, Iraq",
+        "Saveetha Institute of Medical and Technical Sciences, Department of Pharmacology, Chennai, India"
+      ],
+      "Journal": "Brazilian Journal of Biology: Revista Brasleira de Biologia",
+      "Publisher": "Instituto Internacional de Ecologia",
+      "Country": [
+        "Belarus",
+        "Egypt",
+        "India",
+        "Iraq",
+        "Pakistan",
+        "Russia",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Walid Kamal Abdelbasset",
+        "Dmitry O Bokov",
+        "Saade Abdalkareem Jasim",
+        "Ghulam Yasin",
+        "Hashim Abbas",
+        "Ola Kamal A Alkadir",
+        "Ahmed Taifi",
+        "Abduladheem Turki Jalil",
+        "Surendar Aravindhan"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/29/2022 0:00",
+      "RetractionDOI": "10.1590/1519-6984.260090re",
+      "RetractionPubMedID": "35793272.0",
+      "OriginalPaperDate": "5/20/2022 0:00",
+      "OriginalPaperDOI": "10.1590/1519-6984.260090",
+      "OriginalPaperPubMedID": "35613214.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+False/Forged Authorship",
+        "+Plagiarism of Data"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2022,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d233fdfc",
+      "Record ID": "62503",
+      "Title": "Relationship Between Body Mass Index and Mortality of Burns Patients: A Systematic Review and Meta-Analysis",
+      "Subject": [
+        "(HSC) Medicine - General"
+      ],
+      "Institution": [
+        "Al-Zahraa University for Women, Karbala, Iraq",
+        "Department of pharmaceuticals, College of Pharmacy, University of Al-Ameed, Karbala, Iraq",
+        "College of Physical Education and Sport Sciences, Al-Mustaqbal University, Babylon, Iraq",
+        "Anesthesia Techniques Department, Al-Hadi University College, Baghdad, Iraq",
+        "Anesthesia Techniques Department, Al-Nisour University College, Baghdad, Iraq",
+        "College of Health and Medical Technology, National University of Science and Technology, Thi-Qar, Iraq",
+        "Division of advanced nano material technologies, Scientific Research Center, Al-Ayen University, Thi-Qar, Iraq",
+        "College of Technical Engineering, The Islamic University, Najaf, Iraq",
+        "College of Technical Engineering, The Islamic University of Al Diwaniyah, Al Diwaniyah, Iraq",
+        "College of Technical Engineering, The Islamic University of Babylon, Babylon, Iraq",
+        "College of Technical Engineering, Imam Ja'afar Al-Sadiq University, Al-Muthanna, Iraq",
+        "Department of Plastic & Reconstructive Surgery, School of Medicine, Guilan University of Medical Sciences, Rasht, Iran"
+      ],
+      "Journal": "International Wound Journal",
+      "Publisher": "Wiley",
+      "Country": [
+        "Iran",
+        "Iraq"
+      ],
+      "Author": [
+        "F Al-dolaimy",
+        "Uday Abdul-Reda Hussein",
+        "Mazin Hadi Kzar",
+        "Abdulnaser Saud",
+        "Mohammed Abed Jawad",
+        "Saif Yaseen Hasan",
+        "Muataz S Alhassan",
+        "Ahmed Hussien Alawadi",
+        "Ali Alsaalamy",
+        "Ramyar Farzan"
+      ],
+      "URLS": "https://retractionwatch.com/2024/12/03/wiley-medical-journal-retracts-dozens-of-paper-for-manipulated-peer-review-with-more-to-come/",
+      "ArticleType": [
+        "Meta-Analysis"
+      ],
+      "RetractionDate": "3/3/2025 0:00",
+      "RetractionDOI": "10.1111/iwj.70290",
+      "RetractionPubMedID": "40031882.0",
+      "OriginalPaperDate": "1/9/2023 0:00",
+      "OriginalPaperDOI": "10.1111/iwj.14358",
+      "OriginalPaperPubMedID": "37654247.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2025,
+      "year": 2023,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2341ef5",
+      "Record ID": "54052",
+      "Title": "Experimental and theoretical investigations of Erbium complex: DNA/BSA interaction, anticancer and antibacterial studies",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(BLS) Microbiology",
+        "(BLS) Toxicology"
+      ],
+      "Institution": [
+        "Department of Medical Biochemical Analysis, Cihan University-Erbil, Kurdistan Region, Iraq",
+        "Department of Pharmacy, Al-Mustaqbal University College, Babylon, Iraq",
+        "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia",
+        "Department of Pharmaceutics, Faculty of Pharmacy, University of Al-Ameed, Karbala, Iraq",
+        "Medical Lab Techniques, College of Medical Technology, Al-Farahidi University, Baghdad, Iraq",
+        "Department of Medical Laboratories Technology, Al-Nisour University College, Baghdad, Iraq",
+        "Department of Optical Techniques, AlNoor University College, Mosul, Iraq",
+        "Cardiology Department, College of Medicine, Al-Ayen University, Nasiriyah, Iraq",
+        "College of Technical Engineering, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq"
+      ],
+      "Journal": "Frontiers in Chemistry",
+      "Publisher": "Frontiers",
+      "Country": [
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Raid D Thanoon",
+        "Emam Atiyah Ibadi",
+        "Irfan Ahmad",
+        "Hassan Thoulfikar A Alamir",
+        "Marim Alwan",
+        "Furqan S Hashim",
+        "Donia Waleed Khaled",
+        "Adnan Taan Alkhafaji",
+        "Mohammed Asiri",
+        "Ali Alsaalamy"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/23/2024 0:00",
+      "RetractionDOI": "10.3389/fchem.2024.1433689",
+      "RetractionPubMedID": "38855063.0",
+      "OriginalPaperDate": "8/27/2023 0:00",
+      "OriginalPaperDOI": "10.3389/fchem.2023.1266520",
+      "OriginalPaperPubMedID": "37701051.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "research"
+    },
     {
       "_id": "6855d574b14f7811d233fa7b",
       "Record ID": "63414",
@@ -131,6 +277,570 @@
       "mark": "integrity"
     },
     {
+      "_id": "6855d574b14f7811d2343120",
+      "Record ID": "49376",
+      "Title": "Death Anxiety in the Iranian Elderly:A Systematic Review and Meta-Analysis Study",
+      "Subject": [
+        "(SOC) Psychology",
+        "(SOC) Sociology"
+      ],
+      "Institution": [
+        "Nursing Department, 449486Komar University of Science and Technology, Sulaymania, Iraq",
+        "Faculty of Psychology and Educational Sciences, 48425University of Tehran, Tehran, Iran",
+        "12830Banking university HCMC Ho Chi Minh city Vietnam- International University of Japan, Niigata, Japan",
+        "519666Al Nisour University College, Baghdad, Iraq",
+        "486019Ho Chi Minh City Open University, Ho Chi Minh City, Vietnam",
+        "203402Akhmet Yassawi International Kazakh-Turkish University, Kazakhstan",
+        "Spiritual Health Research Center, Research Institute for Health Development, 125637Kurdistan University of Medical Sciences, Sanandaj, Iran"
+      ],
+      "Journal": "Omega",
+      "Publisher": "SAGE Publications",
+      "Country": [
+        "Iran",
+        "Iraq",
+        "Japan",
+        "Kazakhstan",
+        "Vietnam"
+      ],
+      "Author": [
+        "Yosra Raziani",
+        "Abed Mahdavi",
+        "Dinh Tran Ngoc Huy",
+        "Dhameer A Mutlak",
+        "Kien Le",
+        "Alimbekova Laila",
+        "Reza Ghanei Gheshlagh"
+      ],
+      "ArticleType": [
+        "Meta-Analysis"
+      ],
+      "RetractionDate": "4/7/2023 0:00",
+      "RetractionDOI": "10.1177/00302228221110965",
+      "RetractionPubMedID": "35758880.0",
+      "OriginalPaperDate": "6/27/2022 0:00",
+      "OriginalPaperDOI": "10.1177/00302228221110965",
+      "OriginalPaperPubMedID": "35758880.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions",
+        "+Removed"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2342173",
+      "Record ID": "53413",
+      "Title": "Application of Ca12O12 nanocage for detection of aluminum phosphide molecule: First-principles investigation",
+      "Subject": [
+        "(PHY) Chemistry",
+        "(PHY) Energy",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Medical Laboratory Techniques Department, Al-Maarif University College, Al-Anbar-Ramadi, Iraq",
+        "Medical Laboratory Science Department, Faculty of Applied Medical Sciences, King Abdulaziz University, Jeddah 21589, Saudi Arabia",
+        "Department of Dentistry, Kut University College, Kut, Wasit 52001, Iraq",
+        "College of Technical Engineering, The Islamic University, Najaf, Iraq",
+        "Department of Pharmacy, Osol Aldeen University College, Baghdad, Iraq",
+        "Department of Pharmacology, Saveetha Dental College, Saveetha Institute of Medical and Technical Science, Saveetha University, Chennai, India",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, Prince Sattam bin Abdulaziz University, Al-Kharj 11942, Saudi Arabia",
+        "College of Science, Islamic Azad University, Iran"
+      ],
+      "Journal": "Computational and Theoretical Chemistry",
+      "Publisher": "Elsevier",
+      "Country": [
+        "India",
+        "Iran",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Saade Abdalkareem Jasim",
+        "Marwah Suliman Maashi",
+        "Mustafa M Kadhim",
+        "Laksmi Thangavelu",
+        "Bashar S Bashar",
+        "Yassine Riadi",
+        "Ali Mohamadi"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/29/2024 0:00",
+      "RetractionDOI": "10.1016/j.comptc.2024.114575",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/29/2022 0:00",
+      "OriginalPaperDOI": "10.1016/j.comptc.2022.113615",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/18E953E9634BA19BB8553454A669EC",
+      "notice_year": 2024,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234390d",
+      "Record ID": "47340",
+      "Title": "Synthesis of efficient cobalt\u2013metal organic framework as reusable nanocatalyst in the synthesis of new 1,4-dihydropyridine derivatives with antioxidant activity",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Al-maarif University College, Medical Laboratory Techniques Department, Anbar-Ramadi, Iraq",
+        "An Independent Researcher, PhD from NIT Durgapur, Durgapur, West Bengal, India",
+        "Department of Pharmaceutics, College of Pharmacy, Prince Sattam Bin Abdulaziz University, Al-kharj, Saudi Arabia",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Senior teacher at \u201cEconomic security\u201d Department, Tashkent State University of Economics, Tashkent, Uzbekistan",
+        "Department of Anesthesia, College of Health and Medical Technology, Al-Ayen University, Thi-Qar, Iraq",
+        "Anesthesia Techniques Department, Al-Mustaqbal University College, Babylon, Iraq",
+        "Computer Engineering Techniques Department, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, University of Mosul, Mosul, Iraq",
+        "Department of Computer Engineering and Applications, GLA University Mathura, Uttar Pradesh, India"
+      ],
+      "Journal": "Frontiers in Chemistry",
+      "Publisher": "Frontiers",
+      "Country": [
+        "India",
+        "Iraq",
+        "Saudi Arabia",
+        "Uzbekistan"
+      ],
+      "Author": [
+        "Omar Dheyauldeen Salahdin",
+        "Indrajit Patra",
+        "Mohammad Javed Ansari",
+        "Samar Emad Izzat",
+        "Khusniddin Fakhriddinovich Uktamov",
+        "Mohammed Kadhem Abid",
+        "Ahmed B Mahdi",
+        "Ali Thaeer Hammid",
+        "Yasser Fakri Mustafa",
+        "Himanshu Sharma"
+      ],
+      "URLS": "https://retractionwatch.com/2023/09/08/frontiers-retracts-nearly-40-papers-linked-to-authorship-for-sale/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/4/2023 0:00",
+      "RetractionDOI": "10.3389/fchem.2023.1285183",
+      "RetractionPubMedID": "37731455.0",
+      "OriginalPaperDate": "9/8/2022 0:00",
+      "OriginalPaperDOI": "10.3389/fchem.2022.932902",
+      "OriginalPaperPubMedID": "36157044.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Investigation by Journal/Publisher",
+        "+Paper Mill"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://blog.frontiersin.org/2023/09/04/frontiers-implements-new-policy-to-counter-authorship-for-sale/",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2342d8b",
+      "Record ID": "50294",
+      "Title": "Intolerance of Uncertainty Scale-12: Psychometric Properties of This Construct Among Iranian Undergraduate Students",
+      "Subject": [
+        "(SOC) Education",
+        "(SOC) Psychology"
+      ],
+      "Institution": [
+        "Department of English, Cihan University - Duhok, Duhok, Iraq",
+        "Department of Psychology, Faculty of Educational Sciences and Psychology, Alzahra University, Tehran, Iran",
+        "Department of Psychology, Faculty of Social Sciences and Liberal Arts, UCSI University, Kuala Lumpur, Malaysia",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Faculty of Nursing, HRH Princess Chulabhorn College of Medical Science, Chulabhorn Royal Academy, Bangkok, Thailand",
+        "Department of Business Administration, Al-Mustaqbal University College, Hillah, Iraq",
+        "College of Dentistry, Al-Ayen University, Nasiriyah, Iraq",
+        "Educational Psychology and Inclusive Education, Faculty of Education, Monash University, Clayton, VIC, Australia",
+        "Independent Researcher, Durgapur, India",
+        "Computer Engineering Department, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Department of Counseling, Faculty of Education and Psychology, Alzahra University, Tehran, Iran",
+        "Department of Occupational Therapy, Faculty of Associated Medical Sciences, Chiang Mai University, Chiang Mai, Thailand"
+      ],
+      "Journal": "Frontiers in Psychology",
+      "Publisher": "Frontiers",
+      "Country": [
+        "Australia",
+        "India",
+        "Iran",
+        "Iraq",
+        "Malaysia",
+        "Thailand"
+      ],
+      "Author": [
+        "Balachandran Vadivel",
+        "Zahra Azadfar",
+        "Mansor Abu Talib",
+        "Dhameer A Mutlak",
+        "Wanich Suksatan",
+        "Abbas Abd Ali Abbood",
+        "Mohammed Q Sultan",
+        "Kelly A Allen",
+        "Indrajit Patra",
+        "Ali Thaeer Hammid",
+        "Abbas Abdollahi",
+        "Supat Chupradit"
+      ],
+      "URLS": "https://retractionwatch.com/2023/12/18/psychology-professor-earns-retractions-after-publishing-with-repeat-offenders/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "11/27/2023 0:00",
+      "RetractionDOI": "10.3389/fpsyg.2023.1339783",
+      "RetractionPubMedID": "38090182.0",
+      "OriginalPaperDate": "6/8/2022 0:00",
+      "OriginalPaperDOI": "10.3389/fpsyg.2022.894316",
+      "OriginalPaperPubMedID": "35756321.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Investigation by Journal/Publisher"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234194f",
+      "Record ID": "55500",
+      "Title": "Optimization of doubly-fed induction generator (DFIG)based wind turbine to achieve maximum power generation with imperialist competitive algorithm (ICA)",
+      "Subject": [
+        "(PHY) Energy",
+        "(PHY) Engineering - Electrical"
+      ],
+      "Institution": [
+        "Medical Laboratory Techniques Department, Al-maarif University College, Al-anbar-Ramadi, Iraq",
+        "Universidad Continental, Lima, Per\u00fa",
+        "Al-Manara College for Medical Sciences, Maysan, Iraq",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Anesthesia Techniques Department, Al-Mustaqbal University College, Babylon, Iraq",
+        "College of Business Administration, Ajman University, Ajman, United Arab Emirates",
+        "Senior teacher at \u201cEconomic security\u201d Department, Tashkent State University of Economics, Tashkent city, Uzbekistan",
+        "Computer Engineering Techniques Department, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq"
+      ],
+      "Journal": "Science Progress",
+      "Publisher": "SAGE Publications",
+      "Country": [
+        "Iraq",
+        "Peru",
+        "United Arab Emirates",
+        "Uzbekistan"
+      ],
+      "Author": [
+        "Saade Abdalkareem Jasim",
+        "Rosario Mireya Romero Parra",
+        "Yasir Salam Karim",
+        "Ahmed B Mahdi",
+        "Maria Jade Catalan Opulencia",
+        "Khusniddin Fakhriddinovich Uktamov",
+        "Ali Thaeer Hammid"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/2/2024 0:00",
+      "RetractionDOI": "10.1177/00368504241260930",
+      "RetractionPubMedID": "39096046.0",
+      "OriginalPaperDate": "7/14/2022 0:00",
+      "OriginalPaperDOI": "10.1177/00368504221113193",
+      "OriginalPaperPubMedID": "35833373.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d23421cc",
+      "Record ID": "53322",
+      "Title": "Graphene and carbon structures and nanomaterials for energy storage",
+      "Subject": [
+        "(B/T) Technology",
+        "(PHY) Energy",
+        "(PHY) Materials Science",
+        "(PHY) Physics"
+      ],
+      "Institution": [
+        "Medical Laboratory Techniques Department, Al-Maarif University College, Anbar-Ramadi, Iraq",
+        "Department of Chemical Engineering, Faculty of Engineering and Technology, Islamic Azad University, Shahrood branch, Shahrood, Iran",
+        "Department of Chemistry, Dr. A.P.J. Abdul Kalam University, Indore, India",
+        "Universidad Continental, Lima, Peru",
+        "Scientific Research Center, Al-Ayen University, Thi-Qar, Iraq",
+        "Medical Laboratories Techniques Department, Al-Mustaqbal University College, Babylon, Hilla, 51001, Iraq",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Computer Engineering Techniques Department, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Humanities Department, Universidad Tecnol\u00f3gica del Per\u00fa, Lima, Peru",
+        "Arak Branch, Department of Chemical Engineering, Islamic Azad University, Arak, Iran",
+        "Gachsaran Branch, Young Researchers and Elite Club, Islamic Azad University, Gachsaran, Iran"
+      ],
+      "Journal": "Applied Physics A",
+      "Publisher": "Springer",
+      "Country": [
+        "India",
+        "Iran",
+        "Iraq",
+        "Peru"
+      ],
+      "Author": [
+        "Omar Dheyauldeen Salahdin",
+        "Hamidreza Sayadi",
+        "Reena Solanki",
+        "Rosario Mireya Romero Parra",
+        "Mohaimen Al-Thamir",
+        "Abduladheem Turki Jalil",
+        "Samar Emad Izzat",
+        "Ali Thaeer Hammid",
+        "Luis Andres Barboza Arenas",
+        "Ehsan Kianfar"
+      ],
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "2/29/2024 0:00",
+      "RetractionDOI": "10.1007/s00339-024-07401-1",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "7/21/2022 0:00",
+      "OriginalPaperDOI": "10.1007/s00339-022-05789-2",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Paper Mill",
+        "+Plagiarism of Article",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/21BCB36FF171E31B7A3693EFE32C3F",
+      "notice_year": 2024,
+      "year": 2022,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2344940",
+      "Record ID": "43178",
+      "Title": "Association of cord blood asprosin concentration with atherogenic lipid profile and anthropometric indices",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Pediatrics"
+      ],
+      "Institution": [
+        "College of Medicine, University of Babylon, Babil, Iraq",
+        "Department of Obstetrics and Gynecology, Hammurabi College of Medicine, University of Babylon, Babil, Iraq",
+        "Veterinary Medicine College, Al-Qasim Green University, Al-Qasim, Iraq",
+        "Al-Manara College For Medical Sciences, Maysan, Iraq",
+        "Deanship of Scientific Research, Umm Al-Qura University, Makkah, Saudi Arabia",
+        "Zoology Department, Faculty of Science, Mansoura University, Mansoura, Egypt",
+        "College of Medicine, University of Al-Ameed, Karbala, Iraq",
+        "Department of Biochemistry, SKIMS, Srinagar, J&K, India",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Computer Engineering Techniques, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Faculty of Biology and Ecology, Yanka Kupala State University of Grodno, 230023, Grodno, Belarus",
+        "College of Technical Engineering, The Islamic University, Najaf, Iraq",
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, University of Mosul, Mosul, 41001, Iraq",
+        "Department of Biophysics, College of Applied Sciences, University Of Anbar, Ramadi, Iraq",
+        "Non-Communicable Diseases Research Center, Sabzevar University of Medical Sciences, Sabzevar, Iran"
+      ],
+      "Journal": "Diabetology & Metabolic Syndrome",
+      "Publisher": "Springer - Biomed Central (BMC)",
+      "Country": [
+        "Belarus",
+        "Egypt",
+        "India",
+        "Iran",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Hanan Khudhair Hussein",
+        "Nassrin Malik Aubead",
+        "Hamzah H Kzar",
+        "Yasir Salam Karim",
+        "Ali H Amin",
+        "Moaed E Al-Gazally",
+        "Tousief Irshad Ahmed",
+        "Mohammed Abed Jawad",
+        "Ali Thaeer Hammid",
+        "Abduladheem Turki Jalil",
+        "Yasser Fakri Mustafa",
+        "Marwan Mahmood Saleh",
+        "Hafez Heydari"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/9/2023 0:00",
+      "RetractionDOI": "10.1186/s13098-023-01008-x",
+      "RetractionPubMedID": "36894955.0",
+      "OriginalPaperDate": "5/18/2022 0:00",
+      "OriginalPaperDOI": "10.1186/s13098-022-00844-7",
+      "OriginalPaperPubMedID": "35585615.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/C7F4137D7DCCCBF778E697910F9D31",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2345353",
+      "Record ID": "40584",
+      "Title": "Conductive Gels: Properties and Applications of Nanoelectronics",
+      "Subject": [
+        "(PHY) Materials Science",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "National Economics University (NEU), Hanoi, Vietnam",
+        "Banking University HCMC, Ho Chi Minh City, Vietnam",
+        "International University of Japan, Niigata, Japan",
+        "College of Business Administration, Ajman University, Ajman, United Arab Emirates",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Department of Air Conditioning and Refrigeration, Al-Mustaqbal University College, Babylon, Iraq",
+        "Institute of Pharmacy, Sechenov First Moscow State Medical University, 8 Trubetskaya St., Bldg. 2, Moscow, Russian Federation, 119991",
+        "Laboratory of Food Chemistry, Federal Research Center of Nutrition, Biotechnology and Food Safety, 2/14 Ustyinsky Pr, Moscow, Russian Federation, 109240",
+        "Department of Maxillo-Facial Surgery, Tashkent State Dental Institute, Makhtumkuli 103, Tashkent, Uzbekistan, 100147",
+        "Thai Nguyen University, University of Information and Communication Technology, Th\u00e1i Nguy\u00ean, Vietnam",
+        "Computer Engineering Department, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Department of Chemical Engineering, Arak Branch, Islamic Azad University, Arak, Iran",
+        "Young Researchers and Elite Club, Gachsaran Branch, Islamic Azad University, Gachsaran, Iran"
+      ],
+      "Journal": "Discover Nano (formerly known as Nanoscale Research Letters)",
+      "Publisher": "Springer",
+      "Country": [
+        "Iran",
+        "Iraq",
+        "Japan",
+        "Russia",
+        "Uzbekistan",
+        "Vietnam"
+      ],
+      "Author": [
+        "Nguyen Dinh Trung",
+        "Dinh Tran Ngoc Huy",
+        "Maria Jade Catalan Opulencia",
+        "Holya A Lafta",
+        "Azher A Lafta",
+        "Azher M Abed",
+        "Dmitry Olegovich Bokov",
+        "Kahramon Shomurodov",
+        "Hoang Van Thuc Master",
+        "Ali Thaeer Hammid",
+        "Ehsan Kianfar"
+      ],
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "11/14/2022 0:00",
+      "RetractionDOI": "10.1186/s11671-022-03746-9",
+      "RetractionPubMedID": "36376704.0",
+      "OriginalPaperDate": "5/2/2022 0:00",
+      "OriginalPaperDOI": "10.1186/s11671-022-03687-3",
+      "OriginalPaperPubMedID": "35499625.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2340a9a",
+      "Record ID": "59272",
+      "Title": "Identification and sensing of hydrogen fluoride (HF) on aluminum phosphide (Al24P24) nanocage in both gas and water phases: electronic study via density-functional theory computations",
+      "Subject": [
+        "(PHY) Chemistry",
+        "(PHY) Nanotechnology",
+        "(PHY) Physics"
+      ],
+      "Institution": [
+        "Intelligent Medical Systems Department, Al-Mustaqbal University College, Hillah, Babylon, 51001, Iraq",
+        "Al-Manara College for Medical Sciences, Amarah, Iraq",
+        "Medical Technical College, Al-Farahidi University, Baghdad, Iraq",
+        "Department of Medical Laboratories Technology, Al-Nisour University College, Baghdad, Iraq",
+        "Department of Anesthesia Techniques, AlNoor University College, Nineveh, Iraq",
+        "Department of Medical Laboratory Techniques, Altoosi University College, Najaf, Iraq",
+        "Medical Laboratory Technology Department, College of Medical Technology, The Islamic University, Najaf, Iraq",
+        "Department of Chemistry, Molecular Logic Gate Laboratory, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea"
+      ],
+      "Journal": "Journal of Molecular Modeling",
+      "Publisher": "Springer",
+      "Country": [
+        "Iraq",
+        "South Korea"
+      ],
+      "Author": [
+        "Ali Kareem Abbas",
+        "Suhair Mohammad Husein Kamona",
+        "Tiba Ghazuan",
+        "Furqan S Hashim",
+        "Hiba Rafid Kamal",
+        "Hussein Najm Abed",
+        "Rahman S Zabibah",
+        "Jianfu Wu"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/4/2024 0:00",
+      "RetractionDOI": "10.1007/s00894-024-06245-z",
+      "RetractionPubMedID": "39627635.0",
+      "OriginalPaperDate": "6/27/2023 0:00",
+      "OriginalPaperDOI": "10.1007/s00894-023-05617-1",
+      "OriginalPaperPubMedID": "37368127.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "research"
+    },
+    {
       "_id": "6855d574b14f7811d233fa96",
       "Record ID": "63387",
       "Title": "Advances in microscopy characterization techniques for lipid nanocarriers in drug delivery: a comprehensive review",
@@ -193,6 +903,78 @@
       "notice_year": 2025,
       "year": 2024,
       "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234422b",
+      "Record ID": "44998",
+      "Title": "Association of cord blood asprosin concentration with atherogenic lipid profile and anthropometric indices",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Pediatrics"
+      ],
+      "Institution": [
+        "College of Medicine, University of Babylon, Babil, Iraq",
+        "Department of Obstetrics and Gynecology, Hammurabi College of Medicine, University of Babylon, Babil, Iraq",
+        "Veterinary Medicine College, Al-Qasim Green University, Al-Qasim, Iraq",
+        "Al-Manara College For Medical Sciences, Maysan, Iraq",
+        "Deanship of Scientific Research, Umm Al-Qura University, Makkah, Saudi Arabia",
+        "Zoology Department, Faculty of Science, Mansoura University, Mansoura, Egypt",
+        "College of Medicine, University of Al-Ameed, Karbala, Iraq",
+        "Department of Biochemistry, SKIMS, Srinagar, J&K, India",
+        "Al-Nisour University College, Baghdad, Iraq",
+        "Computer Engineering Techniques, Faculty of Information Technology, Imam Ja\u2019afar Al-Sadiq University, Baghdad, Iraq",
+        "Faculty of Biology and Ecology, Yanka Kupala State University of Grodno, 230023, Grodno, Belarus",
+        "College of Technical Engineering, The Islamic University, Najaf, Iraq",
+        "Department of Pharmaceutical Chemistry, College of Pharmacy, University of Mosul, Mosul, 41001, Iraq",
+        "Department of Biophysics, College of Applied Sciences, University Of Anbar, Ramadi, Iraq",
+        "Non-Communicable Diseases Research Center, Sabzevar University of Medical Sciences, Sabzevar, Iran"
+      ],
+      "Journal": "Diabetology & Metabolic Syndrome",
+      "Publisher": "Springer - Biomed Central (BMC)",
+      "Country": [
+        "Belarus",
+        "Egypt",
+        "India",
+        "Iran",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Hanan Khudhair Hussein",
+        "Nassrin Malik Aubead",
+        "Hamzah H Kzar",
+        "Yasir Salam Karim",
+        "Ali H Amin",
+        "Moaed E Al-Gazally",
+        "Tousief Irshad Ahmed",
+        "Mohammed Abed Jawad",
+        "Ali Thaeer Hammid",
+        "Abduladheem Turki Jalil",
+        "Yasser Fakri Mustafa",
+        "Marwan Mahmood Saleh",
+        "Hafez Heydari"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/15/2022 0:00",
+      "RetractionDOI": "10.1186/s13098-022-00867-0",
+      "RetractionPubMedID": "35841011.0",
+      "OriginalPaperDate": "5/18/2022 0:00",
+      "OriginalPaperDOI": "10.1186/s13098-022-00844-7",
+      "OriginalPaperPubMedID": "35585615.0",
+      "RetractionNature": "Correction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Error in Text",
+        "+Updated to Retraction"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/C7F4137D7DCCCBF778E697910F9D31",
+      "notice_year": 2022,
+      "year": 2022,
+      "mark": "integrity"
     }
   ]
 }

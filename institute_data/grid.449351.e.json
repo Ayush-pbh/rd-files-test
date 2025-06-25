@@ -1,113 +1,434 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba304ce",
+    "_id": "685b3f25aa23308c0687794a",
     "grid_id": "grid.449351.e",
     "institute_name": "Jain University",
     "country": "India",
     "retracted_record_ids": [
+      "51207",
+      "61842",
+      "53442",
+      "63071",
+      "54639",
+      "51978",
+      "63192",
       "63316",
-      "63326"
-    ],
-    "pub_count": [
-      {
-        "year": 2024,
-        "count": 3385
-      },
-      {
-        "year": 2023,
-        "count": 1692
-      },
-      {
-        "year": 2025,
-        "count": 1482
-      },
-      {
-        "year": 2022,
-        "count": 884
-      },
-      {
-        "year": 2021,
-        "count": 653
-      },
-      {
-        "year": 2020,
-        "count": 379
-      },
-      {
-        "year": 2019,
-        "count": 317
-      },
-      {
-        "year": 2018,
-        "count": 278
-      },
-      {
-        "year": 2017,
-        "count": 229
-      },
-      {
-        "year": 2016,
-        "count": 225
-      },
-      {
-        "year": 2015,
-        "count": 210
-      },
-      {
-        "year": 2014,
-        "count": 121
-      },
-      {
-        "year": 2013,
-        "count": 53
-      },
-      {
-        "year": 2012,
-        "count": 24
-      },
-      {
-        "year": 2011,
-        "count": 21
-      },
-      {
-        "year": 2010,
-        "count": 14
-      },
-      {
-        "year": 2009,
-        "count": 6
-      },
-      {
-        "year": 2007,
-        "count": 5
-      },
-      {
-        "year": 2008,
-        "count": 4
-      },
-      {
-        "year": 1984,
-        "count": 2
-      },
-      {
-        "year": 2006,
-        "count": 1
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2023,
-        "count": 2,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 2
-      }
+      "63326",
+      "41617",
+      "46483",
+      "38276",
+      "57430",
+      "20374",
+      "53196",
+      "54923",
+      "45776",
+      "2509"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23429fd",
+      "Record ID": "51207",
+      "Title": "Design and Fabrication of Solar Dryer System for Food Preservation of Vegetables or Fruit",
+      "Subject": [
+        "(ENV) Environmental Sciences",
+        "(ENV) Food Science",
+        "(PHY) Energy"
+      ],
+      "Institution": [
+        "Department of Computer Engineering & Application, GLA University, Mathura, India",
+        "Department of Computer Science and Information Engineering, National Cheng Kung University, 701, Tainan, Taiwan",
+        "Institute of Business Management, GLA University, Mathura, India",
+        "Department of Computer Science and Engineering, Guru Ghasidas Vishwavidyalaya, Bilaspur, India",
+        "School of Computer Science and IT, JAIN (Deemed to be University), Bengaluru, India",
+        "Department of Education, Janajyoti Multiple Campus, Lalbandi, Sarlahi, Nepal"
+      ],
+      "Journal": "Journal of Food Quality",
+      "Publisher": "Hindawi",
+      "Country": [
+        "India",
+        "Nepal",
+        "Taiwan"
+      ],
+      "Author": [
+        "Ankit Kumar",
+        "Kamred Udham Singh",
+        "Mukesh Kumar Singh",
+        "Alok Kumar Singh Kushwaha",
+        "Abhishek Kumar",
+        "Shambhu Mahato"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/23/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9760148",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "4/14/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/6564933",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2340090",
+      "Record ID": "61842",
+      "Title": "Evaluation of Physicothermal Properties of Silicone Oil Dispersed with Multiwalled Carbon Nanotubes and Data Prediction Using ANN",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(ENV) Environmental Sciences",
+        "(PHY) Engineering - Chemical",
+        "(PHY) Engineering - General",
+        "(PHY) Materials Science",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Department of Mechanical, Lendi Institute of Engineering and Technology, Vizianagaram, India",
+        "Department of Electrical and Electronics Engineering, Engineering and Architecture Faculty, Nisantasi University, Istanbul, Turkey",
+        "Department of Mechanical Engineering, Easwari Engineering College, Chennai, India",
+        "School of Mechanical, Sathyabama Institute of Science and Technology, Chennai, India",
+        "Department of Biotechnology, Center for Post Graduate Studies, Jain University, Bengaluru, India",
+        "Department of Chemistry, College of Natural and Computational Sciences, Debre Berhan University, Debre Berhan, Ethiopia"
+      ],
+      "Journal": "Journal of Nanomaterials",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "India",
+        "Turkey"
+      ],
+      "Author": [
+        "Raviteja Surakasi",
+        "K. Ch. Sekhar",
+        "Ekrem Yanmaz",
+        "G. Yuvaraj",
+        "Jayaprakash Venugopal",
+        "S. Srujana",
+        "Naziya Begum"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/11/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9813208",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "12/27/2021 0:00",
+      "OriginalPaperDOI": "10.1155/2021/3444512",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2021,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2342157",
+      "Record ID": "53442",
+      "Title": "Exhibition of Dielectric Property Based on Soil Class and Moisture Presence for Bengaluru District",
+      "Subject": [
+        "(ENV) Environmental Sciences",
+        "(PHY) Engineering - General"
+      ],
+      "Institution": [
+        "Department of Electrical and Electronics Engineering, Jain (Deemed-To-Be-University), Bengaluru 560069, Karnataka, India",
+        "Department of Biotechnology, MS Ramaiah Institute Technology, MSR Nagar, Bengaluru 560054, Karnataka, India",
+        "Research Scholar, Department of Civil Engineering, Institute of Engineering and Technology, Lucknow 226021, Uttar Pradesh, India",
+        "Department of Mechanical Engineering, Graphic Era Deemed to be University, Dehradun 248002, Uttarakhand, India",
+        "Department of Chemical Engineering, B V Raju Institute of Technology, Narsapur 502313, Medak, Telangana, India",
+        "Department of Physics, Ch S D St Theresa\u2019s College for Women (A), Eluru 534003, Andhra Pradesh, India",
+        "Department of Civil Engineering, Annamacharya Institute of Technology and Sciences (Autonomous), Tirupati 517520, Andhra Pradesh, India",
+        "Department of Chemistry, Government Shyam Sundar Agrawal PG College, Sihora 483225, Madhya Pradesh, India",
+        "Faculty of Mechanical Engineering, Arba Minch Institute of Technology (AMIT) Arba Minch University, Arba Minch, Ethiopia"
+      ],
+      "Journal": "Advances in Materials Science and Engineering",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "India"
+      ],
+      "Author": [
+        "Sujit Kumar",
+        "N Ahalya",
+        "Vikash Singh",
+        "Pravin P Patil",
+        "A V Raghavendra Rao",
+        "A Nirmala Jyothsna",
+        "P Abhilash",
+        "Rupesh Kushwah",
+        "Sojan Palukaran Thimothy"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/29/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9851803",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "6/12/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/6807204",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d233fbd0",
+      "Record ID": "63071",
+      "Title": "Resource allocation with fuzzy logic based network optimization and security analysis in optical communication network",
+      "Subject": [
+        "(B/T) Technology",
+        "(SOC) Communications"
+      ],
+      "Institution": [
+        "Department of Electrical and Electronics Engineering, Faculty of Engineering and Technology, JAIN (Deemed-to-Be University), Karnataka, 562112, India",
+        "College of Computing Science and Information Technology, Teerthanker Mahaveer University, Moradabad, Uttar Pradesh, India",
+        "Department of Electrical Engineering, Vivekananda Global University, Jaipur, India",
+        "Department of Management, Sanskriti University, Mathura, Uttar Pradesh, India",
+        "Department of Electronics and Communication Engineering, Presidency University, Bangalore, India",
+        "Corporate and Research Activities, UGDX School of Technology, ATLAS SkillTech University, Mumbai, India",
+        "Department of CSE, Koneru Lakshmaih Education Foundation, Vaddeswaram, Guntur, Andhrapradesh, India"
+      ],
+      "Journal": "Optical and Quantum Electronics",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Hannah Jessie Rani",
+        "Rupal Gupta",
+        "Atul Dadhich",
+        "Sachin Gupta",
+        "G Swetha",
+        "Dakshinamurthy V Kolluru",
+        "Kodukula Subrahmanyam"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/9/2024 0:00",
+      "RetractionDOI": "10.1007/s11082-024-07432-1",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "11/10/2023 0:00",
+      "OriginalPaperDOI": "10.1007/s11082-023-05576-0",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2341cab",
+      "Record ID": "54639",
+      "Title": "Evaluation of Physicothermal Properties of Solar Thermic Fluids Dispersed with Multiwalled Carbon Nanotubes and Prediction of Data Using Artificial Neural Networks",
+      "Subject": [
+        "(PHY) Engineering - Chemical",
+        "(PHY) Materials Science",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Department of Mechanical, Lendi Institute of Engineering and Technology, Jonnada, Vizianagaram, India",
+        "Department of Electrical and Electronics Engineering, Engineering and Architecture Faculty, Nisantasi University, Istanbul, Turkey",
+        "Department of Biotechnology, Center for Post Graduate Studies, Jain University, Bengaluru, India",
+        "Department of Chemistry, College of Natural and Computational Science, Debre Berhan University, Debre Berhan, Ethiopia"
+      ],
+      "Journal": "Journal of Nanomaterials",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "India",
+        "Turkey"
+      ],
+      "Author": [
+        "Kothakota Ch Sekhar",
+        "Raviteja Surakasi",
+        "Ilhan Garip",
+        "Sripathi Srujana",
+        "V V Prasanna Kumar",
+        "Naziya Begum"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/12/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9785712",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "12/29/2021 0:00",
+      "OriginalPaperDOI": "10.1155/2021/7306189",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "Full names of authors derived from their ORCID profile. See also: https://pubpeer.com/publications/0FDF3B7EC774DF097C0229F0C3258A#1",
+      "notice_year": 2023,
+      "year": 2021,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d23426fa",
+      "Record ID": "51978",
+      "Title": "A Comprehensive Study on the Synthesis and Characterization of TiO2 Nanoparticles Using Aloe vera Plant Extract and Their Photocatalytic Activity against MB Dye",
+      "Subject": [
+        "(BLS) Plant Biology/Botany",
+        "(PHY) Materials Science",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Department of Biotechnology, School of Sciences, Jain University, JC Road, Bengaluru, 560027 Karnataka, India",
+        "Department of Botany, Osmania University, Hyderabad, Telangana, India",
+        "Physical Sciences Section, School of Sciences, Maulana Azad National Urdu University, Hyderabad, 500032 Telangana, India",
+        "Department of Mechanical Engineering, GLA University, Mathura, India",
+        "Department of Hospital Pharmacy, SRG Hospital and Medical College, Jhalawar, Rajasthan, India",
+        "PG and Research Department of Botany, Pachaiyappa\u2019s College, Affiliated to University of Madras, Chennai, 600030 Tamil Nadu, India",
+        "Department of Pharmaceutical Chemistry, School of Pharmacy, Wolaita Sodo University, Ethiopia"
+      ],
+      "Journal": "Adsorption Science & Technology",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "India"
+      ],
+      "Author": [
+        "S Srujana",
+        "M Anjamma",
+        "Alimuddin",
+        "Bharat Singh",
+        "Ram C Dhakar",
+        "Shanthi Natarajan",
+        "Ramana Hechhu"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/20/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9787902",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "7/28/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/7244006",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d233fb57",
+      "Record ID": "63192",
+      "Title": "Enhanced radial base deep learning algorithm for predicting multimedia security issues",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "Department of Computer Science and Information Technology, Jain (Deemed to be University), Bangalore, India",
+        "College of Computing Science and Information Technology, Teerthanker Mahaveer University, Moradabad, Uttar Pradesh, India",
+        "Department of ISME, ATLAS SkillTech University, Mumbai, Maharashtra, India",
+        "Department of Computer Science & Engineering, IIMT University, Meerut, Uttar Pradesh, India",
+        "Maharishi School of Business Management, Maharishi University of Information Technology, Uttar Pradesh, India",
+        "Masters in Computer Applications, Noida Institute of Engineering and Technology, Greater Noida, Uttar Pradesh, India"
+      ],
+      "Journal": "Journal of Intelligent & Fuzzy Systems",
+      "Publisher": "IOS Press (bought by Sage November 2023)",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "V Haripriya",
+        "Mohan Vishal Gupta",
+        "Nikita Nadkarni",
+        "Suraj Malik",
+        "Aditya Yadav",
+        "Apoorva Joshi"
+      ],
+      "URLS": "https://retractionwatch.com/2024/08/23/exclusive-publisher-retracts-more-than-450-papers-from-journal-it-acquired-last-year/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/23/2024 0:00",
+      "RetractionDOI": "10.3233/JIFS-219433",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "2/14/2024 0:00",
+      "OriginalPaperDOI": "10.3233/jifs-237041",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party"
+      ],
+      "Paywalled": "No",
+      "Notes": "An earlier publication date of the original article is suggested by: https://www.semanticscholar.org/paper/Enhanced-radial-base-deep-learning-algorithm-for-Haripriya-Gupta/78c4c3f9574649185de3b535b622e69c3f805983 The ACM information page for the original article: https://dl.acm.org/doi/abs/10.3233/JIFS-237041",
+      "notice_year": 2024,
+      "year": 2024,
+      "mark": "integrity"
+    },
     {
       "_id": "6855d574b14f7811d233fadb",
       "Record ID": "63316",
@@ -216,6 +537,461 @@
       "notice_year": 2024,
       "year": 2023,
       "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2344f52",
+      "Record ID": "41617",
+      "Title": "Optimal prediction of attacks and arterial stiffness effects on heart disease by hybrid machine learning algorithm",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "Institution": [
+        "Data Science and Big Data Research Group in School of Engineering, KLEF University, Hyderabad, India",
+        "Department of MCA, S.V. College of Engineering, Karakambadi Road, Tirupati, India",
+        "Department of School of Engineering and Technology, JAIN (Deemed-To-Be University), Bangalore, India",
+        "Electronics and Communication Engineering, Tamilnadu College of Engineering, Palanisame Ravi Nagar, Karumathampatti, Tamil Nadu, India",
+        "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Anupriya Elumalai",
+        "P Baby Maruthi",
+        "Neha Gautam",
+        "S Priyadharshini",
+        "M Suganthy"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/30/2022 0:00",
+      "RetractionDOI": "Unavailable",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/2/2021 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-02706-4",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2021,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2343c66",
+      "Record ID": "46483",
+      "Title": "A Hybrid Clustering Based Approach To Extract Drug Elements Which Causes Side Effects",
+      "Subject": [
+        "(B/T) Data Science",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "Institution": [
+        "Jain Deemed to be University, India",
+        "Center for Distance Education & Virtual Learning (CDEVL), Jain Deemed to be University, India"
+      ],
+      "Journal": "IOP Conference Series: Materials Science and Engineering",
+      "Publisher": "IOP Publishing",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Alpha Vijayan",
+        "B S Chandrasekar"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "7/11/2023 0:00",
+      "RetractionDOI": "10.1088/1757-899X/1110/1/012022",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "3/30/2021 0:00",
+      "OriginalPaperDOI": "10.1088/1757-899X/1110/1/012015",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/D199B041E18D160C4FD91BC55BA023",
+      "notice_year": 2023,
+      "year": 2021,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2345c45",
+      "Record ID": "38276",
+      "Title": "Two phase cluster validation approach towards measuring cluster quality in unstructured and structured numerical datasets",
+      "Subject": [
+        "(B/T) Computer Science"
+      ],
+      "Institution": [
+        "Dr. T. Thimmaiah Institute of Technology, VTU, KGF, Karnataka, India",
+        "Jain (Deemed To Be) University, Bengaluru, Karnataka, India K S School of Engineering and Management, Bengaluru, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "S Sreedhar Kumar",
+        "Syed Thouheed Ahmed",
+        "P Vigneshwaran",
+        "H Sandeep",
+        "H Manjunath Singh"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/11/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-04305-x",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/28/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-02487-w",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d23411c7",
+      "Record ID": "57430",
+      "Title": "Emerging challenges for the agro-industrial food waste utilization: A review on food waste biorefinery",
+      "Subject": [
+        "(BLS) Agriculture",
+        "(ENV) Environmental Sciences",
+        "(ENV) Food Science"
+      ],
+      "Institution": [
+        "Department of Community Medicine, Saveetha Medical College, Saveetha Institute of Medical and Technical Sciences, Chennai, India",
+        "School of Biotechnology, Jawaharlal Nehru University, New Delhi, India",
+        "Department of Life Sciences, CHRIST (Deemed to be University), Bengaluru, 560029, Karnataka, India",
+        "Department of Chemistry, Faculty of Science, King Khalid University, Abha, 61413, Saudi Arabia",
+        "Research Center for Advanced Materials Science (RCAMS), King Khalid University, P.O. Box 9004, Abha, 61413, Saudi Arabia",
+        "Unit of Bee Research and Honey Production, Faculty of Science, King Khalid University, P.O. Box 9004, Abha, 61413, Saudi Arabia",
+        "School of Allied Healthcare and Sciences, Jain (Deemed to Be) University, Bengaluru, Karnataka, India",
+        "Department of Biochemistry, Maharshi Dayanand University, Rohtak, India",
+        "Department of Chemistry, College of Basic Sciences and Humanities, Punjab Agricultural University, Punjab, India",
+        "College of Natural Resources and Environment, Northwest A&F University, Yangling, 712100, PR China",
+        "Department of Chemistry, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Avadi, Chennai, 600062, India",
+        "Escuela de Ingenier\u00eda en Biotecnolog\u00eda, Centro de Biotecnolog\u00eda de los Recursos Naturales (Cenbio), Universidad Cat'olica del Maule, Chile",
+        "Department of Separation Science, LUT School of Engineering Science, LUT University, Sammonkatu 12, FI-50130, Mikkeli, Finland"
+      ],
+      "Journal": "Bioresource Technology",
+      "Publisher": "Elsevier",
+      "Country": [
+        "Chile",
+        "China",
+        "Finland",
+        "India",
+        "Saudi Arabia"
+      ],
+      "Author": [
+        "Vinay Kumar",
+        "Neha Sharma",
+        "Mridul Umesh",
+        "Manickam Selvaraj",
+        "Badria M Al-Shehri",
+        "Pritha Chakraborty",
+        "Lucky Duhan",
+        "Shivali Sharma",
+        "Ritu Pasrija",
+        "Mukesh Kumar Awasthi",
+        "Siva Ramakrishna Lakkaboyana",
+        "Rodrigo Andler",
+        "Amit Bhatnagar",
+        "Subhrangsu Sundar Maitra"
+      ],
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "10/2/2024 0:00",
+      "RetractionDOI": "10.1016/j.biortech.2022.127790",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/20/2022 0:00",
+      "OriginalPaperDOI": "10.1016/j.biortech.2022.127790",
+      "OriginalPaperPubMedID": "35973569.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Conflict of Interest",
+        "+Date of Article and/or Notice Unknown",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Objections by Author(s)",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
+      "notice_year": 2024,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234a1f0",
+      "Record ID": "20374",
+      "Title": "An Electronic Glove\u2013A Boon to the Deaf and Dumb",
+      "Subject": [
+        "(B/T) Technology",
+        "(HSC) Medicine - Otorhinolaryngology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "Institution": [
+        "Jain Deemed to be University, Bangalore"
+      ],
+      "Journal": "Journal of Physics: Conference Series",
+      "Publisher": "IOP Publishing",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Narayana Swamy Ramaiah",
+        "Gawas Santoshi Shyamsundar"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "4/30/2019 0:00",
+      "RetractionDOI": "10.1088/1742-6596/1172/1/012113",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/1/2019 0:00",
+      "OriginalPaperDOI": "10.1088/1742-6596/1172/1/012018",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Error in Text"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2019,
+      "year": 2019,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234223c",
+      "Record ID": "53196",
+      "Title": "Using a Multifaceted, Network-Informed Methodology to Assess Data Sensitivity from Consumers IoT Gadgets",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "Department of CSE, PIT, Parul University, India",
+        "Department of Health & Allied Science, ARKA JAIN University, India"
+      ],
+      "Journal": "International Conference on Artificial Intelligence and Smart Communication (2023)",
+      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Harshal Shah",
+        "Jyotirmaya Sahoo"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "11/21/2023 0:00",
+      "RetractionDOI": "10.1109/AISC56616.2023.10324359",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "4/3/2023 0:00",
+      "OriginalPaperDOI": "10.1109/AISC56616.2023.10085075",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2023,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2341b90",
+      "Record ID": "54923",
+      "Title": "Chlorella protothecoides Algae Oil and Its Mixes with Lower and Higher Alcohols and Al2O3 Metal Nanoadditives for Reduction of Pollution in a CI Engine",
+      "Subject": [
+        "(PHY) Chemistry",
+        "(PHY) Engineering - Electrical",
+        "(PHY) Engineering - Mechanical",
+        "(PHY) Materials Science",
+        "(PHY) Physics"
+      ],
+      "Institution": [
+        "Department of Studies in Food Technology, Davangere University, Davangere, Karnataka, India",
+        "Mechanical Engineering Department, Graphic Era Deemed to be University Dehradun, Uttarakhand, India",
+        "Department of Mechanical Engineering, Engineering and Architecture Faculty, Nisantasi University, Istanbul, Turkey",
+        "Department of Physics, SN Art\u2019s, DJ Malpani Commerce and BN Sarda Science College, Sangamner, Maharashtra, India",
+        "Department of Mechanical Engineering, GLA University Mathura, Mathura, India",
+        "Department of Mechanical Engineering, Lendi institute of engineering and Technology, Jonnada, Vizianagaram, Andhrapradesh, India",
+        "Department of Biotechnology, Center for post graduate studies, Jain University, Jayanagar, 9th Block, Bengaluru, 560011 Karnataka, India",
+        "Department of Mechanical Engineering, Wolaitasodo university, Wolaita Sodo, SNNPR, Ethiopia"
+      ],
+      "Journal": "Journal of Nanomaterials",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "India",
+        "Turkey"
+      ],
+      "Author": [
+        "Gayatri Vaidya",
+        "Pravin P Patil",
+        "Arif Senol Sener",
+        "Navale Sainath Ramnath",
+        "Bharat Singh",
+        "Raviteja Surakasi",
+        "Srujana Sripathi",
+        "Tsegaye Alemayehu Atiso"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/12/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9820567",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "2/15/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/9658212",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "See also: https://pubpeer.com/publications/53852496271CE4AA49D75A4EA3EF98",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2343f23",
+      "Record ID": "45776",
+      "Title": "Thinking abilities and professional learning abilities for English majors based on double tutor system",
+      "Subject": [
+        "(SOC) Education",
+        "(SOC) Linguistics",
+        "(SOC) Psychology"
+      ],
+      "Institution": [
+        "School of Foreign Studies, Ankang University, Ankang, Shaanxi 725000, China",
+        "MCA Department, School of CS and IT, Jain Deemed to be University, Jaya Nagar, Bangalore, Karnataka, India",
+        "SRM Institute of Science & Technology, India"
+      ],
+      "Journal": "Aggression and Violent Behavior",
+      "Publisher": "Elsevier",
+      "Country": [
+        "China",
+        "India"
+      ],
+      "Author": [
+        "Weiwei Hu",
+        "R Kamalraj",
+        "Vinothraj Velmayil"
+      ],
+      "ArticleType": [
+        "Article in Press",
+        "Research Article"
+      ],
+      "RetractionDate": "6/14/2023 0:00",
+      "RetractionDOI": "10.1016/j.avb.2021.101648",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/4/2021 0:00",
+      "OriginalPaperDOI": "10.1016/j.avb.2021.101648",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues with Peer Review",
+        "+Doing the Right Thing",
+        "+Error by Journal/Publisher",
+        "+Rogue Editor",
+        "+Removed"
+      ],
+      "Paywalled": "No",
+      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
+      "notice_year": 2023,
+      "year": 2021,
+      "mark": "system"
+    },
+    {
+      "_id": "6855d574b14f7811d234e70c",
+      "Record ID": "2509",
+      "Title": "Detection of ESBL among AmpC producing enterobacteriaceae using inhibitor-based method",
+      "Subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Pathology"
+      ],
+      "Institution": [
+        "Department of Microbiology, Centre for Post Graduate Studies, Jain University, Bangalore, Karnataka--560 011, India"
+      ],
+      "Journal": "Pan African Medical Journal (PAMJ)",
+      "Publisher": "Pan African Medical Journal (PAMJ)",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "S Bakthavatchalu",
+        "U Shakthivel",
+        "T Mishra"
+      ],
+      "URLS": "http://retractionwatch.com/2014/02/20/protracted-and-unresolved-authors-dispute-and-striking-similarities-lead-to-two-retractions/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "2/12/2014 0:00",
+      "RetractionDOI": "10.11604/pamj.2014.17.104.4004",
+      "RetractionPubMedID": "24523949.0",
+      "OriginalPaperDate": "1/20/2013 0:00",
+      "OriginalPaperDOI": "10.11604/pamj.2013.14.28.1347",
+      "OriginalPaperPubMedID": "23504148.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Journal/Publisher",
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2014,
+      "year": 2013,
+      "mark": "alterations"
     }
   ]
 }

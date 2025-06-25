@@ -1,143 +1,330 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba30460",
+    "_id": "685b3f25aa23308c068778dc",
     "grid_id": "grid.7548.e",
     "institute_name": "University of Modena and Reggio Emilia",
     "country": "Italy",
     "retracted_record_ids": [
-      "63422"
-    ],
-    "pub_count": [
-      {
-        "year": 2024,
-        "count": 3036
-      },
-      {
-        "year": 2021,
-        "count": 2987
-      },
-      {
-        "year": 2023,
-        "count": 2864
-      },
-      {
-        "year": 2020,
-        "count": 2798
-      },
-      {
-        "year": 2022,
-        "count": 2748
-      },
-      {
-        "year": 2019,
-        "count": 2153
-      },
-      {
-        "year": 2018,
-        "count": 1861
-      },
-      {
-        "year": 2017,
-        "count": 1808
-      },
-      {
-        "year": 2016,
-        "count": 1655
-      },
-      {
-        "year": 2015,
-        "count": 1611
-      },
-      {
-        "year": 2014,
-        "count": 1561
-      },
-      {
-        "year": 2013,
-        "count": 1493
-      },
-      {
-        "year": 2025,
-        "count": 1462
-      },
-      {
-        "year": 2012,
-        "count": 1397
-      },
-      {
-        "year": 2011,
-        "count": 1379
-      },
-      {
-        "year": 2009,
-        "count": 1234
-      },
-      {
-        "year": 2010,
-        "count": 1205
-      },
-      {
-        "year": 2008,
-        "count": 1117
-      },
-      {
-        "year": 2007,
-        "count": 1001
-      },
-      {
-        "year": 2006,
-        "count": 970
-      },
-      {
-        "year": 2005,
-        "count": 930
-      },
-      {
-        "year": 2004,
-        "count": 843
-      },
-      {
-        "year": 2003,
-        "count": 732
-      },
-      {
-        "year": 2002,
-        "count": 688
-      },
-      {
-        "year": 2001,
-        "count": 651
-      },
-      {
-        "year": 2000,
-        "count": 562
-      },
-      {
-        "year": 1999,
-        "count": 505
-      },
-      {
-        "year": 1998,
-        "count": 498
-      },
-      {
-        "year": 1996,
-        "count": 463
-      },
-      {
-        "year": 1997,
-        "count": 455
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2023,
-        "count": 1,
-        "notice_count": 1
-      }
+      "43266",
+      "43264",
+      "18866",
+      "43971",
+      "8873",
+      "42149",
+      "63422",
+      "42425",
+      "38675",
+      "20305",
+      "53627",
+      "43263",
+      "43267"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23448e9",
+      "Record ID": "43266",
+      "Title": "Recombinant Human Erythropoietin Improves Angiogenesis and Wound Healing in Experimental Burn Wounds",
+      "Subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "Institution": [
+        "Department of Clinical and Experimental Medicine and Pharmacology, University of Messina, Italy",
+        "Department of Surgical Sciences, Section of Plastic Surgery, University of Messina, Italy",
+        "Department of Veterinary Public Health, University of Messina, Italy",
+        "Section of Veterinary Pharmacology Department of Animal Biology and Marine Ecology, University of Messina, Italy",
+        "Department of Internal Medicine, University of Messina, Italy",
+        "Department of Neurosciences, Psychiatry and Anesthesiology, University of Messina, Italy",
+        "Plastic and Reconstructive Surgery, University of Roma \u201cLa Sapienza,\u201d Rome, Italy",
+        "Department of Biomedical Sciences, Section of Pharmacology, University of Modena and Reggio Emilia, Modena, Italy"
+      ],
+      "Journal": "Critical Care Medicine",
+      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Mariarosaria Galeano",
+        "Domenica Altavilla",
+        "Alessandra Bitto",
+        "Letteria Minutoli",
+        "Margherita Cal\u00f2",
+        "Patrizia Lo Cascio",
+        "Francesca Polito",
+        "Giovanni Giugliano",
+        "Giovanni Squadrito",
+        "Chiara Mioni",
+        "Daniela Giuliani",
+        "Francesco S Venuti",
+        "Francesco Squadrito"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/1/2023 0:00",
+      "RetractionDOI": "10.1097/CCM.0000000000005780",
+      "RetractionPubMedID": "36809269.0",
+      "OriginalPaperDate": "4/1/2006 0:00",
+      "OriginalPaperDOI": "10.1097/01.CCM.0000206468.18653.EC",
+      "OriginalPaperPubMedID": "16484928.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Manipulation of Images"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2006,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d23448eb",
+      "Record ID": "43264",
+      "Title": "Melanocortin 4 Receptor Stimulation Decreases Pancreatitis Severity in Rats by Activation of the Cholinergic Anti-Inflammatory Pathway",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "Institution": [
+        "Department of Experimental and Clinical Medicine and Pharmacology, Section of Pharmacology, Physiological and Nutritional Sciences, Section of Physiology and Human Nutrition (HM), University of Messina, Messina, Italy",
+        "Department of Human Pathology, Physiological and Nutritional Sciences, Section of Physiology and Human Nutrition (HM), University of Messina, Messina, Italy",
+        "Department of Biochemical, Physiological and Nutritional Sciences, Section of Physiology and Human Nutrition (HM), University of Messina, Messina, Italy",
+        "Department of Biomedical Sciences, Section of Pharmacology, University of Modena and Reggio Emilia, Modena, Italy"
+      ],
+      "Journal": "Critical Care Medicine",
+      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Letteria Minutoli",
+        "Francesco Squadrito",
+        "Piero Antonio Nicotina",
+        "Daniela Giuliani",
+        "Alessandra Ottani",
+        "Francesca Polito",
+        "Alessandra Bitto",
+        "Natasha Irrera",
+        "Giuseppe Guzzo",
+        "Luca Spaccapelo",
+        "Carmine Fazzari",
+        "Antonio Macr\u00ec",
+        "Herbert Marini",
+        "Salvatore Guarini",
+        "Domenica Altavilla"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/1/2023 0:00",
+      "RetractionDOI": "10.1097/CCM.0000000000005782",
+      "RetractionPubMedID": "36809271.0",
+      "OriginalPaperDate": "5/1/2011 0:00",
+      "OriginalPaperDOI": "10.1097/CCM.0b013e318207ea80",
+      "OriginalPaperPubMedID": "21263321.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Data",
+        "+Investigation by Third Party",
+        "+Manipulation of Images"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2011,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234a7cb",
+      "Record ID": "18866",
+      "Title": "Dynamic-Mechanical Behavior and Morphology of Polystyrene/Perovskite Composites: Effects of Filler Size",
+      "Subject": [
+        "(PHY) Engineering - Mechanical",
+        "(PHY) Materials Science"
+      ],
+      "Institution": [
+        "Department of Materials and Production Engineering, University of Naples Federico II, P.le V. Tecchio 80, 80125 Naples, Italy",
+        "Department of Materials and Environmental Engineering, University of Modena and Reggio Emilia, Strada Vignolese 905, 41125 Modena, Italy"
+      ],
+      "Journal": "Procedia Engineering",
+      "Publisher": "Elsevier",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Pietro Russo",
+        "Domenico Aciemo",
+        "Anna Corradi",
+        "Cristina Leonelli"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "6/10/2011 0:00",
+      "RetractionDOI": "10.1016/j.proeng.2011.04.167",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/1/2011 0:00",
+      "OriginalPaperDOI": "10.1016/j.proeng.2011.04.167",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Duplication of/in Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2011,
+      "year": 2011
+    },
+    {
+      "_id": "6855d574b14f7811d234462b",
+      "Record ID": "43971",
+      "Title": "Adrenocorticotropin reverses hemorrhagic shock in anesthetized rats through the rapid activation of a vagal anti-inflammatory pathway",
+      "Subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Zoology"
+      ],
+      "Institution": [
+        "Department of Biomedical Sciences, Section of Pharmacology, University of Modena and Reggio Emilia, via G. Campi 287, 41100 Modena, Italy"
+      ],
+      "Journal": "Cardiovascular Research",
+      "Publisher": "Oxford Academic",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Salvatore Guarini",
+        "Maria Michela Cainazzo",
+        "Daniela Giuliani",
+        "Chiara Mioni",
+        "Domenica Altavilla",
+        "Herbert Marini",
+        "Albertino Bigiani",
+        "Valeria Ghiaroni",
+        "Maria Passaniti",
+        "Sheila Leone",
+        "Carla Bazzani",
+        "Achille P Caputi",
+        "Francesco Squadrito",
+        "Alfio Bertolini"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/1/2023 0:00",
+      "RetractionDOI": "10.1093/cvr/cvad019",
+      "RetractionPubMedID": "36857317.0",
+      "OriginalPaperDate": "8/1/2004 0:00",
+      "OriginalPaperDOI": "10.1016/j.cardiores.2004.03.029",
+      "OriginalPaperPubMedID": "15249194.0",
+      "RetractionNature": "Expression of concern",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2004,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234cea7",
+      "Record ID": "8873",
+      "Title": "Intracytoplasmic morphologically selected sperm injection versus conventional intracytoplasmic sperm injection: a randomized controlled trial",
+      "Subject": [
+        "(HSC) Medicine - Obstetrics/Gynecology"
+      ],
+      "Institution": [
+        "Obstetrics and Gynecology Unit, Arcispedale S. Maria Nuova of Reggio Emilia, IRCCS, Reggio Emilia, Viale Risorgimento 80, 42123 Reggio Emilia, Italy",
+        "University of Modena and Reggio Emilia, Via del Pozzo, 71, 41124 Modena, Italy"
+      ],
+      "Journal": "Reproductive Biology and Endocrinology (RB&E)",
+      "Publisher": "BioMed Central (BMC)",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Giovanni Battista La Sala",
+        "Alessia Nicoli",
+        "Eleonor Fornaciari",
+        "Angela Falbo",
+        "Ilaria Rondini",
+        "Daria Morini",
+        "Barbara Valli",
+        "Maria Teresa Villani",
+        "Stefano Palomba"
+      ],
+      "URLS": "http://retractionwatch.com/2017/09/12/fertility-docs-said-study-didnt-need-ethics-review-investigation-said-wrong/",
+      "ArticleType": [
+        "Clinical Study"
+      ],
+      "RetractionDate": "8/11/2017 0:00",
+      "RetractionDOI": "10.1186/s12958-017-0279-9",
+      "RetractionPubMedID": "28800745.0",
+      "OriginalPaperDate": "8/27/2015 0:00",
+      "OriginalPaperDOI": "10.1186/s12958-015-0096-y",
+      "OriginalPaperPubMedID": "26307050.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Company/Institution",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Objections by Author(s)"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2017,
+      "year": 2015,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2344d3f",
+      "Record ID": "42149",
+      "Title": "A 5-year randomized controlled clinical trial comparing 4-mm ultrashort to longer implants placed in regenerated bone in the posterior atrophic jaw",
+      "Subject": [
+        "(HSC) Medicine - Dentistry",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Surgery"
+      ],
+      "Institution": [
+        "Department of Biomedical and Neuromotor Sciences, Unit of Oral Surgery, University of Bologna, Bologna, Italy",
+        "Postgraduate School of Oral Surgery, University of Modena and Reggio Emilia, Modena, Italy",
+        "Oral and Maxillofacial Unit, San Camillo Hospital, Rome, Italy",
+        "Department of Periodontology, University of Bern, Bern, Switzerland"
+      ],
+      "Journal": "Clinical Implant Dentistry and Related Research",
+      "Publisher": "Wiley",
+      "Country": [
+        "Italy",
+        "Switzerland"
+      ],
+      "Author": [
+        "Carlo Barausse",
+        "Roberto Pistilli",
+        "Luigi Canullo",
+        "Lorenzo Bonifazi",
+        "Agnese Ferri",
+        "Pietro Felice"
+      ],
+      "ArticleType": [
+        "Clinical Study"
+      ],
+      "RetractionDate": "1/19/2023 0:00",
+      "RetractionDOI": "10.1111/cid.13174",
+      "RetractionPubMedID": "36655732.0",
+      "OriginalPaperDate": "1/12/2022 0:00",
+      "OriginalPaperDOI": "10.1111/cid.13061",
+      "OriginalPaperPubMedID": "35019219.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Lack of Approval from Author"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
     {
       "_id": "6855d574b14f7811d233fa73",
       "Record ID": "63422",
@@ -185,6 +372,368 @@
       "notice_year": 2023,
       "year": 2023,
       "mark": "supplemental"
+    },
+    {
+      "_id": "6855d574b14f7811d2344c2b",
+      "Record ID": "42425",
+      "Title": "Vagus nerve mediates the protective effects of melanocortins against cerebral and systemic damage after ischemic stroke",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Neuroscience"
+      ],
+      "Institution": [
+        "Section of Pharmacology, Department of Biomedical Sciences, University of Modena and Reggio Emilia, Modena, Italy",
+        "Section of Pharmacology, Department of Clinical and Experimental Medicine and Pharmacology, University of Messina, Messina, Italy",
+        "Department of Anatomy and Histology, University of Modena and Reggio Emilia, Modena, Italy",
+        "Department of Human Pathology, University of Pavia, Pavia, Italy"
+      ],
+      "Journal": "Journal of Cerebral Blood Flow and Metabolism",
+      "Publisher": "SAGE Publications",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Alessandra Ottani",
+        "Daniela Giuliani",
+        "Chiara Mioni",
+        "Maria Galatucci",
+        "Letteria Minutoli",
+        "Alessandra Bitto",
+        "Domenica Altavilla",
+        "Davide Zaffe",
+        "Annibale R Botticelli",
+        "Francesco Squadrito",
+        "Salvatore Guarini"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "2/2/2023 0:00",
+      "RetractionDOI": "10.1177/0271678X231154164",
+      "RetractionPubMedID": "36728142.0",
+      "OriginalPaperDate": "11/19/2008 0:00",
+      "OriginalPaperDOI": "10.1038/jcbfm.2008.140",
+      "OriginalPaperPubMedID": "19018269.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2008,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2345abb",
+      "Record ID": "38675",
+      "Title": "Efferent Vagal Fibre Stimulation Blunts Nuclear Factor-KappaB Activation and Protects Against Hypovolemic Hemorrhagic Shock",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience"
+      ],
+      "Institution": [
+        "Department of Biomedical Sciences, Section of Pharmacology, University of Modena and Reggio Emilia, Modena, Italy",
+        "Department of Biomedical Sciences, Section of Physiology, University of Modena and Reggio Emilia, Modena, Italy",
+        "Department of Clinical and Experimental Medicine and Pharmacology, Section of Pharmacology, University of Messina, Italy",
+        "Department of Internal Medicine, University of Messina, Italy",
+        "Department of Biochemical, Physiological and Nutritional Sciences, University of Messina, Italy",
+        "Department of Neurosciences, Psychiatry and Anesthesiology, University of Messina, Italy"
+      ],
+      "Journal": "Circulation",
+      "Publisher": "American Heart Association",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Salvatore Guarini",
+        "Domenica Altavilla",
+        "Maria Michela Cainazzo",
+        "Daniela Giuliani",
+        "Albertino Bigiani",
+        "Herbert Marini",
+        "Giovanni Squadrito",
+        "Letteria Minutoli",
+        "Alfio Bertolini",
+        "Rolando Marini",
+        "Elena B Adamo",
+        "Francesco S Venuti",
+        "Francesco Squadrito"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/23/2022 0:00",
+      "RetractionDOI": "10.1161/CIR.0000000000001098",
+      "RetractionPubMedID": "35997025.0",
+      "OriginalPaperDate": "3/4/2003 0:00",
+      "OriginalPaperDOI": "10.1161/01.cir.0000050627.90734.ed",
+      "OriginalPaperPubMedID": "12615800.0",
+      "RetractionNature": "Expression of concern",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2003,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234a233",
+      "Record ID": "20305",
+      "Title": "The OMICs Window into Nonalcoholic Fatty Liver Disease (NAFLD)",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Gastroenterology"
+      ],
+      "Institution": [
+        "Division of Gastroenterology, Department of Medical Specialties, University of Modena and Reggio Emilia, 41124 Modena, Italy"
+      ],
+      "Journal": "Metabolites",
+      "Publisher": "MDPI",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Lucia Carulli",
+        "Giulia Zanca",
+        "Filippo Schepsis",
+        "Erica Villa"
+      ],
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "4/11/2019 0:00",
+      "RetractionDOI": "10.3390/metabo9040070",
+      "RetractionPubMedID": "30978954.0",
+      "OriginalPaperDate": "2/1/2019 0:00",
+      "OriginalPaperDOI": "10.3390/metabo9020025",
+      "OriginalPaperPubMedID": "30717274.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2019,
+      "year": 2019,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234209e",
+      "Record ID": "53627",
+      "Title": "Autoantibodies detection in patients affected by autoimmune retinopathies",
+      "Subject": [
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Ophthalmology"
+      ],
+      "Institution": [
+        "Department of Pharmaceutical Sciences, University of Perugia, Perugia, Italy",
+        "MAGI\u2019S LAB, Rovereto, Trento, Italy",
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Siena, Italy",
+        "MAGI EUREGIO, Bolzano, Italy",
+        "MAGISNAT, Atlanta Tech Park, Peachtree Corners, GA, USA",
+        "Department of Ophthalmology, ASST Santi Paolo e Carlo Hospital, University of Milan, Milan, Italy",
+        "Eye Clinic, Department of Biomedical and Clinical Science, Luigi Sacco Hospital, University of Milan, Milan, Italy",
+        "IRCCS Fondazione Bietti, Rome, Italy",
+        "Eye Clinic, Department of Medical, Surgical Sciences and Health, University of Trieste, Trieste, Italy",
+        "Ophthalmology Unit, Bambino Ges\u00f9 Children\u2019s Hospital, IRCSS, Rome, Italy",
+        "Ophthalmology Unit, Fondazione Policlinico Universitario \u201cA. Gemelli\u201d IRCCS/Universit\u00e0 Cattolica del S. Cuore, Rome, Italy",
+        "Imperial College Ophthalmic Research Group (ICORG) Unit, Western Eye Hospital, Imperial College Healthcare NHS Trust, London, United Kingdom",
+        "Eye Clinic, Department of Neurosciences, Reproductive Sciences and Dentistry, University of Naples Federico II, Naples, Italy",
+        "Department of Clinical Sciences and Community Health, University of Milan, Milan, Italy",
+        "Department of Ophthalmology, Fondazione IRCCS C\u00e0 Granda, Clinica Regina Elena, Milan, Italy",
+        "Department of Surgery, Medicine, Dentistry and Morphological Sciences, with Interest in Transplants, Oncology and Regenerative Medicine, University of Modena and Reggio Emilia, Modena, Italy",
+        "Ocular Immunology Unit, Azienda USL-IRCCS, Reggio Emilia, Italy"
+      ],
+      "Journal": "European Review for Medical and Pharmacological Sciences",
+      "Publisher": "Verduci Editore",
+      "Country": [
+        "Italy",
+        "United Kingdom",
+        "United States"
+      ],
+      "Author": [
+        "M R Ceccarini",
+        "Maria Chiari Medori",
+        "K Dhuli",
+        "S Tezzele",
+        "G Bonetti",
+        "C Micheletti",
+        "P E Maltese",
+        "S Cecchin",
+        "K Donato",
+        "L Colombo",
+        "L Rossetti",
+        "G Staurenghi",
+        "A P Salvetti",
+        "M Oldani",
+        "L Ziccardi",
+        "D Marangoni",
+        "G Iarossi",
+        "B Falsini",
+        "G Placidi",
+        "F D\u2019Esposito",
+        "F Viola",
+        "M Nassisi",
+        "G Leone",
+        "L Cimino",
+        "L De Simone",
+        "V Mastrofilippo",
+        "T Beccari",
+        "M Bertelli"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/15/2024 0:00",
+      "RetractionDOI": "10.26355/eurrev_202405_36203",
+      "RetractionPubMedID": "38766784.0",
+      "OriginalPaperDate": "12/18/2023 0:00",
+      "OriginalPaperDOI": "10.26355/eurrev_202312_34690",
+      "OriginalPaperPubMedID": "38112948.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Conflict of Interest",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Manipulation of Images",
+        "+Objections by Author(s)",
+        "+Unreliable Data",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d23448ec",
+      "Record ID": "43263",
+      "Title": "Protective Effects of Melanocortins on Short-Term Changes in a Rat Model of Traumatic Brain Injury",
+      "Subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience",
+        "(BLS) Toxicology"
+      ],
+      "Institution": [
+        "Department of Clinical and Experimental Medicine and Pharmacology, University of Messina, Messina, Italy",
+        "Section of Pharmacology and the Department of Experimental Sciences and Applied Biotechnology, University of Messina, Messina, Italy",
+        "Department of Biochemical, Physiological and Nutritional Sciences, Section of Physiology and Human Nutrition, Messina, Italy",
+        "Department of Biomedical Sciences, Section of Pharmacology, University of Modena and Reggio Emilia, Modena, Italy"
+      ],
+      "Journal": "Critical Care Medicine",
+      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Alessandra Bitto",
+        "Francesca Polito",
+        "Natasha Irrera",
+        "Margherita Calo",
+        "Luca Spaccapelo",
+        "Herbert R Marini",
+        "Daniela Guliani",
+        "Alessandra Ottani",
+        "Mariagrazia Rinaldi",
+        "Letteria Minutoli",
+        "Salvatore Guarini",
+        "Francesco Squadrito",
+        "Domenica Altavilla"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/1/2023 0:00",
+      "RetractionDOI": "10.1097/CCM.0000000000005783",
+      "RetractionPubMedID": "36809272.0",
+      "OriginalPaperDate": "3/1/2012 0:00",
+      "OriginalPaperDOI": "10.1097/CCM.0b013e318236efde",
+      "OriginalPaperPubMedID": "22036855.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Manipulation of Images",
+        "+Objections by Third Party"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/F2E7764DCEDF463CC849C060A23882",
+      "notice_year": 2023,
+      "year": 2012,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d23448e8",
+      "Record ID": "43267",
+      "Title": "Activation of an Efferent Cholinergic Pathway Produces Strong Protection Against Myocardial Ischemia/Reperfusion Injury in Rats",
+      "Subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "Institution": [
+        "Department of Biomedical Sciences, Sections of Pharmacology, University of Modena and Reggio Emilia, Modena",
+        "Department of Physiology, University of Modena and Reggio Emilia, Modena",
+        "Department of General Pathology, University of Modena and Reggio Emilia, Modena",
+        "Department of Anatomy and Histology, University of Modena and Reggio Emilia, Modena",
+        "Department of Diagnostic Services, Section of Clinical Pharmacology, University of Modena and Reggio Emilia, Modena",
+        "the Department of Clinical and Experimental Medicine and Pharmacology, Section of Pharmacology, University of Messina, Messina",
+        "Department of Human Pathology, University of Pavia, Pavia, Italy"
+      ],
+      "Journal": "Critical Care Medicine",
+      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "Country": [
+        "Italy"
+      ],
+      "Author": [
+        "Chiara Mioni",
+        "Carla Bazzani",
+        "Daniela Giuliani",
+        "Domenica Altavilla",
+        "Sheila Leone",
+        "Anna Ferrari",
+        "Letteria Minutoli",
+        "Alessandra Bitto",
+        "Herbert Marini",
+        "Davide Zaffe",
+        "Annibale R Botticelli",
+        "Anna Iannone",
+        "Aldo Tomasi",
+        "Albertino Bigiani",
+        "Alfio Bertolini",
+        "Francesco Squadrito",
+        "Salvatore Guarini"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/1/2023 0:00",
+      "RetractionDOI": "10.1097/CCM.0000000000005779",
+      "RetractionPubMedID": "36809268.0",
+      "OriginalPaperDate": "11/1/2005 0:00",
+      "OriginalPaperDOI": "10.1097/01.CCM.0000186762.05301.13",
+      "OriginalPaperPubMedID": "33361026.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Manipulation of Images"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2005,
+      "mark": "alterations"
     }
   ]
 }

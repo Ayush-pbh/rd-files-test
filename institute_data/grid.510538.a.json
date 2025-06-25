@@ -1,64 +1,79 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba3032f",
+    "_id": "685b3f25aa23308c068777ab",
     "grid_id": "grid.510538.a",
     "institute_name": "Zhejiang Lab",
     "country": "China",
     "retracted_record_ids": [
-      "63781"
-    ],
-    "pub_count": [
-      {
-        "year": 2023,
-        "count": 1847
-      },
-      {
-        "year": 2024,
-        "count": 1515
-      },
-      {
-        "year": 2022,
-        "count": 1189
-      },
-      {
-        "year": 2021,
-        "count": 593
-      },
-      {
-        "year": 2025,
-        "count": 479
-      },
-      {
-        "year": 2020,
-        "count": 240
-      },
-      {
-        "year": 2019,
-        "count": 114
-      },
-      {
-        "year": 2018,
-        "count": 9
-      },
-      {
-        "year": 2011,
-        "count": 1
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2023,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 1
-      }
+      "49482",
+      "63781",
+      "57858",
+      "57716",
+      "40175"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23430b6",
+      "Record ID": "49482",
+      "Title": "A Machine Vision Approach for Classification of Skin Cancer Using Hybrid Texture Features",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "Institution": [
+        "Faculty of Information Technology, Beijing University of Technology, Beijing 100124, China",
+        "Department of Informatics, University of Leicester, Leicester, UK",
+        "Department of Computer Science, Muhammad Nawaz Shareef University of Agriculture, Multan 66000, Pakistan",
+        "Research Center for Healthcare Data Science, Zhejiang Lab, Hangzhou 311121, China",
+        "Faculty of Computer Science and Technology, University of Lahore, Sargodha, Pakistan",
+        "Department of Computer Science, School of Systems & Technology, University of Management and Technology, Lahore, Pakistan"
+      ],
+      "Journal": "Computational Intelligence and Neuroscience",
+      "Publisher": "Hindawi",
+      "Country": [
+        "China",
+        "Pakistan",
+        "United Kingdom"
+      ],
+      "Author": [
+        "Syeda Shamaila Zareen",
+        "Sun Guangmin",
+        "Yu Li",
+        "Mahwish Kundi",
+        "Salman Qadri",
+        "Syed Furqan Qadri",
+        "Mubashir Ahmad",
+        "Ali Haider Khan"
+      ],
+      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/12/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9803790",
+      "RetractionPubMedID": "37476251.0",
+      "OriginalPaperDate": "7/18/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/4942637",
+      "OriginalPaperPubMedID": "35898782.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
     {
       "_id": "6855d574b14f7811d233f910",
       "Record ID": "63781",
@@ -106,6 +121,150 @@
       "Notes": "ACM information page for the original article: https://dl.acm.org/doi/abs/10.3233/JIFS-211999",
       "notice_year": 2024,
       "year": 2023,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234101b",
+      "Record ID": "57858",
+      "Title": "An Efficient Resource and Topological Attribute-Based Configuration Algorithm of Virtual Networks",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "Intelligent Science and Information Engineering College, Xi\u2019an Peihua University, Xi\u2019an 710125, China",
+        "Research Center for Industrial Internet, Zhejiang Lab, Hangzhou 311121, China",
+        "College of Engineering, Beijing Forestry University, Bejing 100091, China"
+      ],
+      "Journal": "Security and Communication Networks",
+      "Publisher": "Hindawi",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Xinyan Wang",
+        "Shunbin Li",
+        "Longju Bai"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/29/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9816403",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "9/28/2021 0:00",
+      "OriginalPaperDOI": "10.1155/2021/9952793",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2021,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d23410a9",
+      "Record ID": "57716",
+      "Title": "Robust Zero Watermarking Algorithm for Medical Images Based on Zernike-DCT",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "School of Information and Communication Engineering, Hainan University, Haikou, China",
+        "State Key Laboratory of Marine Resource Utilization in the South China Sea, Hainan University, Haikou, China",
+        "School of Geography (Remote Sensing & GIS Lab), Nanjing Normal University, Nanjing, China",
+        "Research Center for Healthcare Data Science, Zhejiang Lab, Hangzhou, China",
+        "School of Computing & Mathematical Sciences, University of Greenwich, London, UK"
+      ],
+      "Journal": "Security and Communication Networks",
+      "Publisher": "Hindawi",
+      "Country": [
+        "China",
+        "United Kingdom"
+      ],
+      "Author": [
+        "Chengshan Yang",
+        "Jingbing Li",
+        "Uzair Aslam Bhatti",
+        "Jing Liu",
+        "Jixin Ma",
+        "Mengxing Huang"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "1/9/2024 0:00",
+      "RetractionDOI": "10.1155/2024/9856508",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "11/10/2021 0:00",
+      "OriginalPaperDOI": "10.1155/2021/4944797",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2021,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d23454e7",
+      "Record ID": "40175",
+      "Title": "Application of combined kernel function artificial intelligence algorithm in mobile communication network security authentication mechanism",
+      "Subject": [
+        "(B/T) Computer Science"
+      ],
+      "Institution": [
+        "Key Laboratory of Trustworthy Distributed Computing and Service (BUPT), Ministry of Education, Beijing University of Posts and Telecommunications, Beijing, China",
+        "Zhejiang Lab, Hangzhou, China"
+      ],
+      "Journal": "The Journal of Supercomputing",
+      "Publisher": "Springer",
+      "Country": [
+        "China"
+      ],
+      "Author": [
+        "Zhongru Wang",
+        "Binxing Fang"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/7/2022 0:00",
+      "RetractionDOI": "10.1007/s11227-022-04862-0",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "6/21/2019 0:00",
+      "OriginalPaperDOI": "10.1007/s11227-019-02896-5",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2019,
       "mark": "integrity"
     }
   ]

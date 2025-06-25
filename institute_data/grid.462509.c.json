@@ -1,166 +1,109 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba303d8",
+    "_id": "685b3f25aa23308c06877854",
     "grid_id": "grid.462509.c",
     "institute_name": "Kuwait Petroleum Corporation (Kuwait)",
     "country": "Kuwait",
     "retracted_record_ids": [
+      "52498",
+      "53222",
       "63557",
-      "63548",
       "63547",
-      "63560"
-    ],
-    "pub_count": [
-      {
-        "year": 2019,
-        "count": 178
-      },
-      {
-        "year": 2018,
-        "count": 176
-      },
-      {
-        "year": 2024,
-        "count": 150
-      },
-      {
-        "year": 2015,
-        "count": 149
-      },
-      {
-        "year": 2023,
-        "count": 131
-      },
-      {
-        "year": 2017,
-        "count": 120
-      },
-      {
-        "year": 2013,
-        "count": 118
-      },
-      {
-        "year": 2021,
-        "count": 118
-      },
-      {
-        "year": 2016,
-        "count": 117
-      },
-      {
-        "year": 2022,
-        "count": 99
-      },
-      {
-        "year": 2014,
-        "count": 89
-      },
-      {
-        "year": 2020,
-        "count": 84
-      },
-      {
-        "year": 2012,
-        "count": 72
-      },
-      {
-        "year": 2011,
-        "count": 61
-      },
-      {
-        "year": 2009,
-        "count": 57
-      },
-      {
-        "year": 2025,
-        "count": 55
-      },
-      {
-        "year": 2010,
-        "count": 31
-      },
-      {
-        "year": 2007,
-        "count": 30
-      },
-      {
-        "year": 2008,
-        "count": 24
-      },
-      {
-        "year": 2003,
-        "count": 20
-      },
-      {
-        "year": 2001,
-        "count": 16
-      },
-      {
-        "year": 1998,
-        "count": 12
-      },
-      {
-        "year": 1999,
-        "count": 12
-      },
-      {
-        "year": 2006,
-        "count": 10
-      },
-      {
-        "year": 1997,
-        "count": 9
-      },
-      {
-        "year": 2004,
-        "count": 6
-      },
-      {
-        "year": 2005,
-        "count": 6
-      },
-      {
-        "year": 2000,
-        "count": 5
-      },
-      {
-        "year": 2002,
-        "count": 5
-      },
-      {
-        "year": 1958,
-        "count": 4
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2013,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2014,
-        "count": 2,
-        "notice_count": 0
-      },
-      {
-        "year": 2016,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 1
-      },
-      {
-        "year": 2025,
-        "count": 0,
-        "notice_count": 3
-      }
+      "63560",
+      "63548"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23424f4",
+      "Record ID": "52498",
+      "Title": "Fetal fibronectin (Quick Check fFN test) versus placental alpha microglobulin-1 (AmniSure test) for detection of premature rupture of fetal membranes",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Obstetrics/Gynecology"
+      ],
+      "Institution": [
+        "Department of Obstetrics and Gynecology, Ain Shams University, Cairo, Egypt",
+        "Department of Obstetrics and Gynecology, Ahmadi Hospital, Kuwait Oil Company (KOC), P.O. Box 9758, 61008, Ahmadi, Kuwait"
+      ],
+      "Journal": "Archives of Gynecology and Obstetrics",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "Egypt",
+        "Kuwait"
+      ],
+      "Author": [
+        "Ibrahim A Abdelazim",
+        "Khaled M Abdelrazak",
+        "Mohamed Al-kadi",
+        "Amr H Yehia",
+        "Amr F Abdulkareem"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "2/20/2024 0:00",
+      "RetractionDOI": "10.1007/s00404-024-07430-4",
+      "RetractionPubMedID": "38378790.0",
+      "OriginalPaperDate": "4/9/2014 0:00",
+      "OriginalPaperDOI": "10.1007/s00404-014-3225-5",
+      "OriginalPaperPubMedID": "24715211.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Duplication of Data",
+        "+Euphemisms for Duplication",
+        "+Objections by Author(s)"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2014,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2342223",
+      "Record ID": "53222",
+      "Title": "Fetal fibronectin (Quick Check fFN test) for detection of premature rupture of fetal membranes",
+      "Subject": [
+        "(HSC) Medicine - Obstetrics/Gynecology"
+      ],
+      "Institution": [
+        "Department of Obstetrics and Gynecology, Ain Shams University, Abbassia, Cairo, Egypt",
+        "Ahmadi Hospital, Kuwait Oil Company (KOC), P.O. Box: 9758, 61008, Ahmadi, Kuwait"
+      ],
+      "Journal": "Archives of Gynecology and Obstetrics",
+      "Publisher": "Springer",
+      "Country": [
+        "Egypt",
+        "Kuwait"
+      ],
+      "Author": [
+        "Ibrahim A Abdelazim"
+      ],
+      "ArticleType": [
+        "Clinical Study"
+      ],
+      "RetractionDate": "12/27/2023 0:00",
+      "RetractionDOI": "10.1007/s00404-023-07318-9",
+      "RetractionPubMedID": "38150039.0",
+      "OriginalPaperDate": "9/12/2012 0:00",
+      "OriginalPaperDOI": "10.1007/s00404-012-2548-3",
+      "OriginalPaperPubMedID": "22968578.0",
+      "RetractionNature": "Reinstatement",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Euphemisms for Plagiarism",
+        "+Objections by Author(s)",
+        "+Plagiarism of Data",
+        "+Plagiarism of Image",
+        "+Retract and Replace"
+      ],
+      "Paywalled": "No",
+      "Notes": "A correction was publishsed on December 3, 2024 stating that the article is not retracted, no explanation given; see https://link.springer.com/article/10.1007/s00404-024-07852-0",
+      "notice_year": 2023,
+      "year": 2012,
+      "mark": "alterations"
+    },
     {
       "_id": "6855d574b14f7811d233f9ed",
       "Record ID": "63557",
@@ -207,57 +150,6 @@
       "Paywalled": "No",
       "notice_year": 2024,
       "year": 2016,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d233f9f6",
-      "Record ID": "63548",
-      "Title": "Maternal and obstetrical factors associated with a successful trial of vaginal birth after cesarean section",
-      "Subject": [
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department Of Obstetrics And Gynecology, Ain Shams University Faculty Of Medicine, Cairo, Egypt",
-        "Department Of Obstetrics And Gynecology, Ahmadi Hospital, Kuwait Oil Company (Koc), Ahmadi, Kuwait",
-        "Department Of Obstetrics And Gynecology, Sabah Maternity Hospital, Kuwait",
-        "Department Of Obstetrics And Gynecology And Reproductive Endocrinology, King Hussein Medical Center, Amman, Jordan"
-      ],
-      "Journal": "Journal of the Turkish German Gynecological Association",
-      "Publisher": "Galenos Publishing",
-      "Country": [
-        "Egypt",
-        "Jordan",
-        "Kuwait"
-      ],
-      "Author": [
-        "\u0130brahim A Abdelazim",
-        "Assem A M Elbiaa",
-        "Mohamed Al-Kadi",
-        "Amr H Yehia",
-        "Bassam M Sami Nusair",
-        "Mohannad Abu Faza"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/12/2025 0:00",
-      "RetractionDOI": "10.4274/jtgga.galenos.2025.e004",
-      "RetractionPubMedID": "40078019.0",
-      "OriginalPaperDate": "11/4/2014 0:00",
-      "OriginalPaperDOI": "10.5152/jtgga.2014.14104",
-      "OriginalPaperPubMedID": "25584035.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2014,
       "mark": "research"
     },
     {
@@ -354,6 +246,57 @@
       "notice_year": 2025,
       "year": 2014,
       "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d233f9f6",
+      "Record ID": "63548",
+      "Title": "Maternal and obstetrical factors associated with a successful trial of vaginal birth after cesarean section",
+      "Subject": [
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "Institution": [
+        "Department Of Obstetrics And Gynecology, Ain Shams University Faculty Of Medicine, Cairo, Egypt",
+        "Department Of Obstetrics And Gynecology, Ahmadi Hospital, Kuwait Oil Company (Koc), Ahmadi, Kuwait",
+        "Department Of Obstetrics And Gynecology, Sabah Maternity Hospital, Kuwait",
+        "Department Of Obstetrics And Gynecology And Reproductive Endocrinology, King Hussein Medical Center, Amman, Jordan"
+      ],
+      "Journal": "Journal of the Turkish German Gynecological Association",
+      "Publisher": "Galenos Publishing",
+      "Country": [
+        "Egypt",
+        "Jordan",
+        "Kuwait"
+      ],
+      "Author": [
+        "\u0130brahim A Abdelazim",
+        "Assem A M Elbiaa",
+        "Mohamed Al-Kadi",
+        "Amr H Yehia",
+        "Bassam M Sami Nusair",
+        "Mohannad Abu Faza"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/12/2025 0:00",
+      "RetractionDOI": "10.4274/jtgga.galenos.2025.e004",
+      "RetractionPubMedID": "40078019.0",
+      "OriginalPaperDate": "11/4/2014 0:00",
+      "OriginalPaperDOI": "10.5152/jtgga.2014.14104",
+      "OriginalPaperPubMedID": "25584035.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2025,
+      "year": 2014,
+      "mark": "research"
     }
   ]
 }

@@ -1,155 +1,252 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba3036a",
+    "_id": "685b3f25aa23308c068777e6",
     "grid_id": "grid.465076.6",
     "institute_name": "Centre for Science and Environment",
     "country": "India",
     "retracted_record_ids": [
+      "49170",
+      "37883",
+      "16479",
+      "19107",
+      "37429",
       "63673",
-      "63281"
-    ],
-    "pub_count": [
-      {
-        "year": 2023,
-        "count": 58
-      },
-      {
-        "year": 2024,
-        "count": 54
-      },
-      {
-        "year": 2022,
-        "count": 53
-      },
-      {
-        "year": 2021,
-        "count": 42
-      },
-      {
-        "year": 2019,
-        "count": 34
-      },
-      {
-        "year": 2020,
-        "count": 27
-      },
-      {
-        "year": 2025,
-        "count": 23
-      },
-      {
-        "year": 2017,
-        "count": 16
-      },
-      {
-        "year": 2016,
-        "count": 13
-      },
-      {
-        "year": 2014,
-        "count": 12
-      },
-      {
-        "year": 2018,
-        "count": 12
-      },
-      {
-        "year": 2015,
-        "count": 11
-      },
-      {
-        "year": 2013,
-        "count": 9
-      },
-      {
-        "year": 2012,
-        "count": 7
-      },
-      {
-        "year": 2009,
-        "count": 6
-      },
-      {
-        "year": 2010,
-        "count": 4
-      },
-      {
-        "year": 2011,
-        "count": 4
-      },
-      {
-        "year": 2002,
-        "count": 3
-      },
-      {
-        "year": 1986,
-        "count": 2
-      },
-      {
-        "year": 1996,
-        "count": 2
-      },
-      {
-        "year": 1997,
-        "count": 2
-      },
-      {
-        "year": 2001,
-        "count": 2
-      },
-      {
-        "year": 2005,
-        "count": 2
-      },
-      {
-        "year": 2006,
-        "count": 2
-      },
-      {
-        "year": 2007,
-        "count": 2
-      },
-      {
-        "year": 1992,
-        "count": 1
-      },
-      {
-        "year": 1995,
-        "count": 1
-      },
-      {
-        "year": 1999,
-        "count": 1
-      },
-      {
-        "year": 2003,
-        "count": 1
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2019,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2021,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2023,
-        "count": 0,
-        "notice_count": 1
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 1
-      }
+      "59408",
+      "37903",
+      "62629",
+      "45316",
+      "37879",
+      "37720",
+      "8500",
+      "36178",
+      "45220",
+      "56324",
+      "39098",
+      "59577",
+      "37920",
+      "18853",
+      "40833",
+      "63281",
+      "54999",
+      "62346",
+      "46777",
+      "58642"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23431ee",
+      "Record ID": "49170",
+      "Title": "A Hybrid Approach for Plant Leaf Disease Detection and Classification Using Digital Image Processing Methods",
+      "Subject": [
+        "(BLS) Agriculture",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "Institution": [
+        "Department of ISE, Dayanand Sagar Academy of Technology and Management Bengaluru, India",
+        "Department of CSE, SDM college of Engineering and Technology Dharwad, India"
+      ],
+      "Journal": "The International Journal of Electrical Engineering & Education",
+      "Publisher": "SAGE Publications",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Anusha Rao",
+        "S B Kulkarni"
+      ],
+      "URLS": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/;https://retractionwatch.com/2023/11/02/sage-retracts-more-than-200-papers-from-journal-for-compromised-peer-review/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "11/1/2023 0:00",
+      "RetractionDOI": "10.1177/00207209231197948",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "10/4/2020 0:00",
+      "OriginalPaperDOI": "10.1177/0020720920953126",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2345dcd",
+      "Record ID": "37883",
+      "Title": "Automatic liver cancer detection in abdominal liver images using soft optimization techniques",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of Mathematics S&H, Christian College of Engineering and Technology, Oddanchatram, India",
+        "Department of CSE, Christian College of Engineering and Technology, Oddanchatram, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "V Hemalatha",
+        "C Sundar"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/20/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-04194-0",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "4/6/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-01885-4",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234b10a",
+      "Record ID": "16479",
+      "Title": "Classification of Time Series Data by One Class Classifier Using DTW-D",
+      "Subject": [
+        "(B/T) Data Science"
+      ],
+      "Institution": [
+        "Department of Computer Science, CUK, Kasaragod, Kerala 671 316, India",
+        "Department of CSE, SR Engg. College, Hanumakonda, Telangana 506 371, India"
+      ],
+      "Journal": "Procedia Computer Science",
+      "Publisher": "Elsevier",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Vasimalla Kumar",
+        "C Narasimham",
+        "B Sujith"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/21/2015 0:00",
+      "RetractionDOI": "10.1016/j.procs.2015.06.040",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "6/1/2015 0:00",
+      "OriginalPaperDOI": "10.1016/j.procs.2015.06.040",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2015,
+      "year": 2015,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234a6dc",
+      "Record ID": "19107",
+      "Title": "Statistical bound of bubble sort algorithm in serial and parallel computations",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(PHY) Statistics"
+      ],
+      "Institution": [
+        "Department of CSE & IT, AITM, Pahal, Bhubneswar-752101, Odisha, India",
+        "Department of Applied Mathematics, BIT, Mesra, Ranchi-835215, Jharkhand, India",
+        "Department IT, CET, Ghatikia, Bhubaneswar-752038, Odisha, India"
+      ],
+      "Journal": "2015 Intl Conference on Electrical, Electronics, Signals, Communication and Optimization (EESCO)",
+      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Sunil Kumar Panigrahi",
+        "Soubhik Chakraborty",
+        "Jibitesh Mishra"
+      ],
+      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/10/2015 0:00",
+      "RetractionDOI": "10.1109/EESCO.2015.7253812",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/24/2015 0:00",
+      "OriginalPaperDOI": "10.1109/EESCO.2015.7253812",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Not Presented at Conference"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2015,
+      "year": 2015,
+      "mark": "supplemental"
+    },
+    {
+      "_id": "6855d574b14f7811d2345f93",
+      "Record ID": "37429",
+      "Title": "MHO: meta heuristic optimization applied task scheduling with load balancing technique for cloud infrastructure services",
+      "Subject": [
+        "(B/T) Business - Management",
+        "(B/T) Computer Science"
+      ],
+      "Institution": [
+        "Department of CSE, M.E.T Engineering College, Nagercoil, Tamilnadu, India",
+        "Department of CSE, University College of Engineering Pattukkottai, Marudangavayal, Tamilnadu, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "S Peer Mohamed Ziyath",
+        "S Senthilkumar"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/23/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-03948-0",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "7/23/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-02282-7",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
     {
       "_id": "6855d574b14f7811d233f97b",
       "Record ID": "63673",
@@ -203,6 +300,715 @@
       "mark": "integrity"
     },
     {
+      "_id": "6855d574b14f7811d2340a12",
+      "Record ID": "59408",
+      "Title": "Image Processing and Machine Learning-Based Classification and Detection of Liver Tumor",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "CSE Department, VR Siddhartha Engineering College, Andhra Pradesh, India",
+        "Department of Mathematics, Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Vignana Jyothi Nagar, Pragathi Nagar, Nizampet, Hyderabad, Telangana, India",
+        "Department of Electronics and Communication, Oriental Institute of Science and Technology, Bhopal, India",
+        "Department of Computer Science, Government College, Makdone (Vikram University), Ujjain, India",
+        "Department of Information Technology, Smt. Kashibai Navale College of Engineering, Savitribai Phule Pune University, Pune, India",
+        "Department of E&TC, Sinhgad College of Engineering, Savitribai Phule Pune University, Pune, Maharashtra, India",
+        "Department of Information Technology, Sinhgad Academy of Engineering, Savitribai Phule Pune University, Pune, India",
+        "Department of Information Technology, Dambi Dollo University, Dembi Dolo, Welega, Ethiopia"
+      ],
+      "Journal": "BioMed Research International",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ethiopia",
+        "India"
+      ],
+      "Author": [
+        "V. Durga Prasad Jasti",
+        "Enagandula Prasad",
+        "Manish Sawale",
+        "Shivlal Mewada",
+        "Manoj L. Bangare",
+        "Pushpa M. Bangare",
+        "Sunil L. Bangare",
+        "F. Sammy"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/13/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9865170",
+      "RetractionPubMedID": "38125069.0",
+      "OriginalPaperDate": "7/26/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/3398156",
+      "OriginalPaperPubMedID": "35928918.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2345db9",
+      "Record ID": "37903",
+      "Title": "ANN and fuzzy based household energy consumption prediction with high accuracy",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(PHY) Energy"
+      ],
+      "Institution": [
+        "Department of CSE, Velammal Institute of Technology, Pancheti, Tamilnadu, India",
+        "Department of CSE, R.M.D.Engineering College, Kavarapettai, Tamilnadu, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "K Balachander",
+        "D Paulraj"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/23/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-04223-y",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "8/19/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-02455-4",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d233fd7e",
+      "Record ID": "62629",
+      "Title": "Securing healthcare big data in industry 4.0: cryptography encryption with hybrid optimization algorithm for IoT applications",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Public Health and Safety"
+      ],
+      "Institution": [
+        "Department of Computer Science and Engineering, School of Computing, MIT ADT University, Pune, Maharashtra, India",
+        "School of Computing Science and Engineering, Rajalakshmi Engineering College, Mevalurkuppam, India",
+        "Department of Computer Science and Engineering, SRK Institute of Technology, Vijayawada, AP, India",
+        "Department of Computer Science and Engineering, Panimalar Engineering College, Chennai, India",
+        "Department of Computer Science and Engineering, MLR Institute of Technology, Dundigal, Hyderabad, Telangana, India",
+        "Department of Computer Science and Engineering, Koneru Lakshmaiah Education Foundation, Vaddeswaram, Guntur, India",
+        "Department of CSE, KG Reddy College of Engineering and Technology, Chilukuru Village, Telangana, India"
+      ],
+      "Journal": "Optical and Quantum Electronics",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Chandrashekhar Goswami",
+        "P Tamil Selvi",
+        "Velagapudi Sreenivas",
+        "J Seetha",
+        "Ajmeera Kiran",
+        "Vamsidhar Talasila",
+        "K Maithili"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/12/2024 0:00",
+      "RetractionDOI": "10.1007/s11082-024-07445-w",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "12/30/2023 0:00",
+      "OriginalPaperDOI": "10.1007/s11082-023-05672-1",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d23440ed",
+      "Record ID": "45316",
+      "Title": "Adaptive OFDM Vs Single Carrier Modulation with Frequency Domain Equalization",
+      "Subject": [
+        "(PHY) Engineering - Electrical"
+      ],
+      "Institution": [
+        "Dept of CSE, Institute of Technology & Management, Gurgaon, India",
+        "Dept of ECE, National Institute of Technology, Suratkal, India",
+        "Delhi Technological University, Delhi, Delhi, IN"
+      ],
+      "Journal": "2009 International Conference on Computer Engineering and Technology",
+      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Kaur Inderjeet",
+        "Thakur Kamal",
+        "M Kulkarni",
+        "Gupta Daya",
+        "Arora Prabhjyot"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "2/2/2009 0:00",
+      "RetractionDOI": "10.1109/ICCET.2009.243",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/22/2009 0:00",
+      "OriginalPaperDOI": "10.1109/ICCET.2009.243",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Date of Article and/or Notice Unknown",
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Journal/Publisher",
+        "+Plagiarism of Text"
+      ],
+      "Paywalled": "No",
+      "Notes": "The lead author, K. Inderjeet, was solely responsible for the violation.",
+      "notice_year": 2009,
+      "year": 2009,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2345dd1",
+      "Record ID": "37879",
+      "Title": "Computer aided diagnosis of brain tumor using novel classification techniques",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of CSE, Marthandam College of Engineering and Technology, Kuttakuzhi, TamilNadu, India",
+        "Department of EEE, Arunachala College of Engineering for Women, Vellichanthai, TamilNadu, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Jasmine Paul",
+        "T S Sivarani"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/15/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-04137-9",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "7/31/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-02429-6",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2345e70",
+      "Record ID": "37720",
+      "Title": "Quality of service (Qos) and priority aware models for adaptive efficient image retrieval in WSN using TBL routing with RLBP features",
+      "Subject": [
+        "(B/T) Computer Science"
+      ],
+      "Institution": [
+        "Computer Science and Engineering, P.M.R. Engineering College, Chennai, Tamil Nadu, India",
+        "Manappuram Comptech and Consultant Limited, Thrissur, Kerala, India",
+        "Department of CSE, Sree Narayana Manglam Institute of Management and Technology, Ernakulam, Kerala, India",
+        "Computer Science and Engineering, Saveetha Engineering College, Chennai, Tamil Nadu, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "K Dinakaran",
+        "K R Adinadh",
+        "K R Sanjuna",
+        "P Valarmathie"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/23/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-03950-6",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "3/6/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-01793-7",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234d018",
+      "Record ID": "8500",
+      "Title": "Rollback APIs for Cloud Management through AI Planning",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(ENV) Climatology"
+      ],
+      "Institution": [
+        "Mtech CSE, Jayoti Vidyapeeth Womens University Jaipur, Rajasthan"
+      ],
+      "Journal": "International Journal of Computer Applications",
+      "Publisher": "Foundation of Computer Science (FCS)",
+      "Country": [
+        "India",
+        "Unknown"
+      ],
+      "Author": [
+        "Amandeep Saini",
+        "Surbhi Sahu",
+        "Harpreet Saini",
+        "Sonali Rathod"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "11/1/2015 0:00",
+      "RetractionDOI": "unavailable",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "6/1/2014 0:00",
+      "OriginalPaperDOI": "unavailable",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Third Party",
+        "+Plagiarism of Text",
+        "+Removed"
+      ],
+      "Paywalled": "Unknown",
+      "Notes": "affiliations taken from other artilces by same authors;",
+      "notice_year": 2015,
+      "year": 2014,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2346463",
+      "Record ID": "36178",
+      "Title": "50mv/Bar Sensitivity Piezoresistive MEMS Altimeter Design for The Agricultural Drones",
+      "Subject": [
+        "(B/T) Technology",
+        "(BLS) Agriculture"
+      ],
+      "Institution": [
+        "Department of ECE, GITAM deemed to be University, India",
+        "CSE Department, M.M. Deemed to be University, Mullana, Haryana, India",
+        "Department of ECE, Matrusri Engineering college, Saidabad, Hyderabad, Telangana, India"
+      ],
+      "Journal": "IOP Conference Series: Materials Science and Engineering",
+      "Publisher": "IOP Publishing",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Prathyusha Sunkari",
+        "Avinash Sharma",
+        "M Sushanth Babu",
+        "Jyothsna Undrakonda",
+        "Sreenivasa Rao Ijjada"
+      ],
+      "URLS": "https://retractionwatch.com/2022/02/23/publisher-retracts-350-papers-at-once/",
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "2/23/2022 0:00",
+      "RetractionDOI": "10.1088/1757-899X/1145/1/012207",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "3/25/2021 0:00",
+      "OriginalPaperDOI": "10.1088/1757-899X/1145/1/012088",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Computer-Aided Content or Computer-Generated Content"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2021,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234414d",
+      "Record ID": "45220",
+      "Title": "Towards Achieving Efficient and Secure Way to Share the Data",
+      "Subject": [
+        "(B/T) Data Science"
+      ],
+      "Institution": [
+        "CSE Department, SKIT, Bengaluru, Karnataka, India",
+        "ISE Department, Sir MVIT, Bengaluru, Karnataka, India",
+        "ISE Denartment, NMAMIT, Nitte, Karnataka, India"
+      ],
+      "Journal": "2017 IEEE 7th International Advance Computing Conference (IACC)",
+      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Naveen Ghorpade",
+        "P Vijaykarthik",
+        "V Dhananjaya",
+        "R Balasubramani"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "7/13/2017 0:00",
+      "RetractionDOI": "10.1109/IACC.2017.0018",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/5/2017 0:00",
+      "OriginalPaperDOI": "10.1109/IACC.2017.0018",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Date of Article and/or Notice Unknown",
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Journal/Publisher",
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2017,
+      "year": 2017,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2341618",
+      "Record ID": "56324",
+      "Title": "Machine Learning and Cloud-Based Knowledge Graphs to Recognize Suicidal Mental Tendencies",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Public Health and Safety",
+        "(SOC) Psychology"
+      ],
+      "Institution": [
+        "Department of Computer Science and Engineering, CMR Institute of Technology, Hyderabad, India",
+        "Department of CSE, GRIET, Telangana, India",
+        "Indian Institute of Management, Kozhikode, India",
+        "Mathematics Department, Zagazig University, Faculty of Science, Egypt",
+        "Department of Computer Science, College of Engineering and Technology, Dambi Dollo University, Dambi Dollo, Oromia Region, Ethiopia"
+      ],
+      "Journal": "Computational Intelligence and Neuroscience",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Egypt",
+        "Ethiopia",
+        "India"
+      ],
+      "Author": [
+        "Vinit Kumar Gunjan",
+        "Yellasiri Vijayalata",
+        "Susmitha Valli",
+        "Sumit Kumar",
+        "Marwa O Mohamed",
+        "Veerasamy Saravanan"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "10/4/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9762865",
+      "RetractionPubMedID": "37829892.0",
+      "OriginalPaperDate": "3/17/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/3604113",
+      "OriginalPaperPubMedID": "35341205.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "First names of authors Y. Vijayalata, M. O. Mohamed, V. Saravanan are derived from their ORCID/Scopus profile",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2345915",
+      "Record ID": "39098",
+      "Title": "A review on bioinformatics using data mining techniques",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "Department Of CSE, KLEF, Vaddeswaram, India",
+        "Department Of CSE, Sir C R Reddy College Of Engineering, India"
+      ],
+      "Journal": "Journal of Physics: Conference Series",
+      "Publisher": "IOP Publishing",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "P Naga Deepthi",
+        "Raju Anitha",
+        "K Swathi"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "8/31/2022 0:00",
+      "RetractionDOI": "10.1088/1742-6596/1228/1/012079",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "12/27/2018 0:00",
+      "OriginalPaperDOI": "10.1088/1742-6596/1228/1/012023",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Third Party",
+        "+Plagiarism of Article",
+        "+Computer-Aided Content or Computer-Generated Content"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2018,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d2340969",
+      "Record ID": "59577",
+      "Title": "Review on Epileptic Seizure Prediction: Machine Learning and Deep Learning Approaches",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Neurology"
+      ],
+      "Institution": [
+        "Department of Electronics and Telecommunication, Symbiosis Institute of Technology, Symbiosis International (Deemed University), SIU, Lavale, Pune, Maharashtra, India",
+        "Symbiosis Institute of Technology (SIT), Symbiosis International (Deemed University), SIU, Lavale, Pune, Maharashtra, India",
+        "Symbiosis Centre of Applied AI (SCAAI), Symbiosis International (Deemed) University, Pune 412115, India",
+        "Computer Science and Information Technology Department, Symbiosis Institute of Technology, Symbiosis International (Deemed) University, Pune 412115, India",
+        "Department of CSE&IT, Jaypee Institute of Information Technology Noida, India"
+      ],
+      "Journal": "Computational and Mathematical Methods in Medicine",
+      "Publisher": "Hindawi",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Milind Natu",
+        "Mrinal Bachute",
+        "Shilpa Gite",
+        "Ketan Kotecha",
+        "Ankit Vidyarthi"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "12/13/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9853636",
+      "RetractionPubMedID": "38124919.0",
+      "OriginalPaperDate": "1/20/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/7751263",
+      "OriginalPaperPubMedID": "35096136.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2345da8",
+      "Record ID": "37920",
+      "Title": "Efficient optimal resource allocation for profit maximization in software defined network approach to improve quality of service in cloud environments",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "Department of CSE, NPR College of Engineering & Technology, Natham, India",
+        "Department of ECE, PSNA College of Engineering & Technology, Dindigul, India"
+      ],
+      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "Publisher": "Springer",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "R Divya",
+        "V E Jayanthi"
+      ],
+      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/23/2022 0:00",
+      "RetractionDOI": "10.1007/s12652-022-04219-8",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "6/15/2020 0:00",
+      "OriginalPaperDOI": "10.1007/s12652-020-02192-8",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2022,
+      "year": 2020,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234a7d8",
+      "Record ID": "18853",
+      "Title": "Mobile End-Node Location Tracking and Prediction",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "Institution": [
+        "Department of CSE, Lourdes Matha College of Science and Technology, Kuttichal, Thiruvanadapuram, India"
+      ],
+      "Journal": "Procedia Engineering",
+      "Publisher": "Elsevier",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Baby Chellam Manjith",
+        "C S Shijin"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "9/5/2012 0:00",
+      "RetractionDOI": "10.1016/j.proeng.2012.06.103",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/1/2012 0:00",
+      "OriginalPaperDOI": "10.1016/j.proeng.2012.06.103",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Plagiarism of Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2012,
+      "year": 2012,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234525d",
+      "Record ID": "40833",
+      "Title": "A Hybrid Approach for Plant Leaf Disease Detection and Classification Using Digital Image Processing Methods",
+      "Subject": [
+        "(BLS) Agriculture",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "Institution": [
+        "Department of ISE, Dayanand Sagar Academy of Technology and Management Bengaluru, India",
+        "Department of CSE, SDM college of Engineering and Technology Dharwad, India"
+      ],
+      "Journal": "The International Journal of Electrical Engineering & Education",
+      "Publisher": "SAGE Publications",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "Anusha Rao",
+        "S B Kulkarni"
+      ],
+      "URLS": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/15/2021 0:00",
+      "RetractionDOI": "10.1177/00207209211064046",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "10/4/2020 0:00",
+      "OriginalPaperDOI": "10.1177/0020720920953126",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Expression of concern",
+      "Reason": [
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Updated to Retraction"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2021,
+      "year": 2020,
+      "mark": "system"
+    },
+    {
       "_id": "6855d574b14f7811d233fafe",
       "Record ID": "63281",
       "Title": "Improvement in Hadoop performance using integrated feature extraction and machine learning algorithms",
@@ -249,6 +1055,195 @@
       "notice_year": 2024,
       "year": 2019,
       "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2341b44",
+      "Record ID": "54999",
+      "Title": "Metaheuristic Deep Learning-Driven Wireless Communication Security Adaptation Using Multivariate Analysis of Variance (MANOVA)",
+      "Subject": [
+        "(B/T) Technology",
+        "(PHY) Engineering - Electrical"
+      ],
+      "Institution": [
+        "Bharati Vidyapeeth (Deemed to Be University) College of Engineering, Pune, Maharashtra, India",
+        "Department of Computer Science and Engineering, SRM Institute of Science and Technology, Ramapuram Campus, Chennai, India",
+        "Department of Mathematics, Sri Sairam Engineering College, Anna University, Chennai, Tamil Nadu, India",
+        "Department of CSE, SRM IST, NCR Campus, Ghaziabad, Uttar Pradesh, India",
+        "Electronics and Communication Engineering, Netaji Subhas University of Technology, East Campus, Formerly Ambedkar Institute of Advanced Communication Technologies and Research, New Delhi, India",
+        "Department of Information Technology, AISSMS Institute of Information Technology, Pune, Maharashtra, India",
+        "Department of Agricultural Engineering, School of Engineering Sciences, University of Ghana, Accra, Ghana"
+      ],
+      "Journal": "Security and Communication Networks",
+      "Publisher": "Hindawi",
+      "Country": [
+        "Ghana",
+        "India"
+      ],
+      "Author": [
+        "Pallavi Deshpande",
+        "N Suganthi",
+        "G Nirmala",
+        "Anand Pandey",
+        "Patteti Krishna",
+        "Meenakshi Anurag Thalor",
+        "Evans Asenso"
+      ],
+      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/12/2023 0:00",
+      "RetractionDOI": "10.1155/2023/9837276",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "5/6/2022 0:00",
+      "OriginalPaperDOI": "10.1155/2022/8426997",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2023,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d233fe98",
+      "Record ID": "62346",
+      "Title": "A novel deep neural network with adaptive sine cosine crow search (DNN-ASCCS) model for content based medical image retrieval",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "Institution": [
+        "Department of CSE, Arunachala College of Engineering for Women, Vellichanthai, India",
+        "Department of EEE, Arunachala College of Engineering for Women, Vellichanthai, India"
+      ],
+      "Journal": "Journal of Intelligent & Fuzzy Systems",
+      "Publisher": "IOS Press (bought by Sage November 2023)",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "C Subha Darathy",
+        "C Agees Kumar"
+      ],
+      "URLS": "https://retractionwatch.com/2024/08/23/exclusive-publisher-retracts-more-than-450-papers-from-journal-it-acquired-last-year/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "8/23/2024 0:00",
+      "RetractionDOI": "10.3233/jifs-219433",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/30/2023 0:00",
+      "OriginalPaperDOI": "10.3233/jifs-222872",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d2343b40",
+      "Record ID": "46777",
+      "Title": "Facial Recognition Using Aggregation and Random Forest Classification Method",
+      "Subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(PHY) Engineering - Electrical"
+      ],
+      "Institution": [
+        "Computer Science and Engineering, Vardhaman College of Engineering, Shamshabad, India",
+        "CSE, Vardhaman College of Engineering, Hyderabad, India",
+        "CSE, JNTU Hyderabad, India"
+      ],
+      "Journal": "Journal of Physics: Conference Series",
+      "Publisher": "IOP Publishing",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "K Aishwarya",
+        "B Suresh Kumar",
+        "S Viswanadha Raju"
+      ],
+      "ArticleType": [
+        "Conference Abstract/Paper"
+      ],
+      "RetractionDate": "7/25/2023 0:00",
+      "RetractionDOI": "10.1088/1742-6596/1362/1/012165",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "11/18/2019 0:00",
+      "OriginalPaperDOI": "10.1088/1742-6596/1362/1/012078",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/DA5C7D9046A9078D657EEF2D704699",
+      "notice_year": 2023,
+      "year": 2019,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2340d0e",
+      "Record ID": "58642",
+      "Title": "Optimizing Scalability and Availability of Cloud Based Software Services Using Modified Scale Rate Limiting Algorithm",
+      "Subject": [
+        "(B/T) Computer Science"
+      ],
+      "Institution": [
+        "Dept. of CSE, Sri Venkateshwara College of Engineering, JNTUA, Tirupathi, India",
+        "Dept. of CSE, Sri Venkateshwara College of Engineering, Tirupathi, India",
+        "Dept. of CSE, JNTUA College of Engineering Anantapuram, JNTU Anantapur, India"
+      ],
+      "Journal": "Theoretical Computer Science",
+      "Publisher": "Elsevier",
+      "Country": [
+        "India"
+      ],
+      "Author": [
+        "V L Padma Latha",
+        "N Sudhakar Reddy",
+        "A Suresh Babu"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "11/9/2024 0:00",
+      "RetractionDOI": "10.1016/j.tcs.2024.114944",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "12/30/2022 0:00",
+      "OriginalPaperDOI": "10.1016/j.tcs.2022.07.019",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Duplication of/in Article"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2022
     }
   ]
 }

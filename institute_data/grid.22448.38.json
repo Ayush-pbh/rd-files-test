@@ -1,148 +1,64 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba3043d",
+    "_id": "685b3f25aa23308c068778b9",
     "grid_id": "grid.22448.38",
     "institute_name": "George Mason University",
     "country": "United States",
     "retracted_record_ids": [
-      "63476"
-    ],
-    "pub_count": [
-      {
-        "year": 2023,
-        "count": 2985
-      },
-      {
-        "year": 2021,
-        "count": 2930
-      },
-      {
-        "year": 2022,
-        "count": 2895
-      },
-      {
-        "year": 2024,
-        "count": 2879
-      },
-      {
-        "year": 2020,
-        "count": 2731
-      },
-      {
-        "year": 2019,
-        "count": 2413
-      },
-      {
-        "year": 2018,
-        "count": 2365
-      },
-      {
-        "year": 2017,
-        "count": 2309
-      },
-      {
-        "year": 2016,
-        "count": 2142
-      },
-      {
-        "year": 2015,
-        "count": 2044
-      },
-      {
-        "year": 2014,
-        "count": 1990
-      },
-      {
-        "year": 2013,
-        "count": 1909
-      },
-      {
-        "year": 2012,
-        "count": 1803
-      },
-      {
-        "year": 2011,
-        "count": 1662
-      },
-      {
-        "year": 2009,
-        "count": 1647
-      },
-      {
-        "year": 2010,
-        "count": 1647
-      },
-      {
-        "year": 2001,
-        "count": 1603
-      },
-      {
-        "year": 2008,
-        "count": 1386
-      },
-      {
-        "year": 2025,
-        "count": 1310
-      },
-      {
-        "year": 2007,
-        "count": 1252
-      },
-      {
-        "year": 2006,
-        "count": 1145
-      },
-      {
-        "year": 2005,
-        "count": 1023
-      },
-      {
-        "year": 2004,
-        "count": 848
-      },
-      {
-        "year": 2003,
-        "count": 845
-      },
-      {
-        "year": 2002,
-        "count": 707
-      },
-      {
-        "year": 2000,
-        "count": 606
-      },
-      {
-        "year": 1999,
-        "count": 516
-      },
-      {
-        "year": 1997,
-        "count": 514
-      },
-      {
-        "year": 1996,
-        "count": 500
-      },
-      {
-        "year": 1998,
-        "count": 487
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2021,
-        "count": 1,
-        "notice_count": 0
-      },
-      {
-        "year": 2024,
-        "count": 0,
-        "notice_count": 1
-      }
+      "23707",
+      "63476",
+      "54366",
+      "41132",
+      "62890",
+      "6207",
+      "62381",
+      "32035",
+      "3671",
+      "17348",
+      "17353"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d23494fb",
+      "Record ID": "23707",
+      "Title": "Criminal tendency detection from facial images and the gender bias effect",
+      "Subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(SOC) Criminology"
+      ],
+      "Institution": [
+        "Department of Information Sciences and Technology, George Mason University, 4400 University Dr, Fairfax, VA, 22030, USA",
+        "College of Information Science and Technology, University of Nebraska at Omaha, 1110 S 67th St, Omaha, NE, 68182, USA"
+      ],
+      "Journal": "Journal of Big Data",
+      "Publisher": "Springer",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Mahdi Hashemi",
+        "Margeret Hall"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/30/2020 0:00",
+      "RetractionDOI": "10.1186/s40537-020-00323-8",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/7/2020 0:00",
+      "OriginalPaperDOI": "10.1186/s40537-019-0282-4",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2020,
+      "year": 2020,
+      "mark": "integrity"
+    },
     {
       "_id": "6855d574b14f7811d233fa3d",
       "Record ID": "63476",
@@ -197,6 +113,442 @@
       "notice_year": 2024,
       "year": 2021,
       "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d2341dbc",
+      "Record ID": "54366",
+      "Title": "Using machine learning to improve anaphylaxis case identification in medical claims data",
+      "Subject": [
+        "(B/T) Business - General",
+        "(B/T) Data Science",
+        "(HSC) Medicine - General"
+      ],
+      "Institution": [
+        "Center for Biologics Evaluation and Research (CBER), Food and Drug Administration, Silver Spring, MD 20993, United States",
+        "School of Systems Biology, George Mason University, Manassas, VA 20110, United States",
+        "Centers for Medicare & Medicaid Services, Washington, DC 20001, United States"
+      ],
+      "Journal": "JAMIA Open",
+      "Publisher": "Oxford Academic",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Kamil Can Kural",
+        "Ilya Mazo",
+        "Mark Walderhaug",
+        "Luis Santana-Quintero",
+        "Konstantinos Karagiannis",
+        "Elaine E Thompson",
+        "Jeffrey A Kelman",
+        "Ravi Goud"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "6/21/2024 0:00",
+      "RetractionDOI": "10.1093/jamiaopen/ooae036",
+      "RetractionPubMedID": "38911331.0",
+      "OriginalPaperDate": "10/27/2023 0:00",
+      "OriginalPaperDOI": "10.1093/jamiaopen/ooad090",
+      "OriginalPaperPubMedID": "37900974.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Error by Journal/Publisher",
+        "+Retract and Replace"
+      ],
+      "Paywalled": "No",
+      "Notes": "see https://academic.oup.com/jamiaopen/article/7/2/ooae037/7696640;",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "system"
+    },
+    {
+      "_id": "6855d574b14f7811d2345133",
+      "Record ID": "41132",
+      "Title": "Combination Cancer Immunotherapy with Dendritic Cell Vaccine and Nanoparticles Loaded with Interleukin-15 and Anti-beta-catenin siRNA Significantly Inhibits Cancer Growth and Induces Anti-Tumor Immune Response",
+      "Subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Oncology",
+        "(PHY) Nanotechnology"
+      ],
+      "Institution": [
+        "Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran",
+        "Student Research Committee, Tabriz University of Medical Sciences, Tabriz, Iran",
+        "Nanoparticle Process Technology, Faculty of Engineering, University of Duisburg-Essen, Duisburg, Germany",
+        "Department of Biotechnology, Falavarjan Branch, Islamic Azad University, Isfahan, Iran",
+        "Immunogenetic Research Center, Faculty of Medicine and Amol Faculty of Paramedical Sciences, Mazandaran University of Medical Sciences, Sari, Iran",
+        "Nanotechnology Research Centre, Department of Pharmaceutics, Faculty of Pharmacy, Tehran University of Medical Sciences, Tehran, Iran",
+        "Nano Drug Delivery Research Center, Kermanshah University of Medical Sciences, Kermanshah, 6715847141, Iran",
+        "Laboratory of Molecular Virology, School of Systems Biology, George Mason University, Manassas, Virginia, USA",
+        "Noncommunicable Diseases Research Center, Bam University of Medical Sciences, Bam, Iran",
+        "Non-communicable Diseases Research Center, Alborz University of Medical Sciences, Karaj, Iran",
+        "Nephrology and Kidney Transplant Research Center, Clinical Research Institute, Urmia University of Medical Sciences, Urmia, Iran",
+        "Hematology, Immune Cell Therapy, and Stem Cell Transplantation Research Center, Clinical Research Institute, Urmia University of Medical Sciences, Urmia, Iran",
+        "Experimental and Applied Pharmaceutical Research Center, Urmia University of Medical Sciences, Urmia, Iran",
+        "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Urmia University of Medical Sciences, Urmia, Iran",
+        "Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran",
+        "Research Center for Integrative Medicine in Aging, Aging Research Institute, Tabriz University of Medical Sciences, Tabriz, Iran"
+      ],
+      "Journal": "Pharmaceutical Research",
+      "Publisher": "Springer",
+      "Country": [
+        "Germany",
+        "Iran",
+        "United States"
+      ],
+      "Author": [
+        "Armin Mahmoud Salehi Kheshti",
+        "Farnaz Hajizadeh",
+        "Asal Barshidi",
+        "Bentolhoda Rashidi",
+        "Farbod Ebrahimi",
+        "Simin Bahmanpour",
+        "Vahid Karpisheh",
+        "Fatemeh Karimian Noukabadi",
+        "Fariba Karoon Kiani",
+        "Hadi Hassannia",
+        "Fatemeh Atyabi",
+        "Seyed Hossein Kiaie",
+        "Fatah Kashanchi",
+        "Jamshid Gholizadeh Navashenaq",
+        "Hamed Mohammadi",
+        "Rafieh Bagherifar",
+        "Reza Jafari",
+        "Naime Majidi Zolbanin",
+        "Farhad Jadidi-Niaragh"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/7/2022 0:00",
+      "RetractionDOI": "10.1007/s11095-022-03456-y",
+      "RetractionPubMedID": "36477758.0",
+      "OriginalPaperDate": "2/15/2022 0:00",
+      "OriginalPaperDOI": "10.1007/s11095-022-03169-2",
+      "OriginalPaperPubMedID": "35166995.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Duplication of/in Image"
+      ],
+      "Paywalled": "No",
+      "Notes": "see also: https://pubpeer.com/publications/43C1490A688CD37F8C732BA9A18BEB",
+      "notice_year": 2022,
+      "year": 2022
+    },
+    {
+      "_id": "6855d574b14f7811d233fc85",
+      "Record ID": "62890",
+      "Title": "An optimization framework for the sustainable healthcare facility location problem using a hierarchical conflict resolution approach",
+      "Subject": [
+        "(B/T) Business - General",
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(HSC) Medicine - General"
+      ],
+      "Institution": [
+        "Department of Systems Engineering and Operations Research, George Mason University, 4400 University Dr., Fairfax, VA, 22030, United States",
+        "CU Denver Business School, University of Colorado Denver, 1475 Lawrence St, Denver, CO, 80202, United States",
+        "Department of Economics and Business, Colorado School of Mines, 1500 Illinois St, Golden, CO, 80401, United States",
+        "Department of Management Science and Information Systems, Oklahoma State University, 601 North Willis St., Stillwater, OK, 74078, United States",
+        "Department of Industrial Engineering, Faculty of Engineering and Natural Sciences, Istinye University, Istanbul, Turkey"
+      ],
+      "Journal": "Annals of Operations Research",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "Turkey",
+        "United States"
+      ],
+      "Author": [
+        "Babak Aslani",
+        "Meysam Rabiee",
+        "Mona Jabbari",
+        "Dursun Delen"
+      ],
+      "URLS": "https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/18/2024 0:00",
+      "RetractionDOI": "10.1007/s10479-023-05429-9",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "6/28/2023 0:00",
+      "OriginalPaperDOI": "10.1007/s10479-023-05429-9",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues with Peer Review",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2024,
+      "year": 2023,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234d8e8",
+      "Record ID": "6207",
+      "Title": "Social Networks of Author\u2013coauthor Relationships",
+      "Subject": [
+        "(PHY) Mathematics",
+        "(SOC) Sociology"
+      ],
+      "Institution": [
+        "Department of Computational and Data Sciences, George Mason University, Fairfax, VA, USA"
+      ],
+      "Journal": "Computational Statistics & Data Analysis",
+      "Publisher": "Elsevier",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Yasmin H Said",
+        "Edward J Wegman",
+        "Walid K Sharabati",
+        "John T Rigsby"
+      ],
+      "URLS": "http://retractionwatch.com/2011/05/17/controversial-paper-critiquing-climate-change-science-set-to-be-retracted-because-of-plagiarism/;http://retractionwatch.com/2012/02/24/climate-science-critic-wegman-reprimanded-by-one-university-committee-while-another-finds-no-misconduct/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/1/2011 0:00",
+      "RetractionDOI": "10.1016/j.csda.2011.07.014",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "1/10/2008 0:00",
+      "OriginalPaperDOI": "10.1016/j.csda.2007.07.021",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Plagiarism of Text"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2011,
+      "year": 2008,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d233fe75",
+      "Record ID": "62381",
+      "Title": "Lateral palatal foramina do not indicate baleen in fossil whales",
+      "Subject": [
+        "(BLS) Zoology",
+        "(HSC) Veterinary Science"
+      ],
+      "Institution": [
+        "Department of Earth and Environmental Science, University of Michigan, Ann Arbor, MI, USA",
+        "Department of Marine Biology, Texas A&M University, Galveston, TX, USA",
+        "Department of Paleobiology, National Museum of Natural History, Washington, DC, USA",
+        "Departments of Mammalogy and Paleontology, Burke Museum of Natural History and Culture, Seattle, WA, USA",
+        "Department of Atmospheric, Oceanic, and Earth Sciences, George Mason University, Fairfax, VA, USA"
+      ],
+      "Journal": "Scientific Reports",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Carlos Mauricio Peredo",
+        "Nicholas D Pyenson",
+        "Mark D Uhen"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "2/11/2025 0:00",
+      "RetractionDOI": "10.1038/s41598-025-88714-w",
+      "RetractionPubMedID": "39934295.0",
+      "OriginalPaperDate": "7/6/2022 0:00",
+      "OriginalPaperDOI": "10.1038/s41598-022-15684-8",
+      "OriginalPaperPubMedID": "35794235.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2025,
+      "year": 2022,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234748b",
+      "Record ID": "32035",
+      "Title": "Molecular phylogenetic and taxonomic status of the large-eared desert shrew Notiosorex evotis (Eulipotyphla: Soricidae), with the designation of a neotyp",
+      "Subject": [
+        "(BLS) Zoology"
+      ],
+      "Institution": [
+        "Centro de Investigaciones Biol\u00f3gicas del Noroeste, Instituto Polit\u00e9cnico Nacional 195, La Paz 23096, Baja California Sur, M\u00e9xico",
+        "Departments of Earth & Atmospheric Sciences, Biology, & Anthropology, Indiana University, 1001 E. 10th Street, Bloomington, IN 47405, USA",
+        "Department of Natural Resources Management, Texas Tech University, Lubbock, TX 79409, USA",
+        "Center for Conservation Genomics, Smithsonian Conservation Biology Institute, National Zoological Park, Washington, DC 20008, USA",
+        "Department of Biosciences, School of Systems Biology, George Mason University, Fairfax, VA 22030, USA"
+      ],
+      "Journal": "Journal of Mammalogy",
+      "Publisher": "Oxford Academic",
+      "Country": [
+        "Mexico",
+        "United States"
+      ],
+      "Author": [
+        "Issac Camargo",
+        "Sergio Ticul Alvarez-Castaneda",
+        "P David Polly",
+        "John D Stuhler",
+        "Jesus E Maldonado"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "3/25/2021 0:00",
+      "RetractionDOI": "10.1093/jmammal/gyab034",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "2/18/2021 0:00",
+      "OriginalPaperDOI": "10.1093/jmammal/gyaa178",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Removed"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2021,
+      "year": 2021,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234e29f",
+      "Record ID": "3671",
+      "Title": "Suspended animation: effects on short-term and long-term positive associative memory in Hypsibius dujardini",
+      "Subject": [
+        "(BLS) Neuroscience",
+        "(BLS) Zoology"
+      ],
+      "Institution": [
+        "Physiological and Behavioral Neuroscience in Juveniles Lab, Krasnow Institute for Advanced Study, George Mason University, Fairfax, USA"
+      ],
+      "Journal": "Invertebrate neuroscience",
+      "Publisher": "Springer",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Alexandra A Rosser"
+      ],
+      "URLS": "http://retractionwatch.com/2014/08/18/bearly-believable-water-bear-paper-retracted-for-missing-lab-notebooks/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/1/2013 0:00",
+      "RetractionDOI": "10.1007/s10158-013-0157-x",
+      "RetractionPubMedID": "23703670.0",
+      "OriginalPaperDate": "5/24/2013 0:00",
+      "OriginalPaperDOI": "10.1007/s10158-013-0157-x",
+      "OriginalPaperPubMedID": "23703670.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Investigation by Company/Institution",
+        "+Misconduct by Author",
+        "+Unreliable Data"
+      ],
+      "Paywalled": "No",
+      "Notes": "exact date of retraction unknown",
+      "notice_year": 2013,
+      "year": 2013,
+      "mark": "integrity"
+    },
+    {
+      "_id": "6855d574b14f7811d234adac",
+      "Record ID": "17348",
+      "Title": "Fundamentals of Electronic Resources Management",
+      "Subject": [
+        "(B/T) Technology",
+        "(HUM) Arts -Literature/Poetry"
+      ],
+      "Institution": [
+        "George Mason University Libraries, Arlington, VA 22201, USA"
+      ],
+      "Journal": "The Journal of Academic Librarianship",
+      "Publisher": "Elsevier",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Madeline Kelly"
+      ],
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "11/1/2017 0:00",
+      "RetractionDOI": "10.1016/j.acalib.2017.09.010",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "10/31/2017 0:00",
+      "OriginalPaperDOI": "10.1016/j.acalib.2017.09.010",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Duplication of Content through Error by Journal/Publisher"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2017,
+      "year": 2017,
+      "mark": "system"
+    },
+    {
+      "_id": "6855d574b14f7811d234ada7",
+      "Record ID": "17353",
+      "Title": "Becoming a Powerhouse Librarian: How to Get Things Done Right the First Time",
+      "Subject": [
+        "(SOC) Education"
+      ],
+      "Institution": [
+        "George Mason University Libraries, Arlington, VA 22201, USA"
+      ],
+      "Journal": "The Journal of Academic Librarianship",
+      "Publisher": "Elsevier",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Madeline Kelly"
+      ],
+      "ArticleType": [
+        "Review Article"
+      ],
+      "RetractionDate": "11/1/2017 0:00",
+      "RetractionDOI": "10.1016/j.acalib.2017.09.015",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "10/31/2017 0:00",
+      "OriginalPaperDOI": "10.1016/j.acalib.2017.09.015",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Duplication of Content through Error by Journal/Publisher"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2017,
+      "year": 2017,
+      "mark": "system"
     }
   ]
 }

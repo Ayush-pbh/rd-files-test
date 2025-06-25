@@ -1,143 +1,436 @@
 {
   "institute": {
-    "_id": "6856ff51cf2c75a5cba30402",
+    "_id": "685b3f25aa23308c0687787e",
     "grid_id": "grid.270240.3",
     "institute_name": "Fred Hutch Cancer Center",
     "country": "United States",
     "retracted_record_ids": [
-      "63532"
-    ],
-    "pub_count": [
-      {
-        "year": 2024,
-        "count": 2670
-      },
-      {
-        "year": 2020,
-        "count": 2583
-      },
-      {
-        "year": 2023,
-        "count": 2565
-      },
-      {
-        "year": 2021,
-        "count": 2551
-      },
-      {
-        "year": 2022,
-        "count": 2462
-      },
-      {
-        "year": 2019,
-        "count": 2233
-      },
-      {
-        "year": 2018,
-        "count": 2016
-      },
-      {
-        "year": 2016,
-        "count": 1937
-      },
-      {
-        "year": 2015,
-        "count": 1812
-      },
-      {
-        "year": 2017,
-        "count": 1787
-      },
-      {
-        "year": 2014,
-        "count": 1767
-      },
-      {
-        "year": 2013,
-        "count": 1636
-      },
-      {
-        "year": 2012,
-        "count": 1580
-      },
-      {
-        "year": 2011,
-        "count": 1342
-      },
-      {
-        "year": 2025,
-        "count": 1336
-      },
-      {
-        "year": 2010,
-        "count": 1186
-      },
-      {
-        "year": 2009,
-        "count": 1177
-      },
-      {
-        "year": 2008,
-        "count": 1072
-      },
-      {
-        "year": 2007,
-        "count": 1015
-      },
-      {
-        "year": 2006,
-        "count": 1008
-      },
-      {
-        "year": 2005,
-        "count": 911
-      },
-      {
-        "year": 2004,
-        "count": 862
-      },
-      {
-        "year": 2003,
-        "count": 634
-      },
-      {
-        "year": 2002,
-        "count": 596
-      },
-      {
-        "year": 2000,
-        "count": 578
-      },
-      {
-        "year": 1999,
-        "count": 533
-      },
-      {
-        "year": 2001,
-        "count": 523
-      },
-      {
-        "year": 1998,
-        "count": 477
-      },
-      {
-        "year": 1997,
-        "count": 416
-      },
-      {
-        "year": 1996,
-        "count": 409
-      }
-    ],
-    "retraction_count": [
-      {
-        "year": 2022,
-        "count": 1,
-        "notice_count": 1
-      }
+      "5978",
+      "18720",
+      "10739",
+      "5329",
+      "1081",
+      "34806",
+      "1693",
+      "63532",
+      "23222",
+      "5411",
+      "1258",
+      "17090",
+      "715"
     ]
   },
   "retractions": [
+    {
+      "_id": "6855d574b14f7811d234d9c9",
+      "Record ID": "5978",
+      "Title": "Immunity to Murine Prostatic Tumors: Continuous Provision of T-Cell Help Prevents CD8 T-Cell Tolerance and Activates Tumor-Infiltrating Dendritic Cells",
+      "Subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Immunology"
+      ],
+      "Institution": [
+        "Tumor Immunity and Tolerance Section, Laboratory of Molecular Immunoregulation, Cancer and Inflammation Program, Frederick, MD, USA",
+        "Laboratory of Cell-Mediated Immunity, SAIC-Frederick, Inc, Frederick, MD, USA",
+        "Biostatistics Division, DMS, NCI-Frederick, Frederick, MD, USA",
+        "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA"
+      ],
+      "Journal": "Cancer Research",
+      "Publisher": "American Association for Cancer Research",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Kimberly A Shafer-Weaver",
+        "Stephanie K Watkins",
+        "Michael J Anderson",
+        "Lauren J Draper",
+        "Anatoli Malyguine",
+        "W Gregory Alvord",
+        "Norman M Greenberg",
+        "Arthur A Hurwitz"
+      ],
+      "URLS": "http://retractionwatch.com/2016/04/12/cancer-researcher-earns-3-more-retractions-following-nih-misconduct-investigation/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "4/1/2016 0:00",
+      "RetractionDOI": "10.1158/0008-5472.CAN-16-0505",
+      "RetractionPubMedID": "27013202.0",
+      "OriginalPaperDate": "8/1/2009 0:00",
+      "OriginalPaperDOI": "10.1158/0008-5472.CAN-08-4516",
+      "OriginalPaperPubMedID": "19622771.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Falsification/Fabrication of Data",
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Misconduct by Author",
+        "+Unreliable Data",
+        "+Unreliable Image",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2016,
+      "year": 2009,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234a85c",
+      "Record ID": "18720",
+      "Title": "Sun exposure related methylation in malignant and non-malignant skin lesions",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "Institution": [
+        "Hamon Center for Therapeutic Oncology Research, University of Texas Southwestern Medical Center at Dallas, 6000 Harry Hines Boulevard, Dallas, Texas 75390-8593, USA",
+        "Departments of Pathology, University of Texas Southwestern Medical Center, Dallas, TX 75390, USA",
+        "Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX 75390, USA",
+        "Department of Dermatology, Baylor University Medical Center at Dallas, TX 75246, USA",
+        "Arlington Center for Dermatology, Arlington, TX 76011, USA",
+        "Department of Dermatology, University of Texas branch, Galveston TX 77550, USA",
+        "Fred Hutchinson Cancer Research Center, Public Health Science Division Seattle, WA 98109, USA"
+      ],
+      "Journal": "Cancer Letters",
+      "Publisher": "Elsevier",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Ubaradka G Sathyanarayana",
+        "Angela Yen Moore",
+        "Lin Li",
+        "Asha Padar",
+        "Kuntal Majmudar",
+        "Victor Stastny",
+        "Prakash Makarla",
+        "Makoto Suzuki",
+        "John D Minna",
+        "Ziding Feng",
+        "Adi F Gazdar"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/12/2018 0:00",
+      "RetractionDOI": "10.1016/j.canlet.2018.07.010",
+      "RetractionPubMedID": "30007586.0",
+      "OriginalPaperDate": "2/21/2006 0:00",
+      "OriginalPaperDOI": "10.1016/j.canlet.2005.12.042",
+      "OriginalPaperPubMedID": "16494996.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Company/Institution",
+        "+Manipulation of Images"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2018,
+      "year": 2006,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234c766",
+      "Record ID": "10739",
+      "Title": "Dachsous1b cadherin regulates actin and microtubule cytoskeleton during early zebrafish embryogenesis",
+      "Subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "Institution": [
+        "Department of Developmental Biology, Washington University School of Medicine in St. Louis, St. Louis, MO 63110, USA",
+        "Department of Developmental and Molecular Biology, Albert Einstein College of Medicine, Yeshiva University, Bronx, NY 10461, USA",
+        "Department of Internal Medicine, Washington University School of Medicine in St. Louis, St. Louis, MO 63110, USA",
+        "Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA",
+        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA",
+        "Department of Neuroscience, Albert Einstein College of Medicine, Yeshiva University, Bronx, NY 10461, USA"
+      ],
+      "Journal": "Development",
+      "Publisher": "The Company of Biologists",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Nanbing Li-Villarreal",
+        "Meredyth M Forbes",
+        "Andrew J Loza",
+        "Jiakun Chen",
+        "Taylur Ma",
+        "Kathryn Helde",
+        "Cecilia B Moens",
+        "Jimann Shin",
+        "Atsushi Sawada",
+        "Anna E Hindes",
+        "Julien Dubrulle",
+        "Alexander F Schier",
+        "Gregory D Longmore",
+        "Florence L Marlow",
+        "Lilianna Solnica-Krezel"
+      ],
+      "URLS": "http://retractionwatch.com/2016/04/27/einstein-grad-student-admits-cooking-data-settles-with-office-of-research-integrity/;http://retractionwatch.com/2016/06/02/grad-student-who-confessed-to-falsifying-data-barred-from-government-funding/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/17/2016 0:00",
+      "RetractionDOI": "10.1242/dev.138859",
+      "RetractionPubMedID": "27127268.0",
+      "OriginalPaperDate": "7/9/2015 0:00",
+      "OriginalPaperDOI": "10.1242/dev.119800",
+      "OriginalPaperPubMedID": "26160902.0",
+      "RetractionNature": "Correction",
+      "Reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by ORI",
+        "+Manipulation of Results",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "Paywalled": "No",
+      "Notes": "Findings of Research Misconduct: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4924547/; MM Forbes named for misconduct;",
+      "notice_year": 2016,
+      "year": 2015,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234dc45",
+      "Record ID": "5329",
+      "Title": "Odor maps in the olfactory cortex",
+      "Subject": [
+        "(BLS) Neuroscience"
+      ],
+      "Institution": [
+        "Howard Hughes Medical Institute, Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue North, Seattle, WA 98109"
+      ],
+      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "Publisher": "National Academy of Sciences (NAS)",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Zhihua Zou",
+        "Fusheng Li",
+        "Linda B Buck"
+      ],
+      "URLS": "http://retractionwatch.com/2014/07/28/ori-sanctions-collaborator-of-nobel-winner-buck-for-data-fabrication/;http://retractionwatch.com/2010/09/23/nobelist-linda-buck-retracts-two-studies-on-olfactory-networks-and-the-news-is-embargoed/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/23/2010 0:00",
+      "RetractionDOI": "10.1073/pnas.1000897107",
+      "RetractionPubMedID": "20864630.0",
+      "OriginalPaperDate": "5/23/2005 0:00",
+      "OriginalPaperDOI": "10.1073/pnas.0503027102",
+      "OriginalPaperPubMedID": "15911779.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Falsification/Fabrication of Data",
+        "+Manipulation of Images",
+        "+Misconduct by Author"
+      ],
+      "Paywalled": "No",
+      "Notes": "BA 06/25/17",
+      "notice_year": 2010,
+      "year": 2005,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234ec80",
+      "Record ID": "1081",
+      "Title": "Combinatorial effects of odorant mixes in olfactory cortex",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Neuroscience"
+      ],
+      "Institution": [
+        "Howard Hughes Medical Institute and Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA"
+      ],
+      "Journal": "Science",
+      "Publisher": "American Association for the Advancement of Science (AAAS)",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Zhihua Zou",
+        "Linda B Buck"
+      ],
+      "URLS": "http://retractionwatch.com/2010/09/23/nobelist-linda-buck-retracts-two-studies-on-olfactory-networks-and-the-news-is-embargoed/;http://retractionwatch.com/2014/07/28/ori-sanctions-collaborator-of-nobel-winner-buck-for-data-fabrication/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "9/24/2010 0:00",
+      "RetractionDOI": "10.1126/science.329.5999.1598-a",
+      "RetractionPubMedID": "20929829.0",
+      "OriginalPaperDate": "3/10/2006 0:00",
+      "OriginalPaperDOI": "10.1126/science.1124755",
+      "OriginalPaperPubMedID": "16527983.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Results Not Reproducible"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2010,
+      "year": 2006,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d23469bd",
+      "Record ID": "34806",
+      "Title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "Institution": [
+        "Tumor Initiation & Maintenance Program, NCI-Designated Cancer Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA Developmental and Stem Cell Biology Program, The Hospital for Sick Children, Toronto, Canada",
+        "Tumor Microenvironment and Cancer Immunology Program, NCI-Designated Cancer Center and the Infectious and Inflammatory Disease Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA",
+        "Department of Pediatrics, Northwestern University, Chicago, IL, USA",
+        "Division of Haematology/Oncology and Department of Paediatrics, Hospital for Sick Children, Toronto, Canada",
+        "Canada\u2019s Michael Smith Genome Sciences Centre, BC Cancer, Vancouver, Canada",
+        "Division of Clinical Studies, The Institute of Cancer Research, London, United Kingdom",
+        "Brain Tumor Program, Texas Children\u2019s Cancer Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA",
+        "Program of Precision Medicine PDOX Modeling of Pediatric Tumors, Ann & Robert H. Lurie Children\u2019s Hospital of Chicago, Department of Pediatrics, Northwestern University, Chicago, IL, USA",
+        "Department of Pediatrics, Oregon Health & Science University, Portland, OR, USA",
+        "Departments of Pediatrics and Neurosciences, University of California, San Diego \u2013 Rady Children\u2019s Hospital, San Diego, CA, USA",
+        "Department of Neurosurgery, University of California San Diego \u2013 Rady Children\u2019s Hospital, San Diego, CA, USA",
+        "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA",
+        "Division of Molecular Internal Medicine, Department of Internal Medicine II, University Hospital W\u00fcrzburg, W\u00fcrzburg, Germany"
+      ],
+      "Journal": "Nature Neuroscience",
+      "Publisher": "Springer - Nature Publishing Group",
+      "Country": [
+        "Canada",
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ],
+      "Author": [
+        "Alexandra Garancher",
+        "Hiromichi Suzuki",
+        "Svasti Haricharan",
+        "Lianne Q Chau",
+        "Meher Beigi Masihi",
+        "Jessica M Rusert",
+        "Paula S Norris",
+        "Florent Carrette",
+        "Megan M Romero",
+        "Sorana A Morrissy",
+        "Patryk Skowron",
+        "Florence M G Cavalli",
+        "Hamza Farooq",
+        "Vijay Ramaswamy",
+        "Steven J M Jones",
+        "Richard A Moore",
+        "Andrew J Mungall",
+        "Yussanne Ma",
+        "Nina Thiessen",
+        "Yisu Li",
+        "Alaide Morcavallo",
+        "Lin Qi",
+        "Mari Kogiso",
+        "Yuchen Du",
+        "Patricia Baxter",
+        "Jacob J Henderson",
+        "John R Crawford",
+        "Michael L Levy",
+        "James M Olson",
+        "Yoon Jae Cho",
+        "Aniruddha J Deshpande",
+        "Xian Nan Li",
+        "Louis Chesler",
+        "Marco A Marra",
+        "Harald Wajant",
+        "Oren J Becher",
+        "Linda M Bradley",
+        "Carll F Ware",
+        "Michael D Taylor",
+        "Robert J Wechsler-Reya"
+      ],
+      "URLS": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "12/14/2021 0:00",
+      "RetractionDOI": "10.1038/s41593-021-00994-3",
+      "RetractionPubMedID": "34907396.0",
+      "OriginalPaperDate": "5/18/2020 0:00",
+      "OriginalPaperDOI": "10.1038/s41593-020-0628-4",
+      "OriginalPaperPubMedID": "32424282.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Results Not Reproducible",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2021,
+      "year": 2020,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234ea28",
+      "Record ID": "1693",
+      "Title": "DNA Methylation Profiles of Lymphoid and Hematopoietic Malignancies",
+      "Subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Immunology"
+      ],
+      "Institution": [
+        "Hamon Center for Therapeutic Oncology Research, University of Texas Southwestern Medical Center, Dallas, Texas, USA",
+        "Department of Pathology, University of Texas Southwestern Medical Center, Dallas, Texas, USA",
+        "Clinical Division of Oncology, Department of Medicine I, University Hospital, Vienna, Austria",
+        "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA"
+      ],
+      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "Publisher": "American Association for Cancer Research",
+      "Country": [
+        "Austria",
+        "United States"
+      ],
+      "Author": [
+        "Takao Takahashi",
+        "Narayan Shivapurkar",
+        "Jyotsna Reddy",
+        "Hisayuki Shigematsu",
+        "Kuniharu Miyajima",
+        "Makoto Suzuki",
+        "Shinichi Toyooka",
+        "Sabine Zochbauer-Muller",
+        "Johannes Drach",
+        "Gunjan Parikh",
+        "Yingye Zheng",
+        "Ziding Feng",
+        "Steven H Kroft",
+        "Charles Timmons",
+        "Robert W McKenna",
+        "Adi F Gazdar"
+      ],
+      "URLS": "http://retractionwatch.com/2013/12/16/cancer-biology-group-notches-sixth-retraction-and-earns-an-expression-of-concern/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "1/1/2013 0:00",
+      "RetractionDOI": "10.1158/1078-0432.CCR-12-3679",
+      "RetractionPubMedID": "23248096.0",
+      "OriginalPaperDate": "5/1/2004 0:00",
+      "OriginalPaperDOI": "10.1158/1078-0432.CCR-03-0716",
+      "OriginalPaperPubMedID": "15131027.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Investigation by Company/Institution",
+        "+Manipulation of Images"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2013,
+      "year": 2004,
+      "mark": "alterations"
+    },
     {
       "_id": "6855d574b14f7811d233fa05",
       "Record ID": "63532",
@@ -191,6 +484,275 @@
       "notice_year": 2022,
       "year": 2022,
       "mark": "supplemental"
+    },
+    {
+      "_id": "6855d574b14f7811d23496dd",
+      "Record ID": "23222",
+      "Title": "Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China",
+      "Subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "Institution": [
+        "University of Florida",
+        "Peking University",
+        "Beijing Institute of Microbiology and Epidemiology",
+        "Shandong University",
+        "Fred Hutchinson Cancer Research Center",
+        "Army Engineering University of PLA",
+        "Chinese Center for Disease Control and Prevention"
+      ],
+      "Journal": "medRxiv",
+      "Publisher": "Cold Spring Harbor Laboratory Press",
+      "Country": [
+        "China",
+        "United States"
+      ],
+      "Author": [
+        "Yang Yang",
+        "Qingbin Lu",
+        "Mingjin Liu",
+        "Yixing Wang",
+        "Anran Zhang",
+        "Neda Jalali",
+        "Natalie Dean",
+        "Ira Longini",
+        "M Elizabeth Halloran",
+        "Bo Xu",
+        "Xiaoai Zhang",
+        "Liping Wang",
+        "Wei Liu",
+        "Liquin Fang"
+      ],
+      "URLS": "http://retractionwatch.com/2020/04/26/authors-to-correct-influential-imperial-college-covid-19-report-after-learning-it-cited-a-withdrawn-preprint/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "ArticleType": [
+        "Preprint",
+        "Research Article"
+      ],
+      "RetractionDate": "2/21/2020 0:00",
+      "RetractionDOI": "10.1101/2020.02.10.20021675",
+      "RetractionPubMedID": "0.0",
+      "OriginalPaperDate": "2/11/2020 0:00",
+      "OriginalPaperDOI": "10.1101/2020.02.10.20021675",
+      "OriginalPaperPubMedID": "0.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Concerns/Issues About Data",
+        "+Removed"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2020,
+      "year": 2020,
+      "mark": "research"
+    },
+    {
+      "_id": "6855d574b14f7811d234dbf3",
+      "Record ID": "5411",
+      "Title": "HIV-specific cytotoxic T lymphocytes traffic to lymph nodes and localize at sites of HIV replication and cell death",
+      "Subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Immunology"
+      ],
+      "Institution": [
+        "Department of Laboratory Medicine, University of Washington, Seattle, Washington, USA",
+        "Department of Obstetrics and Gynecology, Northwestern University Medical School, Chicago, Illinois, USA",
+        "Department of Medicine, University of Washington, Seattle, Washington, USA",
+        "Program in Immunology, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA",
+        "Department of Immunology, University of Washington, Seattle, Washington, USA",
+        "Program in Infectious Diseases, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA"
+      ],
+      "Journal": "The Journal of Clinical Investigation (JCI)",
+      "Publisher": "American Society for Clinical Investigation",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Scott J Brodie",
+        "Bruce K Patterson",
+        "Deborah A Lewinsohn",
+        "Kurt Diem",
+        "David Spach",
+        "Phillip D Greenberg",
+        "Stanley R Riddell",
+        "Lawrence Corey"
+      ],
+      "URLS": "http://retractionwatch.com/2016/08/04/why-did-a-chemistry-journal-fix-fraud-with-a-correction-instead-of-a-retraction/;http://retractionwatch.com/2016/06/13/fraudster-loses-third-attempt-to-remove-7-year-debarment/",
+      "ArticleType": [
+        "Clinical Study"
+      ],
+      "RetractionDate": "9/1/2010 0:00",
+      "RetractionDOI": "10.1172/JCI8707R1",
+      "RetractionPubMedID": "20830824.0",
+      "OriginalPaperDate": "5/15/2000 0:00",
+      "OriginalPaperDOI": "10.1172/JCI8707",
+      "OriginalPaperPubMedID": "10811848.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Falsification/Fabrication of Image",
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "Paywalled": "No",
+      "Notes": "Findings of Misconduct for Scott Brodie; Expression of Concern DOI: 10.1172/JCI8707EX1; JME 06/26/2017",
+      "notice_year": 2010,
+      "year": 2000,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234ebd2",
+      "Record ID": "1258",
+      "Title": "The Retinoic Acid Receptor/CaMKII Interaction: Pharmacologic Inhibition of CaMKII Enhances the Differentiation of Myeloid Leukemia Cells",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "Institution": [
+        "Human Biology Division, Fred Hutchinson Cancer Research Center, 1100 Fairview Ave. North, Seattle, WA 98109, USA"
+      ],
+      "Journal": "Blood Cells, Molecules, and Diseases",
+      "Publisher": "Elsevier",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Jutong Si",
+        "LeMoyne Mueller Mueller",
+        "Aaron Schuler Schuler",
+        "Julian Simon",
+        "Steven J Collins"
+      ],
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "5/1/2009 0:00",
+      "RetractionDOI": "10.1016/j.bcmd.2007.05.011",
+      "RetractionPubMedID": "19388154.0",
+      "OriginalPaperDate": "11/1/2007 0:00",
+      "OriginalPaperDOI": "10.1016/j.bcmd.2007.05.009",
+      "OriginalPaperPubMedID": "17644368.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Duplication of/in Image"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2009,
+      "year": 2007
+    },
+    {
+      "_id": "6855d574b14f7811d234aeac",
+      "Record ID": "17090",
+      "Title": "MyoD-dependent regulation of NF-kappaB activity couples cell-cycle withdrawal to myogenic differentiation",
+      "Subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "Institution": [
+        "Faculty of Health Sciences Graduate Programme, McMaster University, Hamilton, Ontario, Canada",
+        "Ottawa Hospital Research Institute, Molecular Medicine Program, Ottawa, Ontario, Canada",
+        "Fred Hutchinson Cancer Research Center, Clinical Research Division, Seattle, WA, USA",
+        "The Ohio State University College of Medicine, Columbus, Ohio, USA",
+        "Ottawa Hospital Research Institute, 501 Smyth Rd, Ottawa, ON K1H 8L6, Canada"
+      ],
+      "Journal": "Skeletal Muscle",
+      "Publisher": "Springer - Biomed Central (BMC)",
+      "Country": [
+        "Canada",
+        "United States"
+      ],
+      "Author": [
+        "Maura H Parker",
+        "Julia von Maltzahn",
+        "Nadine Bakkar",
+        "Ban Al-Joubori",
+        "Jeff Ishibashi",
+        "Denis Guttridge",
+        "Michael A Rudnicki"
+      ],
+      "URLS": "http://retractionwatch.com/2013/07/24/paper-by-canada-research-chair-retracted-from-journal-he-edits-for-blots-from-unrelated-samples/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "7/18/2013 0:00",
+      "RetractionDOI": "10.1186/2044-5040-3-15",
+      "RetractionPubMedID": "23870549.0",
+      "OriginalPaperDate": "5/19/2012 0:00",
+      "OriginalPaperDOI": "10.1186/2044-5040-2-6",
+      "OriginalPaperPubMedID": "22541644.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Falsification/Fabrication of Image"
+      ],
+      "Paywalled": "No",
+      "notice_year": 2013,
+      "year": 2012,
+      "mark": "alterations"
+    },
+    {
+      "_id": "6855d574b14f7811d234ede3",
+      "Record ID": "715",
+      "Title": "Aberrant Promoter Methylation of Multiple Genes During Multistep Pathogenesis of Colorectal Cancers",
+      "Subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Pathology"
+      ],
+      "Institution": [
+        "Hamon Center for Therapeutic Oncology Research, University of Texas Southwestern Medical Center, Dallas, TX, USA",
+        "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA",
+        "Avalon Pharmaceuticals, Germantown, MD, USA",
+        "Department of Medicine, Division of Gastroenterology, University of Maryland and Greenebaum Cancer Center, Baltimore, MD, USA",
+        "Department of Pathology, University of Texas Southwestern Medical Center, Dallas, TX, USA"
+      ],
+      "Journal": "International Journal of Cancer",
+      "Publisher": "Wiley",
+      "Country": [
+        "United States"
+      ],
+      "Author": [
+        "Takao Takahashi",
+        "Hisayuki Shigematsu",
+        "Narayan Shivapurkar",
+        "Jyotsna Reddy",
+        "Yingye Zheng",
+        "Ziding Feng",
+        "Makoto Suzuki",
+        "Masaharu Nomura",
+        "Meena Augustus",
+        "Jing Yin",
+        "Stephen J Meltzer",
+        "Adi F Gazdar"
+      ],
+      "URLS": "http://retractionwatch.com/2012/11/23/two-retractions-for-cancer-research-team-that-manipulated-figures/",
+      "ArticleType": [
+        "Research Article"
+      ],
+      "RetractionDate": "1/15/2013 0:00",
+      "RetractionDOI": "10.1002/ijc.27883",
+      "RetractionPubMedID": "23169200.0",
+      "OriginalPaperDate": "2/15/2006 0:00",
+      "OriginalPaperDOI": "10.1002/ijc.21453",
+      "OriginalPaperPubMedID": "16108009.0",
+      "RetractionNature": "Retraction",
+      "Reason": [
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Manipulation of Images"
+      ],
+      "Paywalled": "No",
+      "Notes": "Takao Takahashi named responsible for figure manipulation in 4 papers",
+      "notice_year": 2013,
+      "year": 2006,
+      "mark": "alterations"
     }
   ]
 }
