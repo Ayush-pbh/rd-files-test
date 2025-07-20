@@ -61,12 +61,27 @@
             "2022": 0.0,
             "2023": 6.6038
         },
-        "average_rate": 1.2572
+        "average_rate": 1.3968
     },
     "domainwise_data": {
         "country": "Rwanda",
-        "total_retractions": 9,
+        "total_retractions": 10,
         "years": {
+            "2025": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "SOC": 2,
+                    "HSC": 1,
+                    "": 1
+                }
+            },
             "2024": {
                 "total": 1,
                 "marks": {
@@ -100,10 +115,10 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 1
+                    "system": 0
                 },
                 "domain": {
                     "PHY": 5,
@@ -114,10 +129,10 @@
                 "total": 5,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 3,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 3
+                    "system": 0
                 },
                 "domain": {
                     "PHY": 8,
@@ -143,28 +158,30 @@
         },
         "notice_years": {
             "2025": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
                     "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
+                    "SOC": 2,
+                    "": 2,
                     "ENV": 2,
-                    "BLS": 1,
-                    "": 1
+                    "HSC": 1,
+                    "BLS": 1
                 }
             },
             "2023": {
                 "total": 7,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 4,
                     "researcher_integrity": 0,
                     "supplemental": 1,
-                    "system": 4
+                    "system": 0
                 },
                 "domain": {
                     "PHY": 13,
@@ -192,8 +209,18 @@
     },
     "yearly_retractions": {
         "country": "Rwanda",
-        "total_retractions": 9,
+        "total_retractions": 10,
         "years": {
+            "2025": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
             "2024": {
                 "total": 1,
                 "marks": {
@@ -218,20 +245,20 @@
                 "total": 1,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "integrity": 0,
                     "supplemental": 0,
-                    "system": 1
+                    "system": 0
                 }
             },
             "2021": {
                 "total": 5,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 3,
                     "integrity": 2,
                     "supplemental": 0,
-                    "system": 3
+                    "system": 0
                 }
             },
             "2010": {
@@ -247,10 +274,10 @@
         },
         "notice_years": {
             "2025": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
@@ -260,10 +287,10 @@
                 "total": 7,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 4,
                     "researcher_integrity": 2,
                     "supplemental": 1,
-                    "system": 4
+                    "system": 0
                 }
             },
             "2010": {
@@ -279,6 +306,7 @@
         },
         "collaborations": {
             "Pakistan": 5,
+            "United States": 2,
             "Cameroon": 2,
             "China": 2,
             "South Africa": 2,
@@ -290,7 +318,6 @@
             "Germany": 1,
             "Nigeria": 1,
             "Switzerland": 1,
-            "United States": 1,
             "Turkey": 1,
             "Taiwan": 1,
             "Tunisia": 1,
@@ -298,6 +325,7 @@
         },
         "notice_collaborations": {
             "Pakistan": 5,
+            "United States": 2,
             "Cameroon": 2,
             "China": 2,
             "South Africa": 2,
@@ -309,7 +337,6 @@
             "Germany": 1,
             "Nigeria": 1,
             "Switzerland": 1,
-            "United States": 1,
             "Turkey": 1,
             "Taiwan": 1,
             "Tunisia": 1,

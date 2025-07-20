@@ -27,7 +27,7 @@
             "2018": 2.0534,
             "2019": 0.0,
             "2020": 0.0,
-            "2021": 0.0,
+            "2021": 0.9823,
             "2022": 1.657,
             "2023": 0.0
         },
@@ -61,11 +61,11 @@
             "2022": 0.0,
             "2023": 1.5974
         },
-        "average_rate": 0.5853
+        "average_rate": 0.6689
     },
     "domainwise_data": {
         "country": "Syria",
-        "total_retractions": 7,
+        "total_retractions": 8,
         "years": {
             "2024": {
                 "total": 1,
@@ -73,7 +73,7 @@
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "supplemental": 0,
                     "system": 0
                 },
                 "domain": {
@@ -85,15 +85,30 @@
                 "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 1
+                    "system": 0
                 },
                 "domain": {
                     "B/T": 2,
                     "PHY": 2,
                     "": 2
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
+                    "research": 0,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
+                },
+                "domain": {
+                    "BLS": 1,
+                    "HSC": 1,
+                    "": 1
                 }
             },
             "2018": {
@@ -113,7 +128,7 @@
             "2016": {
                 "total": 1,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
@@ -141,27 +156,28 @@
         },
         "notice_years": {
             "2025": {
-                "total": 1,
-                "marks": {
-                    "alterations": 0,
-                    "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
-                    "system": 0
-                },
-                "domain": {
-                    "HSC": 3,
-                    "": 1
-                }
-            },
-            "2023": {
                 "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
-                    "system": 1
+                    "system": 0
+                },
+                "domain": {
+                    "HSC": 4,
+                    "": 2,
+                    "BLS": 1
+                }
+            },
+            "2023": {
+                "total": 2,
+                "marks": {
+                    "alterations": 0,
+                    "research": 1,
+                    "researcher_integrity": 0,
+                    "supplemental": 0,
+                    "system": 0
                 },
                 "domain": {
                     "B/T": 2,
@@ -200,7 +216,7 @@
             "2016": {
                 "total": 2,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
                     "researcher_integrity": 0,
                     "supplemental": 0,
@@ -215,15 +231,15 @@
     },
     "yearly_retractions": {
         "country": "Syria",
-        "total_retractions": 7,
+        "total_retractions": 8,
         "years": {
             "2024": {
                 "total": 1,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "integrity": 0,
-                    "supplemental": 1,
+                    "integrity": 1,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -231,10 +247,20 @@
                 "total": 2,
                 "marks": {
                     "alterations": 0,
+                    "research": 1,
+                    "integrity": 1,
+                    "supplemental": 0,
+                    "system": 0
+                }
+            },
+            "2021": {
+                "total": 1,
+                "marks": {
+                    "alterations": 0,
                     "research": 0,
                     "integrity": 1,
                     "supplemental": 0,
-                    "system": 1
+                    "system": 0
                 }
             },
             "2018": {
@@ -250,7 +276,7 @@
             "2016": {
                 "total": 1,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
                     "integrity": 0,
                     "supplemental": 0,
@@ -262,7 +288,7 @@
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "integrity": 0,
+                    "integrity": 1,
                     "supplemental": 1,
                     "system": 0
                 }
@@ -270,12 +296,12 @@
         },
         "notice_years": {
             "2025": {
-                "total": 1,
+                "total": 2,
                 "marks": {
                     "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
-                    "supplemental": 1,
+                    "researcher_integrity": 2,
+                    "supplemental": 0,
                     "system": 0
                 }
             },
@@ -283,10 +309,10 @@
                 "total": 2,
                 "marks": {
                     "alterations": 0,
-                    "research": 0,
+                    "research": 1,
                     "researcher_integrity": 1,
                     "supplemental": 0,
-                    "system": 1
+                    "system": 0
                 }
             },
             "2019": {
@@ -312,9 +338,9 @@
             "2016": {
                 "total": 2,
                 "marks": {
-                    "alterations": 1,
+                    "alterations": 0,
                     "research": 0,
-                    "researcher_integrity": 0,
+                    "researcher_integrity": 1,
                     "supplemental": 0,
                     "system": 0
                 }
