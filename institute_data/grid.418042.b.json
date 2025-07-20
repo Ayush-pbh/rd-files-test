@@ -1,30 +1,30 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068791ee",
+    "_id": "687ccbab09adbf7aa61b9e0f",
     "grid_id": "grid.418042.b",
     "institute_name": "Astellas Pharma (Japan)",
     "country": "Japan",
     "retracted_record_ids": [
       "36328",
-      "3995",
+      "298",
+      "36327",
       "2090",
       "4038",
-      "36327",
       "3177",
-      "298"
+      "3995"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23463cd",
-      "Record ID": "36328",
-      "Title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
-      "Subject": [
+      "_id": "687cefc01f662220d898b7b3",
+      "recordId": "36328",
+      "title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
         "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
         "PIramed, Slough, Berkshire, UK",
@@ -35,15 +35,15 @@
         "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
         "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
       ],
-      "Journal": "Anticancer Research",
-      "Publisher": "International Institute of Anticancer Research",
-      "Country": [
+      "journal": "Anticancer Research",
+      "publisher": "International Institute of Anticancer Research",
+      "country": [
         "France",
         "Japan",
         "Switzerland",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Danielle Boller",
         "Kathrin T Doepfner",
         "Angela De Laurentiis",
@@ -67,45 +67,175 @@
         "Michael D Waterfield",
         "Alexandre Arcaro"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/7/2013 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "22843869.0",
-      "OriginalPaperDate": "7/25/2012 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22843869.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "2/7/2013 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "22843869.0",
+      "originalpaperdate": "7/25/2012 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22843869.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e160",
-      "Record ID": "3995",
-      "Title": "Human expanded polyglutamine androgen receptor mutants in neurodegeneration as a novel ligand target",
-      "Subject": [
+      "_id": "687cefc01f662220d898b7b4",
+      "recordId": "36327",
+      "title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
+        "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
+        "PIramed, Slough, Berkshire, UK",
+        "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Ibaraki, Japan",
+        "INSERM U509, Paris, France",
+        "Department of Clinical Research, University of Bern, Bern, Switzerland",
+        "Department of Neurosurgery, University Hospital Zurich, Zurich, Switzerland",
+        "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
+        "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
+      ],
+      "journal": "Anticancer Research",
+      "publisher": "International Institute of Anticancer Research",
+      "country": [
+        "France",
+        "Japan",
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Danielle Boller",
+        "Kathrin T Doepfner",
+        "Angela De Laurentiis",
+        "Ana S Guerreiro",
+        "Marin Marinov",
+        "Tarek Shalaby",
+        "Paul Depledge",
+        "Anthony Robson",
+        "Nahid Saghir",
+        "Masahiko Hayakawa",
+        "Hiroyuki Kaizawa",
+        "Tomonobu Koizumi",
+        "Takahide Ohishi",
+        "Sarah Fattet",
+        "Olivier Delattre",
+        "Anelia Schweri-Olac",
+        "Katrin Holand",
+        "Michael A Grotzer",
+        "Karl Frei",
+        "Olivier Spertini",
+        "Michael D Waterfield",
+        "Alexandre Arcaro"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/1/2021 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "35349467.0",
+      "originalpaperdate": "7/25/2012 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22843869.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d899351b",
+      "recordId": "4038",
+      "title": "Maturation of MicroRNA Is Hormonally Regulated by a Nuclear Receptor",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Endocrinology"
+      ],
+      "institution": [
+        "Institute of Molecular and Cellular Biosciences, University of Tokyo, Yayoi 1-1-1, Bunkyo-ku, Tokyo 113-0032, Japan",
+        "ERATO, Japan Science and Technology, Honcho 4-1-8, Kawaguchi-shi, Saitama 332-0012, Japan",
+        "Advanced Genomics, Molecular Medicine Research Labs, Drug Discovery Research, Astellas Pharma Inc., 21, Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan",
+        "Department of Physiology and Cell Biology, Graduate School of Medicine, Kobe University, 7-5-1, Kusunoki-cho, Chuo-ku, Kobe 650-0017, Japan",
+        "Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA"
+      ],
+      "journal": "Molecular Cell",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "Japan",
+        "United States"
+      ],
+      "author": [
+        "Kaoru Yamagata",
+        "Sally Fujiyama",
+        "Saya Ito",
+        "Takashi Ueda",
+        "Takuya Murata",
+        "Masanori Naitou",
+        "Ken Ichi Takeyama",
+        "Yasuhiro Minami",
+        "Bert W O'Malley",
+        "Shigeaki Kato"
+      ],
+      "urls": "http://retractionwatch.com/category/by-author/shigeaki-kato/;http://retractionwatch.com/2014/05/12/shigeaki-kato-up-to-25-retractions/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/8/2014 0:00",
+      "retractiondoi": "10.1016/j.molcel.2014.04.018",
+      "retractionpubmedid": "24932469.0",
+      "originalpaperdate": "10/23/2009 0:00",
+      "originalpaperdoi": "10.1016/j.molcel.2009.08.017",
+      "originalpaperpubmedid": "19854141.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Manipulation of Images",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d8993546",
+      "recordId": "3995",
+      "title": "Human expanded polyglutamine androgen receptor mutants in neurodegeneration as a novel ligand target",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Japan",
         "Institute of Molecular and Cellular Biosciences, The University of Tokyo, Tokyo, Japan",
         "Exploratory Research for Advanced Technology, Japan Science and Technology, Kawaguchi, Saitama, Japan"
       ],
-      "Journal": "The Journal of Pharmacology and Experimental Therapeutics",
-      "Publisher": "ASPET: American Society for Pharmacology and Experimental Therapeutics",
-      "Country": [
+      "journal": "The Journal of Pharmacology and Experimental Therapeutics",
+      "publisher": "ASPET: American Society for Pharmacology and Experimental Therapeutics",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Takashi Furutani",
         "Ken Ichi Takeyama",
         "Masahiko Tanabe",
@@ -118,223 +248,52 @@
         "Hisataka Shikama",
         "Shigeaki Kato"
       ],
-      "URLS": "http://retractionwatch.com/2016/03/16/shigeaki-kato-up-to-38-retractions-holds-onto-number-7-spot-on-the-leaderboard/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/03/16/shigeaki-kato-up-to-38-retractions-holds-onto-number-7-spot-on-the-leaderboard/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/17/2014 0:00",
-      "RetractionDOI": "10.1124/jpet.114.03er14b",
-      "RetractionPubMedID": "24534945.0",
-      "OriginalPaperDate": "10/19/2005 0:00",
-      "OriginalPaperDOI": "10.1124/jpet.105.087643",
-      "OriginalPaperPubMedID": "16079302.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/17/2014 0:00",
+      "retractiondoi": "10.1124/jpet.114.03er14b",
+      "retractionpubmedid": "24534945.0",
+      "originalpaperdate": "10/19/2005 0:00",
+      "originalpaperdoi": "10.1124/jpet.105.087643",
+      "originalpaperpubmedid": "16079302.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Investigation by Company/Institution",
         "+Manipulation of Images",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "For more information, see the RW archive for S Kato: http://retractionwatch.com/category/by-author/shigeaki-kato/;",
-      "notice_year": 2014,
-      "year": 2005,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "For more information, see the RW archive for S Kato: http://retractionwatch.com/category/by-author/shigeaki-kato/;",
+      "year": "2005",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e8a6",
-      "Record ID": "2090",
-      "Title": "Amyloid Plaques, Neurofibrillary Tangles and Neuronal Loss in Brains of Transgenic Mice Overexpressing a C-terminal Fragment of Human Amyloid Precursor Protein",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Department of Geriatrics and Adult Development, and \u00a7 Department of Obs/Gyn Reproductive Science, Mt Sinai Medical Center, 2056 Annenberg, New York, New York 10029, USA",
-        "Yamanouchi Pharmaceutical Co. Ltd, Tokyo 103, Japan",
-        "Gerontology Research Center, National Institute on Aging, National Institutes of Health, Baltimore, Maryland 21224, USA"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "Japan",
-        "United States"
-      ],
-      "Author": [
-        "Shigeki Kawabata",
-        "Gerald A Higgins",
-        "Jon W Gordon"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/19/1992 0:00",
-      "RetractionDOI": "10.1038/356265a0",
-      "RetractionPubMedID": "1552948.0",
-      "OriginalPaperDate": "12/12/1991 0:00",
-      "OriginalPaperDOI": "10.1038/354476a0",
-      "OriginalPaperPubMedID": "1793460.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information",
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "No",
-      "Notes": "see https://www.nature.com/articles/356023b0",
-      "notice_year": 1992,
-      "year": 1991,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e135",
-      "Record ID": "4038",
-      "Title": "Maturation of MicroRNA Is Hormonally Regulated by a Nuclear Receptor",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Endocrinology"
-      ],
-      "Institution": [
-        "Institute of Molecular and Cellular Biosciences, University of Tokyo, Yayoi 1-1-1, Bunkyo-ku, Tokyo 113-0032, Japan",
-        "ERATO, Japan Science and Technology, Honcho 4-1-8, Kawaguchi-shi, Saitama 332-0012, Japan",
-        "Advanced Genomics, Molecular Medicine Research Labs, Drug Discovery Research, Astellas Pharma Inc., 21, Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan",
-        "Department of Physiology and Cell Biology, Graduate School of Medicine, Kobe University, 7-5-1, Kusunoki-cho, Chuo-ku, Kobe 650-0017, Japan",
-        "Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA"
-      ],
-      "Journal": "Molecular Cell",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "Japan",
-        "United States"
-      ],
-      "Author": [
-        "Kaoru Yamagata",
-        "Sally Fujiyama",
-        "Saya Ito",
-        "Takashi Ueda",
-        "Takuya Murata",
-        "Masanori Naitou",
-        "Ken Ichi Takeyama",
-        "Yasuhiro Minami",
-        "Bert W O'Malley",
-        "Shigeaki Kato"
-      ],
-      "URLS": "http://retractionwatch.com/category/by-author/shigeaki-kato/;http://retractionwatch.com/2014/05/12/shigeaki-kato-up-to-25-retractions/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/8/2014 0:00",
-      "RetractionDOI": "10.1016/j.molcel.2014.04.018",
-      "RetractionPubMedID": "24932469.0",
-      "OriginalPaperDate": "10/23/2009 0:00",
-      "OriginalPaperDOI": "10.1016/j.molcel.2009.08.017",
-      "OriginalPaperPubMedID": "19854141.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Manipulation of Images",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2009,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23463ce",
-      "Record ID": "36327",
-      "Title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
-        "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
-        "PIramed, Slough, Berkshire, UK",
-        "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Ibaraki, Japan",
-        "INSERM U509, Paris, France",
-        "Department of Clinical Research, University of Bern, Bern, Switzerland",
-        "Department of Neurosurgery, University Hospital Zurich, Zurich, Switzerland",
-        "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
-        "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
-      ],
-      "Journal": "Anticancer Research",
-      "Publisher": "International Institute of Anticancer Research",
-      "Country": [
-        "France",
-        "Japan",
-        "Switzerland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Danielle Boller",
-        "Kathrin T Doepfner",
-        "Angela De Laurentiis",
-        "Ana S Guerreiro",
-        "Marin Marinov",
-        "Tarek Shalaby",
-        "Paul Depledge",
-        "Anthony Robson",
-        "Nahid Saghir",
-        "Masahiko Hayakawa",
-        "Hiroyuki Kaizawa",
-        "Tomonobu Koizumi",
-        "Takahide Ohishi",
-        "Sarah Fattet",
-        "Olivier Delattre",
-        "Anelia Schweri-Olac",
-        "Katrin Holand",
-        "Michael A Grotzer",
-        "Karl Frei",
-        "Olivier Spertini",
-        "Michael D Waterfield",
-        "Alexandre Arcaro"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/1/2021 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "35349467.0",
-      "OriginalPaperDate": "7/25/2012 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22843869.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e47f",
-      "Record ID": "3177",
-      "Title": "Purification and Identification of p68 RNA Helicase Acting as a Transcriptional Coactivator Specific for the Activation Function 1 of Human Estrogen Receptor a",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993865",
+      "recordId": "3177",
+      "title": "Purification and Identification of p68 RNA Helicase Acting as a Transcriptional Coactivator Specific for the Activation Function 1 of Human Estrogen Receptor a",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Molecular Medicine Laboratories, Institute for Drug Discovery Research, Yamanouchi Pharmaceutical, Tsukuba, Ibaraki 305-8585",
         "Institute for Molecular and Cellular Biosciences, The University of Tokyo, Bunkyo-ku, Tokyo 113-0032",
         "CREST, Japan Science and Technology, Kawaguchi, Saitama 332-0012, Japan",
         "Institut de Genetique et de Biologie Moleculaire et Cellulaire, (IGBMC)/CNRS/INSERM/ULP College de France, 67404 Illkirch Cedex, C.U. de Strasbourg, France"
       ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "France",
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Hideki Endoh",
         "Kazunori Maruyama",
         "Yoshikazu Masuhiro",
@@ -346,50 +305,97 @@
         "Seiichi Hashimoto",
         "Shigeaki Kato"
       ],
-      "URLS": "http://retractionwatch.com/2014/02/07/shigeaki-kato-up-to-23-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/02/07/shigeaki-kato-up-to-23-retractions/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/1/2014 0:00",
-      "RetractionDOI": "10.1128/MCB.01458-13",
-      "RetractionPubMedID": "24509260.0",
-      "OriginalPaperDate": "8/1/1999 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.19.8.5363",
-      "OriginalPaperPubMedID": "10409727.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2014 0:00",
+      "retractiondoi": "10.1128/MCB.01458-13",
+      "retractionpubmedid": "24509260.0",
+      "originalpaperdate": "8/1/1999 0:00",
+      "originalpaperdoi": "10.1128/MCB.19.8.5363",
+      "originalpaperpubmedid": "10409727.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Ethical Violations by Author",
         "+Manipulation of Images",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 1999,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "1999",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ef80",
-      "Record ID": "298",
-      "Title": "DEAD-box RNA helicase subunits of the Drosha complex are required for processing of rRNA and a subset of microRNAs",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c8c",
+      "recordId": "2090",
+      "title": "Amyloid Plaques, Neurofibrillary Tangles and Neuronal Loss in Brains of Transgenic Mice Overexpressing a C-terminal Fragment of Human Amyloid Precursor Protein",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Department of Geriatrics and Adult Development, and \u00a7 Department of Obs/Gyn Reproductive Science, Mt Sinai Medical Center, 2056 Annenberg, New York, New York 10029, USA",
+        "Yamanouchi Pharmaceutical Co. Ltd, Tokyo 103, Japan",
+        "Gerontology Research Center, National Institute on Aging, National Institutes of Health, Baltimore, Maryland 21224, USA"
+      ],
+      "journal": "Nature",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "Japan",
+        "United States"
+      ],
+      "author": [
+        "Shigeki Kawabata",
+        "Gerald A Higgins",
+        "Jon W Gordon"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/19/1992 0:00",
+      "retractiondoi": "10.1038/356265a0",
+      "retractionpubmedid": "1552948.0",
+      "originalpaperdate": "12/12/1991 0:00",
+      "originalpaperdoi": "10.1038/354476a0",
+      "originalpaperpubmedid": "1793460.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information",
+        "+Results Not Reproducible"
+      ],
+      "paywalled": "No",
+      "notes": "see https://www.nature.com/articles/356023b0",
+      "year": "1991",
+      "noticeYear": "1992",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994366",
+      "recordId": "298",
+      "title": "DEAD-box RNA helicase subunits of the Drosha complex are required for processing of rRNA and a subset of microRNAs",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Molecular and Cellular Biosciences, University of Tokyo, Yayoi 1-1-1, Bunkyo-ku, Tokyo 113-0032, Japan",
         "ERATO, Japan Science and Technology, Honcho 4-1-8, Kawaguchi, Saitama 332-0012, Japan",
         "Applied Genomics, Molecular Medicine Labs., Drug Discovery Research, Astellas Pharma Inc., 21,Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan",
         "Research Center for Genomic Medicine, Saitama Medical School, Yamane 1397-1, Hidakashi, Saitama, 350-1242, Japan",
         "Department of Molecular and Cellular Biology, Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA"
       ],
-      "Journal": "Nature Cell Biology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Cell Biology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Japan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Toru Fukuda",
         "Kaoru Yamagata",
         "Sally Fujiyama",
@@ -410,115 +416,116 @@
         "Bert W O'Malley",
         "Shigeaki Kato"
       ],
-      "URLS": "http://retractionwatch.com/2014/11/03/shigeaki-kato-up-to-28-retractions-with-three-papers-cited-nearly-700-times/;http://retractionwatch.com/category/by-author/shigeaki-kato/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/11/03/shigeaki-kato-up-to-28-retractions-with-three-papers-cited-nearly-700-times/;http://retractionwatch.com/category/by-author/shigeaki-kato/",
+      "articletype": [
         "Letter",
         "Research Article"
       ],
-      "RetractionDate": "10/31/2014 0:00",
-      "RetractionDOI": "10.1038/ncb3061",
-      "RetractionPubMedID": "25358354.0",
-      "OriginalPaperDate": "4/15/2007 0:00",
-      "OriginalPaperDOI": "10.1038/ncb1577",
-      "OriginalPaperPubMedID": "17435748.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/31/2014 0:00",
+      "retractiondoi": "10.1038/ncb3061",
+      "retractionpubmedid": "25358354.0",
+      "originalpaperdate": "4/15/2007 0:00",
+      "originalpaperdoi": "10.1038/ncb1577",
+      "originalpaperpubmedid": "17435748.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Image",
         "+Investigation by Company/Institution",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2007,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1991,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 1992,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 1999,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -526,10 +533,10 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -537,10 +544,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

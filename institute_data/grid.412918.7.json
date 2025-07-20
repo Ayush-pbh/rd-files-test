@@ -1,115 +1,118 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687952a",
+    "_id": "687ccbab09adbf7aa61ba14b",
     "grid_id": "grid.412918.7",
     "institute_name": "Birmingham City Hospital",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "31413",
-      "20083"
+      "20083",
+      "31413"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23476f5",
-      "Record ID": "31413",
-      "Title": "Antiplatelet agents versus control or anticoagulation for heart failure in sinus rhythm",
-      "Subject": [
+      "_id": "687cefd41f662220d898cadb",
+      "recordId": "31413",
+      "title": "Antiplatelet agents versus control or anticoagulation for heart failure in sinus rhythm",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "University of Birmingham Centre for Cardiovascular Sciences, City Hospital, Birmingham, UK",
         "Haemostasis Thrombosis and Vascular Biology Unit, University of Birmingham, Centre for Cardiovascular Sciences, Birmingham, UK"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Gregory YH Lip",
         "Benjamin J Wrigley",
         "Ron Pisters"
       ],
-      "URLS": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "5/3/2016 0:00",
-      "RetractionDOI": "10.1002/14651858.CD003333.pub2",
-      "RetractionPubMedID": "27140950.0",
-      "OriginalPaperDate": "4/24/2000 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD003333",
-      "OriginalPaperPubMedID": "11687189.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/3/2016 0:00",
+      "retractiondoi": "10.1002/14651858.CD003333.pub2",
+      "retractionpubmedid": "27140950.0",
+      "originalpaperdate": "4/24/2000 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD003333",
+      "originalpaperpubmedid": "11687189.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Removed",
         "+Withdrawn as Out of Date"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2000
+      "paywalled": "No",
+      "year": "2000",
+      "noticeYear": "2016",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a310",
-      "Record ID": "20083",
-      "Title": "The CHA(2)DS(2)-VASc score for stroke risk stratification in patients with atrial fibrillation: a brief history",
-      "Subject": [
+      "_id": "687cf0721f662220d898f6f6",
+      "recordId": "20083",
+      "title": "The CHA(2)DS(2)-VASc score for stroke risk stratification in patients with atrial fibrillation: a brief history",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "University of Birmingham Centre for Cardiovascular Sciences, City Hospital, Birmingham, United Kingdom",
         "Aalborg Thrombosis Research Unit, Department of Clinical Medicine, Aalborg University, Aalborg, Denmark"
       ],
-      "Journal": "European Heart Journal",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "European Heart Journal",
+      "publisher": "Oxford Academic",
+      "country": [
         "Denmark",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Gregory Y H Lip"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "12/14/2018 0:00",
-      "RetractionDOI": "10.1093/eurheartj/ehv431",
-      "RetractionPubMedID": "26358574.0",
-      "OriginalPaperDate": "11/7/2015 0:00",
-      "OriginalPaperDOI": "10.1093/eurheartj/ehv431",
-      "OriginalPaperPubMedID": "26358574.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/14/2018 0:00",
+      "retractiondoi": "10.1093/eurheartj/ehv431",
+      "retractionpubmedid": "26358574.0",
+      "originalpaperdate": "11/7/2015 0:00",
+      "originalpaperdoi": "10.1093/eurheartj/ehv431",
+      "originalpaperpubmedid": "26358574.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2000,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -117,10 +120,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -128,10 +131,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

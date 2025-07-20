@@ -1,36 +1,75 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879980",
+    "_id": "687ccbab09adbf7aa61ba5a1",
     "grid_id": "grid.10400.35",
     "institute_name": "University of Rouen",
     "country": "France",
     "retracted_record_ids": [
+      "17281",
       "17462",
-      "21912",
-      "17281"
+      "21912"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ad3b",
-      "Record ID": "17462",
-      "Title": "Posterior Arthroscopic Tibiotalar Arthrodesis: Anatomic Feasibility Study",
-      "Subject": [
+      "_id": "687cf02f1f662220d898efdb",
+      "recordId": "21912",
+      "title": "First stereoselective total synthesis of (-)-(2R,10S)-megapodiol",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "Laboratoire d\u2019 Heterochimie Organique associe\u2019 au CNRS, IRCOF, INSA et Universite\u2019 de Rouen, Rue Tesniere 76821 Mont Saint\u2014Aignan cedex, France"
+      ],
+      "journal": "Tetrahedron Asymmetry",
+      "publisher": "Elsevier",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Ramadas Sathunuru",
+        "Jean Charles Quirion"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/6/2006 0:00",
+      "retractiondoi": "10.1016/j.tetasy.2006.10.020",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/4/2005 0:00",
+      "originalpaperdoi": "10.1016/j.tetasy.2005.01.011",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+False/Forged Authorship"
+      ],
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2006",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d8990121",
+      "recordId": "17462",
+      "title": "Posterior Arthroscopic Tibiotalar Arthrodesis: Anatomic Feasibility Study",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pediatrics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Orthopaedics Surgery and Traumatology, Rouen University Hospital, Rouen, France",
         "Anatomy Laboratory, Faculty of Medicine, Rouen University, Rouen, France",
         "Department of Orthopaedics Surgery and Traumatology, Rouen University Hospital, Rouen, France",
         "Department of Orthopaedics Surgery and Traumatology, Rouen University Hospital, Rouen, France"
       ],
-      "Journal": "The Journal of Foot and Ankle Surgery: Official Publication of the American College of Foot and Ankle",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "The Journal of Foot and Ankle Surgery: Official Publication of the American College of Foot and Ankle",
+      "publisher": "Elsevier",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Louis Malekpour",
         "Said Rahali",
         "Damien Potage",
@@ -38,157 +77,122 @@
         "Franck Dujardin",
         "Zavier Roussignol"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/22/2018 0:00",
-      "RetractionDOI": "10.1053/j.jfas.2017.12.015",
-      "RetractionPubMedID": "29478485.0",
-      "OriginalPaperDate": "7/1/2017 0:00",
-      "OriginalPaperDOI": "10.1053/j.jfas.2017.01.005",
-      "OriginalPaperPubMedID": "28410782.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/22/2018 0:00",
+      "retractiondoi": "10.1053/j.jfas.2017.12.015",
+      "retractionpubmedid": "29478485.0",
+      "originalpaperdate": "7/1/2017 0:00",
+      "originalpaperdoi": "10.1053/j.jfas.2017.01.005",
+      "originalpaperpubmedid": "28410782.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349bf5",
-      "Record ID": "21912",
-      "Title": "First stereoselective total synthesis of (-)-(2R,10S)-megapodiol",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "Laboratoire d\u2019 Heterochimie Organique associe\u2019 au CNRS, IRCOF, INSA et Universite\u2019 de Rouen, Rue Tesniere 76821 Mont Saint\u2014Aignan cedex, France"
-      ],
-      "Journal": "Tetrahedron Asymmetry",
-      "Publisher": "Elsevier",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Ramadas Sathunuru",
-        "Jean Charles Quirion"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/6/2006 0:00",
-      "RetractionDOI": "10.1016/j.tetasy.2006.10.020",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/4/2005 0:00",
-      "OriginalPaperDOI": "10.1016/j.tetasy.2005.01.011",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+False/Forged Authorship"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2006,
-      "year": 2005,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234adef",
-      "Record ID": "17281",
-      "Title": "Functional characterization of a nonclassical nicotine receptor associated with inositolphospholipid breakdown and mobilization of intracellular calcium pools",
-      "Subject": [
+      "_id": "687cf0941f662220d89901d5",
+      "recordId": "17281",
+      "title": "Functional characterization of a nonclassical nicotine receptor associated with inositolphospholipid breakdown and mobilization of intracellular calcium pools",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "European Institute for Peptide Research, Institut National de la Sant\u00e9 de la Recherche M\u00e9dicale, Unit\u00e9 413, University of Rouen, Mont-Saint-Aignan, France"
       ],
-      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
-      "Publisher": "National Academy of Sciences (NAS)",
-      "Country": [
+      "journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "publisher": "National Academy of Sciences (NAS)",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "M Garnier",
         "M Lamacz",
         "M C Tonon",
         "H Vaudry"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/7/2003 0:00",
-      "RetractionDOI": "10.1073/pnas.0234540100",
-      "RetractionPubMedID": "16576748.0",
-      "OriginalPaperDate": "11/22/1994 0:00",
-      "OriginalPaperDOI": "10.1073/pnas.91.24.11743",
-      "OriginalPaperPubMedID": "7972134.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/7/2003 0:00",
+      "retractiondoi": "10.1073/pnas.0234540100",
+      "retractionpubmedid": "16576748.0",
+      "originalpaperdate": "11/22/1994 0:00",
+      "originalpaperdoi": "10.1073/pnas.91.24.11743",
+      "originalpaperpubmedid": "7972134.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Materials",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2003,
-      "year": 1994,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "1994",
+      "noticeYear": "2003",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1994,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2006,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -196,10 +200,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,77 +1,26 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a0d8",
+    "_id": "687ccbab09adbf7aa61bacf9",
     "grid_id": "grid.412483.8",
     "institute_name": "University Hospital of Alexandroupolis",
     "country": "Greece",
     "retracted_record_ids": [
-      "532",
-      "2772"
+      "2772",
+      "532"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ee97",
-      "Record ID": "532",
-      "Title": "Jaw bone metastases: four cases",
-      "Subject": [
-        "(BLS) Biology - Cancer"
-      ],
-      "Institution": [
-        "Department of Cytology, Regional Hospital of Chania, Crete, Greece",
-        "Department of Oral and Maxillofacial Surgery, University Hospital of Alexandroupolis, Thrace, Greece",
-        "Department of Histology-Embryology, Democritus University of Thrace, Faculty of Medicine, Alexandroupolis, Thrace, Greece",
-        "Radiodiagnostic Center, Alexandroupolis, Thrace, Greece",
-        "Department of Pathology, Hippokration Hospital of Thessaloniki, Greece. Department of Pathology, Regional Hospital of Drama, Greece"
-      ],
-      "Journal": "Acta Dermatovenerologica Alpina, Pannonica et Adriatica",
-      "Publisher": "Zdruzenje slovenskih dermatovenerologov",
-      "Country": [
-        "Greece"
-      ],
-      "Author": [
-        "Demetrio Tamiolakis",
-        "Ioannis Tsamis",
-        "Vasilios Thomaidis",
-        "Maria Lambropoulou",
-        "George Alexiadis",
-        "Ioannis Venizelos",
-        "Theodoros Jivanakis",
-        "Nikolas Papadopoulos"
-      ],
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "9/1/2009 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "19784531.0",
-      "OriginalPaperDate": "3/1/2007 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "17992450.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Copyright Claims",
-        "+Duplication of/in Article",
-        "+False/Forged Authorship"
-      ],
-      "Paywalled": "No",
-      "Notes": "Demetrio Tamiolakis named responsible for forgeries and duplication",
-      "notice_year": 2009,
-      "year": 2007,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234e60c",
-      "Record ID": "2772",
-      "Title": "Intraoperative Touch Imprint Cytological Analysis of Sentinel Lymph Nodes for the Presence of Metastases in Breast Cancer",
-      "Subject": [
+      "_id": "687cf0cd1f662220d89939f2",
+      "recordId": "2772",
+      "title": "Intraoperative Touch Imprint Cytological Analysis of Sentinel Lymph Nodes for the Presence of Metastases in Breast Cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cytology, Regional Hospital of Chania, Greece",
         "Department of Histology-Embryology, Democritus University of Thrace, Alexandroupolis, Greece' Department of Pathology, Ippocration General Hospital of Salonica, Greece",
         "Department of Surgery, Democritus University of Thrace, Alexandroupolis,Greece",
@@ -79,12 +28,12 @@
         "Department of Obstetrics and Gynecology, Regional Hospital of Alexandroupolis, Greece",
         "Department of Experimental Surgery, Democritus University of Thrace, Alexandroupolis, Greece"
       ],
-      "Journal": "Onkologie",
-      "Publisher": "Karger",
-      "Country": [
+      "journal": "Onkologie",
+      "publisher": "Karger",
+      "country": [
         "Greece"
       ],
-      "Author": [
+      "author": [
         "Demetrio Tamiolakis",
         "Nikolaos Papadopoulos",
         "J Ioannis Venizelos",
@@ -96,55 +45,108 @@
         "Gerasimos Koutsougeras",
         "C Simopoulos"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/1/2007 0:00",
-      "RetractionDOI": "10.1159/000112011",
-      "RetractionPubMedID": "18063880.0",
-      "OriginalPaperDate": "9/1/2006 0:00",
-      "OriginalPaperDOI": "10.1159/000094409",
-      "OriginalPaperPubMedID": "16974114.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2007 0:00",
+      "retractiondoi": "10.1159/000112011",
+      "retractionpubmedid": "18063880.0",
+      "originalpaperdate": "9/1/2006 0:00",
+      "originalpaperdoi": "10.1159/000094409",
+      "originalpaperpubmedid": "16974114.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2007,
-      "year": 2006,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2007",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d899427d",
+      "recordId": "532",
+      "title": "Jaw bone metastases: four cases",
+      "subject": [
+        "(BLS) Biology - Cancer"
+      ],
+      "institution": [
+        "Department of Cytology, Regional Hospital of Chania, Crete, Greece",
+        "Department of Oral and Maxillofacial Surgery, University Hospital of Alexandroupolis, Thrace, Greece",
+        "Department of Histology-Embryology, Democritus University of Thrace, Faculty of Medicine, Alexandroupolis, Thrace, Greece",
+        "Radiodiagnostic Center, Alexandroupolis, Thrace, Greece",
+        "Department of Pathology, Hippokration Hospital of Thessaloniki, Greece. Department of Pathology, Regional Hospital of Drama, Greece"
+      ],
+      "journal": "Acta Dermatovenerologica Alpina, Pannonica et Adriatica",
+      "publisher": "Zdruzenje slovenskih dermatovenerologov",
+      "country": [
+        "Greece"
+      ],
+      "author": [
+        "Demetrio Tamiolakis",
+        "Ioannis Tsamis",
+        "Vasilios Thomaidis",
+        "Maria Lambropoulou",
+        "George Alexiadis",
+        "Ioannis Venizelos",
+        "Theodoros Jivanakis",
+        "Nikolas Papadopoulos"
+      ],
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "9/1/2009 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "19784531.0",
+      "originalpaperdate": "3/1/2007 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "17992450.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Copyright Claims",
+        "+Duplication of/in Article",
+        "+False/Forged Authorship"
+      ],
+      "paywalled": "No",
+      "notes": "Demetrio Tamiolakis named responsible for forgeries and duplication",
+      "year": "2007",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

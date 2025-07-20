@@ -1,44 +1,178 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068787dd",
+    "_id": "687ccbab09adbf7aa61b93fe",
     "grid_id": "grid.412152.1",
     "institute_name": "Clinical Emergency Hospital Bucharest",
     "country": "Romania",
     "retracted_record_ids": [
-      "18992",
       "53518",
-      "18996",
       "18979",
-      "53512",
-      "18982",
+      "18996",
+      "10248",
+      "18992",
       "18978",
-      "10248"
+      "53512",
+      "18982"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a74f",
-      "Record ID": "18992",
-      "Title": "The embryologycal features of atrioventricular septal defect diagnosed in the fetal life",
-      "Subject": [
+      "_id": "687cef811f662220d89874f1",
+      "recordId": "53518",
+      "title": "Young patient with hyperhomocysteinemia and multiple atherosclerotic vascular lesions",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Pediatrics"
+      ],
+      "institution": [
+        "The County Emergency Clinical Hospital"
+      ],
+      "journal": "Cardiovascular Research",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Romania"
+      ],
+      "author": [
+        "Stoia Oana",
+        "Catrina Bianca",
+        "Puia Andreea",
+        "Bitea Ioan Cornel"
+      ],
+      "articletype": [
+        "Case Report",
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "12/26/2022 0:00",
+      "retractiondoi": "10.1093/cvr/cvac183",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/21/2022 0:00",
+      "originalpaperdoi": "10.1093/cvr/cvac157.043",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Not Presented at Conference"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef811f662220d89874f7",
+      "recordId": "53512",
+      "title": "Partial atresia of the inferior vena cava associated with deep vein thrombosis \u2013 case report",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "The County Emergency Clinical Hospital"
+      ],
+      "journal": "Cardiovascular Research",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Romania"
+      ],
+      "author": [
+        "Stoia Oana",
+        "Cristina Zagoni",
+        "Andreea Puia",
+        "Bianca Catrina",
+        "Minodora Teodoru"
+      ],
+      "articletype": [
+        "Case Report",
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "12/26/2022 0:00",
+      "retractiondoi": "10.1093/cvr/cvac183",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/21/2022 0:00",
+      "originalpaperdoi": "10.1093/cvr/cvac157.037",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Not Presented at Conference"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fb31",
+      "recordId": "18996",
+      "title": "Which could be the anatomical variations of brachial plexus nerve disposition detected through echography? Descriptive study related to regional anaesthesia of the upper limb",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Anaesthesiology and Intensive Care, Prof. Dr. Agrippa Ionescu Clinical Emergency Hospital, Bucharest",
+        "Department of General Surgery, Prof. Dr. Agrippa Ionescu Clinical Emergency Hospital, Bucharest",
+        "Department of Radiology and Imaging, Prof. Dr. Agrippa Ionescu Clinical Emergency Hospital, Bucharest",
+        "Department of Anatomy, Faculty of Medicine, Titu Maiorescu University, Bucharest",
+        "Faculty of Medicine, Department of Morpho-Functional Sciences, Gr.T. Popa University of Medicine and Pharmacy, Iasi"
+      ],
+      "journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
+      "publisher": "Romanian Society of Anatomy",
+      "country": [
+        "Romania"
+      ],
+      "author": [
+        "Mirela Nicolau",
+        "A Tulin",
+        "M Tanasi",
+        "D Paduraru",
+        "R Marin"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/1/2015 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Lack of",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article45.pdf",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fb35",
+      "recordId": "18992",
+      "title": "The embryologycal features of atrioventricular septal defect diagnosed in the fetal life",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Pediatrics",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anatomy, \u201cCarol Davila\u201d University of Medicine and Pharmacy, Bucharest",
         "Department of Orthopedics, \u201cCarol Davila\u201d University of Medicine and Pharmacy, Bucharest",
         "Department of Obstetrics and Gynecology, \u201cCarol Davila\u201d University of Medicine and Pharmacy, Bucharest",
         "Department of Plastic and Reconstructive Surgery, \u201cProf. Dr. Agrippa Ionescu\u201d Clinical Emergency Hospital, Bucharest",
         "Diagnostic and Treatment Medical Center, Ambulatory and Preventive Medicine, Bucharest"
       ],
-      "Journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
-      "Publisher": "Romanian Society of Anatomy",
-      "Country": [
+      "journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
+      "publisher": "Romanian Society of Anatomy",
+      "country": [
         "Romania"
       ],
-      "Author": [
+      "author": [
         "Raluca Tulin",
         "S Oprea",
         "C Pantu",
@@ -49,230 +183,51 @@
         "A Tulin",
         "A Voichitoiu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "1/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/1/2016 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/1/2016 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Notice - Lack of",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article40.pdf",
-      "notice_year": 2018,
-      "year": 2016,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article40.pdf",
+      "year": "2016",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234210b",
-      "Record ID": "53518",
-      "Title": "Young patient with hyperhomocysteinemia and multiple atherosclerotic vascular lesions",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Pediatrics"
-      ],
-      "Institution": [
-        "The County Emergency Clinical Hospital"
-      ],
-      "Journal": "Cardiovascular Research",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Romania"
-      ],
-      "Author": [
-        "Stoia Oana",
-        "Catrina Bianca",
-        "Puia Andreea",
-        "Bitea Ioan Cornel"
-      ],
-      "ArticleType": [
-        "Case Report",
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "12/26/2022 0:00",
-      "RetractionDOI": "10.1093/cvr/cvac183",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/21/2022 0:00",
-      "OriginalPaperDOI": "10.1093/cvr/cvac157.043",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Not Presented at Conference"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234a74b",
-      "Record ID": "18996",
-      "Title": "Which could be the anatomical variations of brachial plexus nerve disposition detected through echography? Descriptive study related to regional anaesthesia of the upper limb",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Anaesthesiology and Intensive Care, Prof. Dr. Agrippa Ionescu Clinical Emergency Hospital, Bucharest",
-        "Department of General Surgery, Prof. Dr. Agrippa Ionescu Clinical Emergency Hospital, Bucharest",
-        "Department of Radiology and Imaging, Prof. Dr. Agrippa Ionescu Clinical Emergency Hospital, Bucharest",
-        "Department of Anatomy, Faculty of Medicine, Titu Maiorescu University, Bucharest",
-        "Faculty of Medicine, Department of Morpho-Functional Sciences, Gr.T. Popa University of Medicine and Pharmacy, Iasi"
-      ],
-      "Journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
-      "Publisher": "Romanian Society of Anatomy",
-      "Country": [
-        "Romania"
-      ],
-      "Author": [
-        "Mirela Nicolau",
-        "A Tulin",
-        "M Tanasi",
-        "D Paduraru",
-        "R Marin"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/1/2015 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Lack of",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article45.pdf",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234a75b",
-      "Record ID": "18979",
-      "Title": "The anatomy of the hepatic lymphatics and their implication in colorectal cancer liver metastasis",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "\u201cProf. Dr. Agrippa Ionescu\u201d Emergency Clinical Hospital, Bucharest",
-        "University of Medicine and Pharmacy \u201cCarol Davila\u201d, Bucharest",
-        "Department of General and Esophageal Surgery, \u201cSf. Maria\u201d Clinical Hospital, Bucharest",
-        "University of Medicine and Pharmacy \u201cCarol Davila\u201d, Bucharest"
-      ],
-      "Journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
-      "Publisher": "Romanian Society of Anatomy",
-      "Country": [
-        "Romania"
-      ],
-      "Author": [
-        "Beatrice Lintoiu-Ursut",
-        "A Tulin",
-        "B Ursut",
-        "O Enciu",
-        "S Constantinoiu",
-        "F Filipoiu"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "1/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/1/2015 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Lack of",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article32.pdf",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2342111",
-      "Record ID": "53512",
-      "Title": "Partial atresia of the inferior vena cava associated with deep vein thrombosis \u2013 case report",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "The County Emergency Clinical Hospital"
-      ],
-      "Journal": "Cardiovascular Research",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Romania"
-      ],
-      "Author": [
-        "Stoia Oana",
-        "Cristina Zagoni",
-        "Andreea Puia",
-        "Bianca Catrina",
-        "Minodora Teodoru"
-      ],
-      "ArticleType": [
-        "Case Report",
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "12/26/2022 0:00",
-      "RetractionDOI": "10.1093/cvr/cvac183",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/21/2022 0:00",
-      "OriginalPaperDOI": "10.1093/cvr/cvac157.037",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Not Presented at Conference"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234a759",
-      "Record ID": "18982",
-      "Title": "Cadaveric dissection for the rectal surgery",
-      "Subject": [
+      "_id": "687cf08f1f662220d898fb3f",
+      "recordId": "18982",
+      "title": "Cadaveric dissection for the rectal surgery",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Anatomy Department, University of Medicine and Pharmacy Carol Davila Bucharest, Romania",
         "Emergency Clinical Hospital Bucharest Floreasca, Romania",
         "C.I. Parhon National Institute of Endocrinology, Bucharest, Romania",
         "University Hospital, Ioannina, Greece",
         "University of Medicine and Pharmacy Carol Davila Bucharest, Romania"
       ],
-      "Journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
-      "Publisher": "Romanian Society of Anatomy",
-      "Country": [
+      "journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
+      "publisher": "Romanian Society of Anatomy",
+      "country": [
         "Greece",
         "Romania"
       ],
-      "Author": [
+      "author": [
         "B I Diaconescu",
         "Raluca Tulin",
         "G Lupu",
@@ -282,47 +237,98 @@
         "Al Lupu",
         "Al T Ispas"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2011 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2011 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Notice - Lack of",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article35.pdf",
-      "notice_year": 2018,
-      "year": 2011,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article35.pdf",
+      "year": "2011",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a75c",
-      "Record ID": "18978",
-      "Title": "The importance of anatomy in protheses fixation by osseointegration for amputation of the upper limbs: methods, prosthetics and rehabilitation",
-      "Subject": [
+      "_id": "687cf08f1f662220d898fb41",
+      "recordId": "18979",
+      "title": "The anatomy of the hepatic lymphatics and their implication in colorectal cancer liver metastasis",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "\u201cProf. Dr. Agrippa Ionescu\u201d Emergency Clinical Hospital, Bucharest",
+        "University of Medicine and Pharmacy \u201cCarol Davila\u201d, Bucharest",
+        "Department of General and Esophageal Surgery, \u201cSf. Maria\u201d Clinical Hospital, Bucharest",
+        "University of Medicine and Pharmacy \u201cCarol Davila\u201d, Bucharest"
+      ],
+      "journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
+      "publisher": "Romanian Society of Anatomy",
+      "country": [
+        "Romania"
+      ],
+      "author": [
+        "Beatrice Lintoiu-Ursut",
+        "A Tulin",
+        "B Ursut",
+        "O Enciu",
+        "S Constantinoiu",
+        "F Filipoiu"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "1/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/1/2015 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Lack of",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article32.pdf",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fb42",
+      "recordId": "18978",
+      "title": "The importance of anatomy in protheses fixation by osseointegration for amputation of the upper limbs: methods, prosthetics and rehabilitation",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Orthopaedics, Emergency University Hospital, Bucharest",
         "University of Medicine and Farmacy \u201cCarol Davila\u201d, Bucharest"
       ],
-      "Journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
-      "Publisher": "Romanian Society of Anatomy",
-      "Country": [
+      "journal": "Romanian Journal of Functional & Clinical, Macro- & Microscopical Anatomy & of Anthropology",
+      "publisher": "Romanian Society of Anatomy",
+      "country": [
         "Romania"
       ],
-      "Author": [
+      "author": [
         "B I Andrei",
         "Al Crintea",
         "Raluca Tulin",
@@ -330,48 +336,49 @@
         "F Filipoiu",
         "A D Tulin"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "1/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/1/2015 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/1/2015 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Notice - Lack of",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article31.pdf",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "see also https://antiplagiarism2014blog2.files.wordpress.com/2017/08/article31.pdf",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c950",
-      "Record ID": "10248",
-      "Title": "Management of vertigo",
-      "Subject": [
+      "_id": "687cf0b41f662220d8991d36",
+      "recordId": "10248",
+      "title": "Management of vertigo",
+      "subject": [
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pathology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Neurology Department, University Emergency Hospital, Bucharest, Romania",
         "Neurology Department, \u2018Carol Davila\u2019 University of Medicine and Pharmacy, Bucharest, Romania",
         "Laboratory of Molecular Medicine, \u2018Victor Babes\u2019 National Institute of Pathology, Bucharest, Romania"
       ],
-      "Journal": "Revista Romana de Neurologie (Romanian Journal of Neurology)",
-      "Publisher": "AMALTEA Medical Publishing House",
-      "Country": [
+      "journal": "Revista Romana de Neurologie (Romanian Journal of Neurology)",
+      "publisher": "AMALTEA Medical Publishing House",
+      "country": [
         "Romania"
       ],
-      "Author": [
+      "author": [
         "Adina Marie Roceanu",
         "Ovidiu Bajenaru",
         "Dafin Fior Muresan",
@@ -382,82 +389,83 @@
         "Luigi Marceanu",
         "Silviu Albu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/1/2016 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2016 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2016 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2016 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Lack of Approval from Third Party",
         "+Plagiarism of Text",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "Roceanu named as responsible for plagiarism; affiliations taken from related articles by same author group",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Roceanu named as responsible for plagiarism; affiliations taken from related articles by same author group",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 3,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 5,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 2,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

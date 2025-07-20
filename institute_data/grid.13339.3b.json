@@ -1,75 +1,32 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878969",
+    "_id": "687ccbab09adbf7aa61b958a",
     "grid_id": "grid.13339.3b",
     "institute_name": "Medical University of Warsaw",
     "country": "Poland",
     "retracted_record_ids": [
-      "899",
-      "51548",
       "6402",
+      "51547",
+      "51518",
+      "51548",
+      "899",
       "547",
       "51517",
-      "51518",
-      "51547",
       "28793"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ed2f",
-      "Record ID": "899",
-      "Title": "Application of Sulforaphane - Does it Lead to Improvement of Islet Graft Survival After Warm and/or Cold Ischemia",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - General",
-        "(HSC) Medicine - Pathology",
-        "(HSC) Medicine - Surgery",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Dept of General and Transplantation Surgery, Transplantation Institute, Medical University of Warsaw, Poland"
-      ],
-      "Journal": "Annals of Transplantation",
-      "Publisher": "International Scientific Information, Inc",
-      "Country": [
-        "Poland"
-      ],
-      "Author": [
-        "Ewa Solowiej",
-        "Jaroslaw Solowiej",
-        "Teresa Kasprzycka-Guttman",
-        "Wojciech Rowinski"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2009 0:00",
-      "RetractionPubMedID": "19472519.0",
-      "OriginalPaperDate": "1/1/2004 0:00",
-      "OriginalPaperPubMedID": "15759553.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Publisher missing. 2/3/17",
-      "notice_year": 2009,
-      "year": 2004,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23428a8",
-      "Record ID": "51548",
-      "Title": "Tracheal Bronchus: A Rare Etiology of Recurrent Pneumonia in Children",
-      "Subject": [
+      "_id": "687cef891f662220d8987c8e",
+      "recordId": "51548",
+      "title": "Tracheal Bronchus: A Rare Etiology of Recurrent Pneumonia in Children",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Otorhinolaryngology",
         "(HSC) Medicine - Pediatrics",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "College of Medicine, Jordan University of Science and Technology, Irbid, JOR",
         "College of Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
         "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
@@ -81,15 +38,15 @@
         "College of Medicine, Umm Al-Qura University, Mecca, SAU",
         "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
       ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
         "Bahrain",
         "Jordan",
         "Poland",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Saif A Alqahtani",
         "Anwar M Alghamdi",
         "Rawan A Babader",
@@ -106,90 +63,400 @@
         "Batool J Alghamdi",
         "Faisal Al-Hawaj"
       ],
-      "URLS": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
+      "articletype": [
         "Case Report"
       ],
-      "RetractionDate": "4/7/2022 0:00",
-      "RetractionDOI": "10.7759/cureus.x36",
-      "RetractionPubMedID": "35463591.0",
-      "OriginalPaperDate": "12/13/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.20378",
-      "OriginalPaperPubMedID": "35028237.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "4/7/2022 0:00",
+      "retractiondoi": "10.7759/cureus.x36",
+      "retractionpubmedid": "35463591.0",
+      "originalpaperdate": "12/13/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.20378",
+      "originalpaperpubmedid": "35028237.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Concerns/Issues about Third Party Involvement",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d828",
-      "Record ID": "6402",
-      "Title": "Laparoscopic isthmocele treatment - single center experience",
-      "Subject": [
+      "_id": "687cef891f662220d8987c8f",
+      "recordId": "51547",
+      "title": "Tracheal Bronchus: A Rare Etiology of Recurrent Pneumonia in Children",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Otorhinolaryngology",
+        "(HSC) Medicine - Pediatrics",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "College of Medicine, Jordan University of Science and Technology, Irbid, JOR",
+        "College of Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
+        "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
+        "College of Medicine, Jazan University, Jazan, SAU",
+        "College of Medicine, King Saud University, Riyadh, SAU",
+        "College of Medicine, Arabian Gulf University, Manama, BHR",
+        "College of Medicine, Medical University of Warsaw, Warsaw, POL",
+        "College of Medicine, Qassim University, Qassim, SAU",
+        "College of Medicine, Umm Al-Qura University, Mecca, SAU",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Bahrain",
+        "Jordan",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Saif A Alqahtani",
+        "Anwar M Alghamdi",
+        "Rawan A Babader",
+        "Doaa A Aljehani",
+        "Razan K Alsultan",
+        "Rawiah Y Mushari",
+        "Maha Y Alyahya",
+        "Hawra I Alajwad",
+        "Ahmad A Alibrahim",
+        "Egbal B Altukruni",
+        "Reem N Alhasani",
+        "Arwa T Mandurah",
+        "Yara A Halabi",
+        "Batool J Alghamdi",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/25/2024 0:00",
+      "retractiondoi": "10.7759/cureus.r114",
+      "retractionpubmedid": "38274588.0",
+      "originalpaperdate": "12/13/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.20378",
+      "originalpaperpubmedid": "35028237.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Investigation by Journal/Publisher",
+        "+Lack of Approval from Author",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987cac",
+      "recordId": "51518",
+      "title": "Fahr Disease: A Rare Cause of First-Time Seizure in the Emergency Department",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "General Practice, \u200bKing Khalid Hospital, Al-Kharj, SAU",
+        "Medicine, University of Debrecen, Debrecen, HUN",
+        "National Guard Health Affairs, Prince Mohammed Bin Abdulaziz Hospital, Medina, SAU",
+        "Medicine, Medical University of Warsaw, Warsaw, POL",
+        "Medicine, Sulaiman Al Rajhi University, Qassim, SAU",
+        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "Medicine, University of Jordan, Amman, JOR",
+        "Medicine, Jordan University of Science and Technology, Irbid, JOR",
+        "Medicine, King Abdulaziz University, Jeddah, SAU",
+        "General Practice, King Faisal Hospital, Al-Ahsa, SAU",
+        "Medicine, King Faisal University, Hofuf, SAU",
+        "Medicine, Gulf Medical University, Ajman, ARE",
+        "Medicine, Al-Baha University, Al Baha, SAU",
+        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Hungary",
+        "Jordan",
+        "Poland",
+        "Saudi Arabia",
+        "United Arab Emirates"
+      ],
+      "author": [
+        "Faleh M Aldawsari",
+        "Turki B Alotaibi",
+        "Omran S Hashim",
+        "Zainab A Bu Hamad",
+        "Maha R Eisaa",
+        "Abdulrahman A Alhumaidi",
+        "Salem M Alanazi",
+        "Fahad F Alenezi",
+        "Afnan A Batwie",
+        "Abdulaziz A Habib",
+        "Sukainah S Alismail",
+        "Omar S Almulhim",
+        "Abdullah F Al Amer",
+        "Thamer A Alghamdi",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "4/7/2022 0:00",
+      "retractiondoi": "10.7759/cureus.x26",
+      "retractionpubmedid": "35463603.0",
+      "originalpaperdate": "1/28/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.19965",
+      "originalpaperpubmedid": "34984125.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987cad",
+      "recordId": "51517",
+      "title": "Fahr Disease: A Rare Cause of First-Time Seizure in the Emergency Department",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "General Practice, \u200bKing Khalid Hospital, Al-Kharj, SAU",
+        "Medicine, University of Debrecen, Debrecen, HUN",
+        "National Guard Health Affairs, Prince Mohammed Bin Abdulaziz Hospital, Medina, SAU",
+        "Medicine, Medical University of Warsaw, Warsaw, POL",
+        "Medicine, Sulaiman Al Rajhi University, Qassim, SAU",
+        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "Medicine, University of Jordan, Amman, JOR",
+        "Medicine, Jordan University of Science and Technology, Irbid, JOR",
+        "Medicine, King Abdulaziz University, Jeddah, SAU",
+        "General Practice, King Faisal Hospital, Al-Ahsa, SAU",
+        "Medicine, King Faisal University, Hofuf, SAU",
+        "Medicine, Gulf Medical University, Ajman, ARE",
+        "Medicine, Al-Baha University, Al Baha, SAU",
+        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Hungary",
+        "Jordan",
+        "Poland",
+        "Saudi Arabia",
+        "United Arab Emirates"
+      ],
+      "author": [
+        "Faleh M Aldawsari",
+        "Turki B Alotaibi",
+        "Omran S Hashim",
+        "Zainab A Bu Hamad",
+        "Maha R Eisaa",
+        "Abdulrahman A Alhumaidi",
+        "Salem M Alanazi",
+        "Fahad F Alenezi",
+        "Afnan A Batwie",
+        "Abdulaziz A Habib",
+        "Sukainah S Alismail",
+        "Omar S Almulhim",
+        "Abdullah F Al Amer",
+        "Thamer A Alghamdi",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/25/2024 0:00",
+      "retractiondoi": "10.7759/cureus.r104",
+      "retractionpubmedid": "38274621.0",
+      "originalpaperdate": "11/28/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.19965",
+      "originalpaperpubmedid": "34984125.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Investigation by Journal/Publisher",
+        "+Lack of Approval from Author",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefe71f662220d898d510",
+      "recordId": "28793",
+      "title": "The Meaning of the Inflammation Parameters in Exhaled Air from the Lower and Upper Respiratory Tract (Among Active and Passive Smokers, Allergic Rhinitis)",
+      "subject": [
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Warszawski Uniwersytet Medyczny, Warszawa, PL",
+        "Department of Prevention of Environmental Hazards and Allergology, Medical University of Warsaw, Poland"
+      ],
+      "journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Dominika Modzelewska",
+        "Anna Klak",
+        "Edyta Krzych-Falta"
+      ],
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "5/31/2011 0:00",
+      "retractiondoi": "10.1109/icbbe.2011.5781391",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/10/2011 0:00",
+      "originalpaperdoi": "10.1109/icbbe.2011.5781391",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bf1f662220d8992c0e",
+      "recordId": "6402",
+      "title": "Laparoscopic isthmocele treatment - single center experience",
+      "subject": [
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "First Department of Obstetrics and Gynecology, Center of Postgraduate Medical Education, Warsaw, Poland",
         "Students\u2019 Scientific Association at the First Department of Obstetrics and Gynecology, Medical University of Warsaw, Warsaw, Poland"
       ],
-      "Journal": "Videosurgery and Other Miniinvasive Techniques (Wideochirurgia i inne techniki maloinwazyjne)",
-      "Publisher": "Termedia Publishing",
-      "Country": [
+      "journal": "Videosurgery and Other Miniinvasive Techniques (Wideochirurgia i inne techniki maloinwazyjne)",
+      "publisher": "Termedia Publishing",
+      "country": [
         "Poland"
       ],
-      "Author": [
+      "author": [
         "Michal Ciebiera",
         "Magdalena Ciebiera",
         "Magdalena Czekanska-Rawska",
         "Grzegorz Jakiel"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/23/2017 0:00",
-      "RetractionDOI": "10.5114/wiitm.2017.68491",
-      "RetractionPubMedID": "28694910.0",
-      "OriginalPaperDate": "7/10/2016 0:00",
-      "OriginalPaperDOI": "10.5114/wiitm.2017.66025",
-      "OriginalPaperPubMedID": "28446937.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/23/2017 0:00",
+      "retractiondoi": "10.5114/wiitm.2017.68491",
+      "retractionpubmedid": "28694910.0",
+      "originalpaperdate": "7/10/2016 0:00",
+      "originalpaperdoi": "10.5114/wiitm.2017.66025",
+      "originalpaperpubmedid": "28446937.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ee89",
-      "Record ID": "547",
-      "Title": "Application of Sulforaphane: Histopathological Study of Intraportal Transplanted Pancreatic Islets Into Livers of Diabetic Rats",
-      "Subject": [
+      "_id": "687cf0d51f662220d8994115",
+      "recordId": "899",
+      "title": "Application of Sulforaphane - Does it Lead to Improvement of Islet Graft Survival After Warm and/or Cold Ischemia",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - General",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Medicine - Surgery",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Dept of General and Transplantation Surgery, Transplantation Institute, Medical University of Warsaw, Poland"
+      ],
+      "journal": "Annals of Transplantation",
+      "publisher": "International Scientific Information, Inc",
+      "country": [
+        "Poland"
+      ],
+      "author": [
+        "Ewa Solowiej",
+        "Jaroslaw Solowiej",
+        "Teresa Kasprzycka-Guttman",
+        "Wojciech Rowinski"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2009 0:00",
+      "retractionpubmedid": "19472519.0",
+      "originalpaperdate": "1/1/2004 0:00",
+      "originalpaperpubmedid": "15759553.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Publisher missing. 2/3/17",
+      "year": "2004",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d899426f",
+      "recordId": "547",
+      "title": "Application of Sulforaphane: Histopathological Study of Intraportal Transplanted Pancreatic Islets Into Livers of Diabetic Rats",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Drug Design",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of General and Transplant Surgery, Warsaw Medical University, ul. Nowogrodzka 59, 02-006 Warsaw, Poland"
       ],
-      "Journal": "Transplantation Proceedings",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Transplantation Proceedings",
+      "publisher": "Elsevier",
+      "country": [
         "Poland"
       ],
-      "Author": [
+      "author": [
         "Ewa Solowiej",
         "Jaroslaw Solowiej",
         "Michal Marek Godlewski",
@@ -199,309 +466,50 @@
         "Teresa Kasprzycka-Guttman",
         "Wojciech Rowinski"
       ],
-      "URLS": "http://retractionwatch.com/2019/01/16/we-regret-our-delay-plos-one-retracts-two-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/01/16/we-regret-our-delay-plos-one-retracts-two-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/1/2009 0:00",
-      "RetractionDOI": "10.1016/j.transproceed.2009.05.002",
-      "RetractionPubMedID": "19585698.0",
-      "OriginalPaperDate": "1/1/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.transproceed.2005.11.074",
-      "OriginalPaperPubMedID": "16504726.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/1/2009 0:00",
+      "retractiondoi": "10.1016/j.transproceed.2009.05.002",
+      "retractionpubmedid": "19585698.0",
+      "originalpaperdate": "1/1/2006 0:00",
+      "originalpaperdoi": "10.1016/j.transproceed.2005.11.074",
+      "originalpaperpubmedid": "16504726.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+False/Forged Authorship",
         "+Investigation by Company/Institution",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Ewa Solowiej named for data falsification;",
-      "notice_year": 2009,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23428c7",
-      "Record ID": "51517",
-      "Title": "Fahr Disease: A Rare Cause of First-Time Seizure in the Emergency Department",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "General Practice, \u200bKing Khalid Hospital, Al-Kharj, SAU",
-        "Medicine, University of Debrecen, Debrecen, HUN",
-        "National Guard Health Affairs, Prince Mohammed Bin Abdulaziz Hospital, Medina, SAU",
-        "Medicine, Medical University of Warsaw, Warsaw, POL",
-        "Medicine, Sulaiman Al Rajhi University, Qassim, SAU",
-        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "Medicine, University of Jordan, Amman, JOR",
-        "Medicine, Jordan University of Science and Technology, Irbid, JOR",
-        "Medicine, King Abdulaziz University, Jeddah, SAU",
-        "General Practice, King Faisal Hospital, Al-Ahsa, SAU",
-        "Medicine, King Faisal University, Hofuf, SAU",
-        "Medicine, Gulf Medical University, Ajman, ARE",
-        "Medicine, Al-Baha University, Al Baha, SAU",
-        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Hungary",
-        "Jordan",
-        "Poland",
-        "Saudi Arabia",
-        "United Arab Emirates"
-      ],
-      "Author": [
-        "Faleh M Aldawsari",
-        "Turki B Alotaibi",
-        "Omran S Hashim",
-        "Zainab A Bu Hamad",
-        "Maha R Eisaa",
-        "Abdulrahman A Alhumaidi",
-        "Salem M Alanazi",
-        "Fahad F Alenezi",
-        "Afnan A Batwie",
-        "Abdulaziz A Habib",
-        "Sukainah S Alismail",
-        "Omar S Almulhim",
-        "Abdullah F Al Amer",
-        "Thamer A Alghamdi",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/25/2024 0:00",
-      "RetractionDOI": "10.7759/cureus.r104",
-      "RetractionPubMedID": "38274621.0",
-      "OriginalPaperDate": "11/28/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.19965",
-      "OriginalPaperPubMedID": "34984125.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+False/Forged Authorship",
-        "+Investigation by Journal/Publisher",
-        "+Lack of Approval from Author",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23428c6",
-      "Record ID": "51518",
-      "Title": "Fahr Disease: A Rare Cause of First-Time Seizure in the Emergency Department",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "General Practice, \u200bKing Khalid Hospital, Al-Kharj, SAU",
-        "Medicine, University of Debrecen, Debrecen, HUN",
-        "National Guard Health Affairs, Prince Mohammed Bin Abdulaziz Hospital, Medina, SAU",
-        "Medicine, Medical University of Warsaw, Warsaw, POL",
-        "Medicine, Sulaiman Al Rajhi University, Qassim, SAU",
-        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "Medicine, University of Jordan, Amman, JOR",
-        "Medicine, Jordan University of Science and Technology, Irbid, JOR",
-        "Medicine, King Abdulaziz University, Jeddah, SAU",
-        "General Practice, King Faisal Hospital, Al-Ahsa, SAU",
-        "Medicine, King Faisal University, Hofuf, SAU",
-        "Medicine, Gulf Medical University, Ajman, ARE",
-        "Medicine, Al-Baha University, Al Baha, SAU",
-        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Hungary",
-        "Jordan",
-        "Poland",
-        "Saudi Arabia",
-        "United Arab Emirates"
-      ],
-      "Author": [
-        "Faleh M Aldawsari",
-        "Turki B Alotaibi",
-        "Omran S Hashim",
-        "Zainab A Bu Hamad",
-        "Maha R Eisaa",
-        "Abdulrahman A Alhumaidi",
-        "Salem M Alanazi",
-        "Fahad F Alenezi",
-        "Afnan A Batwie",
-        "Abdulaziz A Habib",
-        "Sukainah S Alismail",
-        "Omar S Almulhim",
-        "Abdullah F Al Amer",
-        "Thamer A Alghamdi",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "4/7/2022 0:00",
-      "RetractionDOI": "10.7759/cureus.x26",
-      "RetractionPubMedID": "35463603.0",
-      "OriginalPaperDate": "1/28/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.19965",
-      "OriginalPaperPubMedID": "34984125.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Concerns/Issues about Third Party Involvement",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23428a9",
-      "Record ID": "51547",
-      "Title": "Tracheal Bronchus: A Rare Etiology of Recurrent Pneumonia in Children",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Otorhinolaryngology",
-        "(HSC) Medicine - Pediatrics",
-        "(HSC) Medicine - Pulmonology"
-      ],
-      "Institution": [
-        "College of Medicine, Jordan University of Science and Technology, Irbid, JOR",
-        "College of Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
-        "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
-        "College of Medicine, Jazan University, Jazan, SAU",
-        "College of Medicine, King Saud University, Riyadh, SAU",
-        "College of Medicine, Arabian Gulf University, Manama, BHR",
-        "College of Medicine, Medical University of Warsaw, Warsaw, POL",
-        "College of Medicine, Qassim University, Qassim, SAU",
-        "College of Medicine, Umm Al-Qura University, Mecca, SAU",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Bahrain",
-        "Jordan",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Saif A Alqahtani",
-        "Anwar M Alghamdi",
-        "Rawan A Babader",
-        "Doaa A Aljehani",
-        "Razan K Alsultan",
-        "Rawiah Y Mushari",
-        "Maha Y Alyahya",
-        "Hawra I Alajwad",
-        "Ahmad A Alibrahim",
-        "Egbal B Altukruni",
-        "Reem N Alhasani",
-        "Arwa T Mandurah",
-        "Yara A Halabi",
-        "Batool J Alghamdi",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/25/2024 0:00",
-      "RetractionDOI": "10.7759/cureus.r114",
-      "RetractionPubMedID": "38274588.0",
-      "OriginalPaperDate": "12/13/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.20378",
-      "OriginalPaperPubMedID": "35028237.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+False/Forged Authorship",
-        "+Investigation by Journal/Publisher",
-        "+Lack of Approval from Author",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234812a",
-      "Record ID": "28793",
-      "Title": "The Meaning of the Inflammation Parameters in Exhaled Air from the Lower and Upper Respiratory Tract (Among Active and Passive Smokers, Allergic Rhinitis)",
-      "Subject": [
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Warszawski Uniwersytet Medyczny, Warszawa, PL",
-        "Department of Prevention of Environmental Hazards and Allergology, Medical University of Warsaw, Poland"
-      ],
-      "Journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Dominika Modzelewska",
-        "Anna Klak",
-        "Edyta Krzych-Falta"
-      ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "5/31/2011 0:00",
-      "RetractionDOI": "10.1109/icbbe.2011.5781391",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/10/2011 0:00",
-      "OriginalPaperDOI": "10.1109/icbbe.2011.5781391",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Ewa Solowiej named for data falsification;",
+      "year": "2006",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -509,65 +517,65 @@
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2016,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 4
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -575,10 +583,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,74 +1,24 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879797",
+    "_id": "687ccbab09adbf7aa61ba3b8",
     "grid_id": "grid.508109.5",
     "institute_name": "National Public Health Laboratory",
     "country": "Nepal",
     "retracted_record_ids": [
-      "15516",
-      "25110"
+      "25110",
+      "15516"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234b4c8",
-      "Record ID": "15516",
-      "Title": "Anti Japanese encephalitis virus IgM positivity among patients with acute encephalitic syndrome admitted to different hospitals from all over Nepal",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Infectious Disease"
-      ],
-      "Institution": [
-        "Department of Microbiology, St. Xavier's College, Maitighar, Kathmandu, Nepal",
-        "Department of Microbiology, Grande International Hospital, Dhapasi, Kathmandu, Nepal",
-        "Department of Microbiology, GoldenGate International College, Battisputali, Kathmandu, Nepal",
-        "National Public Health Laboratory, Teku, Kathmandu, Nepal"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Nepal"
-      ],
-      "Author": [
-        "Anupama Bhattarai",
-        "Narayan Dutt Pant",
-        "Krishus Nepal",
-        "Sailaja Adhikari",
-        "Mukunda Sharma",
-        "Pramila Parajuli"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/6/2017 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0187867",
-      "RetractionPubMedID": "29108001.0",
-      "OriginalPaperDate": "3/6/2017 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0173434",
-      "OriginalPaperPubMedID": "28264024.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Ethical Violations by Author",
-        "+Investigation by Journal/Publisher",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Objections by Third Party"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2348f87",
-      "Record ID": "25110",
-      "Title": "Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal",
-      "Subject": [
+      "_id": "687cf0051f662220d898e36d",
+      "recordId": "25110",
+      "title": "Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "National Public Health Laboratory, Kathmandu, Nepal",
         "Public Health and Infection Research Group, Faculty of Health Sciences, Universidad Tecnologica de Pereira, Pereira, Risaralda, Colombia",
         "Grupo de Investigaci\u00f3n Biomedicina, Faculty of Medicine, Fundaci\u00f3n Universitaria Aut\u00f3noma de las Am\u00e9ricas, Pereira, Risaralda, Colombia",
@@ -80,9 +30,9 @@
         "Global Health and Sustainable Development, University College London, London, United Kingdom",
         "Department of Virology, Institute of Tropical Medicine, Nagasaki University, Nagasaki, Japan"
       ],
-      "Journal": "Microbiology Resource Announcements (MRA)",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Microbiology Resource Announcements (MRA)",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "China",
         "Colombia",
         "Honduras",
@@ -90,7 +40,7 @@
         "Saudi Arabia",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Ranjit Sah",
         "Alfonso J Rodriguez-Morales",
         "Runa Jha",
@@ -107,57 +57,109 @@
         "Basu Dev Pandey",
         "Leo L M Poon"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Case Report"
       ],
-      "RetractionDate": "1/21/2021 0:00",
-      "RetractionDOI": "10.1128/MRA.01466-20",
-      "RetractionPubMedID": "33479004.0",
-      "OriginalPaperDate": "3/12/2020 0:00",
-      "OriginalPaperDOI": "10.1128/MRA.00169-20",
-      "OriginalPaperPubMedID": "32165386.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/21/2021 0:00",
+      "retractiondoi": "10.1128/MRA.01466-20",
+      "retractionpubmedid": "33479004.0",
+      "originalpaperdate": "3/12/2020 0:00",
+      "originalpaperdoi": "10.1128/MRA.00169-20",
+      "originalpaperpubmedid": "32165386.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf09b1f662220d89908ae",
+      "recordId": "15516",
+      "title": "Anti Japanese encephalitis virus IgM positivity among patients with acute encephalitic syndrome admitted to different hospitals from all over Nepal",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "institution": [
+        "Department of Microbiology, St. Xavier's College, Maitighar, Kathmandu, Nepal",
+        "Department of Microbiology, Grande International Hospital, Dhapasi, Kathmandu, Nepal",
+        "Department of Microbiology, GoldenGate International College, Battisputali, Kathmandu, Nepal",
+        "National Public Health Laboratory, Teku, Kathmandu, Nepal"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Nepal"
+      ],
+      "author": [
+        "Anupama Bhattarai",
+        "Narayan Dutt Pant",
+        "Krishus Nepal",
+        "Sailaja Adhikari",
+        "Mukunda Sharma",
+        "Pramila Parajuli"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/6/2017 0:00",
+      "retractiondoi": "10.1371/journal.pone.0187867",
+      "retractionpubmedid": "29108001.0",
+      "originalpaperdate": "3/6/2017 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0173434",
+      "originalpaperpubmedid": "28264024.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Ethical Violations by Author",
+        "+Investigation by Journal/Publisher",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Objections by Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2020,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

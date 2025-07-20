@@ -1,37 +1,37 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068797e7",
+    "_id": "687ccbab09adbf7aa61ba408",
     "grid_id": "grid.431778.e",
     "institute_name": "World Bank",
     "country": "United States",
     "retracted_record_ids": [
-      "24634",
       "1807",
-      "17720"
+      "17720",
+      "24634"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349160",
-      "Record ID": "24634",
-      "Title": "Decrease in Hospitalizations for COVID-19 after Mask Mandates in 1083 U.S. Counties",
-      "Subject": [
+      "_id": "687cf0081f662220d898e546",
+      "recordId": "24634",
+      "title": "Decrease in Hospitalizations for COVID-19 after Mask Mandates in 1083 U.S. Counties",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Massachusetts Institute of Technology, Media Lab, Cambridge, MA",
         "Center of Complex Interventions, Inc., Boston, MA",
         "Development Data Group, World Bank, Washington, DC",
         "Department of Epidemiology and Biostatistics, University of California, San Francisco (UCSF)",
         "Division of HIV, Infectious Diseases, and Global Medicine, Department of Medicine, University of California, San Francisco"
       ],
-      "Journal": "medRxiv",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
+      "journal": "medRxiv",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Dhaval Adjodah",
         "Karthik Dinakar",
         "Samuel P Fraiberger",
@@ -39,51 +39,90 @@
         "David V Glidden",
         "Monica Gandhi"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Preprint",
         "Research Article"
       ],
-      "RetractionDate": "11/4/2020 0:00",
-      "RetractionDOI": "10.1101/2020.10.21.20208728",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/23/2020 0:00",
-      "OriginalPaperDOI": "10.1101/2020.10.21.20208728",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/4/2020 0:00",
+      "retractiondoi": "10.1101/2020.10.21.20208728",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/23/2020 0:00",
+      "originalpaperdoi": "10.1101/2020.10.21.20208728",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e9ba",
-      "Record ID": "1807",
-      "Title": "A Multi-centre Study of Community-directed Ivermectin Distributors' (CDDs') Involvement in Other Healthcare and Development Programme Activities in Cameroon, Togo, Sudan, Nigeria and Uganda",
-      "Subject": [
+      "_id": "687cf0931f662220d8990025",
+      "recordId": "17720",
+      "title": "A response to Is Doing Business Damaging Business?",
+      "subject": [
+        "(B/T) Business - General"
+      ],
+      "institution": [
+        "Financial and Private Sector, The World Bank, 1818 H Street, Washington, DC, USA"
+      ],
+      "journal": "Journal of Comparative Economics",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Simeon Djankov"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "2/5/2008 0:00",
+      "retractiondoi": "10.1016/j.jce.2008.01.003",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/5/2008 0:00",
+      "originalpaperdoi": "10.1016/j.jce.2008.01.003",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2008",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993da0",
+      "recordId": "1807",
+      "title": "A Multi-centre Study of Community-directed Ivermectin Distributors' (CDDs') Involvement in Other Healthcare and Development Programme Activities in Cameroon, Togo, Sudan, Nigeria and Uganda",
+      "subject": [
         "(BLS) Biology - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Medical Research & Medicinal Plants, BP 4424, Yaounde, Cameroon",
         "National Onchocerciasis Task Force, Khartoum, Sudan",
         "TEYEN Research Foundation, Yaounde, Cameroon",
         "Human Development African Region, World Bank, Washington DC, USA",
         "African Programme for Onchocerciasis Control, Ouagadougou, Burkina Faso"
       ],
-      "Journal": "Tropical Doctor",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "Tropical Doctor",
+      "publisher": "SAGE Publications",
+      "country": [
         "Burkina Faso",
         "Cameroon",
         "Sudan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "M T Sama",
         "M Homeida",
         "P Ngang",
@@ -91,105 +130,69 @@
         "U Amazigo",
         "A Seketeli"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2014 0:00",
-      "RetractionDOI": "10.1177/004947550403400211",
-      "RetractionPubMedID": "15117135.0",
-      "OriginalPaperDate": "10/1/2003 0:00",
-      "OriginalPaperDOI": "10.1177/004947550303300417",
-      "OriginalPaperPubMedID": "14620432.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2014 0:00",
+      "retractiondoi": "10.1177/004947550403400211",
+      "retractionpubmedid": "15117135.0",
+      "originalpaperdate": "10/1/2003 0:00",
+      "originalpaperdoi": "10.1177/004947550303300417",
+      "originalpaperpubmedid": "14620432.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Lack of"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2014,
-      "year": 2003,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234ac3f",
-      "Record ID": "17720",
-      "Title": "A response to Is Doing Business Damaging Business?",
-      "Subject": [
-        "(B/T) Business - General"
-      ],
-      "Institution": [
-        "Financial and Private Sector, The World Bank, 1818 H Street, Washington, DC, USA"
-      ],
-      "Journal": "Journal of Comparative Economics",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Simeon Djankov"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "2/5/2008 0:00",
-      "RetractionDOI": "10.1016/j.jce.2008.01.003",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/5/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.jce.2008.01.003",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2008,
-      "year": 2008,
-      "mark": "supplemental"
+      "paywalled": "Yes",
+      "year": "2003",
+      "noticeYear": "2014",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

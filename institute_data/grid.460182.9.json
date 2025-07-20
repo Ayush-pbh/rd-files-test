@@ -1,79 +1,433 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068788c8",
+    "_id": "687ccbab09adbf7aa61b94e9",
     "grid_id": "grid.460182.9",
     "institute_name": "First Hospital of Xi'an",
     "country": "China",
     "retracted_record_ids": [
-      "35017",
       "24705",
-      "24703",
-      "48115",
       "37768",
       "39261",
+      "48115",
       "52731",
-      "45716",
+      "35017",
       "47483",
+      "45716",
+      "24703",
       "40944"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23468eb",
-      "Record ID": "35017",
-      "Title": "MicroRNA-125b promotes neurons cell apoptosis and tau phosphorylation in Alzheimer's disease",
-      "Subject": [
+      "_id": "687cef831f662220d89877f1",
+      "recordId": "52731",
+      "title": "Two New Strandberg Type Molybdophenylphosphonate Complexes: Crystal Structures and Anti-Pancreatic Cancer Activity",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Radiotherapy, Shaanxi Provincial Tumor Hospital, Affiliated Hospital of Medical College of Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China",
+        "Department of Oncology, The First People\u2019s Hospital of Xianyang, Xianyang, Shaanxi, China",
+        "Department of Thoracic Surgery, Shaanxi Provincial Tumor Hospital, Affiliated Hospital of Medical College of Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China",
+        "Department of Geriatric Respiratory, Xi\u2019an No 1 Hospital, First People\u2019s Hospital Affiliated to Xi\u2019an Medical College, First Affiliated Hospital of Northwest University, Xi\u2019an, Shaanxi, China",
+        "Department of Anesthesiology, First Affiliated Hospital of Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China"
+      ],
+      "journal": "Journal of Cluster Science",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jing Liang",
+        "Yongcun Liu",
+        "Zhigang Liu",
+        "Lu Bai",
+        "Feng Li"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2024 0:00",
+      "retractiondoi": "10.1007/s10876-024-02578-0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/13/2018 0:00",
+      "originalpaperdoi": "10.1007/s10876-018-1431-1",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Image",
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Journal/Publisher",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef941f662220d89889ec",
+      "recordId": "48115",
+      "title": "Correlation Analysis of CML, sRAGE, and esRAGE and the Measure of Atherosclerosis of Coronary Heart Disease",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Department of Cardiology, Xi'an First Hospital, Xi'an 710002, China",
+        "Central Laboratory, Xi'an First Hospital, Xi'an 710002, China",
+        "Xi'an First Hospital, Xi'an 710002, China"
+      ],
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Wenjun Liu",
+        "Yuqiang Ji",
+        "Weiwei Zhang",
+        "Fei Fang",
+        "Qin Cai",
+        "Ying Li"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9836580",
+      "retractionpubmedid": "37502088.0",
+      "originalpaperdate": "6/10/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/8970860",
+      "originalpaperpubmedid": "35720930.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/9E6A2FEB863C0DB6057EF8384E5587",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef981f662220d8988c64",
+      "recordId": "47483",
+      "title": "Effect of PARP Inhibitor Combined with Bevacizumab on Platinum-Resistant Recurrent Ovarian Epithelial Carcinoma",
+      "subject": [
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Gynecology, Xi'an First Hospital, Xi'an, Shaanxi 710002, China",
+        "Department of Gynecology, Yulin No. 2 Hospital, Yulin, Shaanxi 719000, China",
+        "Department of Gynecology, Hanzhong Central Hospital, No. 22 Kangfu Road, Hanzhong, Shaanxi 723000, China"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Li Sun",
+        "Caixia Liu",
+        "Yun Li"
+      ],
+      "urls": "https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "6/28/2023 0:00",
+      "retractiondoi": "10.1155/2023/9823491",
+      "retractionpubmedid": "37416219.0",
+      "originalpaperdate": "6/10/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/4600145",
+      "originalpaperpubmedid": "35720032.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d8989345",
+      "recordId": "45716",
+      "title": "Inhibition of two Cu(II) and Mn(II) coordination polymers on the surgical site infections by inhibiting the bacterial biofilm formation",
+      "subject": [
+        "(BLS) Microbiology",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Outpatient, Tongchuan People's Hospital, Tongchuan, Shaanxi, China",
+        "Department of Urology, Xi'an First Hospital, Xi'an, Shaanxi, China"
+      ],
+      "journal": "Journal of the Indian Chemical Society",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Lin Shen",
+        "We Ni Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/23/2023 0:00",
+      "retractiondoi": "10.1016/j.jics.2023.101042",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/9/2021 0:00",
+      "originalpaperdoi": "10.1016/j.jics.2021.100250",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/2E6CDBA030DE84316C53AD67E645F4 and https://docs.google.com/spreadsheets/d/1bfgWotMOQALFbeqccIkOMLbJODfrBwK-JHQ78zEu2ZQ/edit#gid=1739681459",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb11f662220d898a5d5",
+      "recordId": "40944",
+      "title": "Integrated analysis of competing endogenous RNAs network reveals potential signatures in osteosarcoma development",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Xi\u2019an Jiaotong University Health Science Center, Xi\u2019an, Shaanxi, People\u2019s Republic of China",
+        "Department of Orthopedics, Honghui Hospital, Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, People\u2019s Republic of China",
+        "Department of Endocrinology, Xi\u2019an No. 1 Hospital, Xi\u2019an, Shaanxi, People\u2019s Republic of China"
+      ],
+      "journal": "Technology in Cancer Research & Treatment",
+      "publisher": "SAGE Publications",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Lisong Heng",
+        "Zhen Jia",
+        "Jian Sun",
+        "Yitong Zhao",
+        "Kun Zhang",
+        "Yangjun Zhu",
+        "Shemin Lu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/30/2022 0:00",
+      "retractiondoi": "10.1177/15330338221134496",
+      "retractionpubmedid": "36449312.0",
+      "originalpaperdate": "9/10/2022 0:00",
+      "originalpaperdoi": "10.1177/1533033820957025",
+      "originalpaperpubmedid": "32912111.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb41f662220d898ac5a",
+      "recordId": "39261",
+      "title": "Correlations of Microvascular Blood Flow of Contrast-Enhanced Ultrasound and HGF/c-Met Signaling Pathway with Clinicopathological Features and Prognosis of Patients with Hepatocellular Carcinoma",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Surgery, The Hospital of Xi\u2019an Jiao Tong University, Xi\u2019an, People\u2019s Republic of China",
+        "Department of Internal Medicine, The Hospital of Xi\u2019an Jiao Tong University, Xi\u2019an, People\u2019s Republic of China",
+        "Department of Gastroenterology, Xi\u2019an First Hospital, Xi\u2019an, People\u2019s Republic of China",
+        "Department of Ultrasound, The First Affiliated Hospital of Xi\u2019an Jiao Tong University, Xi\u2019an, People\u2019s Republic of China"
+      ],
+      "journal": "OncoTargets and Therapy",
+      "publisher": "Taylor and Francis - Dove Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Peng Hui Zhuang",
+        "Lei Xu",
+        "Lu Gao",
+        "Wei Lu",
+        "Li Tao Ruan",
+        "Jin Yang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/23/2022 0:00",
+      "retractiondoi": "10.2147/OTT.S390682",
+      "retractionpubmedid": "36176729.0",
+      "originalpaperdate": "2/14/2017 0:00",
+      "originalpaperdoi": "10.2147/OTT.S113353",
+      "originalpaperpubmedid": "28243120.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefba1f662220d898b226",
+      "recordId": "37768",
+      "title": "MicroRNA-125b promotes neurons cell apoptosis and tau phosphorylation in Alzheimer's disease",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Geriatrics, Xi\u2019an No. 1 Hospital, Xi\u2019an 710002, China",
         "Open Ward, Qingdao Mental Health Center, Qingdao 266034, China",
         "Department of Geriatrics, Wuhan Mental Health Center, No. 93, Youyi Road, Qiaokou District, Wuhan 430022, China"
       ],
-      "Journal": "Neuroscience Letters",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Neuroscience Letters",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Xiaohui Ma",
         "Linlin Liu",
         "Jing Meng"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/4/2021 0:00",
-      "RetractionDOI": "10.1016/j.neulet.2021.136229",
-      "RetractionPubMedID": "35034691.0",
-      "OriginalPaperDate": "9/22/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.neulet.2017.09.043",
-      "OriginalPaperPubMedID": "28947385.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "6/9/2022 0:00",
+      "retractiondoi": "10.1016/j.neulet.2022.136703",
+      "retractionpubmedid": "35691149.0",
+      "originalpaperdate": "9/22/2017 0:00",
+      "originalpaperdoi": "10.1016/j.neulet.2017.09.043",
+      "originalpaperpubmedid": "28947385.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Investigation by Journal/Publisher",
+        "+Paper Mill",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bcd1",
+      "recordId": "35017",
+      "title": "MicroRNA-125b promotes neurons cell apoptosis and tau phosphorylation in Alzheimer's disease",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Geriatrics, Xi\u2019an No. 1 Hospital, Xi\u2019an 710002, China",
+        "Open Ward, Qingdao Mental Health Center, Qingdao 266034, China",
+        "Department of Geriatrics, Wuhan Mental Health Center, No. 93, Youyi Road, Qiaokou District, Wuhan 430022, China"
+      ],
+      "journal": "Neuroscience Letters",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiaohui Ma",
+        "Linlin Liu",
+        "Jing Meng"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/4/2021 0:00",
+      "retractiondoi": "10.1016/j.neulet.2021.136229",
+      "retractionpubmedid": "35034691.0",
+      "originalpaperdate": "9/22/2017 0:00",
+      "originalpaperdoi": "10.1016/j.neulet.2017.09.043",
+      "originalpaperpubmedid": "28947385.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Third Party Involvement",
         "+Investigation by Journal/Publisher",
         "+Paper Mill",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349119",
-      "Record ID": "24705",
-      "Title": "Suppressor capacity of copper nanoparticles biosynthesized using Crocus sativus L. leaf aqueous extract on methadone-induced cell death in adrenal phaeochromocytoma (PC12) cell line",
-      "Subject": [
+      "_id": "687cf0081f662220d898e4ff",
+      "recordId": "24705",
+      "title": "Suppressor capacity of copper nanoparticles biosynthesized using Crocus sativus L. leaf aqueous extract on methadone-induced cell death in adrenal phaeochromocytoma (PC12) cell line",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurosurgery, Henan Provincial People\u2019s Hospital, People\u2019s Hospital of Zhengzhou University, Medical College of Henan University, Zhengzhou, 450003, Henan, China",
         "Department of Neurosurgery, Xi'an No 1 Hospital, No 30 South Street Powder Lane, Beilin District, Xi'an, 710002, Shaanxi, China",
         "Medical Sciences Research Center, Faculty of Medicine, Tehran Medical Sciences Branch, Islamic Azad University, Tehran, Iran",
@@ -84,14 +438,14 @@
         "Department of Biotechnology, Faculty of Science, Bartin University, 74100, Bartin, Turkey",
         "Sen Research Group, Department of Biochemistry, University of Dumlupinar, 43000, Kutahya, Turkey"
       ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "China",
         "Iran",
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Peng Zhang",
         "Jian Cui",
         "Shirin Mansooridara",
@@ -103,489 +457,145 @@
         "Ramazan Bayat",
         "Fatih Sen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/30/2020 0:00",
-      "RetractionDOI": "10.1038/s41598-020-77741-4",
-      "RetractionPubMedID": "33257742.0",
-      "OriginalPaperDate": "7/15/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-020-68142-8",
-      "OriginalPaperPubMedID": "32669563.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/30/2020 0:00",
+      "retractiondoi": "10.1038/s41598-020-77741-4",
+      "retractionpubmedid": "33257742.0",
+      "originalpaperdate": "7/15/2020 0:00",
+      "originalpaperdoi": "10.1038/s41598-020-68142-8",
+      "originalpaperpubmedid": "32669563.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234911b",
-      "Record ID": "24703",
-      "Title": "Long noncoding RNA SNHG14 contributes to gastric cancer development through targeting miR-145/SOX9 axis",
-      "Subject": [
+      "_id": "687cf0081f662220d898e501",
+      "recordId": "24703",
+      "title": "Long noncoding RNA SNHG14 contributes to gastric cancer development through targeting miR-145/SOX9 axis",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Surgery, Xi'an Chest Hospital, Xi'an TB&Thoracic Tumor Hospital, Xi'an, Shanxi, China",
         "Institute of Cancer Research, School of Basic Medical Science of Xi'an Jiao Tong University, Xi'an, Shaanxi, China",
         "Department of Pathology, The First Hospital of Xi'an, Xi'an, Shaanxi, China",
         "Department of Medicine, Xi'an Chest Hospital, Xi'an TB&Thoracic Tumor Hospital, Xi'an, Shanxi, China",
         "Department of General Surgery, The Changan District Hospital of the First Affiliated Hospital, Xi'an Jiaotong University, Shanxi, China"
       ],
-      "Journal": "Journal of Cellular Biochemistry",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Journal of Cellular Biochemistry",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Zhao Liu",
         "Yan Yan",
         "Sizhe Cao",
         "Yi Chen"
       ],
-      "URLS": "http://retractionwatch.com/2021/03/08/journal-flags-a-dozen-papers-as-likely-paper-mill-products-a-year-after-sleuths-identified-them/#comment-1914119",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2021/03/08/journal-flags-a-dozen-papers-as-likely-paper-mill-products-a-year-after-sleuths-identified-them/#comment-1914119",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/23/2020 0:00",
-      "RetractionDOI": "10.1002/jcb.29855",
-      "RetractionPubMedID": "33253505.0",
-      "OriginalPaperDate": "4/18/2018 0:00",
-      "OriginalPaperDOI": "10.1002/jcb.26889",
-      "OriginalPaperPubMedID": "29667771.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/23/2020 0:00",
+      "retractiondoi": "10.1002/jcb.29855",
+      "retractionpubmedid": "33253505.0",
+      "originalpaperdate": "4/18/2018 0:00",
+      "originalpaperdoi": "10.1002/jcb.26889",
+      "originalpaperpubmedid": "29667771.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Error in Analyses",
         "+Investigation by Third Party",
         "+Paper Mill"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/2B7FE84B570A2CA3B51294A18E521C; See also: https://scienceintegritydigest.com/2020/02/21/the-tadpole-paper-mill/",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343606",
-      "Record ID": "48115",
-      "Title": "Correlation Analysis of CML, sRAGE, and esRAGE and the Measure of Atherosclerosis of Coronary Heart Disease",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "Department of Cardiology, Xi'an First Hospital, Xi'an 710002, China",
-        "Central Laboratory, Xi'an First Hospital, Xi'an 710002, China",
-        "Xi'an First Hospital, Xi'an 710002, China"
-      ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Wenjun Liu",
-        "Yuqiang Ji",
-        "Weiwei Zhang",
-        "Fei Fang",
-        "Qin Cai",
-        "Ying Li"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9836580",
-      "RetractionPubMedID": "37502088.0",
-      "OriginalPaperDate": "6/10/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/8970860",
-      "OriginalPaperPubMedID": "35720930.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/9E6A2FEB863C0DB6057EF8384E5587",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345e40",
-      "Record ID": "37768",
-      "Title": "MicroRNA-125b promotes neurons cell apoptosis and tau phosphorylation in Alzheimer's disease",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Geriatrics, Xi\u2019an No. 1 Hospital, Xi\u2019an 710002, China",
-        "Open Ward, Qingdao Mental Health Center, Qingdao 266034, China",
-        "Department of Geriatrics, Wuhan Mental Health Center, No. 93, Youyi Road, Qiaokou District, Wuhan 430022, China"
-      ],
-      "Journal": "Neuroscience Letters",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiaohui Ma",
-        "Linlin Liu",
-        "Jing Meng"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/9/2022 0:00",
-      "RetractionDOI": "10.1016/j.neulet.2022.136703",
-      "RetractionPubMedID": "35691149.0",
-      "OriginalPaperDate": "9/22/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.neulet.2017.09.043",
-      "OriginalPaperPubMedID": "28947385.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Third Party Involvement",
-        "+Investigation by Journal/Publisher",
-        "+Paper Mill",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345874",
-      "Record ID": "39261",
-      "Title": "Correlations of Microvascular Blood Flow of Contrast-Enhanced Ultrasound and HGF/c-Met Signaling Pathway with Clinicopathological Features and Prognosis of Patients with Hepatocellular Carcinoma",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Surgery, The Hospital of Xi\u2019an Jiao Tong University, Xi\u2019an, People\u2019s Republic of China",
-        "Department of Internal Medicine, The Hospital of Xi\u2019an Jiao Tong University, Xi\u2019an, People\u2019s Republic of China",
-        "Department of Gastroenterology, Xi\u2019an First Hospital, Xi\u2019an, People\u2019s Republic of China",
-        "Department of Ultrasound, The First Affiliated Hospital of Xi\u2019an Jiao Tong University, Xi\u2019an, People\u2019s Republic of China"
-      ],
-      "Journal": "OncoTargets and Therapy",
-      "Publisher": "Taylor and Francis - Dove Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Peng Hui Zhuang",
-        "Lei Xu",
-        "Lu Gao",
-        "Wei Lu",
-        "Li Tao Ruan",
-        "Jin Yang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/23/2022 0:00",
-      "RetractionDOI": "10.2147/OTT.S390682",
-      "RetractionPubMedID": "36176729.0",
-      "OriginalPaperDate": "2/14/2017 0:00",
-      "OriginalPaperDOI": "10.2147/OTT.S113353",
-      "OriginalPaperPubMedID": "28243120.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234240b",
-      "Record ID": "52731",
-      "Title": "Two New Strandberg Type Molybdophenylphosphonate Complexes: Crystal Structures and Anti-Pancreatic Cancer Activity",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Radiotherapy, Shaanxi Provincial Tumor Hospital, Affiliated Hospital of Medical College of Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China",
-        "Department of Oncology, The First People\u2019s Hospital of Xianyang, Xianyang, Shaanxi, China",
-        "Department of Thoracic Surgery, Shaanxi Provincial Tumor Hospital, Affiliated Hospital of Medical College of Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China",
-        "Department of Geriatric Respiratory, Xi\u2019an No 1 Hospital, First People\u2019s Hospital Affiliated to Xi\u2019an Medical College, First Affiliated Hospital of Northwest University, Xi\u2019an, Shaanxi, China",
-        "Department of Anesthesiology, First Affiliated Hospital of Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China"
-      ],
-      "Journal": "Journal of Cluster Science",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Jing Liang",
-        "Yongcun Liu",
-        "Zhigang Liu",
-        "Lu Bai",
-        "Feng Li"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2024 0:00",
-      "RetractionDOI": "10.1007/s10876-024-02578-0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/13/2018 0:00",
-      "OriginalPaperDOI": "10.1007/s10876-018-1431-1",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Image",
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Investigation by Journal/Publisher",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2343f5f",
-      "Record ID": "45716",
-      "Title": "Inhibition of two Cu(II) and Mn(II) coordination polymers on the surgical site infections by inhibiting the bacterial biofilm formation",
-      "Subject": [
-        "(BLS) Microbiology",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Outpatient, Tongchuan People's Hospital, Tongchuan, Shaanxi, China",
-        "Department of Urology, Xi'an First Hospital, Xi'an, Shaanxi, China"
-      ],
-      "Journal": "Journal of the Indian Chemical Society",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Lin Shen",
-        "We Ni Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/23/2023 0:00",
-      "RetractionDOI": "10.1016/j.jics.2023.101042",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/9/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.jics.2021.100250",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/2E6CDBA030DE84316C53AD67E645F4 and https://docs.google.com/spreadsheets/d/1bfgWotMOQALFbeqccIkOMLbJODfrBwK-JHQ78zEu2ZQ/edit#gid=1739681459",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234387e",
-      "Record ID": "47483",
-      "Title": "Effect of PARP Inhibitor Combined with Bevacizumab on Platinum-Resistant Recurrent Ovarian Epithelial Carcinoma",
-      "Subject": [
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Gynecology, Xi'an First Hospital, Xi'an, Shaanxi 710002, China",
-        "Department of Gynecology, Yulin No. 2 Hospital, Yulin, Shaanxi 719000, China",
-        "Department of Gynecology, Hanzhong Central Hospital, No. 22 Kangfu Road, Hanzhong, Shaanxi 723000, China"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Li Sun",
-        "Caixia Liu",
-        "Yun Li"
-      ],
-      "URLS": "https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "6/28/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9823491",
-      "RetractionPubMedID": "37416219.0",
-      "OriginalPaperDate": "6/10/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/4600145",
-      "OriginalPaperPubMedID": "35720032.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23451ef",
-      "Record ID": "40944",
-      "Title": "Integrated analysis of competing endogenous RNAs network reveals potential signatures in osteosarcoma development",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Xi\u2019an Jiaotong University Health Science Center, Xi\u2019an, Shaanxi, People\u2019s Republic of China",
-        "Department of Orthopedics, Honghui Hospital, Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, People\u2019s Republic of China",
-        "Department of Endocrinology, Xi\u2019an No. 1 Hospital, Xi\u2019an, Shaanxi, People\u2019s Republic of China"
-      ],
-      "Journal": "Technology in Cancer Research & Treatment",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Lisong Heng",
-        "Zhen Jia",
-        "Jian Sun",
-        "Yitong Zhao",
-        "Kun Zhang",
-        "Yangjun Zhu",
-        "Shemin Lu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/30/2022 0:00",
-      "RetractionDOI": "10.1177/15330338221134496",
-      "RetractionPubMedID": "36449312.0",
-      "OriginalPaperDate": "9/10/2022 0:00",
-      "OriginalPaperDOI": "10.1177/1533033820957025",
-      "OriginalPaperPubMedID": "32912111.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+False/Forged Authorship"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/2B7FE84B570A2CA3B51294A18E521C; See also: https://scienceintegritydigest.com/2020/02/21/the-tadpole-paper-mill/",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 3,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -593,10 +603,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

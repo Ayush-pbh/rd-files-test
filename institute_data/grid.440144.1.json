@@ -1,34 +1,513 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068784e5",
+    "_id": "687ccbab09adbf7aa61b9106",
     "grid_id": "grid.440144.1",
     "institute_name": "Shandong Tumor Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "5592",
-      "7081",
+      "53330",
+      "56727",
       "2190",
       "19409",
-      "53330",
       "51180",
-      "7297",
-      "32205",
+      "7081",
       "55652",
+      "7297",
       "26225",
-      "56727",
-      "648"
+      "5592",
+      "648",
+      "32205"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234db43",
-      "Record ID": "5592",
-      "Title": "CXCR4 Signaling Induced Epithelial-Mesenchymal Transition by PI3K/AKT and ERK Pathways in Glioblastoma",
-      "Subject": [
+      "_id": "687cef731f662220d898686c",
+      "recordId": "56727",
+      "title": "Hispidulin inhibits hepatocellular carcinoma growth and metastasis through AMPK and ERK signaling mediated activation of PPAR\u03b3",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, 266021, China",
+        "Qingdao Fifth People's Hospital (Shandong Qingdao Hospital of Integrated Traditional and Western Medicine), Qingdao, 266002, China",
+        "Shandong Cancer Hospital Affiliated to Shandong University, Jinan, 250117, China",
+        "Shandong Academy of Medical Sciences, Jinan, 250001, China",
+        "Medical College, Qingdao University, Qingdao, 266071, China",
+        "The Affiliated Hospital of Qingdao University, Qingdao, 266003, China"
+      ],
+      "journal": "Biomedicine & Pharmacotherapy",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Mei Han",
+        "Hui Gao",
+        "Ping Ju",
+        "Ming-quan Gao",
+        "Yin-ping Yuan",
+        "Xue-hong Chen",
+        "Kai-li Liu",
+        "Yan-tao Han",
+        "Zhi-wu Han"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/19/2024 0:00",
+      "retractiondoi": "10.1016/j.biopha.2024.117354",
+      "retractionpubmedid": "39277452.0",
+      "originalpaperdate": "4/24/2018 0:00",
+      "originalpaperdoi": "10.1016/j.biopha.2018.04.014",
+      "originalpaperpubmedid": "29656183.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/008FBE6F05BFCC9C9578B6F4897BE9#6",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef761f662220d8986c9d",
+      "recordId": "55652",
+      "title": "FTX Regulated miR-153-3p/FOXR2 to Promote Cisplatin Resistance in Ovarian Cancer",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Gynecologic Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan 250117, China"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Ming Liu",
+        "Jingwei Peng"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/27/2023 0:00",
+      "retractiondoi": "10.1155/2023/9898056",
+      "retractionpubmedid": "37811244.0",
+      "originalpaperdate": "5/23/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/2318170",
+      "originalpaperpubmedid": "35651928.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/0F9261B7E45C6D493D5F63C55EDB85",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef811f662220d89875ab",
+      "recordId": "53330",
+      "title": "MiR-1290 promotes cancer progression by targeting nuclear factor I/X(NFIX) in esophageal squamous cell carcinoma (ESCC)",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Otorhinolaryngology"
+      ],
+      "institution": [
+        "Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center of Cancer, Key Laboratory of Cancer Prevention and Therapy, Tianjin, China",
+        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Jinan, China",
+        "School of Medicine and Life Sciences, University of Jinan\u2014Shandong Academy of Medical Sciences, Jinan, China"
+      ],
+      "journal": "Biomedicine & Pharmacotherapy",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yu Mao",
+        "Jia Liu",
+        "Dakai Zhang",
+        "Baosheng Li"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/30/2024 0:00",
+      "retractiondoi": "10.1016/j.biopha.2024.116189",
+      "retractionpubmedid": "38296731.0",
+      "originalpaperdate": "11/10/2015 0:00",
+      "originalpaperdoi": "10.1016/j.biopha.2015.10.005",
+      "originalpaperpubmedid": "26653554.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987dfe",
+      "recordId": "51180",
+      "title": "Effect of HCH Nutrition Management Combined with Early Exercise Nursing on Nutrition Status and Postoperative Rehabilitation of Patients after Gastric Cancer Surgery",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Nursing",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Surgery",
+        "(HSC) Nutrition"
+      ],
+      "institution": [
+        "Shandong Cancer Hospital and Institute, Jinan, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Zengfen Pang",
+        "Yuanyuan Li",
+        "Amei Huang",
+        "Xianghong Li",
+        "Yuping Liu",
+        "Yingtao Meng"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/9/2023 0:00",
+      "retractiondoi": "10.1155/2023/9792489",
+      "retractionpubmedid": "37593033.0",
+      "originalpaperdate": "8/18/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/2813050",
+      "originalpaperpubmedid": "36034964.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/07B9D6C8DC4A7C0004276C6CB2E445",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd01f662220d898c7c8",
+      "recordId": "32205",
+      "title": "Hispidulin induces ER stress-mediated apoptosis in human hepatocellular carcinoma cells in vitro and in vivo by activating AMPK signaling pathway",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, 266021, China",
+        "Medical College, Qingdao University, Qingdao, 266071, China",
+        "Shandong Cancer Hospital Affiliated to Shandong University, Jinan, 250117, China",
+        "Shandong Academy of Medical Sciences, Jinan, 250001, China",
+        "Qingdao Fifth People\u2019s Hospital, Qingdao, 266000, China",
+        "The Affiliated Hospital of Qingdao University, Qingdao, 266003, China"
+      ],
+      "journal": "Acta Pharmacologica Sinica",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Mei Han",
+        "Hui Gao",
+        "Jing Xie",
+        "Yin Ping Yuan",
+        "Quan Yuan",
+        "Ming Quan Gao",
+        "Kai Li Liu",
+        "Xue Hong Chen",
+        "Yan Tao Han",
+        "Zhi Wu Han"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/7/2021 0:00",
+      "retractiondoi": "10.1038/s41401-021-00730-4",
+      "retractionpubmedid": "34493814.0",
+      "originalpaperdate": "9/14/2018 0:00",
+      "originalpaperdoi": "10.1038/s41401-018-0159-7",
+      "originalpaperpubmedid": "30218072.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Paper Mill",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "notes": "see : https://docs.google.com/spreadsheets/d/13K6zoo2oSATsFlY7YGyvm2_Xs1jibs0RH4nKQP5y8DY/edit?usp=sharing",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687ceffc1f662220d898df13",
+      "recordId": "26225",
+      "title": "3\u2011\u03b2\u2011\u0395rythrodiol isolated from Conyza canadensis inhibits MKN\u201145 human gastric cancer cell proliferation by inducing apoptosis, cell cycle arrest, DNA fragmentation, ROS generation and reduces tumor weight and volume in mouse xenograft model",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Gastrointestinal Surgery, Shandong Tumor Hospital and Institute, Jinan, Shandong 250117, P.R. China",
+        "Department of Neurosurgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, Shandong 250021, P.R. China"
+      ],
+      "journal": "Oncology Reports",
+      "publisher": "Spandidos",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Kai Liu",
+        "Yue Hong Qin",
+        "Jian Yong Yu",
+        "Heng Ma",
+        "Xi Lin Song"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/18/2021 0:00",
+      "retractiondoi": "10.3892/or.2021.7980",
+      "retractionpubmedid": "33649789.0",
+      "originalpaperdate": "2/3/2016 0:00",
+      "originalpaperdoi": "10.3892/or.2016.4610",
+      "originalpaperpubmedid": "26846256.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/EC90F22A9BA77C41DAE5B22E04E7B2",
+      "year": "2016",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898f995",
+      "recordId": "19409",
+      "title": "si-RNA-Mediated Knockdown of PDLIM5 Suppresses Gastric Cancer Cell Proliferation in Vitro",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Gastrointestinal Surgery, Shandong Tumor Hospital, Jinan, China",
+        "Department of Pathology, Shandong Tumor Hospital, Jinan, China",
+        "Department of Intensive Care Unit, Wucheng People's Hospital, Wucheng, Shandong, China",
+        "Department of Urology, Shandong Tumor Hospital, Jinan, China"
+      ],
+      "journal": "Chemical Biology & Drug Design",
+      "publisher": "Wiley",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yanliang Li",
+        "Yongsheng Gao",
+        "Yue Xu",
+        "Xianjun Sun",
+        "Xilin Song",
+        "Heng Ma",
+        "Mingshan Yang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/30/2018 0:00",
+      "retractiondoi": "10.1111/cbdd.13422",
+      "retractionpubmedid": "30468310.0",
+      "originalpaperdate": "10/23/2014 0:00",
+      "originalpaperdoi": "10.1111/cbdd.12428",
+      "originalpaperpubmedid": "25215606.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Error in Materials",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d899289d",
+      "recordId": "7297",
+      "title": "Survivin mRNA-circulating tumor cells are associated with prostate cancer metastasis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Medicine - Urology/Nephrology"
+      ],
+      "institution": [
+        "Department of Urology Surgery, Shandong Cancer Hospital, Jinan",
+        "Department of Central Laboratory, Shandong Cancer Hospital, Jinan"
+      ],
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Huansheng Wang",
+        "Mingshan Yang",
+        "Jian Xu",
+        "Benkui Zou",
+        "Qian Zhou",
+        "Jiasheng Bian",
+        "Xingwu Wang"
+      ],
+      "urls": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/20/2017 0:00",
+      "retractiondoi": "10.1007/s13277-017-5487-6",
+      "retractionpubmedid": "28792236.0",
+      "originalpaperdate": "8/6/2015 0:00",
+      "originalpaperdoi": "10.1007/s13277-015-3812-5",
+      "originalpaperpubmedid": "26242261.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Journal published by SAGE starting in 2017",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d8992972",
+      "recordId": "7081",
+      "title": "MicroRNA-320 inhibits osteosarcoma cells proliferation by directly targeting fatty acid synthase",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pathology"
+      ],
+      "institution": [
+        "Department of Osteology, Feicheng People's Hospital, Tai'an, Shandong",
+        "Department of Osteology, Liaocheng People's Hospital, Liaocheng, Shandong",
+        "Surgical Ward No 7, Shandong Cancer Hospital, Jinan, Shandong"
+      ],
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Chi Cheng",
+        "Zhen-Qiang Chen",
+        "Xue-Tao Shi"
+      ],
+      "urls": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/20/2017 0:00",
+      "retractiondoi": "10.1007/s13277-017-5487-6",
+      "retractionpubmedid": "28792236.0",
+      "originalpaperdate": "1/5/2014 0:00",
+      "originalpaperdoi": "10.1007/s13277-013-1546-9",
+      "originalpaperpubmedid": "24390663.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Journal published by SAGE starting in 2017",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f29",
+      "recordId": "5592",
+      "title": "CXCR4 Signaling Induced Epithelial-Mesenchymal Transition by PI3K/AKT and ERK Pathways in Glioblastoma",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology, Shandong Cancer Hospital and Institute, Jinan, China",
         "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
         "Shandong University School of Medicine, Jinan, China",
@@ -36,12 +515,12 @@
         "Department of Oncology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
         "Department of Gynecologic Oncology, Shandong Cancer Hospital and Institute, Jinan, China"
       ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Baoyu Lv",
         "Xiangshan Yang",
         "Shunzeng Lv",
@@ -58,555 +537,87 @@
         "Man Feng",
         "Li Zhang"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2017 0:00",
-      "RetractionDOI": "10.1007/s12035-017-0464-z",
-      "RetractionPubMedID": "28244004.0",
-      "OriginalPaperDate": "12/1/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-014-8935-y",
-      "OriginalPaperPubMedID": "25326893.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2017 0:00",
+      "retractiondoi": "10.1007/s12035-017-0464-z",
+      "retractionpubmedid": "28244004.0",
+      "originalpaperdate": "12/1/2015 0:00",
+      "originalpaperdoi": "10.1007/s12035-014-8935-y",
+      "originalpaperpubmedid": "25326893.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Duplication",
         "+False/Forged Authorship",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d58c",
-      "Record ID": "7081",
-      "Title": "MicroRNA-320 inhibits osteosarcoma cells proliferation by directly targeting fatty acid synthase",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pathology"
-      ],
-      "Institution": [
-        "Department of Osteology, Feicheng People's Hospital, Tai'an, Shandong",
-        "Department of Osteology, Liaocheng People's Hospital, Liaocheng, Shandong",
-        "Surgical Ward No 7, Shandong Cancer Hospital, Jinan, Shandong"
-      ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Chi Cheng",
-        "Zhen-Qiang Chen",
-        "Xue-Tao Shi"
-      ],
-      "URLS": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/20/2017 0:00",
-      "RetractionDOI": "10.1007/s13277-017-5487-6",
-      "RetractionPubMedID": "28792236.0",
-      "OriginalPaperDate": "1/5/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-013-1546-9",
-      "OriginalPaperPubMedID": "24390663.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Journal published by SAGE starting in 2017",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234e845",
-      "Record ID": "2190",
-      "Title": "Antitumor effects of combining tumor radiation with the antivascular action of ultrasound stimulated microbubbles",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c2b",
+      "recordId": "2190",
+      "title": "Antitumor effects of combining tumor radiation with the antivascular action of ultrasound stimulated microbubbles",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Pathology",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Department of Special Diagnosis, Shandong Cancer Hospital and Institute, China",
         "Department of Internal Medicine, Jinan Second People\u2019s Hospital, China"
       ],
-      "Journal": "International Journal of Clinical and Experimental Pathology",
-      "Publisher": "e-Century Publishing Corporation",
-      "Country": [
+      "journal": "International Journal of Clinical and Experimental Pathology",
+      "publisher": "e-Century Publishing Corporation",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yanlei Ji",
         "Zhen Han",
         "Limei Shao",
         "Yuehuan Zhao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/1/2015 0:00",
-      "RetractionPubMedID": "26722610.0",
-      "OriginalPaperDate": "9/1/2015 0:00",
-      "OriginalPaperPubMedID": "26617705.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/1/2015 0:00",
+      "retractionpubmedid": "26722610.0",
+      "originalpaperdate": "9/1/2015 0:00",
+      "originalpaperpubmedid": "26617705.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a5af",
-      "Record ID": "19409",
-      "Title": "si-RNA-Mediated Knockdown of PDLIM5 Suppresses Gastric Cancer Cell Proliferation in Vitro",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Gastrointestinal Surgery, Shandong Tumor Hospital, Jinan, China",
-        "Department of Pathology, Shandong Tumor Hospital, Jinan, China",
-        "Department of Intensive Care Unit, Wucheng People's Hospital, Wucheng, Shandong, China",
-        "Department of Urology, Shandong Tumor Hospital, Jinan, China"
-      ],
-      "Journal": "Chemical Biology & Drug Design",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yanliang Li",
-        "Yongsheng Gao",
-        "Yue Xu",
-        "Xianjun Sun",
-        "Xilin Song",
-        "Heng Ma",
-        "Mingshan Yang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/30/2018 0:00",
-      "RetractionDOI": "10.1111/cbdd.13422",
-      "RetractionPubMedID": "30468310.0",
-      "OriginalPaperDate": "10/23/2014 0:00",
-      "OriginalPaperDOI": "10.1111/cbdd.12428",
-      "OriginalPaperPubMedID": "25215606.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Error in Materials",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23421c5",
-      "Record ID": "53330",
-      "Title": "MiR-1290 promotes cancer progression by targeting nuclear factor I/X(NFIX) in esophageal squamous cell carcinoma (ESCC)",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Otorhinolaryngology"
-      ],
-      "Institution": [
-        "Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center of Cancer, Key Laboratory of Cancer Prevention and Therapy, Tianjin, China",
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Jinan, China",
-        "School of Medicine and Life Sciences, University of Jinan\u2014Shandong Academy of Medical Sciences, Jinan, China"
-      ],
-      "Journal": "Biomedicine & Pharmacotherapy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yu Mao",
-        "Jia Liu",
-        "Dakai Zhang",
-        "Baosheng Li"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/30/2024 0:00",
-      "RetractionDOI": "10.1016/j.biopha.2024.116189",
-      "RetractionPubMedID": "38296731.0",
-      "OriginalPaperDate": "11/10/2015 0:00",
-      "OriginalPaperDOI": "10.1016/j.biopha.2015.10.005",
-      "OriginalPaperPubMedID": "26653554.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342a18",
-      "Record ID": "51180",
-      "Title": "Effect of HCH Nutrition Management Combined with Early Exercise Nursing on Nutrition Status and Postoperative Rehabilitation of Patients after Gastric Cancer Surgery",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Nursing",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Surgery",
-        "(HSC) Nutrition"
-      ],
-      "Institution": [
-        "Shandong Cancer Hospital and Institute, Jinan, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Zengfen Pang",
-        "Yuanyuan Li",
-        "Amei Huang",
-        "Xianghong Li",
-        "Yuping Liu",
-        "Yingtao Meng"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/9/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9792489",
-      "RetractionPubMedID": "37593033.0",
-      "OriginalPaperDate": "8/18/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/2813050",
-      "OriginalPaperPubMedID": "36034964.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/07B9D6C8DC4A7C0004276C6CB2E445",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234d4b7",
-      "Record ID": "7297",
-      "Title": "Survivin mRNA-circulating tumor cells are associated with prostate cancer metastasis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pathology",
-        "(HSC) Medicine - Urology/Nephrology"
-      ],
-      "Institution": [
-        "Department of Urology Surgery, Shandong Cancer Hospital, Jinan",
-        "Department of Central Laboratory, Shandong Cancer Hospital, Jinan"
-      ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Huansheng Wang",
-        "Mingshan Yang",
-        "Jian Xu",
-        "Benkui Zou",
-        "Qian Zhou",
-        "Jiasheng Bian",
-        "Xingwu Wang"
-      ],
-      "URLS": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/20/2017 0:00",
-      "RetractionDOI": "10.1007/s13277-017-5487-6",
-      "RetractionPubMedID": "28792236.0",
-      "OriginalPaperDate": "8/6/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-015-3812-5",
-      "OriginalPaperPubMedID": "26242261.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Journal published by SAGE starting in 2017",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23473e2",
-      "Record ID": "32205",
-      "Title": "Hispidulin induces ER stress-mediated apoptosis in human hepatocellular carcinoma cells in vitro and in vivo by activating AMPK signaling pathway",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, 266021, China",
-        "Medical College, Qingdao University, Qingdao, 266071, China",
-        "Shandong Cancer Hospital Affiliated to Shandong University, Jinan, 250117, China",
-        "Shandong Academy of Medical Sciences, Jinan, 250001, China",
-        "Qingdao Fifth People\u2019s Hospital, Qingdao, 266000, China",
-        "The Affiliated Hospital of Qingdao University, Qingdao, 266003, China"
-      ],
-      "Journal": "Acta Pharmacologica Sinica",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Mei Han",
-        "Hui Gao",
-        "Jing Xie",
-        "Yin Ping Yuan",
-        "Quan Yuan",
-        "Ming Quan Gao",
-        "Kai Li Liu",
-        "Xue Hong Chen",
-        "Yan Tao Han",
-        "Zhi Wu Han"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/7/2021 0:00",
-      "RetractionDOI": "10.1038/s41401-021-00730-4",
-      "RetractionPubMedID": "34493814.0",
-      "OriginalPaperDate": "9/14/2018 0:00",
-      "OriginalPaperDOI": "10.1038/s41401-018-0159-7",
-      "OriginalPaperPubMedID": "30218072.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Paper Mill",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "Notes": "see : https://docs.google.com/spreadsheets/d/13K6zoo2oSATsFlY7YGyvm2_Xs1jibs0RH4nKQP5y8DY/edit?usp=sharing",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23418b7",
-      "Record ID": "55652",
-      "Title": "FTX Regulated miR-153-3p/FOXR2 to Promote Cisplatin Resistance in Ovarian Cancer",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Gynecologic Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan 250117, China"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ming Liu",
-        "Jingwei Peng"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/27/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9898056",
-      "RetractionPubMedID": "37811244.0",
-      "OriginalPaperDate": "5/23/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/2318170",
-      "OriginalPaperPubMedID": "35651928.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/0F9261B7E45C6D493D5F63C55EDB85",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2348b2d",
-      "Record ID": "26225",
-      "Title": "3\u2011\u03b2\u2011\u0395rythrodiol isolated from Conyza canadensis inhibits MKN\u201145 human gastric cancer cell proliferation by inducing apoptosis, cell cycle arrest, DNA fragmentation, ROS generation and reduces tumor weight and volume in mouse xenograft model",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Gastrointestinal Surgery, Shandong Tumor Hospital and Institute, Jinan, Shandong 250117, P.R. China",
-        "Department of Neurosurgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, Shandong 250021, P.R. China"
-      ],
-      "Journal": "Oncology Reports",
-      "Publisher": "Spandidos",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Kai Liu",
-        "Yue Hong Qin",
-        "Jian Yong Yu",
-        "Heng Ma",
-        "Xi Lin Song"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/18/2021 0:00",
-      "RetractionDOI": "10.3892/or.2021.7980",
-      "RetractionPubMedID": "33649789.0",
-      "OriginalPaperDate": "2/3/2016 0:00",
-      "OriginalPaperDOI": "10.3892/or.2016.4610",
-      "OriginalPaperPubMedID": "26846256.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/EC90F22A9BA77C41DAE5B22E04E7B2",
-      "notice_year": 2021,
-      "year": 2016,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2341486",
-      "Record ID": "56727",
-      "Title": "Hispidulin inhibits hepatocellular carcinoma growth and metastasis through AMPK and ERK signaling mediated activation of PPAR\u03b3",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, 266021, China",
-        "Qingdao Fifth People's Hospital (Shandong Qingdao Hospital of Integrated Traditional and Western Medicine), Qingdao, 266002, China",
-        "Shandong Cancer Hospital Affiliated to Shandong University, Jinan, 250117, China",
-        "Shandong Academy of Medical Sciences, Jinan, 250001, China",
-        "Medical College, Qingdao University, Qingdao, 266071, China",
-        "The Affiliated Hospital of Qingdao University, Qingdao, 266003, China"
-      ],
-      "Journal": "Biomedicine & Pharmacotherapy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Mei Han",
-        "Hui Gao",
-        "Ping Ju",
-        "Ming-quan Gao",
-        "Yin-ping Yuan",
-        "Xue-hong Chen",
-        "Kai-li Liu",
-        "Yan-tao Han",
-        "Zhi-wu Han"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/19/2024 0:00",
-      "RetractionDOI": "10.1016/j.biopha.2024.117354",
-      "RetractionPubMedID": "39277452.0",
-      "OriginalPaperDate": "4/24/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.biopha.2018.04.014",
-      "OriginalPaperPubMedID": "29656183.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/008FBE6F05BFCC9C9578B6F4897BE9#6",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234ee25",
-      "Record ID": "648",
-      "Title": "Measurement of tumor volume by PET to evaluate prognosis in patients with advanced non-small cell lung cancer treated by non-surgical therapy",
-      "Subject": [
+      "_id": "687cf0d71f662220d899420b",
+      "recordId": "648",
+      "title": "Measurement of tumor volume by PET to evaluate prognosis in patients with advanced non-small cell lung cancer treated by non-surgical therapy",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Radiation Oncology",
         "Department of Nuclear Medicine, Shandong Tumor Hospital, Jinan, China"
       ],
-      "Journal": "Acta Radiologica",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "Acta Radiologica",
+      "publisher": "SAGE Publications",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Hongjiang Yan",
         "Renben Wang",
         "Fen Zhao",
@@ -615,124 +626,125 @@
         "Wei Zhao",
         "Rui Feng"
       ],
-      "URLS": "http://retractionwatch.com/2012/10/17/in-detailed-notice-radiology-journal-retracts-lung-cancer-paper-for-likely-plagiarism/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/10/17/in-detailed-notice-radiology-journal-retracts-lung-cancer-paper-for-likely-plagiarism/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2012 0:00",
-      "RetractionDOI": "10.1258/ar.2012.12a003",
-      "RetractionPubMedID": "22798382.0",
-      "OriginalPaperDate": "7/1/2012 0:00",
-      "OriginalPaperDOI": "10.1258/ar.2011.100462",
-      "OriginalPaperPubMedID": "21508201.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2012 0:00",
+      "retractiondoi": "10.1258/ar.2012.12a003",
+      "retractionpubmedid": "22798382.0",
+      "originalpaperdate": "7/1/2012 0:00",
+      "originalpaperdoi": "10.1258/ar.2011.100462",
+      "originalpaperpubmedid": "21508201.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Journal/Publisher",
         "+Plagiarism of Data"
       ],
-      "Paywalled": "No",
-      "Notes": "2/10/2017",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "2/10/2017",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 4,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 3,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2016,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -740,10 +752,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

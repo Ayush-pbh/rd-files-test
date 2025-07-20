@@ -1,35 +1,81 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879bb2",
+    "_id": "687ccbab09adbf7aa61ba7d3",
     "grid_id": "grid.419620.8",
     "institute_name": "Institut National d'Oncologie",
     "country": "Morocco",
     "retracted_record_ids": [
-      "1842",
       "382",
-      "19057"
+      "19057",
+      "1842"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e998",
-      "Record ID": "1842",
-      "Title": "Advanced Treatments in Non-clear Renal Cell Carcinoma",
-      "Subject": [
+      "_id": "687cf08f1f662220d898faf4",
+      "recordId": "19057",
+      "title": "Economic impact of centralization of chemotherapy preparation: Experience of the National institute of oncology of Rabat",
+      "subject": [
+        "(B/T) Business - Economics",
+        "(B/T) Business - Management",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Service de pharmacie, Institut national d\u2019oncologie, centre hospitalier Ibn-Sina de Rabat, 1000 Rabat, Maroc",
+        "Laboratoire de sant\u00e9 publique, facult\u00e9 de m\u00e9decine et de pharmacie de Rabat, universit\u00e9 Mohamed V, Rabat, Maroc",
+        "Laboratoire de pharmacologie et de toxicologie, facult\u00e9 de m\u00e9decine et de pharmacie de Rabat, universit\u00e9 Mohamed V, Rabat, Maroc"
+      ],
+      "journal": "Annales Pharmaceutiques Francaises",
+      "publisher": "Elsevier",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Ismail Bennani",
+        "M Alami Chentoufi",
+        "S Serragui",
+        "R Razine",
+        "B Meddah"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/17/2018 0:00",
+      "retractiondoi": "10.1016/j.pharma.2018.07.004",
+      "retractionpubmedid": "30126550.0",
+      "originalpaperdate": "2/13/2018 0:00",
+      "originalpaperdoi": "10.1016/j.pharma.2017.12.006",
+      "originalpaperpubmedid": "29395016.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "notes": "Title in French: Impact \u00e9conomique de la centralisation de la pr\u00e9paration de la chimioth\u00e9rapie : exp\u00e9rience de l\u2019Institut national d\u2019oncologie de Rabat:",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993d7e",
+      "recordId": "1842",
+      "title": "Advanced Treatments in Non-clear Renal Cell Carcinoma",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Medical Oncology, National Institute of Oncology, Rabat, Morocco",
         "Department of Urology, Chu Hassan Ii, Fez, Morocco"
       ],
-      "Journal": "Urology Journal",
-      "Publisher": "Urology and Nephrology Research Center, Shahid Beheshti University of Medical Sciences",
-      "Country": [
+      "journal": "Urology Journal",
+      "publisher": "Urology and Nephrology Research Center, Shahid Beheshti University of Medical Sciences",
+      "country": [
         "Morocco"
       ],
-      "Author": [
+      "author": [
         "El Mehdi Tazi",
         "Ismail Essadi",
         "Mohamed Fadl Tazi",
@@ -37,40 +83,41 @@
         "Hind M\u2019Rabti",
         "Hassan H Errihani"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/1/2012 0:00",
-      "RetractionPubMedID": "22903491.0",
-      "OriginalPaperDate": "12/1/2011 0:00",
-      "OriginalPaperPubMedID": "21404194.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/1/2012 0:00",
+      "retractionpubmedid": "22903491.0",
+      "originalpaperdate": "12/1/2011 0:00",
+      "originalpaperpubmedid": "21404194.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ef2c",
-      "Record ID": "382",
-      "Title": "Metastatic collecting duct carcinoma of the kidney treated with sunitinib",
-      "Subject": [
+      "_id": "687cf0d71f662220d8994312",
+      "recordId": "382",
+      "title": "Metastatic collecting duct carcinoma of the kidney treated with sunitinib",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Medical Oncology, National Institute of Oncology, Rabat, Morocco",
         "Department of Urology, CHU Hassan II, Fez, Morocco."
       ],
-      "Journal": "World Journal of Surgical Oncology",
-      "Publisher": "BioMed Central (BMC)",
-      "Country": [
+      "journal": "World Journal of Surgical Oncology",
+      "publisher": "BioMed Central (BMC)",
+      "country": [
         "Morocco"
       ],
-      "Author": [
+      "author": [
         "El Mehdi Tazi",
         "Ismail Essadi",
         "Mohamed Fadl Tazi",
@@ -78,80 +125,36 @@
         "Hind M'rabti",
         "Hassan H Errihani"
       ],
-      "ArticleType": [
+      "articletype": [
         "Case Report"
       ],
-      "RetractionDate": "10/24/2011 0:00",
-      "RetractionDOI": "10.1186/1477-7819-9-136",
-      "RetractionPubMedID": "22024397.0",
-      "OriginalPaperDate": "7/13/2011 0:00",
-      "OriginalPaperDOI": "10.1186/1477-7819-9-73",
-      "OriginalPaperPubMedID": "21752265.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/24/2011 0:00",
+      "retractiondoi": "10.1186/1477-7819-9-136",
+      "retractionpubmedid": "22024397.0",
+      "originalpaperdate": "7/13/2011 0:00",
+      "originalpaperdoi": "10.1186/1477-7819-9-73",
+      "originalpaperpubmedid": "21752265.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Plagiarism of Image",
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234a70e",
-      "Record ID": "19057",
-      "Title": "Economic impact of centralization of chemotherapy preparation: Experience of the National institute of oncology of Rabat",
-      "Subject": [
-        "(B/T) Business - Economics",
-        "(B/T) Business - Management",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Service de pharmacie, Institut national d\u2019oncologie, centre hospitalier Ibn-Sina de Rabat, 1000 Rabat, Maroc",
-        "Laboratoire de sant\u00e9 publique, facult\u00e9 de m\u00e9decine et de pharmacie de Rabat, universit\u00e9 Mohamed V, Rabat, Maroc",
-        "Laboratoire de pharmacologie et de toxicologie, facult\u00e9 de m\u00e9decine et de pharmacie de Rabat, universit\u00e9 Mohamed V, Rabat, Maroc"
-      ],
-      "Journal": "Annales Pharmaceutiques Francaises",
-      "Publisher": "Elsevier",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Ismail Bennani",
-        "M Alami Chentoufi",
-        "S Serragui",
-        "R Razine",
-        "B Meddah"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/17/2018 0:00",
-      "RetractionDOI": "10.1016/j.pharma.2018.07.004",
-      "RetractionPubMedID": "30126550.0",
-      "OriginalPaperDate": "2/13/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.pharma.2017.12.006",
-      "OriginalPaperPubMedID": "29395016.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "Title in French: Impact \u00e9conomique de la centralisation de la pr\u00e9paration de la chimioth\u00e9rapie : exp\u00e9rience de l\u2019Institut national d\u2019oncologie de Rabat:",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -159,21 +162,21 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

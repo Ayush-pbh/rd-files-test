@@ -1,63 +1,167 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878055",
+    "_id": "687ccbab09adbf7aa61b8c76",
     "grid_id": "grid.460051.6",
     "institute_name": "First Affiliated Hospital of Henan University",
     "country": "China",
     "retracted_record_ids": [
-      "48031",
+      "43509",
+      "46816",
+      "34107",
       "24508",
-      "60207",
-      "44007",
+      "42895",
       "34917",
+      "48031",
+      "60207",
       "157",
       "56637",
-      "43509",
-      "43012",
-      "42895",
       "25850",
-      "46816",
-      "34107"
+      "44007",
+      "43012"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234365a",
-      "Record ID": "48031",
-      "Title": "Application and Evaluation of a 64-Slice CT Three-Dimensional Fusion Technique in the Determination of the Effective Ablation Margin after Radiofrequency Ablation of Hepatocellular Carcinoma",
-      "Subject": [
+      "_id": "687cef651f662220d8985ad9",
+      "recordId": "60207",
+      "title": "The Effective Components, Core Targets, and Key Pathways of Ginseng against Alzheimer\u2019s Disease",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Neurology, Huaihe Hospital of Henan University, Kaifeng 475000, China",
+        "Department of Geriatrics, First Affiliated Hospital of Henan University, Kaifeng 475000, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yabo Wang",
+        "Xinxin Liu"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/6/2023 0:00",
+      "retractiondoi": "10.1155/2023/9857193",
+      "retractionpubmedid": "38093873.0",
+      "originalpaperdate": "1/23/2023 0:00",
+      "originalpaperdoi": "10.1155/2023/9935942",
+      "originalpaperpubmedid": "36726526.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef731f662220d89868c6",
+      "recordId": "56637",
+      "title": "Risk Factors for Pulmonary Metastasis in Differentiated Thyroid Carcinoma Patients and the Significance of Changes in Matrix Metalloproteinase 13 and microRNA-142 Levels",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Endocrinology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Breast and Thyroid Surgery Ward, The First Affiliated Hospital of Henan University, Kaifeng 475001, China"
+      ],
+      "journal": "Contrast Media & Molecular Imaging",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiaoyang Zhang",
+        "Zhenqi Lu",
+        "Guannan Zhang",
+        "Shuai Li",
+        "Aiguo Zhao",
+        "Yayun Miao",
+        "Wensheng Wang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/27/2023 0:00",
+      "retractiondoi": "10.1155/2023/9815426",
+      "retractionpubmedid": "37810491.0",
+      "originalpaperdate": "9/5/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6820281",
+      "originalpaperpubmedid": "36118948.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/8360CC452A9A5FC91FE59210B1C1CB",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef961f662220d8988a40",
+      "recordId": "48031",
+      "title": "Application and Evaluation of a 64-Slice CT Three-Dimensional Fusion Technique in the Determination of the Effective Ablation Margin after Radiofrequency Ablation of Hepatocellular Carcinoma",
+      "subject": [
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Department of Radiology, The First Affiliated Hospital of Henan University of CM, Zhengzhou, Henan 450000, China",
         "Department of Radiology, Sichuan Cancer Hospital, Chengdu, Sichuan 640041, China"
       ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Haihao Du",
         "Xiongmu Tan",
         "Liuhui Cheng",
         "Baopeng Zhang",
         "Daoqing Wang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/2/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9814659",
-      "RetractionPubMedID": "37564769.0",
-      "OriginalPaperDate": "1/27/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6898233",
-      "OriginalPaperPubMedID": "35126633.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/2/2023 0:00",
+      "retractiondoi": "10.1155/2023/9814659",
+      "retractionpubmedid": "37564769.0",
+      "originalpaperdate": "1/27/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6898233",
+      "originalpaperpubmedid": "35126633.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Referencing/Attributions",
         "+Concerns/Issues with Peer Review",
@@ -65,31 +169,417 @@
         "+Investigation by Third Party",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23491db",
-      "Record ID": "24508",
-      "Title": "Interleukin-35 Expression in Non-Small Cell Lung Cancer is Associated with Tumor Progression",
-      "Subject": [
+      "_id": "687cef9a1f662220d8988eff",
+      "recordId": "46816",
+      "title": "Down-regulation of MRPS23 inhibits LPS-induced proliferation and invasion via regulation of the NF-\u03baB signaling pathway in osteosarcoma cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Department of Orthopaedics, The First Affiliated Hospital of Henan University, Kaifeng 475000, China",
+        "Department of Orthopaedics and Traumatology, Wuxi Hospital Affiliated to Nanjing University of Chinese Medicine, No. 8 Zhongnan West Road, Wuxi 214000, China"
+      ],
+      "journal": "RSC Advances",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Ai Guo Liu",
+        "Ke Lin Xu",
+        "Wei Lin Wang",
+        "Bing Kang Zhou",
+        "Qing Gong Guo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/3/2023 0:00",
+      "retractiondoi": "10.1039/d3ra90071a",
+      "retractionpubmedid": "37545600.0",
+      "originalpaperdate": "4/4/2019 0:00",
+      "originalpaperdoi": "10.1039/c8ra08973f",
+      "originalpaperpubmedid": "35515333.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa61f662220d89899ee",
+      "recordId": "44007",
+      "title": "Down-regulation of microRNA-21 reduces inflammation and podocyte apoptosis in diabetic nephropathy by relieving the repression of TIMP3 expression",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Endocrinology, The First Affiliated Hospital of Henan University, Kaifeng, 475000, China",
+        "Basic Medical Sciences, Henan University, Kaifeng, 475004, China",
+        "Department of Pediatric, Kaifeng Hospital of TCM, Kaifeng, 475000, China"
+      ],
+      "journal": "Biomedicine & Pharmacotherapy",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiaoping Chen",
+        "Lei Zhao",
+        "Yanwei Xing",
+        "Bo Lin"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/20/2023 0:00",
+      "retractiondoi": "10.1016/j.biopha.2023.114725",
+      "retractionpubmedid": "37087342.0",
+      "originalpaperdate": "9/10/2018 0:00",
+      "originalpaperdoi": "10.1016/j.biopha.2018.09.007",
+      "originalpaperpubmedid": "30212710.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/FB14889727E5CF2651E012EEA10225#1",
+      "year": "2018",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa81f662220d8989bdd",
+      "recordId": "43509",
+      "title": "MicroRNA-137 Contributes to Dampened Tumorigenesis in Human Gastric Cancer by Targeting AKT2",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Gastroenterology, First affiliated Hospital of Henan University, Kaifeng, Henan, China"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Liping Wu",
+        "Jingtao Chen",
+        "Chunsheng Ding",
+        "Shutang Wei",
+        "Yanhong Zhu",
+        "Wenyi Yang",
+        "Xiaoyang Zhang",
+        "Xuejv Wei",
+        "Dazheng Han"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/29/2023 0:00",
+      "retractiondoi": "10.1371/journal.pone.0282977",
+      "retractionpubmedid": "36989267.0",
+      "originalpaperdate": "6/23/2015 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0130124",
+      "originalpaperpubmedid": "26102366.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues About Image",
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefaa1f662220d8989dc8",
+      "recordId": "43012",
+      "title": "Protective Effects of Pretreatment with Quercetin Against Lipopolysaccharide-Induced Apoptosis and the Inhibition of Osteoblast Differentiation via the MAPK and Wnt/\u03b2-Catenin Pathways in MC3T3-E1 Cells",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Henan Key Laboratory of Neural Regeneration, the First Affiliated Hospital of Xinxiang Medical University, Nanchong, Sichuan, China",
+        "Department of Orthopedics, the First Affiliated Hospital of Henan University, Nanchong, Sichuan, China",
+        "Department of Orthopedics, Affiliated Hospital of North Sichuan Medical College, Nanchong, Sichuan, China"
+      ],
+      "journal": "Cellular Physiology and Biochemistry",
+      "publisher": "Cellular Physiol Biochem Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Chun Guo",
+        "Rui Juan Yang",
+        "Ke Jang",
+        "Xiao Ling Zhou",
+        "Yu Zhen Liu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/28/2023 0:00",
+      "retractiondoi": "10.33594/000000609",
+      "retractionpubmedid": "36876419.0",
+      "originalpaperdate": "10/16/2017 0:00",
+      "originalpaperdoi": "10.1159/000481978",
+      "originalpaperpubmedid": "29035884.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefaa1f662220d8989e3b",
+      "recordId": "42895",
+      "title": "Downregulation of lncRNA BACE1-AS improves dopamine-dependent oxidative stress in rats with Parkinson's disease by upregulating microRNA-34b-5p and downregulating BACE1",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Zoology"
+      ],
+      "institution": [
+        "Department of General Medicine, The First Affiliated Hospital of Henan University, Kaifeng, Henan, China",
+        "Department of General Medicine, Henan University, Kaifeng, Henan, China",
+        "Clinical Medicine, North Sichuan Medical College, Nanchong, Sichuan, China",
+        "Department of General Medicine, Institute for Brain Sciences Research, School of Life Sciences, Henan University, Kaifeng, Henan, China"
+      ],
+      "journal": "Cell Cycle",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yanhong Li",
+        "Jian Fang",
+        "Zhanye Zhou",
+        "Qiyu Zhou",
+        "Shibin Sun",
+        "Zhikai Jin",
+        "Ziming Xi",
+        "Jianshe Wei"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/8/2022 0:00",
+      "retractiondoi": "10.1080/15384101.2022.2137767",
+      "retractionpubmedid": "36347035.0",
+      "originalpaperdate": "4/19/2020 0:00",
+      "originalpaperdoi": "10.1080/15384101.2020.1749447",
+      "originalpaperpubmedid": "32308102.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Author Unresponsive",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc61f662220d898bd34",
+      "recordId": "34917",
+      "title": "Hsa_circ_0006916 Knockdown Represses the Development of Hepatocellular Carcinoma via Modulating miR-599/SRSF2 Axis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Image Center, The First Affiliated Hospital of Henan University, Kaifeng, Henan 475001, People\u2019s Republic of China"
+      ],
+      "journal": "OncoTargets and Therapy",
+      "publisher": "Taylor and Francis - Dove Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Zhixiang Zhu",
+        "Songhe Shen",
+        "Sen Zhao",
+        "Zhixue Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/7/2021 0:00",
+      "retractiondoi": "10.2147/OTT.S352188",
+      "retractionpubmedid": "34916805.0",
+      "originalpaperdate": "11/4/2020 0:00",
+      "originalpaperdoi": "10.2147/OTT.S267471",
+      "originalpaperpubmedid": "33177838.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+False/Forged Authorship",
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc81f662220d898c05e",
+      "recordId": "34107",
+      "title": "Circular RNA SMARCA5 Inhibits the Proliferation, Migration, and Invasion of Non-Small Cell Lung Cancer by miR-19b-3p/HOXA9 Axis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Oncology, Huaihe Hospital of Henan University, Kaifeng 475000, People\u2019s Republic of China",
+        "Respiratory Medicine, the First Affiliated Hospital of Henan University, Kaifeng 475000, People\u2019s Republic of China"
+      ],
+      "journal": "OncoTargets and Therapy",
+      "publisher": "Taylor and Francis - Dove Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yaqiu Wang",
+        "Huiping Li",
+        "Hong Lu",
+        "Yaguang Qin"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/15/2021 0:00",
+      "retractiondoi": "10.2147/OTT.S348927",
+      "retractionpubmedid": "34848969.0",
+      "originalpaperdate": "8/30/2019 0:00",
+      "originalpaperdoi": "10.2147/OTT.S216320",
+      "originalpaperpubmedid": "31564891.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0001f662220d898e089",
+      "recordId": "25850",
+      "title": "Panax notoginseng saponins regulate VEGF to suppress esophageal squamous cell carcinoma progression via DVL3-mediated Wnt/\u03b2-catenin signaling",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Otorhinolaryngology"
+      ],
+      "institution": [
+        "Department of Gastroenterology, The First Affiliated Hospital of Henan University of CM, No. 19 Renmin Road, Jinshui District, Zhengzhou, Henan, China"
+      ],
+      "journal": "RSC Advances",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiaoqi Chen",
+        "Zhuan Lv",
+        "Chuanlei Zhang",
+        "Xinting Wang",
+        "Yunxia Zhao",
+        "Xiao Wang",
+        "Yuling Zheng"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/3/2021 0:00",
+      "retractiondoi": "10.1039/D1RA90072B",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/17/2020 0:00",
+      "originalpaperdoi": "10.1039/C9RA07830D",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Manipulation of Images",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://blogs.rsc.org/ra/2021/01/21/rsc-paper-mill-retractions/?doing_wp_cron=1611230128.9542400836944580078125",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0081f662220d898e5c1",
+      "recordId": "24508",
+      "title": "Interleukin-35 Expression in Non-Small Cell Lung Cancer is Associated with Tumor Progression",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cardiovascular Thoracic Surgery, The First Affiliated Hospital of Henan University, Kaifeng City, China"
       ],
-      "Journal": "Cellular Physiology and Biochemistry",
-      "Publisher": "Cellular Physiol Biochem Press",
-      "Country": [
+      "journal": "Cellular Physiology and Biochemistry",
+      "publisher": "Cellular Physiol Biochem Press",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Mingfei Sun",
         "Xianjie Zheng",
         "Qingjiang Meng",
@@ -101,562 +591,85 @@
         "Lihong Pan",
         "Shuanglin Zhang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/1/2020 0:00",
-      "RetractionDOI": "10.33594/000000302",
-      "RetractionPubMedID": "33112097.0",
-      "OriginalPaperDate": "11/30/2018 0:00",
-      "OriginalPaperDOI": "10.1159/000495706",
-      "OriginalPaperPubMedID": "30504722.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/1/2020 0:00",
+      "retractiondoi": "10.33594/000000302",
+      "retractionpubmedid": "33112097.0",
+      "originalpaperdate": "11/30/2018 0:00",
+      "originalpaperdoi": "10.1159/000495706",
+      "originalpaperpubmedid": "30504722.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Third Party Involvement",
         "+Date of Article and/or Notice Unknown"
       ],
-      "Paywalled": "No",
-      "Notes": "date of retraction is unknown, estimated from notifications; Journal originally published by Karger; see also: https://pubpeer.com/publications/46F59FBF8E26449CA9F87868812E08",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "date of retraction is unknown, estimated from notifications; Journal originally published by Karger; see also: https://pubpeer.com/publications/46F59FBF8E26449CA9F87868812E08",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23406f3",
-      "Record ID": "60207",
-      "Title": "The Effective Components, Core Targets, and Key Pathways of Ginseng against Alzheimer\u2019s Disease",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Neurology, Huaihe Hospital of Henan University, Kaifeng 475000, China",
-        "Department of Geriatrics, First Affiliated Hospital of Henan University, Kaifeng 475000, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yabo Wang",
-        "Xinxin Liu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/6/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9857193",
-      "RetractionPubMedID": "38093873.0",
-      "OriginalPaperDate": "1/23/2023 0:00",
-      "OriginalPaperDOI": "10.1155/2023/9935942",
-      "OriginalPaperPubMedID": "36726526.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2344608",
-      "Record ID": "44007",
-      "Title": "Down-regulation of microRNA-21 reduces inflammation and podocyte apoptosis in diabetic nephropathy by relieving the repression of TIMP3 expression",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Endocrinology, The First Affiliated Hospital of Henan University, Kaifeng, 475000, China",
-        "Basic Medical Sciences, Henan University, Kaifeng, 475004, China",
-        "Department of Pediatric, Kaifeng Hospital of TCM, Kaifeng, 475000, China"
-      ],
-      "Journal": "Biomedicine & Pharmacotherapy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiaoping Chen",
-        "Lei Zhao",
-        "Yanwei Xing",
-        "Bo Lin"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/20/2023 0:00",
-      "RetractionDOI": "10.1016/j.biopha.2023.114725",
-      "RetractionPubMedID": "37087342.0",
-      "OriginalPaperDate": "9/10/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.biopha.2018.09.007",
-      "OriginalPaperPubMedID": "30212710.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/FB14889727E5CF2651E012EEA10225#1",
-      "notice_year": 2023,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234694e",
-      "Record ID": "34917",
-      "Title": "Hsa_circ_0006916 Knockdown Represses the Development of Hepatocellular Carcinoma via Modulating miR-599/SRSF2 Axis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Image Center, The First Affiliated Hospital of Henan University, Kaifeng, Henan 475001, People\u2019s Republic of China"
-      ],
-      "Journal": "OncoTargets and Therapy",
-      "Publisher": "Taylor and Francis - Dove Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Zhixiang Zhu",
-        "Songhe Shen",
-        "Sen Zhao",
-        "Zhixue Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/7/2021 0:00",
-      "RetractionDOI": "10.2147/OTT.S352188",
-      "RetractionPubMedID": "34916805.0",
-      "OriginalPaperDate": "11/4/2020 0:00",
-      "OriginalPaperDOI": "10.2147/OTT.S267471",
-      "OriginalPaperPubMedID": "33177838.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+False/Forged Authorship",
-        "+Lack of IRB/IACUC Approval and/or Compliance"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234f007",
-      "Record ID": "157",
-      "Title": "Catena-Poly[[(2,2'-bipyridine-kappa-N,N')nickel(II)]-\u00b5-oxalato-kappa-O,O:O,O]",
-      "Subject": [
+      "_id": "687cf0d91f662220d89943ed",
+      "recordId": "157",
+      "title": "Catena-Poly[[(2,2'-bipyridine-kappa-N,N')nickel(II)]-\u00b5-oxalato-kappa-O,O:O,O]",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Crystallography/Spectroscopy"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Immunology, Key Laboratory of Natural Drugs and Immunological Engineering of Henan Province, College of Medicine, Henan University, Kaifeng 475003, People\u2019s Republic of China",
         "First Affiliated Hospital, Henan University, Kaifeng 475003, People\u2019s Republic of China",
         "College of Chemistry and Chemical Engineering, Henan University, Kaifeng 475003, People\u2019s Republic of China"
       ],
-      "Journal": "Acta Crystallographica. Section E, Crystallographic Communications",
-      "Publisher": "International Union of Crystallography",
-      "Country": [
+      "journal": "Acta Crystallographica. Section E, Crystallographic Communications",
+      "publisher": "International Union of Crystallography",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Sheng Li",
         "Xing-Lian Yan",
         "Shou-Bin Wang",
         "Yuan-Fang Ma"
       ],
-      "URLS": "https://retractionwatch.com/2011/02/28/crystal-myth-11-more-retractions-from-crystallography-journal-after-2010-fakery/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2011/02/28/crystal-myth-11-more-retractions-from-crystallography-journal-after-2010-fakery/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2012 0:00",
-      "RetractionDOI": "10.1107/S1600536811037603",
-      "RetractionPubMedID": "22807693.0",
-      "OriginalPaperDate": "9/13/2008 0:00",
-      "OriginalPaperDOI": "10.1107/S1600536808028389",
-      "OriginalPaperPubMedID": "21201013.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2012 0:00",
+      "retractiondoi": "10.1107/S1600536811037603",
+      "retractionpubmedid": "22807693.0",
+      "originalpaperdate": "9/13/2008 0:00",
+      "originalpaperdoi": "10.1107/S1600536808028389",
+      "originalpaperpubmedid": "21201013.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Falsification/Fabrication of Data",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: http://journals.iucr.org/e/issues/2010/01/00/me0406/index.html",
-      "notice_year": 2012,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23414e0",
-      "Record ID": "56637",
-      "Title": "Risk Factors for Pulmonary Metastasis in Differentiated Thyroid Carcinoma Patients and the Significance of Changes in Matrix Metalloproteinase 13 and microRNA-142 Levels",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Endocrinology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pulmonology"
-      ],
-      "Institution": [
-        "Breast and Thyroid Surgery Ward, The First Affiliated Hospital of Henan University, Kaifeng 475001, China"
-      ],
-      "Journal": "Contrast Media & Molecular Imaging",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiaoyang Zhang",
-        "Zhenqi Lu",
-        "Guannan Zhang",
-        "Shuai Li",
-        "Aiguo Zhao",
-        "Yayun Miao",
-        "Wensheng Wang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/27/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9815426",
-      "RetractionPubMedID": "37810491.0",
-      "OriginalPaperDate": "9/5/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6820281",
-      "OriginalPaperPubMedID": "36118948.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/8360CC452A9A5FC91FE59210B1C1CB",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23447f7",
-      "Record ID": "43509",
-      "Title": "MicroRNA-137 Contributes to Dampened Tumorigenesis in Human Gastric Cancer by Targeting AKT2",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Gastroenterology, First affiliated Hospital of Henan University, Kaifeng, Henan, China"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Liping Wu",
-        "Jingtao Chen",
-        "Chunsheng Ding",
-        "Shutang Wei",
-        "Yanhong Zhu",
-        "Wenyi Yang",
-        "Xiaoyang Zhang",
-        "Xuejv Wei",
-        "Dazheng Han"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/29/2023 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0282977",
-      "RetractionPubMedID": "36989267.0",
-      "OriginalPaperDate": "6/23/2015 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0130124",
-      "OriginalPaperPubMedID": "26102366.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Concerns/Issues About Image",
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2015,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23449e2",
-      "Record ID": "43012",
-      "Title": "Protective Effects of Pretreatment with Quercetin Against Lipopolysaccharide-Induced Apoptosis and the Inhibition of Osteoblast Differentiation via the MAPK and Wnt/\u03b2-Catenin Pathways in MC3T3-E1 Cells",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Henan Key Laboratory of Neural Regeneration, the First Affiliated Hospital of Xinxiang Medical University, Nanchong, Sichuan, China",
-        "Department of Orthopedics, the First Affiliated Hospital of Henan University, Nanchong, Sichuan, China",
-        "Department of Orthopedics, Affiliated Hospital of North Sichuan Medical College, Nanchong, Sichuan, China"
-      ],
-      "Journal": "Cellular Physiology and Biochemistry",
-      "Publisher": "Cellular Physiol Biochem Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Chun Guo",
-        "Rui Juan Yang",
-        "Ke Jang",
-        "Xiao Ling Zhou",
-        "Yu Zhen Liu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/28/2023 0:00",
-      "RetractionDOI": "10.33594/000000609",
-      "RetractionPubMedID": "36876419.0",
-      "OriginalPaperDate": "10/16/2017 0:00",
-      "OriginalPaperDOI": "10.1159/000481978",
-      "OriginalPaperPubMedID": "29035884.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2344a55",
-      "Record ID": "42895",
-      "Title": "Downregulation of lncRNA BACE1-AS improves dopamine-dependent oxidative stress in rats with Parkinson's disease by upregulating microRNA-34b-5p and downregulating BACE1",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Zoology"
-      ],
-      "Institution": [
-        "Department of General Medicine, The First Affiliated Hospital of Henan University, Kaifeng, Henan, China",
-        "Department of General Medicine, Henan University, Kaifeng, Henan, China",
-        "Clinical Medicine, North Sichuan Medical College, Nanchong, Sichuan, China",
-        "Department of General Medicine, Institute for Brain Sciences Research, School of Life Sciences, Henan University, Kaifeng, Henan, China"
-      ],
-      "Journal": "Cell Cycle",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yanhong Li",
-        "Jian Fang",
-        "Zhanye Zhou",
-        "Qiyu Zhou",
-        "Shibin Sun",
-        "Zhikai Jin",
-        "Ziming Xi",
-        "Jianshe Wei"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/8/2022 0:00",
-      "RetractionDOI": "10.1080/15384101.2022.2137767",
-      "RetractionPubMedID": "36347035.0",
-      "OriginalPaperDate": "4/19/2020 0:00",
-      "OriginalPaperDOI": "10.1080/15384101.2020.1749447",
-      "OriginalPaperPubMedID": "32308102.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2348ca3",
-      "Record ID": "25850",
-      "Title": "Panax notoginseng saponins regulate VEGF to suppress esophageal squamous cell carcinoma progression via DVL3-mediated Wnt/\u03b2-catenin signaling",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Otorhinolaryngology"
-      ],
-      "Institution": [
-        "Department of Gastroenterology, The First Affiliated Hospital of Henan University of CM, No. 19 Renmin Road, Jinshui District, Zhengzhou, Henan, China"
-      ],
-      "Journal": "RSC Advances",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiaoqi Chen",
-        "Zhuan Lv",
-        "Chuanlei Zhang",
-        "Xinting Wang",
-        "Yunxia Zhao",
-        "Xiao Wang",
-        "Yuling Zheng"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/3/2021 0:00",
-      "RetractionDOI": "10.1039/D1RA90072B",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/17/2020 0:00",
-      "OriginalPaperDOI": "10.1039/C9RA07830D",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Manipulation of Images",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://blogs.rsc.org/ra/2021/01/21/rsc-paper-mill-retractions/?doing_wp_cron=1611230128.9542400836944580078125",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2343b19",
-      "Record ID": "46816",
-      "Title": "Down-regulation of MRPS23 inhibits LPS-induced proliferation and invasion via regulation of the NF-\u03baB signaling pathway in osteosarcoma cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Department of Orthopaedics, The First Affiliated Hospital of Henan University, Kaifeng 475000, China",
-        "Department of Orthopaedics and Traumatology, Wuxi Hospital Affiliated to Nanjing University of Chinese Medicine, No. 8 Zhongnan West Road, Wuxi 214000, China"
-      ],
-      "Journal": "RSC Advances",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ai Guo Liu",
-        "Ke Lin Xu",
-        "Wei Lin Wang",
-        "Bing Kang Zhou",
-        "Qing Gong Guo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/3/2023 0:00",
-      "RetractionDOI": "10.1039/d3ra90071a",
-      "RetractionPubMedID": "37545600.0",
-      "OriginalPaperDate": "4/4/2019 0:00",
-      "OriginalPaperDOI": "10.1039/c8ra08973f",
-      "OriginalPaperPubMedID": "35515333.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2346c78",
-      "Record ID": "34107",
-      "Title": "Circular RNA SMARCA5 Inhibits the Proliferation, Migration, and Invasion of Non-Small Cell Lung Cancer by miR-19b-3p/HOXA9 Axis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Oncology, Huaihe Hospital of Henan University, Kaifeng 475000, People\u2019s Republic of China",
-        "Respiratory Medicine, the First Affiliated Hospital of Henan University, Kaifeng 475000, People\u2019s Republic of China"
-      ],
-      "Journal": "OncoTargets and Therapy",
-      "Publisher": "Taylor and Francis - Dove Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yaqiu Wang",
-        "Huiping Li",
-        "Hong Lu",
-        "Yaguang Qin"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/15/2021 0:00",
-      "RetractionDOI": "10.2147/OTT.S348927",
-      "RetractionPubMedID": "34848969.0",
-      "OriginalPaperDate": "8/30/2019 0:00",
-      "OriginalPaperDOI": "10.2147/OTT.S216320",
-      "OriginalPaperPubMedID": "31564891.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Lack of IRB/IACUC Approval and/or Compliance"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See also: http://journals.iucr.org/e/issues/2010/01/00/me0406/index.html",
+      "year": "2008",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -664,101 +677,101 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 7,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

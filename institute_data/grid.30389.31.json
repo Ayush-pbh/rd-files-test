@@ -1,67 +1,82 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879671",
+    "_id": "687ccbab09adbf7aa61ba292",
     "grid_id": "grid.30389.31",
     "institute_name": "University of California System",
     "country": "United States",
     "retracted_record_ids": [
-      "4766",
       "8392",
-      "28377"
+      "28377",
+      "4766"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234de68",
-      "Record ID": "4766",
-      "Title": "Prediction of Mortality Based on Facial Characteristics",
-      "Subject": [
-        "(BLS) Neuroscience"
+      "_id": "687cefeb1f662220d898d6af",
+      "recordId": "28377",
+      "title": "Epigenetic Modifications of RASSF1A Gene through Chromatin Remodeling in Prostate Cancer",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
       ],
-      "Institution": [
-        "University of California San DiegoLa Jolla, CA, USA",
-        "Institute of Noetic SciencesPetaluma, CA, USA",
-        "Institute of Noetic Sciences Petaluma, CA, USA"
+      "institution": [
+        "Department of Urology, Veterans Affairs Medical Center and University of California School of Medicine, San Francisco, California",
+        "Department of Urology, Shimane University, Faculty of Medicine, Izumo 693-8501, Japan",
+        "Department of Urology, Graduate School of Medical and Dental Sciences, Kagoshima University, Kagoshima 890-8520, Japan"
       ],
-      "Journal": "Frontiers in Human Neuroscience",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "Japan",
         "United States"
       ],
-      "Author": [
-        "Arnaud Delorme",
-        "Alan Pierce",
-        "Leena Michel",
-        "Dean Radin"
+      "author": [
+        "Ken Kawamoto",
+        "Steven T Okino",
+        "Robert F Place",
+        "Shinji Urakami",
+        "Hiroshi Hirata",
+        "Nobuyuki Kikuno",
+        "Toshifumi Kawakami",
+        "Yuichiro Tanaka",
+        "Deepa Pookot",
+        "Zhong Chen",
+        "Shahana Majid",
+        "Hideki Enokida",
+        "Masayuki Nakagawa",
+        "Rajvir Dahiya"
       ],
-      "URLS": "http://retractionwatch.com/2016/11/07/journal-pulls-plug-on-paper-that-predicts-persons-death-against-authors-objections/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/12/08/professor-emeritus-loses-fourth-paper-after-ucsf-va-investigation-five-years-after-other-retractions/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/7/2016 0:00",
-      "RetractionDOI": "10.3389/fnhum.2016.00515",
-      "RetractionPubMedID": "27774061.0",
-      "OriginalPaperDate": "5/17/2016 0:00",
-      "OriginalPaperDOI": "10.3389/fnhum.2016.00173",
-      "OriginalPaperPubMedID": "27242466.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Objections by Company/Institution"
+      "retractiondate": "5/3/2021 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-21-0847",
+      "retractionpubmedid": "33941548.0",
+      "originalpaperdate": "5/1/2007 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-06-2225",
+      "originalpaperpubmedid": "17473182.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution"
       ],
-      "Paywalled": "Unknown",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d07f",
-      "Record ID": "8392",
-      "Title": "Effect of isotopic composition on the lattice parameter of germanium measured by x-ray backscattering",
-      "Subject": [
+      "_id": "687cf0b81f662220d8992465",
+      "recordId": "8392",
+      "title": "Effect of isotopic composition on the lattice parameter of germanium measured by x-ray backscattering",
+      "subject": [
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Advanced Photon Source, Argonne National Laboratory, 9700 South Cass Avenue, Argonne, Illinois 60439",
         "University of Hamburg, Germany",
         "Hasylab, Hamburg, Germany",
@@ -71,15 +86,15 @@
         "Institut de Physique, Universit\u00e9 de Li\u00e8ge, B-4000 Li\u00e8ge, Belgium",
         "Department of Physics, Santa Clara University, Santa Clara, California 94053"
       ],
-      "Journal": "Physical Review B",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review B",
+      "publisher": "American Physical Society",
+      "country": [
         "Belgium",
         "Germany",
         "Russia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "M Y Hu",
         "H Sinn",
         "A Alatas",
@@ -96,134 +111,122 @@
         "E Kartheuser",
         "M A Villeret"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/20/2004 0:00",
-      "RetractionDOI": "10.1103/PhysRevB.69.079902",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/17/2003 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevB.67.113306",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "2/20/2004 0:00",
+      "retractiondoi": "10.1103/PhysRevB.69.079902",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/17/2003 0:00",
+      "originalpaperdoi": "10.1103/PhysRevB.67.113306",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2003,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2004",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23482c9",
-      "Record ID": "28377",
-      "Title": "Epigenetic Modifications of RASSF1A Gene through Chromatin Remodeling in Prostate Cancer",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
+      "_id": "687cf0c71f662220d899324e",
+      "recordId": "4766",
+      "title": "Prediction of Mortality Based on Facial Characteristics",
+      "subject": [
+        "(BLS) Neuroscience"
       ],
-      "Institution": [
-        "Department of Urology, Veterans Affairs Medical Center and University of California School of Medicine, San Francisco, California",
-        "Department of Urology, Shimane University, Faculty of Medicine, Izumo 693-8501, Japan",
-        "Department of Urology, Graduate School of Medical and Dental Sciences, Kagoshima University, Kagoshima 890-8520, Japan"
+      "institution": [
+        "University of California San DiegoLa Jolla, CA, USA",
+        "Institute of Noetic SciencesPetaluma, CA, USA",
+        "Institute of Noetic Sciences Petaluma, CA, USA"
       ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "Japan",
+      "journal": "Frontiers in Human Neuroscience",
+      "publisher": "Frontiers",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Ken Kawamoto",
-        "Steven T Okino",
-        "Robert F Place",
-        "Shinji Urakami",
-        "Hiroshi Hirata",
-        "Nobuyuki Kikuno",
-        "Toshifumi Kawakami",
-        "Yuichiro Tanaka",
-        "Deepa Pookot",
-        "Zhong Chen",
-        "Shahana Majid",
-        "Hideki Enokida",
-        "Masayuki Nakagawa",
-        "Rajvir Dahiya"
+      "author": [
+        "Arnaud Delorme",
+        "Alan Pierce",
+        "Leena Michel",
+        "Dean Radin"
       ],
-      "URLS": "https://retractionwatch.com/2022/12/08/professor-emeritus-loses-fourth-paper-after-ucsf-va-investigation-five-years-after-other-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/11/07/journal-pulls-plug-on-paper-that-predicts-persons-death-against-authors-objections/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/3/2021 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-21-0847",
-      "RetractionPubMedID": "33941548.0",
-      "OriginalPaperDate": "5/1/2007 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-06-2225",
-      "OriginalPaperPubMedID": "17473182.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution"
+      "retractiondate": "10/7/2016 0:00",
+      "retractiondoi": "10.3389/fnhum.2016.00515",
+      "retractionpubmedid": "27774061.0",
+      "originalpaperdate": "5/17/2016 0:00",
+      "originalpaperdoi": "10.3389/fnhum.2016.00173",
+      "originalpaperpubmedid": "27242466.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Objections by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2007,
-      "mark": "alterations"
+      "paywalled": "Unknown",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

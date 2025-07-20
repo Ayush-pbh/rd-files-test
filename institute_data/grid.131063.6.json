@@ -1,27 +1,85 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878546",
+    "_id": "687ccbab09adbf7aa61b9167",
     "grid_id": "grid.131063.6",
     "institute_name": "University of Notre Dame",
     "country": "United States",
     "retracted_record_ids": [
+      "40092",
+      "432",
       "43574",
       "55971",
-      "432",
-      "40092",
-      "38792",
-      "1835"
+      "1835",
+      "38792"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23447b7",
-      "Record ID": "43574",
-      "Title": "A shorter 146Sm half-life measured and implications for 146Sm-142Nd chronology in the Solar System",
-      "Subject": [
+      "_id": "687cef761f662220d8986b5e",
+      "recordId": "55971",
+      "title": "Arid3b Is Critical for B Lymphocyte Development",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana, United States of America",
+        "Harper Cancer Research Institute, South Bend, Indiana, United States of America",
+        "Institute for Cellular and Molecular Biology, Department of Molecular Biosciences, University of Texas at Austin, Austin, Texas, United States of America",
+        "Department of Microbiology and Immunology, Indiana University School of Medicine, South Bend, Indiana, United States of America",
+        "Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, South Bend, Indiana, United States of America",
+        "Deparment of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, Indiana, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Jeffrey L Kurkewich",
+        "Nathan Klopfenstein",
+        "William M Hallas",
+        "Christian Wood",
+        "Rachel A Sattler",
+        "Chhaya Das",
+        "Haley Tucker",
+        "Richard Dahl",
+        "Karen D Cowden Dahl"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/22/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0309551",
+      "retractionpubmedid": "39172998.0",
+      "originalpaperdate": "8/18/2016 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0161468",
+      "originalpaperpubmedid": "27537840.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Copyright Claims",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa61f662220d8989b9d",
+      "recordId": "43574",
+      "title": "A shorter 146Sm half-life measured and implications for 146Sm-142Nd chronology in the Solar System",
+      "subject": [
         "(PHY) Cosmology"
       ],
-      "Institution": [
+      "institution": [
         "Research Facility Center for Science and Technology, University of Tsukuba, Japan",
         "Racah Institute of Physics, Hebrew University, Jerusalem, Israel 91904",
         "Department of Physics, University of Notre Dame, Notre Dame, IN 46556\u20135670, USA",
@@ -29,13 +87,13 @@
         "Joint Institute for Nuclear Astrophysics, Michigan State University, East Lansing, MI 46624, USA",
         "Faculty of Chemistry, Institute of Science and Engineering, Kanazawa University, Japan"
       ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "Japan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "N Kinoshita",
         "M Paul",
         "Y Kashiv",
@@ -56,145 +114,37 @@
         "R Vondrasek",
         "A Yokoyama"
       ],
-      "URLS": "https://retractionwatch.com/2023/03/30/one-small-error-for-a-physicist-one-giant-blunder-for-planetary-science/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2023/03/30/one-small-error-for-a-physicist-one-giant-blunder-for-planetary-science/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/30/2023 0:00",
-      "RetractionDOI": "10.1126/science.adh7739",
-      "RetractionPubMedID": "36996231.0",
-      "OriginalPaperDate": "3/30/2012 0:00",
-      "OriginalPaperDOI": "10.1126/science.1215510",
-      "OriginalPaperPubMedID": "22461609.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/30/2023 0:00",
+      "retractiondoi": "10.1126/science.adh7739",
+      "retractionpubmedid": "36996231.0",
+      "originalpaperdate": "3/30/2012 0:00",
+      "originalpaperdoi": "10.1126/science.1215510",
+      "originalpaperpubmedid": "22461609.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Doing the Right Thing",
         "+Error in Analyses",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341778",
-      "Record ID": "55971",
-      "Title": "Arid3b Is Critical for B Lymphocyte Development",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana, United States of America",
-        "Harper Cancer Research Institute, South Bend, Indiana, United States of America",
-        "Institute for Cellular and Molecular Biology, Department of Molecular Biosciences, University of Texas at Austin, Austin, Texas, United States of America",
-        "Department of Microbiology and Immunology, Indiana University School of Medicine, South Bend, Indiana, United States of America",
-        "Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, South Bend, Indiana, United States of America",
-        "Deparment of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, Indiana, United States of America"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Jeffrey L Kurkewich",
-        "Nathan Klopfenstein",
-        "William M Hallas",
-        "Christian Wood",
-        "Rachel A Sattler",
-        "Chhaya Das",
-        "Haley Tucker",
-        "Richard Dahl",
-        "Karen D Cowden Dahl"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/22/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0309551",
-      "RetractionPubMedID": "39172998.0",
-      "OriginalPaperDate": "8/18/2016 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0161468",
-      "OriginalPaperPubMedID": "27537840.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Copyright Claims",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234eefb",
-      "Record ID": "432",
-      "Title": "Endogenous EPCR/aPC-PAR1 signaling prevents inflammation-induced vascular leakage and lethality",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "Departments of Immunology and Microbial Science, and Molecular and Experimental Medicine, The Scripps Research Institute, La Jolla, CA",
-        "University of Notre Dame, IN",
-        "Blood Center of Wisconsin, Milwaukee",
-        "and Department of Chemical Physiology, The Scripps Research Institute, La Jolla, CA"
-      ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Frank Niessen",
-        "Christian Furlan-Freguia",
-        "Jos\u00e9 A Fern\u00e1ndez",
-        "Laurent O Mosnier",
-        "Francis J Castellino",
-        "Hartmut Weiler",
-        "Hugh Rosen",
-        "John H Griffin",
-        "Wolfram Ruf"
-      ],
-      "URLS": "http://retractionwatch.com/2011/06/01/no-confidence-vote-on-sepsis-paper-data-leads-to-blood-retraction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/30/2011 0:00",
-      "RetractionDOI": "10.1182/blood-2011-05-354621",
-      "RetractionPubMedID": "21571990.0",
-      "OriginalPaperDate": "3/19/2009 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2008-12-192385",
-      "OriginalPaperPubMedID": "19141861.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Concerns/Issues about Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2009,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234553a",
-      "Record ID": "40092",
-      "Title": "Colloidal silver diphosphide (AgP2) nanocrystals as low overpotential catalysts for CO2 reduction to tunable syngas",
-      "Subject": [
+      "_id": "687cefb21f662220d898a920",
+      "recordId": "40092",
+      "title": "Colloidal silver diphosphide (AgP2) nanocrystals as low overpotential catalysts for CO2 reduction to tunable syngas",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Chemistry, Wake Forest University, Winston-Salem, NC, 27106, USA",
         "Shenzhen Engineering Lab of Flexible Transparent Conductive Films, School of Materials Science and Engineering, Harbin Institute of Technology, Shenzhen, 518055, China",
         "Center for Nanophase Materials Sciences (CNMS), Oak Ridge National Laboratory (ORNL), Oak Ridge, TN, 37831, USA",
@@ -202,12 +152,12 @@
         "Material Science and Technology Division (MSTD), Oak Ridge National Laboratory (ORNL), Oak Ridge, TN, 37831, USA",
         "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame, IN, 46556, USA"
       ],
-      "Journal": "Nature Communications",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Communications",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hui Li",
         "Peng Wen",
         "Dominique S Itanze",
@@ -221,196 +171,254 @@
         "Yejun Qiu",
         "Scott M Geyer"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/27/2022 0:00",
-      "RetractionDOI": "10.1038/s41467-022-33833-5",
-      "RetractionPubMedID": "36302766.0",
-      "OriginalPaperDate": "12/16/2019 0:00",
-      "OriginalPaperDOI": "10.1038/s41467-019-13388-8",
-      "OriginalPaperPubMedID": "31844056.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/27/2022 0:00",
+      "retractiondoi": "10.1038/s41467-022-33833-5",
+      "retractionpubmedid": "36302766.0",
+      "originalpaperdate": "12/16/2019 0:00",
+      "originalpaperdoi": "10.1038/s41467-019-13388-8",
+      "originalpaperpubmedid": "31844056.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345a46",
-      "Record ID": "38792",
-      "Title": "r-process nucleosynthesis in the MHD+neutrino-heated collapsar jet",
-      "Subject": [
+      "_id": "687cefb51f662220d898ae2c",
+      "recordId": "38792",
+      "title": "r-process nucleosynthesis in the MHD+neutrino-heated collapsar jet",
+      "subject": [
         "(PHY) Astrophysics"
       ],
-      "Institution": [
+      "institution": [
         "Waseda University, Ohkubo 3-4-1, Shinjuku, 169-8555, Tokyo, Japan",
         "National Astronomical Observatory of Japan, Osawa 2-21-1, Mitaka, 181-8588 Tokyo, Japan",
         "Department of Astronomy, Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-0033 Tokyo, Japan",
         "Center for Astrophysics, Department of Physics, University of Notre Dame, Notre Dame, IN 46556, USA"
       ],
-      "Journal": "Astronomy & Astrophysics (A&A)",
-      "Publisher": "EDP Sciences",
-      "Country": [
+      "journal": "Astronomy & Astrophysics (A&A)",
+      "publisher": "EDP Sciences",
+      "country": [
         "Japan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ko Nakamura",
         "Toshitaka Kajino",
         "Grant J Matthews",
         "Susumu Sato",
         "Seiji Harikae"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/23/2022 0:00",
-      "RetractionDOI": "10.1051/aa/20221316",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/1/2015 0:00",
-      "OriginalPaperDOI": "10.1051/0004-6361/201526110",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/23/2022 0:00",
+      "retractiondoi": "10.1051/aa/20221316",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/1/2015 0:00",
+      "originalpaperdoi": "10.1051/0004-6361/201526110",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2015
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e99f",
-      "Record ID": "1835",
-      "Title": "EpiPen: An R Package to Investigate Two-locus Epistatic Models",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993d85",
+      "recordId": "1835",
+      "title": "EpiPen: An R Package to Investigate Two-locus Epistatic Models",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Psychology, University of Notre Dame, Notre Dame, IN, USA",
         "Biological Psychology, VU University Amsterdam, Amsterdam, The Netherlands"
       ],
-      "Journal": "Twin Research and Human Genetics: The Official Journal of the International Society for Twin Studies",
-      "Publisher": "Cambridge University Press",
-      "Country": [
+      "journal": "Twin Research and Human Genetics: The Official Journal of the International Society for Twin Studies",
+      "publisher": "Cambridge University Press",
+      "country": [
         "Netherlands",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Raymond K Walters",
         "Charles Laurin",
         "Gitta H Lubke"
       ],
-      "URLS": "http://retractionwatch.com/2015/01/14/drug-company-lawyer-letter-results-utterly-tedious-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/01/14/drug-company-lawyer-letter-results-utterly-tedious-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/27/2014 0:00",
-      "RetractionDOI": "10.1017/thg.2014.37",
-      "RetractionPubMedID": "24970233.0",
-      "OriginalPaperDate": "4/28/2014 0:00",
-      "OriginalPaperDOI": "10.1017/thg.2014.25",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/27/2014 0:00",
+      "retractiondoi": "10.1017/thg.2014.37",
+      "retractionpubmedid": "24970233.0",
+      "originalpaperdate": "4/28/2014 0:00",
+      "originalpaperdoi": "10.1017/thg.2014.25",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Materials"
       ],
-      "Paywalled": "No",
-      "Notes": "PubMedID for original article not found. 4/14/2017",
-      "notice_year": 2014,
-      "year": 2014
+      "paywalled": "No",
+      "notes": "PubMedID for original article not found. 4/14/2017",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d89942e1",
+      "recordId": "432",
+      "title": "Endogenous EPCR/aPC-PAR1 signaling prevents inflammation-induced vascular leakage and lethality",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Departments of Immunology and Microbial Science, and Molecular and Experimental Medicine, The Scripps Research Institute, La Jolla, CA",
+        "University of Notre Dame, IN",
+        "Blood Center of Wisconsin, Milwaukee",
+        "and Department of Chemical Physiology, The Scripps Research Institute, La Jolla, CA"
+      ],
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Frank Niessen",
+        "Christian Furlan-Freguia",
+        "Jos\u00e9 A Fern\u00e1ndez",
+        "Laurent O Mosnier",
+        "Francis J Castellino",
+        "Hartmut Weiler",
+        "Hugh Rosen",
+        "John H Griffin",
+        "Wolfram Ruf"
+      ],
+      "urls": "http://retractionwatch.com/2011/06/01/no-confidence-vote-on-sepsis-paper-data-leads-to-blood-retraction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/30/2011 0:00",
+      "retractiondoi": "10.1182/blood-2011-05-354621",
+      "retractionpubmedid": "21571990.0",
+      "originalpaperdate": "3/19/2009 0:00",
+      "originalpaperdoi": "10.1182/blood-2008-12-192385",
+      "originalpaperpubmedid": "19141861.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Concerns/Issues about Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -418,10 +426,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -429,10 +437,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

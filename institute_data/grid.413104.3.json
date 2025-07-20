@@ -1,94 +1,41 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068787f9",
+    "_id": "687ccbab09adbf7aa61b941a",
     "grid_id": "grid.413104.3",
     "institute_name": "Sunnybrook Health Science Centre",
     "country": "Canada",
     "retracted_record_ids": [
-      "26817",
-      "53411",
+      "19013",
       "33717",
+      "53411",
       "3918",
-      "19013"
+      "26817"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23488de",
-      "Record ID": "26817",
-      "Title": "24-Hour Rhythms of DNA Methylation and Their Relation with Rhythms of RNA Expression in the Human Dorsolateral Prefrontal Cortex",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Genetics",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Division of Neurology, Department of Medicine, Sunnybrook Health Sciences Centre, University of Toronto, Toronto, Ontario, Canada",
-        "Program in Translational Neuropsychiatric Genomics, Department of Neurology, Brigham and Women\u2019s Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
-        "Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, United States of America",
-        "Rush Alzheimer Disease Center and Department of Neurological Sciences, Rush University, Chicago, Illinois, United States of America",
-        "Department of Psychiatry and Behavioral Sciences, Miller School of Medicine, University of Miami, Miami, Florida, United States of America"
-      ],
-      "Journal": "PLoS Genetics",
-      "Publisher": "PLoS",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Andrew S P Lin",
-        "Gyan P Srivastava",
-        "Lei Yu",
-        "Lori B Chibnik",
-        "Jishu Xu",
-        "Aron S Buchman",
-        "Julie A Schneider",
-        "Amanda J Myers",
-        "David A Bennett",
-        "Philip L de Jager"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/19/2021 0:00",
-      "RetractionDOI": "10.1371/journal.pgen.1009470",
-      "RetractionPubMedID": "33739977.0",
-      "OriginalPaperDate": "11/6/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pgen.1004792",
-      "OriginalPaperPubMedID": "25375876.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Error in Methods",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2342175",
-      "Record ID": "53411",
-      "Title": "Glypican-3 regulates migration, adhesion and actin cytoskeleton organization in mammary tumor cells through Wnt signaling modulation",
-      "Subject": [
+      "_id": "687cef811f662220d898755b",
+      "recordId": "53411",
+      "title": "Glypican-3 regulates migration, adhesion and actin cytoskeleton organization in mammary tumor cells through Wnt signaling modulation",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Cell Biology Department, Research Area, Institute of Oncology \u201cAngel H. Roffo\u201d, University of Buenos Aires, Av. San Mart\u00edn 5481 (C1417DTB), Buenos Aires, Argentina",
         "Molecular and Cellular Biology Research, Sunnybrook and Women\u2032s College Health Science Center, University of Toronto, Toronto, ON, Canada, M4N3M5",
         "Chemistry Institute, University of S\u00e3o Paulo, S\u00e3o Paulo, 05508-900, Brazil"
       ],
-      "Journal": "Breast Cancer Research and Treatment",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Breast Cancer Research and Treatment",
+      "publisher": "Springer",
+      "country": [
         "Argentina",
         "Brazil",
         "Canada"
       ],
-      "Author": [
+      "author": [
         "Ivan Stigliano",
         "Lydia Puricelli",
         "Jorge Filmus",
@@ -96,17 +43,17 @@
         "Elisa Bal de Kier Joff\u00e9",
         "Mar\u00eda Giselle Peters"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/9/2023 0:00",
-      "RetractionDOI": "10.1007/s10549-023-07123-7",
-      "RetractionPubMedID": "37688668.0",
-      "OriginalPaperDate": "4/11/2008 0:00",
-      "OriginalPaperDOI": "10.1007/s10549-008-0009-2",
-      "OriginalPaperPubMedID": "18404367.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/9/2023 0:00",
+      "retractiondoi": "10.1007/s10549-023-07123-7",
+      "retractionpubmedid": "37688668.0",
+      "originalpaperdate": "4/11/2008 0:00",
+      "originalpaperdoi": "10.1007/s10549-008-0009-2",
+      "originalpaperpubmedid": "18404367.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Euphemisms for Duplication",
@@ -114,34 +61,35 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/825AAEC2AFC2616CF006142F77884A",
-      "notice_year": 2023,
-      "year": 2008,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/825AAEC2AFC2616CF006142F77884A",
+      "year": "2008",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346dfd",
-      "Record ID": "33717",
-      "Title": "24-Hour Rhythms of DNA Methylation and Their Relation with Rhythms of RNA Expression in the Human Dorsolateral Prefrontal Cortex",
-      "Subject": [
+      "_id": "687cefca1f662220d898c1e3",
+      "recordId": "33717",
+      "title": "24-Hour Rhythms of DNA Methylation and Their Relation with Rhythms of RNA Expression in the Human Dorsolateral Prefrontal Cortex",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Genetics",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Division of Neurology, Department of Medicine, Sunnybrook Health Sciences Centre, University of Toronto, Toronto, Ontario, Canada",
         "Program in Translational Neuropsychiatric Genomics, Department of Neurology, Brigham and Women\u2019s Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
         "Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, United States of America",
         "Rush Alzheimer Disease Center and Department of Neurological Sciences, Rush University, Chicago, Illinois, United States of America",
         "Department of Psychiatry and Behavioral Sciences, Miller School of Medicine, University of Miami, Miami, Florida, United States of America"
       ],
-      "Journal": "PLoS Genetics",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS Genetics",
+      "publisher": "PLoS",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Andrew S P Lin",
         "Gyan P Srivastava",
         "Lei Yu",
@@ -153,37 +101,135 @@
         "David A Bennett",
         "Philip L de Jager"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/4/2021 0:00",
-      "RetractionDOI": "10.1371/journal.pgen.1009895",
-      "RetractionPubMedID": "34735448.0",
-      "OriginalPaperDate": "11/6/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pgen.1004792",
-      "OriginalPaperPubMedID": "25375876.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/4/2021 0:00",
+      "retractiondoi": "10.1371/journal.pgen.1009895",
+      "retractionpubmedid": "34735448.0",
+      "originalpaperdate": "11/6/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pgen.1004792",
+      "originalpaperpubmedid": "25375876.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Error in Methods",
         "+Error in Results and/or Conclusions",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e1ad",
-      "Record ID": "3918",
-      "Title": "Mortality Trends in Patients with and Without Diabetes in Ontario, Canada and the UK from 1996 to 2009: A Population-based Study",
-      "Subject": [
+      "_id": "687ceff81f662220d898dcc4",
+      "recordId": "26817",
+      "title": "24-Hour Rhythms of DNA Methylation and Their Relation with Rhythms of RNA Expression in the Human Dorsolateral Prefrontal Cortex",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Genetics",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Division of Neurology, Department of Medicine, Sunnybrook Health Sciences Centre, University of Toronto, Toronto, Ontario, Canada",
+        "Program in Translational Neuropsychiatric Genomics, Department of Neurology, Brigham and Women\u2019s Hospital, Harvard Medical School, Boston, Massachusetts, United States of America",
+        "Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, United States of America",
+        "Rush Alzheimer Disease Center and Department of Neurological Sciences, Rush University, Chicago, Illinois, United States of America",
+        "Department of Psychiatry and Behavioral Sciences, Miller School of Medicine, University of Miami, Miami, Florida, United States of America"
+      ],
+      "journal": "PLoS Genetics",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Andrew S P Lin",
+        "Gyan P Srivastava",
+        "Lei Yu",
+        "Lori B Chibnik",
+        "Jishu Xu",
+        "Aron S Buchman",
+        "Julie A Schneider",
+        "Amanda J Myers",
+        "David A Bennett",
+        "Philip L de Jager"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/19/2021 0:00",
+      "retractiondoi": "10.1371/journal.pgen.1009470",
+      "retractionpubmedid": "33739977.0",
+      "originalpaperdate": "11/6/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pgen.1004792",
+      "originalpaperpubmedid": "25375876.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Error in Methods",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fb20",
+      "recordId": "19013",
+      "title": "Noninvasive Follicular Thyroid Neoplasm with Papillary-Like Nuclear Features: Historical Context, Diagnosis, and Future Challenges",
+      "subject": [
+        "(BLS) Biology - Cancer"
+      ],
+      "institution": [
+        "Sunnybrook Health Sciences Centre, Toronto, Canada",
+        "Department of Medicine (Dipartimento di Medicina Specialistica Diagnostica e Sperimentale), University of Bologna School of Medicine, Anatomic Pathology, Ospedale Bellaria, Bologna, Italy",
+        "Department of Pathology, Memorial Sloan-Kettering Cancer Center, New York, USA"
+      ],
+      "journal": "Endocrine Pathology",
+      "publisher": "Springer",
+      "country": [
+        "Canada",
+        "Italy",
+        "United States"
+      ],
+      "author": [
+        "Bin Xu",
+        "Giovanni Tallini",
+        "Ronald A Ghossein"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "8/7/2018 0:00",
+      "retractiondoi": "10.1007/s12022-018-9542-7",
+      "retractionpubmedid": "30088224.0",
+      "originalpaperdate": "3/30/2017 0:00",
+      "originalpaperdoi": "10.1007/s12022-017-9478-3",
+      "originalpaperpubmedid": "28361392.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d8993593",
+      "recordId": "3918",
+      "title": "Mortality Trends in Patients with and Without Diabetes in Ontario, Canada and the UK from 1996 to 2009: A Population-based Study",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Diabetes"
       ],
-      "Institution": [
+      "institution": [
         "Department of Molecular and Clinical Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden",
         "Department of Medicine, Uddevalla Hospital, Uddevalla, Sweden",
         "Spanish Centre for Pharmacoepidemiologic Research (CEIFE), Madrid, Spain",
@@ -192,14 +238,14 @@
         "Statistiska Konsultgruppen, Gothenburg, Sweden",
         "Women\u2019s College Research Institute, Women\u2019s College Hospital, University of Toronto, Toronto, Canada"
       ],
-      "Journal": "Diabetologia",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Diabetologia",
+      "publisher": "Springer",
+      "country": [
         "Canada",
         "Spain",
         "Sweden"
       ],
-      "Author": [
+      "author": [
         "Marcus Lind",
         "Luis A Garcia-Rodriguez",
         "Gillian L Booth",
@@ -208,112 +254,72 @@
         "Gunner Ekeroth",
         "Lorraine L Lipscombe"
       ],
-      "URLS": "http://retractionwatch.com/2014/08/22/diabetes-researchers-retract-correct-and-republish-study-on-mortality-rates/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/08/22/diabetes-researchers-retract-correct-and-republish-study-on-mortality-rates/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "12/1/2013 0:00",
-      "RetractionDOI": "10.1007/s00125-013-2949-2",
-      "RetractionPubMedID": "23793714.0",
-      "OriginalPaperDate": "6/22/2013 0:00",
-      "OriginalPaperDOI": "10.1007/s00125-013-2949-2",
-      "OriginalPaperPubMedID": "23793714.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2013 0:00",
+      "retractiondoi": "10.1007/s00125-013-2949-2",
+      "retractionpubmedid": "23793714.0",
+      "originalpaperdate": "6/22/2013 0:00",
+      "originalpaperdoi": "10.1007/s00125-013-2949-2",
+      "originalpaperpubmedid": "23793714.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Image",
         "+Error in Methods",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "Notes": "See https://link.springer.com/article/10.1007%2Fs00125-013-3063-1",
-      "notice_year": 2013,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a73a",
-      "Record ID": "19013",
-      "Title": "Noninvasive Follicular Thyroid Neoplasm with Papillary-Like Nuclear Features: Historical Context, Diagnosis, and Future Challenges",
-      "Subject": [
-        "(BLS) Biology - Cancer"
-      ],
-      "Institution": [
-        "Sunnybrook Health Sciences Centre, Toronto, Canada",
-        "Department of Medicine (Dipartimento di Medicina Specialistica Diagnostica e Sperimentale), University of Bologna School of Medicine, Anatomic Pathology, Ospedale Bellaria, Bologna, Italy",
-        "Department of Pathology, Memorial Sloan-Kettering Cancer Center, New York, USA"
-      ],
-      "Journal": "Endocrine Pathology",
-      "Publisher": "Springer",
-      "Country": [
-        "Canada",
-        "Italy",
-        "United States"
-      ],
-      "Author": [
-        "Bin Xu",
-        "Giovanni Tallini",
-        "Ronald A Ghossein"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "8/7/2018 0:00",
-      "RetractionDOI": "10.1007/s12022-018-9542-7",
-      "RetractionPubMedID": "30088224.0",
-      "OriginalPaperDate": "3/30/2017 0:00",
-      "OriginalPaperDOI": "10.1007/s12022-017-9478-3",
-      "OriginalPaperPubMedID": "28361392.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017
+      "paywalled": "No",
+      "notes": "See https://link.springer.com/article/10.1007%2Fs00125-013-3063-1",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -321,10 +327,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -332,10 +338,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -343,10 +349,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

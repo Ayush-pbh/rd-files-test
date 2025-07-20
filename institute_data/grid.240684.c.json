@@ -1,33 +1,90 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878598",
+    "_id": "687ccbab09adbf7aa61b91b9",
     "grid_id": "grid.240684.c",
     "institute_name": "Rush University Medical Center",
     "country": "United States",
     "retracted_record_ids": [
-      "54006",
-      "55580",
-      "2373",
-      "2891",
-      "20385",
-      "46053",
       "53227",
+      "35195",
+      "20385",
       "8211",
+      "55580",
+      "54006",
+      "2891",
+      "2373",
       "16215",
-      "2398",
-      "35195"
+      "46053",
+      "2398"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341f23",
-      "Record ID": "54006",
-      "Title": "Pericyte degeneration causes white matter dysfunction in the mouse central nervous system",
-      "Subject": [
+      "_id": "687cef791f662220d8986ce5",
+      "recordId": "55580",
+      "title": "Fibroblast growth factor receptor 1 is principally responsible for fibroblast growth factor 2-induced catabolic activities in human articular chondrocytes",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Biochemistry, Rush University Medical Center, 1735 W Harrison Street, Chicago, IL, 60612, USA",
+        "Department of Internal Medicine, Section of Rheumatology, Rush University Medical Center, 1735 W Harrison Street, Chicago, IL, 60612, USA",
+        "Orthopedic Surgery, Rush University Medical Center, 1735 W Harrison Street, Chicago, IL, 60612, USA",
+        "Department of Bioengineering, University of Illinois, 1304 West Springfield Avenue, Chicago, IL, 60612, USA",
+        "Department of Stem Cells and Tissue Repair, Institute of Medical Biology, A*STAR, 8A Biomedical Grove, #06-06, Immunos, 138648, Singapore",
+        "Division of Musculoskeletal Oncology, Department of Orthopaedic Surgery, Yong Loo Lin School of Medicine, National University of Singapore, 5 Lower Kent Ridge Road, 119074, Singapore",
+        "Department of Cell Biology, University of Massachusetts Medical School, 55 Lake Avenue North, Worcester, MA, 01655, USA",
+        "Department of Oncology, Cambridge University, Cancer Research Institute, Li Ka Shing Center, Robinson Way, Cambridge, CB2 ORE, UK"
+      ],
+      "journal": "Arthritis Research and Therapy",
+      "publisher": "Springer",
+      "country": [
+        "Singapore",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Dongyao Yan",
+        "Di Chen",
+        "Simon M Cool",
+        "Andre J van Wijnen",
+        "Katalin Mikecz",
+        "Gillian Murphy",
+        "Hee-Jeong Im"
+      ],
+      "urls": "https://retractionwatch.com/2023/11/06/a-travesty-a-researcher-found-guilty-of-misconduct-by-federal-u-s-government-responds/;https://retractionwatch.com/2023/11/03/us-va-scientist-banned-from-agency-research-for-faking-data/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/7/2024 0:00",
+      "retractiondoi": "10.1186/s13075-024-03381-y",
+      "retractionpubmedid": "39113138.0",
+      "originalpaperdate": "8/11/2011 0:00",
+      "originalpaperdoi": "10.1186/ar3441",
+      "originalpaperpubmedid": "21835001.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "notes": "https://www.federalregister.gov/documents/2023/11/03/2023-24342/findings-of-research-misconduct; Hee-Jeong Im aka Hee-Jeong Im Sampen;",
+      "year": "2011",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7f1f662220d8987309",
+      "recordId": "54006",
+      "title": "Pericyte degeneration causes white matter dysfunction in the mouse central nervous system",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Zilkha Neurogenetic Institute, Keck School of Medicine, University of Southern California, Los Angeles, California, USA",
         "Department of Physiology and Neuroscience, Keck School of Medicine, University of Southern California, Los Angeles, California, USA",
         "Department of Neurobiology, Institute for Biological Research, University of Belgrade, Belgrade, Republic of Serbia",
@@ -37,13 +94,13 @@
         "Alzheimer\u2019s Disease Center, Rush University Medical Center, Chicago, Illinois, USA",
         "Division of Hematology and Cancer and Blood Diseases Institute, Cincinnati Children\u2019s Hospital Medical Center, University of Cincinnati College of Medicine, Cincinnati, Ohio, USA"
       ],
-      "Journal": "Nature Medicine",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Medicine",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Serbia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Axel Montagne",
         "Angeliki M Nikolakopoulou",
         "Zhen Zhao",
@@ -65,275 +122,42 @@
         "Russell E Jacobs",
         "Berislav V Zlokovic"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/5/2024 0:00",
-      "RetractionDOI": "10.1038/s41591-024-02935-6",
-      "RetractionPubMedID": "38580816.0",
-      "OriginalPaperDate": "2/5/2018 0:00",
-      "OriginalPaperDOI": "10.1038/nm.4482",
-      "OriginalPaperPubMedID": "29400711.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/5/2024 0:00",
+      "retractiondoi": "10.1038/s41591-024-02935-6",
+      "retractionpubmedid": "38580816.0",
+      "originalpaperdate": "2/5/2018 0:00",
+      "originalpaperdoi": "10.1038/nm.4482",
+      "originalpaperpubmedid": "29400711.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Error in Image",
         "+Euphemisms for Duplication",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/5BEF7F4B3D6C901FF3872232A3FE01",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/5BEF7F4B3D6C901FF3872232A3FE01",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23418ff",
-      "Record ID": "55580",
-      "Title": "Fibroblast growth factor receptor 1 is principally responsible for fibroblast growth factor 2-induced catabolic activities in human articular chondrocytes",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Biochemistry, Rush University Medical Center, 1735 W Harrison Street, Chicago, IL, 60612, USA",
-        "Department of Internal Medicine, Section of Rheumatology, Rush University Medical Center, 1735 W Harrison Street, Chicago, IL, 60612, USA",
-        "Orthopedic Surgery, Rush University Medical Center, 1735 W Harrison Street, Chicago, IL, 60612, USA",
-        "Department of Bioengineering, University of Illinois, 1304 West Springfield Avenue, Chicago, IL, 60612, USA",
-        "Department of Stem Cells and Tissue Repair, Institute of Medical Biology, A*STAR, 8A Biomedical Grove, #06-06, Immunos, 138648, Singapore",
-        "Division of Musculoskeletal Oncology, Department of Orthopaedic Surgery, Yong Loo Lin School of Medicine, National University of Singapore, 5 Lower Kent Ridge Road, 119074, Singapore",
-        "Department of Cell Biology, University of Massachusetts Medical School, 55 Lake Avenue North, Worcester, MA, 01655, USA",
-        "Department of Oncology, Cambridge University, Cancer Research Institute, Li Ka Shing Center, Robinson Way, Cambridge, CB2 ORE, UK"
-      ],
-      "Journal": "Arthritis Research and Therapy",
-      "Publisher": "Springer",
-      "Country": [
-        "Singapore",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Dongyao Yan",
-        "Di Chen",
-        "Simon M Cool",
-        "Andre J van Wijnen",
-        "Katalin Mikecz",
-        "Gillian Murphy",
-        "Hee-Jeong Im"
-      ],
-      "URLS": "https://retractionwatch.com/2023/11/06/a-travesty-a-researcher-found-guilty-of-misconduct-by-federal-u-s-government-responds/;https://retractionwatch.com/2023/11/03/us-va-scientist-banned-from-agency-research-for-faking-data/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/7/2024 0:00",
-      "RetractionDOI": "10.1186/s13075-024-03381-y",
-      "RetractionPubMedID": "39113138.0",
-      "OriginalPaperDate": "8/11/2011 0:00",
-      "OriginalPaperDOI": "10.1186/ar3441",
-      "OriginalPaperPubMedID": "21835001.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "Notes": "https://www.federalregister.gov/documents/2023/11/03/2023-24342/findings-of-research-misconduct; Hee-Jeong Im aka Hee-Jeong Im Sampen;",
-      "notice_year": 2024,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e790",
-      "Record ID": "2373",
-      "Title": "29 Inorganic polyphosphate is a potent activator of the mitochondrial permeability transition pore in cardiac myocytes",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Cardiology"
-      ],
-      "Institution": [
-        "Rush University Medical Center, Chicago, IL, USA Dalhousie University, Halifax, NS, Canada"
-      ],
-      "Journal": "Heart",
-      "Publisher": "BMJ Publishing",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "L Seidlmayer",
-        "L A Blatter",
-        "E Pavlov",
-        "E N Dedkova"
-      ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "5/1/2013 0:00",
-      "RetractionDOI": "10.1136/heartjnl-2011-301156.29ret",
-      "RetractionPubMedID": "23776966.0",
-      "OriginalPaperDate": "11/24/2011 0:00",
-      "OriginalPaperDOI": "10.1136/heartjnl-2011-301156.29",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Reinstatement",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "Notes": "Correction to the retraction at https://heart.bmj.com/content/99/14/1063.2.info reinstates the abstract and retracts the retraction.",
-      "notice_year": 2013,
-      "year": 2011,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234e595",
-      "Record ID": "2891",
-      "Title": "Prospective, randomized, controlled trial of silicate-substituted calcium phosphate versus rhBMP-2 in a minimally invasive transforaminal lumbar interbody fusion",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Orthopedic Surgery, Rush University Medical Center, Chicago"
-      ],
-      "Journal": "Spine",
-      "Publisher": "Lippincott Williams and Wilkins",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Sreeharsha V Nandyala",
-        "Alejandro Marquez-Lara",
-        "Steven J Fineberg",
-        "Miguel Pelton",
-        "Kern Singh"
-      ],
-      "URLS": "http://retractionwatch.com/2016/06/14/authors-retract-surgery-study-that-claimed-to-be-randomized-but-wasnt/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "3/1/2016 0:00",
-      "RetractionDOI": "10.1097/BRS.0000000000001490",
-      "RetractionPubMedID": "26966978.0",
-      "OriginalPaperDate": "2/1/2014 0:00",
-      "OriginalPaperDOI": "10.1097/BRS.0000000000000106",
-      "OriginalPaperPubMedID": "24253788.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Third Party",
-        "+Error in Methods",
-        "+Error in Text",
-        "+Miscommunication with/by Third Party"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a1e6",
-      "Record ID": "20385",
-      "Title": "Limited post-operative dexamethasone use does not affect lumbar fusion: a single institutional experience",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Neurosurgery, Rush University Medical Center, Chicago, IL, USA Department of Neurosurgery, University of Cincinnati Medical Center, Cincinnati, OH, USA"
-      ],
-      "Journal": "Journal of Spine Surgery",
-      "Publisher": "AME Publishing Company",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Owoicho Adogwa",
-        "Victoria D Vuong",
-        "Daniel T Lilly",
-        "Shyam A Desai",
-        "Ryan Khanna",
-        "Shahjehan Ahmad",
-        "Josha Woodward",
-        "Syed Khalid",
-        "Joseph Cheng"
-      ],
-      "URLS": "http://retractionwatch.com/2019/05/07/authors-remorse-researchers-retract-paper-so-they-can-publish-it-in-a-journal-with-a-higher-impact-factor/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/1/2019 0:00",
-      "RetractionDOI": "10.21037/jss.2019.03.03",
-      "RetractionPubMedID": "31032458.0",
-      "OriginalPaperDate": "6/1/2018 0:00",
-      "OriginalPaperDOI": "10.21037/jss.2018.05.20",
-      "OriginalPaperPubMedID": "30069515.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Notice - Limited or No Information",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343e0f",
-      "Record ID": "46053",
-      "Title": "Pre-operative embolization followed by clipping of Cognard type V dural arteriovenous fistula",
-      "Subject": [
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Neurological Surgery, Rush University Medical Center, Chicago, Illinois, USA"
-      ],
-      "Journal": "Journal of Neurointerventional Surgery",
-      "Publisher": "BMJ Publishing",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Krishna C Joshi",
-        "Andr\u00e9 Beer-Furlan",
-        "R Webster Crowley",
-        "Stephan A Munich"
-      ],
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "7/14/2023 0:00",
-      "RetractionDOI": "10.1136/neurintsurg-2020-017201ret",
-      "RetractionPubMedID": "37451827.0",
-      "OriginalPaperDate": "3/25/2021 0:00",
-      "OriginalPaperDOI": "10.1136/neurintsurg-2020-017201",
-      "OriginalPaperPubMedID": "33766939.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Lack of Approval from Third Party",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234221e",
-      "Record ID": "53227",
-      "Title": "PKC\u03b4 null mutations in a mouse model of osteoarthritis alter osteoarthritic pain independently of joint pathology by augmenting NGF/TrkA-induced axonal outgrowth",
-      "Subject": [
+      "_id": "687cef811f662220d8987604",
+      "recordId": "53227",
+      "title": "PKC\u03b4 null mutations in a mouse model of osteoarthritis alter osteoarthritic pain independently of joint pathology by augmenting NGF/TrkA-induced axonal outgrowth",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Orthopedics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biochemistry, Rush University Medical Center, Chicago, Illinois, USA",
         "Department of Anesthesiology, Rush University Medical Center, Chicago, Illinois, USA",
         "Department of Biology and Shenzhen Key Laboratory of Cell Microenvironment, South University of Science and Technology of China, Shenzhen, China",
@@ -345,14 +169,14 @@
         "Department of Bioengineering, University of Illinois at Chicago, Illinois, USA",
         "Jesse Brown Veterans Affairs Medical Center at Chicago, Illinois, USA"
       ],
-      "Journal": "Annals of the Rheumatic Diseases",
-      "Publisher": "BMJ Publishing",
-      "Country": [
+      "journal": "Annals of the Rheumatic Diseases",
+      "publisher": "BMJ Publishing",
+      "country": [
         "China",
         "Israel",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ranjan Kc",
         "Xin Li",
         "Jeffrey S Kroin",
@@ -369,18 +193,18 @@
         "Ela Kolb",
         "Hee-Jeong Im"
       ],
-      "URLS": "https://retractionwatch.com/2023/11/03/us-va-scientist-banned-from-agency-research-for-faking-data/;https://retractionwatch.com/2023/11/06/a-travesty-a-researcher-found-guilty-of-misconduct-by-federal-u-s-government-responds/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2023/11/03/us-va-scientist-banned-from-agency-research-for-faking-data/;https://retractionwatch.com/2023/11/06/a-travesty-a-researcher-found-guilty-of-misconduct-by-federal-u-s-government-responds/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/22/2024 0:00",
-      "RetractionDOI": "10.1136/annrheumdis-2015-208444ret",
-      "RetractionPubMedID": "38649190.0",
-      "OriginalPaperDate": "1/18/2016 0:00",
-      "OriginalPaperDOI": "10.1136/annrheumdis-2015-208444",
-      "OriginalPaperPubMedID": "26783110.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/22/2024 0:00",
+      "retractiondoi": "10.1136/annrheumdis-2015-208444ret",
+      "retractionpubmedid": "38649190.0",
+      "originalpaperdate": "1/18/2016 0:00",
+      "originalpaperdoi": "10.1136/annrheumdis-2015-208444",
+      "originalpaperpubmedid": "26783110.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Falsification/Fabrication of Image",
         "+Investigation by Company/Institution",
@@ -388,22 +212,220 @@
         "+Misconduct by Author",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/AF151687718F32174F99039FF4CB4A; see also https://www.federalregister.gov/documents/2023/11/03/2023-24342/findings-of-research-misconduct",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/AF151687718F32174F99039FF4CB4A; see also https://www.federalregister.gov/documents/2023/11/03/2023-24342/findings-of-research-misconduct",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d12f",
-      "Record ID": "8211",
-      "Title": "D-Cycloserine Augmentation of Exposure-Based Cognitive Behavior Therapy for Anxiety, Obsessive-Compulsive, and Posttraumatic Stress Disorders: A Systematic Review and Meta-analysis",
-      "Subject": [
+      "_id": "687cef9c1f662220d89891f5",
+      "recordId": "46053",
+      "title": "Pre-operative embolization followed by clipping of Cognard type V dural arteriovenous fistula",
+      "subject": [
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Neurological Surgery, Rush University Medical Center, Chicago, Illinois, USA"
+      ],
+      "journal": "Journal of Neurointerventional Surgery",
+      "publisher": "BMJ Publishing",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Krishna C Joshi",
+        "Andr\u00e9 Beer-Furlan",
+        "R Webster Crowley",
+        "Stephan A Munich"
+      ],
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "7/14/2023 0:00",
+      "retractiondoi": "10.1136/neurintsurg-2020-017201ret",
+      "retractionpubmedid": "37451827.0",
+      "originalpaperdate": "3/25/2021 0:00",
+      "originalpaperdoi": "10.1136/neurintsurg-2020-017201",
+      "originalpaperpubmedid": "33766939.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Lack of Approval from Third Party",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bc20",
+      "recordId": "35195",
+      "title": "Calcium-dependent cytosolic phospholipase A2 activation is implicated in neuroinflammation and oxidative stress associated with ApoE4",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Departments of Medicine and Neurology, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA",
+        "Huntington Medical Research Institutes, Pasadena, CA, USA",
+        "National Institute on Alcohol Abuse and Alcoholism, Bethesda, MD, USA",
+        "Rush Alzheimer\u2019s Disease Center, Rush University Medical Center, Chicago, IL, USA",
+        "Department of Medicine, Duke University Medical Center, Durham Veterans Health Administration Medical Center\u2019s Geriatric Research, Education and Clinical Center, Durham, NC, USA",
+        "The City University of New York School of Medicine, New York, NY, USA",
+        "Graduate School of The City University of New York, New York, USA"
+      ],
+      "journal": "Molecular Neurodegeneration",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Shaowei Wang",
+        "Boyang Li",
+        "Victoria Solomon",
+        "Alfred Fonteh",
+        "Stanley Isaac Rapoport",
+        "David A Bennett",
+        "Zoe Arvanitakis",
+        "Helena C Chui",
+        "Carol Miller",
+        "Patrick M Sullivan",
+        "Hoau Yan Wang",
+        "Hussein N Yassine"
+      ],
+      "urls": "https://retractionwatch.com/?s=stanley+rapoport;https://retractionwatch.com/2022/03/30/five-studies-linked-to-cassava-biosciences-retracted/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/4/2022 0:00",
+      "retractiondoi": "10.1186/s13024-022-00519-x",
+      "retractionpubmedid": "35115039.0",
+      "originalpaperdate": "4/16/2021 0:00",
+      "originalpaperdoi": "10.1186/s13024-021-00438-3",
+      "originalpaperpubmedid": "33863362.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f5cc",
+      "recordId": "20385",
+      "title": "Limited post-operative dexamethasone use does not affect lumbar fusion: a single institutional experience",
+      "subject": [
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Neurosurgery, Rush University Medical Center, Chicago, IL, USA Department of Neurosurgery, University of Cincinnati Medical Center, Cincinnati, OH, USA"
+      ],
+      "journal": "Journal of Spine Surgery",
+      "publisher": "AME Publishing Company",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Owoicho Adogwa",
+        "Victoria D Vuong",
+        "Daniel T Lilly",
+        "Shyam A Desai",
+        "Ryan Khanna",
+        "Shahjehan Ahmad",
+        "Josha Woodward",
+        "Syed Khalid",
+        "Joseph Cheng"
+      ],
+      "urls": "http://retractionwatch.com/2019/05/07/authors-remorse-researchers-retract-paper-so-they-can-publish-it-in-a-journal-with-a-higher-impact-factor/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/1/2019 0:00",
+      "retractiondoi": "10.21037/jss.2019.03.03",
+      "retractionpubmedid": "31032458.0",
+      "originalpaperdate": "6/1/2018 0:00",
+      "originalpaperdoi": "10.21037/jss.2018.05.20",
+      "originalpaperpubmedid": "30069515.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Notice - Limited or No Information",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0991f662220d89905f6",
+      "recordId": "16215",
+      "title": "COX-2 inhibitors in sports medicine: utility and controversy",
+      "subject": [
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Medicine - Sports"
+      ],
+      "institution": [
+        "Rush-Presbyterian-St Luke\u2019s Medical Center, Chicago, IL, USA",
+        "Tufts University School of Medicine, Boston, MA, USA"
+      ],
+      "journal": "British Journal of Sports Medicine",
+      "publisher": "BMJ Publishing",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Asokumar Buvanendran",
+        "Scott S Reuben"
+      ],
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "9/1/2010 0:00",
+      "retractiondoi": "10.1136/bjsm.2006.028944corr1",
+      "retractionpubmedid": "16950884.0",
+      "originalpaperdate": "11/1/2006 0:00",
+      "originalpaperdoi": "10.1136/bjsm.2006.028944",
+      "originalpaperpubmedid": "16950884.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Conflict of Interest",
+        "+Criminal Proceedings",
+        "+Investigation by Company/Institution",
+        "+Investigation by Third Party",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "Yes",
+      "year": "2006",
+      "noticeYear": "2010",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d8992515",
+      "recordId": "8211",
+      "title": "D-Cycloserine Augmentation of Exposure-Based Cognitive Behavior Therapy for Anxiety, Obsessive-Compulsive, and Posttraumatic Stress Disorders: A Systematic Review and Meta-analysis",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Neuroscience",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Centre for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden",
         "Stockholm Health Care Services, Stockholm County Council, Stockholm, Sweden",
         "Institute of Psychiatry, Psychology, and Neuroscience, Department of Psychology, King\u2019s College London, London, United Kingdom",
@@ -437,15 +459,15 @@
         "Department of Human Development and Family Studies, Iowa State University, Ames, USA",
         "Cuny School of Public Health, City University of New York Graduate School of Public Health and Health Policy, New York, USA"
       ],
-      "Journal": "JAMA Psychiatry",
-      "Publisher": "American Medical Association",
-      "Country": [
+      "journal": "JAMA Psychiatry",
+      "publisher": "American Medical Association",
+      "country": [
         "Australia",
         "Sweden",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "David Mataix-Cols",
         "Lorena Fern\u00e1ndez de la Cruz",
         "Benedetta Monzani",
@@ -485,106 +507,107 @@
         "Christian R\u00fcck",
         "DCS Anxiety Consortium"
       ],
-      "ArticleType": [
+      "articletype": [
         "Meta-Analysis"
       ],
-      "RetractionDate": "5/1/2017 0:00",
-      "RetractionDOI": "10.1001/jamapsychiatry.2017.0144",
-      "RetractionPubMedID": "28297011.0",
-      "OriginalPaperDate": "5/1/2017 0:00",
-      "OriginalPaperDOI": "10.1001/jamapsychiatry.2016.3955",
-      "OriginalPaperPubMedID": "28122091.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "5/1/2017 0:00",
+      "retractiondoi": "10.1001/jamapsychiatry.2017.0144",
+      "retractionpubmedid": "28297011.0",
+      "originalpaperdate": "5/1/2017 0:00",
+      "originalpaperdoi": "10.1001/jamapsychiatry.2016.3955",
+      "originalpaperpubmedid": "28122091.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Results and/or Conclusions",
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b210",
-      "Record ID": "16215",
-      "Title": "COX-2 inhibitors in sports medicine: utility and controversy",
-      "Subject": [
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(HSC) Medicine - Sports"
+      "_id": "687cf0cd1f662220d899397b",
+      "recordId": "2891",
+      "title": "Prospective, randomized, controlled trial of silicate-substituted calcium phosphate versus rhBMP-2 in a minimally invasive transforaminal lumbar interbody fusion",
+      "subject": [
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Rush-Presbyterian-St Luke\u2019s Medical Center, Chicago, IL, USA",
-        "Tufts University School of Medicine, Boston, MA, USA"
+      "institution": [
+        "Department of Orthopedic Surgery, Rush University Medical Center, Chicago"
       ],
-      "Journal": "British Journal of Sports Medicine",
-      "Publisher": "BMJ Publishing",
-      "Country": [
+      "journal": "Spine",
+      "publisher": "Lippincott Williams and Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Asokumar Buvanendran",
-        "Scott S Reuben"
+      "author": [
+        "Sreeharsha V Nandyala",
+        "Alejandro Marquez-Lara",
+        "Steven J Fineberg",
+        "Miguel Pelton",
+        "Kern Singh"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/",
-      "ArticleType": [
-        "Review Article"
+      "urls": "http://retractionwatch.com/2016/06/14/authors-retract-surgery-study-that-claimed-to-be-randomized-but-wasnt/",
+      "articletype": [
+        "Clinical Study"
       ],
-      "RetractionDate": "9/1/2010 0:00",
-      "RetractionDOI": "10.1136/bjsm.2006.028944corr1",
-      "RetractionPubMedID": "16950884.0",
-      "OriginalPaperDate": "11/1/2006 0:00",
-      "OriginalPaperDOI": "10.1136/bjsm.2006.028944",
-      "OriginalPaperPubMedID": "16950884.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Conflict of Interest",
-        "+Criminal Proceedings",
-        "+Investigation by Company/Institution",
-        "+Investigation by Third Party",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
+      "retractiondate": "3/1/2016 0:00",
+      "retractiondoi": "10.1097/BRS.0000000000001490",
+      "retractionpubmedid": "26966978.0",
+      "originalpaperdate": "2/1/2014 0:00",
+      "originalpaperdoi": "10.1097/BRS.0000000000000106",
+      "originalpaperpubmedid": "24253788.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Third Party",
+        "+Error in Methods",
+        "+Error in Text",
+        "+Miscommunication with/by Third Party"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2010,
-      "year": 2006,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e77a",
-      "Record ID": "2398",
-      "Title": "Preventing the development of chronic pain after orthopaedic surgery with preventive multimodal analgesic techniques",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993b60",
+      "recordId": "2398",
+      "title": "Preventing the development of chronic pain after orthopaedic surgery with preventive multimodal analgesic techniques",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, Baystate Medical Center, 759 Chestnut Street, Springfield, MA 01199, USA",
         "Department of Anesthesiology, Rush University Medical Center, 1653 West Congress Parkway, Suite 739, Jelke Building, Chicago, IL 60612, USA"
       ],
-      "Journal": "The Journal of Bone and Joint Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "The Journal of Bone and Joint Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Asokumar Buvanendran"
       ],
-      "URLS": "http://retractionwatch.com/?s=Scott+Reuben;http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=Scott+Reuben;http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "19339584.0",
-      "OriginalPaperDate": "6/1/2007 0:00",
-      "OriginalPaperDOI": "10.2106/JBJS.F.00906",
-      "OriginalPaperPubMedID": "17545440.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "19339584.0",
+      "originalpaperdate": "6/1/2007 0:00",
+      "originalpaperdoi": "10.2106/JBJS.F.00906",
+      "originalpaperpubmedid": "17545440.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -592,88 +615,76 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott S Reuben named in NIH finding of misconduct",
-      "notice_year": 2009,
-      "year": 2007,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott S Reuben named in NIH finding of misconduct",
+      "year": "2007",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234683a",
-      "Record ID": "35195",
-      "Title": "Calcium-dependent cytosolic phospholipase A2 activation is implicated in neuroinflammation and oxidative stress associated with ApoE4",
-      "Subject": [
-        "(BLS) Biochemistry",
+      "_id": "687cf0cf1f662220d8993b76",
+      "recordId": "2373",
+      "title": "29 Inorganic polyphosphate is a potent activator of the mitochondrial permeability transition pore in cardiac myocytes",
+      "subject": [
         "(BLS) Biology - Cellular",
-        "(BLS) Neuroscience"
+        "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
-        "Departments of Medicine and Neurology, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA",
-        "Huntington Medical Research Institutes, Pasadena, CA, USA",
-        "National Institute on Alcohol Abuse and Alcoholism, Bethesda, MD, USA",
-        "Rush Alzheimer\u2019s Disease Center, Rush University Medical Center, Chicago, IL, USA",
-        "Department of Medicine, Duke University Medical Center, Durham Veterans Health Administration Medical Center\u2019s Geriatric Research, Education and Clinical Center, Durham, NC, USA",
-        "The City University of New York School of Medicine, New York, NY, USA",
-        "Graduate School of The City University of New York, New York, USA"
+      "institution": [
+        "Rush University Medical Center, Chicago, IL, USA Dalhousie University, Halifax, NS, Canada"
       ],
-      "Journal": "Molecular Neurodegeneration",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "Heart",
+      "publisher": "BMJ Publishing",
+      "country": [
+        "Canada",
         "United States"
       ],
-      "Author": [
-        "Shaowei Wang",
-        "Boyang Li",
-        "Victoria Solomon",
-        "Alfred Fonteh",
-        "Stanley Isaac Rapoport",
-        "David A Bennett",
-        "Zoe Arvanitakis",
-        "Helena C Chui",
-        "Carol Miller",
-        "Patrick M Sullivan",
-        "Hoau Yan Wang",
-        "Hussein N Yassine"
+      "author": [
+        "L Seidlmayer",
+        "L A Blatter",
+        "E Pavlov",
+        "E N Dedkova"
       ],
-      "URLS": "https://retractionwatch.com/?s=stanley+rapoport;https://retractionwatch.com/2022/03/30/five-studies-linked-to-cassava-biosciences-retracted/",
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Conference Abstract/Paper"
       ],
-      "RetractionDate": "2/4/2022 0:00",
-      "RetractionDOI": "10.1186/s13024-022-00519-x",
-      "RetractionPubMedID": "35115039.0",
-      "OriginalPaperDate": "4/16/2021 0:00",
-      "OriginalPaperDOI": "10.1186/s13024-021-00438-3",
-      "OriginalPaperPubMedID": "33863362.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data"
+      "retractiondate": "5/1/2013 0:00",
+      "retractiondoi": "10.1136/heartjnl-2011-301156.29ret",
+      "retractionpubmedid": "23776966.0",
+      "originalpaperdate": "11/24/2011 0:00",
+      "originalpaperdoi": "10.1136/heartjnl-2011-301156.29",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Reinstatement",
+      "reason": [
+        "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Correction to the retraction at https://heart.bmj.com/content/99/14/1063.2.info reinstates the abstract and retracts the retraction.",
+      "year": "2011",
+      "noticeYear": "2013",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -681,10 +692,10 @@
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -692,109 +703,109 @@
     {
       "year": 2010,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -802,10 +813,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -813,10 +824,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

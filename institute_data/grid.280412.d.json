@@ -1,68 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687953e",
+    "_id": "687ccbab09adbf7aa61ba15f",
     "grid_id": "grid.280412.d",
     "institute_name": "University of Puerto Rico at R\u00edo Piedras",
     "country": "United States",
     "retracted_record_ids": [
-      "5008",
-      "31328"
+      "31328",
+      "5008"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234dd7c",
-      "Record ID": "5008",
-      "Title": "Association of Cigarette Smoking and Metabolic Syndrome in a Puerto Rican Adult Population",
-      "Subject": [
-        "(BLS) Biology - General",
-        "(HSC) Medicine - Cardiovascular",
-        "(SOC) Sociology"
-      ],
-      "Institution": [
-        "Division of Management, Policy, and Community Health, The University of Texas School of Public Health, Houston, Texas, USA",
-        "Division of Cancer Control and Population Sciences, University of Puerto Rico Comprehensive Cancer Center, USA",
-        "Department of Biostatistics and Epidemiology, University of Puerto Rico, Graduate School of Public Health, USA",
-        "School of Medicine, University of Puerto Rico, San Juan, Puerto Rico, USA"
-      ],
-      "Journal": "International Journal of Preventive Medicine (IJPM)",
-      "Publisher": "Wolters Kluwer - Medknow",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "William A Calo",
-        "Ana P Ortiz",
-        "Erick Su\u00e1rez",
-        "Manuel Guzm\u00e1n",
-        "Cynthia M P\u00e9rez"
-      ],
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "8/1/2014 0:00",
-      "RetractionPubMedID": "25489458.0",
-      "OriginalPaperDate": "7/1/2014 0:00",
-      "OriginalPaperPubMedID": "25104996.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234774a",
-      "Record ID": "31328",
-      "Title": "Targeted Gene Silencing Using RGD-Labeled Chitosan Nanoparticles",
-      "Subject": [
+      "_id": "687cefd41f662220d898cb30",
+      "recordId": "31328",
+      "title": "Targeted Gene Silencing Using RGD-Labeled Chitosan Nanoparticles",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Genetics",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Gynecologic Oncology, The University of Texas M.D. Anderson Cancer Center",
         "Department of Surgical Oncology, The University of Texas M.D. Anderson Cancer Center",
         "Department of Experimental Therapeutics, The University of Texas M.D. Anderson Cancer Center",
@@ -76,13 +33,13 @@
         "Department of Surgery, School of Medicine, University of Puerto Rico, University of Puerto Rico Comprehensive Cancer Center, San Juan, Puerto Rico",
         "Department of Obstetrics & Gynecology, Dongguk University IIsan Hospital, Goyang, South Korea"
       ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "Puerto Rico",
         "South Korea"
       ],
-      "Author": [
+      "author": [
         "Hee Dong Han",
         "Lingegowda S Mangala",
         "Jeong Won Lee",
@@ -99,56 +56,101 @@
         "Gabriel Lopez-Berestein",
         "Anil K Sood"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/2/2021 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-21-2119",
-      "RetractionPubMedID": "34341058.0",
-      "OriginalPaperDate": "6/10/2010 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-10-0005",
-      "OriginalPaperPubMedID": "20538762.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "8/2/2021 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-21-2119",
+      "retractionpubmedid": "34341058.0",
+      "originalpaperdate": "6/10/2010 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-10-0005",
+      "originalpaperpubmedid": "20538762.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c51f662220d8993162",
+      "recordId": "5008",
+      "title": "Association of Cigarette Smoking and Metabolic Syndrome in a Puerto Rican Adult Population",
+      "subject": [
+        "(BLS) Biology - General",
+        "(HSC) Medicine - Cardiovascular",
+        "(SOC) Sociology"
+      ],
+      "institution": [
+        "Division of Management, Policy, and Community Health, The University of Texas School of Public Health, Houston, Texas, USA",
+        "Division of Cancer Control and Population Sciences, University of Puerto Rico Comprehensive Cancer Center, USA",
+        "Department of Biostatistics and Epidemiology, University of Puerto Rico, Graduate School of Public Health, USA",
+        "School of Medicine, University of Puerto Rico, San Juan, Puerto Rico, USA"
+      ],
+      "journal": "International Journal of Preventive Medicine (IJPM)",
+      "publisher": "Wolters Kluwer - Medknow",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "William A Calo",
+        "Ana P Ortiz",
+        "Erick Su\u00e1rez",
+        "Manuel Guzm\u00e1n",
+        "Cynthia M P\u00e9rez"
+      ],
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "8/1/2014 0:00",
+      "retractionpubmedid": "25489458.0",
+      "originalpaperdate": "7/1/2014 0:00",
+      "originalpaperpubmedid": "25104996.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

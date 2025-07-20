@@ -1,35 +1,35 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878d65",
+    "_id": "687ccbab09adbf7aa61b9986",
     "grid_id": "grid.259979.9",
     "institute_name": "Michigan Technological University",
     "country": "United States",
     "retracted_record_ids": [
-      "44068",
-      "19987"
+      "19987",
+      "44068"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23445cb",
-      "Record ID": "44068",
-      "Title": "Overexpression of PsnSuSy1, 2 genes enhances secondary cell wall thickening, vegetative growth, and mechanical strength in transgenic tobacco",
-      "Subject": [
+      "_id": "687cefa41f662220d89899b1",
+      "recordId": "44068",
+      "title": "Overexpression of PsnSuSy1, 2 genes enhances secondary cell wall thickening, vegetative growth, and mechanical strength in transgenic tobacco",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
+      "institution": [
         "State Key Laboratory of Tree Genetics and Breeding, Northeast Forestry University, Harbin, 150040, Heilongjiang, People\u2019s Republic of China",
         "School of Forest Resource and Environmental Science, Michigan Technological University, Houghton, MI, 49931, USA"
       ],
-      "Journal": "Plant Molecular Biology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Plant Molecular Biology",
+      "publisher": "Springer",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Meilang Li",
         "Shuan Wang",
         "Yingying Liu",
@@ -40,85 +40,87 @@
         "Hairong Wei",
         "Zhigang Wei"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/25/2023 0:00",
-      "RetractionDOI": "10.1007/s11103-023-01353-5",
-      "RetractionPubMedID": "37097549.0",
-      "OriginalPaperDate": "5/4/2019 0:00",
-      "OriginalPaperDOI": "10.1007/s11103-019-00850-w",
-      "OriginalPaperPubMedID": "31053988.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/25/2023 0:00",
+      "retractiondoi": "10.1007/s11103-023-01353-5",
+      "retractionpubmedid": "37097549.0",
+      "originalpaperdate": "5/4/2019 0:00",
+      "originalpaperdoi": "10.1007/s11103-019-00850-w",
+      "originalpaperpubmedid": "31053988.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a370",
-      "Record ID": "19987",
-      "Title": "Note on the usage of grad-div stabilization for the penalty-projection algorithm in magnetohydrodynamics",
-      "Subject": [
+      "_id": "687cf0721f662220d898f756",
+      "recordId": "19987",
+      "title": "Note on the usage of grad-div stabilization for the penalty-projection algorithm in magnetohydrodynamics",
+      "subject": [
         "(PHY) Mathematics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Mathematical Sciences, Michigan Technological University, Houghton, MI 49931, USA",
         "Department of Mathematical Sciences, Agri Ibrahim Cecen University, Agri 04100, Turkey"
       ],
-      "Journal": "Applied Mathematics and Computation",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Applied Mathematics and Computation",
+      "publisher": "Elsevier",
+      "country": [
         "Turkey",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Dilek Erkmen",
         "Alexander E Labovsky"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/31/2019 0:00",
-      "RetractionDOI": "10.1016/j.amc.2019.01.019",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/2/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.amc.2018.12.028",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/31/2019 0:00",
+      "retractiondoi": "10.1016/j.amc.2019.01.019",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/2/2019 0:00",
+      "originalpaperdoi": "10.1016/j.amc.2018.12.028",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,136 +1,139 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879362",
+    "_id": "687ccbab09adbf7aa61b9f83",
     "grid_id": "grid.414925.f",
     "institute_name": "Flinders Medical Centre",
     "country": "Australia",
     "retracted_record_ids": [
-      "34029",
-      "292"
+      "292",
+      "34029"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346cc6",
-      "Record ID": "34029",
-      "Title": "Chemotherapy and radiotherapy for inoperable advanced pancreatic cancer (Pub 2)",
-      "Subject": [
+      "_id": "687cefc81f662220d898c0ac",
+      "recordId": "34029",
+      "title": "Chemotherapy and radiotherapy for inoperable advanced pancreatic cancer (Pub 2)",
+      "subject": [
         "(HSC) Medicine - Endocrinology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Medical Oncology Unit, The Canberra Hospital, Garran, Australia",
         "Department of Oncology, Flinders Medical Centre, Bedford Park, Australia",
         "Adelaide, Australia",
         "Border Medical Oncology, Victoria , Australia",
         "Department of Medical Oncology, Prince of Wales Hospital, Sydney, Australia"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "Australia"
       ],
-      "Author": [
+      "author": [
         "Desmond Yip",
         "Christos Karapetis",
         "Andrew Strickland",
         "Christopher B Steer",
         "David Goldstein"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article",
         "Revision"
       ],
-      "RetractionDate": "10/7/2009 0:00",
-      "RetractionDOI": "10.1002/14651858.CD002093.pub3",
-      "RetractionPubMedID": "19821291.0",
-      "OriginalPaperDate": "7/8/2009 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD002093.pub2",
-      "OriginalPaperPubMedID": "16855985.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/7/2009 0:00",
+      "retractiondoi": "10.1002/14651858.CD002093.pub3",
+      "retractionpubmedid": "19821291.0",
+      "originalpaperdate": "7/8/2009 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD002093.pub2",
+      "originalpaperpubmedid": "16855985.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Withdrawn as Out of Date"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2009
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2009",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ef86",
-      "Record ID": "292",
-      "Title": "Paradoxical cerebral arterial embolization of cement during intraoperative vertebroplasty: case report",
-      "Subject": [
+      "_id": "687cf0d71f662220d899436c",
+      "recordId": "292",
+      "title": "Paradoxical cerebral arterial embolization of cement during intraoperative vertebroplasty: case report",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Internal",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neuroradiology, Flinders Medical Center, Flinders Drive, Bedford Park, SA, Australia",
         "Department of Neurological Surgery, Flinders Medical Center, Flinders Drive, Bedford Park, SA, Australia"
       ],
-      "Journal": "American Journal of Neuroradiology (AJNR)",
-      "Publisher": "American Society of Neuroradiology",
-      "Country": [
+      "journal": "American Journal of Neuroradiology (AJNR)",
+      "publisher": "American Society of Neuroradiology",
+      "country": [
         "Australia"
       ],
-      "Author": [
+      "author": [
         "Rebecca Scroop",
         "Joseph Eskridge",
         "Gavin W Britz"
       ],
-      "ArticleType": [
+      "articletype": [
         "Case Report"
       ],
-      "RetractionDate": "3/1/2004 0:00",
-      "RetractionDOI": "Unavailable",
-      "RetractionPubMedID": "15043050.0",
-      "OriginalPaperDate": "5/1/2002 0:00",
-      "OriginalPaperDOI": "Unavailable",
-      "OriginalPaperPubMedID": "12006295.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2004 0:00",
+      "retractiondoi": "Unavailable",
+      "retractionpubmedid": "15043050.0",
+      "originalpaperdate": "5/1/2002 0:00",
+      "originalpaperdoi": "Unavailable",
+      "originalpaperpubmedid": "12006295.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Text",
         "+Investigation by Company/Institution",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "Retraction request signed by GW Britz and J Eskridge;",
-      "notice_year": 2004,
-      "year": 2002,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Retraction request signed by GW Britz and J Eskridge;",
+      "year": "2002",
+      "noticeYear": "2004",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,70 +1,71 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878c1c",
+    "_id": "687ccbab09adbf7aa61b983d",
     "grid_id": "grid.263156.5",
     "institute_name": "Santa Clara University",
     "country": "United States",
     "retracted_record_ids": [
-      "45375",
-      "8392"
+      "8392",
+      "45375"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23440b2",
-      "Record ID": "45375",
-      "Title": "Deep learning for autism diagnosis and facial analysis in children",
-      "Subject": [
+      "_id": "687cefa01f662220d8989498",
+      "recordId": "45375",
+      "title": "Deep learning for autism diagnosis and facial analysis in children",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pediatrics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Bioengineering, Santa Clara University, Santa Clara, CA, United States",
         "AI Research, San Jose, CA, United States",
         "CIPCE, School of Electrical and Computer Engineering, University of Tehran, Tehran, Iran"
       ],
-      "Journal": "Frontiers in Computational Neuroscience",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Computational Neuroscience",
+      "publisher": "Frontiers",
+      "country": [
         "Iran",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Mohammad Parsa Hosseini",
         "Madison Beary",
         "Alex Hadsell",
         "Ryan Messersmith",
         "Hamid Soltanian-Zadeh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/16/2023 0:00",
-      "RetractionDOI": "10.3389/fncom.2023.1215827",
-      "RetractionPubMedID": "37261070.0",
-      "OriginalPaperDate": "1/20/2022 0:00",
-      "OriginalPaperDOI": "10.3389/fncom.2021.789998",
-      "OriginalPaperPubMedID": "35126078.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/16/2023 0:00",
+      "retractiondoi": "10.3389/fncom.2023.1215827",
+      "retractionpubmedid": "37261070.0",
+      "originalpaperdate": "1/20/2022 0:00",
+      "originalpaperdoi": "10.3389/fncom.2021.789998",
+      "originalpaperpubmedid": "35126078.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d07f",
-      "Record ID": "8392",
-      "Title": "Effect of isotopic composition on the lattice parameter of germanium measured by x-ray backscattering",
-      "Subject": [
+      "_id": "687cf0b81f662220d8992465",
+      "recordId": "8392",
+      "title": "Effect of isotopic composition on the lattice parameter of germanium measured by x-ray backscattering",
+      "subject": [
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Advanced Photon Source, Argonne National Laboratory, 9700 South Cass Avenue, Argonne, Illinois 60439",
         "University of Hamburg, Germany",
         "Hasylab, Hamburg, Germany",
@@ -74,15 +75,15 @@
         "Institut de Physique, Universit\u00e9 de Li\u00e8ge, B-4000 Li\u00e8ge, Belgium",
         "Department of Physics, Santa Clara University, Santa Clara, California 94053"
       ],
-      "Journal": "Physical Review B",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review B",
+      "publisher": "American Physical Society",
+      "country": [
         "Belgium",
         "Germany",
         "Russia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "M Y Hu",
         "H Sinn",
         "A Alatas",
@@ -99,66 +100,67 @@
         "E Kartheuser",
         "M A Villeret"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/20/2004 0:00",
-      "RetractionDOI": "10.1103/PhysRevB.69.079902",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/17/2003 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevB.67.113306",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "2/20/2004 0:00",
+      "retractiondoi": "10.1103/PhysRevB.69.079902",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/17/2003 0:00",
+      "originalpaperdoi": "10.1103/PhysRevB.67.113306",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2003,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2004",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,87 +1,36 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879d15",
+    "_id": "687ccbab09adbf7aa61ba936",
     "grid_id": "grid.5853.b",
     "institute_name": "Institute of Photonic Sciences",
     "country": "Spain",
     "retracted_record_ids": [
-      "2247",
-      "16932"
+      "16932",
+      "2247"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e80c",
-      "Record ID": "2247",
-      "Title": "Observation of Topological Structures in Photonic Quantum Walks",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Engineering - Chemical",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "III Physikalisches Institut, Research Center SCOPE, and MPI for Solid State Research, University of Stuttgart, Pfaffenwaldring 57, 70569 Stuttgart, Germany",
-        "2ICFO-Institut de Ci\u00e8ncies Fot\u00f2niques, Mediterranean Technology Park, E-08860 Castelldefels, Barcelona, Spain",
-        "3Department of Physics, University of Paderborn, Warburger Strasse 100, 33098 Paderborn, Germany",
-        "4ICREA\u2014Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats, Lluis Companys 23, E-08010 Barcelona, Spain"
-      ],
-      "Journal": "Physical Review Letters",
-      "Publisher": "American Physical Society",
-      "Country": [
-        "Germany",
-        "Spain"
-      ],
-      "Author": [
-        "Graciana Puentes",
-        "Ilja Gerhardt",
-        "Fabian Katzschmann",
-        "Christine Silberhorn",
-        "J\u00f6rg Wrachtrup",
-        "Maciej Lewenstein"
-      ],
-      "URLS": "http://retractionwatch.com/2014/10/27/quantum-physics-paper-pulled-for-serious-theoretical-errors-notice-accidentally-paywalled/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/4/2014 0:00",
-      "RetractionDOI": "10.1103/PhysRevLett.113.019901",
-      "RetractionPubMedID": "25032936.0",
-      "OriginalPaperDate": "3/26/2014 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevLett.112.120502",
-      "OriginalPaperPubMedID": "24724637.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Results and/or Conclusions",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234af48",
-      "Record ID": "16932",
-      "Title": "Advances in colloidal quantum dot solar cells: The depleted-heterojunction device",
-      "Subject": [
+      "_id": "687cf0941f662220d899032e",
+      "recordId": "16932",
+      "title": "Advances in colloidal quantum dot solar cells: The depleted-heterojunction device",
+      "subject": [
         "(PHY) Energy",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Electrical and Computer Engineering, University of Toronto, 10 King's College Rd., Toronto, Ontario M5S 3G4, Canada",
         "ICFO \u2013 Institut de Ciencies Fotoniques, Mediterranean Technology Park, 08860 Castelldefels, Barcelona, Spain",
         "Laboratory for Photonics and Interfaces, Institute of Chemical Sciences and Engineering, School of Basic Sciences, Swiss Federal Institute of Technology, CH-1015 Lausanne, Switzerland"
       ],
-      "Journal": "Thin Solid Films",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Thin Solid Films",
+      "publisher": "Springer",
+      "country": [
         "Canada",
         "Spain",
         "Switzerland"
       ],
-      "Author": [
+      "author": [
         "Illan J Kramer",
         "Andras G Pattantyus-Abraham",
         "Aaron R Barkhouse",
@@ -91,34 +40,87 @@
         "Larissa Levina",
         "Ines Raabe"
       ],
-      "URLS": "http://retractionwatch.com/2012/12/12/quantum-physicists-learn-about-heisenbergs-publishing-uncertainty-principle-the-hard-way/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/12/12/quantum-physicists-learn-about-heisenbergs-publishing-uncertainty-principle-the-hard-way/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/7/2012 0:00",
-      "RetractionDOI": "10.1016/j.tsf.2012.04.048",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/24/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.tsf.2010.12.121",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/7/2012 0:00",
+      "retractiondoi": "10.1016/j.tsf.2012.04.048",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/24/2010 0:00",
+      "originalpaperdoi": "10.1016/j.tsf.2010.12.121",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993bf2",
+      "recordId": "2247",
+      "title": "Observation of Topological Structures in Photonic Quantum Walks",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Engineering - Chemical",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "III Physikalisches Institut, Research Center SCOPE, and MPI for Solid State Research, University of Stuttgart, Pfaffenwaldring 57, 70569 Stuttgart, Germany",
+        "2ICFO-Institut de Ci\u00e8ncies Fot\u00f2niques, Mediterranean Technology Park, E-08860 Castelldefels, Barcelona, Spain",
+        "3Department of Physics, University of Paderborn, Warburger Strasse 100, 33098 Paderborn, Germany",
+        "4ICREA\u2014Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats, Lluis Companys 23, E-08010 Barcelona, Spain"
+      ],
+      "journal": "Physical Review Letters",
+      "publisher": "American Physical Society",
+      "country": [
+        "Germany",
+        "Spain"
+      ],
+      "author": [
+        "Graciana Puentes",
+        "Ilja Gerhardt",
+        "Fabian Katzschmann",
+        "Christine Silberhorn",
+        "J\u00f6rg Wrachtrup",
+        "Maciej Lewenstein"
+      ],
+      "urls": "http://retractionwatch.com/2014/10/27/quantum-physics-paper-pulled-for-serious-theoretical-errors-notice-accidentally-paywalled/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/4/2014 0:00",
+      "retractiondoi": "10.1103/PhysRevLett.113.019901",
+      "retractionpubmedid": "25032936.0",
+      "originalpaperdate": "3/26/2014 0:00",
+      "originalpaperdoi": "10.1103/PhysRevLett.112.120502",
+      "originalpaperpubmedid": "24724637.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Results and/or Conclusions",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "Yes",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -126,23 +128,23 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

@@ -1,130 +1,132 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878bf8",
+    "_id": "687ccbab09adbf7aa61b9819",
     "grid_id": "grid.512465.1",
     "institute_name": "Antalya Bilim University",
     "country": "Turkey",
     "retracted_record_ids": [
-      "45606",
-      "21262"
+      "21262",
+      "45606"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2343fcb",
-      "Record ID": "45606",
-      "Title": "A labor safety performance and involvement of workers in accident reduction and prevention",
-      "Subject": [
+      "_id": "687cef9e1f662220d89893b1",
+      "recordId": "45606",
+      "title": "A labor safety performance and involvement of workers in accident reduction and prevention",
+      "subject": [
         "(HSC) Occupational Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "School of Management, China West Normal University, Nanchong 637009, China",
         "Computer Engineering Department, Antalya Bilim University, Antalya, Turkey",
         "Ryerson University, Canada"
       ],
-      "Journal": "Aggression and Violent Behavior",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Aggression and Violent Behavior",
+      "publisher": "Elsevier",
+      "country": [
         "Canada",
         "China",
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Min Xue",
         "Fadi Al-Turjman",
         "Vijayalakshmi Saravanan"
       ],
-      "ArticleType": [
+      "articletype": [
         "Article in Press",
         "Research Article"
       ],
-      "RetractionDate": "6/14/2023 0:00",
-      "RetractionDOI": "10.1016/j.avb.2021.101560",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/9/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.avb.2021.101560",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/14/2023 0:00",
+      "retractiondoi": "10.1016/j.avb.2021.101560",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/9/2021 0:00",
+      "originalpaperdoi": "10.1016/j.avb.2021.101560",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues with Peer Review",
         "+Error by Journal/Publisher",
         "+Rogue Editor",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349e7e",
-      "Record ID": "21262",
-      "Title": "QoS-aware Data Delivery Framework for Safety-inspired Multimedia in Integrated Vehicular-IoT",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f264",
+      "recordId": "21262",
+      "title": "QoS-aware Data Delivery Framework for Safety-inspired Multimedia in Integrated Vehicular-IoT",
+      "subject": [
         "(B/T) Computer Science"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Engineering, Antalya Bilim University, Antalya, Turkey"
       ],
-      "Journal": "Computer Communications",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Computer Communications",
+      "publisher": "Elsevier",
+      "country": [
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Fadi al Turjman"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/2/2019 0:00",
-      "RetractionDOI": "10.1016/j.comcom.2019.06.006",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/21/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.comcom.2018.02.012",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/2/2019 0:00",
+      "retractiondoi": "10.1016/j.comcom.2019.06.006",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/21/2018 0:00",
+      "originalpaperdoi": "10.1016/j.comcom.2018.02.012",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -132,10 +134,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

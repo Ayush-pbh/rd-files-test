@@ -1,39 +1,138 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879d55",
+    "_id": "687ccbab09adbf7aa61ba976",
     "grid_id": "grid.459315.f",
     "institute_name": "Ospedale Pesenti Fenaroli",
     "country": "Italy",
     "retracted_record_ids": [
-      "4834",
+      "669",
       "3739",
       "6165",
-      "669",
+      "4834",
       "16562"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234de25",
-      "Record ID": "4834",
-      "Title": "Evaluation of Safety and Efficacy of a Fixed Olmesartan/amlodipine Combination Therapy Compared to Single Monotherapies",
-      "Subject": [
+      "_id": "687cf0971f662220d899049d",
+      "recordId": "16562",
+      "title": "Results from a 12 months, randomized, clinical trial comparing an olmesartan/amlodipine single pill combination to olmesartan and amlodipine monotherapies on blood pressure and inflammation",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Internal Medicine and Therapeutics, University of Pavia, Pavia, Italy",
+        "Center for the Study of Endocrine-Metabolic Pathophysiology and Clinical Research, University of Pavia, Pavia, Italy",
+        "Aging and Kidney Diseases, \u201cG. Descovich\u201d Atherosclerosis Study Center, University of Bologna, Bologna, Italy",
+        "Hospital Center of Diabetes, Sant\u2019Angelo Lodigiano, Lodi, Italy",
+        "Ospedale Pesenti Fenaroli, Alzano Lombardo, Bergamo, Italy"
+      ],
+      "journal": "European Journal of Pharmaceutical Sciences: Official Journal of the European Federation for Pharmaceutical Sciences",
+      "publisher": "Elsevier",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Giuseppe Derosa",
+        "Arrigo F G Cicero",
+        "Anna Carbone",
+        "Fabrizio Querci",
+        "Elena Fogari",
+        "Angela D'Angelo",
+        "Pamela Maffioli"
+      ],
+      "urls": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/22/2014 0:00",
+      "retractiondoi": "10.1016/j.ejps.2018.08.039",
+      "retractionpubmedid": "30190057.0",
+      "originalpaperdate": "8/30/2013 0:00",
+      "originalpaperdoi": "10.1016/j.ejps.2013.08.031",
+      "originalpaperpubmedid": "23999037.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c11f662220d8992cf8",
+      "recordId": "6165",
+      "title": "Variation of Some Inflammatory Markers in Hypertensive Patients after 1 Year of Olmesartan/amlodipine Single-pill Combination Compared with Olmesartan or Amlodipine Monotherapies",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Internal Medicine and Therapeutics, University of Pavia, PAVIA, Italy",
+        "Aging and Kidney Diseases, G. Descovich Atherosclerosis Study Center, University of Bologna, BOLOGNA, Italy",
+        "Hospital Center of Diabetes, Sant'Angelo Lodigiano, LODI, Italy",
+        "Ospedale Pesenti Fenaroli, Alzano Lombardo, BERGAMO, Italy"
+      ],
+      "journal": "Journal of the American Society of Hypertension (JASH)",
+      "publisher": "Elsevier",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Giuseppe Derosa",
+        "Arrigo F G Cicero",
+        "Anna Carbone",
+        "Fabrizio Querci",
+        "Elena Fogari",
+        "Angela D\u2019Angelo"
+      ],
+      "urls": "http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "10/1/2015 0:00",
+      "retractiondoi": "10.1016/j.jash.2015.08.012",
+      "retractionpubmedid": "30153105.0",
+      "originalpaperdate": "1/1/2013 0:00",
+      "originalpaperdoi": "10.1016/j.jash.2012.11.006",
+      "originalpaperpubmedid": "23321403.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Euphemisms for Duplication"
+      ],
+      "paywalled": "Unknown",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c51f662220d899320b",
+      "recordId": "4834",
+      "title": "Evaluation of Safety and Efficacy of a Fixed Olmesartan/amlodipine Combination Therapy Compared to Single Monotherapies",
+      "subject": [
         "(BLS) Biology - General",
         "(HSC) Medicine - Drug Design",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "University of Pavia, Department of Internal Medicine and Therapeutics, P.le C. Golgi, 2, Pavia, 27100, Italy",
         "Cicero University of Bologna, Internal Medicine, Aging and Kidney Disease Department, Via Hospital Sant'Angelo Lodigiano, Hospital Center of Diabetes, Lodi, Italy",
         "Hospital Hospital Sant'Angelo Lodigiano, Hospital Center of Diabetes, Lodi, Italy",
         "Ospedale Pesenti Fenaroli, Bergamo, Italy"
       ],
-      "Journal": "Expert Opinion on Drug safety",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Expert Opinion on Drug safety",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Giuseppe Derosa",
         "Arrigo Francesco Giuseppe Cicero",
         "Anna Carbone",
@@ -42,47 +141,48 @@
         "Angela D'Angelo",
         "Pamela Maffioli"
       ],
-      "URLS": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/22/2015 0:00",
-      "RetractionDOI": "10.1517/14740338.2015.1090046",
-      "RetractionPubMedID": "26394772.0",
-      "OriginalPaperDate": "7/2/2013 0:00",
-      "OriginalPaperDOI": "10.1517/14740338.2013.816674",
-      "OriginalPaperPubMedID": "23815562.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/22/2015 0:00",
+      "retractiondoi": "10.1517/14740338.2015.1090046",
+      "retractionpubmedid": "26394772.0",
+      "originalpaperdate": "7/2/2013 0:00",
+      "originalpaperdoi": "10.1517/14740338.2013.816674",
+      "originalpaperpubmedid": "23815562.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e25c",
-      "Record ID": "3739",
-      "Title": "Effects of an olmesartan/amlodipine fixed dose on blood pressure control, some adipocytokines and interleukins levels compared with olmesartan or amlodipine monotherapies",
-      "Subject": [
+      "_id": "687cf0cb1f662220d8993642",
+      "recordId": "3739",
+      "title": "Effects of an olmesartan/amlodipine fixed dose on blood pressure control, some adipocytokines and interleukins levels compared with olmesartan or amlodipine monotherapies",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Diabetes",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Internal Medicine and Therapeutics, University of Pavia, Pavia",
         "Aging and Kidney Diseases, \u201cG. Descovich\u201d Atherosclerosis Study Center, University of Bologna, Bologna",
         "Hospital Center of Diabetes, Sant\u2019Angelo Lodigiano, Lodi",
         "Ospedale Pesenti Fenaroli, Alzano Lombardo, Bergamo"
       ],
-      "Journal": "Journal of Clinical Pharmacy and Therapeutics",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Journal of Clinical Pharmacy and Therapeutics",
+      "publisher": "Wiley",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Giuseppe Derosa",
         "Arrigo F G Cicero",
         "Anna Carbone",
@@ -91,97 +191,50 @@
         "Angela D\u2019Angelo",
         "Pamela Maffioli"
       ],
-      "URLS": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/14/2016 0:00",
-      "RetractionDOI": "10.1111/jcpt.12327",
-      "RetractionPubMedID": "27059120.0",
-      "OriginalPaperDate": "12/5/2012 0:00",
-      "OriginalPaperDOI": "10.1111/jcpt.12021",
-      "OriginalPaperPubMedID": "23216584.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/14/2016 0:00",
+      "retractiondoi": "10.1111/jcpt.12327",
+      "retractionpubmedid": "27059120.0",
+      "originalpaperdate": "12/5/2012 0:00",
+      "originalpaperdoi": "10.1111/jcpt.12021",
+      "originalpaperpubmedid": "23216584.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d912",
-      "Record ID": "6165",
-      "Title": "Variation of Some Inflammatory Markers in Hypertensive Patients after 1 Year of Olmesartan/amlodipine Single-pill Combination Compared with Olmesartan or Amlodipine Monotherapies",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Internal Medicine and Therapeutics, University of Pavia, PAVIA, Italy",
-        "Aging and Kidney Diseases, G. Descovich Atherosclerosis Study Center, University of Bologna, BOLOGNA, Italy",
-        "Hospital Center of Diabetes, Sant'Angelo Lodigiano, LODI, Italy",
-        "Ospedale Pesenti Fenaroli, Alzano Lombardo, BERGAMO, Italy"
-      ],
-      "Journal": "Journal of the American Society of Hypertension (JASH)",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Giuseppe Derosa",
-        "Arrigo F G Cicero",
-        "Anna Carbone",
-        "Fabrizio Querci",
-        "Elena Fogari",
-        "Angela D\u2019Angelo"
-      ],
-      "URLS": "http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "10/1/2015 0:00",
-      "RetractionDOI": "10.1016/j.jash.2015.08.012",
-      "RetractionPubMedID": "30153105.0",
-      "OriginalPaperDate": "1/1/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.jash.2012.11.006",
-      "OriginalPaperPubMedID": "23321403.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Euphemisms for Duplication"
-      ],
-      "Paywalled": "Unknown",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ee10",
-      "Record ID": "669",
-      "Title": "Different Aspects of Sartan + Calcium Antagonist Association Compared to the Single Therapy on Inflammation and Metabolic Parameters in Hypertensive Patients",
-      "Subject": [
+      "_id": "687cf0d71f662220d89941f6",
+      "recordId": "669",
+      "title": "Different Aspects of Sartan + Calcium Antagonist Association Compared to the Single Therapy on Inflammation and Metabolic Parameters in Hypertensive Patients",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Biology - Molecular",
         "(PHY) Chemistry"
       ],
-      "Institution": [
+      "institution": [
         "Department of Internal Medicine and Therapeutics, University of Pavia, Fondazione IRCCS Policlinico S. Matteo, Pavia, Italy",
         "Center for the Study of Endocrine-Metabolic Pathophysiology and Clinical Research, University of Pavia, Pavia, Italy",
         "Aging and Kidney Diseases, \u201cG. Descovich\u201d Atherosclerosis Study Center, University of Bologna, Bologna, Italy",
         "Hospital Center of Diabetes, Lodi, Italy",
         "Ospedale Pesenti Fenaroli, Bergamo, Italy"
       ],
-      "Journal": "Inflammation",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Inflammation",
+      "publisher": "Springer",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Giuseppe Derosa",
         "Arrigo F G Cicero",
         "Anna Carbone",
@@ -190,103 +243,57 @@
         "Angela D'Angelo",
         "Pamela Maffioli"
       ],
-      "URLS": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/;http://retractionwatch.com/2015/10/14/authors-defend-publishing-clinical-trial-six-times-even-as-they-earn-two-more-retractions/;http://retractionwatch.com/2016/02/12/investigation-leads-to-5th-retraction-for-drug-researcher/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "2/1/2016 0:00",
-      "RetractionDOI": "10.1007/s10753-015-0223-0",
-      "RetractionPubMedID": "26238280.0",
-      "OriginalPaperDate": "2/1/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s10753-013-9724-x",
-      "OriginalPaperPubMedID": "24018781.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2016 0:00",
+      "retractiondoi": "10.1007/s10753-015-0223-0",
+      "retractionpubmedid": "26238280.0",
+      "originalpaperdate": "2/1/2014 0:00",
+      "originalpaperdoi": "10.1007/s10753-013-9724-x",
+      "originalpaperpubmedid": "24018781.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2014
-    },
-    {
-      "_id": "6855d574b14f7811d234b0b7",
-      "Record ID": "16562",
-      "Title": "Results from a 12 months, randomized, clinical trial comparing an olmesartan/amlodipine single pill combination to olmesartan and amlodipine monotherapies on blood pressure and inflammation",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Internal Medicine and Therapeutics, University of Pavia, Pavia, Italy",
-        "Center for the Study of Endocrine-Metabolic Pathophysiology and Clinical Research, University of Pavia, Pavia, Italy",
-        "Aging and Kidney Diseases, \u201cG. Descovich\u201d Atherosclerosis Study Center, University of Bologna, Bologna, Italy",
-        "Hospital Center of Diabetes, Sant\u2019Angelo Lodigiano, Lodi, Italy",
-        "Ospedale Pesenti Fenaroli, Alzano Lombardo, Bergamo, Italy"
-      ],
-      "Journal": "European Journal of Pharmaceutical Sciences: Official Journal of the European Federation for Pharmaceutical Sciences",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Giuseppe Derosa",
-        "Arrigo F G Cicero",
-        "Anna Carbone",
-        "Fabrizio Querci",
-        "Elena Fogari",
-        "Angela D'Angelo",
-        "Pamela Maffioli"
-      ],
-      "URLS": "http://retractionwatch.com/2015/08/18/exactly-the-same-clinical-study-published-six-times/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/22/2014 0:00",
-      "RetractionDOI": "10.1016/j.ejps.2018.08.039",
-      "RetractionPubMedID": "30190057.0",
-      "OriginalPaperDate": "8/30/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.ejps.2013.08.031",
-      "OriginalPaperPubMedID": "23999037.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2013
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -294,10 +301,10 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -305,10 +312,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

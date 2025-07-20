@@ -1,68 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687962a",
+    "_id": "687ccbab09adbf7aa61ba24b",
     "grid_id": "grid.411035.2",
     "institute_name": "University of Missouri System",
     "country": "United States",
     "retracted_record_ids": [
-      "5533",
-      "29030"
+      "29030",
+      "5533"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234db7d",
-      "Record ID": "5533",
-      "Title": "Potential Functional and Dysfunctional Effects of Continuous Monitoring",
-      "Subject": [
-        "(B/T) Business - Accounting",
-        "(B/T) Computer Science"
-      ],
-      "Institution": [
-        "Bentley College",
-        "University of Missouri"
-      ],
-      "Journal": "The Accounting Review",
-      "Publisher": "American Accounting Association",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "James E Hunton",
-        "Elaine G Mauldin",
-        "Patrick R Wheeler"
-      ],
-      "URLS": "http://retractionwatch.com/2015/06/29/accounting-professor-notches-30-retractions-after-misconduct-finding/;http://retractionwatch.com/category/by-author/james-hunton/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/1/2015 0:00",
-      "RetractionDOI": "10.2308/accr-10433",
-      "OriginalPaperDate": "11/1/2008 0:00",
-      "OriginalPaperDOI": "10.2308/accr.2008.83.6.1551",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "JE Hunton solely responsible for misconduct",
-      "notice_year": 2015,
-      "year": 2008,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234803e",
-      "Record ID": "29030",
-      "Title": "Twenty-first birthday drinking: Extreme drinking episodes and white matter microstructural changes in the fornix and corpus callosum",
-      "Subject": [
+      "_id": "687cefe41f662220d898d424",
+      "recordId": "29030",
+      "title": "Twenty-first birthday drinking: Extreme drinking episodes and white matter microstructural changes in the fornix and corpus callosum",
+      "subject": [
         "(BLS) Neuroscience",
         "(BLS) Toxicology",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Psychological Sciences, University of Missouri",
         "Department of Psychiatry, Washington University School of Medicine",
         "Department of Psychiatry, University of Colorado School of Medicine",
@@ -70,12 +27,12 @@
         "Department of Psychological Sciences, University of Missouri",
         "The Family Center, Ellicott City, Maryland"
       ],
-      "Journal": "Experimental and Clinical Psychopharmacology",
-      "Publisher": "American Psychological Association (APA)",
-      "Country": [
+      "journal": "Experimental and Clinical Psychopharmacology",
+      "publisher": "American Psychological Association (APA)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Cassandra L Boness",
         "Ozlem Korucuoglu",
         "Jarrod M Ellingson",
@@ -86,69 +43,114 @@
         "Thomas M Piasecki",
         "John G Kerns"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "4/1/2021 0:00",
-      "RetractionDOI": "10.1037/pha0000466",
-      "RetractionPubMedID": "34043403.0",
-      "OriginalPaperDate": "10/1/2020 0:00",
-      "OriginalPaperDOI": "10.1037/pha0000466",
-      "OriginalPaperPubMedID": "31789553.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2021 0:00",
+      "retractiondoi": "10.1037/pha0000466",
+      "retractionpubmedid": "34043403.0",
+      "originalpaperdate": "10/1/2020 0:00",
+      "originalpaperdoi": "10.1037/pha0000466",
+      "originalpaperpubmedid": "31789553.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Error in Methods",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f63",
+      "recordId": "5533",
+      "title": "Potential Functional and Dysfunctional Effects of Continuous Monitoring",
+      "subject": [
+        "(B/T) Business - Accounting",
+        "(B/T) Computer Science"
+      ],
+      "institution": [
+        "Bentley College",
+        "University of Missouri"
+      ],
+      "journal": "The Accounting Review",
+      "publisher": "American Accounting Association",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "James E Hunton",
+        "Elaine G Mauldin",
+        "Patrick R Wheeler"
+      ],
+      "urls": "http://retractionwatch.com/2015/06/29/accounting-professor-notches-30-retractions-after-misconduct-finding/;http://retractionwatch.com/category/by-author/james-hunton/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/1/2015 0:00",
+      "retractiondoi": "10.2308/accr-10433",
+      "originalpaperdate": "11/1/2008 0:00",
+      "originalpaperdoi": "10.2308/accr.2008.83.6.1551",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "JE Hunton solely responsible for misconduct",
+      "year": "2008",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

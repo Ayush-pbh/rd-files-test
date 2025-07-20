@@ -1,39 +1,87 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068784d1",
+    "_id": "687ccbab09adbf7aa61b90f2",
     "grid_id": "grid.440151.5",
     "institute_name": "Anyang Tumor Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "50510",
-      "40585",
       "56784",
-      "36545"
+      "36545",
+      "50510",
+      "40585"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342cb4",
-      "Record ID": "50510",
-      "Title": "Associations of porphyromonas gingivalis infection and low beclin1 expression with clinicopathological parameters and survival of esophageal squamous cell carcinoma patients",
-      "Subject": [
+      "_id": "687cef731f662220d8986833",
+      "recordId": "56784",
+      "title": "Expression of caspase-3, Bax and Bcl-2 in hippocampus of rats with diabetes and subarachnoid hemorrhage",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Diabetes",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Department of Neurology, Anyang District Hospital, Anyang, Henan 455000, P.R. China",
+        "Department of Thoracic Surgery, Anyang Tumor Hospital, Anyang, Henan 455000, P.R. China"
+      ],
+      "journal": "Experimental and Therapeutic Medicine",
+      "publisher": "Spandidos",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xin He",
+        "Jiankui Sun",
+        "Xiaoyu Huang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/2/2024 0:00",
+      "retractiondoi": "10.3892/etm.2024.12704",
+      "retractionpubmedid": "39268371.0",
+      "originalpaperdate": "11/3/2017 0:00",
+      "originalpaperdoi": "10.3892/etm.2017.5438",
+      "originalpaperpubmedid": "29399092.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/63F28BE5F272E43D0DF925BE4A82AF",
+      "year": "2017",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8c1f662220d898809a",
+      "recordId": "50510",
+      "title": "Associations of porphyromonas gingivalis infection and low beclin1 expression with clinicopathological parameters and survival of esophageal squamous cell carcinoma patients",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology",
         "(HSC) Biostatistics/Epidemiology"
       ],
-      "Institution": [
+      "institution": [
         "Henan Key Laboratory of Microbiome and Esophageal Cancer Prevention and Treatment, Henan Key Laboratory of Cancer Epigenetics, Cancer Hospital, The First Affiliated Hospital (College of Clinical Medicine) of Henan University of Science and Technology, Luoyang, China",
         "College of Medicine, Henan University of Science and Technology, Luoyang, China",
         "Department of Thoracic Surgery, Department of Pathology, Anyang Tumor Hospital, Anyang, China",
         "School of PE, Henan University of Science and Technology, Luoyang, China"
       ],
-      "Journal": "Pathology and Oncology Research",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Pathology and Oncology Research",
+      "publisher": "Frontiers",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yibo Guo",
         "Yiwen Liu",
         "Haijun Yang",
@@ -45,48 +93,49 @@
         "Xiang Yuan",
         "Shegan Gao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/14/2023 0:00",
-      "RetractionDOI": "10.3389/pore.2023.1611617",
-      "RetractionPubMedID": "38155817.0",
-      "OriginalPaperDate": "12/8/2021 0:00",
-      "OriginalPaperDOI": "10.3389/pore.2021.1609976",
-      "OriginalPaperPubMedID": "34955686.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/14/2023 0:00",
+      "retractiondoi": "10.3389/pore.2023.1611617",
+      "retractionpubmedid": "38155817.0",
+      "originalpaperdate": "12/8/2021 0:00",
+      "originalpaperdoi": "10.3389/pore.2021.1609976",
+      "originalpaperpubmedid": "34955686.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Investigation by Journal/Publisher",
         "+Objections by Author(s)",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345352",
-      "Record ID": "40585",
-      "Title": "C/EBP\u03b2 Promotion of MMP3-Dependent Tumor Cell Invasion and Association with Metastasis in Colorectal Cancer",
-      "Subject": [
+      "_id": "687cefb11f662220d898a738",
+      "recordId": "40585",
+      "title": "C/EBP\u03b2 Promotion of MMP3-Dependent Tumor Cell Invasion and Association with Metastasis in Colorectal Cancer",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology, Anyang Tumor Hospital, Anyang, China",
         "Department of Pathology, Anyang Tumor Hospital, Anyang, China",
         "Department of Pathology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China"
       ],
-      "Journal": "Genetic Testing and Molecular Biomarkers",
-      "Publisher": "Mary Ann Liebert",
-      "Country": [
+      "journal": "Genetic Testing and Molecular Biomarkers",
+      "publisher": "Mary Ann Liebert",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yuanyuan Ji",
         "Junkuo Li",
         "Pan Li",
@@ -94,95 +143,49 @@
         "Haijun Yang",
         "Guozhong Jiang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/14/2022 0:00",
-      "RetractionDOI": "10.1089/gtmb.2017.0113.retract",
-      "RetractionPubMedID": "36374964.0",
-      "OriginalPaperDate": "11/27/2017 0:00",
-      "OriginalPaperDOI": "10.1089/gtmb.2017.0113",
-      "OriginalPaperPubMedID": "29172775.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/14/2022 0:00",
+      "retractiondoi": "10.1089/gtmb.2017.0113.retract",
+      "retractionpubmedid": "36374964.0",
+      "originalpaperdate": "11/27/2017 0:00",
+      "originalpaperdoi": "10.1089/gtmb.2017.0113",
+      "originalpaperpubmedid": "29172775.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Manipulation of Images",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234144d",
-      "Record ID": "56784",
-      "Title": "Expression of caspase-3, Bax and Bcl-2 in hippocampus of rats with diabetes and subarachnoid hemorrhage",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Diabetes",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Neurology, Anyang District Hospital, Anyang, Henan 455000, P.R. China",
-        "Department of Thoracic Surgery, Anyang Tumor Hospital, Anyang, Henan 455000, P.R. China"
-      ],
-      "Journal": "Experimental and Therapeutic Medicine",
-      "Publisher": "Spandidos",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xin He",
-        "Jiankui Sun",
-        "Xiaoyu Huang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/2/2024 0:00",
-      "RetractionDOI": "10.3892/etm.2024.12704",
-      "RetractionPubMedID": "39268371.0",
-      "OriginalPaperDate": "11/3/2017 0:00",
-      "OriginalPaperDOI": "10.3892/etm.2017.5438",
-      "OriginalPaperPubMedID": "29399092.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/63F28BE5F272E43D0DF925BE4A82AF",
-      "notice_year": 2024,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23462fd",
-      "Record ID": "36545",
-      "Title": "Porphyromonas gingivalis promotes progression of esophageal squamous cell cancer via TGF\u03b2-dependent Smad/YAP/TAZ signaling",
-      "Subject": [
+      "_id": "687cefbe1f662220d898b6e3",
+      "recordId": "36545",
+      "title": "Porphyromonas gingivalis promotes progression of esophageal squamous cell cancer via TGF\u03b2-dependent Smad/YAP/TAZ signaling",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Henan Key Laboratory of Cancer Epigenetics, Cancer Hospital, The First Affiliated Hospital, College of Clinical Medicine, Medical College of Henan University of Science and Technology, Luoyang, P. R. China",
         "Joint National Laboratory for Antibody Drug Engineering, Medical College of Henan University, Kaifeng, P. R. China",
         "Medical Research Center, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, P. R. China",
         "Department of Oral Immunology and Infectious Diseases, University of Louisville School of Dentistry, Louisville, Kentucky, United States of America",
         "Department of Thoracic Surgery, Anyang Tumor Hospital, Anyang, China"
       ],
-      "Journal": "PLoS Biology",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS Biology",
+      "publisher": "PLoS",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Yi Jun Qi",
         "Ye Lin Jiao",
         "Pan Chen",
@@ -204,69 +207,70 @@
         "Xiao Shen Feng",
         "She Gan Gao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/15/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pbio.3001617",
-      "RetractionPubMedID": "35427354.0",
-      "OriginalPaperDate": "9/4/2020 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pbio.3000825",
-      "OriginalPaperPubMedID": "32886690.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/15/2022 0:00",
+      "retractiondoi": "10.1371/journal.pbio.3001617",
+      "retractionpubmedid": "35427354.0",
+      "originalpaperdate": "9/4/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pbio.3000825",
+      "originalpaperpubmedid": "32886690.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Objections by Author(s)",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -274,10 +278,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -285,10 +289,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

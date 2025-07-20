@@ -1,39 +1,129 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687909d",
+    "_id": "687ccbab09adbf7aa61b9cbe",
     "grid_id": "grid.5719.a",
     "institute_name": "University of Stuttgart",
     "country": "Germany",
     "retracted_record_ids": [
-      "2247",
-      "22219",
+      "38634",
       "2227",
-      "38634"
+      "22219",
+      "2247"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e80c",
-      "Record ID": "2247",
-      "Title": "Observation of Topological Structures in Photonic Quantum Walks",
-      "Subject": [
+      "_id": "687cefb51f662220d898aec8",
+      "recordId": "38634",
+      "title": "Vascularised human tissue models: A new approach for the refinement of biomedical research",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(PHY) Engineering - General"
+      ],
+      "institution": [
+        "Fraunhofer Institute for Interfacial Engineering and Biotechnology, Fraunhofer Campus Stuttgart, D-70569 Stuttgart, Germany",
+        "Institute for Interfacial Engineering, University Stuttgart, D-70569 Stuttgart, Germany",
+        "Tissue Engineering and Regenerative Medicine, University Wuerzburg, D-97070 Wuerzburg, Germany"
+      ],
+      "journal": "Journal of Biotechnology",
+      "publisher": "Elsevier",
+      "country": [
+        "Germany"
+      ],
+      "author": [
+        "Johanna Schanz",
+        "Jacqueline Pusch",
+        "Jan Hansmann",
+        "Heike Walles"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/22/2022 0:00",
+      "retractiondoi": "10.1016/j.jbiotec.2022.08.011",
+      "retractionpubmedid": "36030112.0",
+      "originalpaperdate": "4/23/2010 0:00",
+      "originalpaperdoi": "10.1016/j.jbiotec.2010.03.015",
+      "originalpaperpubmedid": "20399817.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Duplication of/in Article",
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estmiated from notification; retraction notice later published on 8/29/2022;",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf01a1f662220d898eea8",
+      "recordId": "22219",
+      "title": "Reliability assurance in early-life-failure test through improved nearest neighbor regression",
+      "subject": [
+        "(B/T) Business - Manufacturing",
+        "(B/T) Computer Science"
+      ],
+      "institution": [
+        "Dept. of Electronic Science and Applied Physics, Hefei University of Technology, Hefei 230009, China",
+        "Institute of computer Architecture and computer, Stuttgart University, Stuttgart D-70569, Germany"
+      ],
+      "journal": "IEICE Electronics Express",
+      "publisher": "The Institute of Electronics, Information and Communication Engineers",
+      "country": [
+        "China",
+        "Germany"
+      ],
+      "author": [
+        "Tai Song",
+        "Huaguo Liang",
+        "Zhengfeng Huang",
+        "Jie Hou"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/25/2020 0:00",
+      "retractiondoi": "10.1587/elex.16.20190696",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/13/2019 0:00",
+      "originalpaperdoi": "10.1587/elex.16.20190696",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993bf2",
+      "recordId": "2247",
+      "title": "Observation of Topological Structures in Photonic Quantum Walks",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Engineering - Chemical",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "III Physikalisches Institut, Research Center SCOPE, and MPI for Solid State Research, University of Stuttgart, Pfaffenwaldring 57, 70569 Stuttgart, Germany",
         "2ICFO-Institut de Ci\u00e8ncies Fot\u00f2niques, Mediterranean Technology Park, E-08860 Castelldefels, Barcelona, Spain",
         "3Department of Physics, University of Paderborn, Warburger Strasse 100, 33098 Paderborn, Germany",
         "4ICREA\u2014Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats, Lluis Companys 23, E-08010 Barcelona, Spain"
       ],
-      "Journal": "Physical Review Letters",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review Letters",
+      "publisher": "American Physical Society",
+      "country": [
         "Germany",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Graciana Puentes",
         "Ilja Gerhardt",
         "Fabian Katzschmann",
@@ -41,90 +131,49 @@
         "J\u00f6rg Wrachtrup",
         "Maciej Lewenstein"
       ],
-      "URLS": "http://retractionwatch.com/2014/10/27/quantum-physics-paper-pulled-for-serious-theoretical-errors-notice-accidentally-paywalled/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/10/27/quantum-physics-paper-pulled-for-serious-theoretical-errors-notice-accidentally-paywalled/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/4/2014 0:00",
-      "RetractionDOI": "10.1103/PhysRevLett.113.019901",
-      "RetractionPubMedID": "25032936.0",
-      "OriginalPaperDate": "3/26/2014 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevLett.112.120502",
-      "OriginalPaperPubMedID": "24724637.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/4/2014 0:00",
+      "retractiondoi": "10.1103/PhysRevLett.113.019901",
+      "retractionpubmedid": "25032936.0",
+      "originalpaperdate": "3/26/2014 0:00",
+      "originalpaperdoi": "10.1103/PhysRevLett.112.120502",
+      "originalpaperpubmedid": "24724637.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Results and/or Conclusions",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "Yes",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349ac2",
-      "Record ID": "22219",
-      "Title": "Reliability assurance in early-life-failure test through improved nearest neighbor regression",
-      "Subject": [
-        "(B/T) Business - Manufacturing",
-        "(B/T) Computer Science"
-      ],
-      "Institution": [
-        "Dept. of Electronic Science and Applied Physics, Hefei University of Technology, Hefei 230009, China",
-        "Institute of computer Architecture and computer, Stuttgart University, Stuttgart D-70569, Germany"
-      ],
-      "Journal": "IEICE Electronics Express",
-      "Publisher": "The Institute of Electronics, Information and Communication Engineers",
-      "Country": [
-        "China",
-        "Germany"
-      ],
-      "Author": [
-        "Tai Song",
-        "Huaguo Liang",
-        "Zhengfeng Huang",
-        "Jie Hou"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/25/2020 0:00",
-      "RetractionDOI": "10.1587/elex.16.20190696",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/13/2019 0:00",
-      "OriginalPaperDOI": "10.1587/elex.16.20190696",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234e820",
-      "Record ID": "2227",
-      "Title": "Evidence for Spin-charge Separation in Quasi-one-dimensional Organic Conductors",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c06",
+      "recordId": "2227",
+      "title": "Evidence for Spin-charge Separation in Quasi-one-dimensional Organic Conductors",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Engineering - Electrical",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Physikalisches Institut, Universit\u00e4t zu K\u00f6ln, 50937, K\u00f6ln, German",
         "Institut f\u00fcr Theoretische Physik, Universit\u00e4t zu K\u00f6ln, 50937, K\u00f6ln, Germany",
         "Physikalisches Institut, Universit\u00e4t Stuttgart, 70550, Stuttgart, Germany"
       ],
-      "Journal": "Nature",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "Germany"
       ],
-      "Author": [
+      "author": [
         "T Lorenz",
         "M Hofmann",
         "M Gr\u00fcninger",
@@ -133,137 +182,92 @@
         "M Dumm",
         "M Dressel"
       ],
-      "ArticleType": [
+      "articletype": [
         "Letter",
         "Research Article"
       ],
-      "RetractionDate": "3/30/2006 0:00",
-      "RetractionDOI": "10.1038/nature04621",
-      "RetractionPubMedID": "16572179.0",
-      "OriginalPaperDate": "8/8/2002 0:00",
-      "OriginalPaperDOI": "10.1038/nature00913",
-      "OriginalPaperPubMedID": "12167854.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/30/2006 0:00",
+      "retractiondoi": "10.1038/nature04621",
+      "retractionpubmedid": "16572179.0",
+      "originalpaperdate": "8/8/2002 0:00",
+      "originalpaperdoi": "10.1038/nature00913",
+      "originalpaperpubmedid": "12167854.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Results Not Reproducible",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2006,
-      "year": 2002,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345ae2",
-      "Record ID": "38634",
-      "Title": "Vascularised human tissue models: A new approach for the refinement of biomedical research",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(PHY) Engineering - General"
-      ],
-      "Institution": [
-        "Fraunhofer Institute for Interfacial Engineering and Biotechnology, Fraunhofer Campus Stuttgart, D-70569 Stuttgart, Germany",
-        "Institute for Interfacial Engineering, University Stuttgart, D-70569 Stuttgart, Germany",
-        "Tissue Engineering and Regenerative Medicine, University Wuerzburg, D-97070 Wuerzburg, Germany"
-      ],
-      "Journal": "Journal of Biotechnology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Johanna Schanz",
-        "Jacqueline Pusch",
-        "Jan Hansmann",
-        "Heike Walles"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/22/2022 0:00",
-      "RetractionDOI": "10.1016/j.jbiotec.2022.08.011",
-      "RetractionPubMedID": "36030112.0",
-      "OriginalPaperDate": "4/23/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.jbiotec.2010.03.015",
-      "OriginalPaperPubMedID": "20399817.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Duplication of/in Article",
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estmiated from notification; retraction notice later published on 8/29/2022;",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2006",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -271,10 +275,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

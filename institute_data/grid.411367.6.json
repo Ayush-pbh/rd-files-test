@@ -1,36 +1,88 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068786f2",
+    "_id": "687ccbab09adbf7aa61b9313",
     "grid_id": "grid.411367.6",
     "institute_name": "Liberty University",
     "country": "United States",
     "retracted_record_ids": [
-      "54146"
+      "54146",
+      "66119"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341e97",
-      "Record ID": "54146",
-      "Title": "Cyclosporin A inhibits Al-induced cytochrome c release from mitochondria in aged rabbits",
-      "Subject": [
+      "_id": "687cef4f1f662220d89843ef",
+      "recordId": "66119",
+      "title": "Co-involvement of mitochondria and endoplasmic reticulum in regulation of apoptosis: changes in cytochrome c, Bcl-2 and Bax in the hippocampus of aluminum-treated rabbits",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Pathology, University of Virginia Health Sciences Center, Box 168, Charlottesville, VA 22908, USA",
+        "Department of Biochemistry and Molecular Genetics and Chemistry, University of Virginia Health Sciences Center, Box 168, Charlottesville, VA 22908, USA",
+        "Department of Biology and Chemistry, Liberty University, Lynchburg, VA, USA",
+        "IRP, NIMH, NIH, Bethesda, MD, USA"
+      ],
+      "journal": "Brain Research",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Othman Ghribi",
+        "David A DeWitt",
+        "Michael S Forbes",
+        "Mary M Herman",
+        "John Savory"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/9/2025 0:00",
+      "retractiondoi": "10.1016/j.brainres.2025.149820",
+      "retractionpubmedid": "40639068.0",
+      "originalpaperdate": "7/30/2001 0:00",
+      "originalpaperdoi": "10.1016/S0006-8993(01)02406-4",
+      "originalpaperpubmedid": "11382389.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Image",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/6C7013E383EEFB5748A5DCC124E325",
+      "year": "2001",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7d1f662220d898727d",
+      "recordId": "54146",
+      "title": "Cyclosporin A inhibits Al-induced cytochrome c release from mitochondria in aged rabbits",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathology, University of Virginia, Charlottesville, VA, USA",
         "Biochemistry and Molecular Genetics and Chemistry, University of Virginia, Charlottesville, VA, USA",
         "IRP, NIMH, NIH, Bethesda, MD, USA",
         "Departments of Biology and Chemistry, Liberty University, Lynchburg, VA, USA"
       ],
-      "Journal": "Journal of Alzheimer's Disease (JAD)",
-      "Publisher": "IOS Press (bought by Sage November 2023)",
-      "Country": [
+      "journal": "Journal of Alzheimer's Disease (JAD)",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Othman Ghribi",
         "David A DeWitt",
         "Michael S. Forbes",
@@ -38,49 +90,61 @@
         "Mary M Herman",
         "John Savory"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/5/2024 0:00",
-      "RetractionDOI": "10.3233/JAD-239015",
-      "RetractionPubMedID": "38427491.0",
-      "OriginalPaperDate": "8/7/2001 0:00",
-      "OriginalPaperDOI": "10.3233/jad-2001-3404",
-      "OriginalPaperPubMedID": "12214041.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/5/2024 0:00",
+      "retractiondoi": "10.3233/JAD-239015",
+      "retractionpubmedid": "38427491.0",
+      "originalpaperdate": "8/7/2001 0:00",
+      "originalpaperdoi": "10.3233/jad-2001-3404",
+      "originalpaperpubmedid": "12214041.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Image"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/C90482E7894602EA059822C362FEF4; see also: https://www.science.org/content/article/i-m-nauseated-alzheimer-s-whistleblower-finds-possible-misconduct-his-mentor-their",
-      "notice_year": 2024,
-      "year": 2001,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/C90482E7894602EA059822C362FEF4; see also: https://www.science.org/content/article/i-m-nauseated-alzheimer-s-whistleblower-finds-possible-misconduct-his-mentor-their",
+      "year": "2001",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2001,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

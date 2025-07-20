@@ -1,78 +1,31 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879d51",
+    "_id": "687ccbab09adbf7aa61ba972",
     "grid_id": "grid.419674.9",
     "institute_name": "Meiho University",
     "country": "Taiwan",
     "retracted_record_ids": [
-      "7104",
       "16590",
-      "5903",
+      "6996",
       "8714",
-      "16588",
       "6928",
+      "5903",
       "3530",
-      "6996"
+      "16588",
+      "7104"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d575",
-      "Record ID": "7104",
-      "Title": "A Study on the Relations among Distress Disclosure, Non-Supportive Social Responses and Anxiety of College Students",
-      "Subject": [
-        "(BLS) Neuroscience",
-        "(SOC) Psychology"
-      ],
-      "Institution": [
-        "Department of Clinical Psychology, Chang Jung Christian University, Taiwan",
-        "Graduate Institute of Guidance and Counseling, National Kaohsiung Normal University, Taiwan",
-        "Department of Social Work, Meiho Institute of Technology, Taiwan",
-        "Departments of Neurosurgery, Chang Gung Memorial Hospital - Kaohsiung Medical Center, Chang Gung University, College of Medicine, Taiwan"
-      ],
-      "Journal": "2009 3rd International Conference on Bioinformatics and Biomedical Engineering",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
-        "Taiwan"
-      ],
-      "Author": [
-        "Chu Mei Lan",
-        "Chia Nan Tai",
-        "Ju An Cheng",
-        "Thung Ming Su"
-      ],
-      "URLS": "https://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "7/14/2009 0:00",
-      "RetractionDOI": "10.1109/ICBBE.2009.5162252",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/11/2009 0:00",
-      "OriginalPaperDOI": "10.1109/ICBBE.2009.5162252",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "Notes": "Date of retraction unknown, estimated from conference date.",
-      "notice_year": 2009,
-      "year": 2009,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234b09b",
-      "Record ID": "16590",
-      "Title": "Silymarin Accelerates Liver Regeneration after Partial Hepatectomy",
-      "Subject": [
+      "_id": "687cf0971f662220d8990481",
+      "recordId": "16590",
+      "title": "Silymarin Accelerates Liver Regeneration after Partial Hepatectomy",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Graduate Institute of Basic Medical Science, China Medical University, Taichung 40402, Taiwan",
         "2School of Chinese Medicine for Post-Baccalaureate, I-Shou University, Kaohsiung 84001, Taiwan",
         "3Chinese Medicine Department, E-Da Hospital, Kaohsiung 82445, Taiwan",
@@ -84,13 +37,13 @@
         "10Graduate Institute of Chinese Medical Science, China Medical University, Taichung 40402, Taiwan",
         "11Department of Health and Nutrition Biotechnology, Asia University, Taichung 41354, Taiwan"
       ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "India",
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Jia-Ping Wu",
         "Chin-Chuan Tsai",
         "Yu-Lan Yeh",
@@ -102,150 +55,41 @@
         "Lung-Fa Pan",
         "Chih-Yang Huang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/23/2017 0:00",
-      "RetractionDOI": "10.1155/2017/2575273",
-      "RetractionPubMedID": "29333180.0",
-      "OriginalPaperDate": "1/22/2015 0:00",
-      "OriginalPaperDOI": "10.1155/2015/603529",
-      "OriginalPaperPubMedID": "26339266.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/23/2017 0:00",
+      "retractiondoi": "10.1155/2017/2575273",
+      "retractionpubmedid": "29333180.0",
+      "originalpaperdate": "1/22/2015 0:00",
+      "originalpaperdoi": "10.1155/2015/603529",
+      "originalpaperpubmedid": "26339266.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Investigation by Third Party",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/DC447A1F9321B92BCAD9B84D2D5802",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/DC447A1F9321B92BCAD9B84D2D5802",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234da14",
-      "Record ID": "5903",
-      "Title": "Influence and dynamics of a mobile robot control on mechanical components",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(PHY) Engineering - Electrical",
-        "(PHY) Engineering - Mechanical"
-      ],
-      "Institution": [
-        "Department of Information Management, Meiho University, Taiwan, Republic of China",
-        "Department of Applied Finance, Yuanpei University, Taiwan, Republic of China",
-        "School of Computer Science, University of Waterloo, Ontario, Canada",
-        "Department and Graduate School of Computer Science, National Pingtung University of Education",
-        "Department and Graduate School of Computer Science, National Pingtung University of Education, Taiwan, Republic of China",
-        "Global Earth Observation and Data Analysis Center (GEODAC), National Cheng Kung University, Taiwan, Republic of China",
-        "Department of Information Management, National Kaohsiung First University of Science and Technology, Taiwan, Republic of China"
-      ],
-      "Journal": "Journal of Vibration and Control",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Canada",
-        "China",
-        "Taiwan"
-      ],
-      "Author": [
-        "Pei-Yin Chung",
-        "Ying-Hsiu Chen",
-        "Liui Walter",
-        "Chen-Yuan Peter Chen"
-      ],
-      "URLS": "http://retractionwatch.com/2014/07/08/sage-publications-busts-peer-review-and-citation-ring-60-papers-retracted/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/1/2014 0:00",
-      "RetractionDOI": "10.1177/1077546314541924",
-      "OriginalPaperDate": "7/20/2013 0:00",
-      "OriginalPaperDOI": "10.1177/1077546312452184",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Fake Peer Review",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Chen-Yuan 'Peter' Chen was at center of peer-review and citation ring; JME 07/04/2017",
-      "notice_year": 2014,
-      "year": 2013,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234cf46",
-      "Record ID": "8714",
-      "Title": "Effects of garlic oil on interleukin-6 mediated cardiac hypertrophy in hypercholesterol-fed hamsters",
-      "Subject": [
-        "(BLS) Nutrition",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Cardiology"
-      ],
-      "Institution": [
-        "Department of Health and Nutrition Biotechnology, Asia University, Taichung 41354",
-        "Division of Cardiology, China Medical University Hospital, Taichung 40402",
-        "School of Chinese Medicine, College of Chinese Medicine, China Medical University Taichung 40402",
-        "Chinese Medicine Department, China Medical University Beigang Hospital, Yunlin 65152",
-        "Department of Hospital and Health Care Administration, Chia Nan University of Pharmacy & Science, Tainan 71710",
-        "Emergency Department, Taichung Veterans General Hospital, Taichung 40705",
-        "Department of Biotechnology Science and Technology, China Medical University, Taichung 40402",
-        "Department of Biotechnology, Asia University, Taichung 41354",
-        "Department of Nursing, MeiHo University, Pingtung 91202",
-        "Graduate Institute of Basic Medical Science, China Medical University, Taichung 40402 Taiwan, Republic of China"
-      ],
-      "Journal": "Chinese Journal of Physiology",
-      "Publisher": "The Chinese Physiological Society",
-      "Country": [
-        "Taiwan"
-      ],
-      "Author": [
-        "You-Liang Hsieh",
-        "Peiying Pai",
-        "Tsung-Jung Ho",
-        "Li-Chin Chung",
-        "Yi-Chang Cheng",
-        "Chieh-Hsi Wu",
-        "Ming-Jen Fan",
-        "Cecelia Hsuan Day",
-        "Chia-Yao Shen",
-        "Chih-Yang Huang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/30/2017 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "28791859.0",
-      "OriginalPaperDate": "12/31/2014 0:00",
-      "OriginalPaperDOI": "10.4077/CJP.2014.BAC261",
-      "OriginalPaperPubMedID": "25575520.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "Notes": "Cecelia Hsuan Day aka Cecilia Hsuan Day",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234b09d",
-      "Record ID": "16588",
-      "Title": "Herbal Supplement Ameliorates Cardiac Hypertrophy in Rats with CCl4-Induced Liver Cirrhosis",
-      "Subject": [
+      "_id": "687cf0971f662220d8990483",
+      "recordId": "16588",
+      "title": "Herbal Supplement Ameliorates Cardiac Hypertrophy in Rats with CCl4-Induced Liver Cirrhosis",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Cardiovascular Surgery, China Medical University Hospital, Taichung 40402, Taiwan",
         "Department of Life Science, Tunghai University, Taichung 40704, Taiwan",
         "Emergency Department and Center of Hyperbaric Oxygen Therapy, Tungs\u2019 Taichung MetroHarbor Hospital, Taichung 43503, Taiwan",
@@ -261,12 +105,12 @@
         "Graduate Institute of Cancer Biology, China Medical University, Taichung 40402, Taiwan",
         "Department of Health and Nutrition Biotechnology, Asia University, Taichung 41354, Taiwan"
       ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Ping-Chun Li",
         "Yung-Wei Chiu",
         "Yueh-Min Lin",
@@ -280,230 +124,394 @@
         "Jer-Yuh Liu",
         "Chih-Yang Huang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/22/2017 0:00",
-      "RetractionDOI": "10.1155/2017/5276749",
-      "RetractionPubMedID": "29358965.0",
-      "OriginalPaperDate": "8/7/2012 0:00",
-      "OriginalPaperDOI": "10.1155/2012/139045",
-      "OriginalPaperPubMedID": "23243427.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/22/2017 0:00",
+      "retractiondoi": "10.1155/2017/5276749",
+      "retractionpubmedid": "29358965.0",
+      "originalpaperdate": "8/7/2012 0:00",
+      "originalpaperdoi": "10.1155/2012/139045",
+      "originalpaperpubmedid": "23243427.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d622",
-      "Record ID": "6928",
-      "Title": "Using Ontological Engineering for Computer Education on Online E-learning Community System",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology",
-        "(SOC) Education"
+      "_id": "687cf0b81f662220d899232c",
+      "recordId": "8714",
+      "title": "Effects of garlic oil on interleukin-6 mediated cardiac hypertrophy in hypercholesterol-fed hamsters",
+      "subject": [
+        "(BLS) Nutrition",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
-        "Deptrtment of Public Finance, Meiho Institute of Technology, Pingtung, Taiwan"
+      "institution": [
+        "Department of Health and Nutrition Biotechnology, Asia University, Taichung 41354",
+        "Division of Cardiology, China Medical University Hospital, Taichung 40402",
+        "School of Chinese Medicine, College of Chinese Medicine, China Medical University Taichung 40402",
+        "Chinese Medicine Department, China Medical University Beigang Hospital, Yunlin 65152",
+        "Department of Hospital and Health Care Administration, Chia Nan University of Pharmacy & Science, Tainan 71710",
+        "Emergency Department, Taichung Veterans General Hospital, Taichung 40705",
+        "Department of Biotechnology Science and Technology, China Medical University, Taichung 40402",
+        "Department of Biotechnology, Asia University, Taichung 41354",
+        "Department of Nursing, MeiHo University, Pingtung 91202",
+        "Graduate Institute of Basic Medical Science, China Medical University, Taichung 40402 Taiwan, Republic of China"
       ],
-      "Journal": "2009 International Conference on Education Technology and Computer",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "Chinese Journal of Physiology",
+      "publisher": "The Chinese Physiological Society",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
-        "Han Jie Hsu",
-        "I Chu Chung",
-        "Wei Shuo Lo"
+      "author": [
+        "You-Liang Hsieh",
+        "Peiying Pai",
+        "Tsung-Jung Ho",
+        "Li-Chin Chung",
+        "Yi-Chang Cheng",
+        "Chieh-Hsi Wu",
+        "Ming-Jen Fan",
+        "Cecelia Hsuan Day",
+        "Chia-Yao Shen",
+        "Chih-Yang Huang"
       ],
-      "URLS": "https://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/30/2017 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "28791859.0",
+      "originalpaperdate": "12/31/2014 0:00",
+      "originalpaperdoi": "10.4077/CJP.2014.BAC261",
+      "originalpaperpubmedid": "25575520.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "notes": "Cecelia Hsuan Day aka Cecilia Hsuan Day",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d899295b",
+      "recordId": "7104",
+      "title": "A Study on the Relations among Distress Disclosure, Non-Supportive Social Responses and Anxiety of College Students",
+      "subject": [
+        "(BLS) Neuroscience",
+        "(SOC) Psychology"
+      ],
+      "institution": [
+        "Department of Clinical Psychology, Chang Jung Christian University, Taiwan",
+        "Graduate Institute of Guidance and Counseling, National Kaohsiung Normal University, Taiwan",
+        "Department of Social Work, Meiho Institute of Technology, Taiwan",
+        "Departments of Neurosurgery, Chang Gung Memorial Hospital - Kaohsiung Medical Center, Chang Gung University, College of Medicine, Taiwan"
+      ],
+      "journal": "2009 3rd International Conference on Bioinformatics and Biomedical Engineering",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Chu Mei Lan",
+        "Chia Nan Tai",
+        "Ju An Cheng",
+        "Thung Ming Su"
+      ],
+      "urls": "https://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "7/21/2009 0:00",
-      "RetractionDOI": "10.1109/ICETC.2009.70",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/17/2009 0:00",
-      "OriginalPaperDOI": "10.1109/ICETC.2009.70",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/14/2009 0:00",
+      "retractiondoi": "10.1109/ICBBE.2009.5162252",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/11/2009 0:00",
+      "originalpaperdoi": "10.1109/ICBBE.2009.5162252",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Breach of Policy by Author",
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "Date of retraction unknown, estimated from conference date.",
-      "notice_year": 2009,
-      "year": 2009,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Date of retraction unknown, estimated from conference date.",
+      "year": "2009",
+      "noticeYear": "2009",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e32a",
-      "Record ID": "3530",
-      "Title": "The Predictors of the Job Stress among Female Married Hospital Nurses",
-      "Subject": [
-        "(HSC) Medicine - Nursing",
-        "(SOC) Psychology",
-        "(SOC) Sociology"
-      ],
-      "Institution": [
-        "Department of Nursing, Meiho University, Taiwan",
-        "Language Education Center, Fooyin University, Taiwan",
-        "Department of Food and Nutrition, Meiho University, Taiwan",
-        "Department of Rehabilitation, Division of Erlin, Changhua Christian Hospital, Taiwan"
-      ],
-      "Journal": "Industrial Health",
-      "Publisher": "National Institute of Occupational Safety and Health, Japan",
-      "Country": [
-        "Taiwan"
-      ],
-      "Author": [
-        "Li Fang",
-        "Shu-Hui Fang",
-        "Yun-Ho Chung",
-        "Chin-Lin Fang"
-      ],
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "10/6/2014 0:00",
-      "RetractionDOI": "10.2486/indhealth.2014-0013e",
-      "RetractionPubMedID": "25283729.0",
-      "OriginalPaperDate": "5/7/2014 0:00",
-      "OriginalPaperDOI": "10.2486/indhealth.2014-0013",
-      "OriginalPaperPubMedID": "24807125.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234d5df",
-      "Record ID": "6996",
-      "Title": "Ergonomic Techniques for a Mobile E-Invoice System: Operational Requirements of an Information Management System",
-      "Subject": [
+      "_id": "687cf0bd1f662220d89929c5",
+      "recordId": "6996",
+      "title": "Ergonomic Techniques for a Mobile E-Invoice System: Operational Requirements of an Information Management System",
+      "subject": [
         "(B/T) Business - General",
         "(B/T) Technology",
         "(SOC) Communications"
       ],
-      "Institution": [
+      "institution": [
         "Department of Information Management, Transworld University, Yunlin, Taiwan (R.O.C.)",
         "Department of Computer Science and Information Engineering, National Chiayi University, 300 Syuefu RD., Chiayi City 60004, Taiwan (R.O.C.)",
         "Department and Graduate School of Computer Science, National Pingtung University of Education, Pingtung, Taiwan (R.O.C.)",
         "Department of Business Administration, Shu-Te University, Kaohsiung, Taiwan (R.O.C.)",
         "Department of Information Management, Meiho University, Pingtung, Taiwan (R.O.C.)"
       ],
-      "Journal": "Human Factors and Ergonomics in Manufacturing & Service Industries",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Human Factors and Ergonomics in Manufacturing & Service Industries",
+      "publisher": "Wiley",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Chin-Jui Chang",
         "Huai-Chien Kuo",
         "Chen-Yuan Peter Chen",
         "Tsung-Hao Chen",
         "Pei-Yin Chung"
       ],
-      "URLS": "http://retractionwatch.com/2016/04/28/authors-in-2014-peer-review-ring-loses-4-more-papers-each-for-compromised-review/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/04/28/authors-in-2014-peer-review-ring-loses-4-more-papers-each-for-compromised-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/19/2016 0:00",
-      "RetractionDOI": "10.1002/hfm.20659",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/14/2012 0:00",
-      "OriginalPaperDOI": "10.1002/hfm.20340",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/19/2016 0:00",
+      "retractiondoi": "10.1002/hfm.20659",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/14/2012 0:00",
+      "originalpaperdoi": "10.1002/hfm.20340",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Conflict of Interest",
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "See entries for C-Y Chen and Cheng-Wu Chen;",
-      "notice_year": 2016,
-      "year": 2012,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See entries for C-Y Chen and Cheng-Wu Chen;",
+      "year": "2012",
+      "noticeYear": "2016",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d8992a08",
+      "recordId": "6928",
+      "title": "Using Ontological Engineering for Computer Education on Online E-learning Community System",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(SOC) Education"
+      ],
+      "institution": [
+        "Deptrtment of Public Finance, Meiho Institute of Technology, Pingtung, Taiwan"
+      ],
+      "journal": "2009 International Conference on Education Technology and Computer",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Han Jie Hsu",
+        "I Chu Chung",
+        "Wei Shuo Lo"
+      ],
+      "urls": "https://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "7/21/2009 0:00",
+      "retractiondoi": "10.1109/ICETC.2009.70",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/17/2009 0:00",
+      "originalpaperdoi": "10.1109/ICETC.2009.70",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "notes": "Date of retraction unknown, estimated from conference date.",
+      "year": "2009",
+      "noticeYear": "2009",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c11f662220d8992dfa",
+      "recordId": "5903",
+      "title": "Influence and dynamics of a mobile robot control on mechanical components",
+      "subject": [
+        "(B/T) Computer Science",
+        "(PHY) Engineering - Electrical",
+        "(PHY) Engineering - Mechanical"
+      ],
+      "institution": [
+        "Department of Information Management, Meiho University, Taiwan, Republic of China",
+        "Department of Applied Finance, Yuanpei University, Taiwan, Republic of China",
+        "School of Computer Science, University of Waterloo, Ontario, Canada",
+        "Department and Graduate School of Computer Science, National Pingtung University of Education",
+        "Department and Graduate School of Computer Science, National Pingtung University of Education, Taiwan, Republic of China",
+        "Global Earth Observation and Data Analysis Center (GEODAC), National Cheng Kung University, Taiwan, Republic of China",
+        "Department of Information Management, National Kaohsiung First University of Science and Technology, Taiwan, Republic of China"
+      ],
+      "journal": "Journal of Vibration and Control",
+      "publisher": "SAGE Publications",
+      "country": [
+        "Canada",
+        "China",
+        "Taiwan"
+      ],
+      "author": [
+        "Pei-Yin Chung",
+        "Ying-Hsiu Chen",
+        "Liui Walter",
+        "Chen-Yuan Peter Chen"
+      ],
+      "urls": "http://retractionwatch.com/2014/07/08/sage-publications-busts-peer-review-and-citation-ring-60-papers-retracted/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/1/2014 0:00",
+      "retractiondoi": "10.1177/1077546314541924",
+      "originalpaperdate": "7/20/2013 0:00",
+      "originalpaperdoi": "10.1177/1077546312452184",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Chen-Yuan 'Peter' Chen was at center of peer-review and citation ring; JME 07/04/2017",
+      "year": "2013",
+      "noticeYear": "2014",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d8993710",
+      "recordId": "3530",
+      "title": "The Predictors of the Job Stress among Female Married Hospital Nurses",
+      "subject": [
+        "(HSC) Medicine - Nursing",
+        "(SOC) Psychology",
+        "(SOC) Sociology"
+      ],
+      "institution": [
+        "Department of Nursing, Meiho University, Taiwan",
+        "Language Education Center, Fooyin University, Taiwan",
+        "Department of Food and Nutrition, Meiho University, Taiwan",
+        "Department of Rehabilitation, Division of Erlin, Changhua Christian Hospital, Taiwan"
+      ],
+      "journal": "Industrial Health",
+      "publisher": "National Institute of Occupational Safety and Health, Japan",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Li Fang",
+        "Shu-Hui Fang",
+        "Yun-Ho Chung",
+        "Chin-Lin Fang"
+      ],
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "10/6/2014 0:00",
+      "retractiondoi": "10.2486/indhealth.2014-0013e",
+      "retractionpubmedid": "25283729.0",
+      "originalpaperdate": "5/7/2014 0:00",
+      "originalpaperdoi": "10.2486/indhealth.2014-0013",
+      "originalpaperpubmedid": "24807125.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 2,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -511,10 +519,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

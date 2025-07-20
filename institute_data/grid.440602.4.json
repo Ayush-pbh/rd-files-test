@@ -1,63 +1,129 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687995c",
+    "_id": "687ccbab09adbf7aa61ba57d",
     "grid_id": "grid.440602.4",
     "institute_name": "Shumen University",
     "country": "Bulgaria",
     "retracted_record_ids": [
-      "22155"
+      "22155",
+      "65738"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349b02",
-      "Record ID": "22155",
-      "Title": "Comparison of iterative methods with order of convergence three and four",
-      "Subject": [
-        "(PHY) Mathematics"
+      "_id": "687cef4f1f662220d898456b",
+      "recordId": "65738",
+      "title": "Intelligent methods for impartial and objective evaluation of a course project",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(SOC) Education"
       ],
-      "Institution": [
-        "College of Dobrich, Shumen University, Shumen, Bulgaria"
+      "institution": [
+        "Konstantin Preslavsky University of Shumen, Faculty of Mathematics and Computer Science, 115 Universitetska str, Shumen, Bulgaria"
       ],
-      "Journal": "Journal of Fundamental and Applied Sciences",
-      "Publisher": "University of El Qued",
-      "Country": [
+      "journal": "E3S Web of Conferences",
+      "publisher": "EDP Sciences",
+      "country": [
         "Bulgaria"
       ],
-      "Author": [
-        "T P Mateva"
+      "author": [
+        "Boryana Uzunova-Dimitrova"
       ],
-      "URLS": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/7/2018 0:00",
-      "OriginalPaperDOI": "10.4314/jfas.v10i6s.102",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/6/2025 0:00",
+      "retractiondoi": "10.1051/e3sconf/202342000001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/4/2023 0:00",
+      "originalpaperdoi": "10.1051/e3sconf/202342010025",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf01a1f662220d898eee8",
+      "recordId": "22155",
+      "title": "Comparison of iterative methods with order of convergence three and four",
+      "subject": [
+        "(PHY) Mathematics"
+      ],
+      "institution": [
+        "College of Dobrich, Shumen University, Shumen, Bulgaria"
+      ],
+      "journal": "Journal of Fundamental and Applied Sciences",
+      "publisher": "University of El Qued",
+      "country": [
+        "Bulgaria"
+      ],
+      "author": [
+        "T P Mateva"
+      ],
+      "urls": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/7/2018 0:00",
+      "originalpaperdoi": "10.4314/jfas.v10i6s.102",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Removed",
         "+Withdrawn to Publish in Different Journal"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

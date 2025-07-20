@@ -1,37 +1,359 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068777f7",
+    "_id": "687ccbab09adbf7aa61b8418",
     "grid_id": "grid.513391.c",
     "institute_name": "Maoming People's Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "38646",
-      "41467",
       "41612",
-      "63661",
-      "49401",
       "53507",
+      "49401",
+      "41467",
+      "63661",
+      "38646",
       "58141"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345ad6",
-      "Record ID": "38646",
-      "Title": "High glucose activated cardiac fibroblasts by a disruption of mitochondria-associated membranes",
-      "Subject": [
+      "_id": "687cef571f662220d8984d6d",
+      "recordId": "63661",
+      "title": "Simultaneous localization and mapping of medical burn areas based on binocular vision and capsule networks",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "School of Computer, Guangdong University of Petrochemical Technology, Guangdong, Maoming, 525000, China",
+        "Computer Center, Maoming People\u2019s Hospital, Guangdong, Maoming, 525000, China",
+        "Burn Department of Maoming People\u2019s Hospital, Guangdong, Maoming, 525000, China",
+        "Cardiology Department, Shenzhen University General Hospital, Guangdong, Shenzhen, 518037, China",
+        "Logistics Department, Maoming People\u2019s Hospital, Guangdong, Maoming, 525000, China"
+      ],
+      "journal": "Soft Computing",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xianjun Wu",
+        "Heming Chen",
+        "Xiaoli Wu",
+        "Shunjun Wu",
+        "Jinbo Huang"
+      ],
+      "urls": "https://retractionwatch.com/2024/11/07/another-springer-nature-journal-has-retracted-over-300-papers-since-july/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/21/2024 0:00",
+      "retractiondoi": "10.1007/s00500-024-10201-7",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/8/2020 0:00",
+      "originalpaperdoi": "10.1007/s00500-020-05067-4",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef6d1f662220d89862e7",
+      "recordId": "58141",
+      "title": "Identifying a 6-Gene Prognostic Signature for Lung Adenocarcinoma Based on Copy Number Variation and Gene Expression Data",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Pathology"
+      ],
+      "institution": [
+        "Postdoctoral Innovation Center of Zhongshan Chenxinghai Hospital, Jinan University, Guangzhou, China",
+        "Department of Oncology, Maoming People's Hospital, Maoming City, China",
+        "Key Laboratory of Functional Protein Research of Guangdong Higher Education Institutes, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China",
+        "Department of Endocrinology, Zhongshan Hospital of Sun Yat-Sen University, Zhongshan City People's Hospital, Zhongshan City, China",
+        "Translational Medicine Center, Key Laboratory of Molecular Target and Clinical Pharmacology, School of Pharmaceutical Sciences, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+        "Department of Thoracic Surgery, Maoming People's Hospital, Maoming City, China"
+      ],
+      "journal": "Oxidative Medicine and Cellular Longevity",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yisheng Huang",
+        "Liling Qiu",
+        "Xiaoye Liang",
+        "Jing Zhao",
+        "Haoting Chen",
+        "Zhiqiang Luo",
+        "Wanzhen Li",
+        "Xiaohua Lin",
+        "Jingjie Jin",
+        "Jian Huang",
+        "Gong Zhang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9890283",
+      "retractionpubmedid": "38189008.0",
+      "originalpaperdate": "9/28/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6962163",
+      "originalpaperpubmedid": "36211815.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef811f662220d89874fc",
+      "recordId": "53507",
+      "title": "Arecoline induces epithelial-mesenchymal transformation and promotes metastasis of oral cancer by SAA1 expression",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Oral and Maxillofacial Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, People\u2019s Republic of China",
+        "Department of Stomatology, Maoming People's Hospital, Maoming, People\u2019s Republic of China",
+        "Women and Children\u2019s Medical Center, Guangzhou, People\u2019s Republic of China",
+        "Department of Stomatology, The Third Affiliated Hospital, Sun Yat-sen University, Guangzhou, People\u2019s Republic of China"
+      ],
+      "journal": "Cancer Science",
+      "publisher": "Wiley",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hui Ren",
+        "Guoqin He",
+        "Zhiyuan Lu",
+        "Qianting He",
+        "Shuai Li",
+        "Zhexun Huang",
+        "Zheng Chen",
+        "Congyuan Cao",
+        "Anxun Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/13/2022 0:00",
+      "retractiondoi": "10.1111/cas.15626",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/24/2021 0:00",
+      "originalpaperdoi": "10.1111/cas.14866",
+      "originalpaperpubmedid": "33626219.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Third Party",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/786636F0F8213D2135BA0DAD080F8A",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef901f662220d89884ed",
+      "recordId": "49401",
+      "title": "Classification and Pathological Diagnosis of Idiopathic Interstitial Pneumonia",
+      "subject": [
+        "(B/T) Data Science",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Department of Pulmonary and Critical Care Medicine, Maoming People\u2019s Hospital, Maoming, Guangdong 525000, China"
+      ],
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Zhihua Chen",
+        "Wenqiang Huang",
+        "Yibo Song"
+      ],
+      "urls": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/12/2023 0:00",
+      "retractiondoi": "10.1155/2023/9819018",
+      "retractionpubmedid": "37476214.0",
+      "originalpaperdate": "5/31/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/1198581",
+      "originalpaperpubmedid": "35685144.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefae1f662220d898a33d",
+      "recordId": "41612",
+      "title": "Application of wireless sensor network in remote medical monitoring system",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Logistics Department, Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
+        "School of Computer, Guangdong University of Petrochemical Technology, Maoming, 525000, Guangdong, China",
+        "Burn Department of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
+        "Scientific Research Center of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China"
+      ],
+      "journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jinbo Huang",
+        "Xianjun Wu",
+        "Xiaoli Wu",
+        "Wendong Huang"
+      ],
+      "urls": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/30/2022 0:00",
+      "retractiondoi": "Unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/11/2021 0:00",
+      "originalpaperdoi": "10.1007/s12652-021-03204-x",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb01f662220d898a3ce",
+      "recordId": "41467",
+      "title": "Design of a data management system for medical Internet of Things based on mobile platform",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Logistics Department, Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
+        "School of Computer, Guangdong University of Petrochemical Technology, Maoming, 525000, Guangdong, China",
+        "Scientific Research Center of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
+        "Burn Department of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China"
+      ],
+      "journal": "Journal of Ambient Intelligence and Humanized Computing",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jinbo Huang",
+        "Xianjun Wu",
+        "Wendong Huang",
+        "Xiaoli Wu"
+      ],
+      "urls": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/30/2022 0:00",
+      "retractiondoi": "Unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/15/2021 0:00",
+      "originalpaperdoi": "10.1007/s12652-021-03043-w",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898aebc",
+      "recordId": "38646",
+      "title": "High glucose activated cardiac fibroblasts by a disruption of mitochondria-associated membranes",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cardiology, Maoming People\u2019s Hospital, Maoming, China"
       ],
-      "Journal": "Frontiers in Physiology",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Ling Yu Zhang",
         "Rui Ting Lin",
         "Hao Rana Chen",
@@ -47,341 +369,26 @@
         "Shuai Chen",
         "Shi Yun Cai"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/4/2022 0:00",
-      "RetractionDOI": "10.3389/fphys.2022.1006459",
-      "RetractionPubMedID": "35991174.0",
-      "OriginalPaperDate": "8/18/2021 0:00",
-      "OriginalPaperDOI": "10.3389/fphys.2021.724470",
-      "OriginalPaperPubMedID": "34483973.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/4/2022 0:00",
+      "retractiondoi": "10.3389/fphys.2022.1006459",
+      "retractionpubmedid": "35991174.0",
+      "originalpaperdate": "8/18/2021 0:00",
+      "originalpaperdoi": "10.3389/fphys.2021.724470",
+      "originalpaperpubmedid": "34483973.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2344fe8",
-      "Record ID": "41467",
-      "Title": "Design of a data management system for medical Internet of Things based on mobile platform",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Logistics Department, Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
-        "School of Computer, Guangdong University of Petrochemical Technology, Maoming, 525000, Guangdong, China",
-        "Scientific Research Center of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
-        "Burn Department of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China"
-      ],
-      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Jinbo Huang",
-        "Xianjun Wu",
-        "Wendong Huang",
-        "Xiaoli Wu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/30/2022 0:00",
-      "RetractionDOI": "Unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/15/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s12652-021-03043-w",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2344f57",
-      "Record ID": "41612",
-      "Title": "Application of wireless sensor network in remote medical monitoring system",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Logistics Department, Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
-        "School of Computer, Guangdong University of Petrochemical Technology, Maoming, 525000, Guangdong, China",
-        "Burn Department of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China",
-        "Scientific Research Center of Maoming People\u2019s Hospital, Maoming, 525000, Guangdong, China"
-      ],
-      "Journal": "Journal of Ambient Intelligence and Humanized Computing",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Jinbo Huang",
-        "Xianjun Wu",
-        "Xiaoli Wu",
-        "Wendong Huang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/05/23/journal-about-ambient-intelligence-retracts-more-than-50-papers-at-once/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/30/2022 0:00",
-      "RetractionDOI": "Unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/11/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s12652-021-03204-x",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d233f987",
-      "Record ID": "63661",
-      "Title": "Simultaneous localization and mapping of medical burn areas based on binocular vision and capsule networks",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(B/T) Technology",
-        "(HSC) Medicine - Dermatology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "School of Computer, Guangdong University of Petrochemical Technology, Guangdong, Maoming, 525000, China",
-        "Computer Center, Maoming People\u2019s Hospital, Guangdong, Maoming, 525000, China",
-        "Burn Department of Maoming People\u2019s Hospital, Guangdong, Maoming, 525000, China",
-        "Cardiology Department, Shenzhen University General Hospital, Guangdong, Shenzhen, 518037, China",
-        "Logistics Department, Maoming People\u2019s Hospital, Guangdong, Maoming, 525000, China"
-      ],
-      "Journal": "Soft Computing",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xianjun Wu",
-        "Heming Chen",
-        "Xiaoli Wu",
-        "Shunjun Wu",
-        "Jinbo Huang"
-      ],
-      "URLS": "https://retractionwatch.com/2024/11/07/another-springer-nature-journal-has-retracted-over-300-papers-since-july/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/21/2024 0:00",
-      "RetractionDOI": "10.1007/s00500-024-10201-7",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/8/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s00500-020-05067-4",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Article",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2343107",
-      "Record ID": "49401",
-      "Title": "Classification and Pathological Diagnosis of Idiopathic Interstitial Pneumonia",
-      "Subject": [
-        "(B/T) Data Science",
-        "(HSC) Medicine - Pulmonology"
-      ],
-      "Institution": [
-        "Department of Pulmonary and Critical Care Medicine, Maoming People\u2019s Hospital, Maoming, Guangdong 525000, China"
-      ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Zhihua Chen",
-        "Wenqiang Huang",
-        "Yibo Song"
-      ],
-      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/12/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9819018",
-      "RetractionPubMedID": "37476214.0",
-      "OriginalPaperDate": "5/31/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/1198581",
-      "OriginalPaperPubMedID": "35685144.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2342116",
-      "Record ID": "53507",
-      "Title": "Arecoline induces epithelial-mesenchymal transformation and promotes metastasis of oral cancer by SAA1 expression",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Oral and Maxillofacial Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, People\u2019s Republic of China",
-        "Department of Stomatology, Maoming People's Hospital, Maoming, People\u2019s Republic of China",
-        "Women and Children\u2019s Medical Center, Guangzhou, People\u2019s Republic of China",
-        "Department of Stomatology, The Third Affiliated Hospital, Sun Yat-sen University, Guangzhou, People\u2019s Republic of China"
-      ],
-      "Journal": "Cancer Science",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hui Ren",
-        "Guoqin He",
-        "Zhiyuan Lu",
-        "Qianting He",
-        "Shuai Li",
-        "Zhexun Huang",
-        "Zheng Chen",
-        "Congyuan Cao",
-        "Anxun Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/13/2022 0:00",
-      "RetractionDOI": "10.1111/cas.15626",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/24/2021 0:00",
-      "OriginalPaperDOI": "10.1111/cas.14866",
-      "OriginalPaperPubMedID": "33626219.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Third Party",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/786636F0F8213D2135BA0DAD080F8A",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2340f01",
-      "Record ID": "58141",
-      "Title": "Identifying a 6-Gene Prognostic Signature for Lung Adenocarcinoma Based on Copy Number Variation and Gene Expression Data",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Pathology"
-      ],
-      "Institution": [
-        "Postdoctoral Innovation Center of Zhongshan Chenxinghai Hospital, Jinan University, Guangzhou, China",
-        "Department of Oncology, Maoming People's Hospital, Maoming City, China",
-        "Key Laboratory of Functional Protein Research of Guangdong Higher Education Institutes, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China",
-        "Department of Endocrinology, Zhongshan Hospital of Sun Yat-Sen University, Zhongshan City People's Hospital, Zhongshan City, China",
-        "Translational Medicine Center, Key Laboratory of Molecular Target and Clinical Pharmacology, School of Pharmaceutical Sciences, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
-        "Department of Thoracic Surgery, Maoming People's Hospital, Maoming City, China"
-      ],
-      "Journal": "Oxidative Medicine and Cellular Longevity",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yisheng Huang",
-        "Liling Qiu",
-        "Xiaoye Liang",
-        "Jing Zhao",
-        "Haoting Chen",
-        "Zhiqiang Luo",
-        "Wanzhen Li",
-        "Xiaohua Lin",
-        "Jingjie Jin",
-        "Jian Huang",
-        "Gong Zhang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9890283",
-      "RetractionPubMedID": "38189008.0",
-      "OriginalPaperDate": "9/28/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6962163",
-      "OriginalPaperPubMedID": "36211815.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
@@ -391,7 +398,7 @@
       "retraction_notice_count": 0,
       "publication_count": 1,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -402,7 +409,7 @@
       "retraction_notice_count": 0,
       "publication_count": 1,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -413,7 +420,7 @@
       "retraction_notice_count": 0,
       "publication_count": 4,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -424,7 +431,7 @@
       "retraction_notice_count": 0,
       "publication_count": 6,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -435,7 +442,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -446,7 +453,7 @@
       "retraction_notice_count": 0,
       "publication_count": 7,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -457,7 +464,7 @@
       "retraction_notice_count": 0,
       "publication_count": 3,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -468,7 +475,7 @@
       "retraction_notice_count": 0,
       "publication_count": 9,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -479,51 +486,95 @@
       "retraction_notice_count": 0,
       "publication_count": 31,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 91,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2020,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 91,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 128,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
-      "integrity": 3
+      "integrity": 0
+    },
+    {
+      "year": 2021,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 128,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 118,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
+    },
+    {
+      "year": 2022,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 118,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 93,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 93,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -531,10 +582,21 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 93,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2024,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 93,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -545,7 +607,7 @@
       "retraction_notice_count": 0,
       "publication_count": 44,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

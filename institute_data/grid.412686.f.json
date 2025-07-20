@@ -1,64 +1,24 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687821a",
+    "_id": "687ccbab09adbf7aa61b8e3b",
     "grid_id": "grid.412686.f",
     "institute_name": "Soroka Medical Center",
     "country": "Israel",
     "retracted_record_ids": [
-      "4192",
-      "58886"
+      "58886",
+      "4192"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e09e",
-      "Record ID": "4192",
-      "Title": "The anti-inflammatory activity of 1,25-dihydroxyvitamin D3 in macrophages",
-      "Subject": [
-        "(BLS) Biochemistry"
-      ],
-      "Institution": [
-        "Department of Clinical Biochemistry, Soroka Medical Center, Ben-Gurion University, Faculty of Health Sciences, P.O. Box 151, Beer Sheva 84101, Israel"
-      ],
-      "Journal": "The Journal of Steroid Biochemistry and Molecular Biology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Israel"
-      ],
-      "Author": [
-        "Merav Cohen-Lahav",
-        "Amos Douvdevani",
-        "Cidio Chaimovitz",
-        "Shraga Shany"
-      ],
-      "URLS": "http://retractionwatch.com/2011/10/05/mistaken-notice-as-ben-gurion-researchers-retract-vitamin-d-paper-for-duplication/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/1/2011 0:00",
-      "RetractionDOI": "10.1016/j.jsbmb.2011.09.006",
-      "RetractionPubMedID": "22200063.0",
-      "OriginalPaperDate": "3/1/2007 0:00",
-      "OriginalPaperDOI": "10.1016/j.jsbmb.2006.12.093",
-      "OriginalPaperPubMedID": "17267205.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2007,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2340c1b",
-      "Record ID": "58886",
-      "Title": "A modified multilocus sequence typing protocol to genotype Kingella kingae from oropharyngeal swabs without bacterial isolation",
-      "Subject": [
+      "_id": "687cef6b1f662220d8986001",
+      "recordId": "58886",
+      "title": "A modified multilocus sequence typing protocol to genotype Kingella kingae from oropharyngeal swabs without bacterial isolation",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "Aix-Marseille Univ, UM63, CNRS 7278, IRD 198, Inserm 1095, Assistance Publique \u2013 H\u00f4pitaux de Marseille, URMITE, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e Infection, 19-21 Boulevard Jean Moulin, 13385, Marseille, France",
         "University of Grenoble Alpes, CEA, CNRS, IBS, F-38000, Grenoble, France",
         "Department of Pediatric Emergency Medicine, North Hospital, Aix-Marseille University, Marseille, France",
@@ -66,14 +26,14 @@
         "Clinical Microbiology Laboratory, Soroka University Medical Center, Beer-Sheva, Israel",
         "Laboratoire de Microbiologie, H\u00f4pital Robert Debr\u00e9, Assistance Publique \u2013 H\u00f4pitaux de Paris, Universit\u00e9 Paris Diderot, Sorbonne Paris Cit\u00e9, Inserm, IAME, UMR 1137, Paris, France"
       ],
-      "Journal": "BMC Microbiology",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "BMC Microbiology",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "France",
         "Israel",
         "Switzerland"
       ],
-      "Author": [
+      "author": [
         "Nawal El Houmami",
         "Janek Bzdrenga",
         "Jean-Christophe Pons",
@@ -86,34 +46,76 @@
         "Philippe Bidet",
         "Pierre-Edouard Fournier"
       ],
-      "URLS": "https://retractionwatch.com/?s=%22Didier+Raoult%22",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=%22Didier+Raoult%22",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/20/2024 0:00",
-      "RetractionDOI": "10.1186/s12866-024-03652-3",
-      "RetractionPubMedID": "39567871.0",
-      "OriginalPaperDate": "9/21/2017 0:00",
-      "OriginalPaperDOI": "10.1186/s12866-017-1104-5",
-      "OriginalPaperPubMedID": "28946848.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/20/2024 0:00",
+      "retractiondoi": "10.1186/s12866-024-03652-3",
+      "retractionpubmedid": "39567871.0",
+      "originalpaperdate": "9/21/2017 0:00",
+      "originalpaperdoi": "10.1186/s12866-017-1104-5",
+      "originalpaperpubmedid": "28946848.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2017,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d8993484",
+      "recordId": "4192",
+      "title": "The anti-inflammatory activity of 1,25-dihydroxyvitamin D3 in macrophages",
+      "subject": [
+        "(BLS) Biochemistry"
+      ],
+      "institution": [
+        "Department of Clinical Biochemistry, Soroka Medical Center, Ben-Gurion University, Faculty of Health Sciences, P.O. Box 151, Beer Sheva 84101, Israel"
+      ],
+      "journal": "The Journal of Steroid Biochemistry and Molecular Biology",
+      "publisher": "Elsevier",
+      "country": [
+        "Israel"
+      ],
+      "author": [
+        "Merav Cohen-Lahav",
+        "Amos Douvdevani",
+        "Cidio Chaimovitz",
+        "Shraga Shany"
+      ],
+      "urls": "http://retractionwatch.com/2011/10/05/mistaken-notice-as-ben-gurion-researchers-retract-vitamin-d-paper-for-duplication/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/1/2011 0:00",
+      "retractiondoi": "10.1016/j.jsbmb.2011.09.006",
+      "retractionpubmedid": "22200063.0",
+      "originalpaperdate": "3/1/2007 0:00",
+      "originalpaperdoi": "10.1016/j.jsbmb.2006.12.093",
+      "originalpaperpubmedid": "17267205.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data"
+      ],
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -121,32 +123,32 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

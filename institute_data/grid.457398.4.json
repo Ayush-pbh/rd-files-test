@@ -1,82 +1,153 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878f43",
+    "_id": "687ccbab09adbf7aa61b9b64",
     "grid_id": "grid.457398.4",
     "institute_name": "Department of Scientific and Industrial Research",
     "country": "India",
     "retracted_record_ids": [
-      "41285"
+      "41285",
+      "65243"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234509e",
-      "Record ID": "41285",
-      "Title": "Machine learning based multi scale parallel K-means++ clustering for cloud assisted internet of things",
-      "Subject": [
+      "_id": "687cef511f662220d8984756",
+      "recordId": "65243",
+      "title": "IoT-enabled smart healthcare data and health monitoring based machine learning algorithms",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Department of Electronics and Communication Engineering, Karpagam College of Engineering, Coimbatore, India",
+        "Department of Electronics and Communication Engineering, Karpagam Academy of Higher Education, Coimbatore, India",
+        "Environmental Engineer, Karupa Foundation, Coimbatore, India",
+        "Department of Electronics and Communication Engineering, KPR Institute of Engineering and Technology, Coimbatore",
+        "Department of Scientific and Industrial Research, New Delhi, India"
+      ],
+      "journal": "Journal of Intelligent & Fuzzy Systems",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "country": [
+        "India"
+      ],
+      "author": [
+        "S Deepa",
+        "K P Sridhar",
+        "S Baskar",
+        "K B Mythili",
+        "A Reethika",
+        "P R Hariharan"
+      ],
+      "urls": "https://retractionwatch.com/2025/01/31/sage-journal-retracts-another-400-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/15/2025 0:00",
+      "retractiondoi": "10.3233/JIFS-219434",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/10/2022 0:00",
+      "originalpaperdoi": "10.3233/jifs-212728",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb01f662220d898a484",
+      "recordId": "41285",
+      "title": "Machine learning based multi scale parallel K-means++ clustering for cloud assisted internet of things",
+      "subject": [
         "(B/T) Computer Science"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Science and Engineering, KGiSL Institute of Technology, Coimbatore, India",
         "Department of Electronics and Communication Engineering, Ramco Institute of Technology, Rajapalayam, Tamilnadu, India",
         "Department of Electronics and Communication Engineering, Karpagam Academy of Higher Education, Coimbatore, India",
         "Faculty of Information and Communication Technology, Universiti Teknikal Malaysia Melaka, Melaka, Malaysia",
         "Department of Scientific and Industrial Research, New Delhi, India"
       ],
-      "Journal": "Peer-to-Peer Networking and Applications",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Peer-to-Peer Networking and Applications",
+      "publisher": "Springer",
+      "country": [
         "India",
         "Malaysia"
       ],
-      "Author": [
+      "author": [
         "S K Mydhili",
         "S Periyanayagi",
         "S Baskar",
         "P Mohamed Shakeel",
         "P R Hariharan"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/8/2022 0:00",
-      "RetractionDOI": "10.1007/s12083-022-01395-4",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/11/2019 0:00",
-      "OriginalPaperDOI": "10.1007/s12083-019-00800-9",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/8/2022 0:00",
+      "retractiondoi": "10.1007/s12083-022-01395-4",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/11/2019 0:00",
+      "originalpaperdoi": "10.1007/s12083-019-00800-9",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Fake Peer Review",
         "+Rogue Editor",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2019,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

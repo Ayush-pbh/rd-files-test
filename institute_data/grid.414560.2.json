@@ -1,26 +1,26 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879282",
+    "_id": "687ccbab09adbf7aa61b9ea3",
     "grid_id": "grid.414560.2",
     "institute_name": "Hospital de Sabadell",
     "country": "Spain",
     "retracted_record_ids": [
       "35609",
-      "4132",
-      "35542"
+      "35542",
+      "4132"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234669c",
-      "Record ID": "35609",
-      "Title": "Patient undergoing colectomy because of ulcerative colitis had a very high rate of surgical complications in clinical practice conditions",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba82",
+      "recordId": "35609",
+      "title": "Patient undergoing colectomy because of ulcerative colitis had a very high rate of surgical complications in clinical practice conditions",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "Hospital Clinico, Madrid, Spain",
         "Hospital Parc Tauli, Sabadell, Spain",
         "Hospital La Princesa, Madrid, Spain",
@@ -32,12 +32,12 @@
         "Pharmacoeconomics & Outcomes Research Iberia, Madrid, Spain",
         "Schering-Plough S.A., Madrid, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "C Taxonera",
         "X Calvet",
         "J P Gisbert",
@@ -50,80 +50,39 @@
         "I Oyaguez",
         "J L Lopez-Belmonte"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e0d9",
-      "Record ID": "4132",
-      "Title": "Pediatric surgery 2.0",
-      "Subject": [
-        "(B/T) Technology",
-        "(HSC) Medicine - Pediatrics"
-      ],
-      "Institution": [
-        "Servicio de Cirug\u00eda Pedi\u00e1trica, Hospital Parc Taul\u00ed, Sabadell, Barcelona, Spain"
-      ],
-      "Journal": "Cirug\u00eda Pedi\u00e1trica: Organo Oficial de la Sociedad Espa\u00f1ola de Cirug\u00eda Pedi\u00e1trica",
-      "Publisher": "Sociedad Espanola de Cirugia Pediatrica",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "Juan Carlos Mesa-Gutierrez",
-        "Carlos Bardaji",
-        "Nick E Le Brun",
-        "Barbara Nunez",
-        "Baltasar Sanchez",
-        "Begona San Vicente",
-        "P Obiols",
-        "Stephan Rigol"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/1/2012 0:00",
-      "RetractionPubMedID": "23667966.0",
-      "OriginalPaperDate": "4/1/2012 0:00",
-      "OriginalPaperPubMedID": "23113397.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "Unknown",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23466df",
-      "Record ID": "35542",
-      "Title": "Efficacy of adalimumab in the treatment of ulcerative colitis",
-      "Subject": [
+      "_id": "687cefc21f662220d898bac5",
+      "recordId": "35542",
+      "title": "Efficacy of adalimumab in the treatment of ulcerative colitis",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Hospital Clinic in Barcelona, Barcelona, Spain",
         "Hospital de la Princesa, Madrid, Spain",
         "Hospital del Mar, Barcelona, Spain",
@@ -138,12 +97,12 @@
         "Complejo Hospitalario de Leon, Leon, Spain",
         "Hospital de Sabadell, Barcelona, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "O Garc\u00eda-Bosch",
         "M Aceituno",
         "J Perez",
@@ -159,49 +118,93 @@
         "F Munoz",
         "L Moreno"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d89934bf",
+      "recordId": "4132",
+      "title": "Pediatric surgery 2.0",
+      "subject": [
+        "(B/T) Technology",
+        "(HSC) Medicine - Pediatrics"
+      ],
+      "institution": [
+        "Servicio de Cirug\u00eda Pedi\u00e1trica, Hospital Parc Taul\u00ed, Sabadell, Barcelona, Spain"
+      ],
+      "journal": "Cirug\u00eda Pedi\u00e1trica: Organo Oficial de la Sociedad Espa\u00f1ola de Cirug\u00eda Pedi\u00e1trica",
+      "publisher": "Sociedad Espanola de Cirugia Pediatrica",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "Juan Carlos Mesa-Gutierrez",
+        "Carlos Bardaji",
+        "Nick E Le Brun",
+        "Barbara Nunez",
+        "Baltasar Sanchez",
+        "Begona San Vicente",
+        "P Obiols",
+        "Stephan Rigol"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/1/2012 0:00",
+      "retractionpubmedid": "23667966.0",
+      "originalpaperdate": "4/1/2012 0:00",
+      "originalpaperpubmedid": "23113397.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "Unknown",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -209,10 +212,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

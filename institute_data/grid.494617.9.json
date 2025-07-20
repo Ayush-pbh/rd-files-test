@@ -1,38 +1,88 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687886b",
+    "_id": "687ccbab09adbf7aa61b948c",
     "grid_id": "grid.494617.9",
     "institute_name": "University of Hafr Al-Batin",
     "country": "Saudi Arabia",
     "retracted_record_ids": [
-      "53092"
+      "53092",
+      "66041"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23422a4",
-      "Record ID": "53092",
-      "Title": "Ameliorating the Role of Aripiprazole in Memory Deficits Induced by Intracerebroventricular Streptozotocin-Induced Dementia of Alzheimer's Type",
-      "Subject": [
+      "_id": "687cef4f1f662220d898443c",
+      "recordId": "66041",
+      "title": "Control approaches of power electronic converter interfacing grid-tied PMSG-VSWT system: A comprehensive review",
+      "subject": [
+        "(PHY) Energy",
+        "(PHY) Engineering - Electrical"
+      ],
+      "institution": [
+        "Department of Electrical and Electronic Engineering, Universiti Teknologi PETRONAS, Seri Iskandar, 32610, Perak, Malaysia",
+        "Department of Electrical Engineering College of Engineering, University of Hafr Albatin, Hafr Al Batin, 39524, Saudi Arabia",
+        "School of Electrical Engineering and Artificial Intelligence, Xiamen University Malaysia, Selangor, 43900, Malaysia"
+      ],
+      "journal": "Heliyon",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "Malaysia",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Hussein Shutari",
+        "Taib Ibrahim",
+        "Nursyarizal Bin Mohd Nor",
+        "Yahya Z Alharthi",
+        "Hakim Abdulrab"
+      ],
+      "urls": "https://retractionwatch.com/?s=Heliyon",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "3/12/2025 0:00",
+      "retractiondoi": "10.1016/j.heliyon.2025.e43157",
+      "retractionpubmedid": "40201524.0",
+      "originalpaperdate": "5/30/2024 0:00",
+      "originalpaperdoi": "10.1016/j.heliyon.2024.e32032",
+      "originalpaperpubmedid": "39183878.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef811f662220d898768a",
+      "recordId": "53092",
+      "title": "Ameliorating the Role of Aripiprazole in Memory Deficits Induced by Intracerebroventricular Streptozotocin-Induced Dementia of Alzheimer's Type",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience",
         "(BLS) Toxicology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Chitkara College of Pharmacy, Chitkara University, Rajpura 140401, Punjab, India",
         "Department of Pharmaceutical Sciences and Technology, Maharaja Ranjit Singh Punjab Technical University, Bathinda 151001, Punjab, India",
         "Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud University, Riyadh 11451, Saudi Arabia",
         "Department of Pharmacy Practice, College of Pharmacy, University of Hafr Al-Batin, Hafr Al-Batin 31991, Saudi Arabia",
         "University Institute of Pharma Sciences, Chandigarh University, Mohali 140301, Punjab, India"
       ],
-      "Journal": "ACS Omega",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
+      "journal": "ACS Omega",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
         "India",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Tarun Gupta",
         "Varinder Singh",
         "Mohamed Hefnawy",
@@ -43,46 +93,58 @@
         "Chirag Pasricha",
         "Ravinder Singh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/21/2024 0:00",
-      "RetractionDOI": "10.1021/acsomega.4c02182",
-      "RetractionPubMedID": "38585105.0",
-      "OriginalPaperDate": "7/6/2023 0:00",
-      "OriginalPaperDOI": "10.1021/acsomega.3c02550",
-      "OriginalPaperPubMedID": "37483219.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/21/2024 0:00",
+      "retractiondoi": "10.1021/acsomega.4c02182",
+      "retractionpubmedid": "38585105.0",
+      "originalpaperdate": "7/6/2023 0:00",
+      "originalpaperdoi": "10.1021/acsomega.3c02550",
+      "originalpaperpubmedid": "37483219.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Results and/or Conclusions",
         "+Results Not Reproducible",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,28 +1,28 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877f3f",
+    "_id": "687ccbab09adbf7aa61b8b60",
     "grid_id": "grid.440786.9",
     "institute_name": "Hakim Sabzevari University",
     "country": "Iran",
     "retracted_record_ids": [
-      "60869",
-      "59661",
-      "59662",
-      "24320",
       "60870",
+      "59662",
+      "59661",
+      "24320",
+      "60869",
       "59660"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234045d",
-      "Record ID": "60869",
-      "Title": "Multifaceted role of polyphenols in the treatment and management of neurodegenerative diseases",
-      "Subject": [
+      "_id": "687cef631f662220d8985842",
+      "recordId": "60870",
+      "title": "Multifaceted role of polyphenols in the treatment and management of neurodegenerative diseases",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil International University, Dhaka, 1207, Bangladesh",
         "Faculty of Applied Health Science Technology, Misr University for Science and Technology, Giza, 12568, Egypt",
         "Department of Pharmacy, Faculty of Pharmacy, University of Dhaka, Dhaka, 1000, Bangladesh",
@@ -36,9 +36,9 @@
         "Department of Chemical Engineering, Quchan University of Technology, Quchan, Iran",
         "Department of Chemistry, Faculty of Science, Hakim Sabzevari University, PO. Box 397, Sabzevar, Iran"
       ],
-      "Journal": "Chemosphere",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Chemosphere",
+      "publisher": "Elsevier",
+      "country": [
         "Bangladesh",
         "Egypt",
         "India",
@@ -46,7 +46,7 @@
         "Saudi Arabia",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Fahadul Islam",
         "Md Mohaimenul Islam",
         "Atkia Farzana Khan Meem",
@@ -62,83 +62,110 @@
         "Fatemeh Karimi",
         "Mehdi Baghayeri"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "8/4/2023 0:00",
-      "RetractionDOI": "10.1016/j.chemosphere.2023.139655",
-      "RetractionPubMedID": "37544218.0",
-      "OriginalPaperDate": "8/16/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.chemosphere.2022.136020",
-      "OriginalPaperPubMedID": "35985383.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "12/28/2024 0:00",
+      "retractiondoi": "10.1016/j.chemosphere.2024.143864",
+      "retractionpubmedid": "39734155.0",
+      "originalpaperdate": "8/16/2022 0:00",
+      "originalpaperdoi": "10.1016/j.chemosphere.2022.136020",
+      "originalpaperpubmedid": "35985383.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Conflict of Interest",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef631f662220d8985843",
+      "recordId": "60869",
+      "title": "Multifaceted role of polyphenols in the treatment and management of neurodegenerative diseases",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil International University, Dhaka, 1207, Bangladesh",
+        "Faculty of Applied Health Science Technology, Misr University for Science and Technology, Giza, 12568, Egypt",
+        "Department of Pharmacy, Faculty of Pharmacy, University of Dhaka, Dhaka, 1000, Bangladesh",
+        "Department of Medical Laboratories, College of Applied Medical Sciences, Qassim University, Buraydah, 52571, Saudi Arabia",
+        "Department of Pharmacy, BGC Trust University Bangladesh, Chittagong, 4381, Bangladesh",
+        "Department of Biotechnology, Hindustan College of Arts & Science, Padur, OMR, Chennai, 603103, India",
+        "Centre for Research and Development, Department of Biotechnology, Hindustan College of Arts & Science, Padur, OMR, Chennai, 603103, India",
+        "Universidade de Vigo, Nutrition and Bromatology Group, Department of Analytical Chemistry and Food Science, Faculty of Science, E32004, Ourense, Spain",
+        "Research Center for Pharmaceutical Nanotechnology, Biomedicine Institute, Tabriz University of Medical Sciences, Tabriz, Iran",
+        "Department of Pharmacology & Toxicology, Tabriz University of Medical Sciences, Tabriz, Iran",
+        "Department of Chemical Engineering, Quchan University of Technology, Quchan, Iran",
+        "Department of Chemistry, Faculty of Science, Hakim Sabzevari University, PO. Box 397, Sabzevar, Iran"
+      ],
+      "journal": "Chemosphere",
+      "publisher": "Elsevier",
+      "country": [
+        "Bangladesh",
+        "Egypt",
+        "India",
+        "Iran",
+        "Saudi Arabia",
+        "Spain"
+      ],
+      "author": [
+        "Fahadul Islam",
+        "Md Mohaimenul Islam",
+        "Atkia Farzana Khan Meem",
+        "Mohamed H Nafady",
+        "Md Rezaul Islam",
+        "Aklima Akter",
+        "Saikat Mitra",
+        "Fahad A Alhumaydhi",
+        "Talha Bin Emran",
+        "Ameer Khusro",
+        "Jesus Simal-Gandara",
+        "Aziz Eftekhari",
+        "Fatemeh Karimi",
+        "Mehdi Baghayeri"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "8/4/2023 0:00",
+      "retractiondoi": "10.1016/j.chemosphere.2023.139655",
+      "retractionpubmedid": "37544218.0",
+      "originalpaperdate": "8/16/2022 0:00",
+      "originalpaperdoi": "10.1016/j.chemosphere.2022.136020",
+      "originalpaperpubmedid": "35985383.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Error in Text",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2340915",
-      "Record ID": "59661",
-      "Title": "New highly efficient 2D/1D HAp/g\u2012C3N4 photocatalyst thin film insight into crystal orientation and C\u2012vacancy effects",
-      "Subject": [
-        "(PHY) Engineering - Chemical",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Department of Chemistry, Hakim Sabzevari University, Sabzevar, 96179-76487, Iran"
-      ],
-      "Journal": "Chemosphere",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Iran"
-      ],
-      "Author": [
-        "Mahboobeh Zargazi",
-        "Mohammad Chahkandi",
-        "Mehdi",
-        "Baghayeri"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/17/2024 0:00",
-      "RetractionDOI": "10.1016/j.chemosphere.2022.135079",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/31/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.chemosphere.2022.135079",
-      "OriginalPaperPubMedID": "35623431.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Conflict of Interest",
-        "+Date of Article and/or Notice Unknown",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications; Mehdi Baghayeri aka Mahdi Baghayeri;",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2340914",
-      "Record ID": "59662",
-      "Title": "Development of Electrochemical Immunosensors for Early Diagnosis of Polycystic Ovary Syndrome (PCOS), and Their Potential Mobile Phone Application",
-      "Subject": [
+      "_id": "687cef671f662220d8985cfa",
+      "recordId": "59662",
+      "title": "Development of Electrochemical Immunosensors for Early Diagnosis of Polycystic Ovary Syndrome (PCOS), and Their Potential Mobile Phone Application",
+      "subject": [
         "(B/T) Technology",
         "(BLS) Biochemistry",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(PHY) Engineering - Chemical"
       ],
-      "Institution": [
+      "institution": [
         "Sen Research Group, Department of Biochemistry, Dumlupinar University, Kutahya, 43000, Turkey",
         "Department of Materials Science and Engineering, Faculty of Engineering, Dumlupinar University, Kutahya, 43000, Turkey",
         "Department of Internal Medicine, Faculty of Medicine, Sabzevar University of Medical Sciences, Sabzevar, Iran",
@@ -147,14 +174,14 @@
         "School of Resources and Environment, University of Electronic Science and Technology of China, Chengdu, 611731, China",
         "Department of Biomaterials, Saveetha Dental College and Hospitals, Saveetha Institute of Medical and Technical Sciences (SIMATS), Saveetha University, Chennai, 600077, India"
       ],
-      "Journal": "Topics in Catalysis",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Topics in Catalysis",
+      "publisher": "Springer",
+      "country": [
         "China",
         "India",
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Muhammad Ali Yousif Al-Janabi",
         "Ramazan Bayat",
         "Muhammed Bekmezci",
@@ -165,53 +192,149 @@
         "Hassan Rokni",
         "Fatemeh Karimi"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/19/2024 0:00",
-      "RetractionDOI": "10.1007/s11244-024-02029-0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/3/2024 0:00",
-      "OriginalPaperDOI": "10.1007/s11244-023-01899-0",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/19/2024 0:00",
+      "retractiondoi": "10.1007/s11244-024-02029-0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/3/2024 0:00",
+      "originalpaperdoi": "10.1007/s11244-023-01899-0",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Article",
         "+Investigation by Journal/Publisher",
         "+Objections by Author(s)",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2024,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349297",
-      "Record ID": "24320",
-      "Title": "Novel green synthesis and antioxidant, cytotoxicity, antimicrobial, antidiabetic, anticholinergics, and wound healing properties of cobalt nanoparticles containing Ziziphora clinopodioides Lam leaves extract",
-      "Subject": [
+      "_id": "687cef671f662220d8985cfb",
+      "recordId": "59661",
+      "title": "New highly efficient 2D/1D HAp/g\u2012C3N4 photocatalyst thin film insight into crystal orientation and C\u2012vacancy effects",
+      "subject": [
+        "(PHY) Engineering - Chemical",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Department of Chemistry, Hakim Sabzevari University, Sabzevar, 96179-76487, Iran"
+      ],
+      "journal": "Chemosphere",
+      "publisher": "Elsevier",
+      "country": [
+        "Iran"
+      ],
+      "author": [
+        "Mahboobeh Zargazi",
+        "Mohammad Chahkandi",
+        "Mehdi",
+        "Baghayeri"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/17/2024 0:00",
+      "retractiondoi": "10.1016/j.chemosphere.2022.135079",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/31/2022 0:00",
+      "originalpaperdoi": "10.1016/j.chemosphere.2022.135079",
+      "originalpaperpubmedid": "35623431.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Conflict of Interest",
+        "+Date of Article and/or Notice Unknown",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estimated from notifications; Mehdi Baghayeri aka Mahdi Baghayeri;",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef671f662220d8985cfc",
+      "recordId": "59660",
+      "title": "Application of BiNPs/MWCNTs-PDA/GC sensor to measurement of Tl (1) and Pb (II) using stripping voltammetry",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Engineering - Electrical",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "Department of Chemistry, Faculty of Science, Hakim Sabzevari University, PO. Box 397, Sabzevar, Iran",
+        "Department of Internal Medicine, Faculty of Medicine, Sabzevar University of Medical Sciences, Sabzevar, Iran"
+      ],
+      "journal": "Chemosphere",
+      "publisher": "Elsevier",
+      "country": [
+        "Iran"
+      ],
+      "author": [
+        "Marzieh Nodehi",
+        "Mehdi Baghayeri",
+        "Afsaneh Kaffash"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/17/2024 0:00",
+      "retractiondoi": "10.1016/j.chemosphere.2022.134701",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/30/2022 0:00",
+      "originalpaperdoi": "10.1016/j.chemosphere.2022.134701",
+      "originalpaperpubmedid": "35472613.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Conflict of Interest",
+        "+Date of Article and/or Notice Unknown",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00a1f662220d898e67d",
+      "recordId": "24320",
+      "title": "Novel green synthesis and antioxidant, cytotoxicity, antimicrobial, antidiabetic, anticholinergics, and wound healing properties of cobalt nanoparticles containing Ziziphora clinopodioides Lam leaves extract",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Microbiology",
         "(BLS) Plant Biology/Botany",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "School of Basic Medicine, Xinxiang Medical University, Xinxiang, 453003, China Department of Chemistry, Faculty of Science, Hakim Sabzevari University, Sabzevar, Iran Biotechnology and Medicinal Plants Research Center, Ilam University of Medical Sciences, Ilam, Iran",
         "Department of Clinical Sciences, Faculty of Veterinary Medicine, Razi University, Kermanshah, Iran",
         "Department of Chemistry, Faculty of Sciences, Ataturk University, 25240, Erzurum, Turkey",
         "Department of Biotechnology, Faculty of Science, Bartin University, 74100, Bartin, Turkey",
         "Sen Research Group, Biochemistry Department, Faculty of Arts and Science, Dumlupinar University, Evliya Celebi Campus, 43100, Kutahya, Turkey"
       ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "China",
         "Iran",
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Huifang Hou",
         "Behnam Mahdavi",
         "Sogand Paydarfard",
@@ -222,189 +345,72 @@
         "Vildan Erduran",
         "Fatih Sen"
       ],
-      "URLS": "http://retractionwatch.com/2020/10/08/journal-retracts-plant-paper-because-authors-plagiarized-from-a-garden-site-and-several-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2020/10/08/journal-retracts-plant-paper-because-authors-plagiarized-from-a-garden-site-and-several-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/7/2020 0:00",
-      "RetractionDOI": "10.1038/s41598-020-71843-9",
-      "RetractionPubMedID": "32895457.0",
-      "OriginalPaperDate": "7/22/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-020-68951-x",
-      "OriginalPaperPubMedID": "32699314.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/7/2020 0:00",
+      "retractiondoi": "10.1038/s41598-020-71843-9",
+      "retractionpubmedid": "32895457.0",
+      "originalpaperdate": "7/22/2020 0:00",
+      "originalpaperdoi": "10.1038/s41598-020-68951-x",
+      "originalpaperpubmedid": "32699314.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Plagiarism of Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234045c",
-      "Record ID": "60870",
-      "Title": "Multifaceted role of polyphenols in the treatment and management of neurodegenerative diseases",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Pharmacy, Faculty of Allied Health Sciences, Daffodil International University, Dhaka, 1207, Bangladesh",
-        "Faculty of Applied Health Science Technology, Misr University for Science and Technology, Giza, 12568, Egypt",
-        "Department of Pharmacy, Faculty of Pharmacy, University of Dhaka, Dhaka, 1000, Bangladesh",
-        "Department of Medical Laboratories, College of Applied Medical Sciences, Qassim University, Buraydah, 52571, Saudi Arabia",
-        "Department of Pharmacy, BGC Trust University Bangladesh, Chittagong, 4381, Bangladesh",
-        "Department of Biotechnology, Hindustan College of Arts & Science, Padur, OMR, Chennai, 603103, India",
-        "Centre for Research and Development, Department of Biotechnology, Hindustan College of Arts & Science, Padur, OMR, Chennai, 603103, India",
-        "Universidade de Vigo, Nutrition and Bromatology Group, Department of Analytical Chemistry and Food Science, Faculty of Science, E32004, Ourense, Spain",
-        "Research Center for Pharmaceutical Nanotechnology, Biomedicine Institute, Tabriz University of Medical Sciences, Tabriz, Iran",
-        "Department of Pharmacology & Toxicology, Tabriz University of Medical Sciences, Tabriz, Iran",
-        "Department of Chemical Engineering, Quchan University of Technology, Quchan, Iran",
-        "Department of Chemistry, Faculty of Science, Hakim Sabzevari University, PO. Box 397, Sabzevar, Iran"
-      ],
-      "Journal": "Chemosphere",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Bangladesh",
-        "Egypt",
-        "India",
-        "Iran",
-        "Saudi Arabia",
-        "Spain"
-      ],
-      "Author": [
-        "Fahadul Islam",
-        "Md Mohaimenul Islam",
-        "Atkia Farzana Khan Meem",
-        "Mohamed H Nafady",
-        "Md Rezaul Islam",
-        "Aklima Akter",
-        "Saikat Mitra",
-        "Fahad A Alhumaydhi",
-        "Talha Bin Emran",
-        "Ameer Khusro",
-        "Jesus Simal-Gandara",
-        "Aziz Eftekhari",
-        "Fatemeh Karimi",
-        "Mehdi Baghayeri"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "12/28/2024 0:00",
-      "RetractionDOI": "10.1016/j.chemosphere.2024.143864",
-      "RetractionPubMedID": "39734155.0",
-      "OriginalPaperDate": "8/16/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.chemosphere.2022.136020",
-      "OriginalPaperPubMedID": "35985383.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Conflict of Interest",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2340916",
-      "Record ID": "59660",
-      "Title": "Application of BiNPs/MWCNTs-PDA/GC sensor to measurement of Tl (1) and Pb (II) using stripping voltammetry",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Engineering - Electrical",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "Department of Chemistry, Faculty of Science, Hakim Sabzevari University, PO. Box 397, Sabzevar, Iran",
-        "Department of Internal Medicine, Faculty of Medicine, Sabzevar University of Medical Sciences, Sabzevar, Iran"
-      ],
-      "Journal": "Chemosphere",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Iran"
-      ],
-      "Author": [
-        "Marzieh Nodehi",
-        "Mehdi Baghayeri",
-        "Afsaneh Kaffash"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/17/2024 0:00",
-      "RetractionDOI": "10.1016/j.chemosphere.2022.134701",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/30/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.chemosphere.2022.134701",
-      "OriginalPaperPubMedID": "35472613.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Conflict of Interest",
-        "+Date of Article and/or Notice Unknown",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 3
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

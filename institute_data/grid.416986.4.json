@@ -1,29 +1,141 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878370",
+    "_id": "687ccbab09adbf7aa61b8f91",
     "grid_id": "grid.416986.4",
     "institute_name": "Texas Medical Center",
     "country": "United States",
     "retracted_record_ids": [
+      "6433",
+      "47036",
       "34806",
       "57843",
       "17564",
-      "6433",
-      "47036",
       "963"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23469bd",
-      "Record ID": "34806",
-      "Title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
-      "Subject": [
+      "_id": "687cef6f1f662220d8986410",
+      "recordId": "57843",
+      "title": "Ablation of Basic Leucine Zipper Transcription Factor ATF-Like Potentiates Estradiol to Induce Atopic Dermatitis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Dermatology"
+      ],
+      "institution": [
+        "Organ Transplant Center, The Second A\ufb03liated Hospital of Guangzhou Medical University, Guangzhou, 511447 Guangdong, China",
+        "Immunobiology & Transplant Science Center, Houston Methodist Research Institute, Texas Medical Center, Houston, TX 77030, USA"
+      ],
+      "journal": "Oxidative Medicine and Cellular Longevity",
+      "publisher": "Hindawi",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Peng Zhang",
+        "Luhao Liu",
+        "Xingqiang Lai",
+        "Rongxin Chen",
+        "Yuhe Guo",
+        "JunjieMa",
+        "Wenhao Chen",
+        "Zheng Chen"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9830738",
+      "retractionpubmedid": "38189019.0",
+      "originalpaperdate": "9/16/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/7024669",
+      "originalpaperpubmedid": "36160706.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9a1f662220d8988e23",
+      "recordId": "47036",
+      "title": "Reelin promotes peripheral synapse elimination and maturation",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "The Cain Foundation Laboratories, Houston, Texas, USA",
+        "Department of Pediatrics, Baylor College of Medicine, Houston, Texas, USA",
+        "Department of Pathology, Baylor College of Medicine, Houston, Texas, USA",
+        "Department of Neurology, Baylor College of Medicine, Houston, Texas, USA",
+        "Division of Neuroscience, Baylor College of Medicine, Houston, Texas, USA",
+        "Program in Developmental Biology, Baylor College of Medicine, Houston, Texas, USA",
+        "Program in Neuroscience, Universita degli Studi di Brescia, Brescia, Italy",
+        "Division of Hematology-Oncology and Texas Children's Cancer Center, Houston, Texas, USA",
+        "Department of Anatomy and Neurobiology, University of Tennessee, Memphis, Tennessee, USA",
+        "Veterans Administration Medical Center, Houston, Texas, USA",
+        "Laboratory of Developmental Neuroscience and Neural Plasticity, Universita Campus Bio-Medico, Roma, Italy"
+      ],
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
+        "Italy",
+        "United States"
+      ],
+      "author": [
+        "Carlo C Quattrocchi",
+        "Cheng Huang",
+        "Sanyong Niu",
+        "Michael Sheldon",
+        "David Benhayon",
+        "Joiner Cartwright Jr",
+        "Dennis R Mosier",
+        "Flavio Keller",
+        "Gabriella D'Arcangelo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/26/2003 0:00",
+      "retractiondoi": "10.1126/science.301.5641.1849b",
+      "retractionpubmedid": "12893944.0",
+      "originalpaperdate": "8/1/2003 0:00",
+      "originalpaperdoi": "10.1126/science.1082690",
+      "originalpaperpubmedid": "12893944.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2003",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc61f662220d898bda3",
+      "recordId": "34806",
+      "title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Tumor Initiation & Maintenance Program, NCI-Designated Cancer Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA Developmental and Stem Cell Biology Program, The Hospital for Sick Children, Toronto, Canada",
         "Tumor Microenvironment and Cancer Immunology Program, NCI-Designated Cancer Center and the Infectious and Inflammatory Disease Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA",
         "Department of Pediatrics, Northwestern University, Chicago, IL, USA",
@@ -38,15 +150,15 @@
         "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA",
         "Division of Molecular Internal Medicine, Department of Internal Medicine II, University Hospital W\u00fcrzburg, W\u00fcrzburg, Germany"
       ],
-      "Journal": "Nature Neuroscience",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Canada",
         "Germany",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Alexandra Garancher",
         "Hiromichi Suzuki",
         "Svasti Haricharan",
@@ -88,91 +200,39 @@
         "Michael D Taylor",
         "Robert J Wechsler-Reya"
       ],
-      "URLS": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/14/2021 0:00",
-      "RetractionDOI": "10.1038/s41593-021-00994-3",
-      "RetractionPubMedID": "34907396.0",
-      "OriginalPaperDate": "5/18/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41593-020-0628-4",
-      "OriginalPaperPubMedID": "32424282.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/14/2021 0:00",
+      "retractiondoi": "10.1038/s41593-021-00994-3",
+      "retractionpubmedid": "34907396.0",
+      "originalpaperdate": "5/18/2020 0:00",
+      "originalpaperdoi": "10.1038/s41593-020-0628-4",
+      "originalpaperpubmedid": "32424282.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Results Not Reproducible",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234102a",
-      "Record ID": "57843",
-      "Title": "Ablation of Basic Leucine Zipper Transcription Factor ATF-Like Potentiates Estradiol to Induce Atopic Dermatitis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Dermatology"
-      ],
-      "Institution": [
-        "Organ Transplant Center, The Second A\ufb03liated Hospital of Guangzhou Medical University, Guangzhou, 511447 Guangdong, China",
-        "Immunobiology & Transplant Science Center, Houston Methodist Research Institute, Texas Medical Center, Houston, TX 77030, USA"
-      ],
-      "Journal": "Oxidative Medicine and Cellular Longevity",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Peng Zhang",
-        "Luhao Liu",
-        "Xingqiang Lai",
-        "Rongxin Chen",
-        "Yuhe Guo",
-        "JunjieMa",
-        "Wenhao Chen",
-        "Zheng Chen"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9830738",
-      "RetractionPubMedID": "38189019.0",
-      "OriginalPaperDate": "9/16/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/7024669",
-      "OriginalPaperPubMedID": "36160706.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234acd8",
-      "Record ID": "17564",
-      "Title": "Experimental Orthotopic Transplantation of a Tissue-engineered Oesophagus in Rats",
-      "Subject": [
+      "_id": "687cf0931f662220d89900be",
+      "recordId": "17564",
+      "title": "Experimental Orthotopic Transplantation of a Tissue-engineered Oesophagus in Rats",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - Cellular",
         "(BLS) Zoology",
         "(SOC) Communications"
       ],
-      "Institution": [
+      "institution": [
         "Advanced Center for Translational Regenerative Medicine (ACTREM), Department of Clinical Science, Intervention and Technology (CLINTEC), Karolinska Institutet, SE-141 86, Stockholm, Sweden",
         "Division of Ear, Nose and Throat, Karolinska University Hospital, SE-141 86 Stockholm, Sweden",
         "Cancer Centrum Karolinska, Karolinska Institutet, SE-171 77 Stockholm, Sweden",
@@ -189,16 +249,16 @@
         "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, SE-171 77 Stockholm, Sweden",
         "Texas Heart Institute, Center for Regenerative Medicine, Houston, Texas 770-30, USA"
       ],
-      "Journal": "Nature Communications",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Communications",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "Germany",
         "Italy",
         "Russia",
         "Sweden",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Sebastian Sj\u00f6qvist",
         "Philipp Jungebluth",
         "Mei Ling Lim",
@@ -223,40 +283,41 @@
         "Doris A Taylor",
         "Paolo Macchiarini"
       ],
-      "URLS": "http://retractionwatch.com/2016/10/14/macchiarini-paper-in-nature-earns-expression-of-concern-for-data-concerns/;http://retractionwatch.com/2017/03/21/macchiarini-blames-karolinska-losing-data-retracts-2014-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/10/14/macchiarini-paper-in-nature-earns-expression-of-concern-for-data-concerns/;http://retractionwatch.com/2017/03/21/macchiarini-blames-karolinska-losing-data-retracts-2014-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/14/2016 0:00",
-      "RetractionDOI": "10.1038/ncomms13310",
-      "RetractionPubMedID": "27739427.0",
-      "OriginalPaperDate": "4/15/2014 0:00",
-      "OriginalPaperDOI": "10.1038/ncomms4562",
-      "OriginalPaperPubMedID": "24736316.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "10/14/2016 0:00",
+      "retractiondoi": "10.1038/ncomms13310",
+      "retractionpubmedid": "27739427.0",
+      "originalpaperdate": "4/15/2014 0:00",
+      "originalpaperdoi": "10.1038/ncomms4562",
+      "originalpaperpubmedid": "24736316.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Company/Institution",
         "+Objections by Author(s)",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d809",
-      "Record ID": "6433",
-      "Title": "Experimental Orthotopic Transplantation of a Tissue-engineered Oesophagus in Rats",
-      "Subject": [
+      "_id": "687cf0bf1f662220d8992bef",
+      "recordId": "6433",
+      "title": "Experimental Orthotopic Transplantation of a Tissue-engineered Oesophagus in Rats",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - Cellular",
         "(BLS) Zoology",
         "(SOC) Communications"
       ],
-      "Institution": [
+      "institution": [
         "Advanced Center for Translational Regenerative Medicine (ACTREM), Department of Clinical Science, Intervention and Technology (CLINTEC), Karolinska Institutet, SE-141 86, Stockholm, Sweden",
         "Division of Ear, Nose and Throat, Karolinska University Hospital, SE-141 86 Stockholm, Sweden",
         "Cancer Centrum Karolinska, Karolinska Institutet, SE-171 77 Stockholm, Sweden",
@@ -273,16 +334,16 @@
         "Department of Medical Biochemistry and Biophysics, Karolinska Institutet, SE-171 77 Stockholm, Sweden",
         "Texas Heart Institute, Center for Regenerative Medicine, Houston, Texas 770-30, USA"
       ],
-      "Journal": "Nature Communications",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Communications",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "Germany",
         "Italy",
         "Russia",
         "Sweden",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Sebastian Sj\u00f6qvist",
         "Philipp Jungebluth",
         "Mei Ling Lim",
@@ -307,38 +368,39 @@
         "Doris A Taylor",
         "Paolo Macchiarini"
       ],
-      "URLS": "http://retractionwatch.com/2016/10/14/macchiarini-paper-in-nature-earns-expression-of-concern-for-data-concerns/;http://retractionwatch.com/2017/03/21/macchiarini-blames-karolinska-losing-data-retracts-2014-paper/;http://retractionwatch.com/2016/12/20/karolinska-requests-retraction-2014-macchiarini-paper/;http://retractionwatch.com/2018/01/31/macchiarini-3-co-authors-found-guilty-misconduct-2015-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/10/14/macchiarini-paper-in-nature-earns-expression-of-concern-for-data-concerns/;http://retractionwatch.com/2017/03/21/macchiarini-blames-karolinska-losing-data-retracts-2014-paper/;http://retractionwatch.com/2016/12/20/karolinska-requests-retraction-2014-macchiarini-paper/;http://retractionwatch.com/2018/01/31/macchiarini-3-co-authors-found-guilty-misconduct-2015-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/21/2017 0:00",
-      "RetractionDOI": "10.1038/ncomms15077",
-      "RetractionPubMedID": "28323815.0",
-      "OriginalPaperDate": "4/15/2014 0:00",
-      "OriginalPaperDOI": "10.1038/ncomms4562",
-      "OriginalPaperPubMedID": "24736316.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/21/2017 0:00",
+      "retractiondoi": "10.1038/ncomms15077",
+      "retractionpubmedid": "28323815.0",
+      "originalpaperdate": "4/15/2014 0:00",
+      "originalpaperdoi": "10.1038/ncomms4562",
+      "originalpaperpubmedid": "24736316.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Error in Methods",
         "+Investigation by Company/Institution",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "Paolo Macchairini has insittutional findng of misconduct and criminal conviction for related charges;",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Paolo Macchairini has insittutional findng of misconduct and criminal conviction for related charges;",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343a3d",
-      "Record ID": "47036",
-      "Title": "Reelin promotes peripheral synapse elimination and maturation",
-      "Subject": [
+      "_id": "687cf0d51f662220d89940d8",
+      "recordId": "963",
+      "title": "Reelin promotes peripheral synapse elimination and maturation",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "The Cain Foundation Laboratories, Houston, Texas, USA",
         "Department of Pediatrics, Baylor College of Medicine, Houston, Texas, USA",
         "Department of Pathology, Baylor College of Medicine, Houston, Texas, USA",
@@ -351,13 +413,13 @@
         "Veterans Administration Medical Center, Houston, Texas, USA",
         "Laboratory of Developmental Neuroscience and Neural Plasticity, Universita Campus Bio-Medico, Roma, Italy"
       ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Carlo C Quattrocchi",
         "Cheng Huang",
         "Sanyong Niu",
@@ -368,125 +430,69 @@
         "Flavio Keller",
         "Gabriella D'Arcangelo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/26/2003 0:00",
-      "RetractionDOI": "10.1126/science.301.5641.1849b",
-      "RetractionPubMedID": "12893944.0",
-      "OriginalPaperDate": "8/1/2003 0:00",
-      "OriginalPaperDOI": "10.1126/science.1082690",
-      "OriginalPaperPubMedID": "12893944.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2003,
-      "year": 2003,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234ecf2",
-      "Record ID": "963",
-      "Title": "Reelin promotes peripheral synapse elimination and maturation",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "The Cain Foundation Laboratories, Houston, Texas, USA",
-        "Department of Pediatrics, Baylor College of Medicine, Houston, Texas, USA",
-        "Department of Pathology, Baylor College of Medicine, Houston, Texas, USA",
-        "Department of Neurology, Baylor College of Medicine, Houston, Texas, USA",
-        "Division of Neuroscience, Baylor College of Medicine, Houston, Texas, USA",
-        "Program in Developmental Biology, Baylor College of Medicine, Houston, Texas, USA",
-        "Program in Neuroscience, Universita degli Studi di Brescia, Brescia, Italy",
-        "Division of Hematology-Oncology and Texas Children's Cancer Center, Houston, Texas, USA",
-        "Department of Anatomy and Neurobiology, University of Tennessee, Memphis, Tennessee, USA",
-        "Veterans Administration Medical Center, Houston, Texas, USA",
-        "Laboratory of Developmental Neuroscience and Neural Plasticity, Universita Campus Bio-Medico, Roma, Italy"
-      ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
-        "Italy",
-        "United States"
-      ],
-      "Author": [
-        "Carlo C Quattrocchi",
-        "Cheng Huang",
-        "Sanyong Niu",
-        "Michael Sheldon",
-        "David Benhayon",
-        "Joiner Cartwright Jr",
-        "Dennis R Mosier",
-        "Flavio Keller",
-        "Gabriella D'Arcangelo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/26/2004 0:00",
-      "RetractionDOI": "10.1126/science.303.5666.1974b",
-      "RetractionPubMedID": "15044784.0",
-      "OriginalPaperDate": "8/1/2003 0:00",
-      "OriginalPaperDOI": "10.1126/science.1082690",
-      "OriginalPaperPubMedID": "12893944.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/26/2004 0:00",
+      "retractiondoi": "10.1126/science.303.5666.1974b",
+      "retractionpubmedid": "15044784.0",
+      "originalpaperdate": "8/1/2003 0:00",
+      "originalpaperdoi": "10.1126/science.1082690",
+      "originalpaperpubmedid": "12893944.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Results Not Reproducible",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2003,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2004",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -494,54 +500,54 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

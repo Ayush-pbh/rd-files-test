@@ -1,25 +1,86 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878e2c",
+    "_id": "687ccbab09adbf7aa61b9a4d",
     "grid_id": "grid.411443.7",
     "institute_name": "Hospital Universitari Arnau de Vilanova",
     "country": "Spain",
     "retracted_record_ids": [
-      "3687",
-      "42891"
+      "42891",
+      "3687"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e28f",
-      "Record ID": "3687",
-      "Title": "Treatment of Recent-onset Type 1 Diabetic Patients with DiaPep277: Results of a Double-blind, Placebo-controlled, Randomized Phase 3 Trial",
-      "Subject": [
+      "_id": "687cefaa1f662220d8989e3f",
+      "recordId": "42891",
+      "title": "European Stroke Organisation (ESO) guidelines on management of transient ischaemic attack",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Department of Neurosciences and Mental Health (Neurology), Hospital Santa Maria-CHLN, Faculdade de Medicina, Universidade de Lisboa, Lisboa, Portugal",
+        "Department of Neurology, Cork University Hospital & University College Cork, Cork, Ireland",
+        "Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, UK",
+        "Department of Neurology, St. John\u00b4s of God Hospital, Vienna, Austria",
+        "Stroke Service, Mater University Hospital and HRB Stroke Clinical Trials Network Ireland, University College Dublin, Ireland",
+        "Guidelines Methodologist, European Stroke Organisation, Basel, Switzerland",
+        "Department of Neurology, Hospital del Mar, IMIM, Universidad Aut\u00f3noma de Barcelona, Barcelona, Spain",
+        "Acute Stroke Unit, Clinical Investigation Center and Toulouse Neuro Imaging Center, Toulouse University Medical Center, Toulouse, France",
+        "Hospital Universitari Arnau de Vilanova, Institut de Recerca Biomedica de Lleida (IRBLleida), Universitat de Lleida (UdL), Lleida, Spain"
+      ],
+      "journal": "European Stroke Journal",
+      "publisher": "SAGE Publications",
+      "country": [
+        "Austria",
+        "France",
+        "Ireland",
+        "Portugal",
+        "Spain",
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Ana Catarina Fonseca",
+        "\u00c1ine Merwick",
+        "Martin Dennis",
+        "Julia Ferrari",
+        "Jos\u00e9 M Ferro",
+        "Peter Kelly",
+        "Avtar Lal",
+        "Angel Ois",
+        "Jean Marc Olivot",
+        "Francisco Purroy"
+      ],
+      "articletype": [
+        "Guideline"
+      ],
+      "retractiondate": "11/11/2021 0:00",
+      "retractiondoi": "10.1177/23969873211059425",
+      "retractionpubmedid": "35300249.0",
+      "originalpaperdate": "6/18/2021 0:00",
+      "originalpaperdoi": "10.1177/23969873211027003",
+      "originalpaperpubmedid": "34414306.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Content through Error by Journal/Publisher",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d8993675",
+      "recordId": "3687",
+      "title": "Treatment of Recent-onset Type 1 Diabetic Patients with DiaPep277: Results of a Double-blind, Placebo-controlled, Randomized Phase 3 Trial",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Diabetes",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Diabetes Unit, Department of Internal Medicine, Hadassah University Hospital, Jerusalem, Israel",
         "Institute of Diabetes Research, Helmholtz Center, Klinikums Rechts der Isar, University of Technology, Munich, Germany",
         "University Hospital, Giessen, Germany",
@@ -36,9 +97,9 @@
         "Department of Endocrinology and Diabetes, University Campus Bio-Medico, Rome, Italy",
         "Center of Diabetes, Barts and the London School of Medicine, Queen Mary University of London, London, United Kingdom"
       ],
-      "Journal": "Diabetes Care",
-      "Publisher": "American Diabetes Association",
-      "Country": [
+      "journal": "Diabetes Care",
+      "publisher": "American Diabetes Association",
+      "country": [
         "Austria",
         "Czech Republic",
         "Germany",
@@ -48,7 +109,7 @@
         "Spain",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Itamar Raz",
         "Anette G Ziegler",
         "Thomas Linn",
@@ -71,95 +132,36 @@
         "Paolo Pozzilli",
         "Writing Group DIA-AID 1"
       ],
-      "URLS": "http://retractionwatch.com/2014/12/30/retractions-follow-revelations-misconduct-diabetes-biotech/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/12/30/retractions-follow-revelations-misconduct-diabetes-biotech/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/1/2015 0:00",
-      "RetractionDOI": "10.2337/dc15-rt01",
-      "RetractionPubMedID": "25538317.0",
-      "OriginalPaperDate": "5/1/2014 0:00",
-      "OriginalPaperDOI": "10.2337/dc13-1391",
-      "OriginalPaperPubMedID": "24757230.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2015 0:00",
+      "retractiondoi": "10.2337/dc15-rt01",
+      "retractionpubmedid": "25538317.0",
+      "originalpaperdate": "5/1/2014 0:00",
+      "originalpaperdoi": "10.2337/dc13-1391",
+      "originalpaperpubmedid": "24757230.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2014,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2344a59",
-      "Record ID": "42891",
-      "Title": "European Stroke Organisation (ESO) guidelines on management of transient ischaemic attack",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "Department of Neurosciences and Mental Health (Neurology), Hospital Santa Maria-CHLN, Faculdade de Medicina, Universidade de Lisboa, Lisboa, Portugal",
-        "Department of Neurology, Cork University Hospital & University College Cork, Cork, Ireland",
-        "Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, UK",
-        "Department of Neurology, St. John\u00b4s of God Hospital, Vienna, Austria",
-        "Stroke Service, Mater University Hospital and HRB Stroke Clinical Trials Network Ireland, University College Dublin, Ireland",
-        "Guidelines Methodologist, European Stroke Organisation, Basel, Switzerland",
-        "Department of Neurology, Hospital del Mar, IMIM, Universidad Aut\u00f3noma de Barcelona, Barcelona, Spain",
-        "Acute Stroke Unit, Clinical Investigation Center and Toulouse Neuro Imaging Center, Toulouse University Medical Center, Toulouse, France",
-        "Hospital Universitari Arnau de Vilanova, Institut de Recerca Biomedica de Lleida (IRBLleida), Universitat de Lleida (UdL), Lleida, Spain"
-      ],
-      "Journal": "European Stroke Journal",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Austria",
-        "France",
-        "Ireland",
-        "Portugal",
-        "Spain",
-        "Switzerland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Ana Catarina Fonseca",
-        "\u00c1ine Merwick",
-        "Martin Dennis",
-        "Julia Ferrari",
-        "Jos\u00e9 M Ferro",
-        "Peter Kelly",
-        "Avtar Lal",
-        "Angel Ois",
-        "Jean Marc Olivot",
-        "Francisco Purroy"
-      ],
-      "ArticleType": [
-        "Guideline"
-      ],
-      "RetractionDate": "11/11/2021 0:00",
-      "RetractionDOI": "10.1177/23969873211059425",
-      "RetractionPubMedID": "35300249.0",
-      "OriginalPaperDate": "6/18/2021 0:00",
-      "OriginalPaperDOI": "10.1177/23969873211027003",
-      "OriginalPaperPubMedID": "34414306.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Content through Error by Journal/Publisher",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -167,21 +169,21 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

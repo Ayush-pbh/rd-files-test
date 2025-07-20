@@ -1,157 +1,277 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687880d",
+    "_id": "687ccbab09adbf7aa61b942e",
     "grid_id": "grid.444416.7",
     "institute_name": "Karnatak University",
     "country": "India",
     "retracted_record_ids": [
+      "3087",
       "53310",
       "12791",
-      "3087"
+      "65859",
+      "65852"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23421d8",
-      "Record ID": "53310",
-      "Title": "Numerical Solution of Abel\u2032s Integral Equations using Hermite Wavelet",
-      "Subject": [
+      "_id": "687cef4f1f662220d89844f2",
+      "recordId": "65859",
+      "title": "Biosynthesis and characterization of polysaccharide-capped silver nanoparticles from Acalypha indica L. and evaluation of their biological activities",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(PHY) Engineering - Chemical",
+        "(PHY) Nanotechnology"
+      ],
+      "institution": [
+        "P.G. Department of Studies in Botany, Karnatak University, Dharwad-03, Karnataka, India",
+        "Department of Chemistry, College of Science, King Saud University, Riyadh, 11451, Saudi Arabia",
+        "Department of Chemistry and Biochemistry, The Ohio State University, 151 W. Woodruff Ave, Columbus, OH 43210, United States"
+      ],
+      "journal": "Environmental Research",
+      "publisher": "Elsevier",
+      "country": [
+        "India",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "author": [
+        "Bidhayak Chakraborty",
+        "Meghashyama Prabhakara Bhat",
+        "Dhanyakumara Shivapoojar Basavarajappa",
+        "Muthuraj Rudrappa",
+        "Sreenivasa Nayaka",
+        "Raju Suresh Kumar",
+        "Abdulrahman I Almansour",
+        "Karthikeyan Perumal"
+      ],
+      "urls": "https://retractionwatch.com/2025/05/14/dozens-of-elsevier-papers-retracted-over-fake-companies-and-suspicious-authorship-changes/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/30/2025 0:00",
+      "retractiondoi": "10.1016/j.envres.2025.121960",
+      "retractionpubmedid": "40449340.0",
+      "originalpaperdate": "3/6/2023 0:00",
+      "originalpaperdoi": "10.1016/j.envres.2023.115614",
+      "originalpaperpubmedid": "36889569.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues with Peer Review",
+        "+Conflict of Interest",
+        "+Error in Methods",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef4f1f662220d89844f9",
+      "recordId": "65852",
+      "title": "Aspergillus niger CJ6 extract with antimicrobial potential promotes in-vitro cytotoxicity and induced apoptosis against MIA PaCa-2\u00a0cell line",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "P.G. Department of Studies in Botany, Karnatak University, Dharwad, 580001, Karnataka, India",
+        "Department of Chemistry, College of Science, King Saud University, Riyadh, 11451, Saudi Arabia",
+        "Department of Chemistry and Biochemistry, The Ohio State University, 151 W. Woodruff Ave, Columbus, OH, 43210, United States"
+      ],
+      "journal": "Environmental Research",
+      "publisher": "Elsevier",
+      "country": [
+        "India",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "author": [
+        "Meghashyama Prabhakara Bhat",
+        "Bidhayak Chakraborty",
+        "Shashiraj Kareyellappa Nagaraja",
+        "Pooja Vidyasagar Gunagambhire",
+        "Raju Suresh Kumar",
+        "Sreenivasa Nayaka",
+        "Abdulrahman I Almansour",
+        "Karthikeyan Perumal"
+      ],
+      "urls": "https://retractionwatch.com/2025/05/14/dozens-of-elsevier-papers-retracted-over-fake-companies-and-suspicious-authorship-changes/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/4/2025 0:00",
+      "retractiondoi": "10.1016/j.envres.2025.121991",
+      "retractionpubmedid": "40472499.0",
+      "originalpaperdate": "4/29/2023 0:00",
+      "originalpaperdoi": "10.1016/j.envres.2023.116008",
+      "originalpaperpubmedid": "37121347.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Euphemisms for Duplication",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef811f662220d89875be",
+      "recordId": "53310",
+      "title": "Numerical Solution of Abel\u2032s Integral Equations using Hermite Wavelet",
+      "subject": [
         "(PHY) Mathematics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Mathematics, M.E.S Degree College, Malleswaram, India",
         "Department of Mathematics, Karnatak University, Dharwad, India"
       ],
-      "Journal": "Applied Mathematics and Nonlinear Sciences",
-      "Publisher": "Sciendo Publishing",
-      "Country": [
+      "journal": "Applied Mathematics and Nonlinear Sciences",
+      "publisher": "Sciendo Publishing",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "R A Mundewadi",
         "Kumbinarasaiah S"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/31/2023 0:00",
-      "RetractionDOI": "10.2478/amns.2023.1.00401",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/25/2019 0:00",
-      "OriginalPaperDOI": "10.2478/AMNS.2019.2.00037",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/31/2023 0:00",
+      "retractiondoi": "10.2478/amns.2023.1.00401",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/25/2019 0:00",
+      "originalpaperdoi": "10.2478/AMNS.2019.2.00037",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Euphemisms for Duplication",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234bf66",
-      "Record ID": "12791",
-      "Title": "Synthesis, anti-bacterial, anti-fungal and cytotoxic properties of novel pyrimidine derivatives from chromen-2-one moiety",
-      "Subject": [
+      "_id": "687cf0ac1f662220d899134c",
+      "recordId": "12791",
+      "title": "Synthesis, anti-bacterial, anti-fungal and cytotoxic properties of novel pyrimidine derivatives from chromen-2-one moiety",
+      "subject": [
         "(HSC) Medicine - General",
         "(PHY) Chemistry"
       ],
-      "Institution": [
+      "institution": [
         "P.G. Department of Studies in Chemistry, Karnatak University, Dharwad"
       ],
-      "Journal": "Medicinal Chemistry Research",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Medicinal Chemistry Research",
+      "publisher": "Springer",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "Rangappa S Keri",
         "Kallappa M Hosamani",
         "Ramya V Shingalapur"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/1/2014 0:00",
-      "RetractionDOI": "10.1007/s00044-010-9421-3",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/14/2010 0:00",
-      "OriginalPaperDOI": "10.1007/s00044-010-9421-3",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2014 0:00",
+      "retractiondoi": "10.1007/s00044-010-9421-3",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/14/2010 0:00",
+      "originalpaperdoi": "10.1007/s00044-010-9421-3",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Text",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e4d4",
-      "Record ID": "3087",
-      "Title": "2-Azetidinone Derivatives: Design, Synthesis, in vitro Anti-microbial, Cytotoxic Activities and DNA Cleavage Study",
-      "Subject": [
+      "_id": "687cf0cd1f662220d89938ba",
+      "recordId": "3087",
+      "title": "2-Azetidinone Derivatives: Design, Synthesis, in vitro Anti-microbial, Cytotoxic Activities and DNA Cleavage Study",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(PHY) Chemistry"
       ],
-      "Institution": [
+      "institution": [
         "P.G. Department of Studies in Chemistry, Karnatak University, Pavate Nagar, Dharwad 580 003, India"
       ],
-      "Journal": "European Journal of Medicinal Chemistry",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "European Journal of Medicinal Chemistry",
+      "publisher": "Elsevier",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "Rangappa S Keri",
         "Kallappa M Hosamani",
         "Ramya V Shingalapur",
         "Harisha R Seetharama Reddy"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2011 0:00",
-      "RetractionPubMedID": "21748868.0",
-      "OriginalPaperDate": "12/1/2009 0:00",
-      "OriginalPaperDOI": "10.1016/j.ejmech.2009.09.011",
-      "OriginalPaperPubMedID": "19815315.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2011 0:00",
+      "retractionpubmedid": "21748868.0",
+      "originalpaperdate": "12/1/2009 0:00",
+      "originalpaperdoi": "10.1016/j.ejmech.2009.09.011",
+      "originalpaperpubmedid": "19815315.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2009,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -159,10 +279,10 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -170,21 +290,21 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -192,10 +312,21 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

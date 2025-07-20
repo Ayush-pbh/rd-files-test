@@ -1,83 +1,37 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878cf6",
+    "_id": "687ccbab09adbf7aa61b9917",
     "grid_id": "grid.415971.f",
     "institute_name": "MRC Laboratory for Molecular Cell Biology",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "451",
-      "44333"
+      "44333",
+      "451"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234eee8",
-      "Record ID": "451",
-      "Title": "Mitochondrial dynamics, biogenesis, and function are coordinated with the cell cycle by APC/C CDH1",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Wolfson Institute for Biomedical Research",
-        "MRC Laboratory for Molecular Cell Biology and Department of Neuroscience, Physiology and Pharmacology University College London, London WC1E 6BT, UK"
-      ],
-      "Journal": "Cell Metabolism",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Assegid Garedew",
-        "Catia Andreassi",
-        "Salvador Moncada"
-      ],
-      "URLS": "http://retractionwatch.com/2012/09/04/three-retractions-for-university-college-london-mitochondrial-biologist-for-inappropriate-figure-manipulations/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/8/2012 0:00",
-      "RetractionDOI": "10.1016/j.cmet.2012.07.010",
-      "RetractionPubMedID": "23045728.0",
-      "OriginalPaperDate": "4/4/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.cmet.2012.03.003",
-      "OriginalPaperPubMedID": "22482729.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Company/Institution",
-        "+Manipulation of Images",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Assegid Garedew named responsible for image falsification",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23444c3",
-      "Record ID": "44333",
-      "Title": "Macrophage-Derived Slit3 Controls Cell Migration and Axon Pathfinding in the Peripheral Nerve Bridge",
-      "Subject": [
+      "_id": "687cefa41f662220d89898a9",
+      "recordId": "44333",
+      "title": "Macrophage-Derived Slit3 Controls Cell Migration and Axon Pathfinding in the Peripheral Nerve Bridge",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Faculty of Medicine and Dentistry, Plymouth University, Plymouth, Devon, UK",
         "School of Pharmacy, Hubei University of Science and Technology, Xian-Ning City, Hubei, China",
         "The Co-innovation Center of Neuroregeneration, Nantong University, Jiangsu Province, China",
         "University of Bath, Bath, UK",
         "MRC Laboratory for Molecular Cell Biology, University College London, London, UK"
       ],
-      "Journal": "Cell Reports",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Cell Reports",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Xin Peng Dun",
         "Lauren Carr",
         "Patricia K Woodley",
@@ -88,46 +42,94 @@
         "Alison C LLoyd",
         "David B Parkinson"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/5/2023 0:00",
-      "RetractionDOI": "10.1016/j.celrep.2023.112517",
-      "RetractionPubMedID": "37148243.0",
-      "OriginalPaperDate": "2/5/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.celrep.2018.12.081",
-      "OriginalPaperPubMedID": "30726731.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/5/2023 0:00",
+      "retractiondoi": "10.1016/j.celrep.2023.112517",
+      "retractionpubmedid": "37148243.0",
+      "originalpaperdate": "2/5/2019 0:00",
+      "originalpaperdoi": "10.1016/j.celrep.2018.12.081",
+      "originalpaperpubmedid": "30726731.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Falsification/Fabrication of Image"
       ],
-      "Paywalled": "No",
-      "Notes": "Xin Peng Dong admitted to fabrication of data.",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Xin Peng Dong admitted to fabrication of data.",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d89942ce",
+      "recordId": "451",
+      "title": "Mitochondrial dynamics, biogenesis, and function are coordinated with the cell cycle by APC/C CDH1",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Wolfson Institute for Biomedical Research",
+        "MRC Laboratory for Molecular Cell Biology and Department of Neuroscience, Physiology and Pharmacology University College London, London WC1E 6BT, UK"
+      ],
+      "journal": "Cell Metabolism",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Assegid Garedew",
+        "Catia Andreassi",
+        "Salvador Moncada"
+      ],
+      "urls": "http://retractionwatch.com/2012/09/04/three-retractions-for-university-college-london-mitochondrial-biologist-for-inappropriate-figure-manipulations/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/8/2012 0:00",
+      "retractiondoi": "10.1016/j.cmet.2012.07.010",
+      "retractionpubmedid": "23045728.0",
+      "originalpaperdate": "4/4/2012 0:00",
+      "originalpaperdoi": "10.1016/j.cmet.2012.03.003",
+      "originalpaperpubmedid": "22482729.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Manipulation of Images",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Assegid Garedew named responsible for image falsification",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -135,10 +137,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

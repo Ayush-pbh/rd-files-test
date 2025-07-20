@@ -1,52 +1,354 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877dbe",
+    "_id": "687ccbab09adbf7aa61b89df",
     "grid_id": "grid.410648.f",
     "institute_name": "Tianjin University of Traditional Chinese Medicine",
     "country": "China",
     "retracted_record_ids": [
+      "57393",
+      "43967",
+      "53020",
+      "26141",
+      "61113",
+      "59105",
       "56367",
+      "43647",
+      "51008",
+      "28680",
+      "59565",
       "60709",
       "44400",
-      "61113",
       "61780",
-      "45848",
-      "53020",
-      "43647",
       "43742",
-      "59565",
-      "43967",
-      "44346",
-      "51008",
-      "26141",
-      "28680",
-      "57393",
-      "59105"
+      "45848",
+      "44346"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23415ee",
-      "Record ID": "56367",
-      "Title": "Qing Zao Fang (QZF) Alleviates the Inflammatory Microenvironment of the Submandibular Gland in Sj\u00f6gren\u2019s Syndrome Based on the PI3K/Akt/HIF-1\u03b1/VEGF Signaling Pathway",
-      "Subject": [
+      "_id": "687cef5f1f662220d89854b4",
+      "recordId": "61780",
+      "title": "Data Mining-Based Analysis of Modern Chinese Medicine for the Treatment of Stable Angina Pectoris in Coronary Heart Disease",
+      "subject": [
+        "(B/T) Data Science",
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Graduate School, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
+        "National Clinical Research Center for Chinese Medicine Acupuncture and Moxibustion, First Teaching Hospital of Tianjin University of Traditional Chinese Medicine, Tianjin 300380, China",
+        "Library of Tianjin University of Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Min Luo",
+        "Yuying Hu",
+        "Rong Bai",
+        "Zongpei Xu"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "10/11/2023 0:00",
+      "retractiondoi": "10.1155/2023/9857271",
+      "retractionpubmedid": "37860302.0",
+      "originalpaperdate": "2/28/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/3511974",
+      "originalpaperpubmedid": "35265297.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef611f662220d898574f",
+      "recordId": "61113",
+      "title": "Influence of Mindfulness and Relaxation on Treatment of Essential Hypertension: Meta-Analysis",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Endocrinology",
+        "(HSC) Medicine - Psychiatry",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Department of Health Management Centre, Tianjin Academy of Traditional Chinese Medicine Affiliated hospital, Room 117, Health Management Center, Building C, Affiliated Hospital of Tianjin Institute of Traditional Chinese Medicine, No. 354, Beima Road, Hongqiao, Tianjin 300120, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Fushun Zhang",
+        "Yuanyuan Zhang",
+        "Nan Jiang",
+        "Qiao Zhai",
+        "Juanjuan Hu",
+        "Jing Feng"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "11/1/2023 0:00",
+      "retractiondoi": "10.1155/2023/9781831",
+      "retractionpubmedid": "37946912.0",
+      "originalpaperdate": "12/3/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/2272469",
+      "originalpaperpubmedid": "34900178.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef631f662220d89858e3",
+      "recordId": "60709",
+      "title": "Meta-Analysis of Tai Chi Chuan in Treating Lumbar Spondylosis and Back Pain",
+      "subject": [
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(SOC) Sports and Recreation"
+      ],
+      "institution": [
+        "Department of Health Management Centre in Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, China",
+        "Department of Laboratory Medicine in Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, China"
+      ],
+      "journal": "Applied Bionics and Biomechanics",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Fushun Zhang",
+        "Junfang Zhao",
+        "Nan Jiang",
+        "Qiao Zhai",
+        "Juanjuan Hu",
+        "Jing Zhang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "11/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9804648",
+      "retractionpubmedid": "38075107.0",
+      "originalpaperdate": "2/7/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/2759977",
+      "originalpaperpubmedid": "35178121.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef691f662220d8985d5b",
+      "recordId": "59565",
+      "title": "Traditional Chinese Medicine Moxibustion in the Treatment of Infantile Diarrhea",
+      "subject": [
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Pediatrics"
+      ],
+      "institution": [
+        "Graduate School of Tianjin University of Traditional Chinese Medicine, No.10 Poyang Lake Road, Tuanbo Xincheng West District, Jinghai District, Tianjin, China"
+      ],
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Ziming Li"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "12/13/2023 0:00",
+      "retractiondoi": "10.1155/2023/9872659",
+      "retractionpubmedid": "38124853.0",
+      "originalpaperdate": "6/30/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/9749606",
+      "originalpaperpubmedid": "35814536.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef691f662220d8985f27",
+      "recordId": "59105",
+      "title": "Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "College of Pharmaceutical Engineering of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
+        "College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiaoxiao Chen",
+        "Yongzhi He",
+        "Yanru Deng"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "12/13/2023 0:00",
+      "retractiondoi": "10.1155/2023/9870931",
+      "retractionpubmedid": "38125126.0",
+      "originalpaperdate": "8/18/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/1808081",
+      "originalpaperpubmedid": "34457017.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef711f662220d89865d2",
+      "recordId": "57393",
+      "title": "Construction and Application of MALDI-TOF Mass Spectrometry for the Detection of Haemophilus parasuis",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology",
+        "(BLS) Parasitology",
+        "(BLS) Zoology"
+      ],
+      "institution": [
+        "Shanghai Animal Disease Control Center, 855 Hongjin Road, Shanghai 201103, China",
+        "Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China"
+      ],
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiaoxu Wang",
+        "Feng Xu",
+        "Kun Ning",
+        "Liping Shen",
+        "Xinyong Qi",
+        "Jian Wang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/9/2024 0:00",
+      "retractiondoi": "10.1155/2024/9817125",
+      "retractionpubmedid": "38230049.0",
+      "originalpaperdate": "4/15/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/5588855",
+      "originalpaperpubmedid": "33937398.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef751f662220d89869d4",
+      "recordId": "56367",
+      "title": "Qing Zao Fang (QZF) Alleviates the Inflammatory Microenvironment of the Submandibular Gland in Sj\u00f6gren\u2019s Syndrome Based on the PI3K/Akt/HIF-1\u03b1/VEGF Signaling Pathway",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Alternative",
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "First Teaching Hospital of Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China",
         "National Clinical Research Center for Chinese Medicine Acupuncture and Moxibustion, Tianjin, 300381, China",
         "Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
         "Guizhou University of Traditional Chinese Medicine, Guiyang 550025, China"
       ],
-      "Journal": "Disease Markers",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Disease Markers",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Ping Zeng",
         "Wei Liu",
         "Xiaochun Yang",
@@ -56,18 +358,18 @@
         "Longmei Zhao",
         "Aihua Wang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/4/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9851083",
-      "RetractionPubMedID": "37829126.0",
-      "OriginalPaperDate": "1/31/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6153459",
-      "OriginalPaperPubMedID": "35140821.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/4/2023 0:00",
+      "retractiondoi": "10.1155/2023/9851083",
+      "retractionpubmedid": "37829126.0",
+      "originalpaperdate": "1/31/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6153459",
+      "originalpaperpubmedid": "35140821.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -80,284 +382,22 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/A17D438FCB176AD7101E43C6B38380",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/A17D438FCB176AD7101E43C6B38380",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23404fd",
-      "Record ID": "60709",
-      "Title": "Meta-Analysis of Tai Chi Chuan in Treating Lumbar Spondylosis and Back Pain",
-      "Subject": [
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(SOC) Sports and Recreation"
-      ],
-      "Institution": [
-        "Department of Health Management Centre in Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, China",
-        "Department of Laboratory Medicine in Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, China"
-      ],
-      "Journal": "Applied Bionics and Biomechanics",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Fushun Zhang",
-        "Junfang Zhao",
-        "Nan Jiang",
-        "Qiao Zhai",
-        "Juanjuan Hu",
-        "Jing Zhang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "11/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9804648",
-      "RetractionPubMedID": "38075107.0",
-      "OriginalPaperDate": "2/7/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/2759977",
-      "OriginalPaperPubMedID": "35178121.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2344480",
-      "Record ID": "44400",
-      "Title": "Protective effects of total flavonoids in Caragana against hypoxia/reoxygenation-induced injury in human brain microvascular endothelial cells",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China",
-        "The Second Hospital of Hebei Medical University, Shijiazhuang, 050000, PR China",
-        "Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, PR China",
-        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China"
-      ],
-      "Journal": "Biomedicine & Pharmacotherapy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qian Song He",
-        "Li Zhang",
-        "Zi Yuan Fan",
-        "Guo Feng",
-        "Fu Jiang Wang",
-        "Zheng Qi Liu",
-        "Ting Tang",
-        "Shi Xiang Kuang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/9/2023 0:00",
-      "RetractionDOI": "10.1016/j.biopha.2023.114736",
-      "RetractionPubMedID": "37169674.0",
-      "OriginalPaperDate": "2/24/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.biopha.2017.01.106",
-      "OriginalPaperPubMedID": "28236705.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Investigation by Third Party",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Paper Mill",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/FE1B7461C358F48E6838BF1622C291",
-      "notice_year": 2023,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340369",
-      "Record ID": "61113",
-      "Title": "Influence of Mindfulness and Relaxation on Treatment of Essential Hypertension: Meta-Analysis",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Endocrinology",
-        "(HSC) Medicine - Psychiatry",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Department of Health Management Centre, Tianjin Academy of Traditional Chinese Medicine Affiliated hospital, Room 117, Health Management Center, Building C, Affiliated Hospital of Tianjin Institute of Traditional Chinese Medicine, No. 354, Beima Road, Hongqiao, Tianjin 300120, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Fushun Zhang",
-        "Yuanyuan Zhang",
-        "Nan Jiang",
-        "Qiao Zhai",
-        "Juanjuan Hu",
-        "Jing Feng"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "11/1/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9781831",
-      "RetractionPubMedID": "37946912.0",
-      "OriginalPaperDate": "12/3/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/2272469",
-      "OriginalPaperPubMedID": "34900178.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23400ce",
-      "Record ID": "61780",
-      "Title": "Data Mining-Based Analysis of Modern Chinese Medicine for the Treatment of Stable Angina Pectoris in Coronary Heart Disease",
-      "Subject": [
-        "(B/T) Data Science",
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Graduate School, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
-        "National Clinical Research Center for Chinese Medicine Acupuncture and Moxibustion, First Teaching Hospital of Tianjin University of Traditional Chinese Medicine, Tianjin 300380, China",
-        "Library of Tianjin University of Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Min Luo",
-        "Yuying Hu",
-        "Rong Bai",
-        "Zongpei Xu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "10/11/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9857271",
-      "RetractionPubMedID": "37860302.0",
-      "OriginalPaperDate": "2/28/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/3511974",
-      "OriginalPaperPubMedID": "35265297.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343edb",
-      "Record ID": "45848",
-      "Title": "Clinical Observation of MRI Image in Floating Needle Therapy for Cervical Spondylosis of Cervical Type",
-      "Subject": [
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Gradute School, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
-        "Department of Orthopedics, Tianjin Beichen Traditional Chinese Medicine Hospital, Tianjin 300400, China"
-      ],
-      "Journal": "Scanning",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xianqiang Liu",
-        "Zhenyi Tang",
-        "Botao Wang",
-        "Yongshuai Chen"
-      ],
-      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/",
-      "ArticleType": [
-        "Clinical Study",
-        "Research Article"
-      ],
-      "RetractionDate": "6/21/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9864261",
-      "RetractionPubMedID": "37388986.0",
-      "OriginalPaperDate": "5/24/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/1340192",
-      "OriginalPaperPubMedID": "35795613.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23422eb",
-      "Record ID": "53020",
-      "Title": "Pharmacotherapy for adults with overweight and obesity: a systematic review and network meta-analysis of randomised controlled trials",
-      "Subject": [
+      "_id": "687cef831f662220d89876d1",
+      "recordId": "53020",
+      "title": "Pharmacotherapy for adults with overweight and obesity: a systematic review and network meta-analysis of randomised controlled trials",
+      "subject": [
         "(HSC) Medicine - General",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Endocrinology and Metabolism and Department of Guideline and Rapid Recommendation, Cochrane China Center, MAGIC China Center, Chinese Evidence-Based Medicine Center, West China Hospital, Sichuan University, Chengdu, China",
         "Center of Gerontology and Geriatrics, National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, China",
         "Rehabilitation Medical Centre, Rehabilitation Medicine Key Laboratory of Sichuan Province, West China Hospital, Sichuan University, Chengdu, China",
@@ -373,14 +413,14 @@
         "Department of Endocrinology and Metabolism, First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China",
         "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China"
       ],
-      "Journal": "Lancet",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Lancet",
+      "publisher": "Elsevier",
+      "country": [
         "Canada",
         "China",
         "Norway"
       ],
-      "Author": [
+      "author": [
         "Qingyang Shi",
         "Yang Wang",
         "Qiukui Hao",
@@ -410,17 +450,17 @@
         "Haoming Tian",
         "Sheyu Li"
       ],
-      "ArticleType": [
+      "articletype": [
         "Meta-Analysis"
       ],
-      "RetractionDate": "4/4/2024 0:00",
-      "RetractionDOI": "10.1016/S0140-6736(24)00318-0",
-      "RetractionPubMedID": "38583444.0",
-      "OriginalPaperDate": "1/13/2022 0:00",
-      "OriginalPaperDOI": "10.1016/S0140-6736(21)01640-8",
-      "OriginalPaperPubMedID": "34895470.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/4/2024 0:00",
+      "retractiondoi": "10.1016/S0140-6736(24)00318-0",
+      "retractionpubmedid": "38583444.0",
+      "originalpaperdate": "1/13/2022 0:00",
+      "originalpaperdoi": "10.1016/S0140-6736(21)01640-8",
+      "originalpaperpubmedid": "34895470.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Error in Analyses",
         "+Error in Methods",
@@ -428,294 +468,51 @@
         "+Investigation by Third Party",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "Notes": "see https://www.sciencedirect.com/science/article/abs/pii/S0140673624003519;",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see https://www.sciencedirect.com/science/article/abs/pii/S0140673624003519;",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234476e",
-      "Record ID": "43647",
-      "Title": "Protective effects of total flavonoids in Caragana against hypoxia/reoxygenation-induced injury in human brain microvascular endothelial cells",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China",
-        "The Second Hospital of Hebei Medical University, Shijiazhuang, 050000, PR China",
-        "Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, PR China",
-        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China"
-      ],
-      "Journal": "Biomedicine & Pharmacotherapy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qian Song He",
-        "Li Zhang",
-        "Zi Yuan Fan",
-        "Guo Feng",
-        "Fu Jiang Wang",
-        "Zheng Qi Liu",
-        "Ting Tang",
-        "Shi Xiang Kuang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/1/2022 0:00",
-      "RetractionDOI": "10.1016/j.biopha.2022.113823",
-      "RetractionPubMedID": "36271528.0",
-      "OriginalPaperDate": "2/24/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.biopha.2017.01.106",
-      "OriginalPaperPubMedID": "28236705.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234470f",
-      "Record ID": "43742",
-      "Title": "Significance of B10 cell in patients with thymoma complicated with myasthenia gravis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Endocrinology",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Intensive Care Unit, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Key Laboratory of Cancer Prevention and Therapy, Tianjin, Tianjin's Clinical Research Center for Cancer, Tianjin, 300060, China",
-        "Department of Cardiothoracic Surgery, Tianjin Medical University General Hospital, Tianjin, 300052, China",
-        "Department of Anesthesia, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Key Laboratory of Cancer Prevention and Therapy, Tianjin, Tianjin's Clinical Research Center for Cancer, Tianjin, 300060, China",
-        "Key Laboratory of Pharmacology of Traditional Chinese Medicine Formulae, Ministry of Education, Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, China"
-      ],
-      "Journal": "Oncotarget",
-      "Publisher": "Impact Journals",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yang Lu",
-        "Fanjie Meng",
-        "Yang Yang",
-        "Lan Li",
-        "Donghao Wang",
-        "Yuantao Cui",
-        "Shangwen Dong",
-        "Wanhua Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/10/2023 0:00",
-      "RetractionDOI": "10.18632/oncotarget.28160",
-      "RetractionPubMedID": "37036761.0",
-      "OriginalPaperDate": "5/17/2017 0:00",
-      "OriginalPaperDOI": "10.18632/oncotarget.17908",
-      "OriginalPaperPubMedID": "29088744.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Error in Data",
-        "+Error in Image",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340975",
-      "Record ID": "59565",
-      "Title": "Traditional Chinese Medicine Moxibustion in the Treatment of Infantile Diarrhea",
-      "Subject": [
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Pediatrics"
-      ],
-      "Institution": [
-        "Graduate School of Tianjin University of Traditional Chinese Medicine, No.10 Poyang Lake Road, Tuanbo Xincheng West District, Jinghai District, Tianjin, China"
-      ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ziming Li"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "12/13/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9872659",
-      "RetractionPubMedID": "38124853.0",
-      "OriginalPaperDate": "6/30/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/9749606",
-      "OriginalPaperPubMedID": "35814536.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234462f",
-      "Record ID": "43967",
-      "Title": "Extra Dose of Vitamin C Based on a Daily Supplementation Shortens the Common Cold: A Meta-Analysis of 9 Randomized Controlled Trials",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Nutrition"
-      ],
-      "Institution": [
-        "Graduate School, Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China",
-        "Department of Neurology, Nankai Hospital, Tianjin Academy of Integrative Medicine, Tianjin 300100, China",
-        "Department of Research and Development, Hangzhou DeBuYou Health Technology Co. Ltd., Hangzhou, Zhejiang 310018, China",
-        "College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China",
-        "Department of Chemical Engineering, University of Florida, Gainesville, Florida 32611, USA"
-      ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Li Ran",
-        "Wenli Zhao",
-        "Jingxia Wang",
-        "Hongwu Wang",
-        "Ye Zhao",
-        "Yiider Tseng",
-        "Huaien Bu"
-      ],
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "4/10/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9848057",
-      "RetractionPubMedID": "37078007.0",
-      "OriginalPaperDate": "7/5/2018 0:00",
-      "OriginalPaperDOI": "10.1155/2018/1837634",
-      "OriginalPaperPubMedID": "30069463.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23444b6",
-      "Record ID": "44346",
-      "Title": "Danhong injection facilitates recovery of post-stroke motion deficit via Parkin-enhanced mitochondrial function",
-      "Subject": [
-        "(BLS) Neuroscience",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Tianjin State Key Laboratory of Modern Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Jinghai District, Tianjin, China",
-        "Research and Development Center of TCM, Tianjin International Joint Academy of Biotechnology & Medicine, TEDA, Tianjin, China",
-        "Nigeria Natural Medicine Development Agency, Victoria Island, Lagos, Nigeria"
-      ],
-      "Journal": "Restorative Neurology and Neuroscience",
-      "Publisher": "IOS Press (bought by Sage November 2023)",
-      "Country": [
-        "China",
-        "Nigeria"
-      ],
-      "Author": [
-        "John Owoicho Orgah",
-        "Jie Ren",
-        "Xinyan Liu",
-        "Emmanuel A Orgah",
-        "Xiu Mei Gao",
-        "Yan Zhu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/2/2023 0:00",
-      "RetractionDOI": "10.3233/RNN-239001",
-      "RetractionPubMedID": "37154191.0",
-      "OriginalPaperDate": "7/26/2019 0:00",
-      "OriginalPaperDOI": "10.3233/RNN-180828",
-      "OriginalPaperPubMedID": "31282440.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Journal/Publisher",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342ac4",
-      "Record ID": "51008",
-      "Title": "Influence of Dexmedetomidine on Myocardial Injury in Patients with Simultaneous Pancreas-Kidney Transplantation",
-      "Subject": [
+      "_id": "687cef8b1f662220d8987eaa",
+      "recordId": "51008",
+      "title": "Influence of Dexmedetomidine on Myocardial Injury in Patients with Simultaneous Pancreas-Kidney Transplantation",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Diabetes",
         "(HSC) Medicine - Internal",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Transplantation"
       ],
-      "Institution": [
+      "institution": [
         "Tianjin First Center Hospital, Tianjin 300192, China",
         "First Teaching Hospital of Tianjin University of Traditional Chinese Medicine, National Clinical Research Center for Chinese Medicine Acupuncture and Moxibustion, Tianjin 300193, China"
       ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Aili Dong",
         "Yajing Zhang",
         "Shujun Lu",
         "Wenli Yu"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "8/30/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9860397",
-      "RetractionPubMedID": "37680701.0",
-      "OriginalPaperDate": "11/17/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/7196449",
-      "OriginalPaperPubMedID": "36437830.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/30/2023 0:00",
+      "retractiondoi": "10.1155/2023/9860397",
+      "retractionpubmedid": "37680701.0",
+      "originalpaperdate": "11/17/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/7196449",
+      "originalpaperpubmedid": "36437830.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -726,268 +523,488 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/CFFE968EC8FC6A9116AA0F62A01FE2",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/CFFE968EC8FC6A9116AA0F62A01FE2",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2348b81",
-      "Record ID": "26141",
-      "Title": "A novel method for rat osteoarthritis induced by sustained releasing papain",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General"
+      "_id": "687cef9e1f662220d89892c1",
+      "recordId": "45848",
+      "title": "Clinical Observation of MRI Image in Floating Needle Therapy for Cervical Spondylosis of Cervical Type",
+      "subject": [
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
-        "Tianjin State Key Laboratory of Modern Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, China"
+      "institution": [
+        "Gradute School, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
+        "Department of Orthopedics, Tianjin Beichen Traditional Chinese Medicine Hospital, Tianjin 300400, China"
       ],
-      "Journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "Scanning",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Zhan biao Liu",
-        "Qiang song Wang",
-        "Yong Mei Shi",
-        "Shao zhuo Zhang"
+      "author": [
+        "Xianqiang Liu",
+        "Zhenyi Tang",
+        "Botao Wang",
+        "Yongshuai Chen"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
+      "urls": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/",
+      "articletype": [
+        "Clinical Study",
+        "Research Article"
       ],
-      "RetractionDate": "5/31/2011 0:00",
-      "RetractionDOI": "10.1109/icbbe.2011.5780413",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/10/2011 0:00",
-      "OriginalPaperDOI": "10.1109/icbbe.2011.5780413",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
+      "retractiondate": "6/21/2023 0:00",
+      "retractiondoi": "10.1155/2023/9864261",
+      "retractionpubmedid": "37388986.0",
+      "originalpaperdate": "5/24/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/1340192",
+      "originalpaperpubmedid": "35795613.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234819a",
-      "Record ID": "28680",
-      "Title": "Tetrandrine-Loaded Fibrous Extracellular Matrix for Cartilage Tissue Engineering",
-      "Subject": [
+      "_id": "687cefa41f662220d8989866",
+      "recordId": "44400",
+      "title": "Protective effects of total flavonoids in Caragana against hypoxia/reoxygenation-induced injury in human brain microvascular endothelial cells",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China",
+        "The Second Hospital of Hebei Medical University, Shijiazhuang, 050000, PR China",
+        "Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, PR China",
+        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China"
+      ],
+      "journal": "Biomedicine & Pharmacotherapy",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qian Song He",
+        "Li Zhang",
+        "Zi Yuan Fan",
+        "Guo Feng",
+        "Fu Jiang Wang",
+        "Zheng Qi Liu",
+        "Ting Tang",
+        "Shi Xiang Kuang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/9/2023 0:00",
+      "retractiondoi": "10.1016/j.biopha.2023.114736",
+      "retractionpubmedid": "37169674.0",
+      "originalpaperdate": "2/24/2017 0:00",
+      "originalpaperdoi": "10.1016/j.biopha.2017.01.106",
+      "originalpaperpubmedid": "28236705.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Investigation by Third Party",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Paper Mill",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/FE1B7461C358F48E6838BF1622C291",
+      "year": "2017",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa41f662220d898989c",
+      "recordId": "44346",
+      "title": "Danhong injection facilitates recovery of post-stroke motion deficit via Parkin-enhanced mitochondrial function",
+      "subject": [
+        "(BLS) Neuroscience",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Tianjin State Key Laboratory of Modern Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Jinghai District, Tianjin, China",
+        "Research and Development Center of TCM, Tianjin International Joint Academy of Biotechnology & Medicine, TEDA, Tianjin, China",
+        "Nigeria Natural Medicine Development Agency, Victoria Island, Lagos, Nigeria"
+      ],
+      "journal": "Restorative Neurology and Neuroscience",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "country": [
+        "China",
+        "Nigeria"
+      ],
+      "author": [
+        "John Owoicho Orgah",
+        "Jie Ren",
+        "Xinyan Liu",
+        "Emmanuel A Orgah",
+        "Xiu Mei Gao",
+        "Yan Zhu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/2/2023 0:00",
+      "retractiondoi": "10.3233/RNN-239001",
+      "retractionpubmedid": "37154191.0",
+      "originalpaperdate": "7/26/2019 0:00",
+      "originalpaperdoi": "10.3233/RNN-180828",
+      "originalpaperpubmedid": "31282440.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Journal/Publisher",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa61f662220d8989a15",
+      "recordId": "43967",
+      "title": "Extra Dose of Vitamin C Based on a Daily Supplementation Shortens the Common Cold: A Meta-Analysis of 9 Randomized Controlled Trials",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Nutrition"
+      ],
+      "institution": [
+        "Graduate School, Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China",
+        "Department of Neurology, Nankai Hospital, Tianjin Academy of Integrative Medicine, Tianjin 300100, China",
+        "Department of Research and Development, Hangzhou DeBuYou Health Technology Co. Ltd., Hangzhou, Zhejiang 310018, China",
+        "College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China",
+        "Department of Chemical Engineering, University of Florida, Gainesville, Florida 32611, USA"
+      ],
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Li Ran",
+        "Wenli Zhao",
+        "Jingxia Wang",
+        "Hongwu Wang",
+        "Ye Zhao",
+        "Yiider Tseng",
+        "Huaien Bu"
+      ],
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "4/10/2023 0:00",
+      "retractiondoi": "10.1155/2023/9848057",
+      "retractionpubmedid": "37078007.0",
+      "originalpaperdate": "7/5/2018 0:00",
+      "originalpaperdoi": "10.1155/2018/1837634",
+      "originalpaperpubmedid": "30069463.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa61f662220d8989af5",
+      "recordId": "43742",
+      "title": "Significance of B10 cell in patients with thymoma complicated with myasthenia gravis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Endocrinology",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Intensive Care Unit, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Key Laboratory of Cancer Prevention and Therapy, Tianjin, Tianjin's Clinical Research Center for Cancer, Tianjin, 300060, China",
+        "Department of Cardiothoracic Surgery, Tianjin Medical University General Hospital, Tianjin, 300052, China",
+        "Department of Anesthesia, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Key Laboratory of Cancer Prevention and Therapy, Tianjin, Tianjin's Clinical Research Center for Cancer, Tianjin, 300060, China",
+        "Key Laboratory of Pharmacology of Traditional Chinese Medicine Formulae, Ministry of Education, Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, China"
+      ],
+      "journal": "Oncotarget",
+      "publisher": "Impact Journals",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yang Lu",
+        "Fanjie Meng",
+        "Yang Yang",
+        "Lan Li",
+        "Donghao Wang",
+        "Yuantao Cui",
+        "Shangwen Dong",
+        "Wanhua Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/10/2023 0:00",
+      "retractiondoi": "10.18632/oncotarget.28160",
+      "retractionpubmedid": "37036761.0",
+      "originalpaperdate": "5/17/2017 0:00",
+      "originalpaperdoi": "10.18632/oncotarget.17908",
+      "originalpaperpubmedid": "29088744.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Error in Data",
+        "+Error in Image",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa61f662220d8989b54",
+      "recordId": "43647",
+      "title": "Protective effects of total flavonoids in Caragana against hypoxia/reoxygenation-induced injury in human brain microvascular endothelial cells",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China",
+        "The Second Hospital of Hebei Medical University, Shijiazhuang, 050000, PR China",
+        "Tianjin University of Traditional Chinese Medicine, Tianjin, 300193, PR China",
+        "Guiyang College of Traditional Chinese Medicine, Guiyang, 550025, PR China"
+      ],
+      "journal": "Biomedicine & Pharmacotherapy",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qian Song He",
+        "Li Zhang",
+        "Zi Yuan Fan",
+        "Guo Feng",
+        "Fu Jiang Wang",
+        "Zheng Qi Liu",
+        "Ting Tang",
+        "Shi Xiang Kuang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/1/2022 0:00",
+      "retractiondoi": "10.1016/j.biopha.2022.113823",
+      "retractionpubmedid": "36271528.0",
+      "originalpaperdate": "2/24/2017 0:00",
+      "originalpaperdoi": "10.1016/j.biopha.2017.01.106",
+      "originalpaperpubmedid": "28236705.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefe71f662220d898d580",
+      "recordId": "28680",
+      "title": "Tetrandrine-Loaded Fibrous Extracellular Matrix for Cartilage Tissue Engineering",
+      "subject": [
         "(BLS) Biology - General"
       ],
-      "Institution": [
+      "institution": [
         "Key Laboratory of Pharmacology of Traditional Chinese, Medical Formulae, Ministry of Education, Tianjin University of Traditional Chinese Medicine, Tianjin, China",
         "Research Institute of Polymeric Materials, Tianjin University, TJU, Tianjin, China"
       ],
-      "Journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Ye Zhang",
         "Yuan Lu Cui",
         "Lei Ye",
         "Kang De Yao"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "5/31/2011 0:00",
-      "RetractionDOI": "10.1109/icbbe.2011.5780289",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/10/2011 0:00",
-      "OriginalPaperDOI": "10.1109/icbbe.2011.5780289",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/31/2011 0:00",
+      "retractiondoi": "10.1109/icbbe.2011.5780289",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/10/2011 0:00",
+      "originalpaperdoi": "10.1109/icbbe.2011.5780289",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Breach of Policy by Author",
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23411ec",
-      "Record ID": "57393",
-      "Title": "Construction and Application of MALDI-TOF Mass Spectrometry for the Detection of Haemophilus parasuis",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology",
-        "(BLS) Parasitology",
-        "(BLS) Zoology"
+      "_id": "687ceffc1f662220d898df67",
+      "recordId": "26141",
+      "title": "A novel method for rat osteoarthritis induced by sustained releasing papain",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General"
       ],
-      "Institution": [
-        "Shanghai Animal Disease Control Center, 855 Hongjin Road, Shanghai 201103, China",
-        "Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China"
+      "institution": [
+        "Tianjin State Key Laboratory of Modern Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, China"
       ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Xiaoxu Wang",
-        "Feng Xu",
-        "Kun Ning",
-        "Liping Shen",
-        "Xinyong Qi",
-        "Jian Wang"
+      "author": [
+        "Zhan biao Liu",
+        "Qiang song Wang",
+        "Yong Mei Shi",
+        "Shao zhuo Zhang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
+        "Conference Abstract/Paper"
       ],
-      "RetractionDate": "1/9/2024 0:00",
-      "RetractionDOI": "10.1155/2024/9817125",
-      "RetractionPubMedID": "38230049.0",
-      "OriginalPaperDate": "4/15/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/5588855",
-      "OriginalPaperPubMedID": "33937398.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
+      "retractiondate": "5/31/2011 0:00",
+      "retractiondoi": "10.1109/icbbe.2011.5780413",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/10/2011 0:00",
+      "originalpaperdoi": "10.1109/icbbe.2011.5780413",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2340b41",
-      "Record ID": "59105",
-      "Title": "Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "College of Pharmaceutical Engineering of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China",
-        "College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin 301617, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiaoxiao Chen",
-        "Yongzhi He",
-        "Yanru Deng"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "12/13/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9870931",
-      "RetractionPubMedID": "38125126.0",
-      "OriginalPaperDate": "8/18/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/1808081",
-      "OriginalPaperPubMedID": "34457017.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2017,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2017,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 2
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 7,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
-      "integrity": 4
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 12,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -995,10 +1012,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

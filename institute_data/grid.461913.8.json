@@ -1,36 +1,36 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a1a1",
+    "_id": "687ccbab09adbf7aa61badc2",
     "grid_id": "grid.461913.8",
     "institute_name": "Institut Jacques Monod",
     "country": "France",
     "retracted_record_ids": [
-      "1083",
-      "192"
+      "192",
+      "1083"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ec7e",
-      "Record ID": "1083",
-      "Title": "Competition for XPO5 binding between Dicer mRNA, pre-miRNA and viral RNA regulates human Dicer levels",
-      "Subject": [
+      "_id": "687cf0d51f662220d8994064",
+      "recordId": "1083",
+      "title": "Competition for XPO5 binding between Dicer mRNA, pre-miRNA and viral RNA regulates human Dicer levels",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
+      "institution": [
         "Centre National de la Recherche Scientifique (CNRS), Institut de G\u00e9n\u00e9tique Humaine UPR1142, Laboratoire de Virologie Mol\u00e9culaire, Montpellier, France",
         "Institut de Biologie Mol\u00e9culaire des Plantes (IBMP), CNRS, Universit\u00e9 de Strasbourg, Strasbourg, France",
         "Institut Jacques Monod, Universit\u00e9 Paris Diderot, CNRS, Paris, France",
         "Institut de G\u00e9n\u00e9tique Mol\u00e9culaire de Montpellier, Universit\u00e9s de Montpellier I & II, Montpellier, France"
       ],
-      "Journal": "Nature Structural & Molecular Biology",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Structural & Molecular Biology",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Yamina Bennasser",
         "Christine Chable-Bessia",
         "Robinson Triboulet",
@@ -41,73 +41,75 @@
         "Olivier Voinnet",
         "Monsef Benkirane"
       ],
-      "URLS": "http://retractionwatch.com/2016/04/18/plant-scientist-voinnets-correction-count-grows-to-22/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/04/18/plant-scientist-voinnets-correction-count-grows-to-22/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/22/2016 0:00",
-      "OriginalPaperDate": "2/6/2011 0:00",
-      "OriginalPaperDOI": "10.1038/nsmb.1987",
-      "OriginalPaperPubMedID": "21297638.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "1/22/2016 0:00",
+      "originalpaperdate": "2/6/2011 0:00",
+      "originalpaperdoi": "10.1038/nsmb.1987",
+      "originalpaperpubmedid": "21297638.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "Notes": "Correction not indexed, added to Supplementary Information - no PMID, DOI; 2/13/2017",
-      "notice_year": 2016,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Correction not indexed, added to Supplementary Information - no PMID, DOI; 2/13/2017",
+      "year": "2011",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efe7",
-      "Record ID": "192",
-      "Title": "Copy Choice Illegitimate DNA Recombination",
-      "Subject": [
+      "_id": "687cf0d91f662220d89943cd",
+      "recordId": "192",
+      "title": "Copy Choice Illegitimate DNA Recombination",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Institut Jacques Monod T43 2 Place Jussieu 75251 Paris C\u00e9dex 05 France"
       ],
-      "Journal": "Cell",
-      "Publisher": "MIT Press",
-      "Country": [
+      "journal": "Cell",
+      "publisher": "MIT Press",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Dominique Brunier",
         "B Michel",
         "S Dusko Ehrlich"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/10/1990 0:00",
-      "RetractionDOI": "10.1016/0092-8674(90)90004-X",
-      "RetractionPubMedID": "2199061.0",
-      "OriginalPaperDate": "3/25/1988 0:00",
-      "OriginalPaperDOI": "10.1016/0092-8674(88)90430-8",
-      "OriginalPaperPubMedID": "2832066.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/10/1990 0:00",
+      "retractiondoi": "10.1016/0092-8674(90)90004-X",
+      "retractionpubmedid": "2199061.0",
+      "originalpaperdate": "3/25/1988 0:00",
+      "originalpaperdoi": "10.1016/0092-8674(88)90430-8",
+      "originalpaperpubmedid": "2832066.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 1990,
-      "year": 1988,
-      "mark": "alterations"
+      "paywalled": "Yes",
+      "year": "1988",
+      "noticeYear": "1990",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1988,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -115,32 +117,32 @@
     {
       "year": 1990,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

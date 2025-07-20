@@ -1,115 +1,117 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879c2c",
+    "_id": "687ccbab09adbf7aa61ba84d",
     "grid_id": "grid.468042.c",
     "institute_name": "Islamic Development Bank",
     "country": "Saudi Arabia",
     "retracted_record_ids": [
-      "17712",
-      "18231"
+      "18231",
+      "17712"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ac47",
-      "Record ID": "17712",
-      "Title": "Corporate financing choices and monetary policy in Malaysia: Evidence from firm-level panel data",
-      "Subject": [
-        "(B/T) Business - Economics",
-        "(B/T) International Relations"
-      ],
-      "Institution": [
-        "Islamic Development Bank, Saudi Arabia"
-      ],
-      "Journal": "Economic Systems",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Muhamed Zulkhibri Abdul Majid"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/22/2012 0:00",
-      "RetractionDOI": "10.1016/j.ecosys.2011.09.004",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/22/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.ecosys.2011.09.004",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234aa44",
-      "Record ID": "18231",
-      "Title": "On the efficiency of the Malaysian banking sector: A risk-return perspective",
-      "Subject": [
+      "_id": "687cf0921f662220d898fe2a",
+      "recordId": "18231",
+      "title": "On the efficiency of the Malaysian banking sector: A risk-return perspective",
+      "subject": [
         "(B/T) Business - Economics",
         "(B/T) Business - Management"
       ],
-      "Institution": [
+      "institution": [
         "Kulliyyah of Economics and Management Sciences, Department of Business Administration, Kulliyyah of Economics and Management Sciences, International Islamic University Malaysia, Jalan Gombak, 53100 Kuala Lumpur, Malaysia",
         "Economic Research and Policy Department, Islamic Development Bank, P.O. Box 5925, Jeddah 21432, Saudi Arabia"
       ],
-      "Journal": "Review of Development Finance",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Review of Development Finance",
+      "publisher": "Elsevier",
+      "country": [
         "Malaysia",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Fadzlan Sufian",
         "Muhamed Zulkhibri"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2013 0:00",
-      "RetractionDOI": "10.1016/j.rdf.2013.10.001",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/16/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.rdf.2012.12.001",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2013 0:00",
+      "retractiondoi": "10.1016/j.rdf.2013.10.001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/16/2013 0:00",
+      "originalpaperdoi": "10.1016/j.rdf.2012.12.001",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+False/Forged Authorship",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "Notes": "Muhamed Zulkhibri named responsible;",
-      "notice_year": 2013,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Muhamed Zulkhibri named responsible;",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d899002d",
+      "recordId": "17712",
+      "title": "Corporate financing choices and monetary policy in Malaysia: Evidence from firm-level panel data",
+      "subject": [
+        "(B/T) Business - Economics",
+        "(B/T) International Relations"
+      ],
+      "institution": [
+        "Islamic Development Bank, Saudi Arabia"
+      ],
+      "journal": "Economic Systems",
+      "publisher": "Elsevier",
+      "country": [
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Muhamed Zulkhibri Abdul Majid"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/22/2012 0:00",
+      "retractiondoi": "10.1016/j.ecosys.2011.09.004",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/22/2012 0:00",
+      "originalpaperdoi": "10.1016/j.ecosys.2011.09.004",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

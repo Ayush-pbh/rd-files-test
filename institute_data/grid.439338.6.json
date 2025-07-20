@@ -1,37 +1,81 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068794f3",
+    "_id": "687ccbab09adbf7aa61ba114",
     "grid_id": "grid.439338.6",
     "institute_name": "Royal Brompton Hospital",
     "country": "United Kingdom",
     "retracted_record_ids": [
+      "3453",
       "17831",
-      "31636",
-      "3453"
+      "31636"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234abd2",
-      "Record ID": "17831",
-      "Title": "The carboxyl-terminal activation domain of the STAT-1 transcription factor enhances ischemia/reperfusion-induced apoptosis in cardiac myocytes",
-      "Subject": [
+      "_id": "687cefd21f662220d898c9fc",
+      "recordId": "31636",
+      "title": "Diuretics for heart failure",
+      "subject": [
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Imperial College of Medicine, The National Heart & Lung Institute, London, UK",
+        "Clinical Trials Evaluation Unit, Royal Brompton Hospital, London, UK"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Rajaa F Faris",
+        "Marcus Flather",
+        "Henry Purcell",
+        "M Y Heinan",
+        "P Poole Wilson",
+        "A JS Coats"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "4/4/2016 0:00",
+      "retractiondoi": "10.1002/14651858.CD003838.pub4",
+      "retractionpubmedid": "27040884.0",
+      "originalpaperdate": "10/23/2001 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD003838",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2001",
+      "noticeYear": "2016",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d898ffb8",
+      "recordId": "17831",
+      "title": "The carboxyl-terminal activation domain of the STAT-1 transcription factor enhances ischemia/reperfusion-induced apoptosis in cardiac myocytes",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Medical Molecular Biology Unit, Institute of Child Health, University College London, 30 Guilford Street, London, United Kingdom",
         "Hatter Institutem University College London, United Kingdom",
         "National Heart and Lung Institute, Royal Brompton Hospital, London, United Kingdom"
       ],
-      "Journal": "FASEB Journal",
-      "Publisher": "Federation of American Societies for Experimental Biology",
-      "Country": [
+      "journal": "FASEB Journal",
+      "publisher": "Federation of American Societies for Experimental Biology",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Anastasis Stephanou",
         "Tiziano M Scarabelli",
         "Paul A Townsend",
@@ -40,146 +84,106 @@
         "Richard A Knight",
         "David S Latchman"
       ],
-      "URLS": "http://retractionwatch.com/?s=david+latchman",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=david+latchman",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/29/2018 0:00",
-      "RetractionDOI": "10.1096/fj.02-0150fjeRET",
-      "RetractionPubMedID": "29592793.0",
-      "OriginalPaperDate": "11/1/2002 0:00",
-      "OriginalPaperDOI": "10.1096/fj.02-0150fje",
-      "OriginalPaperPubMedID": "12223448.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/29/2018 0:00",
+      "retractiondoi": "10.1096/fj.02-0150fjeRET",
+      "retractionpubmedid": "29592793.0",
+      "originalpaperdate": "11/1/2002 0:00",
+      "originalpaperdoi": "10.1096/fj.02-0150fje",
+      "originalpaperpubmedid": "12223448.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Image",
         "+Informed/Patient Consent - None/Withdrawn",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2018,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "Yes",
+      "year": "2002",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2347616",
-      "Record ID": "31636",
-      "Title": "Diuretics for heart failure",
-      "Subject": [
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Imperial College of Medicine, The National Heart & Lung Institute, London, UK",
-        "Clinical Trials Evaluation Unit, Royal Brompton Hospital, London, UK"
-      ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Rajaa F Faris",
-        "Marcus Flather",
-        "Henry Purcell",
-        "M Y Heinan",
-        "P Poole Wilson",
-        "A JS Coats"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "4/4/2016 0:00",
-      "RetractionDOI": "10.1002/14651858.CD003838.pub4",
-      "RetractionPubMedID": "27040884.0",
-      "OriginalPaperDate": "10/23/2001 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD003838",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2001
-    },
-    {
-      "_id": "6855d574b14f7811d234e375",
-      "Record ID": "3453",
-      "Title": "Antiapoptotic activity of the free caspase recruitment domain of procaspase-9: a novel endogenous rescue pathway in cell death",
-      "Subject": [
+      "_id": "687cf0cb1f662220d899375b",
+      "recordId": "3453",
+      "title": "Antiapoptotic activity of the free caspase recruitment domain of procaspase-9: a novel endogenous rescue pathway in cell death",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
+      "institution": [
         "Medical Molecular Biology Unit, Institute of Child Health, University College London, 30 Guilford Street, London, United Kingdom",
         "National Heart and Lung Institute, Royal Brompton Hospital, London, United Kingdom"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Anastasis Stephanou",
         "Tiziano M Scarabelli",
         "Richard A Knight",
         "David S Latchman"
       ],
-      "URLS": "http://retractionwatch.com/2015/01/20/prominent-geneticist-nets-retraction-two-corrections-lot-questions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/01/20/prominent-geneticist-nets-retraction-two-corrections-lot-questions/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/16/2015 0:00",
-      "RetractionDOI": "10.1074/jbc.A114.108530",
-      "RetractionPubMedID": "25634593.0",
-      "OriginalPaperDate": "4/19/2002 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M108530200",
-      "OriginalPaperPubMedID": "11825888.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/16/2015 0:00",
+      "retractiondoi": "10.1074/jbc.A114.108530",
+      "retractionpubmedid": "25634593.0",
+      "originalpaperdate": "4/19/2002 0:00",
+      "originalpaperdoi": "10.1074/jbc.M108530200",
+      "originalpaperpubmedid": "11825888.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "1. Article withdrawn by authors",
-      "notice_year": 2015,
-      "year": 2002,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "1. Article withdrawn by authors",
+      "year": "2002",
+      "noticeYear": "2015",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2001,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2002,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -187,10 +191,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -198,10 +202,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

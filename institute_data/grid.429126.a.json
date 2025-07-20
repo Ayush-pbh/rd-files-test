@@ -1,246 +1,124 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878108",
+    "_id": "687ccbab09adbf7aa61b8d29",
     "grid_id": "grid.429126.a",
     "institute_name": "Institute of Automation",
     "country": "China",
     "retracted_record_ids": [
-      "17123",
-      "17776",
       "58156",
       "59703",
       "21442",
-      "39036"
+      "17776",
+      "39036",
+      "17123"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ae8b",
-      "Record ID": "17123",
-      "Title": "Model-based 3D tracking of an articulated hand from single depth images",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "Institute of Automation, Chinese Academy of Sciences, No. 95 ZhongGuanCun Dong Road, HaiDian District, Beijing 100190, PR China"
-      ],
-      "Journal": "Pattern Recognition Letters",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Shuxin Qin",
-        "Yiping Yang",
-        "Yongshi Jiang"
-      ],
-      "URLS": "http://retractionwatch.com/2013/10/24/sensing-a-pattern-pattern-recognition-letters-misses-rampant-plagiarism-in-modeling-paper/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/7/2013 0:00",
-      "RetractionDOI": "10.1016/j.patrec.2013.09.001",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/22/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.patrec.2013.05.010",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2013,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ac09",
-      "Record ID": "17776",
-      "Title": "Joint depth map interpolation using minimax paths",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "National Laboratory of Pattern Recognition, Institute of Automation Chinese Academy of Sciences, 95 Zhongguancun East Road, Beijing, China"
-      ],
-      "Journal": "Neurocomputing",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Longquan Dai",
-        "Feihu Zhang",
-        "Mengke Yuan",
-        "Xiaopeng Zhang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/25/2015 0:00",
-      "RetractionDOI": "10.1016/j.neucom.2015.03.059",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/7/2015 0:00",
-      "OriginalPaperDOI": "10.1016/j.neucom.2015.03.059",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Duplication of Content through Error by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "exact date of retraction unknown;",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d2340ef2",
-      "Record ID": "58156",
-      "Title": "Improving Convolutional Neural Networks with Competitive Activation Function",
-      "Subject": [
+      "_id": "687cef671f662220d8985cd1",
+      "recordId": "59703",
+      "title": "Utilizing Entity-Based Gated Convolution and Multilevel Sentence Attention to Improve Distantly Supervised Relation Extraction",
+      "subject": [
         "(B/T) Computer Science",
         "(B/T) Data Science"
       ],
-      "Institution": [
+      "institution": [
+        "Beijing Engineering Research Center of Digital Content Technology, Institute of Automation, Chinese Academy of Sciences, Beijing 100010, China",
+        "University of Chinese Academy of Sciences, Beijing 100010, China"
+      ],
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qian Yi",
+        "Guixuan Zhang",
+        "Shuwu Zhang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/13/2023 0:00",
+      "retractiondoi": "10.1155/2023/9826957",
+      "retractionpubmedid": "38124871.0",
+      "originalpaperdate": "11/1/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6110885",
+      "originalpaperpubmedid": "34759966.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef6d1f662220d89862d8",
+      "recordId": "58156",
+      "title": "Improving Convolutional Neural Networks with Competitive Activation Function",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science"
+      ],
+      "institution": [
         "College of Information Science and Engineering, Northeastern University, Shenyang 110819, China",
         "College of Computer Science and Software Engineering, Shenzhen University, Shenzhen 518060, China",
         "School of Intelligent Systems Science and Engineering, Jinan University, Guangzhou, Guangdong 519070, China",
         "Artificial Intelligence Key Laboratory of Sichuan Province, Sichuan University of Science and Engineering, Zigong, Sichuan 643000, China",
         "Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China"
       ],
-      "Journal": "Security and Communication Networks",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Security and Communication Networks",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yao Ying",
         "Nengbo Zhang",
         "Ping He",
         "Silong Peng"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9761609",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/13/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/1933490",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9761609",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/13/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/1933490",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Paper Mill",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23408eb",
-      "Record ID": "59703",
-      "Title": "Utilizing Entity-Based Gated Convolution and Multilevel Sentence Attention to Improve Distantly Supervised Relation Extraction",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science"
-      ],
-      "Institution": [
-        "Beijing Engineering Research Center of Digital Content Technology, Institute of Automation, Chinese Academy of Sciences, Beijing 100010, China",
-        "University of Chinese Academy of Sciences, Beijing 100010, China"
-      ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qian Yi",
-        "Guixuan Zhang",
-        "Shuwu Zhang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/13/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9826957",
-      "RetractionPubMedID": "38124871.0",
-      "OriginalPaperDate": "11/1/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6110885",
-      "OriginalPaperPubMedID": "34759966.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349dca",
-      "Record ID": "21442",
-      "Title": "Fluid-Structure Interaction-Based Biomechanical Perception Model for Tactile Sensing",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology",
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Institute of Automation, Chinese Academy of Sciences, Beijing, China"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Zheng Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/16/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0224189",
-      "RetractionPubMedID": "31618248.0",
-      "OriginalPaperDate": "11/19/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0079472",
-      "OriginalPaperPubMedID": "24260228.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345953",
-      "Record ID": "39036",
-      "Title": "Gray Matter-Based Age Prediction Characterizes Different Regional Patterns",
-      "Subject": [
+      "_id": "687cefb41f662220d898ad39",
+      "recordId": "39036",
+      "title": "Gray Matter-Based Age Prediction Characterizes Different Regional Patterns",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Brainnetome Center, Institute of Automation, Chinese Academy of Sciences (CAS), Beijing, 100190, China",
         "National Laboratory of Pattern Recognition, Institute of Automation, CAS, Beijing, 100190, China",
         "University of CAS, Beijing, 100190, China",
@@ -249,13 +127,13 @@
         "Key Laboratory for NeuroInformation of the Ministry of Education, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu, 625014, China",
         "Queensland Brain Institute, University of Queensland, Brisbane, QLD, 4072, Australia"
       ],
-      "Journal": "Neuroscience Bulletin",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Neuroscience Bulletin",
+      "publisher": "Springer",
+      "country": [
         "Australia",
         "China"
       ],
-      "Author": [
+      "author": [
         "Nianming Zuo",
         "Tianyu Hu",
         "Hao Liu",
@@ -263,45 +141,173 @@
         "Yong Liu",
         "Tianzi Jiang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/13/2022 0:00",
-      "RetractionDOI": "10.1007/s12264-022-00945-3",
-      "RetractionPubMedID": "36100736.0",
-      "OriginalPaperDate": "8/19/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s12264-020-00558-8",
-      "OriginalPaperPubMedID": "32813179.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/13/2022 0:00",
+      "retractiondoi": "10.1007/s12264-022-00945-3",
+      "retractionpubmedid": "36100736.0",
+      "originalpaperdate": "8/19/2020 0:00",
+      "originalpaperdoi": "10.1007/s12264-020-00558-8",
+      "originalpaperpubmedid": "32813179.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Methods"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf02f1f662220d898f1b0",
+      "recordId": "21442",
+      "title": "Fluid-Structure Interaction-Based Biomechanical Perception Model for Tactile Sensing",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Institute of Automation, Chinese Academy of Sciences, Beijing, China"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Zheng Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/16/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0224189",
+      "retractionpubmedid": "31618248.0",
+      "originalpaperdate": "11/19/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0079472",
+      "originalpaperpubmedid": "24260228.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d898ffef",
+      "recordId": "17776",
+      "title": "Joint depth map interpolation using minimax paths",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "National Laboratory of Pattern Recognition, Institute of Automation Chinese Academy of Sciences, 95 Zhongguancun East Road, Beijing, China"
+      ],
+      "journal": "Neurocomputing",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Longquan Dai",
+        "Feihu Zhang",
+        "Mengke Yuan",
+        "Xiaopeng Zhang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/25/2015 0:00",
+      "retractiondoi": "10.1016/j.neucom.2015.03.059",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/7/2015 0:00",
+      "originalpaperdoi": "10.1016/j.neucom.2015.03.059",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Duplication of Content through Error by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "exact date of retraction unknown;",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0941f662220d8990271",
+      "recordId": "17123",
+      "title": "Model-based 3D tracking of an articulated hand from single depth images",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "Institute of Automation, Chinese Academy of Sciences, No. 95 ZhongGuanCun Dong Road, HaiDian District, Beijing 100190, PR China"
+      ],
+      "journal": "Pattern Recognition Letters",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Shuxin Qin",
+        "Yiping Yang",
+        "Yongshi Jiang"
+      ],
+      "urls": "http://retractionwatch.com/2013/10/24/sensing-a-pattern-pattern-recognition-letters-misses-rampant-plagiarism-in-modeling-paper/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/7/2013 0:00",
+      "retractiondoi": "10.1016/j.patrec.2013.09.001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/22/2013 0:00",
+      "originalpaperdoi": "10.1016/j.patrec.2013.05.010",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -309,43 +315,43 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -353,10 +359,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

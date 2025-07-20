@@ -1,66 +1,131 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879dce",
+    "_id": "687ccbab09adbf7aa61ba9ef",
     "grid_id": "grid.10818.30",
     "institute_name": "University of Rwanda",
     "country": "Rwanda",
     "retracted_record_ids": [
-      "13608"
+      "13608",
+      "66120"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234bc38",
-      "Record ID": "13608",
-      "Title": "Statistical Analysis of Categorical Climatic Variables: Case of Temperature and Rain Fall",
-      "Subject": [
+      "_id": "687cef4f1f662220d89843ee",
+      "recordId": "66120",
+      "title": "Evaluating the spillover effects of the Sugira Muryango home-visiting intervention on temperament of children aged (0.3-3years) exposed to domestic violence: A cluster randomized controlled trial",
+      "subject": [
+        "(HSC) Public Health and Safety",
+        "(SOC) Psychology",
+        "(SOC) Sociology"
+      ],
+      "institution": [
+        "Department of Psychiatry and Behavioral Sciences, College of Medicine and Health Sciences, University of Rwanda, Kigali, Rwanda",
+        "Boston College School of Social Work, Boston College, Chestnut Hill, Massachusetts, United States of America",
+        "Centre for Mental Health, College of Medicine and Health Sciences, University of Rwanda, Kigali, Rwanda"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Rwanda",
+        "United States"
+      ],
+      "author": [
+        "Theodat Siboyintore",
+        "Jeanne Marie Ntete",
+        "Jean Mutabaruka",
+        "Theresa Betancourt",
+        "Sarah Jensen",
+        "Vincent Sezibera"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/10/2025 0:00",
+      "retractiondoi": "10.1371/journal.pone.0327838",
+      "retractionpubmedid": "40638580.0",
+      "originalpaperdate": "3/31/2025 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0320595",
+      "originalpaperpubmedid": "40163481.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Lack of Approval from Author",
+        "+Lack of Approval from Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2025",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0a31f662220d899101e",
+      "recordId": "13608",
+      "title": "Statistical Analysis of Categorical Climatic Variables: Case of Temperature and Rain Fall",
+      "subject": [
         "(ENV) Environmental Sciences",
         "(PHY) Geology",
         "(PHY) Mathematics"
       ],
-      "Institution": [
+      "institution": [
         "School of Environmental Studies, China University of Geosciences, Hongshan District, 388 Lumo Road, Hubei Wuhan, 430074, China",
         "Department of Mathematics-Physics, Faculty of Sciences, Kigali Institute of Education, P.O. Box 5039, Rwanda"
       ],
-      "Journal": "2010 The 2nd Conference on Environmental Science and Information Application Technology",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2010 The 2nd Conference on Environmental Science and Information Application Technology",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China",
         "Rwanda"
       ],
-      "Author": [
+      "author": [
         "Habiyaremye Gabriel",
         "Ge Jiwen",
         "Mupenzi Jean de la Paix",
         "N D Jairu",
         "Balogun Waheed Oyelola"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "9/9/2010 0:00",
-      "RetractionDOI": "10.1109/ESIAT.2010.5568324",
-      "OriginalPaperDate": "7/17/2010 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/9/2010 0:00",
+      "retractiondoi": "10.1109/ESIAT.2010.5568324",
+      "originalpaperdate": "7/17/2010 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

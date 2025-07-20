@@ -1,37 +1,138 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068792bb",
+    "_id": "687ccbab09adbf7aa61b9edc",
     "grid_id": "grid.411905.8",
     "institute_name": "Hvidovre Hospital",
     "country": "Denmark",
     "retracted_record_ids": [
-      "20935",
       "35120",
+      "20935",
       "35385"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349fc5",
-      "Record ID": "20935",
-      "Title": "In vivo mecillinam resistance in Escherichia coli after pivmecillinam treatment of a urinary tract infection",
-      "Subject": [
+      "_id": "687cefc41f662220d898bb62",
+      "recordId": "35385",
+      "title": "The effect of glucagon-like peptide-2 on mesenteric blood flow and cardiac parameters in short bowel syndrome patients with intestinal failure",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Department of Gastroenterology, Hvidovre Hospital, University of Copenhagen, Hvidovre, Denmark",
+        "Department of Clinical Physiology and Nuclear Medicine, Glostrup Hospital, University of Copenhagen, Glostrup, Denmark",
+        "Department of Nephrology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark",
+        "Department of Gastroenterology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark",
+        "Department of Biomedical Sciences, the Panum Institute, University of Copenhagen, Copenhagen, Denmark, Copenhagen, Denmark"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Denmark"
+      ],
+      "author": [
+        "L Bremholm",
+        "U B Andersen",
+        "M Hornum",
+        "P B Jeppesen",
+        "J J Holst"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bc6a",
+      "recordId": "35120",
+      "title": "A randomised double-blind placebo-controlled trial with Lactobacillus acidophilus La-5 and Bifidobacterium animalis subsp. lactis BB-12 for maintenance of remission in ulcerative colitis",
+      "subject": [
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Gastroenterology"
+      ],
+      "institution": [
+        "Dept. of Medical Gastroenterology, Hvidovre Hospital, University Hospital of Copenhagen, Denmark",
+        "Dept. of Pathology, Hvidovre Hospital, University Hospital of Copenhagen, Denmark",
+        "Chr. Hansen A/S, Hoersholm, Denmark",
+        "Dept. of Gastroenterology F, Gentofte Hospital and University of Copenhagen, Denmark"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Denmark"
+      ],
+      "author": [
+        "Signe Wildt",
+        "Inge Nordgaard",
+        "Ulla Hansen",
+        "Elke Brockmann",
+        "J\u00fcri J Rumessen"
+      ],
+      "urls": "https://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "4/1/2011 0:00",
+      "originalpaperdoi": "10.1016/j.crohns.2010.11.004",
+      "originalpaperpubmedid": "21453880.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2011",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf05d1f662220d898f3ab",
+      "recordId": "20935",
+      "title": "In vivo mecillinam resistance in Escherichia coli after pivmecillinam treatment of a urinary tract infection",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical Microbiology, Rigshospitalet, Copenhagen, Denmark",
         "Department of Virus and Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark",
         "Department of Clinical Microbiology, Hvidovre Hospital, Hvidovre, Denmark",
         "Department of Clinical Microbiology, Herlev Hospital, Herlev, Denmark"
       ],
-      "Journal": "Microbiology Open",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Microbiology Open",
+      "publisher": "Wiley",
+      "country": [
         "Denmark"
       ],
-      "Author": [
+      "author": [
         "Karen Leth Nielsen",
         "Katrine Hartung Hansen",
         "Jenny Dahl Knudsen",
@@ -39,166 +140,68 @@
         "Frederik Boetius Hertz",
         "Filip Jansaker"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/7/2019 0:00",
-      "RetractionDOI": "10.1002/mbo3.770",
-      "RetractionPubMedID": "30614202.0",
-      "OriginalPaperDate": "1/6/2019 0:00",
-      "OriginalPaperDOI": "10.1002/mbo3.770",
-      "OriginalPaperPubMedID": "30614202.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/7/2019 0:00",
+      "retractiondoi": "10.1002/mbo3.770",
+      "retractionpubmedid": "30614202.0",
+      "originalpaperdate": "1/6/2019 0:00",
+      "originalpaperdoi": "10.1002/mbo3.770",
+      "originalpaperpubmedid": "30614202.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346884",
-      "Record ID": "35120",
-      "Title": "A randomised double-blind placebo-controlled trial with Lactobacillus acidophilus La-5 and Bifidobacterium animalis subsp. lactis BB-12 for maintenance of remission in ulcerative colitis",
-      "Subject": [
-        "(BLS) Microbiology",
-        "(HSC) Medicine - Gastroenterology"
-      ],
-      "Institution": [
-        "Dept. of Medical Gastroenterology, Hvidovre Hospital, University Hospital of Copenhagen, Denmark",
-        "Dept. of Pathology, Hvidovre Hospital, University Hospital of Copenhagen, Denmark",
-        "Chr. Hansen A/S, Hoersholm, Denmark",
-        "Dept. of Gastroenterology F, Gentofte Hospital and University of Copenhagen, Denmark"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Denmark"
-      ],
-      "Author": [
-        "Signe Wildt",
-        "Inge Nordgaard",
-        "Ulla Hansen",
-        "Elke Brockmann",
-        "J\u00fcri J Rumessen"
-      ],
-      "URLS": "https://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "4/1/2011 0:00",
-      "OriginalPaperDOI": "10.1016/j.crohns.2010.11.004",
-      "OriginalPaperPubMedID": "21453880.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234677c",
-      "Record ID": "35385",
-      "Title": "The effect of glucagon-like peptide-2 on mesenteric blood flow and cardiac parameters in short bowel syndrome patients with intestinal failure",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "Department of Gastroenterology, Hvidovre Hospital, University of Copenhagen, Hvidovre, Denmark",
-        "Department of Clinical Physiology and Nuclear Medicine, Glostrup Hospital, University of Copenhagen, Glostrup, Denmark",
-        "Department of Nephrology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark",
-        "Department of Gastroenterology, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark",
-        "Department of Biomedical Sciences, the Panum Institute, University of Copenhagen, Copenhagen, Denmark, Copenhagen, Denmark"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Denmark"
-      ],
-      "Author": [
-        "L Bremholm",
-        "U B Andersen",
-        "M Hornum",
-        "P B Jeppesen",
-        "J J Holst"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

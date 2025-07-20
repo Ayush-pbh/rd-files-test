@@ -1,39 +1,39 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877fb2",
+    "_id": "687ccbab09adbf7aa61b8bd3",
     "grid_id": "grid.469516.9",
     "institute_name": "Chinese People's Armed Police General Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "60611",
-      "44089",
-      "52606",
-      "3563",
       "1615",
+      "3563",
+      "52606",
+      "44089",
+      "60611",
       "23066"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234055f",
-      "Record ID": "60611",
-      "Title": "Establishment of Tacrolimus-Induced Diabetes in Rat Model and Assessment of Clinical Treatments for Post-Transplant Diabetes Mellitus in Liver Transplant Recipients",
-      "Subject": [
+      "_id": "687cef631f662220d8985945",
+      "recordId": "60611",
+      "title": "Establishment of Tacrolimus-Induced Diabetes in Rat Model and Assessment of Clinical Treatments for Post-Transplant Diabetes Mellitus in Liver Transplant Recipients",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology",
         "(HSC) Medicine - Diabetes",
         "(HSC) Medicine - Transplantation"
       ],
-      "Institution": [
+      "institution": [
         "Department of Organ Transplantation, General Hospital of Chinese People's Armed Police Forces, No.69 Yongding Road, 100039 Beijing, China"
       ],
-      "Journal": "Clinical Laboratory",
-      "Publisher": "Clinical Laboratory Publications GmbH",
-      "Country": [
+      "journal": "Clinical Laboratory",
+      "publisher": "Clinical Laboratory Publications GmbH",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Y J Niu",
         "Z Y Zhen",
         "C Xu",
@@ -46,43 +46,94 @@
         "X M Yang",
         "S Mao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/1/2025 0:00",
-      "RetractionDOI": "10.7754/Clin.Lab.2025.120913",
-      "RetractionPubMedID": "39812314.0",
-      "OriginalPaperDate": "7/1/2013 0:00",
-      "OriginalPaperDOI": "10.7754/clin.lab.2012.120913",
-      "OriginalPaperPubMedID": "24133918.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2025 0:00",
+      "retractiondoi": "10.7754/Clin.Lab.2025.120913",
+      "retractionpubmedid": "39812314.0",
+      "originalpaperdate": "7/1/2013 0:00",
+      "originalpaperdoi": "10.7754/clin.lab.2012.120913",
+      "originalpaperpubmedid": "24133918.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2013,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2025",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23445b6",
-      "Record ID": "44089",
-      "Title": "Role of fractalkine/CX3CR1 signaling pathway in the recovery of neurological function after early ischemic stroke in a rat model",
-      "Subject": [
+      "_id": "687cef831f662220d898786e",
+      "recordId": "52606",
+      "title": "Circ_0017639 facilitates proliferative, migratory, and invasive potential of non-small cell lung cancer (NSCLC) cells via PI3K/AKT signaling pathway",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Department of Thoracic Surgery, General Hospital of Chinese People's Armed Police Forces, Beijing, China",
+        "Department of Quality Management, General Hospital of Chinese People's Armed Police Forces, Beijing, China"
+      ],
+      "journal": "Bioengineered",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hong-Bo Zhang",
+        "Xiang-Ming Qiu",
+        "Yi-Chao Zhang",
+        "Ting-Ting Huang",
+        "Zhan-Jie Zuo",
+        "Tao Zhang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/20/2024 0:00",
+      "retractiondoi": "10.1080/21655979.2024.2299603",
+      "retractionpubmedid": "38376868.0",
+      "originalpaperdate": "1/8/2022 0:00",
+      "originalpaperdoi": "10.1080/21655979.2021.2020390",
+      "originalpaperpubmedid": "35000535.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/C1CFFEAA6507DAE78013EA51B0E318",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa41f662220d898999c",
+      "recordId": "44089",
+      "title": "Role of fractalkine/CX3CR1 signaling pathway in the recovery of neurological function after early ischemic stroke in a rat model",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurology, The Second Hospital of Dalian Medical University, Dalian 116023, PR China",
         "Department of Neurovascular Surgery, General Hospital of Armed Police Forces, Beijing 100039, PR China"
       ],
-      "Journal": "Life Sciences",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Life Sciences",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yan Zhi Liu",
         "Chun Wang",
         "Qian Wang",
@@ -91,98 +142,107 @@
         "Dong Mei Li",
         "Geng Sheng Mao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/27/2023 0:00",
-      "RetractionDOI": "10.1016/j.lfs.2023.121605",
-      "RetractionPubMedID": "36990909.0",
-      "OriginalPaperDate": "6/15/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.lfs.2017.06.012",
-      "OriginalPaperPubMedID": "28624392.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/27/2023 0:00",
+      "retractiondoi": "10.1016/j.lfs.2023.121605",
+      "retractionpubmedid": "36990909.0",
+      "originalpaperdate": "6/15/2017 0:00",
+      "originalpaperdoi": "10.1016/j.lfs.2017.06.012",
+      "originalpaperpubmedid": "28624392.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Paper Mill"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/7BB8F6559AF31100A59484E5D97802",
-      "notice_year": 2023,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/7BB8F6559AF31100A59484E5D97802",
+      "year": "2017",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342488",
-      "Record ID": "52606",
-      "Title": "Circ_0017639 facilitates proliferative, migratory, and invasive potential of non-small cell lung cancer (NSCLC) cells via PI3K/AKT signaling pathway",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
+      "_id": "687cf0121f662220d898eb5e",
+      "recordId": "23066",
+      "title": "CD147, MMP-2, MMP-9 and MVD-CD34 are significant predictors of recurrence after liver transplantation in hepatocellular carcinoma patients",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pulmonology"
+        "(HSC) Medicine - Transplantation"
       ],
-      "Institution": [
-        "Department of Thoracic Surgery, General Hospital of Chinese People's Armed Police Forces, Beijing, China",
-        "Department of Quality Management, General Hospital of Chinese People's Armed Police Forces, Beijing, China"
+      "institution": [
+        "Departerment of Cell Biology & Cell Engineering Research Centre, State Key Laboratory of Cancer Biology, the Fourth Military Medical University",
+        "Xi'an, China",
+        "Instiute of Hepatology, General Hospital of Chinese People's Armed Police Forces, Beijing, China",
+        "Departerment of Pharmacology, Xian Jiaotong University School of Medicine. Xi'an, China",
+        "First Departerment of Surgery, Shaanxi Hospital of Chinese People's Armed Police Forces, Xi'an, China",
+        "Departerment of Hepatology Surgery, Xijing Hospital of the Fourth Military Medical University, Xi'an, China",
+        "Department of Pathology, Xijing Hospital of the Fourth Military Medical University",
+        "Xi'an, China"
       ],
-      "Journal": "Bioengineered",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Cancer Biology & Therapy",
+      "publisher": "Taylor and Francis",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Hong-Bo Zhang",
-        "Xiang-Ming Qiu",
-        "Yi-Chao Zhang",
-        "Ting-Ting Huang",
-        "Zhan-Jie Zuo",
-        "Tao Zhang"
+      "author": [
+        "Qing Zhang",
+        "Xinguo Chen",
+        "Jun Zhou",
+        "Li Zhang",
+        "Qingchuan Zhao",
+        "Guangsheng Chen",
+        "Jing Xu",
+        "Qiang Feng",
+        "Zhinan Chen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/20/2024 0:00",
-      "RetractionDOI": "10.1080/21655979.2024.2299603",
-      "RetractionPubMedID": "38376868.0",
-      "OriginalPaperDate": "1/8/2022 0:00",
-      "OriginalPaperDOI": "10.1080/21655979.2021.2020390",
-      "OriginalPaperPubMedID": "35000535.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/7/2020 0:00",
+      "retractiondoi": "10.1080/15384047.2020.1752966",
+      "retractionpubmedid": "32264751.0",
+      "originalpaperdate": "7/1/2006 0:00",
+      "originalpaperdoi": "10.4161/cbt.5.7.2754",
+      "originalpaperpubmedid": "16775432.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Author Unresponsive",
         "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Original Data and/or Images not Provided and/or not Available"
+        "+Concerns/Issues about Third Party Involvement"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/C1CFFEAA6507DAE78013EA51B0E318",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e30b",
-      "Record ID": "3563",
-      "Title": "Ten years of experience with microsurgical treatment of large and giant petroclival meningiomas",
-      "Subject": [
+      "_id": "687cf0cb1f662220d89936f1",
+      "recordId": "3563",
+      "title": "Ten years of experience with microsurgical treatment of large and giant petroclival meningiomas",
+      "subject": [
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Functional Neurosurgery, Xuanwu Hospital, Capital University of Medical Sciences, Beijing",
         "Department of Neurosurgery, Sanbo Neurosurgical Hospital, Beijing",
         "Department of Neurosurgery, The General Hospital of the Chinese People\u2019s Armed Police Forces, Beijing"
       ],
-      "Journal": "Journal of Clinical Neuroscience: Official Journal of the Neurosurgical Society of Australasia",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Clinical Neuroscience: Official Journal of the Neurosurgical Society of Australasia",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Tie Fang",
         "Hongwei Zhu",
         "Rong Yan",
@@ -190,45 +250,47 @@
         "Jian Xing",
         "Yongjie Li"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "2/1/2013 0:00",
-      "RetractionDOI": "10.1016/j.jocn.2013.02.001",
-      "RetractionPubMedID": "24446534.0",
-      "OriginalPaperDate": "12/28/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.jocn.2012.02.025",
-      "OriginalPaperPubMedID": "23274035.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2013 0:00",
+      "retractiondoi": "10.1016/j.jocn.2013.02.001",
+      "retractionpubmedid": "24446534.0",
+      "originalpaperdate": "12/28/2012 0:00",
+      "originalpaperdoi": "10.1016/j.jocn.2012.02.025",
+      "originalpaperpubmedid": "23274035.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ea72",
-      "Record ID": "1615",
-      "Title": "Formin-like2 Regulates Rho/ROCK Pathway to Promote Actin Assembly and Cell Invasion of Colorectal Cancer",
-      "Subject": [
+      "_id": "687cf0d31f662220d8993e58",
+      "recordId": "1615",
+      "title": "Formin-like2 Regulates Rho/ROCK Pathway to Promote Actin Assembly and Cell Invasion of Colorectal Cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Gastroenterology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathology, Southern Medical University, Guangzhou, China",
         "Department of Pathology, the People\u2019s Hospital, Nanchang, China",
         "Guangdong Province Key Laboratory of Molecular Tumor Pathology, Guangzhou, China",
         "Department of Oncology, General Hospital of Armed Police Forces, Beijing, China"
       ],
-      "Journal": "Cancer Science",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cancer Science",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yuanfeng Zeng",
         "Huijun Xie",
         "Yudan Qiao",
@@ -241,179 +303,124 @@
         "Li Liang",
         "Yanqing Ding"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/17/2016 0:00",
-      "RetractionDOI": "10.1111/cas.12972",
-      "RetractionPubMedID": "27420476.0",
-      "OriginalPaperDate": "10/26/2015 0:00",
-      "OriginalPaperDOI": "10.1111/cas.12768",
-      "OriginalPaperPubMedID": "26258642.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/17/2016 0:00",
+      "retractiondoi": "10.1111/cas.12972",
+      "retractionpubmedid": "27420476.0",
+      "originalpaperdate": "10/26/2015 0:00",
+      "originalpaperdoi": "10.1111/cas.12768",
+      "originalpaperpubmedid": "26258642.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "Notes": "3/29/2017",
-      "notice_year": 2016,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349778",
-      "Record ID": "23066",
-      "Title": "CD147, MMP-2, MMP-9 and MVD-CD34 are significant predictors of recurrence after liver transplantation in hepatocellular carcinoma patients",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Transplantation"
-      ],
-      "Institution": [
-        "Departerment of Cell Biology & Cell Engineering Research Centre, State Key Laboratory of Cancer Biology, the Fourth Military Medical University",
-        "Xi'an, China",
-        "Instiute of Hepatology, General Hospital of Chinese People's Armed Police Forces, Beijing, China",
-        "Departerment of Pharmacology, Xian Jiaotong University School of Medicine. Xi'an, China",
-        "First Departerment of Surgery, Shaanxi Hospital of Chinese People's Armed Police Forces, Xi'an, China",
-        "Departerment of Hepatology Surgery, Xijing Hospital of the Fourth Military Medical University, Xi'an, China",
-        "Department of Pathology, Xijing Hospital of the Fourth Military Medical University",
-        "Xi'an, China"
-      ],
-      "Journal": "Cancer Biology & Therapy",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qing Zhang",
-        "Xinguo Chen",
-        "Jun Zhou",
-        "Li Zhang",
-        "Qingchuan Zhao",
-        "Guangsheng Chen",
-        "Jing Xu",
-        "Qiang Feng",
-        "Zhinan Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/7/2020 0:00",
-      "RetractionDOI": "10.1080/15384047.2020.1752966",
-      "RetractionPubMedID": "32264751.0",
-      "OriginalPaperDate": "7/1/2006 0:00",
-      "OriginalPaperDOI": "10.4161/cbt.5.7.2754",
-      "OriginalPaperPubMedID": "16775432.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Third Party Involvement"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2006,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "3/29/2017",
+      "year": "2015",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -421,10 +428,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -432,10 +439,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

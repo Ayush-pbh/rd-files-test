@@ -1,37 +1,37 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068794aa",
+    "_id": "687ccbab09adbf7aa61ba0cb",
     "grid_id": "grid.452824.d",
     "institute_name": "Hudson Institute of Medical Research",
     "country": "Australia",
     "retracted_record_ids": [
-      "31987",
+      "24922",
       "21890",
-      "24922"
+      "31987"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23474ba",
-      "Record ID": "31987",
-      "Title": "Molecular insight into the selective binding between human telomere G-quadruplex, a negatively charged stabilizer",
-      "Subject": [
+      "_id": "687cefd01f662220d898c8a0",
+      "recordId": "31987",
+      "title": "Molecular insight into the selective binding between human telomere G-quadruplex, a negatively charged stabilizer",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Ageing Research, School of Medicine, Hangzhou Normal University, Hangzhou, China",
         "Department of Immunology, Central Eastern Clinical School, Monash University, Melbourne, Australia",
         "Hudson Institute of Medical Research, Clayton, Australia",
         "Department of Molecular and Translational Science, Monash University, Clayton, Australia"
       ],
-      "Journal": "Clinical and Experimental Pharmacology and Physiology",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Clinical and Experimental Pharmacology and Physiology",
+      "publisher": "Wiley",
+      "country": [
         "Australia"
       ],
-      "Author": [
+      "author": [
         "Zhiguo Wang",
         "Jianfeng Li",
         "Jun Liu",
@@ -39,48 +39,93 @@
         "Yanhua Lu",
         "Jun Ping Liu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/26/2021 0:00",
-      "RetractionDOI": "10.1111/1440-1681.13558",
-      "RetractionPubMedID": "34448238.0",
-      "OriginalPaperDate": "1/24/2020 0:00",
-      "OriginalPaperDOI": "10.1111/1440-1681.13249",
-      "OriginalPaperPubMedID": "31894867.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/26/2021 0:00",
+      "retractiondoi": "10.1111/1440-1681.13558",
+      "retractionpubmedid": "34448238.0",
+      "originalpaperdate": "1/24/2020 0:00",
+      "originalpaperdoi": "10.1111/1440-1681.13249",
+      "originalpaperpubmedid": "31894867.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Conflict of Interest"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349c0b",
-      "Record ID": "21890",
-      "Title": "Hsp90 and PKM2 Drive the Expression of Aromatase in Li-Fraumeni Syndrome Breast Adipose Stromal Cells",
-      "Subject": [
+      "_id": "687cf0081f662220d898e427",
+      "recordId": "24922",
+      "title": "Placental serotonin systems in pregnancy metabolic complications associated with maternal obesity and gestational diabetes mellitus",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Obstetrics/Gynecology"
+      ],
+      "institution": [
+        "Department of Medicine, School of Clinical Sciences, Department of Physiology, Monash University, Clayton, Victoria, Australia",
+        "Hudson Institute of Medical Research, The Ritchie Centre, Clayton, Victoria, Australia",
+        "Department of Obstetrics and Gynaecology, The University of Melbourne, Parkville, Victoria, Australia",
+        "INRS-Institut Armand-Frappier, Universit\u00e9 du Qu\u00e9bec and Biomed Research Center, 531 Boulevard des Prairies, Laval, QC H7V 1B7, Canada",
+        "Center for Interdisciplinary Research on Well-Being, Health, Society and Environment, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, QC H3C 3P8, Canada"
+      ],
+      "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease",
+      "publisher": "Elsevier",
+      "country": [
+        "Australia",
+        "Canada"
+      ],
+      "author": [
+        "Padma Murthi",
+        "Cathy Vaillancourt"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "12/28/2020 0:00",
+      "retractiondoi": "10.1016/j.bbadis.2020.166035",
+      "retractionpubmedid": "33384199.0",
+      "originalpaperdate": "2/7/2019 0:00",
+      "originalpaperdoi": "10.1016/j.bbadis.2019.01.017",
+      "originalpaperpubmedid": "30738809.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf02f1f662220d898eff1",
+      "recordId": "21890",
+      "title": "Hsp90 and PKM2 Drive the Expression of Aromatase in Li-Fraumeni Syndrome Breast Adipose Stromal Cells",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Obstetrics/Gynecology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Medicine, Weill Cornell Medical College, New York, New York 10065",
         "Metabolism and Cancer Laboratory, Centre for Cancer Research, Hudson Institute of Medical Research, Clayton, Victoria 3168, Australia",
         "Monash University, Clayton, Victoria 3800, Australia, the Faculty of Applied Medical Science, Taibah University, Medina, Saudi Arabia",
         "Department of Biomedical Sciences, Cornell University, Ithaca, New York 14853",
         "Department of Medical and Molecular Genetics, Indiana University Simon Cancer Center, Indiana University School of Medicine, Indianapolis, Indiana 46202"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "Australia",
         "Saudi Arabia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Kotha Subbaramaiah",
         "Kristy A Brown",
         "Heba Zahid",
@@ -89,110 +134,69 @@
         "Brittney-Shea Herbert",
         "Andrew J Dannenberg"
       ],
-      "URLS": "http://retractionwatch.com/2020/01/03/prominent-cancer-researcher-loses-eight-papers-making-11/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2020/01/03/prominent-cancer-researcher-loses-eight-papers-making-11/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/2/2019 0:00",
-      "RetractionDOI": "10.1074/jbc.W119.012135",
-      "RetractionPubMedID": "31900372.0",
-      "OriginalPaperDate": "6/1/2016 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M115.698902",
-      "OriginalPaperPubMedID": "27467582.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/2/2019 0:00",
+      "retractiondoi": "10.1074/jbc.W119.012135",
+      "retractionpubmedid": "31900372.0",
+      "originalpaperdate": "6/1/2016 0:00",
+      "originalpaperdoi": "10.1074/jbc.M115.698902",
+      "originalpaperpubmedid": "27467582.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "Notes": "Dannenberg retired March 2021 - http://medicine.weill.cornell.edu/sites/default/files/wnim_2021-03.pdf",
-      "notice_year": 2019,
-      "year": 2016
-    },
-    {
-      "_id": "6855d574b14f7811d2349041",
-      "Record ID": "24922",
-      "Title": "Placental serotonin systems in pregnancy metabolic complications associated with maternal obesity and gestational diabetes mellitus",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Obstetrics/Gynecology"
-      ],
-      "Institution": [
-        "Department of Medicine, School of Clinical Sciences, Department of Physiology, Monash University, Clayton, Victoria, Australia",
-        "Hudson Institute of Medical Research, The Ritchie Centre, Clayton, Victoria, Australia",
-        "Department of Obstetrics and Gynaecology, The University of Melbourne, Parkville, Victoria, Australia",
-        "INRS-Institut Armand-Frappier, Universit\u00e9 du Qu\u00e9bec and Biomed Research Center, 531 Boulevard des Prairies, Laval, QC H7V 1B7, Canada",
-        "Center for Interdisciplinary Research on Well-Being, Health, Society and Environment, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, QC H3C 3P8, Canada"
-      ],
-      "Journal": "Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Australia",
-        "Canada"
-      ],
-      "Author": [
-        "Padma Murthi",
-        "Cathy Vaillancourt"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "12/28/2020 0:00",
-      "RetractionDOI": "10.1016/j.bbadis.2020.166035",
-      "RetractionPubMedID": "33384199.0",
-      "OriginalPaperDate": "2/7/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.bbadis.2019.01.017",
-      "OriginalPaperPubMedID": "30738809.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Dannenberg retired March 2021 - http://medicine.weill.cornell.edu/sites/default/files/wnim_2021-03.pdf",
+      "year": "2016",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

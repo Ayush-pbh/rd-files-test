@@ -1,36 +1,36 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879a94",
+    "_id": "687ccbab09adbf7aa61ba6b5",
     "grid_id": "grid.433012.7",
     "institute_name": "Eurom\u00e9tropole de Strasbourg",
     "country": "France",
     "retracted_record_ids": [
+      "3181",
       "20732",
-      "3177",
-      "3181"
+      "3177"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a08d",
-      "Record ID": "20732",
-      "Title": "Cloning, mapping, and developmental expression of a sixth zebrafish Na,K-ATPase a1 subunit gene (atp1a1a.5)",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f473",
+      "recordId": "20732",
+      "title": "Cloning, mapping, and developmental expression of a sixth zebrafish Na,K-ATPase a1 subunit gene (atp1a1a.5)",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, USA",
         "Insitut de Genetique et de Biologie Moleculaire et Cellulaire, CNRS/INSERM/ULP, CU de Strasbourg, Strasbourg, France"
       ],
-      "Journal": "Gene Expression Patterns",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Gene Expression Patterns",
+      "publisher": "Elsevier",
+      "country": [
         "France",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Brian Blasiole",
         "Victor Canfield",
         "Agnes Degrave",
@@ -39,105 +39,51 @@
         "Johannes Rajarao",
         "Robert Levenson"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/1/2002 0:00",
-      "RetractionDOI": "10.1016/S0925-4773(03)00085-6",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/1/2002 0:00",
-      "OriginalPaperDOI": "10.1016/S0925-4773(02)00395-7",
-      "OriginalPaperPubMedID": "12617808.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2002 0:00",
+      "retractiondoi": "10.1016/S0925-4773(03)00085-6",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/1/2002 0:00",
+      "originalpaperdoi": "10.1016/S0925-4773(02)00395-7",
+      "originalpaperpubmedid": "12617808.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error by Journal/Publisher",
         "+Withdrawn to Publish in Different Journal"
       ],
-      "Paywalled": "No",
-      "Notes": "see https://www.sciencedirect.com/science/article/pii/S0925477303001187;",
-      "notice_year": 2002,
-      "year": 2002,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "see https://www.sciencedirect.com/science/article/pii/S0925477303001187;",
+      "year": "2002",
+      "noticeYear": "2002",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e47f",
-      "Record ID": "3177",
-      "Title": "Purification and Identification of p68 RNA Helicase Acting as a Transcriptional Coactivator Specific for the Activation Function 1 of Human Estrogen Receptor a",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Molecular Medicine Laboratories, Institute for Drug Discovery Research, Yamanouchi Pharmaceutical, Tsukuba, Ibaraki 305-8585",
-        "Institute for Molecular and Cellular Biosciences, The University of Tokyo, Bunkyo-ku, Tokyo 113-0032",
-        "CREST, Japan Science and Technology, Kawaguchi, Saitama 332-0012, Japan",
-        "Institut de Genetique et de Biologie Moleculaire et Cellulaire, (IGBMC)/CNRS/INSERM/ULP College de France, 67404 Illkirch Cedex, C.U. de Strasbourg, France"
-      ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
-        "France",
-        "Japan"
-      ],
-      "Author": [
-        "Hideki Endoh",
-        "Kazunori Maruyama",
-        "Yoshikazu Masuhiro",
-        "Yoko Kobayashi",
-        "Masahide Goto",
-        "Hitoshi Tai",
-        "Junn Yanagisawa",
-        "Daniel Metzger",
-        "Seiichi Hashimoto",
-        "Shigeaki Kato"
-      ],
-      "URLS": "http://retractionwatch.com/2014/02/07/shigeaki-kato-up-to-23-retractions/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/1/2014 0:00",
-      "RetractionDOI": "10.1128/MCB.01458-13",
-      "RetractionPubMedID": "24509260.0",
-      "OriginalPaperDate": "8/1/1999 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.19.8.5363",
-      "OriginalPaperPubMedID": "10409727.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Ethical Violations by Author",
-        "+Manipulation of Images",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 1999,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e47b",
-      "Record ID": "3181",
-      "Title": "An hGCN5/TRRAP histone acetyltransferase complex co-activates BRCA1 transactivation function through histone modification",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993861",
+      "recordId": "3181",
+      "title": "An hGCN5/TRRAP histone acetyltransferase complex co-activates BRCA1 transactivation function through histone modification",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Molecular and Cellular Biosciences, University of Tokyo, Yayoi 1-1-1, Bunkyo-ku, Tokyo 113-0032, Japan",
         "Department of Obstetrics and Gynecology, University of Tokyo, Hongo 7-3-1, Bunkyo-ku, Tokyo 113-8655, Japan",
         "Institut de G\u00e9n\u00e9tique et de Biologie Mol\u00e9culaire et Cellulaire, CNRS/INSERM/ULP, F-67404 Illkirch Cedex, CU de Strasbourg, France",
         "ERATO, Japan Science and Technology, Honcho 4-1-8, Kawaguchi, Saitama 332-0012, Japan"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "France",
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Hajime Oishi",
         "Hirochika Kitagawa",
         "Osamu Wada",
@@ -149,68 +95,125 @@
         "Junn Yanagisawa",
         "Shigeaki Kato"
       ],
-      "URLS": "http://retractionwatch.com/2014/01/02/five-more-retractions-appear-for-shigeaki-kato/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/01/02/five-more-retractions-appear-for-shigeaki-kato/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "10/18/2013 0:00",
-      "RetractionDOI": "10.1074/jbc.A113.510157",
-      "RetractionPubMedID": "24143013.0",
-      "OriginalPaperDate": "1/6/2006 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M510157200",
-      "OriginalPaperPubMedID": "16260778.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/18/2013 0:00",
+      "retractiondoi": "10.1074/jbc.A113.510157",
+      "retractionpubmedid": "24143013.0",
+      "originalpaperdate": "1/6/2006 0:00",
+      "originalpaperdoi": "10.1074/jbc.M510157200",
+      "originalpaperpubmedid": "16260778.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "1. Article retracted by authors",
-      "notice_year": 2013,
-      "year": 2006,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "1. Article retracted by authors",
+      "year": "2006",
+      "noticeYear": "2013",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d8993865",
+      "recordId": "3177",
+      "title": "Purification and Identification of p68 RNA Helicase Acting as a Transcriptional Coactivator Specific for the Activation Function 1 of Human Estrogen Receptor a",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Molecular Medicine Laboratories, Institute for Drug Discovery Research, Yamanouchi Pharmaceutical, Tsukuba, Ibaraki 305-8585",
+        "Institute for Molecular and Cellular Biosciences, The University of Tokyo, Bunkyo-ku, Tokyo 113-0032",
+        "CREST, Japan Science and Technology, Kawaguchi, Saitama 332-0012, Japan",
+        "Institut de Genetique et de Biologie Moleculaire et Cellulaire, (IGBMC)/CNRS/INSERM/ULP College de France, 67404 Illkirch Cedex, C.U. de Strasbourg, France"
+      ],
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "American Society for Microbiology",
+      "country": [
+        "France",
+        "Japan"
+      ],
+      "author": [
+        "Hideki Endoh",
+        "Kazunori Maruyama",
+        "Yoshikazu Masuhiro",
+        "Yoko Kobayashi",
+        "Masahide Goto",
+        "Hitoshi Tai",
+        "Junn Yanagisawa",
+        "Daniel Metzger",
+        "Seiichi Hashimoto",
+        "Shigeaki Kato"
+      ],
+      "urls": "http://retractionwatch.com/2014/02/07/shigeaki-kato-up-to-23-retractions/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/1/2014 0:00",
+      "retractiondoi": "10.1128/MCB.01458-13",
+      "retractionpubmedid": "24509260.0",
+      "originalpaperdate": "8/1/1999 0:00",
+      "originalpaperdoi": "10.1128/MCB.19.8.5363",
+      "originalpaperpubmedid": "10409727.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Ethical Violations by Author",
+        "+Manipulation of Images",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "year": "1999",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1999,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2002,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -218,10 +221,10 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

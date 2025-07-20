@@ -1,114 +1,68 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879e0b",
+    "_id": "687ccbab09adbf7aa61baa2c",
     "grid_id": "grid.280427.b",
     "institute_name": "Versiti Blood Center of Wisconsin",
     "country": "United States",
     "retracted_record_ids": [
-      "3298",
-      "3296",
-      "6919",
       "432",
-      "11911"
+      "6919",
+      "11911",
+      "3296",
+      "3298"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e40f",
-      "Record ID": "3298",
-      "Title": "Cytoprotective membrane-permeable peptides designed from the Bax-binding domain of Ku70",
-      "Subject": [
+      "_id": "687cf0ae1f662220d89916bb",
+      "recordId": "11911",
+      "title": "Cytoprotective membrane-permeable peptides designed from the Bax-binding domain of Ku70",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Drug Design",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Blood Research Institute, The Blood Center of South Eastern Wisconsin and Department of Biochemistry, Medical College of Wisconsin, Milwaukee"
       ],
-      "Journal": "Nature Cell Biology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Cell Biology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Motoshi Sawada",
         "Paulette Hayes",
         "Shigemi Matsuyama"
       ],
-      "ArticleType": [
+      "articletype": [
         "Letter"
       ],
-      "RetractionDate": "4/1/2007 0:00",
-      "RetractionDOI": "10.1038/ncb1584",
-      "RetractionPubMedID": "17401390.0",
-      "OriginalPaperDate": "3/24/2003 0:00",
-      "OriginalPaperDOI": "10.1038/ncb955",
-      "OriginalPaperPubMedID": "12652309.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Company/Institution",
-        "+Investigation by ORI",
+      "retractiondate": "4/1/2004 0:00",
+      "retractiondoi": "10.1038/ncb1116",
+      "retractionpubmedid": "12652309.0",
+      "originalpaperdate": "3/24/2003 0:00",
+      "originalpaperdoi": "10.1038/ncb955",
+      "originalpaperpubmedid": "12652309.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "Notes": "Dr. Motoshi Sawada responsible for figure manipulations",
-      "notice_year": 2007,
-      "year": 2003,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Dr. Motoshi Sawada responsible for figure manipulations",
+      "year": "2003",
+      "noticeYear": "2004",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e411",
-      "Record ID": "3296",
-      "Title": "Ku70 suppresses the apoptotic translocation of Bax to mitochondria",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Blood Research Institute, The Blood Center of South Eastern Wisconsin, Milwaukee",
-        "Department of Biochemistry, Medical College of Wisconsin, Milwaukee",
-        "Departments of Radiation Oncology and Pharmacology, Case Western Reserve University and University Hospitals of Cleveland, Cleveland"
-      ],
-      "Journal": "Nature Cell Biology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Motoshi Sawada",
-        "Weiyong Sun",
-        "Paulette Hayes",
-        "Konstantin Leskov",
-        "David A Boothman",
-        "Shigemi Matsuyama"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/1/2007 0:00",
-      "RetractionDOI": "10.1038/ncb1584",
-      "RetractionPubMedID": "17401390.0",
-      "OriginalPaperDate": "3/24/2003 0:00",
-      "OriginalPaperDOI": "10.1038/ncb950",
-      "OriginalPaperPubMedID": "12652308.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Company/Institution",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2007,
-      "year": 2003,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d62b",
-      "Record ID": "6919",
-      "Title": "The apoptotic effect of shikonin on human papillary thyroid carcinoma cells through mitochondrial pathway",
-      "Subject": [
+      "_id": "687cf0bd1f662220d8992a11",
+      "recordId": "6919",
+      "title": "The apoptotic effect of shikonin on human papillary thyroid carcinoma cells through mitochondrial pathway",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Alternative",
@@ -116,67 +70,161 @@
         "(HSC) Medicine - Endocrinology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical Laboratory, Taizhou Municipal Hospital, Taizhou",
         "Blood Center of Wisconsin, Milwaukee, WI",
         "College of Life Science, Jilin University, Changchun",
         "School of Laboratory Medicine, Wenzhou Medical University, Wenzhou",
         "Medical School of Taizhou University, Taizhou City"
       ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Chibo Liu",
         "Lihui Yin",
         "Jiaqi Chen",
         "Jiayu Chen"
       ],
-      "URLS": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/20/2017 0:00",
-      "RetractionDOI": "10.1007/s13277-017-5487-6",
-      "RetractionPubMedID": "28792236.0",
-      "OriginalPaperDate": "10/2/2013 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-013-1238-5",
-      "OriginalPaperPubMedID": "24081676.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/20/2017 0:00",
+      "retractiondoi": "10.1007/s13277-017-5487-6",
+      "retractionpubmedid": "28792236.0",
+      "originalpaperdate": "10/2/2013 0:00",
+      "originalpaperdoi": "10.1007/s13277-013-1238-5",
+      "originalpaperpubmedid": "24081676.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "Journal published by SAGE starting in 2017",
-      "notice_year": 2017,
-      "year": 2013,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Journal published by SAGE starting in 2017",
+      "year": "2013",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234eefb",
-      "Record ID": "432",
-      "Title": "Endogenous EPCR/aPC-PAR1 signaling prevents inflammation-induced vascular leakage and lethality",
-      "Subject": [
+      "_id": "687cf0cb1f662220d89937f5",
+      "recordId": "3298",
+      "title": "Cytoprotective membrane-permeable peptides designed from the Bax-binding domain of Ku70",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Blood Research Institute, The Blood Center of South Eastern Wisconsin and Department of Biochemistry, Medical College of Wisconsin, Milwaukee"
+      ],
+      "journal": "Nature Cell Biology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Motoshi Sawada",
+        "Paulette Hayes",
+        "Shigemi Matsuyama"
+      ],
+      "articletype": [
+        "Letter"
+      ],
+      "retractiondate": "4/1/2007 0:00",
+      "retractiondoi": "10.1038/ncb1584",
+      "retractionpubmedid": "17401390.0",
+      "originalpaperdate": "3/24/2003 0:00",
+      "originalpaperdoi": "10.1038/ncb955",
+      "originalpaperpubmedid": "12652309.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Company/Institution",
+        "+Investigation by ORI",
+        "+Investigation by Third Party",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "notes": "Dr. Motoshi Sawada responsible for figure manipulations",
+      "year": "2003",
+      "noticeYear": "2007",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d89937f7",
+      "recordId": "3296",
+      "title": "Ku70 suppresses the apoptotic translocation of Bax to mitochondria",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Blood Research Institute, The Blood Center of South Eastern Wisconsin, Milwaukee",
+        "Department of Biochemistry, Medical College of Wisconsin, Milwaukee",
+        "Departments of Radiation Oncology and Pharmacology, Case Western Reserve University and University Hospitals of Cleveland, Cleveland"
+      ],
+      "journal": "Nature Cell Biology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Motoshi Sawada",
+        "Weiyong Sun",
+        "Paulette Hayes",
+        "Konstantin Leskov",
+        "David A Boothman",
+        "Shigemi Matsuyama"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/1/2007 0:00",
+      "retractiondoi": "10.1038/ncb1584",
+      "retractionpubmedid": "17401390.0",
+      "originalpaperdate": "3/24/2003 0:00",
+      "originalpaperdoi": "10.1038/ncb950",
+      "originalpaperpubmedid": "12652308.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2007",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d89942e1",
+      "recordId": "432",
+      "title": "Endogenous EPCR/aPC-PAR1 signaling prevents inflammation-induced vascular leakage and lethality",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Departments of Immunology and Microbial Science, and Molecular and Experimental Medicine, The Scripps Research Institute, La Jolla, CA",
         "University of Notre Dame, IN",
         "Blood Center of Wisconsin, Milwaukee",
         "and Department of Chemical Physiology, The Scripps Research Institute, La Jolla, CA"
       ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Frank Niessen",
         "Christian Furlan-Freguia",
         "Jos\u00e9 A Fern\u00e1ndez",
@@ -187,80 +235,37 @@
         "John H Griffin",
         "Wolfram Ruf"
       ],
-      "URLS": "http://retractionwatch.com/2011/06/01/no-confidence-vote-on-sepsis-paper-data-leads-to-blood-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2011/06/01/no-confidence-vote-on-sepsis-paper-data-leads-to-blood-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/30/2011 0:00",
-      "RetractionDOI": "10.1182/blood-2011-05-354621",
-      "RetractionPubMedID": "21571990.0",
-      "OriginalPaperDate": "3/19/2009 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2008-12-192385",
-      "OriginalPaperPubMedID": "19141861.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/30/2011 0:00",
+      "retractiondoi": "10.1182/blood-2011-05-354621",
+      "retractionpubmedid": "21571990.0",
+      "originalpaperdate": "3/19/2009 0:00",
+      "originalpaperdoi": "10.1182/blood-2008-12-192385",
+      "originalpaperpubmedid": "19141861.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2009,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c2d5",
-      "Record ID": "11911",
-      "Title": "Cytoprotective membrane-permeable peptides designed from the Bax-binding domain of Ku70",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Blood Research Institute, The Blood Center of South Eastern Wisconsin and Department of Biochemistry, Medical College of Wisconsin, Milwaukee"
-      ],
-      "Journal": "Nature Cell Biology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Motoshi Sawada",
-        "Paulette Hayes",
-        "Shigemi Matsuyama"
-      ],
-      "ArticleType": [
-        "Letter"
-      ],
-      "RetractionDate": "4/1/2004 0:00",
-      "RetractionDOI": "10.1038/ncb1116",
-      "RetractionPubMedID": "12652309.0",
-      "OriginalPaperDate": "3/24/2003 0:00",
-      "OriginalPaperDOI": "10.1038/ncb955",
-      "OriginalPaperPubMedID": "12652309.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "Notes": "Dr. Motoshi Sawada responsible for figure manipulations",
-      "notice_year": 2004,
-      "year": 2003,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 3,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -268,10 +273,10 @@
     {
       "year": 2004,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -279,54 +284,54 @@
     {
       "year": 2007,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

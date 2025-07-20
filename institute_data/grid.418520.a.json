@@ -1,38 +1,87 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878388",
+    "_id": "687ccbab09adbf7aa61b8fa9",
     "grid_id": "grid.418520.a",
     "institute_name": "Institut Pasteur d'Alg\u00e9rie",
     "country": "Algeria",
     "retracted_record_ids": [
-      "50681",
       "45638",
-      "57792"
+      "57792",
+      "50681"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342c09",
-      "Record ID": "50681",
-      "Title": "Detection of a Knockdown Resistance Mutation Associated with Permethrin Resistance in the Body Louse Pediculus humanus corporis by Use of Melting Curve Analysis Genotyping",
-      "Subject": [
+      "_id": "687cef6f1f662220d8986443",
+      "recordId": "57792",
+      "title": "Distinguishing Body Lice from Head Lice by Multiplex Real-Time PCR Analysis of the Phum_PHUM540560 Gene",
+      "subject": [
+        "(BLS) Genetics",
+        "(BLS) Parasitology"
+      ],
+      "institution": [
+        "Aix Marseille Universit\u00e9, URMITE, UM63, CNRS 7278, IRD 198, Inserm 1095, Marseille, France",
+        "Service des Ent\u00e9robact\u00e9ries et Hygi\u00e8ne de l'Environnement, Institut Pasteur d'Alg\u00e9rie, Algiers, Algeria"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Algeria",
+        "France"
+      ],
+      "author": [
+        "Rezak Drali",
+        "Amina Boutellis",
+        "Didier Raoult",
+        "Jean Marc Rolain",
+        "Philippe Brouqui"
+      ],
+      "urls": "https://retractionwatch.com/?s=Didier+Raoult;https://retractionwatch.com/2022/12/13/plos-flags-nearly-50-papers-by-controversial-french-covid-researcher-for-ethics-concerns/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/1/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0311640",
+      "retractionpubmedid": "39352894.0",
+      "originalpaperdate": "2/28/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0058088",
+      "originalpaperpubmedid": "23469145.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Error in Text",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8b1f662220d8987fef",
+      "recordId": "50681",
+      "title": "Detection of a Knockdown Resistance Mutation Associated with Permethrin Resistance in the Body Louse Pediculus humanus corporis by Use of Melting Curve Analysis Genotyping",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Microbiology",
         "(BLS) Parasitology"
       ],
-      "Institution": [
+      "institution": [
         "Aix-Marseille Universit\u00e9, URMITE CNRS-IRD, UMR 6236/198 IHU M\u00e9diterran\u00e9e Infection, Facult\u00e9 de M\u00e9decine et de Pharmacie, Marseille, France",
         "Service des Ent\u00e9robact\u00e9ries et Hygi\u00e8ne de l\u2019Environnement, Institut Pasteur d\u2019Alg\u00e9rie, Algiers, Algeria",
         "Service d\u2019Ecologie des Syst\u00e8mes Vectoriels, IRD 198, Institut Pasteur d\u2019Alg\u00e9rie, Algiers, Algeria"
       ],
-      "Journal": "Journal of Clinical Microbiology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Journal of Clinical Microbiology",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "Algeria"
       ],
-      "Author": [
+      "author": [
         "Rezak Drali",
         "Samir Benkouiten",
         "S\u00e9k\u00e9n\u00e9 Badiaga",
@@ -40,151 +89,105 @@
         "Jean Marc Rolain",
         "Philippe Brouqui"
       ],
-      "URLS": "https://retractionwatch.com/2024/01/08/journals-retract-six-didier-raoult-papers-for-ethics-violations/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/01/08/journals-retract-six-didier-raoult-papers-for-ethics-violations/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/4/2024 0:00",
-      "RetractionDOI": "10.1128/jcm.01505-23",
-      "RetractionPubMedID": "38174946.0",
-      "OriginalPaperDate": "5/9/2012 0:00",
-      "OriginalPaperDOI": "10.1128/JCM.00808-12",
-      "OriginalPaperPubMedID": "22573588.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/4/2024 0:00",
+      "retractiondoi": "10.1128/jcm.01505-23",
+      "retractionpubmedid": "38174946.0",
+      "originalpaperdate": "5/9/2012 0:00",
+      "originalpaperdoi": "10.1128/JCM.00808-12",
+      "originalpaperpubmedid": "22573588.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Human Subject Welfare",
         "+Investigation by Company/Institution",
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2012,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343fac",
-      "Record ID": "45638",
-      "Title": "Distinguishing Body Lice from Head Lice by Multiplex Real-Time PCR Analysis of the Phum_PHUM540560 Gene",
-      "Subject": [
+      "_id": "687cef9e1f662220d8989392",
+      "recordId": "45638",
+      "title": "Distinguishing Body Lice from Head Lice by Multiplex Real-Time PCR Analysis of the Phum_PHUM540560 Gene",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Parasitology"
       ],
-      "Institution": [
+      "institution": [
         "Aix Marseille Universit\u00e9, URMITE, UM63, CNRS 7278, IRD 198, Inserm 1095, Marseille, France",
         "Service des Ent\u00e9robact\u00e9ries et Hygi\u00e8ne de l'Environnement, Institut Pasteur d'Alg\u00e9rie, Algiers, Algeria"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Algeria",
         "France"
       ],
-      "Author": [
+      "author": [
         "Rezak Drali",
         "Amina Boutellis",
         "Didier Raoult",
         "Jean Marc Rolain",
         "Philippe Brouqui"
       ],
-      "URLS": "https://retractionwatch.com/?s=Didier+Raoult;https://retractionwatch.com/2022/12/13/plos-flags-nearly-50-papers-by-controversial-french-covid-researcher-for-ethics-concerns/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=Didier+Raoult;https://retractionwatch.com/2022/12/13/plos-flags-nearly-50-papers-by-controversial-french-covid-researcher-for-ethics-concerns/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/13/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0278004",
-      "RetractionPubMedID": "36512552.0",
-      "OriginalPaperDate": "2/28/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0058088",
-      "OriginalPaperPubMedID": "23469145.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "12/13/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0278004",
+      "retractionpubmedid": "36512552.0",
+      "originalpaperdate": "2/28/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0058088",
+      "originalpaperpubmedid": "23469145.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Investigation by Journal/Publisher",
         "+Updated to Correction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2013,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234105d",
-      "Record ID": "57792",
-      "Title": "Distinguishing Body Lice from Head Lice by Multiplex Real-Time PCR Analysis of the Phum_PHUM540560 Gene",
-      "Subject": [
-        "(BLS) Genetics",
-        "(BLS) Parasitology"
-      ],
-      "Institution": [
-        "Aix Marseille Universit\u00e9, URMITE, UM63, CNRS 7278, IRD 198, Inserm 1095, Marseille, France",
-        "Service des Ent\u00e9robact\u00e9ries et Hygi\u00e8ne de l'Environnement, Institut Pasteur d'Alg\u00e9rie, Algiers, Algeria"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Algeria",
-        "France"
-      ],
-      "Author": [
-        "Rezak Drali",
-        "Amina Boutellis",
-        "Didier Raoult",
-        "Jean Marc Rolain",
-        "Philippe Brouqui"
-      ],
-      "URLS": "https://retractionwatch.com/?s=Didier+Raoult;https://retractionwatch.com/2022/12/13/plos-flags-nearly-50-papers-by-controversial-french-covid-researcher-for-ethics-concerns/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/1/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0311640",
-      "RetractionPubMedID": "39352894.0",
-      "OriginalPaperDate": "2/28/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0058088",
-      "OriginalPaperPubMedID": "23469145.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Error in Text",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -192,10 +195,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

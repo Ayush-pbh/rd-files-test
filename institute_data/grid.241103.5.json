@@ -1,40 +1,192 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068791ab",
+    "_id": "687ccbab09adbf7aa61b9dcc",
     "grid_id": "grid.241103.5",
     "institute_name": "University Hospital of Wales",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "3655",
+      "36650",
       "31468",
       "35394",
-      "36650"
+      "3655"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e2af",
-      "Record ID": "3655",
-      "Title": "An integrated genomic-based approach to individualized treatment of patients with advanced-stage ovarian cancer",
-      "Subject": [
+      "_id": "687cefbe1f662220d898b680",
+      "recordId": "36650",
+      "title": "A qualitative study exploring radiographers and radiography students understanding and attitudes around the care and imaging of individuals experiencing psychosis",
+      "subject": [
+        "(HSC) Medicine - Psychiatry",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Radiology Department, University Hospital of Wales, Heath Park Way, Cardiff, CF14 4XW, UK"
+      ],
+      "journal": "Radiography",
+      "publisher": "Elsevier",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Sally Round",
+        "Karen Holford"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/19/2022 0:00",
+      "retractiondoi": "10.1016/j.radi.2022.03.001",
+      "retractionpubmedid": "35459616.0",
+      "originalpaperdate": "4/19/2022 0:00",
+      "originalpaperdoi": "10.1016/j.radi.2022.03.001",
+      "originalpaperpubmedid": "35459616.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb59",
+      "recordId": "35394",
+      "title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, L7 3NY, UK",
+        "Department of Infectious Diseases, University Hospital of Wales, Cardiff and Vale University Health Board, UK",
+        "Department of Intensive Care, University College London Hospital, ULCH NHS Trust, London, UK",
+        "Department of Infectious Diseases, Chelsea and Westminster Hospital, Imperial NHS Trust, London, UK",
+        "Faculty of Medicine, Imperial College London, UK",
+        "Oxford University Clinical Academic Graduate School, University of Oxford, UK"
+      ],
+      "journal": "Open Forum Infectious Diseases",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Andrew Hill",
+        "Anna Garratt",
+        "Jacob Levi",
+        "Jonathan Falconer",
+        "Leah Ellis",
+        "Kaitlyn McCann",
+        "Victoria Pilkington",
+        "Ambar Qavi",
+        "Junzheng Wang",
+        "Hannah Wentzel"
+      ],
+      "urls": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "2/5/2022 0:00",
+      "retractiondoi": "10.1093/ofid/ofac056",
+      "retractionpubmedid": "35146053.0",
+      "originalpaperdate": "7/6/2021 0:00",
+      "originalpaperdoi": "10.1093/ofid/ofab358",
+      "originalpaperpubmedid": "34796244.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Cites Retracted Work",
+        "+Concerns/Issues About Data",
+        "+Retract and Replace",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "see https://academic.oup.com/ofid/article/9/2/ofab645/6509922;",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd41f662220d898caa4",
+      "recordId": "31468",
+      "title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, L7 3NY, UK",
+        "Department of Infectious Diseases, University Hospital of Wales, Cardiff and Vale University Health Board, UK",
+        "Department of Intensive Care, University College London Hospital, ULCH NHS Trust, London, UK",
+        "Department of Infectious Diseases, Chelsea and Westminster Hospital, Imperial NHS Trust, London, UK",
+        "Faculty of Medicine, Imperial College London, UK",
+        "Oxford University Clinical Academic Graduate School, University of Oxford, UK"
+      ],
+      "journal": "Open Forum Infectious Diseases",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Andrew Hill",
+        "Anna Garratt",
+        "Jacob Levi",
+        "Jonathan Falconer",
+        "Leah Ellis",
+        "Kaitlyn McCann",
+        "Victoria Pilkington",
+        "Ambar Qavi",
+        "Junzheng Wang",
+        "Hannah Wentzel"
+      ],
+      "urls": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "8/9/2021 0:00",
+      "retractiondoi": "10.1093/ofid/ofab394",
+      "retractionpubmedid": "34410284.0",
+      "originalpaperdate": "7/6/2021 0:00",
+      "originalpaperdoi": "10.1093/ofid/ofab358",
+      "originalpaperpubmedid": "34796244.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Cites Retracted Work",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d8993695",
+      "recordId": "3655",
+      "title": "An integrated genomic-based approach to individualized treatment of patients with advanced-stage ovarian cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Genetics",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Divisions of Gynecologic Surgical Oncology and Cancer Prevention and Control, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL",
         "Institute for Genome Sciences and Policy, Department of Molecular Genetics and Microbiology, Department of Obstetrics and Gynecology/Division of Gynecologic Oncology, and Departments of Surgery and Medicine, Duke University Medical Center, Institute of Statistics and Decision Sciences, Duke University, Durham, NC",
         "Institute of Medical Genetics, University Hospital of Wales, Cardiff, United Kingdom"
       ],
-      "Journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
-      "Publisher": "American Society of Clinical Oncology",
-      "Country": [
+      "journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
+      "publisher": "American Society of Clinical Oncology",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Holly K Dressman",
         "Andrew Berchuck",
         "Gina Chan",
@@ -53,18 +205,18 @@
         "Joseph R Nevins",
         "Johnathan M Lancaster"
       ],
-      "URLS": "http://retractionwatch.com/2012/02/06/anil-potti-and-colleagues-retract-ninth-paper-this-one-in-jco/;http://retractionwatch.com/2012/02/14/the-anil-potti-retraction-record-so-far/;http://retractionwatch.com/2010/11/01/a-retraction-in-the-potti-case/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/02/06/anil-potti-and-colleagues-retract-ninth-paper-this-one-in-jco/;http://retractionwatch.com/2012/02/14/the-anil-potti-retraction-record-so-far/;http://retractionwatch.com/2010/11/01/a-retraction-in-the-potti-case/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "2/20/2012 0:00",
-      "RetractionDOI": "10.1200/JCO.2012.42.0331",
-      "RetractionPubMedID": "22451975.0",
-      "OriginalPaperDate": "2/10/2007 0:00",
-      "OriginalPaperDOI": "10.1200/JCO.2006.06.3743",
-      "OriginalPaperPubMedID": "17290060.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/20/2012 0:00",
+      "retractiondoi": "10.1200/JCO.2012.42.0331",
+      "retractionpubmedid": "22451975.0",
+      "originalpaperdate": "2/10/2007 0:00",
+      "originalpaperdoi": "10.1200/JCO.2006.06.3743",
+      "originalpaperpubmedid": "17290060.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Error in Analyses",
         "+Error in Data",
@@ -72,203 +224,55 @@
         "+Investigation by Company/Institution",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2007,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23476be",
-      "Record ID": "31468",
-      "Title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, L7 3NY, UK",
-        "Department of Infectious Diseases, University Hospital of Wales, Cardiff and Vale University Health Board, UK",
-        "Department of Intensive Care, University College London Hospital, ULCH NHS Trust, London, UK",
-        "Department of Infectious Diseases, Chelsea and Westminster Hospital, Imperial NHS Trust, London, UK",
-        "Faculty of Medicine, Imperial College London, UK",
-        "Oxford University Clinical Academic Graduate School, University of Oxford, UK"
-      ],
-      "Journal": "Open Forum Infectious Diseases",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Andrew Hill",
-        "Anna Garratt",
-        "Jacob Levi",
-        "Jonathan Falconer",
-        "Leah Ellis",
-        "Kaitlyn McCann",
-        "Victoria Pilkington",
-        "Ambar Qavi",
-        "Junzheng Wang",
-        "Hannah Wentzel"
-      ],
-      "URLS": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "8/9/2021 0:00",
-      "RetractionDOI": "10.1093/ofid/ofab394",
-      "RetractionPubMedID": "34410284.0",
-      "OriginalPaperDate": "7/6/2021 0:00",
-      "OriginalPaperDOI": "10.1093/ofid/ofab358",
-      "OriginalPaperPubMedID": "34796244.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Cites Retracted Work",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346773",
-      "Record ID": "35394",
-      "Title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, L7 3NY, UK",
-        "Department of Infectious Diseases, University Hospital of Wales, Cardiff and Vale University Health Board, UK",
-        "Department of Intensive Care, University College London Hospital, ULCH NHS Trust, London, UK",
-        "Department of Infectious Diseases, Chelsea and Westminster Hospital, Imperial NHS Trust, London, UK",
-        "Faculty of Medicine, Imperial College London, UK",
-        "Oxford University Clinical Academic Graduate School, University of Oxford, UK"
-      ],
-      "Journal": "Open Forum Infectious Diseases",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Andrew Hill",
-        "Anna Garratt",
-        "Jacob Levi",
-        "Jonathan Falconer",
-        "Leah Ellis",
-        "Kaitlyn McCann",
-        "Victoria Pilkington",
-        "Ambar Qavi",
-        "Junzheng Wang",
-        "Hannah Wentzel"
-      ],
-      "URLS": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "2/5/2022 0:00",
-      "RetractionDOI": "10.1093/ofid/ofac056",
-      "RetractionPubMedID": "35146053.0",
-      "OriginalPaperDate": "7/6/2021 0:00",
-      "OriginalPaperDOI": "10.1093/ofid/ofab358",
-      "OriginalPaperPubMedID": "34796244.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Cites Retracted Work",
-        "+Concerns/Issues About Data",
-        "+Retract and Replace",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "see https://academic.oup.com/ofid/article/9/2/ofab645/6509922;",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234629a",
-      "Record ID": "36650",
-      "Title": "A qualitative study exploring radiographers and radiography students understanding and attitudes around the care and imaging of individuals experiencing psychosis",
-      "Subject": [
-        "(HSC) Medicine - Psychiatry",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Radiology Department, University Hospital of Wales, Heath Park Way, Cardiff, CF14 4XW, UK"
-      ],
-      "Journal": "Radiography",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Sally Round",
-        "Karen Holford"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/19/2022 0:00",
-      "RetractionDOI": "10.1016/j.radi.2022.03.001",
-      "RetractionPubMedID": "35459616.0",
-      "OriginalPaperDate": "4/19/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.radi.2022.03.001",
-      "OriginalPaperPubMedID": "35459616.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2012",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

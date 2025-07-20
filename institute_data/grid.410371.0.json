@@ -1,26 +1,89 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877fb0",
+    "_id": "687ccbab09adbf7aa61b8bd1",
     "grid_id": "grid.410371.0",
     "institute_name": "VA San Diego Healthcare System",
     "country": "United States",
     "retracted_record_ids": [
       "53751",
-      "60618",
       "25416",
-      "31985"
+      "31985",
+      "60618"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342022",
-      "Record ID": "53751",
-      "Title": "Can mild traumatic brain injury alter cognition chronically? A LIMBIC-CENC multicenter study",
-      "Subject": [
+      "_id": "687cef631f662220d898593e",
+      "recordId": "60618",
+      "title": "Differential effects of immunotherapy with antibodies targeting \u03b1-synuclein oligomers and fibrils in a transgenic model of synucleinopathy",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Immunology"
+      ],
+      "institution": [
+        "Neurological Disorders Research Center, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), Qatar Foundation, PO Box 5825, Doha, Qatar",
+        "Life Sciences Division, College of Science and Engineering, Hamad Bin Khalifa University (HBKU), Education City, Qatar Foundation, PO Box 5825, Doha, Qatar",
+        "Department of Neurosciences, University of California, San Diego, La Jolla, CA 92093, United States",
+        "Department of Biomedical Sciences and Neuroscience Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea",
+        "Department of Pathology, University of California, San Diego, La Jolla, CA 92093, United States",
+        "Veterans Affairs San Diego Healthcare System, San Diego, CA 92161, United States"
+      ],
+      "journal": "Neurobiology of Disease",
+      "publisher": "Elsevier",
+      "country": [
+        "Qatar",
+        "South Korea",
+        "United States"
+      ],
+      "author": [
+        "Omar El-Agnaf",
+        "Cassia Overk",
+        "Edward Rockenstein",
+        "Michael Mante",
+        "Jazmin Florio",
+        "Anthony Adame",
+        "Nishant Vaikath",
+        "Nour Majbour",
+        "Seung-Jae Lee",
+        "Changyoun Kim",
+        "Eliezer Masliah",
+        "Robert A Rissman"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/15/2025 0:00",
+      "retractiondoi": "10.1016/j.nbd.2025.106788",
+      "retractionpubmedid": "39818529.0",
+      "originalpaperdate": "5/12/2017 0:00",
+      "originalpaperdoi": "10.1016/j.nbd.2017.05.002",
+      "originalpaperpubmedid": "28476636.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/E8BFBC4D110BB705D8152DA8AAD90D",
+      "year": "2017",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7f1f662220d8987408",
+      "recordId": "53751",
+      "title": "Can mild traumatic brain injury alter cognition chronically? A LIMBIC-CENC multicenter study",
+      "subject": [
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Virginia Commonwealth University, Richmond, USA",
         "Richmond Veterans Affairs Medical Center, Richmond, USA",
         "VA Portland Health Care System, Portland, USA",
@@ -42,12 +105,12 @@
         "VA San Diego Healthcare System, San Deigo, USA",
         "University of California, San Diego, Department of Psychiatry, San Diego, USA"
       ],
-      "Journal": "Brain Injury",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Brain Injury",
+      "publisher": "Taylor and Francis",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "William Walker",
         "Maya O'Neil",
         "Zhining Ou",
@@ -63,108 +126,93 @@
         "Amy Jak",
         "David Cifu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "8/23/2023 0:00",
-      "RetractionDOI": "10.1080/02699052.2023.2247951",
-      "RetractionPubMedID": "38571363.0",
-      "OriginalPaperDate": "5/29/2023 0:00",
-      "OriginalPaperDOI": "10.1080/02699052.2023.2194723",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/23/2023 0:00",
+      "retractiondoi": "10.1080/02699052.2023.2247951",
+      "retractionpubmedid": "38571363.0",
+      "originalpaperdate": "5/29/2023 0:00",
+      "originalpaperdoi": "10.1080/02699052.2023.2194723",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2340558",
-      "Record ID": "60618",
-      "Title": "Differential effects of immunotherapy with antibodies targeting \u03b1-synuclein oligomers and fibrils in a transgenic model of synucleinopathy",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Immunology"
+      "_id": "687cefd01f662220d898c8a2",
+      "recordId": "31985",
+      "title": "The Impact of Treatment Description Format on Patient Preferences for Posttraumatic Stress Disorder Treatment",
+      "subject": [
+        "(HSC) Medicine - Psychiatry",
+        "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
-        "Neurological Disorders Research Center, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), Qatar Foundation, PO Box 5825, Doha, Qatar",
-        "Life Sciences Division, College of Science and Engineering, Hamad Bin Khalifa University (HBKU), Education City, Qatar Foundation, PO Box 5825, Doha, Qatar",
-        "Department of Neurosciences, University of California, San Diego, La Jolla, CA 92093, United States",
-        "Department of Biomedical Sciences and Neuroscience Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea",
-        "Department of Pathology, University of California, San Diego, La Jolla, CA 92093, United States",
-        "Veterans Affairs San Diego Healthcare System, San Diego, CA 92161, United States"
+      "institution": [
+        "National Center for PTSD\u2013Executive Division, White River Junction, Vermont, USA",
+        "Geisel School of Medicine at Dartmouth, Hanover, New Hampshire, USA",
+        "Veterans Affairs San Diego Healthcare System, San Diego, California, USA",
+        "Veterans Medical Research Foundation, San Diego, California, USA",
+        "University of California-San Diego, San Diego, California, USA"
       ],
-      "Journal": "Neurobiology of Disease",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Qatar",
-        "South Korea",
+      "journal": "Journal of Traumatic Stress",
+      "publisher": "Wiley",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Omar El-Agnaf",
-        "Cassia Overk",
-        "Edward Rockenstein",
-        "Michael Mante",
-        "Jazmin Florio",
-        "Anthony Adame",
-        "Nishant Vaikath",
-        "Nour Majbour",
-        "Seung-Jae Lee",
-        "Changyoun Kim",
-        "Eliezer Masliah",
-        "Robert A Rissman"
+      "author": [
+        "Juliette M Harik",
+        "Kathleen M Grubbs",
+        "Jessica L Hamblen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/15/2025 0:00",
-      "RetractionDOI": "10.1016/j.nbd.2025.106788",
-      "RetractionPubMedID": "39818529.0",
-      "OriginalPaperDate": "5/12/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.nbd.2017.05.002",
-      "OriginalPaperPubMedID": "28476636.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Image"
+      "retractiondate": "8/26/2021 0:00",
+      "retractiondoi": "10.1002/jts.22730",
+      "retractionpubmedid": "34448252.0",
+      "originalpaperdate": "6/9/2020 0:00",
+      "originalpaperdoi": "10.1002/jts.22528",
+      "originalpaperpubmedid": "32516494.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Materials",
+        "+Error in Methods",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/E8BFBC4D110BB705D8152DA8AAD90D",
-      "notice_year": 2025,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2348e55",
-      "Record ID": "25416",
-      "Title": "Catestatin Increases the Expression of Anti-Apoptotic and Pro-Angiogenetic Factors in the Post-Ischemic Hypertrophied Heart of SHR",
-      "Subject": [
+      "_id": "687cf0051f662220d898e23b",
+      "recordId": "25416",
+      "title": "Catestatin Increases the Expression of Anti-Apoptotic and Pro-Angiogenetic Factors in the Post-Ischemic Hypertrophied Heart of SHR",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical and Biological Sciences, University of Turin, Torino, Italy",
         "Department of Biology, Ecology and Earth Sciences, University of Calabria, Arcavacata di Rende, Italy",
         "VA San Diego Healthcare System, University of California, San Diego, California, United States of America",
         "National Institute of Cardiovascular Research, Bologna, Italy"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Claudia Penna",
         "Teresa Pasqua",
         "Daniela Amelio",
@@ -177,125 +225,81 @@
         "Maria C Cerra",
         "Tommaso Angelone"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/4/2021 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0246900",
-      "RetractionPubMedID": "33539473.0",
-      "OriginalPaperDate": "8/6/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0102536",
-      "OriginalPaperPubMedID": "25099124.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/4/2021 0:00",
+      "retractiondoi": "10.1371/journal.pone.0246900",
+      "retractionpubmedid": "33539473.0",
+      "originalpaperdate": "8/6/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0102536",
+      "originalpaperpubmedid": "25099124.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/1EA6CF6801C055BCA25132F117413E",
-      "notice_year": 2021,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23474bc",
-      "Record ID": "31985",
-      "Title": "The Impact of Treatment Description Format on Patient Preferences for Posttraumatic Stress Disorder Treatment",
-      "Subject": [
-        "(HSC) Medicine - Psychiatry",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "National Center for PTSD\u2013Executive Division, White River Junction, Vermont, USA",
-        "Geisel School of Medicine at Dartmouth, Hanover, New Hampshire, USA",
-        "Veterans Affairs San Diego Healthcare System, San Diego, California, USA",
-        "Veterans Medical Research Foundation, San Diego, California, USA",
-        "University of California-San Diego, San Diego, California, USA"
-      ],
-      "Journal": "Journal of Traumatic Stress",
-      "Publisher": "Wiley",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Juliette M Harik",
-        "Kathleen M Grubbs",
-        "Jessica L Hamblen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/26/2021 0:00",
-      "RetractionDOI": "10.1002/jts.22730",
-      "RetractionPubMedID": "34448252.0",
-      "OriginalPaperDate": "6/9/2020 0:00",
-      "OriginalPaperDOI": "10.1002/jts.22528",
-      "OriginalPaperPubMedID": "32516494.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Materials",
-        "+Error in Methods",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/1EA6CF6801C055BCA25132F117413E",
+      "year": "2014",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -303,10 +307,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

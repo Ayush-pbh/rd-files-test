@@ -1,98 +1,56 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877df9",
+    "_id": "687ccbab09adbf7aa61b8a1a",
     "grid_id": "grid.189530.6",
     "institute_name": "University of Worcester",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "24993",
-      "61659"
+      "61659",
+      "24993"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2348ffb",
-      "Record ID": "24993",
-      "Title": "The roles of the cation transporters CHX21 and CHX23 in the development of Arabidopsis thaliana",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "School of Biosciences, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK",
-        "Institute of Science and the Environment, University of Worcester, Henwick Grove, Worcester WR2 6AJ, UK"
-      ],
-      "Journal": "Journal of Experimental Botany",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "A R Evans",
-        "D Hall",
-        "Jeremy Pritchard",
-        "H John Newbury"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/11/2021 0:00",
-      "RetractionDOI": "10.1093/jxb/eraa530",
-      "RetractionPubMedID": "33428752.0",
-      "OriginalPaperDate": "10/5/2011 0:00",
-      "OriginalPaperDOI": "10.1093/jxb/err271",
-      "OriginalPaperPubMedID": "21976771.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Manipulation of Images",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2340147",
-      "Record ID": "61659",
-      "Title": "Blockchain-Based Data Audit Mechanism for Integrity over Big Data Environments",
-      "Subject": [
+      "_id": "687cef5f1f662220d898552d",
+      "recordId": "61659",
+      "title": "Blockchain-Based Data Audit Mechanism for Integrity over Big Data Environments",
+      "subject": [
         "(B/T) Data Science",
         "(B/T) Technology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Science and Engineering Zhejiang Normal University, Jinhua, China",
         "Deparment of Computing University of Worcester, Worcester, UK",
         "KIET Group of Institutions, Assistant Professor Research Computer Science and Engineering, Ghaziabad, Uttar Pradesh, India",
         "Department of Computer Science Engineering & Information Technology, Institute of Engineering & Technology (an Autonomous Constituent Institute of Dr. A.P.J. Abdul Kalam Technical University, U.P Lucknow), Lucknow, India",
         "Professor Department of Mechanical Engineering, GLA University, Mathura, India"
       ],
-      "Journal": "Security and Communication Networks",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Security and Communication Networks",
+      "publisher": "Hindawi",
+      "country": [
         "China",
         "India",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Jianbin Wu",
         "Sami Ahmed Haider",
         "Manish Bhardwaj",
         "Aditi Sharma",
         "Piyush Singhal"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/11/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9876716",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/16/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/8165653",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/11/2023 0:00",
+      "retractiondoi": "10.1155/2023/9876716",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/16/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/8165653",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -103,20 +61,64 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0051f662220d898e3e1",
+      "recordId": "24993",
+      "title": "The roles of the cation transporters CHX21 and CHX23 in the development of Arabidopsis thaliana",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "School of Biosciences, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK",
+        "Institute of Science and the Environment, University of Worcester, Henwick Grove, Worcester WR2 6AJ, UK"
+      ],
+      "journal": "Journal of Experimental Botany",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "A R Evans",
+        "D Hall",
+        "Jeremy Pritchard",
+        "H John Newbury"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/11/2021 0:00",
+      "retractiondoi": "10.1093/jxb/eraa530",
+      "retractionpubmedid": "33428752.0",
+      "originalpaperdate": "10/5/2011 0:00",
+      "originalpaperdoi": "10.1093/jxb/err271",
+      "originalpaperpubmedid": "21976771.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Manipulation of Images",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -124,32 +126,32 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

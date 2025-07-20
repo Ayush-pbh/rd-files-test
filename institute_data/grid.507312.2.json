@@ -1,73 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068790b6",
+    "_id": "687ccbab09adbf7aa61b9cd7",
     "grid_id": "grid.507312.2",
     "institute_name": "Beltsville Agricultural Research Center",
     "country": "United States",
     "retracted_record_ids": [
-      "31296",
-      "38509",
-      "25239",
       "31294",
-      "16221"
+      "25239",
+      "16221",
+      "31296",
+      "38509"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234776a",
-      "Record ID": "31296",
-      "Title": "Dietary Allium hookeri reduces inflammatory response and increases expression of intestinal tight junction proteins in LPS-induced young broiler chickens",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Nutrition",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Animal Bioscience and Biotechnology Laboratory, Beltsville Agricultural Research Center, Agricultural Research Service, United States Department of Agriculture, Beltsville, MD, USA",
-        "National Institute of Agricultural Sciences, Rural Department Administration, 166, Nongsaengmyeong-ro, Isoe-Myeon, Wanju-Gun, Jeollabuk-do, South Korea",
-        "College of Animal Life Sciences, Kangwon National University, Chuncheon 200-701, South Korea"
-      ],
-      "Journal": "Research in Veterinary Science",
-      "Publisher": "Elsevier",
-      "Country": [
-        "South Korea",
-        "United States"
-      ],
-      "Author": [
-        "Youngsub Lee",
-        "Sung Hyen Lee",
-        "Ujvala Deepthi Gadde",
-        "Sung-taek Oh",
-        "Sung Jin Lee",
-        "Hyun S Lillehoj"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/14/2021 0:00",
-      "RetractionDOI": "10.1016/j.rvsc.2017.03.019",
-      "RetractionPubMedID": "34330523.0",
-      "OriginalPaperDate": "3/31/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.rvsc.2017.03.019",
-      "OriginalPaperPubMedID": "28391057.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Lack of IRB/IACUC Approval and/or Compliance"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345b5d",
-      "Record ID": "38509",
-      "Title": "Enumeration of citrus endophytic bacterial communities based on illumine metagenomics technique",
-      "Subject": [
+      "_id": "687cefb51f662220d898af43",
+      "recordId": "38509",
+      "title": "Enumeration of citrus endophytic bacterial communities based on illumine metagenomics technique",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "Faculty of Agricultural Sciences, Department of Plant Pathology, University of the Punjab, Quaid-e-Azam Campus, Lahore, Pakistan",
         "Faculty of Agricultural Sciences, Department of Horticulture Sciences, University of the Punjab, Quaid-e-Azam Campus, Lahore, Pakistan",
         "Department of Horticulture Sciences University of Sargodha, Sargodha, Pakistan",
@@ -75,14 +29,14 @@
         "Molecular Plant Pathology Laboratory, USDA-ARS, Beltsville, MD, United States of America",
         "Department of Botany and Microbiology, College of Sciences, King Saud University, Riyadh, Saudi Arabia"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Pakistan",
         "Saudi Arabia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Sehrish Mushtaq",
         "Muhammad Shafiq",
         "Tehseen Ashraf",
@@ -91,89 +45,95 @@
         "Khalid S Almaary",
         "Mohammad Soliman Elshikh"
       ],
-      "URLS": "http://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/3/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0272191",
-      "RetractionPubMedID": "35921303.0",
-      "OriginalPaperDate": "4/13/2022 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0263144",
-      "OriginalPaperPubMedID": "35417473.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/3/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0272191",
+      "retractionpubmedid": "35921303.0",
+      "originalpaperdate": "4/13/2022 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0263144",
+      "originalpaperpubmedid": "35417473.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2348f06",
-      "Record ID": "25239",
-      "Title": "Antibiotic growth promoters virginiamycin and bacitracin methylene disalicylate alter the chicken intestinal metabolome",
-      "Subject": [
+      "_id": "687cefd41f662220d898cb50",
+      "recordId": "31296",
+      "title": "Dietary Allium hookeri reduces inflammatory response and increases expression of intestinal tight junction proteins in LPS-induced young broiler chickens",
+      "subject": [
         "(BLS) Biochemistry",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Veterinary Science"
+        "(BLS) Nutrition",
+        "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Animal Bioscience and Biotechnology Laboratory, Beltsville Agricultural Research Center, Agricultural Research Service, United States Department of Agriculture, Beltsville, MD, 20705, USA",
-        "Department of Pediatrics, University of Maryland School of Medicine, Baltimore, MD, 21201, USA"
+      "institution": [
+        "Animal Bioscience and Biotechnology Laboratory, Beltsville Agricultural Research Center, Agricultural Research Service, United States Department of Agriculture, Beltsville, MD, USA",
+        "National Institute of Agricultural Sciences, Rural Department Administration, 166, Nongsaengmyeong-ro, Isoe-Myeon, Wanju-Gun, Jeollabuk-do, South Korea",
+        "College of Animal Life Sciences, Kangwon National University, Chuncheon 200-701, South Korea"
       ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Research in Veterinary Science",
+      "publisher": "Elsevier",
+      "country": [
+        "South Korea",
         "United States"
       ],
-      "Author": [
+      "author": [
+        "Youngsub Lee",
+        "Sung Hyen Lee",
         "Ujvala Deepthi Gadde",
-        "Sungtaek Oh",
-        "Hyun S Lillehoj",
-        "Erik. P Lillehoj"
+        "Sung-taek Oh",
+        "Sung Jin Lee",
+        "Hyun S Lillehoj"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/28/2021 0:00",
-      "RetractionDOI": "10.1038/s41598-021-82285-2",
-      "RetractionPubMedID": "33510325.0",
-      "OriginalPaperDate": "2/26/2018 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-018-22004-6",
-      "OriginalPaperPubMedID": "29483631.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/14/2021 0:00",
+      "retractiondoi": "10.1016/j.rvsc.2017.03.019",
+      "retractionpubmedid": "34330523.0",
+      "originalpaperdate": "3/31/2017 0:00",
+      "originalpaperdoi": "10.1016/j.rvsc.2017.03.019",
+      "originalpaperpubmedid": "28391057.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234776c",
-      "Record ID": "31294",
-      "Title": "Dietary Bacillus subtilis-based direct-fed microbials alleviate LPS-induced intestinal immunological stress and improve intestinal barrier gene expression in commercial broiler chickens",
-      "Subject": [
+      "_id": "687cefd41f662220d898cb52",
+      "recordId": "31294",
+      "title": "Dietary Bacillus subtilis-based direct-fed microbials alleviate LPS-induced intestinal immunological stress and improve intestinal barrier gene expression in commercial broiler chickens",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Nutrition",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Animal Biosciences and Biotechnology Laboratory, Beltsville Agricultural Research Center, Agricultural Research Service, USDA, Beltsville, MD 20705, USA",
         "Agro Biosciences Inc., 10437 Innovation Drive, Wauwatosa, WI 53226, USA"
       ],
-      "Journal": "Research in Veterinary Science",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Research in Veterinary Science",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ujvala Deepthi Gadde",
         "Sungtaek Oh",
         "Youngsub Lee",
@@ -182,45 +142,89 @@
         "Tom Rehberger",
         "Hyun Soon Lillehoj"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/28/2021 0:00",
-      "RetractionDOI": "10.1016/j.rvsc.2021.07.012",
-      "RetractionPubMedID": "34332725.0",
-      "OriginalPaperDate": "5/6/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.rvsc.2017.05.004",
-      "OriginalPaperPubMedID": "28505587.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/28/2021 0:00",
+      "retractiondoi": "10.1016/j.rvsc.2021.07.012",
+      "retractionpubmedid": "34332725.0",
+      "originalpaperdate": "5/6/2017 0:00",
+      "originalpaperdoi": "10.1016/j.rvsc.2017.05.004",
+      "originalpaperpubmedid": "28505587.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2017,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b20a",
-      "Record ID": "16221",
-      "Title": "Identification of Peptidoglycan Hydrolase Constructs with Synergistic Staphylolytic Activity in Cow\u2019s Milk",
-      "Subject": [
+      "_id": "687cf0051f662220d898e2ec",
+      "recordId": "25239",
+      "title": "Antibiotic growth promoters virginiamycin and bacitracin methylene disalicylate alter the chicken intestinal metabolome",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Veterinary Science"
+      ],
+      "institution": [
+        "Animal Bioscience and Biotechnology Laboratory, Beltsville Agricultural Research Center, Agricultural Research Service, United States Department of Agriculture, Beltsville, MD, 20705, USA",
+        "Department of Pediatrics, University of Maryland School of Medicine, Baltimore, MD, 21201, USA"
+      ],
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Ujvala Deepthi Gadde",
+        "Sungtaek Oh",
+        "Hyun S Lillehoj",
+        "Erik. P Lillehoj"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/28/2021 0:00",
+      "retractiondoi": "10.1038/s41598-021-82285-2",
+      "retractionpubmedid": "33510325.0",
+      "originalpaperdate": "2/26/2018 0:00",
+      "originalpaperdoi": "10.1038/s41598-018-22004-6",
+      "originalpaperpubmedid": "29483631.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0991f662220d89905f0",
+      "recordId": "16221",
+      "title": "Identification of Peptidoglycan Hydrolase Constructs with Synergistic Staphylolytic Activity in Cow\u2019s Milk",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland",
         "Animal Biosciences and Biotechnology Laboratory, ANRI, NEA, ARS, U.S. Department of Agriculture, Beltsville, Maryland, USA"
       ],
-      "Journal": "Applied and Environmental Microbiology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Applied and Environmental Microbiology",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "Switzerland",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Carolin T Verbree",
         "Steven M Datwyler",
         "Susanne Meile",
@@ -229,70 +233,71 @@
         "Martin J Loessner",
         "Mathias Schmelcher"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/16/2017 0:00",
-      "RetractionDOI": "10.1128/AEM.02100-17",
-      "RetractionPubMedID": "29146591.0",
-      "OriginalPaperDate": "3/17/2017 0:00",
-      "OriginalPaperDOI": "10.1128/AEM.03445-16",
-      "OriginalPaperPubMedID": "28159785.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/16/2017 0:00",
+      "retractiondoi": "10.1128/AEM.02100-17",
+      "retractionpubmedid": "29146591.0",
+      "originalpaperdate": "3/17/2017 0:00",
+      "originalpaperdoi": "10.1128/AEM.03445-16",
+      "originalpaperpubmedid": "28159785.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 1,
-      "integrity": 2
-    },
-    {
-      "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2018,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

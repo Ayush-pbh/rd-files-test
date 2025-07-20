@@ -1,6 +1,6 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687833c",
+    "_id": "687ccbab09adbf7aa61b8f5d",
     "grid_id": "grid.417555.7",
     "institute_name": "Sanofi (United States)",
     "country": "United States",
@@ -11,80 +11,28 @@
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341f53",
-      "Record ID": "53958",
-      "Title": "Elicitation of Protective Antibodies against a Broad Panel of H1N1 Viruses in Ferrets Preimmune to Historical H1N1 Influenza Viruses",
-      "Subject": [
-        "(BLS) Microbiology",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Veterinary Science"
-      ],
-      "Institution": [
-        "Center for Vaccines and Immunology, University of Georgia, Athens, Georgia, USA",
-        "Department of Infectious Diseases, University of Georgia, Athens, Georgia, USA",
-        "Sanofi-Pasteur, Inc., Discovery North America, Cambridge, Massachusetts, USA"
-      ],
-      "Journal": "Journal of Virology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Donald M Carter",
-        "Christopher A Darby",
-        "Scott K Johnson",
-        "Michael A Carlock",
-        "Greg A Kirchenbaum",
-        "James D Allen",
-        "Thorsten U Vogel",
-        "Simon Delagrave",
-        "Joshua DiNapoli",
-        "Harold Kleanthous",
-        "Ted M Ross"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/31/2024 0:00",
-      "RetractionDOI": "10.1128/jvi.01832-23",
-      "RetractionPubMedID": "38819163.0",
-      "OriginalPaperDate": "11/30/2017 0:00",
-      "OriginalPaperDOI": "10.1128/JVI.01283-17",
-      "OriginalPaperPubMedID": "28978709.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340f6a",
-      "Record ID": "58036",
-      "Title": "SAR650984 directly induces multiple myeloma cell death via lysosomal-associated and apoptotic pathways, which is further enhanced by pomalidomide",
-      "Subject": [
+      "_id": "687cef6f1f662220d8986350",
+      "recordId": "58036",
+      "title": "SAR650984 directly induces multiple myeloma cell death via lysosomal-associated and apoptotic pathways, which is further enhanced by pomalidomide",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "LeBow Institute for Myeloma Therapeutics and the Jerome Lipper Center for Multiple Myeloma Research, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA",
         "Department of Hematology, Myeloma and Lymphoma Centre, Chang Zheng Hospital, The Second Military Medical University, Shanghai, China",
         "Sanofi Oncology, Cambridge, MA, USA",
         "Institute of Hematology, CAMS & PUMC, Tianjin, China"
       ],
-      "Journal": "Leukemia",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Leukemia",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "H Jiang",
         "C Acharya",
         "G An",
@@ -101,17 +49,17 @@
         "Y-T Tai",
         "K C Anderson"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/22/2024 0:00",
-      "RetractionDOI": "10.1038/s41375-024-02443-z",
-      "RetractionPubMedID": "39438590.0",
-      "OriginalPaperDate": "9/4/2015 0:00",
-      "OriginalPaperDOI": "10.1038/leu.2015.240",
-      "OriginalPaperPubMedID": "26338273.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/22/2024 0:00",
+      "retractiondoi": "10.1038/s41375-024-02443-z",
+      "retractionpubmedid": "39438590.0",
+      "originalpaperdate": "9/4/2015 0:00",
+      "originalpaperdoi": "10.1038/leu.2015.240",
+      "originalpaperpubmedid": "26338273.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
@@ -119,43 +67,97 @@
         "+Investigation by Journal/Publisher",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/BE119832A5B1091025C04244B43F5D",
-      "notice_year": 2024,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/BE119832A5B1091025C04244B43F5D",
+      "year": "2015",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7f1f662220d8987339",
+      "recordId": "53958",
+      "title": "Elicitation of Protective Antibodies against a Broad Panel of H1N1 Viruses in Ferrets Preimmune to Historical H1N1 Influenza Viruses",
+      "subject": [
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Veterinary Science"
+      ],
+      "institution": [
+        "Center for Vaccines and Immunology, University of Georgia, Athens, Georgia, USA",
+        "Department of Infectious Diseases, University of Georgia, Athens, Georgia, USA",
+        "Sanofi-Pasteur, Inc., Discovery North America, Cambridge, Massachusetts, USA"
+      ],
+      "journal": "Journal of Virology",
+      "publisher": "American Society for Microbiology",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Donald M Carter",
+        "Christopher A Darby",
+        "Scott K Johnson",
+        "Michael A Carlock",
+        "Greg A Kirchenbaum",
+        "James D Allen",
+        "Thorsten U Vogel",
+        "Simon Delagrave",
+        "Joshua DiNapoli",
+        "Harold Kleanthous",
+        "Ted M Ross"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/31/2024 0:00",
+      "retractiondoi": "10.1128/jvi.01832-23",
+      "retractionpubmedid": "38819163.0",
+      "originalpaperdate": "11/30/2017 0:00",
+      "originalpaperdoi": "10.1128/JVI.01283-17",
+      "originalpaperpubmedid": "28978709.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

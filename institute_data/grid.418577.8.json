@@ -1,25 +1,103 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687928e",
+    "_id": "687ccbab09adbf7aa61b9eaf",
     "grid_id": "grid.418577.8",
     "institute_name": "University Clinical Centre of Serbia",
     "country": "Serbia",
     "retracted_record_ids": [
       "8237",
-      "9613",
-      "35543"
+      "35543",
+      "9613"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d117",
-      "Record ID": "8237",
-      "Title": "Catheter ablation for atrial flutter: a survey by the European Heart Rhythm Association and Canadian Heart Rhythm Society",
-      "Subject": [
+      "_id": "687cefc21f662220d898bac4",
+      "recordId": "35543",
+      "title": "The risk-benefit assessment of liver biopsy in times of non-invasive screening for liver fibrosis",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Gastroenterology"
+      ],
+      "institution": [
+        "Clinic of Gastroenterology and Hepatology, Clinical Center of Serbia, Belgrade, Serbia",
+        "Faculty of Medicine, University of Belgrade, Belgrade, Serbia"
+      ],
+      "journal": "Journal of Hepatology",
+      "publisher": "Elsevier",
+      "country": [
+        "Serbia"
+      ],
+      "author": [
+        "Ivana Ilic",
+        "Tamara Milovanovic"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/15/2022 0:00",
+      "retractiondoi": "10.1016/j.jhep.2021.12.007",
+      "retractionpubmedid": "35180980.0",
+      "originalpaperdate": "6/14/2020 0:00",
+      "originalpaperdoi": "10.1016/j.jhep.2020.05.017",
+      "originalpaperpubmedid": "32546400.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991fae",
+      "recordId": "9613",
+      "title": "Klinicko terapijske specificnosti shizofrenije s prodromima i ranim pocetkom - model rizicnog mentalnog stanja i shizofrene vulnerabilnosti",
+      "subject": [
+        "(HSC) Medicine - Psychiatry",
+        "(SOC) Ethics/Bioethics"
+      ],
+      "institution": [
+        "Medicinski fakultet u Beogradu, Klinika za psihijatriju, Klinicki Centar Srbije, Beograd"
+      ],
+      "journal": "European Journal of Bioethics",
+      "publisher": "Open Journal Systems",
+      "country": [
+        "Serbia"
+      ],
+      "author": [
+        "Aleksandar Damjanovic",
+        "Aleksandra Damjanovic",
+        "Radan Stojanovic",
+        "Milica Prostran"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2016 0:00",
+      "originalpaperdate": "1/1/2013 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Journal/Publisher",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d89924fd",
+      "recordId": "8237",
+      "title": "Catheter ablation for atrial flutter: a survey by the European Heart Rhythm Association and Canadian Heart Rhythm Society",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cardiology, Queen's University, Kingston, ON, Canada",
         "Department of Heart Disease, Haukeland University Hospital and Department of Clinical Science, University of Bergen, 5021 Bergen, Norway",
         "Department of Cardiology, Queen's University, Kingston, ON, Canada",
@@ -34,16 +112,16 @@
         "Division of Cardiology, University of Western Ontario, London, ON, Canada",
         "Department of Electrophysiology, University Leipzig-Heart Center, Leipzig, Germany"
       ],
-      "Journal": "Europace",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Europace",
+      "publisher": "Oxford Academic",
+      "country": [
         "Canada",
         "France",
         "Germany",
         "Norway",
         "Serbia"
       ],
-      "Author": [
+      "author": [
         "Benedict M Glover",
         "Jian Chen",
         "Kathryn L Hong",
@@ -58,107 +136,33 @@
         "Peter Leong-Sit",
         "Nikolaos Dagres"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/5/2017 0:00",
-      "OriginalPaperDate": "1/5/2017 0:00",
-      "OriginalPaperDOI": "10.1093/europace/euw392",
-      "OriginalPaperPubMedID": "28057775.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/5/2017 0:00",
+      "originalpaperdate": "1/5/2017 0:00",
+      "originalpaperdoi": "10.1093/europace/euw392",
+      "originalpaperpubmedid": "28057775.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "Notes": "1. Article published with 2 different DOIs",
-      "notice_year": 2017,
-      "year": 2017
-    },
-    {
-      "_id": "6855d574b14f7811d234cbc8",
-      "Record ID": "9613",
-      "Title": "Klinicko terapijske specificnosti shizofrenije s prodromima i ranim pocetkom - model rizicnog mentalnog stanja i shizofrene vulnerabilnosti",
-      "Subject": [
-        "(HSC) Medicine - Psychiatry",
-        "(SOC) Ethics/Bioethics"
-      ],
-      "Institution": [
-        "Medicinski fakultet u Beogradu, Klinika za psihijatriju, Klinicki Centar Srbije, Beograd"
-      ],
-      "Journal": "European Journal of Bioethics",
-      "Publisher": "Open Journal Systems",
-      "Country": [
-        "Serbia"
-      ],
-      "Author": [
-        "Aleksandar Damjanovic",
-        "Aleksandra Damjanovic",
-        "Radan Stojanovic",
-        "Milica Prostran"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2016 0:00",
-      "OriginalPaperDate": "1/1/2013 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Journal/Publisher",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2013,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23466de",
-      "Record ID": "35543",
-      "Title": "The risk-benefit assessment of liver biopsy in times of non-invasive screening for liver fibrosis",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Gastroenterology"
-      ],
-      "Institution": [
-        "Clinic of Gastroenterology and Hepatology, Clinical Center of Serbia, Belgrade, Serbia",
-        "Faculty of Medicine, University of Belgrade, Belgrade, Serbia"
-      ],
-      "Journal": "Journal of Hepatology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Serbia"
-      ],
-      "Author": [
-        "Ivana Ilic",
-        "Tamara Milovanovic"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/15/2022 0:00",
-      "RetractionDOI": "10.1016/j.jhep.2021.12.007",
-      "RetractionPubMedID": "35180980.0",
-      "OriginalPaperDate": "6/14/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.jhep.2020.05.017",
-      "OriginalPaperPubMedID": "32546400.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "1. Article published with 2 different DOIs",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -166,43 +170,43 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

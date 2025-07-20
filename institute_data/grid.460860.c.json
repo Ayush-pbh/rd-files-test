@@ -1,125 +1,127 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879e7b",
+    "_id": "687ccbab09adbf7aa61baa9c",
     "grid_id": "grid.460860.c",
     "institute_name": "Al Yarmouk University College",
     "country": "Iraq",
     "retracted_record_ids": [
-      "8840",
-      "5167"
+      "5167",
+      "8840"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234cec8",
-      "Record ID": "8840",
-      "Title": "A survey on human\u2013computer interaction technologies and techniques",
-      "Subject": [
+      "_id": "687cf0b81f662220d89922ae",
+      "recordId": "8840",
+      "title": "A survey on human\u2013computer interaction technologies and techniques",
+      "subject": [
         "(B/T) Computer Science",
         "(B/T) Data Science",
         "(SOC) Communications"
       ],
-      "Institution": [
+      "institution": [
         "College of Busniness Informatics, University of Information Technology and Communications, Baghdad, Iraq",
         "Faculty of Computer Science and Information of Technology, Univesity of Malaya, Kuala Lumpur, Malaysia",
         "Al Yarmouk University College, Diala, Iraq"
       ],
-      "Journal": "International Journal of Data Science and Analytics",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "International Journal of Data Science and Analytics",
+      "publisher": "Springer",
+      "country": [
         "Iraq",
         "Malaysia"
       ],
-      "Author": [
+      "author": [
         "Haitham Hasan Badi",
         "Mohammed Fadhel",
         "Sana Sabry",
         "Mohamed Jasem"
       ],
-      "URLS": "http://retractionwatch.com/2017/04/12/author-surprised-publisher-pulls-three-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/04/12/author-surprised-publisher-pulls-three-papers/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "3/13/2017 0:00",
-      "RetractionDOI": "10.1007/s41060-017-0047-0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/9/2016 0:00",
-      "OriginalPaperDOI": "10.1007/s41060-016-0018-x",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/13/2017 0:00",
+      "retractiondoi": "10.1007/s41060-017-0047-0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/9/2016 0:00",
+      "originalpaperdoi": "10.1007/s41060-016-0018-x",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Journal/Publisher",
         "+Objections by Author(s)",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "Notes": "H Badi also listed as H Hasan in some publications;",
-      "notice_year": 2017,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "H Badi also listed as H Hasan in some publications;",
+      "year": "2016",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dce0",
-      "Record ID": "5167",
-      "Title": "Feature Extraction and ML Techniques for Static Gesture Recognition",
-      "Subject": [
+      "_id": "687cf0c51f662220d89930c6",
+      "recordId": "5167",
+      "title": "Feature Extraction and ML Techniques for Static Gesture Recognition",
+      "subject": [
         "(B/T) Computer Science",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Faculty of Computer Science and Information of Technology, University of Malaya, Kuala Lumpur, Malaysia",
         "Al Yarmouk University College, Baghdad, Iraq"
       ],
-      "Journal": "Neural Computing and Applications",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Neural Computing and Applications",
+      "publisher": "Springer",
+      "country": [
         "Iraq",
         "Malaysia"
       ],
-      "Author": [
+      "author": [
         "Haitham Hasan Badi",
         "Sabah Hasan Hussein",
         "Sameem Abdul Kareem"
       ],
-      "URLS": "http://retractionwatch.com/2017/04/12/author-surprised-publisher-pulls-three-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/04/12/author-surprised-publisher-pulls-three-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/15/2017 0:00",
-      "RetractionDOI": "10.1007/s00521-017-2868-0",
-      "OriginalPaperDate": "1/18/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s00521-013-1540-6",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/15/2017 0:00",
+      "retractiondoi": "10.1007/s00521-017-2868-0",
+      "originalpaperdate": "1/18/2014 0:00",
+      "originalpaperdoi": "10.1007/s00521-013-1540-6",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Text",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "Notes": "aka Haitham Hasan;",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "aka Haitham Hasan;",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -127,10 +129,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

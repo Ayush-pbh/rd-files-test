@@ -1,40 +1,147 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068783d8",
+    "_id": "687ccbab09adbf7aa61b8ff9",
     "grid_id": "grid.419265.d",
     "institute_name": "National Center for Nanoscience and Technology",
     "country": "China",
     "retracted_record_ids": [
-      "45124",
-      "3712",
       "47872",
       "57589",
+      "40953",
+      "3712",
+      "45124",
       "40921",
-      "40647",
       "5413",
-      "40953"
+      "40647"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23441ad",
-      "Record ID": "45124",
-      "Title": "Highly Sensitive MoS2 Humidity Sensors Array for Noncontact Sensation",
-      "Subject": [
+      "_id": "687cef6f1f662220d898650e",
+      "recordId": "57589",
+      "title": "Magnetic polydopamine decorated with Mg\u2013Al LDH nanoflakes as a novel bio-based adsorbent for simultaneous removal of potentially toxic metals and anionic dyes",
+      "subject": [
+        "(BLS) Toxicology",
+        "(ENV) Environmental Sciences",
+        "(PHY) Materials Science",
+        "(PHY) Nanotechnology"
+      ],
+      "institution": [
+        "School of Environment and Chemical Engineering, North China Electric Power University, Beijing 102206, P. R. China",
+        "Key Laboratory of Petroleum Resources, Gansu Province/Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences, Lanzhou 730000, P. R. China",
+        "Laboratory for Nanomaterials National Center for Nanoscience and Technology, Beijing, 100190, P. R. China",
+        "Key Laboratory of Novel Thin Film Solar Cells, Institute of Plasma Physics, Chinese Academy of Sciences, Hefei 230031, P. R. China",
+        "Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions, School for Radiological and Interdisciplinary Sciences, Soochow University, Suzhou 215123, P. R. China",
+        "NAAM Research Group, Faculty of Science, King Abdulaziz University, Jeddah 21589, Saudi Arabia"
+      ],
+      "journal": "Journal of Materials Chemistry A",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
+        "China",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Jie Li",
+        "Qiaohui Fan",
+        "Yijin Wu",
+        "Xiangxue Wang",
+        "Changlun Chen",
+        "Zhiyong Tang",
+        "Xiangke Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/12/2022 0:00",
+      "retractiondoi": "10.1039/D2TA90293A",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/23/2015 0:00",
+      "originalpaperdoi": "10.1039/C5TA09132B",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef961f662220d8988adf",
+      "recordId": "47872",
+      "title": "Nanoscale Metal-Organic Framework Mediates Radical Therapy to Enhance Cancer Immunotherapy",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Drug Design",
+        "(PHY) Nanotechnology"
+      ],
+      "institution": [
+        "Department of Chemistry, The University of Chicago, Chicago, IL 60637, USA",
+        "Department of Radiation and Cellular Oncology and The Ludwig Center for Metastasis Research, The University of Chicago, Chicago, IL 60637, USA",
+        "Laboratory of Controllable Nanopharmaceuticals, Chinese Academy of Sciences (CAS), Center for Excellence in Nanoscience and CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, National Center for Nanoscience and Technology of China, No. 11 First North Road, Zhongguancun, Beijing 100190, People\u2019s Republic of China",
+        "University of Chinese Academy of Sciences, Beijing 100049, People\u2019s Republic of China"
+      ],
+      "journal": "Chem",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Kaiyuan Ni",
+        "Theint Aung",
+        "Shuyi Li",
+        "Nina Fatuzzo",
+        "Xingjie Liang",
+        "Wenbin Lin"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/9/2023 0:00",
+      "retractiondoi": "10.1016/j.chempr.2023.02.003",
+      "retractionpubmedid": "37794982.0",
+      "originalpaperdate": "6/17/2019 0:00",
+      "originalpaperdoi": "10.1016/j.chempr.2019.05.013",
+      "originalpaperpubmedid": "31384694.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/44A2C2BA17E06385071BF5863340F1",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa01f662220d8989593",
+      "recordId": "45124",
+      "title": "Highly Sensitive MoS2 Humidity Sensors Array for Noncontact Sensation",
+      "subject": [
         "(PHY) Engineering - Chemical"
       ],
-      "Institution": [
+      "institution": [
         "Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China",
         "Bejing Institute of Nanoenrgy and Nanosystems, Chinese Academy of Sciences, National Center for Nanoscience and Technology (NCNST), Beijing 100190, China",
         "School of Physical Sciences, University of Chinese Academy of Sciences, Beijing 100083. China",
         "Collaborative Innovation Center of Quantum Matter, Beijing Key Laboratory for Nanomaterials and Nanodevices, Beijing, 100190 China"
       ],
-      "Journal": "Advanced Materials",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Advanced Materials",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Jing Zhao",
         "Na Li",
         "Zheng Wei",
@@ -45,332 +152,36 @@
         "Qijun Sun",
         "Guangyu Zhang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/8/2023 0:00",
-      "RetractionDOI": "10.1002/adma.202302631",
-      "RetractionPubMedID": "37287437.0",
-      "OriginalPaperDate": "7/10/2017 0:00",
-      "OriginalPaperDOI": "10.1002/adma.201702076",
-      "OriginalPaperPubMedID": "28692765.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/8/2023 0:00",
+      "retractiondoi": "10.1002/adma.202302631",
+      "retractionpubmedid": "37287437.0",
+      "originalpaperdate": "7/10/2017 0:00",
+      "originalpaperdoi": "10.1002/adma.201702076",
+      "originalpaperpubmedid": "28692765.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e276",
-      "Record ID": "3712",
-      "Title": "Metallofullerol nanoparticles with low toxicity inhibit tumor growth by induction of G0/G1 arrest",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials & Nanosafety, National Center for Nanoscience & Technology of China, Beijing 100190, China",
-        "Center for Evidence-Based Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 100029, China",
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials & Nanosafety & Key Laboratory for Nuclear Techniques, Institute of High Energy Physics, Chinese Academy of Sciences (CAS), Beijing 100049, China"
-      ],
-      "Journal": "Nanomedicine",
-      "Publisher": "Future Medicine - Future Science Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Jie Meng",
-        "Jianmin Xing",
-        "Xiaowei Ma",
-        "Weipeng Cao",
-        "Juan Lu",
-        "Yingze Wang",
-        "Xueyun Gao",
-        "Baoyun Sun",
-        "Xingjie Liang",
-        "Yuliang Zhao"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/1/2013 0:00",
-      "RetractionDOI": "10.2217/nnm.13.127",
-      "RetractionPubMedID": "23914970.0",
-      "OriginalPaperDate": "8/31/2012 0:00",
-      "OriginalPaperDOI": "10.2217/nnm.12.95",
-      "OriginalPaperPubMedID": "23914970.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23436f9",
-      "Record ID": "47872",
-      "Title": "Nanoscale Metal-Organic Framework Mediates Radical Therapy to Enhance Cancer Immunotherapy",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Drug Design",
-        "(PHY) Nanotechnology"
-      ],
-      "Institution": [
-        "Department of Chemistry, The University of Chicago, Chicago, IL 60637, USA",
-        "Department of Radiation and Cellular Oncology and The Ludwig Center for Metastasis Research, The University of Chicago, Chicago, IL 60637, USA",
-        "Laboratory of Controllable Nanopharmaceuticals, Chinese Academy of Sciences (CAS), Center for Excellence in Nanoscience and CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, National Center for Nanoscience and Technology of China, No. 11 First North Road, Zhongguancun, Beijing 100190, People\u2019s Republic of China",
-        "University of Chinese Academy of Sciences, Beijing 100049, People\u2019s Republic of China"
-      ],
-      "Journal": "Chem",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Kaiyuan Ni",
-        "Theint Aung",
-        "Shuyi Li",
-        "Nina Fatuzzo",
-        "Xingjie Liang",
-        "Wenbin Lin"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/9/2023 0:00",
-      "RetractionDOI": "10.1016/j.chempr.2023.02.003",
-      "RetractionPubMedID": "37794982.0",
-      "OriginalPaperDate": "6/17/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.chempr.2019.05.013",
-      "OriginalPaperPubMedID": "31384694.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/44A2C2BA17E06385071BF5863340F1",
-      "notice_year": 2023,
-      "year": 2019
-    },
-    {
-      "_id": "6855d574b14f7811d2341128",
-      "Record ID": "57589",
-      "Title": "Magnetic polydopamine decorated with Mg\u2013Al LDH nanoflakes as a novel bio-based adsorbent for simultaneous removal of potentially toxic metals and anionic dyes",
-      "Subject": [
-        "(BLS) Toxicology",
-        "(ENV) Environmental Sciences",
-        "(PHY) Materials Science",
-        "(PHY) Nanotechnology"
-      ],
-      "Institution": [
-        "School of Environment and Chemical Engineering, North China Electric Power University, Beijing 102206, P. R. China",
-        "Key Laboratory of Petroleum Resources, Gansu Province/Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences, Lanzhou 730000, P. R. China",
-        "Laboratory for Nanomaterials National Center for Nanoscience and Technology, Beijing, 100190, P. R. China",
-        "Key Laboratory of Novel Thin Film Solar Cells, Institute of Plasma Physics, Chinese Academy of Sciences, Hefei 230031, P. R. China",
-        "Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions, School for Radiological and Interdisciplinary Sciences, Soochow University, Suzhou 215123, P. R. China",
-        "NAAM Research Group, Faculty of Science, King Abdulaziz University, Jeddah 21589, Saudi Arabia"
-      ],
-      "Journal": "Journal of Materials Chemistry A",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "China",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Jie Li",
-        "Qiaohui Fan",
-        "Yijin Wu",
-        "Xiangxue Wang",
-        "Changlun Chen",
-        "Zhiyong Tang",
-        "Xiangke Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/12/2022 0:00",
-      "RetractionDOI": "10.1039/D2TA90293A",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/23/2015 0:00",
-      "OriginalPaperDOI": "10.1039/C5TA09132B",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345205",
-      "Record ID": "40921",
-      "Title": "Cell membrane based biomimetic nanocomposites for targeted therapy of drug resistant EGFR-mutated lung cancer",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety & CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology of China, Beijing 100190, China",
-        "Key Laboratory of Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, College of Life Sciences, Shaanxi Normal University, Xi'an, Shaanxi, China",
-        "Department of Thoracic Surgery, General Hospital of the Chinese People's Liberation Army, Beijing, China",
-        "Department of Thoracic Surgery, Rocket Force Characteristic Medical Center of the Chinese People's Liberation Army, Beijing, China",
-        "The College of Life Sciences, Northwest University, Xi'an 710069, China"
-      ],
-      "Journal": "Nanoscale",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Pengying Wu",
-        "Dongtao Yin",
-        "Jiaming Liu",
-        "Huige Zhou",
-        "Mengyu Guo",
-        "Jing Liu",
-        "Yang Liu",
-        "Xiaobing Wang",
-        "Ying Liu",
-        "Chunying Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/29/2022 0:00",
-      "RetractionDOI": "10.1039/d2nr90232j",
-      "RetractionPubMedID": "36444827.0",
-      "OriginalPaperDate": "10/1/2019 0:00",
-      "OriginalPaperDOI": "10.1039/c9nr05791a",
-      "OriginalPaperPubMedID": "31573595.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Duplication of/in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/DE85E8D7CC20208DE264A51C58BBC9",
-      "notice_year": 2022,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345316",
-      "Record ID": "40647",
-      "Title": "Enhanced anti-tumor efficacy of hyaluronic acid modified nanocomposites combined with sonochemotherapy against subcutaneous and metastatic breast tumors",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Key Laboratory of Biomedical Information Engineering of Ministry of Education, and Department of Biomedical Engineering, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, PR China",
-        "Key Laboratory of Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, College of Life Sciences, Shaanxi Normal University, Xi'an, Shaanxi 710119, PR China",
-        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety & CAS Center for Excellence in Nanosciences, National Center for Nanoscience and Technology of China, No. 11 Beiyitiao, Zhongguancun, Beijing 100190, PR China"
-      ],
-      "Journal": "Nanoscale",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Pengying Wu",
-        "Yue Sun",
-        "Wei Dong",
-        "Huige Zhou",
-        "Shifang Guo",
-        "Lei Zhang",
-        "Xiaobing Wang",
-        "Mingxi Wan",
-        "Yujin Zong"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/15/2022 0:00",
-      "RetractionDOI": "10.1039/d2nr90218d",
-      "RetractionPubMedID": "36377746.0",
-      "OriginalPaperDate": "6/20/2019 0:00",
-      "OriginalPaperDOI": "10.1039/c9nr01691k",
-      "OriginalPaperPubMedID": "31124554.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2019
-    },
-    {
-      "_id": "6855d574b14f7811d234dbf1",
-      "Record ID": "5413",
-      "Title": "3D small molecule microarray with enhanced sensitivity and immobilization capacity monitored by surface plasmon resonance imaging",
-      "Subject": [
-        "(PHY) Chemistry"
-      ],
-      "Institution": [
-        "National Center for Nanoscience and Technology, Beijing 100190, People's Republic of China University of Chinese Academy of Sciences, Beijing, People's Republic of China"
-      ],
-      "Journal": "RSC Advances",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Vikramjeet Singh",
-        "Jinsong Zhu",
-        "Amita Nand",
-        "Zhiqiang Cheng",
-        "Yang Mo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/15/2016 0:00",
-      "RetractionDOI": "10.1039/C6RA90130A",
-      "OriginalPaperDate": "8/11/2014 0:00",
-      "OriginalPaperDOI": "10.1039/C4RA07306A",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Materials",
-        "+Results Not Reproducible",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23451e6",
-      "Record ID": "40953",
-      "Title": "A solid ultrasonic coupling membrane for superficial vascular ultrasonography",
-      "Subject": [
+      "_id": "687cefb11f662220d898a5cc",
+      "recordId": "40953",
+      "title": "A solid ultrasonic coupling membrane for superficial vascular ultrasonography",
+      "subject": [
         "(HSC) Radiology/Imaging",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "GBA National Institute for Nanotechnology Innovation, Guangzhou, Guangdong 510700, P.R. China",
         "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety & CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology of China, Beijing 100190, P.R. China",
         "Department of Vascular and Endovascular Surgery, Chinese PLA General Hospital, Beijing 100853, P.R. China",
@@ -378,12 +189,12 @@
         "Department of Echocardiography, Peking University Third Hospital, Beijing 100191, P.R. China",
         "PLA Rocket Force Characteristics Medical Center, Beijing 100888, P.R. China"
       ],
-      "Journal": "Nanoscale",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
+      "journal": "Nanoscale",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Di Sun",
         "Jie Liu",
         "Lijuan Xue",
@@ -399,34 +210,233 @@
         "Ying Liu",
         "Chunying Chen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/30/2022 0:00",
-      "RetractionDOI": "10.1039/d2nr90233h",
-      "RetractionPubMedID": "36448507.0",
-      "OriginalPaperDate": "2/11/2022 0:00",
-      "OriginalPaperDOI": "10.1039/d1nr05353a",
-      "OriginalPaperPubMedID": "35174834.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/30/2022 0:00",
+      "retractiondoi": "10.1039/d2nr90233h",
+      "retractionpubmedid": "36448507.0",
+      "originalpaperdate": "2/11/2022 0:00",
+      "originalpaperdoi": "10.1039/d1nr05353a",
+      "originalpaperpubmedid": "35174834.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb11f662220d898a5eb",
+      "recordId": "40921",
+      "title": "Cell membrane based biomimetic nanocomposites for targeted therapy of drug resistant EGFR-mutated lung cancer",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety & CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology of China, Beijing 100190, China",
+        "Key Laboratory of Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, College of Life Sciences, Shaanxi Normal University, Xi'an, Shaanxi, China",
+        "Department of Thoracic Surgery, General Hospital of the Chinese People's Liberation Army, Beijing, China",
+        "Department of Thoracic Surgery, Rocket Force Characteristic Medical Center of the Chinese People's Liberation Army, Beijing, China",
+        "The College of Life Sciences, Northwest University, Xi'an 710069, China"
+      ],
+      "journal": "Nanoscale",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Pengying Wu",
+        "Dongtao Yin",
+        "Jiaming Liu",
+        "Huige Zhou",
+        "Mengyu Guo",
+        "Jing Liu",
+        "Yang Liu",
+        "Xiaobing Wang",
+        "Ying Liu",
+        "Chunying Chen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/29/2022 0:00",
+      "retractiondoi": "10.1039/d2nr90232j",
+      "retractionpubmedid": "36444827.0",
+      "originalpaperdate": "10/1/2019 0:00",
+      "originalpaperdoi": "10.1039/c9nr05791a",
+      "originalpaperpubmedid": "31573595.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Duplication of/in Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/DE85E8D7CC20208DE264A51C58BBC9",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb11f662220d898a6fc",
+      "recordId": "40647",
+      "title": "Enhanced anti-tumor efficacy of hyaluronic acid modified nanocomposites combined with sonochemotherapy against subcutaneous and metastatic breast tumors",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Key Laboratory of Biomedical Information Engineering of Ministry of Education, and Department of Biomedical Engineering, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, PR China",
+        "Key Laboratory of Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, College of Life Sciences, Shaanxi Normal University, Xi'an, Shaanxi 710119, PR China",
+        "CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety & CAS Center for Excellence in Nanosciences, National Center for Nanoscience and Technology of China, No. 11 Beiyitiao, Zhongguancun, Beijing 100190, PR China"
+      ],
+      "journal": "Nanoscale",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Pengying Wu",
+        "Yue Sun",
+        "Wei Dong",
+        "Huige Zhou",
+        "Shifang Guo",
+        "Lei Zhang",
+        "Xiaobing Wang",
+        "Mingxi Wan",
+        "Yujin Zong"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/15/2022 0:00",
+      "retractiondoi": "10.1039/d2nr90218d",
+      "retractionpubmedid": "36377746.0",
+      "originalpaperdate": "6/20/2019 0:00",
+      "originalpaperdoi": "10.1039/c9nr01691k",
+      "originalpaperpubmedid": "31124554.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992fd7",
+      "recordId": "5413",
+      "title": "3D small molecule microarray with enhanced sensitivity and immobilization capacity monitored by surface plasmon resonance imaging",
+      "subject": [
+        "(PHY) Chemistry"
+      ],
+      "institution": [
+        "National Center for Nanoscience and Technology, Beijing 100190, People's Republic of China University of Chinese Academy of Sciences, Beijing, People's Republic of China"
+      ],
+      "journal": "RSC Advances",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Vikramjeet Singh",
+        "Jinsong Zhu",
+        "Amita Nand",
+        "Zhiqiang Cheng",
+        "Yang Mo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/15/2016 0:00",
+      "retractiondoi": "10.1039/C6RA90130A",
+      "originalpaperdate": "8/11/2014 0:00",
+      "originalpaperdoi": "10.1039/C4RA07306A",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Materials",
+        "+Results Not Reproducible",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d899365c",
+      "recordId": "3712",
+      "title": "Metallofullerol nanoparticles with low toxicity inhibit tumor growth by induction of G0/G1 arrest",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "CAS Key Laboratory for Biomedical Effects of Nanomaterials & Nanosafety, National Center for Nanoscience & Technology of China, Beijing 100190, China",
+        "Center for Evidence-Based Chinese Medicine, Beijing University of Chinese Medicine, Beijing, 100029, China",
+        "CAS Key Laboratory for Biomedical Effects of Nanomaterials & Nanosafety & Key Laboratory for Nuclear Techniques, Institute of High Energy Physics, Chinese Academy of Sciences (CAS), Beijing 100049, China"
+      ],
+      "journal": "Nanomedicine",
+      "publisher": "Future Medicine - Future Science Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jie Meng",
+        "Jianmin Xing",
+        "Xiaowei Ma",
+        "Weipeng Cao",
+        "Juan Lu",
+        "Yingze Wang",
+        "Xueyun Gao",
+        "Baoyun Sun",
+        "Xingjie Liang",
+        "Yuliang Zhao"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/1/2013 0:00",
+      "retractiondoi": "10.2217/nnm.13.127",
+      "retractionpubmedid": "23914970.0",
+      "originalpaperdate": "8/31/2012 0:00",
+      "originalpaperdoi": "10.2217/nnm.12.95",
+      "originalpaperpubmedid": "23914970.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -434,87 +444,87 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

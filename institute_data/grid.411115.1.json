@@ -1,40 +1,85 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879cf2",
+    "_id": "687ccbab09adbf7aa61ba913",
     "grid_id": "grid.411115.1",
     "institute_name": "Hospital of the University of Pennsylvania",
     "country": "United States",
     "retracted_record_ids": [
+      "2400",
       "9164",
-      "3143",
-      "17163",
       "472",
-      "2400"
+      "17163",
+      "3143"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234cd87",
-      "Record ID": "9164",
-      "Title": "Quantitative assessment of background parenchymal enhancement in breast MRI predicts response to risk-reducing salpingo-oophorectomy: preliminary evaluation in a cohort of BRCA1/2 mutation carriers",
-      "Subject": [
+      "_id": "687cf0941f662220d8990249",
+      "recordId": "17163",
+      "title": "Novel Determinants of Tumour Radiosensitivity Post-Large-Scale Compound Library Screening",
+      "subject": [
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Institute of Neurological Sciences, Department of Radiology, Division of Nuclear Medicine, Hospital of the University of Pennsylvania, Philadelphia, USA"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Benjamin Jacob Hayempour",
+        "Abdulaziz F Al Mana",
+        "Anand S Patel"
+      ],
+      "urls": "http://retractionwatch.com/2014/01/17/author-who-threatened-to-sue-retraction-watch-has-another-paper-withdrawn/;http://retractionwatch.com/2014/01/22/journal-reveals-real-reason-for-retraction-of-paper-by-author-who-threatened-to-sue-retraction-watch/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/17/2014 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/13/2014 0:00",
+      "originalpaperdoi": "10.7759/cureus.155",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Copyright Claims",
+        "+Notice - Lack of",
+        "+Objections by Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b61f662220d899216d",
+      "recordId": "9164",
+      "title": "Quantitative assessment of background parenchymal enhancement in breast MRI predicts response to risk-reducing salpingo-oophorectomy: preliminary evaluation in a cohort of BRCA1/2 mutation carriers",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Department of Radiology, Hospital of the University of Pennsylvania, 1 Silverstein Building, 3400 Spruce Street, Philadelphia, PA 19104, USA",
         "Department of Biostatistics and Epidemiology, Perelman School of Medicine, University of Pennsylvania, 203 Blockley Hall, 423 Guardian Drive, Philadelphia, PA, USA",
         "Department of Medicine, Hospital of the University of Pennsylvania, 3400 Civic Center Boulevard, 3 West Pavilion, Philadelphia, PA 19104, USA",
         "Imaging Research Division, Department of Radiology, University of Pittsburgh, 3362 Fifth Avenue, Pittsburgh, PA 15213, USA"
       ],
-      "Journal": "Breast Cancer Research: BCR",
-      "Publisher": "BioMed Central (BMC)",
-      "Country": [
+      "journal": "Breast Cancer Research: BCR",
+      "publisher": "BioMed Central (BMC)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Shandong Wu",
         "Susan P Weinstein",
         "Michael J III DeLeo",
@@ -43,134 +88,140 @@
         "Susan M Domchek",
         "Despina Kontos"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/24/2015 0:00",
-      "RetractionDOI": "10.1186/s13058-015-0651-7",
-      "RetractionPubMedID": "26603870.0",
-      "OriginalPaperDate": "5/19/2015 0:00",
-      "OriginalPaperDOI": "10.1186/s13058-015-0577-0",
-      "OriginalPaperPubMedID": "25986460.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "11/24/2015 0:00",
+      "retractiondoi": "10.1186/s13058-015-0651-7",
+      "retractionpubmedid": "26603870.0",
+      "originalpaperdate": "5/19/2015 0:00",
+      "originalpaperdoi": "10.1186/s13058-015-0577-0",
+      "originalpaperpubmedid": "25986460.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e4a1",
-      "Record ID": "3143",
-      "Title": "Neuroradiological Advances Detect Abnormal Neuroanatomy Underlying Neuropsychological Impairments: The Power of PET Imaging",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993887",
+      "recordId": "3143",
+      "title": "Neuroradiological Advances Detect Abnormal Neuroanatomy Underlying Neuropsychological Impairments: The Power of PET Imaging",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Neuroscience",
         "(HSC) Radiology/Imaging",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Neurological Sciences, Department of Radiology, Division of Nuclear Medicine, Hospital of the University of Pennsylvania, Philadelphia, USA"
       ],
-      "Journal": "European Journal of Nuclear Medicine and Molecular Imaging",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Benjamin Jacob Hayempour",
         "Abass Alavi"
       ],
-      "URLS": "http://retractionwatch.com/2013/12/04/retraction-prompts-letter-of-explanation-by-co-author-and-a-legal-threat-against-retraction-watch/;http://retractionwatch.com/2014/01/17/author-who-threatened-to-sue-retraction-watch-has-another-paper-withdrawn/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/12/04/retraction-prompts-letter-of-explanation-by-co-author-and-a-legal-threat-against-retraction-watch/;http://retractionwatch.com/2014/01/17/author-who-threatened-to-sue-retraction-watch-has-another-paper-withdrawn/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/9/2013 0:00",
-      "RetractionDOI": "10.1007/s00259-013-2613-6",
-      "RetractionPubMedID": "24213620.0",
-      "OriginalPaperDate": "4/11/2013 0:00",
-      "OriginalPaperDOI": "10.1007/s00259-013-2401-3",
-      "OriginalPaperPubMedID": "23576100.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/9/2013 0:00",
+      "retractiondoi": "10.1007/s00259-013-2613-6",
+      "retractionpubmedid": "24213620.0",
+      "originalpaperdate": "4/11/2013 0:00",
+      "originalpaperdoi": "10.1007/s00259-013-2401-3",
+      "originalpaperpubmedid": "23576100.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Legal Reasons and/or Threats",
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ae63",
-      "Record ID": "17163",
-      "Title": "Novel Determinants of Tumour Radiosensitivity Post-Large-Scale Compound Library Screening",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993b5e",
+      "recordId": "2400",
+      "title": "The diagnostic performance of 18F-FDG PET in detecting bone marrow infiltration in Hodgkin's lymphoma and diffuse large B-cell lymphoma: a meta-analysis",
+      "subject": [
         "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pathology",
-        "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
-        "Institute of Neurological Sciences, Department of Radiology, Division of Nuclear Medicine, Hospital of the University of Pennsylvania, Philadelphia, USA"
+      "institution": [
+        "Radiology Department, Beijing Friendship Hospital of Capital Medical University, Beijing, 100050, China",
+        "Department of Radiology Hospital of the University of Pennsylvania, Philadelphia USA",
+        "Nuclear Medicine Department Beijing Friendship Hospital of Capital Medical University Beijing, China"
       ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
+      "journal": "Skeletal Radiology",
+      "publisher": "Springer",
+      "country": [
+        "China",
         "United States"
       ],
-      "Author": [
-        "Benjamin Jacob Hayempour",
-        "Abdulaziz F Al Mana",
-        "Anand S Patel"
+      "author": [
+        "Budong Chen",
+        "Dan Han",
+        "Benjamin H Ge",
+        "Chaunlin Le",
+        "Daqing Ma",
+        "Jigang Yang"
       ],
-      "URLS": "http://retractionwatch.com/2014/01/17/author-who-threatened-to-sue-retraction-watch-has-another-paper-withdrawn/;http://retractionwatch.com/2014/01/22/journal-reveals-real-reason-for-retraction-of-paper-by-author-who-threatened-to-sue-retraction-watch/",
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Meta-Analysis"
       ],
-      "RetractionDate": "1/17/2014 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/13/2014 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.155",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Copyright Claims",
-        "+Notice - Lack of",
-        "+Objections by Third Party"
+      "retractiondate": "2/1/2015 0:00",
+      "retractiondoi": "10.1007/s00256-014-1995-2",
+      "retractionpubmedid": "25194939.0",
+      "originalpaperdate": "9/7/2014 0:00",
+      "originalpaperdoi": "10.1007/s00256-014-1995-2",
+      "originalpaperpubmedid": "25194939.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234eed3",
-      "Record ID": "472",
-      "Title": "Noninvasive ventilation immediately after extubation improves lung function in morbidly obese patients with obstructive sleep apnea undergoing laparoscopic bariatric surgery",
-      "Subject": [
+      "_id": "687cf0d71f662220d89942b9",
+      "recordId": "472",
+      "title": "Noninvasive ventilation immediately after extubation improves lung function in morbidly obese patients with obstructive sleep apnea undergoing laparoscopic bariatric surgery",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Pulmonology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anaesthesia and Critical Care, Hospital of University of Pennsylvania, Philadelphia, Pennsylvania, USA",
         "Department of Anaesthesia and Intensive Care, University College Hospital, Galway, Ireland",
         "University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania, USA",
         "Department of Respiratory Care, Hospital of University of Pennsylvania, Philadelphia, Pennsylvania, USA",
         "Department of Surgery, Hospital of University of Pennsylvania, Philadelphia, Pennsylvania, USA"
       ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "Ireland",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Patrick J Neligan",
         "Guarav Malhotra",
         "Michael Fraser",
@@ -179,115 +230,69 @@
         "Maurizio Cereda",
         "E Andrew Ochroch"
       ],
-      "URLS": "http://retractionwatch.com/2010/08/04/redundancy-redux-anesthesia-journal-retracts-obesity-paper-in-self-plagiarism-case/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/08/04/redundancy-redux-anesthesia-journal-retracts-obesity-paper-in-self-plagiarism-case/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "8/1/2010 0:00",
-      "RetractionDOI": "10.1213/ANE.0b013e3181ef5e86",
-      "RetractionPubMedID": "20664094.0",
-      "OriginalPaperDate": "5/1/2010 0:00",
-      "OriginalPaperDOI": "10.1213/ANE.0b013e3181d5e3ef",
-      "OriginalPaperPubMedID": "20418299.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2010 0:00",
+      "retractiondoi": "10.1213/ANE.0b013e3181ef5e86",
+      "retractionpubmedid": "20664094.0",
+      "originalpaperdate": "5/1/2010 0:00",
+      "originalpaperdoi": "10.1213/ANE.0b013e3181d5e3ef",
+      "originalpaperpubmedid": "20418299.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Text"
       ],
-      "Paywalled": "No",
-      "Notes": "See also Retraction Letter by authors PMID: 20664097 DOI: 10.1213/ANE.0b013e3181e8c79e;",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e778",
-      "Record ID": "2400",
-      "Title": "The diagnostic performance of 18F-FDG PET in detecting bone marrow infiltration in Hodgkin's lymphoma and diffuse large B-cell lymphoma: a meta-analysis",
-      "Subject": [
-        "(HSC) Medicine - Oncology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Radiology Department, Beijing Friendship Hospital of Capital Medical University, Beijing, 100050, China",
-        "Department of Radiology Hospital of the University of Pennsylvania, Philadelphia USA",
-        "Nuclear Medicine Department Beijing Friendship Hospital of Capital Medical University Beijing, China"
-      ],
-      "Journal": "Skeletal Radiology",
-      "Publisher": "Springer",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Budong Chen",
-        "Dan Han",
-        "Benjamin H Ge",
-        "Chaunlin Le",
-        "Daqing Ma",
-        "Jigang Yang"
-      ],
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "2/1/2015 0:00",
-      "RetractionDOI": "10.1007/s00256-014-1995-2",
-      "RetractionPubMedID": "25194939.0",
-      "OriginalPaperDate": "9/7/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s00256-014-1995-2",
-      "OriginalPaperPubMedID": "25194939.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "See also Retraction Letter by authors PMID: 20664097 DOI: 10.1213/ANE.0b013e3181e8c79e;",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 1,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

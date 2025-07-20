@@ -1,635 +1,209 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879931",
+    "_id": "687ccbab09adbf7aa61ba552",
     "grid_id": "grid.462397.d",
     "institute_name": "Institut de Biologie Mol\u00e9culaire des Plantes",
     "country": "France",
     "retracted_record_ids": [
+      "9758",
+      "9727",
+      "9755",
+      "9350",
+      "9757",
+      "18162",
+      "2197",
+      "9721",
+      "2710",
+      "1083",
+      "19902",
+      "9722",
+      "9723",
+      "6744",
+      "5483",
+      "19903",
       "9351",
       "9725",
       "9779",
-      "9727",
-      "9755",
-      "9758",
-      "1083",
-      "9350",
-      "9722",
-      "9757",
-      "9721",
-      "2710",
-      "18162",
-      "22425",
-      "9723",
-      "6744",
       "2719",
-      "5483",
-      "19903",
-      "19902",
-      "2197"
+      "22425"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234cccc",
-      "Record ID": "9351",
-      "Title": "Transitivity in Arabidopsis can be primed, requires the redundant action of the antiviral Dicer-like 4 and Dicer-like 2, and is compromised by viral-encoded suppressor proteins",
-      "Subject": [
-        "(BLS) Biology - Cellular",
+      "_id": "687cf01a1f662220d898eddb",
+      "recordId": "22425",
+      "title": "Identification, subcellular localization and some properties of a cysteine-rich suppressor of gene silencing encoded by peanut clump virus",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS UPR2357, 67084 Strasbourg Cedex, France"
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS et de l'Universit\u00e9 Louis Pasteur, 12 Rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg, France",
+        "The Sainsbury Laboratory, John Innes Centre, Norwich, NR4 7UH, UK"
       ],
-      "Journal": "RNA",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Guillaume Moissiard",
-        "Eneida Abreu Parizotto",
-        "Christophe Himber",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/;http://retractionwatch.com/category/by-author/olivier-voinnet/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2016 0:00",
-      "RetractionDOI": "10.1261/rna.056366.116",
-      "RetractionPubMedID": "27090789.0",
-      "OriginalPaperDate": "6/25/2007 0:00",
-      "OriginalPaperDOI": "10.1261/rna.541307",
-      "OriginalPaperPubMedID": "17592042.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Image",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2016,
-      "year": 2007,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb58",
-      "Record ID": "9725",
-      "Title": "Differential effects of viral silencing suppressors on siRNA and miRNA loading support the existence of two distinct cellular pools of ARGONAUTE1",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "IBMP-CNRS, Strasbourg Cedex, France",
-        "Department of Biology, Swiss Federal Institute of Technology (ETH), Zurich, Switzerland"
-      ],
-      "Journal": "The EMBO Journal",
-      "Publisher": "EMBO Press",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Gregory Schott",
-        "Arturo Mari-Ordonez",
-        "Christophe Himber",
-        "Abdelmalek Alioua",
-        "Olivier Voinnet",
-        "Patrice Dunoyer"
-      ],
-      "URLS": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2015/08/19/embo-investigation-yields-two-more-retractions-and-three-corrections-for-voinnet/;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/20/2015 0:00",
-      "RetractionDOI": "10.15252/embj.201570070",
-      "RetractionPubMedID": "26294795.0",
-      "OriginalPaperDate": "4/24/2012 0:00",
-      "OriginalPaperDOI": "10.1038/emboj.2012.92",
-      "OriginalPaperPubMedID": "22531783.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb22",
-      "Record ID": "9779",
-      "Title": "Nuclear import of CaMV P6 is required for infection and suppression of the RNA silencing factor DRB4",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS UPR2353, Universit\u00e9 Louis Pasteur, Strasbourg, France",
-        "Laboratory of Molecular & Cellular Biology, Tokyo University of Agriculture & Technology, Tokyo, Japan"
-      ],
-      "Journal": "The EMBO Journal",
-      "Publisher": "EMBO Press",
-      "Country": [
+      "journal": "The Plant Journal",
+      "publisher": "Wiley",
+      "country": [
         "France",
-        "Japan"
-      ],
-      "Author": [
-        "Gabrielle Haas",
-        "Jacinthe Azevedo",
-        "Guillaume Moissiard",
-        "Ang\u00e8le Geldreich",
-        "Christophe Himber",
-        "Marina Bureau",
-        "Toshiyuki Fukuhara",
-        "Mario Keller",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/2015/08/19/embo-investigation-yields-two-more-retractions-and-three-corrections-for-voinnet/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/19/2015 0:00",
-      "RetractionDOI": "10.15252/embj.201570060",
-      "RetractionPubMedID": "2629033.0",
-      "OriginalPaperDate": "7/10/2008 0:00",
-      "OriginalPaperDOI": "10.1038/emboj.2008.129",
-      "OriginalPaperPubMedID": "18615098.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Vonnet responsible for image errors. Figure 4d considered retracted. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb56",
-      "Record ID": "9727",
-      "Title": "A plant miRNA contributes to antibacterial resistance by repressing auxin signaling",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "The Sainsbury Laboratory, John Innes Centre, Colney Lane, Norwich NR4 7UH, UK",
-        "Institut de Biologie Mol\u00e8culaire des Plantes du Centre National de la Recherche Scientifique, 67084 Strasbourg Cedex, France",
-        "John Innes Centre, Colney Lane, Norwich NR4 7UH, UK",
-        "Department of Biology, Indiana University, Bloomington, IN 47405, USA"
-      ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
-        "France",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Lionel Navarro",
-        "Patrice Dunoyer",
-        "Florience Jay",
-        "Benedict Arnold",
-        "Nihal Dharmasiri",
-        "Mark Estelle",
-        "Olivier Voinnet",
-        "Jonathan D G Jones"
-      ],
-      "URLS": "http://retractionwatch.com/2016/01/22/science-publishes-voinnets-19th-20th-and-21st-correction/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/?s=Patrice+Dunoyer",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/22/2016 0:00",
-      "RetractionDOI": "10.1126/science.aae0382",
-      "RetractionPubMedID": "26798018.0",
-      "OriginalPaperDate": "4/21/2006 0:00",
-      "OriginalPaperDOI": "10.1126/science.1126088",
-      "OriginalPaperPubMedID": "16627744.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "Patrice Dunoyer assumes responsibility for figure errors. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2016,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb3a",
-      "Record ID": "9755",
-      "Title": "Hierarchical action and inhibition of plant Dicer-like proteins in antiviral defense",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS Unit\u00e9 Propre de Recherche (UPR) 2357, 12, rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg Cedex, France",
-        "Center for Genome Research and Biocomputing, Oregon State University, Corvallis, OR 97331, USA"
-      ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Ang\u00e9lique Deleris",
-        "Javier Gallego-Bartolome",
-        "Jinsong Bao",
-        "Kristen D Kasschau",
-        "James C Carrington",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/22/science-publishes-voinnets-19th-20th-and-21st-correction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/22/2016 0:00",
-      "RetractionDOI": "10.1126/science.aaf2336",
-      "RetractionPubMedID": "26798021.0",
-      "OriginalPaperDate": "7/7/2006 0:00",
-      "OriginalPaperDOI": "10.1126/science.1128214",
-      "OriginalPaperPubMedID": "16741077.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm Olivier Voinnet assumes responsibility for image manipulations",
-      "notice_year": 2016,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb37",
-      "Record ID": "9758",
-      "Title": "Selective autophagy degrades DICER and AGO2 and regulates miRNA activity",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Swiss Federal Institute of Technology (ETH-Z), Department of Biology, Z\u00fcrich 8092, Switzerland",
-        "University of Ottawa, Department of Cellular and Molecular Medicine, Ottawa K1H 8M5, Canada",
-        "Institut Pasteur, Unit\u00e9 des Interactions Bact\u00e9ries-Cellules, D\u00e9partement de Biologie Cellulaire et Infection, 75015 Paris, France",
-        "Inserm, Unit\u00e9 604, 75015 Paris, France",
-        "INRA, USC2020, 75015 Paris, France",
-        "Section of Microbiology, MRC Centre for Molecular Bacteriology and Infection, Imperial College London, Armstrong Road, London SW7 2AZ, UK",
-        "Institut de G\u00e9n\u00e9tique et de Biologie Mol\u00e9culaire et Cellulaire, Centre National de la Recherche Scientifique, Unit\u00e9 Mixte de Recherche 7104, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale Unit\u00e9 964, 1 rue Laurent Fries, 67404 Illkirch, France",
-        "Institut de Biologie Mol\u00e9culaire des Plantes (IBMP), 12 rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg Cedex, France"
-      ],
-      "Journal": "Nature Cell Biology",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "Canada",
-        "France",
-        "Switzerland",
         "United Kingdom"
       ],
-      "Author": [
-        "Derrick Gibbings",
-        "Serge Mostowy",
-        "Florience Jay",
-        "Yannick Schwab",
-        "Pascale Cossart",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/",
-      "ArticleType": [
-        "Letter",
-        "Research Article"
-      ],
-      "RetractionDate": "7/10/2015 0:00",
-      "RetractionDOI": "10.1038/ncb3208",
-      "RetractionPubMedID": "26239531.0",
-      "OriginalPaperDate": "11/11/2012 0:00",
-      "OriginalPaperDOI": "10.1038/ncb2611",
-      "OriginalPaperPubMedID": "23143396.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ec7e",
-      "Record ID": "1083",
-      "Title": "Competition for XPO5 binding between Dicer mRNA, pre-miRNA and viral RNA regulates human Dicer levels",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Centre National de la Recherche Scientifique (CNRS), Institut de G\u00e9n\u00e9tique Humaine UPR1142, Laboratoire de Virologie Mol\u00e9culaire, Montpellier, France",
-        "Institut de Biologie Mol\u00e9culaire des Plantes (IBMP), CNRS, Universit\u00e9 de Strasbourg, Strasbourg, France",
-        "Institut Jacques Monod, Universit\u00e9 Paris Diderot, CNRS, Paris, France",
-        "Institut de G\u00e9n\u00e9tique Mol\u00e9culaire de Montpellier, Universit\u00e9s de Montpellier I & II, Montpellier, France"
-      ],
-      "Journal": "Nature Structural & Molecular Biology",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Yamina Bennasser",
-        "Christine Chable-Bessia",
-        "Robinson Triboulet",
-        "Derrick Gibbings",
-        "Carole Gwizdek",
-        "Catherine Dargemont",
-        "Eric J Kremer",
+      "author": [
+        "Patrice Dunoyer",
+        "Sebastien Pfeffer",
+        "Christiane Fritsch",
+        "Odile Hemmer",
         "Olivier Voinnet",
-        "Monsef Benkirane"
+        "Ken E Richards"
       ],
-      "URLS": "http://retractionwatch.com/2016/04/18/plant-scientist-voinnets-correction-count-grows-to-22/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/22/2016 0:00",
-      "OriginalPaperDate": "2/6/2011 0:00",
-      "OriginalPaperDOI": "10.1038/nsmb.1987",
-      "OriginalPaperPubMedID": "21297638.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "Correction not indexed, added to Supplementary Information - no PMID, DOI; 2/13/2017",
-      "notice_year": 2016,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234cccd",
-      "Record ID": "9350",
-      "Title": "Transitivity in Arabidopsis can be primed, requires the redundant action of the antiviral Dicer-like 4 and Dicer-like 2, and is compromised by viral-encoded suppressor proteins",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS UPR2357, 67084 Strasbourg Cedex, France"
-      ],
-      "Journal": "RNA",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Guillaume Moissiard",
-        "Eneida Abreu Parizotto",
-        "Christophe Himber",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/;http://retractionwatch.com/category/by-author/olivier-voinnet/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2016 0:00",
-      "RetractionDOI": "10.1261/rna.055012.115",
-      "RetractionPubMedID": "26673731.0",
-      "OriginalPaperDate": "6/25/2007 0:00",
-      "OriginalPaperDOI": "10.1261/rna.541307",
-      "OriginalPaperPubMedID": "17592042.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2016,
-      "year": 2007,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb5b",
-      "Record ID": "9722",
-      "Title": "In vivo investigation of the transcription, processing, endonucleolytic activity, and functional relevance of the spatial distribution of a plant miRNA",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, 67084 Strasbourg Cedex, France"
-      ],
-      "Journal": "Genes & Development",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Eneida Abreu Parizotto",
-        "Patrice Dunoyer",
-        "Nadia Rahm",
-        "Christophe Himber",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/15/2015 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "25691472.0",
-      "OriginalPaperDate": "9/1/2004 0:00",
-      "OriginalPaperDOI": "10.1101/gad.307804",
-      "OriginalPaperPubMedID": "15371337.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "In later correction Olivier Voinnet took responsibility for all figure handling. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2004,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb38",
-      "Record ID": "9757",
-      "Title": "Isoprenoid biosynthesis is required for miRNA function and affects membrane association of ARGONAUTE 1 in Arabidopsis",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes du Centre National de la Recherche Scientifique, Unit\u00e9 Propre de Recherche 2357, 67084 Strasbourg Cedex, France",
-        "Unit\u00e9 de Recherche en G\u00e9nomique V\u00e9g\u00e9tale, CP 57008 Evry Cedex, France",
-        "Swiss Federal Institute of Technology (ETH-Z), Department of Biology, Z\u00fcrich 8092, Switzerland"
-      ],
-      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
-      "Publisher": "National Academy of Sciences (NAS)",
-      "Country": [
-        "France",
-        "Switzerland"
-      ],
-      "Author": [
-        "Peter Brodersen",
-        "Lali Sakvarelidze-Achard",
-        "Hubert Schaller",
-        "Mehdi Khafif",
-        "Gr\u00e9gory Schott",
-        "Abdelhafid Bendahmane",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/12/2015 0:00",
-      "RetractionDOI": "10.1073/pnas.1506636112",
-      "RetractionPubMedID": "25883265.0",
-      "OriginalPaperDate": "1/12/2012 0:00",
-      "OriginalPaperDOI": "10.1073/pnas.1112500109",
-      "OriginalPaperPubMedID": "22247288.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234cb5c",
-      "Record ID": "9721",
-      "Title": "In vivo investigation of the transcription, processing, endonucleolytic activity, and functional relevance of the spatial distribution of a plant miRNA",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, 67084 Strasbourg Cedex, France"
-      ],
-      "Journal": "Genes & Development",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Eneida Abreu Parizotto",
-        "Patrice Dunoyer",
-        "Nadia Rahm",
-        "Christophe Himber",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/15/2016 0:00",
-      "RetractionDOI": "10.1101/gad.283721.116",
-      "RetractionPubMedID": "27222518.0",
-      "OriginalPaperDate": "9/1/2004 0:00",
-      "OriginalPaperDOI": "10.1101/gad.307804",
-      "OriginalPaperPubMedID": "15371337.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
+      "retractiondate": "2/10/2020 0:00",
+      "retractiondoi": "10.1111/tpj.14702",
+      "retractionpubmedid": "32202019.0",
+      "originalpaperdate": "3/1/2002 0:00",
+      "originalpaperdoi": "10.1046/j.0960-7412.2001.01242.x",
+      "originalpaperpubmedid": "11874569.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Manipulation of Images",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet assumed responsibility for errors. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2016,
-      "year": 2004,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e648",
-      "Record ID": "2710",
-      "Title": "An endogenous, systemic RNAi pathway in plants",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
+      "_id": "687cf08c1f662220d898f7aa",
+      "recordId": "19903",
+      "title": "Misregulation of AUXIN RESPONSE FACTOR 8 Underlies the Developmental Abnormalities Caused by Three Distinct Viral Silencing Suppressors in Arabidopsis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, UPR2357, Universit\u00e9 de Strasbourg, Strasbourg Cedex, France"
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, Centre National de la Recherche Scientifique, Universit\u00e9 de Strasbourg, Strasbourg Cedex, France",
+        "Swiss Federal Institute of Technology (ETH), Zurich, Switzerland",
+        "Institute for Bioinformatics and Systems Biology, Helmholtz Zentrum M\u00fcnchen, German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
+        "Unite de Recherche en Genomique Vegetale, Evry Cedex, France"
       ],
-      "Journal": "The EMBO Journal",
-      "Publisher": "EMBO Press",
-      "Country": [
-        "France"
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
+        "France",
+        "Germany",
+        "Switzerland"
       ],
-      "Author": [
-        "Patrice Dunoyer",
-        "Christopher A Brosnan",
-        "Gregory Schott",
-        "Yu Wang",
+      "author": [
         "Florence Jay",
-        "Abdelmalek Alioua",
-        "Christophe Himber",
+        "Yu Wang",
+        "Agnes Yu",
+        "Ludivine Taconnat",
+        "Sandra Pelletier",
+        "Vincent Colot",
+        "Jean Pierre Renou",
         "Olivier Voinnet"
       ],
-      "URLS": "http://retractionwatch.com/2015/08/19/embo-investigation-yields-two-more-retractions-and-three-corrections-for-voinnet/;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/?s=Patrice+Dunoyer",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=Olivier+Voinnet",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/19/2015 0:00",
-      "RetractionDOI": "10.15252/embj.201570040",
-      "RetractionPubMedID": "26290336.0",
-      "OriginalPaperDate": "5/19/2010 0:00",
-      "OriginalPaperDOI": "10.1038/emboj.2010.65",
-      "OriginalPaperPubMedID": "20414198.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/9/2015 0:00",
+      "retractiondoi": "10.1371/journal.ppat.1005627",
+      "retractionpubmedid": "27148883.0",
+      "originalpaperdate": "5/12/2011 0:00",
+      "originalpaperdoi": "10.1371/journal.ppat.1002035",
+      "originalpaperpubmedid": "21589905.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Duplication of/in Image",
-        "+Manipulation of Images"
+        "+Manipulation of Images",
+        "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "Patrice Dunoyer assumed responsibility for image manipulation. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234aa89",
-      "Record ID": "18162",
-      "Title": "Argonaute quenching and global changes in Dicer homeostasis caused by a pathogen-encoded GW repeat protein",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f7ab",
+      "recordId": "19902",
+      "title": "Misregulation of AUXIN RESPONSE FACTOR 8 Underlies the Developmental Abnormalities Caused by Three Distinct Viral Silencing Suppressors in Arabidopsis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, Centre National de la Recherche Scientifique, Universit\u00e9 de Strasbourg, Strasbourg Cedex, France",
+        "Swiss Federal Institute of Technology (ETH), Zurich, Switzerland",
+        "Institute for Bioinformatics and Systems Biology, Helmholtz Zentrum M\u00fcnchen, German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
+        "Unite de Recherche en Genomique Vegetale, Evry Cedex, France"
+      ],
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
+        "France",
+        "Germany",
+        "Switzerland"
+      ],
+      "author": [
+        "Florence Jay",
+        "Yu Wang",
+        "Agnes Yu",
+        "Ludivine Taconnat",
+        "Sandra Pelletier",
+        "Vincent Colot",
+        "Jean Pierre Renou",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/?s=Olivier+Voinnet",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/5/2016 0:00",
+      "retractiondoi": "10.1371/journal.ppat.1005627",
+      "retractionpubmedid": "27148883.0",
+      "originalpaperdate": "5/12/2011 0:00",
+      "originalpaperdoi": "10.1371/journal.ppat.1002035",
+      "originalpaperpubmedid": "21589905.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898fe6f",
+      "recordId": "18162",
+      "title": "Argonaute quenching and global changes in Dicer homeostasis caused by a pathogen-encoded GW repeat protein",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
+      "institution": [
         "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, Universit\u00e9 de Strasbourg, 67084 Strasbourg Cedex, France",
         "Laboratoire Genome et D\u00e9veloppement des Plantes, Centre National de la Recherche Scientifique/Institut de Recherche et D\u00e9veloppement/Universit\u00e9 de Perpignan, 66860 Perpignan, France",
         "Laboratoire Adaptation et Pathog\u00e9nie des Micro-organismes, CNRS UMR, F-38042 Grenoble Cedex 9, France"
       ],
-      "Journal": "Genes & Development",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
+      "journal": "Genes & Development",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Jacinthe Azevedo",
         "Damien Garcia",
         "Dominique Pontier",
@@ -642,222 +216,625 @@
         "Thierry Lagrange",
         "Olivier Voinnet"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2018 0:00",
-      "RetractionDOI": "10.1101/gad.314419.118",
-      "RetractionPubMedID": "29692358.0",
-      "OriginalPaperDate": "5/1/2010 0:00",
-      "OriginalPaperDOI": "10.1101/gad.1908710",
-      "OriginalPaperPubMedID": "20439431.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "4/1/2018 0:00",
+      "retractiondoi": "10.1101/gad.314419.118",
+      "retractionpubmedid": "29692358.0",
+      "originalpaperdate": "5/1/2010 0:00",
+      "originalpaperdoi": "10.1101/gad.1908710",
+      "originalpaperpubmedid": "20439431.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23499f5",
-      "Record ID": "22425",
-      "Title": "Identification, subcellular localization and some properties of a cysteine-rich suppressor of gene silencing encoded by peanut clump virus",
-      "Subject": [
+      "_id": "687cf0b51f662220d8991f08",
+      "recordId": "9779",
+      "title": "Nuclear import of CaMV P6 is required for infection and suppression of the RNA silencing factor DRB4",
+      "subject": [
+        "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS et de l'Universit\u00e9 Louis Pasteur, 12 Rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg, France",
-        "The Sainsbury Laboratory, John Innes Centre, Norwich, NR4 7UH, UK"
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS UPR2353, Universit\u00e9 Louis Pasteur, Strasbourg, France",
+        "Laboratory of Molecular & Cellular Biology, Tokyo University of Agriculture & Technology, Tokyo, Japan"
       ],
-      "Journal": "The Plant Journal",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "The EMBO Journal",
+      "publisher": "EMBO Press",
+      "country": [
         "France",
-        "United Kingdom"
+        "Japan"
       ],
-      "Author": [
-        "Patrice Dunoyer",
-        "Sebastien Pfeffer",
-        "Christiane Fritsch",
-        "Odile Hemmer",
-        "Olivier Voinnet",
-        "Ken E Richards"
+      "author": [
+        "Gabrielle Haas",
+        "Jacinthe Azevedo",
+        "Guillaume Moissiard",
+        "Ang\u00e8le Geldreich",
+        "Christophe Himber",
+        "Marina Bureau",
+        "Toshiyuki Fukuhara",
+        "Mario Keller",
+        "Olivier Voinnet"
       ],
-      "URLS": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/2015/08/19/embo-investigation-yields-two-more-retractions-and-three-corrections-for-voinnet/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/10/2020 0:00",
-      "RetractionDOI": "10.1111/tpj.14702",
-      "RetractionPubMedID": "32202019.0",
-      "OriginalPaperDate": "3/1/2002 0:00",
-      "OriginalPaperDOI": "10.1046/j.0960-7412.2001.01242.x",
-      "OriginalPaperPubMedID": "11874569.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Manipulation of Images",
-        "+Upgrade/Update of Prior Notice(s)"
+      "retractiondate": "8/19/2015 0:00",
+      "retractiondoi": "10.15252/embj.201570060",
+      "retractionpubmedid": "2629033.0",
+      "originalpaperdate": "7/10/2008 0:00",
+      "originalpaperdoi": "10.1038/emboj.2008.129",
+      "originalpaperpubmedid": "18615098.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Olivier Vonnet responsible for image errors. Figure 4d considered retracted. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2008",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cb5a",
-      "Record ID": "9723",
-      "Title": "Induction, suppression and requirement of RNA silencing pathways in virulent Agrobacterium tumefaciens infections",
-      "Subject": [
+      "_id": "687cf0b51f662220d8991f1d",
+      "recordId": "9758",
+      "title": "Selective autophagy degrades DICER and AGO2 and regulates miRNA activity",
+      "subject": [
+        "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "CNRS UPR2357, IBMP, Strasbourg, France"
+      "institution": [
+        "Swiss Federal Institute of Technology (ETH-Z), Department of Biology, Z\u00fcrich 8092, Switzerland",
+        "University of Ottawa, Department of Cellular and Molecular Medicine, Ottawa K1H 8M5, Canada",
+        "Institut Pasteur, Unit\u00e9 des Interactions Bact\u00e9ries-Cellules, D\u00e9partement de Biologie Cellulaire et Infection, 75015 Paris, France",
+        "Inserm, Unit\u00e9 604, 75015 Paris, France",
+        "INRA, USC2020, 75015 Paris, France",
+        "Section of Microbiology, MRC Centre for Molecular Bacteriology and Infection, Imperial College London, Armstrong Road, London SW7 2AZ, UK",
+        "Institut de G\u00e9n\u00e9tique et de Biologie Mol\u00e9culaire et Cellulaire, Centre National de la Recherche Scientifique, Unit\u00e9 Mixte de Recherche 7104, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale Unit\u00e9 964, 1 rue Laurent Fries, 67404 Illkirch, France",
+        "Institut de Biologie Mol\u00e9culaire des Plantes (IBMP), 12 rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg Cedex, France"
       ],
-      "Journal": "Nature Genetics",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Cell Biology",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "Canada",
+        "France",
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Derrick Gibbings",
+        "Serge Mostowy",
+        "Florience Jay",
+        "Yannick Schwab",
+        "Pascale Cossart",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/",
+      "articletype": [
+        "Letter",
+        "Research Article"
+      ],
+      "retractiondate": "7/10/2015 0:00",
+      "retractiondoi": "10.1038/ncb3208",
+      "retractionpubmedid": "26239531.0",
+      "originalpaperdate": "11/11/2012 0:00",
+      "originalpaperdoi": "10.1038/ncb2611",
+      "originalpaperpubmedid": "23143396.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991f1e",
+      "recordId": "9757",
+      "title": "Isoprenoid biosynthesis is required for miRNA function and affects membrane association of ARGONAUTE 1 in Arabidopsis",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes du Centre National de la Recherche Scientifique, Unit\u00e9 Propre de Recherche 2357, 67084 Strasbourg Cedex, France",
+        "Unit\u00e9 de Recherche en G\u00e9nomique V\u00e9g\u00e9tale, CP 57008 Evry Cedex, France",
+        "Swiss Federal Institute of Technology (ETH-Z), Department of Biology, Z\u00fcrich 8092, Switzerland"
+      ],
+      "journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "publisher": "National Academy of Sciences (NAS)",
+      "country": [
+        "France",
+        "Switzerland"
+      ],
+      "author": [
+        "Peter Brodersen",
+        "Lali Sakvarelidze-Achard",
+        "Hubert Schaller",
+        "Mehdi Khafif",
+        "Gr\u00e9gory Schott",
+        "Abdelhafid Bendahmane",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/12/2015 0:00",
+      "retractiondoi": "10.1073/pnas.1506636112",
+      "retractionpubmedid": "25883265.0",
+      "originalpaperdate": "1/12/2012 0:00",
+      "originalpaperdoi": "10.1073/pnas.1112500109",
+      "originalpaperpubmedid": "22247288.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991f20",
+      "recordId": "9755",
+      "title": "Hierarchical action and inhibition of plant Dicer-like proteins in antiviral defense",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS Unit\u00e9 Propre de Recherche (UPR) 2357, 12, rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg Cedex, France",
+        "Center for Genome Research and Biocomputing, Oregon State University, Corvallis, OR 97331, USA"
+      ],
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
+        "Ang\u00e9lique Deleris",
+        "Javier Gallego-Bartolome",
+        "Jinsong Bao",
+        "Kristen D Kasschau",
+        "James C Carrington",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/22/science-publishes-voinnets-19th-20th-and-21st-correction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/22/2016 0:00",
+      "retractiondoi": "10.1126/science.aaf2336",
+      "retractionpubmedid": "26798021.0",
+      "originalpaperdate": "7/7/2006 0:00",
+      "originalpaperdoi": "10.1126/science.1128214",
+      "originalpaperpubmedid": "16741077.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm Olivier Voinnet assumes responsibility for image manipulations",
+      "year": "2006",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991f3c",
+      "recordId": "9727",
+      "title": "A plant miRNA contributes to antibacterial resistance by repressing auxin signaling",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "The Sainsbury Laboratory, John Innes Centre, Colney Lane, Norwich NR4 7UH, UK",
+        "Institut de Biologie Mol\u00e8culaire des Plantes du Centre National de la Recherche Scientifique, 67084 Strasbourg Cedex, France",
+        "John Innes Centre, Colney Lane, Norwich NR4 7UH, UK",
+        "Department of Biology, Indiana University, Bloomington, IN 47405, USA"
+      ],
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
+        "France",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Lionel Navarro",
+        "Patrice Dunoyer",
+        "Florience Jay",
+        "Benedict Arnold",
+        "Nihal Dharmasiri",
+        "Mark Estelle",
+        "Olivier Voinnet",
+        "Jonathan D G Jones"
+      ],
+      "urls": "http://retractionwatch.com/2016/01/22/science-publishes-voinnets-19th-20th-and-21st-correction/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/?s=Patrice+Dunoyer",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/22/2016 0:00",
+      "retractiondoi": "10.1126/science.aae0382",
+      "retractionpubmedid": "26798018.0",
+      "originalpaperdate": "4/21/2006 0:00",
+      "originalpaperdoi": "10.1126/science.1126088",
+      "originalpaperpubmedid": "16627744.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "Patrice Dunoyer assumes responsibility for figure errors. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2006",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991f3e",
+      "recordId": "9725",
+      "title": "Differential effects of viral silencing suppressors on siRNA and miRNA loading support the existence of two distinct cellular pools of ARGONAUTE1",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "IBMP-CNRS, Strasbourg Cedex, France",
+        "Department of Biology, Swiss Federal Institute of Technology (ETH), Zurich, Switzerland"
+      ],
+      "journal": "The EMBO Journal",
+      "publisher": "EMBO Press",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Gregory Schott",
+        "Arturo Mari-Ordonez",
+        "Christophe Himber",
+        "Abdelmalek Alioua",
+        "Olivier Voinnet",
+        "Patrice Dunoyer"
+      ],
+      "urls": "http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2015/08/19/embo-investigation-yields-two-more-retractions-and-three-corrections-for-voinnet/;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/20/2015 0:00",
+      "retractiondoi": "10.15252/embj.201570070",
+      "retractionpubmedid": "26294795.0",
+      "originalpaperdate": "4/24/2012 0:00",
+      "originalpaperdoi": "10.1038/emboj.2012.92",
+      "originalpaperpubmedid": "22531783.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991f40",
+      "recordId": "9723",
+      "title": "Induction, suppression and requirement of RNA silencing pathways in virulent Agrobacterium tumefaciens infections",
+      "subject": [
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "CNRS UPR2357, IBMP, Strasbourg, France"
+      ],
+      "journal": "Nature Genetics",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "France"
+      ],
+      "author": [
         "Patrice Dunoyer",
         "Chrisophe Himber",
         "Olivier Voinnet"
       ],
-      "URLS": "http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/26/2015 0:00",
-      "RetractionDOI": "10.1038/ng0715-847",
-      "RetractionPubMedID": "26111511.0",
-      "OriginalPaperDate": "1/22/2006 0:00",
-      "OriginalPaperDOI": "10.1038/ng1722",
-      "OriginalPaperPubMedID": "16429161.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "6/26/2015 0:00",
+      "retractiondoi": "10.1038/ng0715-847",
+      "retractionpubmedid": "26111511.0",
+      "originalpaperdate": "1/22/2006 0:00",
+      "originalpaperdoi": "10.1038/ng1722",
+      "originalpaperpubmedid": "16429161.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of/in Image",
         "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2006",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d6d8",
-      "Record ID": "6744",
-      "Title": "RNA silencing of host transcripts by cauliflower mosaic virus requires coordinated action of the four Arabidopsis Dicer-like proteins",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, Centre National de la Recherche Scientifique, Unit\u00e9 Propre de Recherche 2357, 12 Rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg Cedex, France"
-      ],
-      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
-      "Publisher": "National Academy of Sciences (NAS)",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "Guillaume Moissiard",
-        "Olivier Voinnet"
-      ],
-      "URLS": "http://retractionwatch.com/2015/07/30/voinnet-notches-second-retraction-two-more-corrections/;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/25/2015 0:00",
-      "RetractionDOI": "10.1073/pnas.1513620112",
-      "RetractionPubMedID": "26216957.0",
-      "OriginalPaperDate": "12/12/2006 0:00",
-      "OriginalPaperDOI": "10.1073/pnas.0604627103",
-      "OriginalPaperPubMedID": "17164336.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e63f",
-      "Record ID": "2719",
-      "Title": "Probing the MicroRNA and Small Interfering RNA Pathways with Virus-Encoded Suppressors of RNA Silencing",
-      "Subject": [
-        "(BLS) Biology - Cellular",
+      "_id": "687cf0b51f662220d8991f41",
+      "recordId": "9722",
+      "title": "In vivo investigation of the transcription, processing, endonucleolytic activity, and functional relevance of the spatial distribution of a plant miRNA",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes du Centre National de la Recherche Scientifique, 67084 Strasbourg Cedex, France"
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, 67084 Strasbourg Cedex, France"
       ],
-      "Journal": "The Plant Cell",
-      "Publisher": "American Society of Plant Biologists",
-      "Country": [
+      "journal": "Genes & Development",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
+        "Eneida Abreu Parizotto",
         "Patrice Dunoyer",
-        "Charles-Henri Lecellier",
+        "Nadia Rahm",
+        "Christophe Himber",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/15/2015 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "25691472.0",
+      "originalpaperdate": "9/1/2004 0:00",
+      "originalpaperdoi": "10.1101/gad.307804",
+      "originalpaperpubmedid": "15371337.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "In later correction Olivier Voinnet took responsibility for all figure handling. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2004",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991f42",
+      "recordId": "9721",
+      "title": "In vivo investigation of the transcription, processing, endonucleolytic activity, and functional relevance of the spatial distribution of a plant miRNA",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, 67084 Strasbourg Cedex, France"
+      ],
+      "journal": "Genes & Development",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Eneida Abreu Parizotto",
+        "Patrice Dunoyer",
+        "Nadia Rahm",
+        "Christophe Himber",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/2015/07/02/corrections-propagate-for-distinguished-plant-biologist-olivier-voinnet/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/15/2016 0:00",
+      "retractiondoi": "10.1101/gad.283721.116",
+      "retractionpubmedid": "27222518.0",
+      "originalpaperdate": "9/1/2004 0:00",
+      "originalpaperdoi": "10.1101/gad.307804",
+      "originalpaperpubmedid": "15371337.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "Olivier Voinnet assumed responsibility for errors. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2004",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b61f662220d89920b2",
+      "recordId": "9351",
+      "title": "Transitivity in Arabidopsis can be primed, requires the redundant action of the antiviral Dicer-like 4 and Dicer-like 2, and is compromised by viral-encoded suppressor proteins",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS UPR2357, 67084 Strasbourg Cedex, France"
+      ],
+      "journal": "RNA",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Guillaume Moissiard",
         "Eneida Abreu Parizotto",
         "Christophe Himber",
         "Olivier Voinnet"
       ],
-      "URLS": "http://retractionwatch.com/2015/04/06/retraction-to-appear-for-beleaguered-plant-researcher-olivier-voinnet/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/?s=Patrice+Dunoyer",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/;http://retractionwatch.com/category/by-author/olivier-voinnet/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/2/2015 0:00",
-      "RetractionDOI": "10.1105/tpc.15.00407",
-      "RetractionPubMedID": "26036255.0",
-      "OriginalPaperDate": "4/14/2004 0:00",
-      "OriginalPaperDOI": "10.1105/tpc.020719",
-      "OriginalPaperPubMedID": "15084715.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Manipulation of Images"
+      "retractiondate": "5/1/2016 0:00",
+      "retractiondoi": "10.1261/rna.056366.116",
+      "retractionpubmedid": "27090789.0",
+      "originalpaperdate": "6/25/2007 0:00",
+      "originalpaperdoi": "10.1261/rna.541307",
+      "originalpaperpubmedid": "17592042.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Image",
+        "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "Patrice Dunoyer assumes responsibility for figure assemblies. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
-      "notice_year": 2015,
-      "year": 2004,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2007",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dbac",
-      "Record ID": "5483",
-      "Title": "P0 of Beet Western Yellows Virus Is a Suppressor of Posttranscriptional Gene Silencing",
-      "Subject": [
+      "_id": "687cf0b61f662220d89920b3",
+      "recordId": "9350",
+      "title": "Transitivity in Arabidopsis can be primed, requires the redundant action of the antiviral Dicer-like 4 and Dicer-like 2, and is compromised by viral-encoded suppressor proteins",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, CNRS UPR2357, 67084 Strasbourg Cedex, France"
+      ],
+      "journal": "RNA",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Guillaume Moissiard",
+        "Eneida Abreu Parizotto",
+        "Christophe Himber",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/2016/01/04/voinnets-notice-count-grows-notching-his-18th-correction/;http://retractionwatch.com/category/by-author/olivier-voinnet/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2016 0:00",
+      "retractiondoi": "10.1261/rna.055012.115",
+      "retractionpubmedid": "26673731.0",
+      "originalpaperdate": "6/25/2007 0:00",
+      "originalpaperdoi": "10.1261/rna.541307",
+      "originalpaperpubmedid": "17592042.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2007",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bf1f662220d8992abe",
+      "recordId": "6744",
+      "title": "RNA silencing of host transcripts by cauliflower mosaic virus requires coordinated action of the four Arabidopsis Dicer-like proteins",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes, Centre National de la Recherche Scientifique, Unit\u00e9 Propre de Recherche 2357, 12 Rue du G\u00e9n\u00e9ral Zimmer, 67084 Strasbourg Cedex, France"
+      ],
+      "journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "publisher": "National Academy of Sciences (NAS)",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Guillaume Moissiard",
+        "Olivier Voinnet"
+      ],
+      "urls": "http://retractionwatch.com/2015/07/30/voinnet-notches-second-retraction-two-more-corrections/;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/25/2015 0:00",
+      "retractiondoi": "10.1073/pnas.1513620112",
+      "retractionpubmedid": "26216957.0",
+      "originalpaperdate": "12/12/2006 0:00",
+      "originalpaperdoi": "10.1073/pnas.0604627103",
+      "originalpaperpubmedid": "17164336.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2006",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f92",
+      "recordId": "5483",
+      "title": "P0 of Beet Western Yellows Virus Is a Suppressor of Posttranscriptional Gene Silencing",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS et de l'Universit\u00e9 Louis Pasteur, 67084 Strasbourg, France"
       ],
-      "Journal": "Journal of Virology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Journal of Virology",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Sebastien Pfeffer",
         "Patrice Dunoyer",
         "F Heim",
@@ -865,157 +842,150 @@
         "G Jonard",
         "Veronique Ziegler-Graff"
       ],
-      "URLS": "http://retractionwatch.com/2017/03/10/15-year-old-paper-pulled-image-problems/;http://retractionwatch.com/?s=Patrice+Dunoyer",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/03/10/15-year-old-paper-pulled-image-problems/;http://retractionwatch.com/?s=Patrice+Dunoyer",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/1/2017 0:00",
-      "RetractionDOI": "10.1128/JVI.00022-17",
-      "RetractionPubMedID": "29611664.0",
-      "OriginalPaperDate": "7/1/2002 0:00",
-      "OriginalPaperDOI": "10.1128/JVI.76.13.6815-6824.2002",
-      "OriginalPaperPubMedID": "12050394.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2017 0:00",
+      "retractiondoi": "10.1128/JVI.00022-17",
+      "retractionpubmedid": "29611664.0",
+      "originalpaperdate": "7/1/2002 0:00",
+      "originalpaperdoi": "10.1128/JVI.76.13.6815-6824.2002",
+      "originalpaperpubmedid": "12050394.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Manipulation of Images",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "Notes": "Sebastien Pfeffer assumes responsibility for images.",
-      "notice_year": 2017,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Sebastien Pfeffer assumes responsibility for images.",
+      "year": "2002",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a3c4",
-      "Record ID": "19903",
-      "Title": "Misregulation of AUXIN RESPONSE FACTOR 8 Underlies the Developmental Abnormalities Caused by Three Distinct Viral Silencing Suppressors in Arabidopsis",
-      "Subject": [
-        "(BLS) Biochemistry",
+      "_id": "687cf0cf1f662220d8993a25",
+      "recordId": "2719",
+      "title": "Probing the MicroRNA and Small Interfering RNA Pathways with Virus-Encoded Suppressors of RNA Silencing",
+      "subject": [
         "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, Centre National de la Recherche Scientifique, Universit\u00e9 de Strasbourg, Strasbourg Cedex, France",
-        "Swiss Federal Institute of Technology (ETH), Zurich, Switzerland",
-        "Institute for Bioinformatics and Systems Biology, Helmholtz Zentrum M\u00fcnchen, German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
-        "Unite de Recherche en Genomique Vegetale, Evry Cedex, France"
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes du Centre National de la Recherche Scientifique, 67084 Strasbourg Cedex, France"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
-        "France",
-        "Germany",
-        "Switzerland"
+      "journal": "The Plant Cell",
+      "publisher": "American Society of Plant Biologists",
+      "country": [
+        "France"
       ],
-      "Author": [
-        "Florence Jay",
-        "Yu Wang",
-        "Agnes Yu",
-        "Ludivine Taconnat",
-        "Sandra Pelletier",
-        "Vincent Colot",
-        "Jean Pierre Renou",
+      "author": [
+        "Patrice Dunoyer",
+        "Charles-Henri Lecellier",
+        "Eneida Abreu Parizotto",
+        "Christophe Himber",
         "Olivier Voinnet"
       ],
-      "URLS": "http://retractionwatch.com/?s=Olivier+Voinnet",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/04/06/retraction-to-appear-for-beleaguered-plant-researcher-olivier-voinnet/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/?s=Patrice+Dunoyer",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/9/2015 0:00",
-      "RetractionDOI": "10.1371/journal.ppat.1005627",
-      "RetractionPubMedID": "27148883.0",
-      "OriginalPaperDate": "5/12/2011 0:00",
-      "OriginalPaperDOI": "10.1371/journal.ppat.1002035",
-      "OriginalPaperPubMedID": "21589905.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "6/2/2015 0:00",
+      "retractiondoi": "10.1105/tpc.15.00407",
+      "retractionpubmedid": "26036255.0",
+      "originalpaperdate": "4/14/2004 0:00",
+      "originalpaperdoi": "10.1105/tpc.020719",
+      "originalpaperpubmedid": "15084715.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
-        "+Manipulation of Images",
-        "+Upgrade/Update of Prior Notice(s)"
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Patrice Dunoyer assumes responsibility for figure assemblies. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2004",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a3c5",
-      "Record ID": "19902",
-      "Title": "Misregulation of AUXIN RESPONSE FACTOR 8 Underlies the Developmental Abnormalities Caused by Three Distinct Viral Silencing Suppressors in Arabidopsis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
+      "_id": "687cf0cf1f662220d8993a2e",
+      "recordId": "2710",
+      "title": "An endogenous, systemic RNAi pathway in plants",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Institut de Biologie Mol\u00e9culaire des Plantes, Centre National de la Recherche Scientifique, Universit\u00e9 de Strasbourg, Strasbourg Cedex, France",
-        "Swiss Federal Institute of Technology (ETH), Zurich, Switzerland",
-        "Institute for Bioinformatics and Systems Biology, Helmholtz Zentrum M\u00fcnchen, German Research Center for Environmental Health (GmbH), Neuherberg, Germany",
-        "Unite de Recherche en Genomique Vegetale, Evry Cedex, France"
+      "institution": [
+        "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, UPR2357, Universit\u00e9 de Strasbourg, Strasbourg Cedex, France"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
-        "France",
-        "Germany",
-        "Switzerland"
+      "journal": "The EMBO Journal",
+      "publisher": "EMBO Press",
+      "country": [
+        "France"
       ],
-      "Author": [
-        "Florence Jay",
+      "author": [
+        "Patrice Dunoyer",
+        "Christopher A Brosnan",
+        "Gregory Schott",
         "Yu Wang",
-        "Agnes Yu",
-        "Ludivine Taconnat",
-        "Sandra Pelletier",
-        "Vincent Colot",
-        "Jean Pierre Renou",
+        "Florence Jay",
+        "Abdelmalek Alioua",
+        "Christophe Himber",
         "Olivier Voinnet"
       ],
-      "URLS": "http://retractionwatch.com/?s=Olivier+Voinnet",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/08/19/embo-investigation-yields-two-more-retractions-and-three-corrections-for-voinnet/;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/;http://retractionwatch.com/page/2/?s=olivier+voinnet;http://retractionwatch.com/?s=Patrice+Dunoyer",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/5/2016 0:00",
-      "RetractionDOI": "10.1371/journal.ppat.1005627",
-      "RetractionPubMedID": "27148883.0",
-      "OriginalPaperDate": "5/12/2011 0:00",
-      "OriginalPaperDOI": "10.1371/journal.ppat.1002035",
-      "OriginalPaperPubMedID": "21589905.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "8/19/2015 0:00",
+      "retractiondoi": "10.15252/embj.201570040",
+      "retractionpubmedid": "26290336.0",
+      "originalpaperdate": "5/19/2010 0:00",
+      "originalpaperdoi": "10.1038/emboj.2010.65",
+      "originalpaperpubmedid": "20414198.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
-        "+Manipulation of Images",
-        "+Upgrade/Update of Prior Notice(s)"
+        "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Patrice Dunoyer assumed responsibility for image manipulation. Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm",
+      "year": "2010",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e83e",
-      "Record ID": "2197",
-      "Title": "Extreme resistance as a host counter-counter defense against viral suppression of RNA silencing",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c24",
+      "recordId": "2197",
+      "title": "Extreme resistance as a host counter-counter defense against viral suppression of RNA silencing",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Microbiology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Centre SEVE, D\u00e9partement de Biologie, Facult\u00e9 des Sciences, Universit\u00e9 de Sherbrooke, Sherbrooke, Quebec, Canada",
         "Department of Plant Science, University of Manitoba, Winnipeg, Manitoba, Canada",
         "Institut de Biologie Mol\u00e9culaire des Plantes du CNRS, Universit\u00e9 de Strasbourg, Strasbourg, France",
         "Department of Biology, Swiss Federal Institute of Technology (ETH), Zurich, Switzerland"
       ],
-      "Journal": "PLoS Pathogens",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS Pathogens",
+      "publisher": "PLoS",
+      "country": [
         "Canada",
         "France",
         "Switzerland"
       ],
-      "Author": [
+      "author": [
         "Rapha\u00ebl Sansregret",
         "Vanessa Dufour",
         "Mathieu Langlois",
@@ -1024,127 +994,178 @@
         "Olivier Voinnet",
         "Kamal Bouarab"
       ],
-      "URLS": "http://retractionwatch.com/2015/10/05/investigation-ends-in-6th-retraction-for-voinnet/;http://retractionwatch.com/?s=voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/10/05/investigation-ends-in-6th-retraction-for-voinnet/;http://retractionwatch.com/?s=voinnet;http://retractionwatch.com/2016/01/26/swiss-funding-agency-cuts-off-voinnet-bans-him-for-3-years/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/22/2015 0:00",
-      "RetractionDOI": "10.1371/journal.ppat.1005207",
-      "RetractionPubMedID": "26394159.0",
-      "OriginalPaperDate": "6/13/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.ppat.1003435",
-      "OriginalPaperPubMedID": "23785291.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/22/2015 0:00",
+      "retractiondoi": "10.1371/journal.ppat.1005207",
+      "retractionpubmedid": "26394159.0",
+      "originalpaperdate": "6/13/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.ppat.1003435",
+      "originalpaperpubmedid": "23785291.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Image",
         "+Ethical Violations by Author",
         "+Investigation by Company/Institution",
         "+Manipulation of Images",
         "+Plagiarism of Image"
       ],
-      "Paywalled": "No",
-      "Notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm Patrice Dunoyer named responsible of taking image from student thesis without student's knowledge or consent.",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Olivier Voinnet has finding of scientific misconduct http://www2.cnrs.fr/en/2593.htm Patrice Dunoyer named responsible of taking image from student thesis without student's knowledge or consent.",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d51f662220d8994064",
+      "recordId": "1083",
+      "title": "Competition for XPO5 binding between Dicer mRNA, pre-miRNA and viral RNA regulates human Dicer levels",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Centre National de la Recherche Scientifique (CNRS), Institut de G\u00e9n\u00e9tique Humaine UPR1142, Laboratoire de Virologie Mol\u00e9culaire, Montpellier, France",
+        "Institut de Biologie Mol\u00e9culaire des Plantes (IBMP), CNRS, Universit\u00e9 de Strasbourg, Strasbourg, France",
+        "Institut Jacques Monod, Universit\u00e9 Paris Diderot, CNRS, Paris, France",
+        "Institut de G\u00e9n\u00e9tique Mol\u00e9culaire de Montpellier, Universit\u00e9s de Montpellier I & II, Montpellier, France"
+      ],
+      "journal": "Nature Structural & Molecular Biology",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Yamina Bennasser",
+        "Christine Chable-Bessia",
+        "Robinson Triboulet",
+        "Derrick Gibbings",
+        "Carole Gwizdek",
+        "Catherine Dargemont",
+        "Eric J Kremer",
+        "Olivier Voinnet",
+        "Monsef Benkirane"
+      ],
+      "urls": "http://retractionwatch.com/2016/04/18/plant-scientist-voinnets-correction-count-grows-to-22/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/22/2016 0:00",
+      "originalpaperdate": "2/6/2011 0:00",
+      "originalpaperdoi": "10.1038/nsmb.1987",
+      "originalpaperpubmedid": "21297638.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "Correction not indexed, added to Supplementary Information - no PMID, DOI; 2/13/2017",
+      "year": "2011",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 3,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 3,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1152,10 +1173,10 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 11,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1163,10 +1184,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 7,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1174,10 +1195,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1185,10 +1206,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1196,10 +1217,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

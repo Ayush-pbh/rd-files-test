@@ -1,25 +1,86 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877b29",
+    "_id": "687ccbab09adbf7aa61b874a",
     "grid_id": "grid.412185.b",
     "institute_name": "University of Valpara\u00edso",
     "country": "Chile",
     "retracted_record_ids": [
-      "39106",
       "62740",
-      "8690"
+      "8690",
+      "39106"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234590d",
-      "Record ID": "39106",
-      "Title": "A mechanistic model of the neural entropy increase elicited by psychedelic drugs",
-      "Subject": [
+      "_id": "687cef5b1f662220d89850f7",
+      "recordId": "62740",
+      "title": "imple hemogram to support the decision-making of COVID-19 diagnosis using clusters analysis with self-organizing maps neural network",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Laboratory of Applied Computing - LABCOM3, Federal Institute of Education, Science and Technology of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+        "Nephrology Division - Department of Medicine, Federal University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+        "Escuela de Ingenier\u00eda Inform\u00e1tica, Universidad de Valpara\u00edso, Valpara\u00edso, Chile",
+        "Department of Communications, FEEC Unicamp, SP, Campinas, Brazil",
+        "Laboratory of Big Data and Applied Analytical Methods - Big MAAp, Mackenzie Presbiterian University, S\u00e3o Paulo, Brazil"
+      ],
+      "journal": "Soft Computing",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Brazil",
+        "Chile"
+      ],
+      "author": [
+        "Alexandra A de Souza",
+        "Danilo Candido de Almeida",
+        "Thiago S Barcelos",
+        "Rodrigo Campos Bortoletto",
+        "Roberto Munoz",
+        "Helio Waldman",
+        "Miguel Angelo Goes",
+        "Leandro A Silva"
+      ],
+      "urls": "https://retractionwatch.com/2024/11/07/another-springer-nature-journal-has-retracted-over-300-papers-since-july/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/8/2024 0:00",
+      "retractiondoi": "10.1007/s00500-024-10009-5",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/17/2021 0:00",
+      "originalpaperdoi": "10.1007/s00500-021-05810-5",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb41f662220d898acf3",
+      "recordId": "39106",
+      "title": "A mechanistic model of the neural entropy increase elicited by psychedelic drugs",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Centro Interdisciplinario de Neurociencia de Valpara\u00edso, Universidad de Valpara\u00edso, Pje Harrington 287, 2360103, Valparaiso, Chile",
         "Department of Psychology, University of Cambridge, Cambridge, CB2 3EB, UK",
         "Department of Brain Science, Centre for Psychedelic Research, Imperial College London, London, SW7 2DD, UK",
@@ -30,14 +91,14 @@
         "Universidad de San Andres, Buenos Aires, Argentina",
         "CIMFAV-Ingemat, Facultad de Ingenier\u00eda, Universidad de Valpara\u00edso, Valparaiso, Chile"
       ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Argentina",
         "Chile",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Ruben Herzog",
         "Pedro A M Mediano",
         "Fernando E Rosas",
@@ -46,176 +107,118 @@
         "Enzo Tagliazucchi",
         "Rodrigo Cofre"
       ],
-      "URLS": "https://retractionwatch.com/2022/10/06/a-grad-student-finds-a-typo-in-a-psychedelic-studys-script-that-leads-to-a-retraction/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/10/06/a-grad-student-finds-a-typo-in-a-psychedelic-studys-script-that-leads-to-a-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/15/2022 0:00",
-      "RetractionDOI": "10.1038/s41598-022-20093-y",
-      "RetractionPubMedID": "36109628.0",
-      "OriginalPaperDate": "10/20/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-020-74060-6",
-      "OriginalPaperPubMedID": "33082424.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/15/2022 0:00",
+      "retractiondoi": "10.1038/s41598-022-20093-y",
+      "retractionpubmedid": "36109628.0",
+      "originalpaperdate": "10/20/2020 0:00",
+      "originalpaperdoi": "10.1038/s41598-020-74060-6",
+      "originalpaperpubmedid": "33082424.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d233fd11",
-      "Record ID": "62740",
-      "Title": "imple hemogram to support the decision-making of COVID-19 diagnosis using clusters analysis with self-organizing maps neural network",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Laboratory of Applied Computing - LABCOM3, Federal Institute of Education, Science and Technology of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-        "Nephrology Division - Department of Medicine, Federal University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-        "Escuela de Ingenier\u00eda Inform\u00e1tica, Universidad de Valpara\u00edso, Valpara\u00edso, Chile",
-        "Department of Communications, FEEC Unicamp, SP, Campinas, Brazil",
-        "Laboratory of Big Data and Applied Analytical Methods - Big MAAp, Mackenzie Presbiterian University, S\u00e3o Paulo, Brazil"
-      ],
-      "Journal": "Soft Computing",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Brazil",
-        "Chile"
-      ],
-      "Author": [
-        "Alexandra A de Souza",
-        "Danilo Candido de Almeida",
-        "Thiago S Barcelos",
-        "Rodrigo Campos Bortoletto",
-        "Roberto Munoz",
-        "Helio Waldman",
-        "Miguel Angelo Goes",
-        "Leandro A Silva"
-      ],
-      "URLS": "https://retractionwatch.com/2024/11/07/another-springer-nature-journal-has-retracted-over-300-papers-since-july/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/8/2024 0:00",
-      "RetractionDOI": "10.1007/s00500-024-10009-5",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/17/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s00500-021-05810-5",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Article",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234cf5d",
-      "Record ID": "8690",
-      "Title": "Neosartorya fischeri (Wehmer) Malloch & Cain",
-      "Subject": [
+      "_id": "687cf0b81f662220d8992343",
+      "recordId": "8690",
+      "title": "Neosartorya fischeri (Wehmer) Malloch & Cain",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "Laboratorio de Micolog\u00eda Universidad de Valpara\u00edso, Chile"
       ],
-      "Journal": "Revista Chilena de Infectolog\u00eda",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Revista Chilena de Infectolog\u00eda",
+      "publisher": "Springer",
+      "country": [
         "Chile"
       ],
-      "Author": [
+      "author": [
         "Rodrigo Cruz",
         "Eduardo Piontelli"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2016 0:00",
-      "RetractionDOI": "10.4067/S0716-10182016000100009",
-      "RetractionPubMedID": "26965879.0",
-      "OriginalPaperDate": "12/1/1990 0:00",
-      "OriginalPaperPubMedID": "2091938.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2016 0:00",
+      "retractiondoi": "10.4067/S0716-10182016000100009",
+      "retractionpubmedid": "26965879.0",
+      "originalpaperdate": "12/1/1990 0:00",
+      "originalpaperpubmedid": "2091938.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 1990,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "1990",
+      "noticeYear": "2016",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1990,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -223,10 +226,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

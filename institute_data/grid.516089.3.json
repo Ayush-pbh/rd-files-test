@@ -1,83 +1,130 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878fe5",
+    "_id": "687ccbab09adbf7aa61b9c06",
     "grid_id": "grid.516089.3",
     "institute_name": "Winship Cancer Institute",
     "country": "United States",
     "retracted_record_ids": [
+      "40007",
       "35646",
       "36354",
-      "40007",
       "40134"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346677",
-      "Record ID": "35646",
-      "Title": "MicroRNA\u201130c\u2011regulated HDAC9 mediates chemoresistance of breast cancer",
-      "Subject": [
+      "_id": "687cefb21f662220d898a8f6",
+      "recordId": "40134",
+      "title": "Regulation of miR-19 to Breast Cancer Chemoresistance Through Targeting PTEN",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
-        "Department of Radiation Oncology, Emory University, Atlanta, GA, 30322, USA",
-        "Winship Cancer Institute, Emory University, Atlanta, GA, 30322, USA"
+      "institution": [
+        "Department of Radiology and Imaging Sciences, Emory University, Atlanta, Georgia, 30322, USA",
+        "Winship Cancer Institute, Emory University, Atlanta, Georgia, 30322, USA",
+        "Yerkes Microarray Core, Yerkes National Primate Research Center Emory University, Atlanta, Georgia, 30322, USA"
       ],
-      "Journal": "Cancer Chemotherapy and Pharmacology",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
+      "journal": "Pharmacological Research",
+      "publisher": "Springer",
+      "country": [
+        "United States"
       ],
-      "Author": [
+      "author": [
         "Zhongxing Liang",
-        "Amber Feng",
+        "Yuhua Li",
+        "Ke Huang",
+        "Nicholas Wagar",
         "Hyunsuk Shim"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/24/2022 0:00",
-      "RetractionDOI": "10.1007/s00280-022-04409-3",
-      "RetractionPubMedID": "35201422.0",
-      "OriginalPaperDate": "1/6/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s00280-019-04024-9",
-      "OriginalPaperPubMedID": "31907648.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Third Party",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Results and/or Conclusions"
+      "retractiondate": "10/28/2022 0:00",
+      "retractiondoi": "10.1007/s11095-022-03417-5",
+      "retractionpubmedid": "36307663.0",
+      "originalpaperdate": "8/19/2011 0:00",
+      "originalpaperdoi": "10.1007/s11095-011-0570-y",
+      "originalpaperpubmedid": "21853360.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/4B184C16F28A42EE361342680F459D;",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/C7F39439A9E0706EA71FC07924045C",
+      "year": "2011",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23463b4",
-      "Record ID": "36354",
-      "Title": "MEPE/OF45 protects cells from DNA damage induced killing via stabilizing CHK1",
-      "Subject": [
+      "_id": "687cefb31f662220d898a975",
+      "recordId": "40007",
+      "title": "Inhibition of breast cancer metastasis with microRNA-302a by downregulation of CXCR4 expression",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Radiology and Imaging Sciences, Emory University, Atlanta, GA, 30322, USA",
+        "Winship Cancer Institute, Emory University, Atlanta, GA, 30322, USA",
+        "Department of Thyroid Surgery, China-Japan Union Hospital of Jilin University, Changchun, China"
+      ],
+      "journal": "Breast Cancer Research and Treatment",
+      "publisher": "Springer",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Zhongxing Liang",
+        "Xuehai Bian",
+        "Hyunsuk Shim"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/23/2022 0:00",
+      "retractiondoi": "10.1007/s10549-022-06779-x",
+      "retractionpubmedid": "36273359.0",
+      "originalpaperdate": "6/17/2014 0:00",
+      "originalpaperdoi": "10.1007/s10549-014-3053-0",
+      "originalpaperpubmedid": "25030358.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/8A720A0ABE213347AFFA12FE8A8ABF",
+      "year": "2014",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc01f662220d898b79a",
+      "recordId": "36354",
+      "title": "MEPE/OF45 protects cells from DNA damage induced killing via stabilizing CHK1",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Beijing Institute of Biotechnology, Beijing 100850, China",
         "Department of Radiation Oncology, Winship Cancer Institute, Emory University, Atlanta, GA 30322, USA",
         "Department of Radiation Oncology, Thomas Jefferson University, Philadelphia, PA 19107",
         "Department of Internal Medicine, Kidney Institute & Division of Nephrology, University of Kansas Medical Center, Kansas City, KS 66160, USA"
       ],
-      "Journal": "Nucleic Acids Research",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Nucleic Acids Research",
+      "publisher": "Oxford Academic",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Shuang Liu",
         "Hongyan Wang",
         "Xiang Wang",
@@ -87,161 +134,118 @@
         "Baocheng Hu",
         "Ya Wanf"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/31/2022 0:00",
-      "RetractionDOI": "10.1093/nar/gkac211",
-      "RetractionPubMedID": "35357497.0",
-      "OriginalPaperDate": "10/6/2009 0:00",
-      "OriginalPaperDOI": "10.1093/nar/gkp768",
-      "OriginalPaperPubMedID": "19808933.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/31/2022 0:00",
+      "retractiondoi": "10.1093/nar/gkac211",
+      "retractionpubmedid": "35357497.0",
+      "originalpaperdate": "10/6/2009 0:00",
+      "originalpaperdoi": "10.1093/nar/gkp768",
+      "originalpaperpubmedid": "19808933.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher",
         "+Manipulation of Images",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "Ya Wang has ORI finding of misconduct, see : https://ori.hhs.gov/sites/default/files/2021-09/2021-20268%20FRN%20Ya%20Wang.pdf",
-      "notice_year": 2022,
-      "year": 2009,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Ya Wang has ORI finding of misconduct, see : https://ori.hhs.gov/sites/default/files/2021-09/2021-20268%20FRN%20Ya%20Wang.pdf",
+      "year": "2009",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234558f",
-      "Record ID": "40007",
-      "Title": "Inhibition of breast cancer metastasis with microRNA-302a by downregulation of CXCR4 expression",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Radiology and Imaging Sciences, Emory University, Atlanta, GA, 30322, USA",
-        "Winship Cancer Institute, Emory University, Atlanta, GA, 30322, USA",
-        "Department of Thyroid Surgery, China-Japan Union Hospital of Jilin University, Changchun, China"
-      ],
-      "Journal": "Breast Cancer Research and Treatment",
-      "Publisher": "Springer",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Zhongxing Liang",
-        "Xuehai Bian",
-        "Hyunsuk Shim"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/23/2022 0:00",
-      "RetractionDOI": "10.1007/s10549-022-06779-x",
-      "RetractionPubMedID": "36273359.0",
-      "OriginalPaperDate": "6/17/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s10549-014-3053-0",
-      "OriginalPaperPubMedID": "25030358.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/8A720A0ABE213347AFFA12FE8A8ABF",
-      "notice_year": 2022,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345510",
-      "Record ID": "40134",
-      "Title": "Regulation of miR-19 to Breast Cancer Chemoresistance Through Targeting PTEN",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba5d",
+      "recordId": "35646",
+      "title": "MicroRNA\u201130c\u2011regulated HDAC9 mediates chemoresistance of breast cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
-        "Department of Radiology and Imaging Sciences, Emory University, Atlanta, Georgia, 30322, USA",
-        "Winship Cancer Institute, Emory University, Atlanta, Georgia, 30322, USA",
-        "Yerkes Microarray Core, Yerkes National Primate Research Center Emory University, Atlanta, Georgia, 30322, USA"
+      "institution": [
+        "Department of Radiation Oncology, Emory University, Atlanta, GA, 30322, USA",
+        "Winship Cancer Institute, Emory University, Atlanta, GA, 30322, USA"
       ],
-      "Journal": "Pharmacological Research",
-      "Publisher": "Springer",
-      "Country": [
-        "United States"
+      "journal": "Cancer Chemotherapy and Pharmacology",
+      "publisher": "Springer",
+      "country": [
+        "China"
       ],
-      "Author": [
+      "author": [
         "Zhongxing Liang",
-        "Yuhua Li",
-        "Ke Huang",
-        "Nicholas Wagar",
+        "Amber Feng",
         "Hyunsuk Shim"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/28/2022 0:00",
-      "RetractionDOI": "10.1007/s11095-022-03417-5",
-      "RetractionPubMedID": "36307663.0",
-      "OriginalPaperDate": "8/19/2011 0:00",
-      "OriginalPaperDOI": "10.1007/s11095-011-0570-y",
-      "OriginalPaperPubMedID": "21853360.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Original Data and/or Images not Provided and/or not Available"
+      "retractiondate": "2/24/2022 0:00",
+      "retractiondoi": "10.1007/s00280-022-04409-3",
+      "retractionpubmedid": "35201422.0",
+      "originalpaperdate": "1/6/2020 0:00",
+      "originalpaperdoi": "10.1007/s00280-019-04024-9",
+      "originalpaperpubmedid": "31907648.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Third Party",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/C7F39439A9E0706EA71FC07924045C",
-      "notice_year": 2022,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/4B184C16F28A42EE361342680F459D;",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -249,10 +253,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

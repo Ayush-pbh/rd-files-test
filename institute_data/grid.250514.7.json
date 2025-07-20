@@ -1,37 +1,82 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a05d",
+    "_id": "687ccbab09adbf7aa61bac7e",
     "grid_id": "grid.250514.7",
     "institute_name": "Pennington Biomedical Research Center",
     "country": "United States",
     "retracted_record_ids": [
-      "127",
-      "3776"
+      "3776",
+      "127"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234f025",
-      "Record ID": "127",
-      "Title": "A novel quantitative method for diabetic cardiac autonomic neuropathy assessment in type I diabetic mice",
-      "Subject": [
+      "_id": "687cf0cb1f662220d899361e",
+      "recordId": "3776",
+      "title": "Ecdysterone Enhances Muscle Insulin Signaling by Modulating Acylcarnitine Profile and Mitochondrial Oxidative Phosphorylation Complexes in Mice Fed a High-fat Diet",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Nutrition and Diabetes Research Laboratory, Pennington Biomedical Research Center, Louisiana State University System, Baton Rouge, Louisiana",
+        "Nutritional Sciences, Rutgers University, New Brunswick, New Jersey"
+      ],
+      "journal": "Diabetes",
+      "publisher": "American Diabetes Association",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Zhong Q Wang",
+        "Yongmei Yu",
+        "Xian H Zhang",
+        "David Ribnicky",
+        "William T Cefalu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/1/2011 0:00",
+      "retractiondoi": "10.2337/db10-1605",
+      "retractionpubmedid": "22629554.0",
+      "originalpaperdate": "5/1/2011 0:00",
+      "originalpaperdoi": "10.2337/db10-1605",
+      "originalpaperpubmedid": "21415384.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d91f662220d899440b",
+      "recordId": "127",
+      "title": "A novel quantitative method for diabetic cardiac autonomic neuropathy assessment in type I diabetic mice",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Endocrinology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biomedical Engineering, Worcester Polytechnic Institute, Worcester, MA",
         "Department of Medicine, UCLA, Los Angeles, CA",
         "Pennington Biomedical Research Center, Louisiana State University System, Baton Rouge, LA",
         "Department of Physiology & Biophysics, Stony Brook University, Stony Brook, NY"
       ],
-      "Journal": "American Journal of Physiology - Heart and Circulatory Physiology",
-      "Publisher": "APS: American Physiological Society",
-      "Country": [
+      "journal": "American Journal of Physiology - Heart and Circulatory Physiology",
+      "publisher": "APS: American Physiological Society",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ki H Chon",
         "Bufan Yang",
         "Kin L Siu",
@@ -41,88 +86,46 @@
         "Aija Birzgalis",
         "Leon C Moore"
       ],
-      "ArticleType": [
+      "articletype": [
         "Article in Press",
         "Research Article"
       ],
-      "RetractionDate": "5/1/2013 0:00",
-      "RetractionDOI": "10.1152/ajpheart.00037.2013",
-      "RetractionPubMedID": "23504179.0",
-      "OriginalPaperDate": "3/15/2013 0:00",
-      "OriginalPaperDOI": "10.1152/ajpheart.00037.2013",
-      "OriginalPaperPubMedID": "23504179.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/1/2013 0:00",
+      "retractiondoi": "10.1152/ajpheart.00037.2013",
+      "retractionpubmedid": "23504179.0",
+      "originalpaperdate": "3/15/2013 0:00",
+      "originalpaperdoi": "10.1152/ajpheart.00037.2013",
+      "originalpaperpubmedid": "23504179.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2013
-    },
-    {
-      "_id": "6855d574b14f7811d234e238",
-      "Record ID": "3776",
-      "Title": "Ecdysterone Enhances Muscle Insulin Signaling by Modulating Acylcarnitine Profile and Mitochondrial Oxidative Phosphorylation Complexes in Mice Fed a High-fat Diet",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Nutrition and Diabetes Research Laboratory, Pennington Biomedical Research Center, Louisiana State University System, Baton Rouge, Louisiana",
-        "Nutritional Sciences, Rutgers University, New Brunswick, New Jersey"
-      ],
-      "Journal": "Diabetes",
-      "Publisher": "American Diabetes Association",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Zhong Q Wang",
-        "Yongmei Yu",
-        "Xian H Zhang",
-        "David Ribnicky",
-        "William T Cefalu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2011 0:00",
-      "RetractionDOI": "10.2337/db10-1605",
-      "RetractionPubMedID": "22629554.0",
-      "OriginalPaperDate": "5/1/2011 0:00",
-      "OriginalPaperDOI": "10.2337/db10-1605",
-      "OriginalPaperPubMedID": "21415384.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

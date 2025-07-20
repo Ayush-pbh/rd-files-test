@@ -1,104 +1,260 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068798ba",
+    "_id": "687ccbab09adbf7aa61ba4db",
     "grid_id": "grid.411840.8",
     "institute_name": "Cadi Ayyad University",
     "country": "Morocco",
     "retracted_record_ids": [
       "16565",
-      "23297"
+      "23297",
+      "65855",
+      "65531",
+      "65469"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234b0b4",
-      "Record ID": "16565",
-      "Title": "Relationship between salinity, germination, plant growth, chemical composition and antioxidant capacity of Thymus broussonetii Boiss",
-      "Subject": [
+      "_id": "687cef4f1f662220d89844f6",
+      "recordId": "65855",
+      "title": "Bio-based composite from chitosan waste and clay for effective removal of Congo red dye from contaminated water: Experimental studies and theoretical insights",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(ENV) Environmental Sciences",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Laboratory of Materials, Process, Environment, and Quality (LMPEQ), ENSA Safi, Morocco",
+        "Laboratory of Analytical and Molecular Chemistry, Faculty Poly-disciplinary of Safi, BP 4162, Safi, 46 000, Morocco",
+        "Materials Science, Energy and Nano-Engineering (MSN) Department, Mohammed VI Polytechnic University (UM6P), Lot 660 \u2013 Hay Moulay Rachid, 43150, Benguerir, Morocco",
+        "Biochemistry Laboratory, Faculty of Medicine and Pharmacy of Marrakech, Cadi Ayyad University, B.P. 7010, 40000, Marrakech, Morocco",
+        "College of Environment and Ecology, Xiamen University, Fujian Province, Xiamen, 361102, China",
+        "Laboratory of Water, Biodiversity Climate Changes, Semlalia Faculty of Sciences, B.P. 2390, 40000, Marrakech, Morocco",
+        "National Centre for Research and Study on Water and Energy (CNEREE), University Cadi Ayyad, Marrakech, Morocco"
+      ],
+      "journal": "Environmental Research",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "Morocco"
+      ],
+      "author": [
+        "Mouhsine Bellaj",
+        "Aicha Naboulsi",
+        "Khalid Aziz",
+        "Abdelmajid Regti",
+        "Mamoune El Himri",
+        "Mohammadine El Haddad",
+        "Mounir El Achaby",
+        "Abdelkrim Abourriche",
+        "Lhoucine Gebrati",
+        "Tonni Agustiono Kurniawan",
+        "Faissal Aziz"
+      ],
+      "urls": "https://retractionwatch.com/2025/05/14/dozens-of-elsevier-papers-retracted-over-fake-companies-and-suspicious-authorship-changes/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/22/2025 0:00",
+      "retractiondoi": "10.1016/j.envres.2025.121905",
+      "retractionpubmedid": "40404541.0",
+      "originalpaperdate": "5/22/2024 0:00",
+      "originalpaperdoi": "10.1016/j.envres.2024.119089",
+      "originalpaperpubmedid": "38788787.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)"
+      ],
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2025",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef511f662220d898463a",
+      "recordId": "65531",
+      "title": "Self fuzzy-genetic approach for boosting photovoltaic efficiency",
+      "subject": [
+        "(B/T) Data Science",
+        "(PHY) Energy",
+        "(PHY) Engineering - Electrical"
+      ],
+      "institution": [
+        "Department of Physics, Laboratory of Materials, Energy and Environment, Faculty of Sciences Semlalia, Cadi Ayyad University, Marrakech, Morocco",
+        "Department of Applied Physics, Faculty of Science and Technology, Cadi Ayyad University, Marrakesh, Morocco"
+      ],
+      "journal": "Journal of Intelligent & Fuzzy Systems",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "country": [
+        "Morocco"
+      ],
+      "author": [
+        "Mohamed El Alaoui Elfels",
+        "Moulay Rachid Douiri",
+        "Mustapha Raoufi"
+      ],
+      "urls": "https://retractionwatch.com/2024/08/23/exclusive-publisher-retracts-more-than-450-papers-from-journal-it-acquired-last-year/;https://retractionwatch.com/2025/04/17/sage-journal-intelligent-fuzzy-systems-retracts-678-more-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/23/2024 0:00",
+      "retractiondoi": "10.3233/JIFS-219433",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/2/2024 0:00",
+      "originalpaperdoi": "10.3233/jifs-231710",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef511f662220d8984677",
+      "recordId": "65469",
+      "title": "Predictive analysis for road accidents using a tree-based and deep learning fusion system",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "LISI Laboratory, Computer Science Department, FSSM, Cadi Ayyad University, Morocco",
+        "SARS Research Team, Computer Science Department, ENSAS, Cadi Ayyad University, Morocco"
+      ],
+      "journal": "Journal of Intelligent & Fuzzy Systems",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "country": [
+        "Morocco"
+      ],
+      "author": [
+        "Mohammed Ameksa",
+        "Zouhair Elamrani Abou Elassad",
+        "Dauha Elamrani Abou Elassad",
+        "Hajar Mousannif"
+      ],
+      "urls": "https://retractionwatch.com/2024/08/23/exclusive-publisher-retracts-more-than-450-papers-from-journal-it-acquired-last-year/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/23/2024 0:00",
+      "retractiondoi": "10.3233/JIFS-219433",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/1/2023 0:00",
+      "originalpaperdoi": "10.3233/jifs-232078",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0121f662220d898ea78",
+      "recordId": "23297",
+      "title": "Convergence Rate of Inertial Proximal Algorithms with General Extrapolation and Proximal Coefficients",
+      "subject": [
+        "(PHY) Mathematics"
+      ],
+      "institution": [
+        "IMAG, CNRS, Universit\u00e9 de Montpellier, Montpellier, France",
+        "Department of Mathematics, Faculty of Sciences Semlalia, Cadi Ayyad University, 40000, Marrakech, Morocco"
+      ],
+      "journal": "Bulletin of the Malaysian Mathematical Sciences Society",
+      "publisher": "Springer",
+      "country": [
+        "France",
+        "Morocco"
+      ],
+      "author": [
+        "Hedy Attouch",
+        "ZAki Chbani",
+        "Hassan Riahi"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/1/2020 0:00",
+      "retractiondoi": "10.1007/s40840-020-00900-3",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/27/2020 0:00",
+      "originalpaperdoi": "10.1007/s40840-020-00900-3",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Withdrawn to Publish in Different Journal"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0971f662220d899049a",
+      "recordId": "16565",
+      "title": "Relationship between salinity, germination, plant growth, chemical composition and antioxidant capacity of Thymus broussonetii Boiss",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Plant Biology/Botany",
         "(BLS) Toxicology",
         "(ENV) Environmental Sciences"
       ],
-      "Institution": [
+      "institution": [
         "Laboratoire de Chimie Organique Appliqu\u00e9e, Facult\u00e9 des Sciences Semlalia, Universit\u00e9 Cadi Ayyad, Marrakech, Morocco"
       ],
-      "Journal": "Industrial Crops and Products",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Industrial Crops and Products",
+      "publisher": "Elsevier",
+      "country": [
         "Morocco"
       ],
-      "Author": [
+      "author": [
         "Rim Belaqziz",
         "Abderrahmane Romane"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2014 0:00",
-      "RetractionDOI": "10.1016/j.indcrop.2014.04.030",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/28/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.indcrop.2013.11.023",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2014 0:00",
+      "retractiondoi": "10.1016/j.indcrop.2014.04.030",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/28/2013 0:00",
+      "originalpaperdoi": "10.1016/j.indcrop.2013.11.023",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2013
-    },
-    {
-      "_id": "6855d574b14f7811d2349692",
-      "Record ID": "23297",
-      "Title": "Convergence Rate of Inertial Proximal Algorithms with General Extrapolation and Proximal Coefficients",
-      "Subject": [
-        "(PHY) Mathematics"
-      ],
-      "Institution": [
-        "IMAG, CNRS, Universit\u00e9 de Montpellier, Montpellier, France",
-        "Department of Mathematics, Faculty of Sciences Semlalia, Cadi Ayyad University, 40000, Marrakech, Morocco"
-      ],
-      "Journal": "Bulletin of the Malaysian Mathematical Sciences Society",
-      "Publisher": "Springer",
-      "Country": [
-        "France",
-        "Morocco"
-      ],
-      "Author": [
-        "Hedy Attouch",
-        "ZAki Chbani",
-        "Hassan Riahi"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2020 0:00",
-      "RetractionDOI": "10.1007/s40840-020-00900-3",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/27/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s40840-020-00900-3",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Withdrawn to Publish in Different Journal"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -106,21 +262,54 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2024,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

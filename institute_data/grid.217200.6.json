@@ -1,27 +1,143 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879a29",
+    "_id": "687ccbab09adbf7aa61ba64a",
     "grid_id": "grid.217200.6",
     "institute_name": "Scripps Institution of Oceanography",
     "country": "United States",
     "retracted_record_ids": [
-      "17746",
-      "21285",
       "21286",
-      "6252"
+      "6252",
+      "17746",
+      "21285"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ac25",
-      "Record ID": "17746",
-      "Title": "Temporal variations in fumarole gas chemistry at Po\u00e1s volcano, Costa Rica",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f24c",
+      "recordId": "21286",
+      "title": "Quantification of ocean heat uptake from changes in atmospheric O2 and CO2 composition",
+      "subject": [
+        "(ENV) Climate Change",
+        "(ENV) Ground/Surface Water"
+      ],
+      "institution": [
+        "Department of Geosciences and Princeton Environmental Institute, Princeton University, Princeton, NJ, USA",
+        "Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA, USA",
+        "Department of Environmental Science and Engineering, Fudan University, Shanghai, China",
+        "LMD/IPSL, ENS, PSL Research University, \u00c9cole Polytechnique, Sorbonne Universit\u00e9, CNRS, Paris, France",
+        "National Center for Atmospheric Research, Boulder, CO, USA",
+        "NOAA, Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA",
+        "GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany"
+      ],
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "author": [
+        "L Resplandy",
+        "R F Keeling",
+        "Y Eddebbar",
+        "M K Brooks",
+        "R Wang",
+        "L Bopp",
+        "M C Long",
+        "J P Dunne",
+        "W Koeve",
+        "A Oschlies"
+      ],
+      "urls": "http://retractionwatch.com/2019/09/25/nature-paper-on-ocean-warming-retracted/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/19/2018 0:00",
+      "retractiondoi": "10.1038/s41586-018-0651-8",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/31/2018 0:00",
+      "originalpaperdoi": "10.1038/s41586-018-0651-8",
+      "originalpaperpubmedid": "30382201.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Error in Analyses",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f24d",
+      "recordId": "21285",
+      "title": "Quantification of ocean heat uptake from changes in atmospheric O2 and CO2 composition",
+      "subject": [
+        "(ENV) Climate Change",
+        "(ENV) Ground/Surface Water"
+      ],
+      "institution": [
+        "Department of Geosciences and Princeton Environmental Institute, Princeton University, Princeton, NJ, USA",
+        "Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA, USA",
+        "Department of Environmental Science and Engineering, Fudan University, Shanghai, China",
+        "LMD/IPSL, ENS, PSL Research University, \u00c9cole Polytechnique, Sorbonne Universit\u00e9, CNRS, Paris, France",
+        "National Center for Atmospheric Research, Boulder, CO, USA",
+        "NOAA, Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA",
+        "GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany"
+      ],
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "author": [
+        "L Resplandy",
+        "R F Keeling",
+        "Y Eddebbar",
+        "M K Brooks",
+        "R Wang",
+        "L Bopp",
+        "M C Long",
+        "J P Dunne",
+        "W Koeve",
+        "A Oschlies"
+      ],
+      "urls": "http://retractionwatch.com/2019/09/25/nature-paper-on-ocean-warming-retracted/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/25/2019 0:00",
+      "retractiondoi": "10.1038/s41586-019-1585-5",
+      "retractionpubmedid": "31554976.0",
+      "originalpaperdate": "10/31/2018 0:00",
+      "originalpaperdoi": "10.1038/s41586-018-0651-8",
+      "originalpaperpubmedid": "30382201.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d899000b",
+      "recordId": "17746",
+      "title": "Temporal variations in fumarole gas chemistry at Po\u00e1s volcano, Costa Rica",
+      "subject": [
         "(ENV) Environmental Sciences",
         "(PHY) Chemistry",
         "(PHY) Geology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Earth and Planetary Sciences, University of New Mexico, Albuquerque, NM 87131-1116, USA",
         "Fluids and Volatiles Laboratory, Geosciences Research Division, Scripps Institution of Oceanography, UCSD, La Jolla, CA 92093-0244, USA",
         "Red Sismol\u00f3gica Nacional, Escuela Centroamericana de Geolog\u00eda, Centro de Investigaciones en Ciencas Geol\u00f3gicas, Universidad de Costa Rica, San Jose, Costa Rica",
@@ -32,14 +148,14 @@
         "Planetary Geosciences Institute, Department of Earth and Planetary Sciences, University of Tennessee, Knoxville, TN 37996, USA",
         "Centre de Recherches P\u00e9trographiques et G\u00e9ochimiques, CNRS-UL, 15 rue Notre Dame des Pauvres, 54501 Vandoeuvre-l\u00e8s-Nancy, France"
       ],
-      "Journal": "Journal of Volcanology and Geothermal Research",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Volcanology and Geothermal Research",
+      "publisher": "Elsevier",
+      "country": [
         "Costa Rica",
         "France",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Tobias P Fischer",
         "Carlos J Ramirez",
         "Raul A Mora-Amador",
@@ -52,218 +168,106 @@
         "Evelyn Furi",
         "Alison M Shaw"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/15/2014 0:00",
-      "RetractionDOI": "10.1016/j.jvolgeores.2014.08.010",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/20/2014 0:00",
-      "OriginalPaperDOI": "10.1016/j.jvolgeores.2014.08.010",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/15/2014 0:00",
+      "retractiondoi": "10.1016/j.jvolgeores.2014.08.010",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/20/2014 0:00",
+      "originalpaperdoi": "10.1016/j.jvolgeores.2014.08.010",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349e67",
-      "Record ID": "21285",
-      "Title": "Quantification of ocean heat uptake from changes in atmospheric O2 and CO2 composition",
-      "Subject": [
-        "(ENV) Climate Change",
-        "(ENV) Ground/Surface Water"
-      ],
-      "Institution": [
-        "Department of Geosciences and Princeton Environmental Institute, Princeton University, Princeton, NJ, USA",
-        "Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA, USA",
-        "Department of Environmental Science and Engineering, Fudan University, Shanghai, China",
-        "LMD/IPSL, ENS, PSL Research University, \u00c9cole Polytechnique, Sorbonne Universit\u00e9, CNRS, Paris, France",
-        "National Center for Atmospheric Research, Boulder, CO, USA",
-        "NOAA, Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA",
-        "GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China",
-        "France",
-        "Germany",
-        "United States"
-      ],
-      "Author": [
-        "L Resplandy",
-        "R F Keeling",
-        "Y Eddebbar",
-        "M K Brooks",
-        "R Wang",
-        "L Bopp",
-        "M C Long",
-        "J P Dunne",
-        "W Koeve",
-        "A Oschlies"
-      ],
-      "URLS": "http://retractionwatch.com/2019/09/25/nature-paper-on-ocean-warming-retracted/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/25/2019 0:00",
-      "RetractionDOI": "10.1038/s41586-019-1585-5",
-      "RetractionPubMedID": "31554976.0",
-      "OriginalPaperDate": "10/31/2018 0:00",
-      "OriginalPaperDOI": "10.1038/s41586-018-0651-8",
-      "OriginalPaperPubMedID": "30382201.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349e66",
-      "Record ID": "21286",
-      "Title": "Quantification of ocean heat uptake from changes in atmospheric O2 and CO2 composition",
-      "Subject": [
-        "(ENV) Climate Change",
-        "(ENV) Ground/Surface Water"
-      ],
-      "Institution": [
-        "Department of Geosciences and Princeton Environmental Institute, Princeton University, Princeton, NJ, USA",
-        "Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA, USA",
-        "Department of Environmental Science and Engineering, Fudan University, Shanghai, China",
-        "LMD/IPSL, ENS, PSL Research University, \u00c9cole Polytechnique, Sorbonne Universit\u00e9, CNRS, Paris, France",
-        "National Center for Atmospheric Research, Boulder, CO, USA",
-        "NOAA, Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA",
-        "GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China",
-        "France",
-        "Germany",
-        "United States"
-      ],
-      "Author": [
-        "L Resplandy",
-        "R F Keeling",
-        "Y Eddebbar",
-        "M K Brooks",
-        "R Wang",
-        "L Bopp",
-        "M C Long",
-        "J P Dunne",
-        "W Koeve",
-        "A Oschlies"
-      ],
-      "URLS": "http://retractionwatch.com/2019/09/25/nature-paper-on-ocean-warming-retracted/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/19/2018 0:00",
-      "RetractionDOI": "10.1038/s41586-018-0651-8",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/31/2018 0:00",
-      "OriginalPaperDOI": "10.1038/s41586-018-0651-8",
-      "OriginalPaperPubMedID": "30382201.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Error in Analyses",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234d8bc",
-      "Record ID": "6252",
-      "Title": "Anomalous phases in TE-mode magnetotellurics",
-      "Subject": [
+      "_id": "687cf0c11f662220d8992ca2",
+      "recordId": "6252",
+      "title": "Anomalous phases in TE-mode magnetotellurics",
+      "subject": [
         "(PHY) Geology",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "University of California San Diego, Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, La Jolla, California"
       ],
-      "Journal": "Geophysics",
-      "Publisher": "Society of Exploration Geophysicists",
-      "Country": [
+      "journal": "Geophysics",
+      "publisher": "Society of Exploration Geophysicists",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Robert L Parker"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/10/2015 0:00",
-      "RetractionDOI": "10.1190/2015-0205-RETRACT.1",
-      "OriginalPaperDate": "3/1/2014 0:00",
-      "OriginalPaperDOI": "10.1190/geo2013-0325.1",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/10/2015 0:00",
+      "retractiondoi": "10.1190/2015-0205-RETRACT.1",
+      "originalpaperdate": "3/1/2014 0:00",
+      "originalpaperdoi": "10.1190/geo2013-0325.1",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Results and/or Conclusions",
         "+Error in Text"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2015,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "Yes",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

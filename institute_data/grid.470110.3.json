@@ -1,31 +1,285 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687903b",
+    "_id": "687ccbab09adbf7aa61b9c5c",
     "grid_id": "grid.470110.3",
     "institute_name": "Shanghai Public Health Clinical Center",
     "country": "China",
     "retracted_record_ids": [
+      "37619",
+      "37269",
+      "39107",
       "34809",
       "37621",
-      "37619",
       "25873",
-      "7373",
-      "39107",
       "37713",
-      "37269"
+      "7373"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23469ba",
-      "Record ID": "34809",
-      "Title": "Nuclear Localization and Cleavage of STAT6 Is Induced by Kaposi\u2019s Sarcoma-Associated Herpesvirus for Viral Latency",
-      "Subject": [
+      "_id": "687cefb41f662220d898acf2",
+      "recordId": "39107",
+      "title": "Combination of sorafenib and gadolinium chloride (GdCl3) attenuates dimethylnitrosamine(DMN)-induced liver fibrosis in rats",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Department of Traditional Chinese Medicine, Shanghai Public Health Clinical Center, Shanghai, 201508, China",
+        "Laboratory of Molecular Pathology, Central Laboratory, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 200062, China",
+        "Department of Hepatology, Affiliated hospital of Shandong University of Trasitional Chinese Medicine, 250014, Jinan, China"
+      ],
+      "journal": "BMC Gastroenterology",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Cheng Liu",
+        "Zongguo Yang",
+        "Lei Wang",
+        "Yunfei Lu",
+        "Bozong Tang",
+        "Hui Miao",
+        "Qingnian Xu",
+        "Xiaorong Chen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/15/2022 0:00",
+      "retractiondoi": "10.1186/s12876-022-02495-4",
+      "retractionpubmedid": "36109709.0",
+      "originalpaperdate": "11/16/2015 0:00",
+      "originalpaperdoi": "10.1186/s12876-015-0380-5",
+      "originalpaperpubmedid": "26572488.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefba1f662220d898b25d",
+      "recordId": "37713",
+      "title": "Glucocorticoids Should Be Used With Caution in Patients With SARS-CoV-2",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Critical Care Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China",
+        "Department of Clinical Pharmocology, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China",
+        "Department of Critical Care Medicine, Shanghai Public Health Clinical Center, Fudan University, Shanghai, China"
+      ],
+      "journal": "Frontiers in Medicine",
+      "publisher": "Frontiers",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yong Guo",
+        "Yan Chen",
+        "Yingchuan Li"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "5/31/2022 0:00",
+      "retractiondoi": "10.3389/fmed.2022.947016",
+      "retractionpubmedid": "35712099.0",
+      "originalpaperdate": "2/24/2021 0:00",
+      "originalpaperdoi": "10.3389/fmed.2021.564943",
+      "originalpaperpubmedid": "33718395.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefba1f662220d898b2b9",
+      "recordId": "37621",
+      "title": "Curcumin synergizes with 5-fluorouracil by impairing AMPK/ULK1-dependent autophagy, AKT activity and enhancing apoptosis in colon cancer cells with tumor growth inhibition in xenograft mice",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Key Laboratory of Brain Functional Genomics (East China Normal University), Ministry of Education, School of Life Sciences, East China Normal University, Shanghai, 200062, China",
+        "Department of Clinical Laboratory, Shanghai First Maternity and Infant Hospital, Tongji University School of Medicine, Shanghai, 201204, China",
+        "Department of Clinical Laboratory, Shanghai Public Health Clinical Center Affiliated to Fudan University, Shanghai, 201508, China",
+        "Department of Thoracic Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China",
+        "INSERM-UGA U1209, CNRS UMR5309, Institute for Advanced Biosciences, F-38700, La Tronche, France"
+      ],
+      "journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China",
+        "France"
+      ],
+      "author": [
+        "Pan Zhang",
+        "Ze Lin Lai",
+        "Hui Fen Chen",
+        "Min Zhang",
+        "An Wang",
+        "Tao Jia",
+        "Wen Qin Sun",
+        "Xi Min Zhu",
+        "Xiao Feng Chen",
+        "Zheng Zhao",
+        "Jun Zhang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/14/2020 0:00",
+      "retractiondoi": "10.1186/s13046-017-0661-7",
+      "retractionpubmedid": "29273065.0",
+      "originalpaperdate": "12/22/2017 0:00",
+      "originalpaperdoi": "10.1186/s13046-017-0661-7",
+      "originalpaperpubmedid": "29273065.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefba1f662220d898b2bb",
+      "recordId": "37619",
+      "title": "Curcumin synergizes with 5-fluorouracil by impairing AMPK/ULK1-dependent autophagy, AKT activity and enhancing apoptosis in colon cancer cells with tumor growth inhibition in xenograft mice",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Key Laboratory of Brain Functional Genomics (East China Normal University), Ministry of Education, School of Life Sciences, East China Normal University, Shanghai, 200062, China",
+        "Department of Clinical Laboratory, Shanghai First Maternity and Infant Hospital, Tongji University School of Medicine, Shanghai, 201204, China",
+        "Department of Clinical Laboratory, Shanghai Public Health Clinical Center Affiliated to Fudan University, Shanghai, 201508, China",
+        "Department of Thoracic Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China",
+        "INSERM-UGA U1209, CNRS UMR5309, Institute for Advanced Biosciences, F-38700, La Tronche, France"
+      ],
+      "journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China",
+        "France"
+      ],
+      "author": [
+        "Pan Zhang",
+        "Ze Lin Lai",
+        "Hui Fen Chen",
+        "Min Zhang",
+        "An Wang",
+        "Tao Jia",
+        "Wen Qin Sun",
+        "Xi Min Zhu",
+        "Xiao Feng Chen",
+        "Zheng Zhao",
+        "Jun Zhang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/10/2022 0:00",
+      "retractiondoi": "10.1186/s13046-022-02409-y",
+      "retractionpubmedid": "35681210.0",
+      "originalpaperdate": "12/22/2017 0:00",
+      "originalpaperdoi": "10.1186/s13046-017-0661-7",
+      "originalpaperpubmedid": "29273065.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Data",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefbc1f662220d898b419",
+      "recordId": "37269",
+      "title": "Diagnosis of tuberculosis molecular markers based on the identification of the immune activity of mycobacterium tuberculosis",
+      "subject": [
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Department of Thoracic Surgery, Shanghai Public Health Clinical Center, Fudan University, Shanghai, China",
+        "Department of Scientific Research, Shanghai Public Health Clinical Center, Institutes of Biomedical Sciences, Fudan University, Shanghai, China"
+      ],
+      "journal": "International Journal of Electrical Engineering & Education",
+      "publisher": "SAGE Publications",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yifei Wang",
+        "Hongwei Li",
+        "Yanzheng Song"
+      ],
+      "urls": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
+      "articletype": [
+        "Article in Press",
+        "Research Article"
+      ],
+      "retractiondate": "12/15/2021 0:00",
+      "retractiondoi": "10.1177/00207209211064059",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/29/2018 0:00",
+      "originalpaperdoi": "10.1177/0020720918813809",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Paper Mill"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc61f662220d898bda0",
+      "recordId": "34809",
+      "title": "Nuclear Localization and Cleavage of STAT6 Is Induced by Kaposi\u2019s Sarcoma-Associated Herpesvirus for Viral Latency",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "MOE& MOH Key Laboratory of Medical Molecular Virology, School of Basic Medicine, Shanghai Medical College, Fudan University, Shanghai, P. R. China",
         "ShengYushou Center of Cell Biology and Immunology, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, P. R. China",
         "Hospital and Institute of Obstetrics and Gynecology, Shanghai Medical College, Fudan University, Shanghai, P. R. China",
@@ -34,13 +288,13 @@
         "Division of Hematology, Shanghai First People\u2019s Hospital, Shanghai Jiao Tong University, Shanghai, P. R. China",
         "Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Chong Wang",
         "Caxia Zhu",
         "Fang Wei",
@@ -55,175 +309,64 @@
         "Erle S Robertson",
         "Qiliang Cai"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/15/2021 0:00",
-      "RetractionDOI": "10.1371/journal.ppat.1010047",
-      "RetractionPubMedID": "34910774.0",
-      "OriginalPaperDate": "1/18/2017 0:00",
-      "OriginalPaperDOI": "10.1371/journal.ppat.1006124",
-      "OriginalPaperPubMedID": "28099521.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "12/15/2021 0:00",
+      "retractiondoi": "10.1371/journal.ppat.1010047",
+      "retractionpubmedid": "34910774.0",
+      "originalpaperdate": "1/18/2017 0:00",
+      "originalpaperdoi": "10.1371/journal.ppat.1006124",
+      "originalpaperpubmedid": "28099521.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Error in Image",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/B350672D8EF14A01AC8E4190B3D311#3",
-      "notice_year": 2021,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/B350672D8EF14A01AC8E4190B3D311#3",
+      "year": "2017",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345ed3",
-      "Record ID": "37621",
-      "Title": "Curcumin synergizes with 5-fluorouracil by impairing AMPK/ULK1-dependent autophagy, AKT activity and enhancing apoptosis in colon cancer cells with tumor growth inhibition in xenograft mice",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Key Laboratory of Brain Functional Genomics (East China Normal University), Ministry of Education, School of Life Sciences, East China Normal University, Shanghai, 200062, China",
-        "Department of Clinical Laboratory, Shanghai First Maternity and Infant Hospital, Tongji University School of Medicine, Shanghai, 201204, China",
-        "Department of Clinical Laboratory, Shanghai Public Health Clinical Center Affiliated to Fudan University, Shanghai, 201508, China",
-        "Department of Thoracic Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China",
-        "INSERM-UGA U1209, CNRS UMR5309, Institute for Advanced Biosciences, F-38700, La Tronche, France"
-      ],
-      "Journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China",
-        "France"
-      ],
-      "Author": [
-        "Pan Zhang",
-        "Ze Lin Lai",
-        "Hui Fen Chen",
-        "Min Zhang",
-        "An Wang",
-        "Tao Jia",
-        "Wen Qin Sun",
-        "Xi Min Zhu",
-        "Xiao Feng Chen",
-        "Zheng Zhao",
-        "Jun Zhang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/14/2020 0:00",
-      "RetractionDOI": "10.1186/s13046-017-0661-7",
-      "RetractionPubMedID": "29273065.0",
-      "OriginalPaperDate": "12/22/2017 0:00",
-      "OriginalPaperDOI": "10.1186/s13046-017-0661-7",
-      "OriginalPaperPubMedID": "29273065.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345ed5",
-      "Record ID": "37619",
-      "Title": "Curcumin synergizes with 5-fluorouracil by impairing AMPK/ULK1-dependent autophagy, AKT activity and enhancing apoptosis in colon cancer cells with tumor growth inhibition in xenograft mice",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Key Laboratory of Brain Functional Genomics (East China Normal University), Ministry of Education, School of Life Sciences, East China Normal University, Shanghai, 200062, China",
-        "Department of Clinical Laboratory, Shanghai First Maternity and Infant Hospital, Tongji University School of Medicine, Shanghai, 201204, China",
-        "Department of Clinical Laboratory, Shanghai Public Health Clinical Center Affiliated to Fudan University, Shanghai, 201508, China",
-        "Department of Thoracic Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China",
-        "INSERM-UGA U1209, CNRS UMR5309, Institute for Advanced Biosciences, F-38700, La Tronche, France"
-      ],
-      "Journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China",
-        "France"
-      ],
-      "Author": [
-        "Pan Zhang",
-        "Ze Lin Lai",
-        "Hui Fen Chen",
-        "Min Zhang",
-        "An Wang",
-        "Tao Jia",
-        "Wen Qin Sun",
-        "Xi Min Zhu",
-        "Xiao Feng Chen",
-        "Zheng Zhao",
-        "Jun Zhang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/10/2022 0:00",
-      "RetractionDOI": "10.1186/s13046-022-02409-y",
-      "RetractionPubMedID": "35681210.0",
-      "OriginalPaperDate": "12/22/2017 0:00",
-      "OriginalPaperDOI": "10.1186/s13046-017-0661-7",
-      "OriginalPaperPubMedID": "29273065.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Data",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2348c8c",
-      "Record ID": "25873",
-      "Title": "miR-199a-3p knockdown inhibits dedifferentiated liposarcoma (DDLPS) cell viability and enhances apoptosis through targeting casein kinase-1 alpha (CK1\u03b1)",
-      "Subject": [
+      "_id": "687cf0001f662220d898e072",
+      "recordId": "25873",
+      "title": "miR-199a-3p knockdown inhibits dedifferentiated liposarcoma (DDLPS) cell viability and enhances apoptosis through targeting casein kinase-1 alpha (CK1\u03b1)",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of General Surgery, Shanghai Public Health Clinical Center, No. 921 Rd. Tongxin, Hongkou, Shanghai, China",
         "Department of General Surgery, Zhongshan Hospital & Red Cross Hospital, Xuhui, Shanghai, China"
       ],
-      "Journal": "RSC Advances",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
+      "journal": "RSC Advances",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Ye Cao",
         "Jiajia Zheng",
         "Chentao Lv"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2021 0:00",
-      "RetractionDOI": "10.1039/D1RA90070F",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/23/2019 0:00",
-      "OriginalPaperDOI": "10.1039/C9RA01491H",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2021 0:00",
+      "retractiondoi": "10.1039/D1RA90070F",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/23/2019 0:00",
+      "originalpaperdoi": "10.1039/C9RA01491H",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
@@ -231,33 +374,34 @@
         "+Paper Mill",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d46b",
-      "Record ID": "7373",
-      "Title": "Identification of Novel Biomarkers for Pancreatic Cancer Using Integrated Transcriptomics With Functional Pathways Analysis",
-      "Subject": [
+      "_id": "687cf0ba1f662220d8992851",
+      "recordId": "7373",
+      "title": "Identification of Novel Biomarkers for Pancreatic Cancer Using Integrated Transcriptomics With Functional Pathways Analysis",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Scientific Research Center, Shanghai Public Health Clinical Center, Shanghai, People\u2019s Republic of China",
         "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
         "Department of Epidemiology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
         "Genomics Core, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA"
       ],
-      "Journal": "Journal of Cellular Physiology",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Journal of Cellular Physiology",
+      "publisher": "Wiley",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Xuan Zhang",
         "Pan Tong",
         "Jinyun Chen",
@@ -267,18 +411,18 @@
         "Jianqing Xu",
         "Jin Wang"
       ],
-      "URLS": "http://retractionwatch.com/2017/08/23/former-md-anderson-researcher-objects-retraction-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/08/23/former-md-anderson-researcher-objects-retraction-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/10/2020 0:00",
-      "RetractionDOI": "10.1002/jcp.26066",
-      "RetractionPubMedID": "30443987.0",
-      "OriginalPaperDate": "2/22/2016 0:00",
-      "OriginalPaperDOI": "10.1002/jcp.25353",
-      "OriginalPaperPubMedID": "26909671.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/10/2020 0:00",
+      "retractiondoi": "10.1002/jcp.26066",
+      "retractionpubmedid": "30443987.0",
+      "originalpaperdate": "2/22/2016 0:00",
+      "originalpaperdoi": "10.1002/jcp.25353",
+      "originalpaperpubmedid": "26909671.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Breach of Policy by Author",
         "+Concerns/Issues about Referencing/Attributions",
         "+Copyright Claims",
@@ -287,223 +431,88 @@
         "+Objections by Third Party",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "Notice published 1 year after article marked as retracted;",
-      "notice_year": 2020,
-      "year": 2016,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234590c",
-      "Record ID": "39107",
-      "Title": "Combination of sorafenib and gadolinium chloride (GdCl3) attenuates dimethylnitrosamine(DMN)-induced liver fibrosis in rats",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Department of Traditional Chinese Medicine, Shanghai Public Health Clinical Center, Shanghai, 201508, China",
-        "Laboratory of Molecular Pathology, Central Laboratory, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 200062, China",
-        "Department of Hepatology, Affiliated hospital of Shandong University of Trasitional Chinese Medicine, 250014, Jinan, China"
-      ],
-      "Journal": "BMC Gastroenterology",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Cheng Liu",
-        "Zongguo Yang",
-        "Lei Wang",
-        "Yunfei Lu",
-        "Bozong Tang",
-        "Hui Miao",
-        "Qingnian Xu",
-        "Xiaorong Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/15/2022 0:00",
-      "RetractionDOI": "10.1186/s12876-022-02495-4",
-      "RetractionPubMedID": "36109709.0",
-      "OriginalPaperDate": "11/16/2015 0:00",
-      "OriginalPaperDOI": "10.1186/s12876-015-0380-5",
-      "OriginalPaperPubMedID": "26572488.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345e77",
-      "Record ID": "37713",
-      "Title": "Glucocorticoids Should Be Used With Caution in Patients With SARS-CoV-2",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Critical Care Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China",
-        "Department of Clinical Pharmocology, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China",
-        "Department of Critical Care Medicine, Shanghai Public Health Clinical Center, Fudan University, Shanghai, China"
-      ],
-      "Journal": "Frontiers in Medicine",
-      "Publisher": "Frontiers",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yong Guo",
-        "Yan Chen",
-        "Yingchuan Li"
-      ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "5/31/2022 0:00",
-      "RetractionDOI": "10.3389/fmed.2022.947016",
-      "RetractionPubMedID": "35712099.0",
-      "OriginalPaperDate": "2/24/2021 0:00",
-      "OriginalPaperDOI": "10.3389/fmed.2021.564943",
-      "OriginalPaperPubMedID": "33718395.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021
-    },
-    {
-      "_id": "6855d574b14f7811d2346033",
-      "Record ID": "37269",
-      "Title": "Diagnosis of tuberculosis molecular markers based on the identification of the immune activity of mycobacterium tuberculosis",
-      "Subject": [
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "Department of Thoracic Surgery, Shanghai Public Health Clinical Center, Fudan University, Shanghai, China",
-        "Department of Scientific Research, Shanghai Public Health Clinical Center, Institutes of Biomedical Sciences, Fudan University, Shanghai, China"
-      ],
-      "Journal": "International Journal of Electrical Engineering & Education",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yifei Wang",
-        "Hongwei Li",
-        "Yanzheng Song"
-      ],
-      "URLS": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
-      "ArticleType": [
-        "Article in Press",
-        "Research Article"
-      ],
-      "RetractionDate": "12/15/2021 0:00",
-      "RetractionDOI": "10.1177/00207209211064059",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/29/2018 0:00",
-      "OriginalPaperDOI": "10.1177/0020720918813809",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Fake Peer Review",
-        "+Paper Mill"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Notice published 1 year after article marked as retracted;",
+      "year": "2016",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -511,10 +520,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

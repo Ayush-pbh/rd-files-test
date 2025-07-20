@@ -1,87 +1,596 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877cbe",
+    "_id": "687ccbab09adbf7aa61b88df",
     "grid_id": "grid.452666.5",
     "institute_name": "Second Affiliated Hospital of Soochow University",
     "country": "China",
     "retracted_record_ids": [
-      "54894",
-      "54897",
-      "32928",
-      "32927",
+      "53552",
+      "37302",
+      "59900",
+      "52346",
+      "62210",
       "54875",
-      "41833",
-      "20598",
-      "61663",
-      "3660",
+      "38626",
+      "54897",
+      "31467",
       "59651",
       "40811",
-      "37302",
-      "49805",
-      "31467",
-      "55343",
-      "59900",
-      "39943",
-      "28026",
-      "61590",
-      "23916",
-      "57112",
-      "45816",
       "24555",
+      "32927",
+      "40972",
+      "57848",
       "40348",
       "57568",
-      "32496",
-      "20108",
-      "52346",
       "46032",
-      "62210",
-      "39264",
-      "40972",
-      "53552",
-      "57848",
-      "38626",
-      "32925",
       "34421",
-      "8109"
+      "32496",
+      "39264",
+      "41833",
+      "3660",
+      "28026",
+      "61590",
+      "32928",
+      "32925",
+      "23916",
+      "8109",
+      "49805",
+      "55343",
+      "61663",
+      "39943",
+      "20598",
+      "57112",
+      "45816",
+      "20108",
+      "54894"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341bad",
-      "Record ID": "54894",
-      "Title": "Study on the Effect of Hope Theory Combined with Psychological Intervention on the Improvement of Prognosis",
-      "Subject": [
+      "_id": "687cef5d1f662220d8985306",
+      "recordId": "62210",
+      "title": "Development of Gene Panel for Predicting Recurrence in Early-Stage Cervical Cancer Patients",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Genetics",
+        "(HSC) Biostatistics/Epidemiology"
+      ],
+      "institution": [
+        "Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China"
+      ],
+      "journal": "Environmental Toxicology",
+      "publisher": "Wiley",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yun Ma",
+        "Weipei Zhu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/17/2025 0:00",
+      "retractiondoi": "10.1002/tox.24495",
+      "retractionpubmedid": "39960025.0",
+      "originalpaperdate": "4/2/2024 0:00",
+      "originalpaperdoi": "10.1002/tox.24270",
+      "originalpaperpubmedid": "38563455.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef5f1f662220d8985529",
+      "recordId": "61663",
+      "title": "Analysis of Cardiac Ultrasound Images of Critically Ill Patients Using Deep Learning",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Emergency and Critical Care Medicine, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
+        "Department of Pediatric Emergency and Critical Care Medicine, Children\u2019s Hospital of Soochow University, Suzhou 215003, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Lingxia Zhu",
+        "Zhiping Xu",
+        "Ting Fang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2023 0:00",
+      "retractiondoi": "10.1155/2023/9856298",
+      "retractionpubmedid": "37860346.0",
+      "originalpaperdate": "10/27/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6050433",
+      "originalpaperpubmedid": "34745504.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef611f662220d8985572",
+      "recordId": "61590",
+      "title": "The Role of Change Rates of CYFRA21-1 and CEA in Predicting Chemotherapy Efficacy for Non-Small-Cell Lung Cancer",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu Province, China",
+        "Oncology Center, Oncology Department, Zhejiang Provincial People's Hospital, Hangzhou, Zhejiang Province, China",
+        "People's Hospital of Hangzhou Medical College, Hangzhou, Zhejiang Province, China",
+        "School of Public Health & Management, Wenzhou Medical University, Wenzhou, Zhejiang, China"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Tongwei Zhao",
+        "Guangyun Mao",
+        "Ming Chen"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/18/2023 0:00",
+      "retractiondoi": "10.1155/2023/9786104",
+      "retractionpubmedid": "37885855.0",
+      "originalpaperdate": "9/22/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/1951364",
+      "originalpaperpubmedid": "34603482.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef671f662220d8985c0c",
+      "recordId": "59900",
+      "title": "Effect of Orthodontic Treatment on Anterior Tooth Displacement in Patients with Periodontal Disease: A Meta-Analysis",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Dentistry",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Stomatology, The Second Affiliated Hospital of Soochow University, 1055 Sanxiang Road, Suzhou City, Jiangsu Province 215004, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jia Hou",
+        "Yunzhu Qian",
+        "Guowu Ma",
+        "Huan Gao",
+        "Jianxin Yang",
+        "Jianlin Fan"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "12/6/2023 0:00",
+      "retractiondoi": "10.1155/2023/9891783",
+      "retractionpubmedid": "38094833.0",
+      "originalpaperdate": "10/31/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/8761215",
+      "originalpaperpubmedid": "34754410.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef671f662220d8985d05",
+      "recordId": "59651",
+      "title": "The Efficacy of Minocycline Hydrochloride Combined with Multiple Antibiotic Paste in Elderly Patients with Chronic Periodontitis and Concomitant Pulp Lesions",
+      "subject": [
+        "(HSC) Medicine - Dentistry",
+        "(HSC) Medicine - Geriatric",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Periodontics, Suzhou Stomatological Hospital, Suzhou, Jiangsu 215000, China",
+        "Center of Stomatology, The Second Affiliated Hospital of Soochow University, No 1055 Sanxiang Road, Soochow 215004, China",
+        "Jiangsu Key Laboratory of Oral Diseases, Nanjing Medical University, Nanjing, Jiangsu 210029, China",
+        "Department of TeZhen, Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, Jiangsu 210029, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qiang Chen",
+        "Wen Yan",
+        "Nan Geng"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "12/13/2023 0:00",
+      "retractiondoi": "10.1155/2023/9843460",
+      "retractionpubmedid": "38125168.0",
+      "originalpaperdate": "7/4/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/7604741",
+      "originalpaperpubmedid": "35832529.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef6f1f662220d898640b",
+      "recordId": "57848",
+      "title": "Adropin Inhibits Vascular Smooth Muscle Cell Osteogenic Differentiation to Alleviate Vascular Calcification via the JAK2/STAT3 Signaling Pathway",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Cardiology, The Second A\ufb03liated Hospital of Soochow University, Suzhou, Jiangsu, China 2150042",
+        "Emergency Department, The Second A\ufb03liated Hospital of Soochow University, Suzhou, Jiangsu, China 2150043",
+        "Department of Cardiology, Shanghai Institute of Cardiovascular Disease, Zhongshan Hospital, Fudan University, Shanghai, China 200032"
+      ],
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Li Wang",
+        "Fulu Jin",
+        "Peiyu Wang",
+        "Shiqiang Hou",
+        "Tao Jin",
+        "Xiansong Chang",
+        "Liangping Zhao"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9893018",
+      "retractionpubmedid": "38188800.0",
+      "originalpaperdate": "7/27/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/9122264",
+      "originalpaperpubmedid": "35937397.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef711f662220d8986523",
+      "recordId": "57568",
+      "title": "Improvement of Cerebral Ischemia-Reperfusion Injury via Regulation of Apoptosis by Exosomes Derived from BDNF-Overexpressing HEK293",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Department of Neurology, The Second Affiliated Hospital of Soochow University, Jiangsu Province, China",
+        "Department of Neurology, The First Affiliated Hospital of Wannan Medical College, Anhui Province, China",
+        "Emergency Department, The First Affiliated Hospital of Wannan Medical College, Anhui Province, China"
+      ],
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Lizong Wang",
+        "Jinghan Jiang",
+        "Taofeng Zhou",
+        "Xiang Xue",
+        "Yongjun Cao"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/9/2024 0:00",
+      "retractiondoi": "10.1155/2024/9839642",
+      "retractionpubmedid": "38230002.0",
+      "originalpaperdate": "3/4/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6613510",
+      "originalpaperpubmedid": "33763476.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef711f662220d89866eb",
+      "recordId": "57112",
+      "title": "Bone Marrow Ablation Demonstrates That Excess Endogenous Parathyroid Hormone Plays Distinct Roles in Trabecular and Cortical Bone",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Department of Orthopedics, Second Affiliated Hospital of Soochow University, Suzhou, China",
+        "State Key Laboratory of Reproductive Medicine, the Research Center for Bone and Stem Cells, Department of Anatomy, Histology and Embryology, Nanjing Medical University, Nanjing, China",
+        "Department of Medicine, McGill University, Montreal, Quebec, Canada"
+      ],
+      "journal": "The American Journal of Pathology",
+      "publisher": "Elsevier",
+      "country": [
+        "Canada",
+        "China"
+      ],
+      "author": [
+        "Jun Yan",
+        "Weiwei Sun",
+        "Jing Zhang",
+        "David Goltzman",
+        "Dengshun Miao"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/23/2024 0:00",
+      "retractiondoi": "10.1016/j.ajpath.2024.08.004",
+      "retractionpubmedid": "39322335.0",
+      "originalpaperdate": "5/25/2012 0:00",
+      "originalpaperdoi": "10.1016/j.ajpath.2012.03.038",
+      "originalpaperpubmedid": "22640808.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef791f662220d8986dd2",
+      "recordId": "55343",
+      "title": "Long Noncoding RNA XIST Regulates miR-137-EZH2 Axis to Promote Tumor Metastasis in Colorectal Cancer",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, P.R. China",
+        "Department of Oncology, The Second People\u2019s Hospital of Taizhou, Taizhou, Jiangsu Province, P.R. China",
+        "Department of Oncology, Affiliated Hospital of Jiangnan University, The Fourth People\u2019s Hospital of Wuxi, Wuxi, Jiangsu, P.R. China"
+      ],
+      "journal": "Oncology Research",
+      "publisher": "Tech Science Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xingxiang Liu",
+        "Lin Cui",
+        "Dong Hua"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/17/2024 0:00",
+      "retractiondoi": "10.32604/or.2024.055037",
+      "retractionpubmedid": "39055901.0",
+      "originalpaperdate": "3/1/2018 0:00",
+      "originalpaperdoi": "10.3727/096504018X15195193936573",
+      "originalpaperpubmedid": "29495975.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/84BC7261D1C7273F90C032EDD0776C",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7b1f662220d8986f90",
+      "recordId": "54897",
+      "title": "Surgical Selection of T1 Stage Renal Tumor Resection Based on Imaging MAP Score under Smart Medical Care",
+      "subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Urology/Nephrology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Urology, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi 214062, Jiangsu, China",
+        "Department of Urology, the Second Affiliated Hospital of Soochow University, Suzhou 215004, Jiangsu, China"
+      ],
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hongtao Zong",
+        "Qiang Xia",
+        "Liansheng Zhang",
+        "Jin Zhu"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9754306",
+      "retractionpubmedid": "37502092.0",
+      "originalpaperdate": "5/18/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/1947504",
+      "originalpaperpubmedid": "35634081.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7b1f662220d8986f93",
+      "recordId": "54894",
+      "title": "Study on the Effect of Hope Theory Combined with Psychological Intervention on the Improvement of Prognosis",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Medicine - Surgery",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "The Second Affiliated Hospital of Soochow University, Suzhou 215004, China"
       ],
-      "Journal": "Contrast Media & Molecular Imaging",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Contrast Media & Molecular Imaging",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Tingting Zou",
         "Jing Liu",
         "Liping Tan"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9837561",
-      "RetractionPubMedID": "37502523.0",
-      "OriginalPaperDate": "9/26/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/1153071",
-      "OriginalPaperPubMedID": "36237579.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9837561",
+      "retractionpubmedid": "37502523.0",
+      "originalpaperdate": "9/26/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/1153071",
+      "originalpaperpubmedid": "36237579.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -94,196 +603,49 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/957519FE7B4BC7F237A736BF323F93",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/957519FE7B4BC7F237A736BF323F93",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341baa",
-      "Record ID": "54897",
-      "Title": "Surgical Selection of T1 Stage Renal Tumor Resection Based on Imaging MAP Score under Smart Medical Care",
-      "Subject": [
-        "(B/T) Data Science",
-        "(B/T) Technology",
-        "(HSC) Medicine - Urology/Nephrology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Urology, Wuxi No. 9 People's Hospital Affiliated to Soochow University, Wuxi 214062, Jiangsu, China",
-        "Department of Urology, the Second Affiliated Hospital of Soochow University, Suzhou 215004, Jiangsu, China"
-      ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hongtao Zong",
-        "Qiang Xia",
-        "Liansheng Zhang",
-        "Jin Zhu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9754306",
-      "RetractionPubMedID": "37502092.0",
-      "OriginalPaperDate": "5/18/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/1947504",
-      "OriginalPaperPubMedID": "35634081.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2347112",
-      "Record ID": "32928",
-      "Title": "Increased infiltration of macrophages to radioresistant lung cancer cells contributes to the development of the additional resistance of tumor cells to the cytotoxic effects of NK cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
-        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, P.R. China"
-      ],
-      "Journal": "International Journal of Oncology",
-      "Publisher": "Spandidos",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Mingjing Shen",
-        "Yongbing Chen",
-        "Lijun Xu",
-        "Rongying Zhu",
-        "Xiang Xue",
-        "Ying Tsai",
-        "Peter C Keng",
-        "Soo Ok Lee",
-        "Yuhchyau Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/19/2020 0:00",
-      "RetractionDOI": "10.3892/ijo.2020.5113",
-      "RetractionPubMedID": "32945362.0",
-      "OriginalPaperDate": "5/4/2018 0:00",
-      "OriginalPaperDOI": "10.3892/ijo.2018.4394",
-      "OriginalPaperPubMedID": "29750425.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2347113",
-      "Record ID": "32927",
-      "Title": "In vitro-induced M2 type macrophages induces the resistance of prostate cancer cells to cytotoxic action of NK cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
-        "Department of Urology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, PR China"
-      ],
-      "Journal": "Experimental Cell Research",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Lijun Xu",
-        "Mingjing Shen",
-        "Xiaodong Chen",
-        "Dong Rong Yang",
-        "Ying Tsai",
-        "Peter C Keng",
-        "Soo Ok Lee",
-        "Yuhchyua Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/21/2020 0:00",
-      "RetractionDOI": "10.1016/j.yexcr.2020.112006",
-      "RetractionPubMedID": "32331849.0",
-      "OriginalPaperDate": "2/1/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.yexcr.2018.01.041",
-      "OriginalPaperPubMedID": "29408565.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2341bbf",
-      "Record ID": "54875",
-      "Title": "PSMB5 Alleviates Ulcerative Colitis by Inhibiting ROS-Dependent NLRP3 Inflammasome-Mediated Pyroptosis",
-      "Subject": [
+      "_id": "687cef7b1f662220d8986fa5",
+      "recordId": "54875",
+      "title": "PSMB5 Alleviates Ulcerative Colitis by Inhibiting ROS-Dependent NLRP3 Inflammasome-Mediated Pyroptosis",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Gastroenterology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Gastroenterology, Second Affiliated Hospital of Soochow University, Suzhou City, Jiangsu Province, China",
         "Department of Gastroenterology, Yancheng First People\u2019s Hospital, Yancheng City, Jiangsu Province, China"
       ],
-      "Journal": "Disease Markers",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Disease Markers",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Liang Han",
         "Yanping Hao",
         "Xudong Wu",
         "Duanmin Hu"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9827206",
-      "RetractionPubMedID": "37502570.0",
-      "OriginalPaperDate": "8/26/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/2329904",
-      "OriginalPaperPubMedID": "36061354.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9827206",
+      "retractionpubmedid": "37502570.0",
+      "originalpaperdate": "8/26/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/2329904",
+      "originalpaperpubmedid": "36061354.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -294,32 +656,301 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/DEC5B5EF25B08C25848C477AD0C23A",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/DEC5B5EF25B08C25848C477AD0C23A",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2344e7a",
-      "Record ID": "41833",
-      "Title": "MTSS1 inhibits colorectal cancer metastasis by regulating the CXCR4/CXCL12 signaling axis",
-      "Subject": [
+      "_id": "687cef811f662220d89874cf",
+      "recordId": "53552",
+      "title": "BNIP1 inhibits cell proliferation, migration and invasion, and promotes apoptosis by mTOR in cervical cancer cells",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
+        "Department of Oncology, the Second Affiliated Hospital of Soochow University, Suzhou, China",
+        "Department of Breast and Gynecologic Oncology, the Affiliated Hospital of Guizhou Medical University, Guizhou Cancer Hospital, Guiyang, China",
+        "Department of Interventional Radiology, the Affiliated Hospital of Guizhou Medical University, Guiyang, China",
+        "The Key Laboratory of Medical Molecular Biology, GuiZhou Medical University, Guiyang, China"
+      ],
+      "journal": "European Review for Medical and Pharmacological Sciences",
+      "publisher": "Verduci Editore",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Fenghu Li",
+        "Lei Xiang",
+        "L Ran",
+        "S Zhou",
+        "Z Huang",
+        "Ming Chen",
+        "Wenfeng Yu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/1/2024 0:00",
+      "retractiondoi": "10.26355/eurrev_202405_36205",
+      "retractionpubmedid": "38766787.0",
+      "originalpaperdate": "2/15/2019 0:00",
+      "originalpaperdoi": "10.26355/eurrev_201902_17096",
+      "originalpaperpubmedid": "30840260.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also; https://pubpeer.com/publications/6046D9CC8576F923B46A91C15598C1",
+      "year": "2019",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef851f662220d8987971",
+      "recordId": "52346",
+      "title": "Mechanism of Pilose Antler in Treatment of Osteoporosis Based on Network Pharmacology",
+      "subject": [
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Orthopaedics, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
+        "Institute of Osteoporosis Diagnosis and Treatments of Soochow University, Suzhou 215004, China",
+        "Osteoporosis Clinical Center, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Baoshan Liu",
+        "Aifei Wang",
+        "Zihou Cao",
+        "Junjie Li",
+        "Miao Zheng",
+        "Youjia Xu"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/16/2023 0:00",
+      "retractiondoi": "10.1155/2023/9812417",
+      "retractionpubmedid": "37621614.0",
+      "originalpaperdate": "3/30/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/5298892",
+      "originalpaperpubmedid": "35399830.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8d1f662220d898835a",
+      "recordId": "49805",
+      "title": "Preventive Effect Observation of Dapagliflozin on Middle and Later Ventricular Remodeling in Patients with Acute ST Segment Elevation Anterior Wall Myocardial Infarction: A Single-Center, Retrospective Cohort Study",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Emergency Internal Medicine, The Second Hospital of Anhui Medical University, Anhui, Hefei 230000, China",
+        "Department of Emergency and Critical Medicine, The Second Affiliated Hospital of Soochow University, Jiangsu, Suzhou 215000, China",
+        "Department of Emergency Internal Medicine, The Fourth Hospital of Anhui Medical University, Anhui, Hefei 230000, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Zeyan Liu",
+        "Lijun Liu",
+        "Hao Zhang",
+        "Yang Jiang",
+        "Hengtong Wang"
+      ],
+      "urls": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/12/2023 0:00",
+      "retractiondoi": "10.1155/2023/9782190",
+      "retractionpubmedid": "37476770.0",
+      "originalpaperdate": "4/15/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/3955914",
+      "originalpaperpubmedid": "35463678.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d898920a",
+      "recordId": "46032",
+      "title": "miR-28-5p\u2019s Targeting of GAGE12I Inhibits Proliferation, Migration, and Invasion of Gastric Cancer in Vitro",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Radiotherapy & Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, China",
+        "Institute of Radiation Oncology, Soochow University, Suzhou, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Ruizhe Xu",
+        "Qi Guo",
+        "Peifeng Zhao",
+        "Haiyan Lu",
+        "Bo Zhang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/21/2023 0:00",
+      "retractiondoi": "10.1155/2023/9819238",
+      "retractionpubmedid": "37387967.0",
+      "originalpaperdate": "9/30/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6946051",
+      "originalpaperpubmedid": "36212971.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/3FEA26305D268F9DD11FAA3F4A9144",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d89892e1",
+      "recordId": "45816",
+      "title": "Expression of PD-L1 and BRCA1 in Triple-Negative Breast Cancer Patients and Relationship with Clinicopathological Characteristics",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of General Surgery, The Second Affiliated Hospital of Soochow University, Suzhou 215004, Jiangsu, China",
+        "Department of Breast Surgery, Affiliated Tumor Hospital of Nantong University, Nantong 226321, Jiangsu, China",
+        "Department of Radiation Oncology, Affiliated Tumor Hospital of Nantong University, Nantong 226321, Jiangsu, China",
+        "Key Laboratory of Cancer Research Center Nantong, Tumor Hospital Affiliated to Nantong University, Nantong 226321, Jiangsu, China",
+        "Department of Pathology, Nantong Tumor Hospital, Affiliated Tumor Hospital of Nantong University, Nantong 226321, Jiangsu, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xianghua Huang",
+        "Xiangqian Wang",
+        "Hongyan Qian",
+        "Xiaoxia Jin",
+        "Guoqin Jiang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/21/2023 0:00",
+      "retractiondoi": "10.1155/2023/9815452",
+      "retractionpubmedid": "37388050.0",
+      "originalpaperdate": "10/22/2022 0:00",
+      "originalpaperdoi": "10.1155/2021/5314016",
+      "originalpaperpubmedid": "34721634.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/B58F6146A243346F12C3D30F4FA666",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefae1f662220d898a260",
+      "recordId": "41833",
+      "title": "MTSS1 inhibits colorectal cancer metastasis by regulating the CXCR4/CXCL12 signaling axis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
         "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, P.R. China",
         "Department of General Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, P.R. China",
         "Department of Genetics and Bioinformatics, College of Basic Medicine and Biological Sciences of Soochow University, Suzhou, Jiangsu 215004, P.R. China"
       ],
-      "Journal": "International Journal of Molecular Medicine",
-      "Publisher": "Spandidos",
-      "Country": [
+      "journal": "International Journal of Molecular Medicine",
+      "publisher": "Spandidos",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Lei Chen",
         "Qiang Chen",
         "Yongyou Wu",
@@ -327,233 +958,84 @@
         "Jia Hu",
         "Zhixiang Zhuang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/5/2023 0:00",
-      "RetractionDOI": "10.3892/ijmm.2023.5218",
-      "RetractionPubMedID": "36601756.0",
-      "OriginalPaperDate": "3/2/2021 0:00",
-      "OriginalPaperDOI": "10.3892/ijmm.2021.4898",
-      "OriginalPaperPubMedID": "33649808.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/5/2023 0:00",
+      "retractiondoi": "10.3892/ijmm.2023.5218",
+      "retractionpubmedid": "36601756.0",
+      "originalpaperdate": "3/2/2021 0:00",
+      "originalpaperdoi": "10.3892/ijmm.2021.4898",
+      "originalpaperpubmedid": "33649808.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Investigation by Third Party",
         "+Paper Mill"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/E618F187C6CFF1E65E1626725A9A65",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/E618F187C6CFF1E65E1626725A9A65",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a113",
-      "Record ID": "20598",
-      "Title": "Endothelial progenitor cell-derived exosomes, loaded with miR-126, promoted deep vein thrombosis resolution and recanalization",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Cardiovascular"
+      "_id": "687cefb11f662220d898a5b9",
+      "recordId": "40972",
+      "title": "Analysis of Influencing Factors of Repair Effect after Peripheral Nerve Injury",
+      "subject": [
+        "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
-        "Department of Vascular Surgery, The Second Affiliated Hospital of Soochow University, Suzhou 215000, China",
-        "Department of Biomedical Engineering, University of Alabama at Birmingham, Birmingham 35294, Alabama, USA",
-        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
-        "Department of Cardiovascular Surgery of the First Affiliated Hospital and Institute for Cardiovascular Science, Soochow University, Suzhou 215000, China"
+      "institution": [
+        "Department of Orthopaedics, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
+        "Department of Hand-Foot Microsurgery, Huazhong University of Science and Technology Union Shenzhen Hospital, Shenzhen 518052, China",
+        "Department of Orthopaedic Trauma, The Affiliated Hospital of Guizhou Medical University, Guiyang 550001, China",
+        "Department of Gynaecology, Shenzhen Nanshan District Maternal and Child Health Care Hospital, Shenzhen 518000, China"
       ],
-      "Journal": "Stem Cell Research & Therapy",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Jiacheng Sun",
-        "Zhiwei Zhang",
-        "Teng Ma",
-        "Ziying Yang",
-        "Jinlong Zhang",
-        "Xuan Liu",
-        "Da Lu",
-        "Zhenya Shen",
-        "Junjie Yang",
-        "Qingyou Meng"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/11/2019 0:00",
-      "RetractionDOI": "10.1186/s13287-019-1264-3",
-      "RetractionPubMedID": "31186059.0",
-      "OriginalPaperDate": "8/23/2018 0:00",
-      "OriginalPaperDOI": "10.1186/s13287-018-0952-8",
-      "OriginalPaperPubMedID": "30139377.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Contamination of Cell Lines/Tissues",
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Error in Methods",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340143",
-      "Record ID": "61663",
-      "Title": "Analysis of Cardiac Ultrasound Images of Critically Ill Patients Using Deep Learning",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(B/T) Technology",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Emergency and Critical Care Medicine, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
-        "Department of Pediatric Emergency and Critical Care Medicine, Children\u2019s Hospital of Soochow University, Suzhou 215003, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Lingxia Zhu",
-        "Zhiping Xu",
-        "Ting Fang"
+      "author": [
+        "Renqun Mao",
+        "Zean Wei",
+        "Wenqing Li",
+        "Xiaodi Zhu",
+        "Dalian Du",
+        "Wei Xu"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/11/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9856298",
-      "RetractionPubMedID": "37860346.0",
-      "OriginalPaperDate": "10/27/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6050433",
-      "OriginalPaperPubMedID": "34745504.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
+      "retractiondate": "11/17/2022 0:00",
+      "retractiondoi": "10.1155/2022/9805194",
+      "retractionpubmedid": "36439956.0",
+      "originalpaperdate": "11/23/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/8294267",
+      "originalpaperpubmedid": "34858520.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
+        "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e2aa",
-      "Record ID": "3660",
-      "Title": "Use of Non-benzodiazepine Hypnotics Is Associated with Decreased Risk of Coronary Artery Disease",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Cardiology, The Second Affiliated Hospital of Soochow University, China Department of Internal Medicine, Jiangyin Hospital of Traditional Chinese Medicine, China"
-      ],
-      "Journal": "Internal Medicine",
-      "Publisher": "The Japanese Society of Internal Medicine",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiang Zhou",
-        "Yufeng Zhang",
-        "Jianchang Chen",
-        "Weiting Xu"
-      ],
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "5/15/2013 0:00",
-      "RetractionDOI": "10.2169/internalmedicine.52.R001",
-      "RetractionPubMedID": "23676612.0",
-      "OriginalPaperDate": "4/15/2012 0:00",
-      "OriginalPaperDOI": "10.2169/internalmedicine.51.6942",
-      "OriginalPaperPubMedID": "22504234.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234091f",
-      "Record ID": "59651",
-      "Title": "The Efficacy of Minocycline Hydrochloride Combined with Multiple Antibiotic Paste in Elderly Patients with Chronic Periodontitis and Concomitant Pulp Lesions",
-      "Subject": [
-        "(HSC) Medicine - Dentistry",
-        "(HSC) Medicine - Geriatric",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Periodontics, Suzhou Stomatological Hospital, Suzhou, Jiangsu 215000, China",
-        "Center of Stomatology, The Second Affiliated Hospital of Soochow University, No 1055 Sanxiang Road, Soochow 215004, China",
-        "Jiangsu Key Laboratory of Oral Diseases, Nanjing Medical University, Nanjing, Jiangsu 210029, China",
-        "Department of TeZhen, Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, Jiangsu 210029, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qiang Chen",
-        "Wen Yan",
-        "Nan Geng"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "12/13/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9843460",
-      "RetractionPubMedID": "38125168.0",
-      "OriginalPaperDate": "7/4/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/7604741",
-      "OriginalPaperPubMedID": "35832529.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345272",
-      "Record ID": "40811",
-      "Title": "Psychotherapy and Follow-Up in Health Care Workers After the COVID-19 Epidemic: A Single Center\u2019s Experience",
-      "Subject": [
+      "_id": "687cefb11f662220d898a658",
+      "recordId": "40811",
+      "title": "Psychotherapy and Follow-Up in Health Care Workers After the COVID-19 Epidemic: A Single Center\u2019s Experience",
+      "subject": [
         "(HSC) Occupational Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, 221000, People\u2019s Republic of China",
         "Department of Neurology, The Second Affiliated Hospital of Soochow University, Suzhou, 215000, People\u2019s Republic of China",
         "Department of Anesthesiology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, 221000, People\u2019s Republic of China",
@@ -561,12 +1043,12 @@
         "Institute of Neuroscience, Soochow University, Suzhou, 215000, People\u2019s Republic of China",
         "Jiangsu Key Laboratory of Neuropsychiatric Diseases, Soochow University, Suzhou, 215000, People\u2019s Republic of China"
       ],
-      "Journal": "Psychology Research and Behavior Management",
-      "Publisher": "Taylor and Francis - Dove Press",
-      "Country": [
+      "journal": "Psychology Research and Behavior Management",
+      "publisher": "Taylor and Francis - Dove Press",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Hao Chen",
         "Qing Ma",
         "Bo Du",
@@ -575,284 +1057,85 @@
         "Sheng Li Li",
         "De Qin Geng"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/22/2022 0:00",
-      "RetractionDOI": "10.2147/PRBM.S398511",
-      "RetractionPubMedID": "36444275.0",
-      "OriginalPaperDate": "8/18/2022 0:00",
-      "OriginalPaperDOI": "10.2147/PRBM.S371787",
-      "OriginalPaperPubMedID": "36003831.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/22/2022 0:00",
+      "retractiondoi": "10.2147/PRBM.S398511",
+      "retractionpubmedid": "36444275.0",
+      "originalpaperdate": "8/18/2022 0:00",
+      "originalpaperdoi": "10.2147/PRBM.S371787",
+      "originalpaperpubmedid": "36003831.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Methods",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346012",
-      "Record ID": "37302",
-      "Title": "Long noncoding RNA LINC00460 promotes the progression of cervical cancer via regulation of the miR-361-3p/Gli1 axis",
-      "Subject": [
+      "_id": "687cefb21f662220d898a821",
+      "recordId": "40348",
+      "title": "MicroRNA-20b suppresses the expression of ZFP-148 in viral myocarditis",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Department of Forensic Medicine, Soochow University, Suzhou Dushuhu High Educational Town, Suzhou, Jiangsu, 215123, People\u2019s Republic of China",
+        "Department of Forensic Medicine, Shanghai Medical College, Fudan University, Xuhui, Shanghai, 200032, People\u2019s Republic of China",
+        "Department of dermatological, The second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, 215123, People\u2019s Republic of China"
+      ],
+      "journal": "Molecular and Cellular Biochemistry",
+      "publisher": "springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hong Fei Xu",
+        "Xiang Ting Gao",
+        "Jun Yi Lin",
+        "Xue Hua Xu",
+        "Jun Hu",
+        "Yu Jie Ding",
+        "Shao Hua Zhu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/4/2022 0:00",
+      "retractiondoi": "10.1007/s11010-022-04598-8",
+      "retractionpubmedid": "36333628.0",
+      "originalpaperdate": "2/28/2017 0:00",
+      "originalpaperdoi": "10.1007/s11010-017-2947-7",
+      "originalpaperpubmedid": "28247213.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Results Not Reproducible"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb31f662220d898a9b5",
+      "recordId": "39943",
+      "title": "TGF-\u03b21-regulated miR-3691-3p targets E2F3 and PRDM1 to inhibit prostate cancer progression",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
-        "Department of Gynaecology and Obstetrics, The Second Affiliated Hospital of Soochow University, 1055 Sanxiang Road, Gusu District, Suzhou, 215000, China",
-        "Department of Gynaecology and Obestetrics, Shanghai the Eighth People\u2019s Hospital, No.8 Caobao Road, Xuhui District, Shanghai, 200235, China"
-      ],
-      "Journal": "Human Cell",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Fan Li",
-        "Weipei Zhu",
-        "Zhijie Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/18/2022 0:00",
-      "RetractionDOI": "10.1007/s13577-022-00723-3",
-      "RetractionPubMedID": "35583800.0",
-      "OriginalPaperDate": "10/16/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s13577-020-00447-2",
-      "OriginalPaperPubMedID": "33063235.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Image",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2342f74",
-      "Record ID": "49805",
-      "Title": "Preventive Effect Observation of Dapagliflozin on Middle and Later Ventricular Remodeling in Patients with Acute ST Segment Elevation Anterior Wall Myocardial Infarction: A Single-Center, Retrospective Cohort Study",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Emergency Internal Medicine, The Second Hospital of Anhui Medical University, Anhui, Hefei 230000, China",
-        "Department of Emergency and Critical Medicine, The Second Affiliated Hospital of Soochow University, Jiangsu, Suzhou 215000, China",
-        "Department of Emergency Internal Medicine, The Fourth Hospital of Anhui Medical University, Anhui, Hefei 230000, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Zeyan Liu",
-        "Lijun Liu",
-        "Hao Zhang",
-        "Yang Jiang",
-        "Hengtong Wang"
-      ],
-      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/12/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9782190",
-      "RetractionPubMedID": "37476770.0",
-      "OriginalPaperDate": "4/15/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/3955914",
-      "OriginalPaperPubMedID": "35463678.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23476bf",
-      "Record ID": "31467",
-      "Title": "Neuroendocrine differentiation contributes to radioresistance development and metastatic potential increase in non-small cell lung cancer",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
-        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, PR China"
-      ],
-      "Journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Rongying Zhu",
-        "Xiaodong Yang",
-        "Xiang Xue",
-        "Mingjing Shen",
-        "Feng Chen",
-        "Xiadong Chen",
-        "Ying Tsai",
-        "Peter C Keng",
-        "Yongbing Chen",
-        "Soo Ok Lee",
-        "Yuhchyau Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/7/2021 0:00",
-      "RetractionDOI": "10.1016/j.bbamcr.2021.119097",
-      "RetractionPubMedID": "34371295.0",
-      "OriginalPaperDate": "9/15/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.bbamcr.2018.09.005",
-      "OriginalPaperPubMedID": "30262435.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Image",
-        "+Investigation by Third Party"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/569EB2CE7A7335D7F3F8F3FF310936",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23419ec",
-      "Record ID": "55343",
-      "Title": "Long Noncoding RNA XIST Regulates miR-137-EZH2 Axis to Promote Tumor Metastasis in Colorectal Cancer",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, P.R. China",
-        "Department of Oncology, The Second People\u2019s Hospital of Taizhou, Taizhou, Jiangsu Province, P.R. China",
-        "Department of Oncology, Affiliated Hospital of Jiangnan University, The Fourth People\u2019s Hospital of Wuxi, Wuxi, Jiangsu, P.R. China"
-      ],
-      "Journal": "Oncology Research",
-      "Publisher": "Tech Science Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xingxiang Liu",
-        "Lin Cui",
-        "Dong Hua"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/17/2024 0:00",
-      "RetractionDOI": "10.32604/or.2024.055037",
-      "RetractionPubMedID": "39055901.0",
-      "OriginalPaperDate": "3/1/2018 0:00",
-      "OriginalPaperDOI": "10.3727/096504018X15195193936573",
-      "OriginalPaperPubMedID": "29495975.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/84BC7261D1C7273F90C032EDD0776C",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2340826",
-      "Record ID": "59900",
-      "Title": "Effect of Orthodontic Treatment on Anterior Tooth Displacement in Patients with Periodontal Disease: A Meta-Analysis",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Dentistry",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Stomatology, The Second Affiliated Hospital of Soochow University, 1055 Sanxiang Road, Suzhou City, Jiangsu Province 215004, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Jia Hou",
-        "Yunzhu Qian",
-        "Guowu Ma",
-        "Huan Gao",
-        "Jianxin Yang",
-        "Jianlin Fan"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "12/6/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9891783",
-      "RetractionPubMedID": "38094833.0",
-      "OriginalPaperDate": "10/31/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/8761215",
-      "OriginalPaperPubMedID": "34754410.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23455cf",
-      "Record ID": "39943",
-      "Title": "TGF-\u03b21-regulated miR-3691-3p targets E2F3 and PRDM1 to inhibit prostate cancer progression",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
+      "institution": [
         "Department of Pathology, School of Biology and Basic Medical Sciences, Soochow University, Suzhou 215123, China",
         "Department of Pathology, Tongren Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200336, China",
         "Collaborative Innovation Center of Clinical Immunology between Soochow University and Sihong People's Hospital, Sihong 223900, China",
@@ -862,12 +1145,12 @@
         "Department of Pathology, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
         "Suzhou Key Laboratory of Tumor Microenvironment and Pathology, Soochow University, Suzhou 215006, China"
       ],
-      "Journal": "Asian Journal of Andrology",
-      "Publisher": "Wolters Kluwer - Medknow",
-      "Country": [
+      "journal": "Asian Journal of Andrology",
+      "publisher": "Wolters Kluwer - Medknow",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yue Mei Hu",
         "Xiao Li Lou",
         "Bao Zhu Liu",
@@ -881,432 +1164,367 @@
         "Yong Sheng Zhang",
         "Shou Li Wang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/20/2022 0:00",
-      "RetractionDOI": "10.4103/aja202285",
-      "RetractionPubMedID": "36254891.0",
-      "OriginalPaperDate": "11/6/2020 0:00",
-      "OriginalPaperDOI": "10.4103/aja.aja_60_20",
-      "OriginalPaperPubMedID": "33159025.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/20/2022 0:00",
+      "retractiondoi": "10.4103/aja202285",
+      "retractionpubmedid": "36254891.0",
+      "originalpaperdate": "11/6/2020 0:00",
+      "originalpaperdoi": "10.4103/aja.aja_60_20",
+      "originalpaperpubmedid": "33159025.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Image",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2348428",
-      "Record ID": "28026",
-      "Title": "FASN-TGF-\u03b21-PD-L1 axis contributes to the development of resistance to NK cell cytotoxicity of cisplatin-resistant lung cancer cells",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
-        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, PR China"
-      ],
-      "Journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Mingjing Shen",
-        "Ying Tsai",
-        "Rongying Zhu",
-        "Peter C Keng",
-        "Yongbing Chen",
-        "Yuhchyau Chen",
-        "Soo Ok Lee"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/28/2021 0:00",
-      "RetractionDOI": "10.1016/j.bbalip.2021.158946",
-      "RetractionPubMedID": "33933375.0",
-      "OriginalPaperDate": "1/3/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.bbalip.2017.12.012",
-      "OriginalPaperPubMedID": "29306075.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Image",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/12075AD609007AB35290CB557DDBDD;",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234018c",
-      "Record ID": "61590",
-      "Title": "The Role of Change Rates of CYFRA21-1 and CEA in Predicting Chemotherapy Efficacy for Non-Small-Cell Lung Cancer",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pathology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu Province, China",
-        "Oncology Center, Oncology Department, Zhejiang Provincial People's Hospital, Hangzhou, Zhejiang Province, China",
-        "People's Hospital of Hangzhou Medical College, Hangzhou, Zhejiang Province, China",
-        "School of Public Health & Management, Wenzhou Medical University, Wenzhou, Zhejiang, China"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Tongwei Zhao",
-        "Guangyun Mao",
-        "Ming Chen"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/18/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9786104",
-      "RetractionPubMedID": "37885855.0",
-      "OriginalPaperDate": "9/22/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/1951364",
-      "OriginalPaperPubMedID": "34603482.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234942a",
-      "Record ID": "23916",
-      "Title": "Lewy pathological study on \u03b1-synuclein in gastrointestinal tissues of prodromal Parkinson\u2019s disease",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Neurology, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China",
-        "Department of Neurology, Affiliated Jiangyin Hospital of Southeast University Medical College, Jiangyin, Jiangsu, China",
-        "Department of Neurology, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China"
-      ],
-      "Journal": "European Review for Medical and Pharmacological Sciences",
-      "Publisher": "Verduci Editore",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Q B Lu",
-        "Z F Zhu",
-        "H P Zhang",
-        "Weifeng Luo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/1/2017 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "28537689.0",
-      "OriginalPaperDate": "12/1/2017 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "28429355.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2341305",
-      "Record ID": "57112",
-      "Title": "Bone Marrow Ablation Demonstrates That Excess Endogenous Parathyroid Hormone Plays Distinct Roles in Trabecular and Cortical Bone",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Department of Orthopedics, Second Affiliated Hospital of Soochow University, Suzhou, China",
-        "State Key Laboratory of Reproductive Medicine, the Research Center for Bone and Stem Cells, Department of Anatomy, Histology and Embryology, Nanjing Medical University, Nanjing, China",
-        "Department of Medicine, McGill University, Montreal, Quebec, Canada"
-      ],
-      "Journal": "The American Journal of Pathology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Canada",
-        "China"
-      ],
-      "Author": [
-        "Jun Yan",
-        "Weiwei Sun",
-        "Jing Zhang",
-        "David Goltzman",
-        "Dengshun Miao"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/23/2024 0:00",
-      "RetractionDOI": "10.1016/j.ajpath.2024.08.004",
-      "RetractionPubMedID": "39322335.0",
-      "OriginalPaperDate": "5/25/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.ajpath.2012.03.038",
-      "OriginalPaperPubMedID": "22640808.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher",
-        "+Manipulation of Images",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2343efb",
-      "Record ID": "45816",
-      "Title": "Expression of PD-L1 and BRCA1 in Triple-Negative Breast Cancer Patients and Relationship with Clinicopathological Characteristics",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of General Surgery, The Second Affiliated Hospital of Soochow University, Suzhou 215004, Jiangsu, China",
-        "Department of Breast Surgery, Affiliated Tumor Hospital of Nantong University, Nantong 226321, Jiangsu, China",
-        "Department of Radiation Oncology, Affiliated Tumor Hospital of Nantong University, Nantong 226321, Jiangsu, China",
-        "Key Laboratory of Cancer Research Center Nantong, Tumor Hospital Affiliated to Nantong University, Nantong 226321, Jiangsu, China",
-        "Department of Pathology, Nantong Tumor Hospital, Affiliated Tumor Hospital of Nantong University, Nantong 226321, Jiangsu, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xianghua Huang",
-        "Xiangqian Wang",
-        "Hongyan Qian",
-        "Xiaoxia Jin",
-        "Guoqin Jiang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/21/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9815452",
-      "RetractionPubMedID": "37388050.0",
-      "OriginalPaperDate": "10/22/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2021/5314016",
-      "OriginalPaperPubMedID": "34721634.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/B58F6146A243346F12C3D30F4FA666",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23491ad",
-      "Record ID": "24555",
-      "Title": "Titanium particles damage osteocytes and inhibit osteoblast differentiation",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Second Department of Orthopaedics, SuZhou Municipal Hospital, Suzhou City, Anhui Province, China",
-        "Department of Orthopedics, The Second Affiliated Hospital of Soochow University, Suzhou City, Jiangsu Province, China"
-      ],
-      "Journal": "Journal of Experimental Orthopaedics",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Li Chen",
-        "Ziyue Wang",
-        "Wei Xu",
-        "Qirong Dong"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/3/2020 0:00",
-      "RetractionDOI": "10.1186/s40634-020-00304-z",
-      "RetractionPubMedID": "33141364.0",
-      "OriginalPaperDate": "7/4/2020 0:00",
-      "OriginalPaperDOI": "10.1186/s40634-020-00268-0",
-      "OriginalPaperPubMedID": "32623526.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Methods"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234543b",
-      "Record ID": "40348",
-      "Title": "MicroRNA-20b suppresses the expression of ZFP-148 in viral myocarditis",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Department of Forensic Medicine, Soochow University, Suzhou Dushuhu High Educational Town, Suzhou, Jiangsu, 215123, People\u2019s Republic of China",
-        "Department of Forensic Medicine, Shanghai Medical College, Fudan University, Xuhui, Shanghai, 200032, People\u2019s Republic of China",
-        "Department of dermatological, The second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, 215123, People\u2019s Republic of China"
-      ],
-      "Journal": "Molecular and Cellular Biochemistry",
-      "Publisher": "springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hong Fei Xu",
-        "Xiang Ting Gao",
-        "Jun Yi Lin",
-        "Xue Hua Xu",
-        "Jun Hu",
-        "Yu Jie Ding",
-        "Shao Hua Zhu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/4/2022 0:00",
-      "RetractionDOI": "10.1007/s11010-022-04598-8",
-      "RetractionPubMedID": "36333628.0",
-      "OriginalPaperDate": "2/28/2017 0:00",
-      "OriginalPaperDOI": "10.1007/s11010-017-2947-7",
-      "OriginalPaperPubMedID": "28247213.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234113d",
-      "Record ID": "57568",
-      "Title": "Improvement of Cerebral Ischemia-Reperfusion Injury via Regulation of Apoptosis by Exosomes Derived from BDNF-Overexpressing HEK293",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Neurology, The Second Affiliated Hospital of Soochow University, Jiangsu Province, China",
-        "Department of Neurology, The First Affiliated Hospital of Wannan Medical College, Anhui Province, China",
-        "Emergency Department, The First Affiliated Hospital of Wannan Medical College, Anhui Province, China"
-      ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Lizong Wang",
-        "Jinghan Jiang",
-        "Taofeng Zhou",
-        "Xiang Xue",
-        "Yongjun Cao"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/9/2024 0:00",
-      "RetractionDOI": "10.1155/2024/9839642",
-      "RetractionPubMedID": "38230002.0",
-      "OriginalPaperDate": "3/4/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6613510",
-      "OriginalPaperPubMedID": "33763476.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23472bf",
-      "Record ID": "32496",
-      "Title": "Targeting MALAT1 and miRNA-181a-5p for the intervention of acute lung injury/acute respiratory distress syndrome",
-      "Subject": [
+      "_id": "687cefb41f662220d898ac57",
+      "recordId": "39264",
+      "title": "HS3ST2 and Its Related Molecules as Potential Biomarkers for Predicting Lymph Node Metastasis in Patients with Colorectal Cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
+        "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, 215004, Jiangsu, People\u2019s Republic of China"
+      ],
+      "journal": "OncoTargets and Therapy",
+      "publisher": "Taylor and Francis - Dove Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Guangyu Gao",
+        "Xinya Shi",
+        "Jiaofeng Shen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/23/2022 0:00",
+      "retractiondoi": "10.2147/OTT.S390084",
+      "retractionpubmedid": "36176728.0",
+      "originalpaperdate": "6/25/2021 0:00",
+      "originalpaperdoi": "10.2147/OTT.S311038",
+      "originalpaperpubmedid": "34234457.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Lack of Approval from Author"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898aed0",
+      "recordId": "38626",
+      "title": "MicroRNA-873 inhibits the proliferation and invasion of endometrial cancer cells by directly targeting hepatoma-derived growth factor",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Gynaecology and Obstetrics, The First People's Hospital of Kunshan, Kunshan, Jiangsu 215000, P.R. China",
+        "Department of Gynaecology and Obstetrics, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, P.R. China"
+      ],
+      "journal": "Experimental and Therapeutic Medicine",
+      "publisher": "Spandidos",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qin Wang",
+        "Weipei Zhu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/27/2022 0:00",
+      "retractiondoi": "10.3892/etm.2022.11475",
+      "retractionpubmedid": "35837040.0",
+      "originalpaperdate": "6/26/2019 0:00",
+      "originalpaperdoi": "10.3892/etm.2019.7713",
+      "originalpaperpubmedid": "31363373.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefbc1f662220d898b3f8",
+      "recordId": "37302",
+      "title": "Long noncoding RNA LINC00460 promotes the progression of cervical cancer via regulation of the miR-361-3p/Gli1 axis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Gynaecology and Obstetrics, The Second Affiliated Hospital of Soochow University, 1055 Sanxiang Road, Gusu District, Suzhou, 215000, China",
+        "Department of Gynaecology and Obestetrics, Shanghai the Eighth People\u2019s Hospital, No.8 Caobao Road, Xuhui District, Shanghai, 200235, China"
+      ],
+      "journal": "Human Cell",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Fan Li",
+        "Weipei Zhu",
+        "Zhijie Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/18/2022 0:00",
+      "retractiondoi": "10.1007/s13577-022-00723-3",
+      "retractionpubmedid": "35583800.0",
+      "originalpaperdate": "10/16/2020 0:00",
+      "originalpaperdoi": "10.1007/s13577-020-00447-2",
+      "originalpaperpubmedid": "33063235.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues About Image",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc81f662220d898bf24",
+      "recordId": "34421",
+      "title": "Silence of HDAC6 suppressed esophageal squamous cell carcinoma proliferation and migration by disrupting chaperone function of HSP90",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, P.R. China",
+        "Department of Radiotherapy, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, Nanjing Medical University Affiliated Cancer Hospital, Nanjing, Jiangsu, P.R. China",
+        "Department of Radiotherapy, Zhejiang Cancer Hospital, Hangzhou, Zhejiang, P.R. China"
+      ],
+      "journal": "Journal of Cellular Biochemistry",
+      "publisher": "Wiley",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hua Tao",
+        "Yuan Yuan Chen",
+        "Zong Wen Sun",
+        "Hua Lin Chen",
+        "Ming Chen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/3/2021 0:00",
+      "retractiondoi": "10.1002/jcb.30183",
+      "retractionpubmedid": "34859895.0",
+      "originalpaperdate": "4/17/2018 0:00",
+      "originalpaperdoi": "10.1002/jcb.26841",
+      "originalpaperpubmedid": "29665050.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefce1f662220d898c4f8",
+      "recordId": "32928",
+      "title": "Increased infiltration of macrophages to radioresistant lung cancer cells contributes to the development of the additional resistance of tumor cells to the cytotoxic effects of NK cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
+        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, P.R. China"
+      ],
+      "journal": "International Journal of Oncology",
+      "publisher": "Spandidos",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Mingjing Shen",
+        "Yongbing Chen",
+        "Lijun Xu",
+        "Rongying Zhu",
+        "Xiang Xue",
+        "Ying Tsai",
+        "Peter C Keng",
+        "Soo Ok Lee",
+        "Yuhchyau Chen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/19/2020 0:00",
+      "retractiondoi": "10.3892/ijo.2020.5113",
+      "retractionpubmedid": "32945362.0",
+      "originalpaperdate": "5/4/2018 0:00",
+      "originalpaperdoi": "10.3892/ijo.2018.4394",
+      "originalpaperpubmedid": "29750425.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefce1f662220d898c4f9",
+      "recordId": "32927",
+      "title": "In vitro-induced M2 type macrophages induces the resistance of prostate cancer cells to cytotoxic action of NK cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
+        "Department of Urology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, PR China"
+      ],
+      "journal": "Experimental Cell Research",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Lijun Xu",
+        "Mingjing Shen",
+        "Xiaodong Chen",
+        "Dong Rong Yang",
+        "Ying Tsai",
+        "Peter C Keng",
+        "Soo Ok Lee",
+        "Yuhchyua Chen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/21/2020 0:00",
+      "retractiondoi": "10.1016/j.yexcr.2020.112006",
+      "retractionpubmedid": "32331849.0",
+      "originalpaperdate": "2/1/2018 0:00",
+      "originalpaperdoi": "10.1016/j.yexcr.2018.01.041",
+      "originalpaperpubmedid": "29408565.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefce1f662220d898c4fb",
+      "recordId": "32925",
+      "title": "Adipocytes affect castration-resistant prostate cancer cells to develop the resistance to cytotoxic action of NK cells with alterations of PD-L1/NKG2D ligand levels in tumor cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, New York",
+        "Department of Urology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, P.R. China"
+      ],
+      "journal": "The Prostate",
+      "publisher": "Wiley",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Lijun Xu",
+        "Mingjing Shen",
+        "Xiaodong Chen",
+        "Rongying Zhu",
+        "Dong Rong Yang",
+        "Ying Tsai",
+        "Peter C Keng",
+        "Yuhchyau Chen",
+        "Soo Ok Lee"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/23/2019 0:00",
+      "retractiondoi": "10.1002/pros.23910",
+      "retractionpubmedid": "31550060.0",
+      "originalpaperdate": "1/12/2018 0:00",
+      "originalpaperdoi": "10.1002/pros.23479",
+      "originalpaperpubmedid": "29330929.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefce1f662220d898c6a5",
+      "recordId": "32496",
+      "title": "Targeting MALAT1 and miRNA-181a-5p for the intervention of acute lung injury/acute respiratory distress syndrome",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
         "Department of Anesthesiology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China",
         "Department of Anesthesiology, Renji Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China",
         "Department of Cardiology, Shanghai East Hospital, Tongji University School of Medicine, Shanghai, China"
       ],
-      "Journal": "Respiratory Medicine",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Respiratory Medicine",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yaling Liu",
         "Xiaodong Wang",
         "Peiying Li",
@@ -1315,30 +1533,278 @@
         "Weifeng Yu",
         "Hong Xie"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/13/2021 0:00",
-      "RetractionDOI": "10.1016/j.rmed.2021.106601",
-      "RetractionPubMedID": "34530354.0",
-      "OriginalPaperDate": "11/4/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.rmed.2020.106210",
-      "OriginalPaperPubMedID": "33197806.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/13/2021 0:00",
+      "retractiondoi": "10.1016/j.rmed.2021.106601",
+      "retractionpubmedid": "34530354.0",
+      "originalpaperdate": "11/4/2020 0:00",
+      "originalpaperdoi": "10.1016/j.rmed.2020.106210",
+      "originalpaperpubmedid": "33197806.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Lack of Approval from Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a2f7",
-      "Record ID": "20108",
-      "Title": "SOX2 oncogenes amplified and operate to activate AKT signalling in gastric cancer and predict immunotherapy responsiveness",
-      "Subject": [
+      "_id": "687cefd41f662220d898caa5",
+      "recordId": "31467",
+      "title": "Neuroendocrine differentiation contributes to radioresistance development and metastatic potential increase in non-small cell lung cancer",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
+        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, PR China"
+      ],
+      "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Rongying Zhu",
+        "Xiaodong Yang",
+        "Xiang Xue",
+        "Mingjing Shen",
+        "Feng Chen",
+        "Xiadong Chen",
+        "Ying Tsai",
+        "Peter C Keng",
+        "Yongbing Chen",
+        "Soo Ok Lee",
+        "Yuhchyau Chen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/7/2021 0:00",
+      "retractiondoi": "10.1016/j.bbamcr.2021.119097",
+      "retractionpubmedid": "34371295.0",
+      "originalpaperdate": "9/15/2018 0:00",
+      "originalpaperdoi": "10.1016/j.bbamcr.2018.09.005",
+      "originalpaperpubmedid": "30262435.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Image",
+        "+Investigation by Third Party"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/569EB2CE7A7335D7F3F8F3FF310936",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefeb1f662220d898d80e",
+      "recordId": "28026",
+      "title": "FASN-TGF-\u03b21-PD-L1 axis contributes to the development of resistance to NK cell cytotoxicity of cisplatin-resistant lung cancer cells",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA",
+        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, PR China"
+      ],
+      "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Mingjing Shen",
+        "Ying Tsai",
+        "Rongying Zhu",
+        "Peter C Keng",
+        "Yongbing Chen",
+        "Yuhchyau Chen",
+        "Soo Ok Lee"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/28/2021 0:00",
+      "retractiondoi": "10.1016/j.bbalip.2021.158946",
+      "retractionpubmedid": "33933375.0",
+      "originalpaperdate": "1/3/2018 0:00",
+      "originalpaperdoi": "10.1016/j.bbalip.2017.12.012",
+      "originalpaperpubmedid": "29306075.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Image",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/12075AD609007AB35290CB557DDBDD;",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0081f662220d898e593",
+      "recordId": "24555",
+      "title": "Titanium particles damage osteocytes and inhibit osteoblast differentiation",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Second Department of Orthopaedics, SuZhou Municipal Hospital, Suzhou City, Anhui Province, China",
+        "Department of Orthopedics, The Second Affiliated Hospital of Soochow University, Suzhou City, Jiangsu Province, China"
+      ],
+      "journal": "Journal of Experimental Orthopaedics",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Li Chen",
+        "Ziyue Wang",
+        "Wei Xu",
+        "Qirong Dong"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/3/2020 0:00",
+      "retractiondoi": "10.1186/s40634-020-00304-z",
+      "retractionpubmedid": "33141364.0",
+      "originalpaperdate": "7/4/2020 0:00",
+      "originalpaperdoi": "10.1186/s40634-020-00268-0",
+      "originalpaperpubmedid": "32623526.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00e1f662220d898e810",
+      "recordId": "23916",
+      "title": "Lewy pathological study on \u03b1-synuclein in gastrointestinal tissues of prodromal Parkinson\u2019s disease",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Department of Neurology, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China",
+        "Department of Neurology, Affiliated Jiangyin Hospital of Southeast University Medical College, Jiangyin, Jiangsu, China",
+        "Department of Neurology, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China"
+      ],
+      "journal": "European Review for Medical and Pharmacological Sciences",
+      "publisher": "Verduci Editore",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Q B Lu",
+        "Z F Zhu",
+        "H P Zhang",
+        "Weifeng Luo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/1/2017 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "28537689.0",
+      "originalpaperdate": "12/1/2017 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "28429355.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf05d1f662220d898f4f9",
+      "recordId": "20598",
+      "title": "Endothelial progenitor cell-derived exosomes, loaded with miR-126, promoted deep vein thrombosis resolution and recanalization",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Department of Vascular Surgery, The Second Affiliated Hospital of Soochow University, Suzhou 215000, China",
+        "Department of Biomedical Engineering, University of Alabama at Birmingham, Birmingham 35294, Alabama, USA",
+        "Department of Cardiothoracic Surgery, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
+        "Department of Cardiovascular Surgery of the First Affiliated Hospital and Institute for Cardiovascular Science, Soochow University, Suzhou 215000, China"
+      ],
+      "journal": "Stem Cell Research & Therapy",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Jiacheng Sun",
+        "Zhiwei Zhang",
+        "Teng Ma",
+        "Ziying Yang",
+        "Jinlong Zhang",
+        "Xuan Liu",
+        "Da Lu",
+        "Zhenya Shen",
+        "Junjie Yang",
+        "Qingyou Meng"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/11/2019 0:00",
+      "retractiondoi": "10.1186/s13287-019-1264-3",
+      "retractionpubmedid": "31186059.0",
+      "originalpaperdate": "8/23/2018 0:00",
+      "originalpaperdoi": "10.1186/s13287-018-0952-8",
+      "originalpaperpubmedid": "30139377.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Contamination of Cell Lines/Tissues",
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Error in Methods",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f6dd",
+      "recordId": "20108",
+      "title": "SOX2 oncogenes amplified and operate to activate AKT signalling in gastric cancer and predict immunotherapy responsiveness",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
@@ -1346,16 +1812,16 @@
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Hangzhou Sanatorium Health Management Center, Hangzhou, People\u2019s Republic of China",
         "Department of General Surgery, The Second Affiliated Hospital of Soochow University, Suzhou, People\u2019s Republic of China"
       ],
-      "Journal": "Journal of Cancer Research and Clinical Oncology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Journal of Cancer Research and Clinical Oncology",
+      "publisher": "Springer",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yajun Tian",
         "Xin JIa",
         "Shengxiang Wang",
@@ -1367,517 +1833,46 @@
         "Yi Luo",
         "Maosheng Dong"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/11/2019 0:00",
-      "RetractionDOI": "10.1007/s00432-019-02878-3",
-      "RetractionPubMedID": "30859318.0",
-      "OriginalPaperDate": "4/22/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s00432-014-1660-0",
-      "OriginalPaperPubMedID": "24752338.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/11/2019 0:00",
+      "retractiondoi": "10.1007/s00432-019-02878-3",
+      "retractionpubmedid": "30859318.0",
+      "originalpaperdate": "4/22/2014 0:00",
+      "originalpaperdoi": "10.1007/s00432-014-1660-0",
+      "originalpaperpubmedid": "24752338.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2014,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234258b",
-      "Record ID": "52346",
-      "Title": "Mechanism of Pilose Antler in Treatment of Osteoporosis Based on Network Pharmacology",
-      "Subject": [
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Orthopaedics, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
-        "Institute of Osteoporosis Diagnosis and Treatments of Soochow University, Suzhou 215004, China",
-        "Osteoporosis Clinical Center, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Baoshan Liu",
-        "Aifei Wang",
-        "Zihou Cao",
-        "Junjie Li",
-        "Miao Zheng",
-        "Youjia Xu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/16/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9812417",
-      "RetractionPubMedID": "37621614.0",
-      "OriginalPaperDate": "3/30/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/5298892",
-      "OriginalPaperPubMedID": "35399830.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343e24",
-      "Record ID": "46032",
-      "Title": "miR-28-5p\u2019s Targeting of GAGE12I Inhibits Proliferation, Migration, and Invasion of Gastric Cancer in Vitro",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Radiotherapy & Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, China",
-        "Institute of Radiation Oncology, Soochow University, Suzhou, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ruizhe Xu",
-        "Qi Guo",
-        "Peifeng Zhao",
-        "Haiyan Lu",
-        "Bo Zhang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/21/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9819238",
-      "RetractionPubMedID": "37387967.0",
-      "OriginalPaperDate": "9/30/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6946051",
-      "OriginalPaperPubMedID": "36212971.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/3FEA26305D268F9DD11FAA3F4A9144",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d233ff20",
-      "Record ID": "62210",
-      "Title": "Development of Gene Panel for Predicting Recurrence in Early-Stage Cervical Cancer Patients",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Genetics",
-        "(HSC) Biostatistics/Epidemiology"
-      ],
-      "Institution": [
-        "Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China"
-      ],
-      "Journal": "Environmental Toxicology",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yun Ma",
-        "Weipei Zhu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/17/2025 0:00",
-      "RetractionDOI": "10.1002/tox.24495",
-      "RetractionPubMedID": "39960025.0",
-      "OriginalPaperDate": "4/2/2024 0:00",
-      "OriginalPaperDOI": "10.1002/tox.24270",
-      "OriginalPaperPubMedID": "38563455.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2024,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345871",
-      "Record ID": "39264",
-      "Title": "HS3ST2 and Its Related Molecules as Potential Biomarkers for Predicting Lymph Node Metastasis in Patients with Colorectal Cancer",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, 215004, Jiangsu, People\u2019s Republic of China"
-      ],
-      "Journal": "OncoTargets and Therapy",
-      "Publisher": "Taylor and Francis - Dove Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Guangyu Gao",
-        "Xinya Shi",
-        "Jiaofeng Shen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/23/2022 0:00",
-      "RetractionDOI": "10.2147/OTT.S390084",
-      "RetractionPubMedID": "36176728.0",
-      "OriginalPaperDate": "6/25/2021 0:00",
-      "OriginalPaperDOI": "10.2147/OTT.S311038",
-      "OriginalPaperPubMedID": "34234457.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Lack of Approval from Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23451d3",
-      "Record ID": "40972",
-      "Title": "Analysis of Influencing Factors of Repair Effect after Peripheral Nerve Injury",
-      "Subject": [
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Orthopaedics, The Second Affiliated Hospital of Soochow University, Suzhou 215004, China",
-        "Department of Hand-Foot Microsurgery, Huazhong University of Science and Technology Union Shenzhen Hospital, Shenzhen 518052, China",
-        "Department of Orthopaedic Trauma, The Affiliated Hospital of Guizhou Medical University, Guiyang 550001, China",
-        "Department of Gynaecology, Shenzhen Nanshan District Maternal and Child Health Care Hospital, Shenzhen 518000, China"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Renqun Mao",
-        "Zean Wei",
-        "Wenqing Li",
-        "Xiaodi Zhu",
-        "Dalian Du",
-        "Wei Xu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/17/2022 0:00",
-      "RetractionDOI": "10.1155/2022/9805194",
-      "RetractionPubMedID": "36439956.0",
-      "OriginalPaperDate": "11/23/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/8294267",
-      "OriginalPaperPubMedID": "34858520.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d23420e9",
-      "Record ID": "53552",
-      "Title": "BNIP1 inhibits cell proliferation, migration and invasion, and promotes apoptosis by mTOR in cervical cancer cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Oncology, the Second Affiliated Hospital of Soochow University, Suzhou, China",
-        "Department of Breast and Gynecologic Oncology, the Affiliated Hospital of Guizhou Medical University, Guizhou Cancer Hospital, Guiyang, China",
-        "Department of Interventional Radiology, the Affiliated Hospital of Guizhou Medical University, Guiyang, China",
-        "The Key Laboratory of Medical Molecular Biology, GuiZhou Medical University, Guiyang, China"
-      ],
-      "Journal": "European Review for Medical and Pharmacological Sciences",
-      "Publisher": "Verduci Editore",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Fenghu Li",
-        "Lei Xiang",
-        "L Ran",
-        "S Zhou",
-        "Z Huang",
-        "Ming Chen",
-        "Wenfeng Yu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2024 0:00",
-      "RetractionDOI": "10.26355/eurrev_202405_36205",
-      "RetractionPubMedID": "38766787.0",
-      "OriginalPaperDate": "2/15/2019 0:00",
-      "OriginalPaperDOI": "10.26355/eurrev_201902_17096",
-      "OriginalPaperPubMedID": "30840260.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also; https://pubpeer.com/publications/6046D9CC8576F923B46A91C15598C1",
-      "notice_year": 2024,
-      "year": 2019,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2341025",
-      "Record ID": "57848",
-      "Title": "Adropin Inhibits Vascular Smooth Muscle Cell Osteogenic Differentiation to Alleviate Vascular Calcification via the JAK2/STAT3 Signaling Pathway",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Cardiology, The Second A\ufb03liated Hospital of Soochow University, Suzhou, Jiangsu, China 2150042",
-        "Emergency Department, The Second A\ufb03liated Hospital of Soochow University, Suzhou, Jiangsu, China 2150043",
-        "Department of Cardiology, Shanghai Institute of Cardiovascular Disease, Zhongshan Hospital, Fudan University, Shanghai, China 200032"
-      ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Li Wang",
-        "Fulu Jin",
-        "Peiyu Wang",
-        "Shiqiang Hou",
-        "Tao Jin",
-        "Xiansong Chang",
-        "Liangping Zhao"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9893018",
-      "RetractionPubMedID": "38188800.0",
-      "OriginalPaperDate": "7/27/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/9122264",
-      "OriginalPaperPubMedID": "35937397.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345aea",
-      "Record ID": "38626",
-      "Title": "MicroRNA-873 inhibits the proliferation and invasion of endometrial cancer cells by directly targeting hepatoma-derived growth factor",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Gynaecology and Obstetrics, The First People's Hospital of Kunshan, Kunshan, Jiangsu 215000, P.R. China",
-        "Department of Gynaecology and Obstetrics, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215004, P.R. China"
-      ],
-      "Journal": "Experimental and Therapeutic Medicine",
-      "Publisher": "Spandidos",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qin Wang",
-        "Weipei Zhu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/27/2022 0:00",
-      "RetractionDOI": "10.3892/etm.2022.11475",
-      "RetractionPubMedID": "35837040.0",
-      "OriginalPaperDate": "6/26/2019 0:00",
-      "OriginalPaperDOI": "10.3892/etm.2019.7713",
-      "OriginalPaperPubMedID": "31363373.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2019,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2347115",
-      "Record ID": "32925",
-      "Title": "Adipocytes affect castration-resistant prostate cancer cells to develop the resistance to cytotoxic action of NK cells with alterations of PD-L1/NKG2D ligand levels in tumor cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, University of Rochester School of Medicine and Dentistry, Rochester, New York",
-        "Department of Urology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, P.R. China"
-      ],
-      "Journal": "The Prostate",
-      "Publisher": "Wiley",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Lijun Xu",
-        "Mingjing Shen",
-        "Xiaodong Chen",
-        "Rongying Zhu",
-        "Dong Rong Yang",
-        "Ying Tsai",
-        "Peter C Keng",
-        "Yuhchyau Chen",
-        "Soo Ok Lee"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/23/2019 0:00",
-      "RetractionDOI": "10.1002/pros.23910",
-      "RetractionPubMedID": "31550060.0",
-      "OriginalPaperDate": "1/12/2018 0:00",
-      "OriginalPaperDOI": "10.1002/pros.23479",
-      "OriginalPaperPubMedID": "29330929.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346b3e",
-      "Record ID": "34421",
-      "Title": "Silence of HDAC6 suppressed esophageal squamous cell carcinoma proliferation and migration by disrupting chaperone function of HSP90",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Oncology, The Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, P.R. China",
-        "Department of Radiotherapy, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research, Nanjing Medical University Affiliated Cancer Hospital, Nanjing, Jiangsu, P.R. China",
-        "Department of Radiotherapy, Zhejiang Cancer Hospital, Hangzhou, Zhejiang, P.R. China"
-      ],
-      "Journal": "Journal of Cellular Biochemistry",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hua Tao",
-        "Yuan Yuan Chen",
-        "Zong Wen Sun",
-        "Hua Lin Chen",
-        "Ming Chen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/3/2021 0:00",
-      "RetractionDOI": "10.1002/jcb.30183",
-      "RetractionPubMedID": "34859895.0",
-      "OriginalPaperDate": "4/17/2018 0:00",
-      "OriginalPaperDOI": "10.1002/jcb.26841",
-      "OriginalPaperPubMedID": "29665050.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Journal/Publisher",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234d194",
-      "Record ID": "8109",
-      "Title": "Tanshinone IIA Pretreatment Renders Free Flaps against Hypoxic Injury through Activating Wnt Signaling and Upregulating Stem Cell-Related Biomarkers",
-      "Subject": [
+      "_id": "687cf0b91f662220d899257a",
+      "recordId": "8109",
+      "title": "Tanshinone IIA Pretreatment Renders Free Flaps against Hypoxic Injury through Activating Wnt Signaling and Upregulating Stem Cell-Related Biomarkers",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Burns and Plastic Surgery, Shaanxi Provincial People's Hospital, Xi'an 710068, China",
         "Department of Plastic Surgery, the Second Affiliated Hospital of Soochow University, Suzhou 215004, China"
       ],
-      "Journal": "International Journal of Molecular Sciences",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "International Journal of Molecular Sciences",
+      "publisher": "MDPI",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Zihan Xu",
         "Zhenxin Zhang",
         "Lijun Wu",
@@ -1889,168 +1884,211 @@
         "Benfeng Wang",
         "Wenjie Ga"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/20/2016 0:00",
-      "RetractionDOI": "10.3390/ijms17050768",
-      "RetractionPubMedID": "27213350.0",
-      "OriginalPaperDate": "10/9/2014 0:00",
-      "OriginalPaperDOI": "10.3390/ijms151018117",
-      "OriginalPaperPubMedID": "25302618.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/20/2016 0:00",
+      "retractiondoi": "10.3390/ijms17050768",
+      "retractionpubmedid": "27213350.0",
+      "originalpaperdate": "10/9/2014 0:00",
+      "originalpaperdoi": "10.3390/ijms151018117",
+      "originalpaperpubmedid": "25302618.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data",
         "+Duplication of/in Image",
         "+Duplication of Text",
         "+Objections by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d8993690",
+      "recordId": "3660",
+      "title": "Use of Non-benzodiazepine Hypnotics Is Associated with Decreased Risk of Coronary Artery Disease",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Cardiology, The Second Affiliated Hospital of Soochow University, China Department of Internal Medicine, Jiangyin Hospital of Traditional Chinese Medicine, China"
+      ],
+      "journal": "Internal Medicine",
+      "publisher": "The Japanese Society of Internal Medicine",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiang Zhou",
+        "Yufeng Zhang",
+        "Jianchang Chen",
+        "Weiting Xu"
+      ],
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "5/15/2013 0:00",
+      "retractiondoi": "10.2169/internalmedicine.52.R001",
+      "retractionpubmedid": "23676612.0",
+      "originalpaperdate": "4/15/2012 0:00",
+      "originalpaperdoi": "10.2169/internalmedicine.51.6942",
+      "originalpaperpubmedid": "22504234.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 8,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 7,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 2,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 4,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 2
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 7,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 4
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 10,
-      "retraction_notice_count": 7,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 5,
-      "integrity": 5
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 13,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

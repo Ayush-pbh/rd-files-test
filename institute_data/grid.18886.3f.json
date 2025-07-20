@@ -1,35 +1,144 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068779ce",
+    "_id": "687ccbab09adbf7aa61b85ef",
     "grid_id": "grid.18886.3f",
     "institute_name": "Institute of Cancer Research",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "40079",
-      "19150",
-      "34806",
-      "63148",
-      "2108",
-      "434",
-      "21340",
       "32770",
-      "19132",
-      "43891",
+      "34806",
+      "2108",
       "37",
+      "21340",
+      "19150",
       "21341",
-      "21342"
+      "19132",
+      "21342",
+      "43891",
+      "434",
+      "63148",
+      "40079"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345547",
-      "Record ID": "40079",
-      "Title": "CBX7 controls the growth of normal and tumor-derived prostate cells by repressing the Ink4a/Arf locus",
-      "Subject": [
+      "_id": "687cef591f662220d8984f69",
+      "recordId": "63148",
+      "title": "A recombinant H1 histone based system for efficient delivery of nucleic acids",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Biogeny PLC, SAF Building, Imperial College London, Imperial College Road, SW7 2AZ London, UK",
+        "Biological Sciences, Imperial College London, Imperial College Road, SW7 2AZ London, UK",
+        "The Institute of Cancer Research, Fulham Road, SW7 3RP London, UK"
+      ],
+      "journal": "Journal of Biotechnology",
+      "publisher": "Elsevier",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Iratxe Puebla",
+        "Selma Esseghir",
+        "Alison Mortlock",
+        "Anthony Brown",
+        "Andrea Crisanti",
+        "Walter Low"
+      ],
+      "urls": "https://retractionwatch.com/2025/06/23/cope-integrity-officer-loses-22-year-old-paper-for-image-concerns/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/23/2025 0:00",
+      "retractiondoi": "10.1016/j.jbiotec.2025.03.003",
+      "retractionpubmedid": "40127574.0",
+      "originalpaperdate": "10/4/2003 0:00",
+      "originalpaperdoi": "10.1016/j.jbiotec.2003.07.006",
+      "originalpaperpubmedid": "14580793.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/F641C30E468EF1D4FF11F445B204C6",
+      "year": "2003",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa61f662220d8989a61",
+      "recordId": "43891",
+      "title": "The hypoxic cancer secretome induces pre-metastatic bone lesions through lysyl oxidase",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Biotech Research and Innovation Centre (BRIC), University of Copenhagen (UCPH), Copenhagen, DK-2200, Denmark",
+        "Hypoxia and Metastasis Team, Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, SW3 6JB, UK",
+        "The Mellanby Centre for Bone Research, The University of Sheffield, Sheffield, S10 2RX, UK",
+        "Cellular Signal Integration Group (C-SIG), Technical University of Denmark (DTU), Lyngby, DK-2800, Denmark"
+      ],
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Denmark",
+        "United Kingdom"
+      ],
+      "author": [
+        "Thomas R Cox",
+        "Robin M H Rumney",
+        "Erwin M Schoof",
+        "Lara Perryman",
+        "Anette M Hoye",
+        "Ankita Agrawal",
+        "Demelza Bird",
+        "Norain Ab Latif",
+        "Hamish Forrest",
+        "Holly R Evans",
+        "Iain D Huggins",
+        "Goergina Lang",
+        "Rune Linding",
+        "Alison Gartland",
+        "Janine T Erler"
+      ],
+      "urls": "https://retractionwatch.com/?s=Janine+Erler",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/17/2023 0:00",
+      "retractiondoi": "10.1038/s41586-023-06048-x",
+      "retractionpubmedid": "37069265.0",
+      "originalpaperdate": "5/27/2015 0:00",
+      "originalpaperdoi": "10.1038/nature14492",
+      "originalpaperpubmedid": "26017313.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Unreliable Data",
+        "+Unreliable Image"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb21f662220d898a92d",
+      "recordId": "40079",
+      "title": "CBX7 controls the growth of normal and tumor-derived prostate cells by repressing the Ink4a/Arf locus",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Laboratory of Molecular Virology, Faculty of Medicine, Free University of Brussels, Brussels, Belgium",
         "Experimental Therapeutics Program, Centro Nacional de Investigaciones Oncol\u00f3gicas, Melchor Fern\u00e1ndez Almagro 3, Madrid, 28029, Spain",
         "Prostate Stem Cell Laboratory, Institute of Cancer Research, 15 Cotswold Road, Sutton, SM2 5NG, UK",
@@ -38,15 +147,15 @@
         "Molecular Oncology Laboratory, Cancer Research UK, London Research Institute, 44 Lincoln's Inn Fields, London, WC2A 3PX, UK",
         "Center for Cutaneous Biology, Institute for Cell and Molecular Sciences, 2 Newark St, Whitechapel, London, E1 2AT, UK"
       ],
-      "Journal": "Oncogene",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Oncogene",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Belgium",
         "Finland",
         "Spain",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "David Bernard",
         "Juan F Martinez-Leal",
         "Sian Rizzo",
@@ -58,82 +167,35 @@
         "David Beach",
         "Jesus Gil"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/17/2022 0:00",
-      "RetractionDOI": "10.1038/s41388-022-02502-8",
-      "RetractionPubMedID": "36253447.0",
-      "OriginalPaperDate": "5/9/2005 0:00",
-      "OriginalPaperDOI": "10.1038/sj.onc.1208735",
-      "OriginalPaperPubMedID": "15897876.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/17/2022 0:00",
+      "retractiondoi": "10.1038/s41388-022-02502-8",
+      "retractionpubmedid": "36253447.0",
+      "originalpaperdate": "5/9/2005 0:00",
+      "originalpaperdoi": "10.1038/sj.onc.1208735",
+      "originalpaperpubmedid": "15897876.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2005
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a6b1",
-      "Record ID": "19150",
-      "Title": "An in vitro and in vivo study of the combination of the heat shock protein inhibitor 17-allylamino-17-demethoxygeldanamycin and carboplatin in human ovarian cancer models",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Cancer Research UK Centre for Cancer Therapeutics, Haddow Laboratories, The Institute of Cancer Research, Sutton, UK",
-        "Section of Medicine, Haddow Laboratories, The Institute of Cancer Research, Sutton, UK"
-      ],
-      "Journal": "Cancer Chemotherapy and Pharmacology",
-      "Publisher": "Springer",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Udai Banerji",
-        "Nivedita Sain",
-        "Swee Y Sharp",
-        "Melanie Valenti",
-        "Yasmin Asad",
-        "Ruth Ruddle",
-        "Florence Raynaud",
-        "Michael Walton",
-        "Suzanne A Eccles",
-        "Ian Judson",
-        "Ann L Jackman",
-        "Paul Workman"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/1/2018 0:00",
-      "RetractionDOI": "10.1007/s00280-018-3674-9",
-      "RetractionPubMedID": "30173339.0",
-      "OriginalPaperDate": "1/10/2008 0:00",
-      "OriginalPaperDOI": "10.1007/s00280-007-0662-x",
-      "OriginalPaperPubMedID": "18193424.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Concerns/Issues About Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2008,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23469bd",
-      "Record ID": "34806",
-      "Title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
-      "Subject": [
+      "_id": "687cefc61f662220d898bda3",
+      "recordId": "34806",
+      "title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Tumor Initiation & Maintenance Program, NCI-Designated Cancer Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA Developmental and Stem Cell Biology Program, The Hospital for Sick Children, Toronto, Canada",
         "Tumor Microenvironment and Cancer Immunology Program, NCI-Designated Cancer Center and the Infectious and Inflammatory Disease Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA",
         "Department of Pediatrics, Northwestern University, Chicago, IL, USA",
@@ -148,15 +210,15 @@
         "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA",
         "Division of Molecular Internal Medicine, Department of Internal Medicine II, University Hospital W\u00fcrzburg, W\u00fcrzburg, Germany"
       ],
-      "Journal": "Nature Neuroscience",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Canada",
         "Germany",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Alexandra Garancher",
         "Hiromichi Suzuki",
         "Svasti Haricharan",
@@ -198,98 +260,342 @@
         "Michael D Taylor",
         "Robert J Wechsler-Reya"
       ],
-      "URLS": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/14/2021 0:00",
-      "RetractionDOI": "10.1038/s41593-021-00994-3",
-      "RetractionPubMedID": "34907396.0",
-      "OriginalPaperDate": "5/18/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41593-020-0628-4",
-      "OriginalPaperPubMedID": "32424282.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/14/2021 0:00",
+      "retractiondoi": "10.1038/s41593-021-00994-3",
+      "retractionpubmedid": "34907396.0",
+      "originalpaperdate": "5/18/2020 0:00",
+      "originalpaperdoi": "10.1038/s41593-020-0628-4",
+      "originalpaperpubmedid": "32424282.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Results Not Reproducible",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d233fb83",
-      "Record ID": "63148",
-      "Title": "A recombinant H1 histone based system for efficient delivery of nucleic acids",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics"
+      "_id": "687cefce1f662220d898c595",
+      "recordId": "32770",
+      "title": "Pleurodesis for malignant pleural effusions (Pub 2)",
+      "subject": [
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pulmonology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
-        "Biogeny PLC, SAF Building, Imperial College London, Imperial College Road, SW7 2AZ London, UK",
-        "Biological Sciences, Imperial College London, Imperial College Road, SW7 2AZ London, UK",
-        "The Institute of Cancer Research, Fulham Road, SW7 3RP London, UK"
+      "institution": [
+        "Department of Clinical Oncology, Velindre Hospital, Cardiff, UK",
+        "Haddow Laboratories, Institute of Cancer Research, Sutton, UK"
       ],
-      "Journal": "Journal of Biotechnology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
-        "Iratxe Puebla",
-        "Selma Esseghir",
-        "Alison Mortlock",
-        "Anthony Brown",
-        "Andrea Crisanti",
-        "Walter Low"
+      "author": [
+        "Paul HS Shaw",
+        "Roshan Agarwal"
       ],
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Review Article",
+        "Revision"
       ],
-      "RetractionDate": "3/23/2025 0:00",
-      "RetractionDOI": "10.1016/j.jbiotec.2025.03.003",
-      "RetractionPubMedID": "40127574.0",
-      "OriginalPaperDate": "10/4/2003 0:00",
-      "OriginalPaperDOI": "10.1016/j.jbiotec.2003.07.006",
-      "OriginalPaperPubMedID": "14580793.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Results and/or Conclusions"
+      "retractiondate": "11/20/2013 0:00",
+      "retractiondoi": "10.1002/14651858.CD002916.pub3",
+      "retractionpubmedid": "24259053.0",
+      "originalpaperdate": "1/26/2004 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD002916.pub2",
+      "originalpaperpubmedid": "14973997.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2003,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2013",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e895",
-      "Record ID": "2108",
-      "Title": "HMGA2 Functions as a Competing Endogenous RNA to Promote Lung Cancer Progression",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f214",
+      "recordId": "21342",
+      "title": "LOX-Mediated Collagen Cross-linking Is Responsible for Fibrosis-Enhanced Metastasis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen, Denmark",
+        "Hypoxia and Metastasis Team, Division of Cancer Biology, The Institute of Cancer Research, London, United Kingdom",
+        "Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, United Kingdom",
+        "Inflammation Discovery, Hoffmann La Roche, Nutley, New Jersey"
+      ],
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "Denmark",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Thomas R Cox",
+        "Demelza Bird",
+        "Ann Marie Baker",
+        "Holly E Barker",
+        "Melisa W Y Ho",
+        "Georgina Lang",
+        "Janine T Erler"
+      ],
+      "urls": "http://retractionwatch.com/2018/03/22/figures-in-cancer-paper-at-root-of-newly-failed-compound-called-into-question/;http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/1/2019 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-19-2419",
+      "retractionpubmedid": "31575632.0",
+      "originalpaperdate": "1/23/2013 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-12-2233",
+      "originalpaperpubmedid": "23345161.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f215",
+      "recordId": "21341",
+      "title": "LOXL2-Mediated Matrix Remodeling in Metastasis and Mammary Gland Involution",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Section of Cell and Molecular Biology, The Institute of Cancer Research, London, United Kingdom",
+        "Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, United Kingdom",
+        "Department of Mathematics, Stanford University, Stanford, California",
+        "The Mellanby Centre For Bone Research, Department of Human Metabolism, The University of Sheffield, Sheffield, United Kingdom"
+      ],
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Holly E Barker",
+        "Joan Chang",
+        "Thomas R Cox",
+        "Georgina Lang",
+        "Demelza Bird",
+        "Monica Nicolau",
+        "Holly R Evans",
+        "Alison Gartland",
+        "Janine T Erler"
+      ],
+      "urls": "http://retractionwatch.com/2018/03/22/figures-in-cancer-paper-at-root-of-newly-failed-compound-called-into-question/;http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/1/2019 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-19-2420",
+      "retractionpubmedid": "31575631.0",
+      "originalpaperdate": "1/13/2011 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-10-2868",
+      "originalpaperpubmedid": "21233336.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Concerns/Issues About Image"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f216",
+      "recordId": "21340",
+      "title": "Tumor-Secreted LOXL2 Activates Fibroblasts through FAK Signaling",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Section of Cancer Biology, The Institute of Cancer Research, London, United Kingdom",
+        "Biotech Research and Innovation Centre, University of Copenhagen, Copenhagen, Denmark"
+      ],
+      "journal": "Molecular Cancer Research (MCR)",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "Denmark",
+        "United Kingdom"
+      ],
+      "author": [
+        "Holly E Barker",
+        "Demelza Bird",
+        "Georgina Lang",
+        "Janine T Erler"
+      ],
+      "urls": "http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/1/2019 0:00",
+      "retractiondoi": "10.1158/1541-7786.MCR-19-0860",
+      "retractionpubmedid": "31575729.0",
+      "originalpaperdate": "9/5/2013 0:00",
+      "originalpaperdoi": "10.1158/1541-7786.MCR-13-0033-T",
+      "originalpaperpubmedid": "24008674.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fa97",
+      "recordId": "19150",
+      "title": "An in vitro and in vivo study of the combination of the heat shock protein inhibitor 17-allylamino-17-demethoxygeldanamycin and carboplatin in human ovarian cancer models",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Cancer Research UK Centre for Cancer Therapeutics, Haddow Laboratories, The Institute of Cancer Research, Sutton, UK",
+        "Section of Medicine, Haddow Laboratories, The Institute of Cancer Research, Sutton, UK"
+      ],
+      "journal": "Cancer Chemotherapy and Pharmacology",
+      "publisher": "Springer",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Udai Banerji",
+        "Nivedita Sain",
+        "Swee Y Sharp",
+        "Melanie Valenti",
+        "Yasmin Asad",
+        "Ruth Ruddle",
+        "Florence Raynaud",
+        "Michael Walton",
+        "Suzanne A Eccles",
+        "Ian Judson",
+        "Ann L Jackman",
+        "Paul Workman"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/1/2018 0:00",
+      "retractiondoi": "10.1007/s00280-018-3674-9",
+      "retractionpubmedid": "30173339.0",
+      "originalpaperdate": "1/10/2008 0:00",
+      "originalpaperdoi": "10.1007/s00280-007-0662-x",
+      "originalpaperpubmedid": "18193424.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Concerns/Issues About Image"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898faa9",
+      "recordId": "19132",
+      "title": "Potentiation of Paclitaxel Activity by the HSP90 Inhibitor 17-allylamino-17-demethoxygeldanamycin in Human Ovarian Carcinoma Cell Lines with High Levels of Activated AKT",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Section of Medicine, The Institute of Cancer Research, Haddow Laboratories, Sutton, Surrey, United Kingdom",
+        "Cancer Research UK Centre for Cancer Therapeutics, The Institute of Cancer Research, Haddow Laboratories, Sutton, Surrey, United Kingdom"
+      ],
+      "journal": "Molecular Cancer Therapeutics",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Nivedita Sain",
+        "Bhavani Krishnan",
+        "Michael G Ormerod",
+        "Assunta de Rienzo",
+        "Wai M Liu",
+        "Stanley B Kaye",
+        "Paul Workman",
+        "Ann L Jackman"
+      ],
+      "urls": "http://retractionwatch.com/2018/09/04/cancer-journals-retract-10-papers-flag-8-more-and-apologize-for-the-delay/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/4/2018 0:00",
+      "retractiondoi": "10.1158/1535-7163.MCT-18-0595",
+      "retractionpubmedid": "30181335.0",
+      "originalpaperdate": "5/26/2006 0:00",
+      "originalpaperdoi": "10.1158/1535-7163.MCT-05-0445",
+      "originalpaperpubmedid": "16731752.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Image"
+      ],
+      "paywalled": "No",
+      "notes": "Nivedita Sain named responsible for images;",
+      "year": "2006",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993c7b",
+      "recordId": "2108",
+      "title": "HMGA2 Functions as a Competing Endogenous RNA to Promote Lung Cancer Progression",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "Signal Transduction Laboratory, Cancer Research UK London Research Institute, 44 Lincoln\u2019s Inn Fields, London WC2A 3LY, UK",
         "Bioinformatics and Biostatistics Group, Cancer Research UK London Research Institute, 44 Lincoln\u2019s Inn Fields, London WC2A 3LY, UK",
         "Advanced Sequencing Facility, Cancer Research UK London Research Institute, 44 Lincoln\u2019s Inn Fields, London WC2A 3LY, UK",
         "Department of Genetics, Department of Pathology, the Stanford Cancer Institute, Stanford University School of Medicine, Stanford, California 94305, USA",
         "Lung Cancer Group, Division of Cancer Biology, The Institute of Cancer Research, 237 Fulham Road, London SW3 6JB, UK"
       ],
-      "Journal": "Nature",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Madhu S Kumar",
         "Elena Armenteros-Monterroso",
         "Philip East",
@@ -298,37 +604,38 @@
         "Monte M Winslow",
         "Julian Downward"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/12/nature-retraction-resignation-result-after-lung-cancer-cell-lines-cannot-be-those-specified/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/12/nature-retraction-resignation-result-after-lung-cancer-cell-lines-cannot-be-those-specified/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/10/2015 0:00",
-      "RetractionDOI": "10.1038/nature14551",
-      "RetractionPubMedID": "26061768.0",
-      "OriginalPaperDate": "2/5/2013 0:00",
-      "OriginalPaperDOI": "10.1038/nature12785",
-      "OriginalPaperPubMedID": "24305048.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/10/2015 0:00",
+      "retractiondoi": "10.1038/nature14551",
+      "retractionpubmedid": "26061768.0",
+      "originalpaperdate": "2/5/2013 0:00",
+      "originalpaperdoi": "10.1038/nature12785",
+      "originalpaperpubmedid": "24305048.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Image",
         "+Manipulation of Images",
         "+Unreliable Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234eef9",
-      "Record ID": "434",
-      "Title": "Multiple HLA class I and II associations in classical Hodgkin lymphoma and EBV status defined subgroups",
-      "Subject": [
+      "_id": "687cf0d71f662220d89942df",
+      "recordId": "434",
+      "title": "Multiple HLA class I and II associations in classical Hodgkin lymphoma and EBV status defined subgroups",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathology and Medical Biology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands",
         "Department of Pathology, Health Science Center, Peking University, Beijing, China",
         "Unit of Genetic Epidemiology and Bioinformatics, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands",
@@ -337,14 +644,14 @@
         "Department of Hematology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands",
         "Section of Cancer Genetics, Institute of Cancer Research, Sutton, United Kingdom"
       ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
         "China",
         "Netherlands",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Xin Huang",
         "Kushi Kushekhar",
         "Ilja Nolte",
@@ -361,476 +668,187 @@
         "Bouke Hepkema",
         "Anke van den Berg"
       ],
-      "URLS": "http://retractionwatch.com/2012/01/27/errors-force-retraction-of-blood-paper-on-genetics-of-hogkins-lymphoma/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/01/27/errors-force-retraction-of-blood-paper-on-genetics-of-hogkins-lymphoma/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/5/2012 0:00",
-      "RetractionDOI": "10.1182/blood-2012-01-405878",
-      "RetractionPubMedID": "22267602.0",
-      "OriginalPaperDate": "11/10/2011 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2011-04-342998",
-      "OriginalPaperPubMedID": "21921049.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/5/2012 0:00",
+      "retractiondoi": "10.1182/blood-2012-01-405878",
+      "retractionpubmedid": "22267602.0",
+      "originalpaperdate": "11/10/2011 0:00",
+      "originalpaperdoi": "10.1182/blood-2011-04-342998",
+      "originalpaperpubmedid": "21921049.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2012",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349e30",
-      "Record ID": "21340",
-      "Title": "Tumor-Secreted LOXL2 Activates Fibroblasts through FAK Signaling",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Section of Cancer Biology, The Institute of Cancer Research, London, United Kingdom",
-        "Biotech Research and Innovation Centre, University of Copenhagen, Copenhagen, Denmark"
-      ],
-      "Journal": "Molecular Cancer Research (MCR)",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "Denmark",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Holly E Barker",
-        "Demelza Bird",
-        "Georgina Lang",
-        "Janine T Erler"
-      ],
-      "URLS": "http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/1/2019 0:00",
-      "RetractionDOI": "10.1158/1541-7786.MCR-19-0860",
-      "RetractionPubMedID": "31575729.0",
-      "OriginalPaperDate": "9/5/2013 0:00",
-      "OriginalPaperDOI": "10.1158/1541-7786.MCR-13-0033-T",
-      "OriginalPaperPubMedID": "24008674.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2013
-    },
-    {
-      "_id": "6855d574b14f7811d23471af",
-      "Record ID": "32770",
-      "Title": "Pleurodesis for malignant pleural effusions (Pub 2)",
-      "Subject": [
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pulmonology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Clinical Oncology, Velindre Hospital, Cardiff, UK",
-        "Haddow Laboratories, Institute of Cancer Research, Sutton, UK"
-      ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Paul HS Shaw",
-        "Roshan Agarwal"
-      ],
-      "ArticleType": [
-        "Review Article",
-        "Revision"
-      ],
-      "RetractionDate": "11/20/2013 0:00",
-      "RetractionDOI": "10.1002/14651858.CD002916.pub3",
-      "RetractionPubMedID": "24259053.0",
-      "OriginalPaperDate": "1/26/2004 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD002916.pub2",
-      "OriginalPaperPubMedID": "14973997.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Retract and Replace"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2004,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234a6c3",
-      "Record ID": "19132",
-      "Title": "Potentiation of Paclitaxel Activity by the HSP90 Inhibitor 17-allylamino-17-demethoxygeldanamycin in Human Ovarian Carcinoma Cell Lines with High Levels of Activated AKT",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Section of Medicine, The Institute of Cancer Research, Haddow Laboratories, Sutton, Surrey, United Kingdom",
-        "Cancer Research UK Centre for Cancer Therapeutics, The Institute of Cancer Research, Haddow Laboratories, Sutton, Surrey, United Kingdom"
-      ],
-      "Journal": "Molecular Cancer Therapeutics",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Nivedita Sain",
-        "Bhavani Krishnan",
-        "Michael G Ormerod",
-        "Assunta de Rienzo",
-        "Wai M Liu",
-        "Stanley B Kaye",
-        "Paul Workman",
-        "Ann L Jackman"
-      ],
-      "URLS": "http://retractionwatch.com/2018/09/04/cancer-journals-retract-10-papers-flag-8-more-and-apologize-for-the-delay/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/4/2018 0:00",
-      "RetractionDOI": "10.1158/1535-7163.MCT-18-0595",
-      "RetractionPubMedID": "30181335.0",
-      "OriginalPaperDate": "5/26/2006 0:00",
-      "OriginalPaperDOI": "10.1158/1535-7163.MCT-05-0445",
-      "OriginalPaperPubMedID": "16731752.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "Nivedita Sain named responsible for images;",
-      "notice_year": 2018,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234467b",
-      "Record ID": "43891",
-      "Title": "The hypoxic cancer secretome induces pre-metastatic bone lesions through lysyl oxidase",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Biotech Research and Innovation Centre (BRIC), University of Copenhagen (UCPH), Copenhagen, DK-2200, Denmark",
-        "Hypoxia and Metastasis Team, Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, SW3 6JB, UK",
-        "The Mellanby Centre for Bone Research, The University of Sheffield, Sheffield, S10 2RX, UK",
-        "Cellular Signal Integration Group (C-SIG), Technical University of Denmark (DTU), Lyngby, DK-2800, Denmark"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Denmark",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Thomas R Cox",
-        "Robin M H Rumney",
-        "Erwin M Schoof",
-        "Lara Perryman",
-        "Anette M Hoye",
-        "Ankita Agrawal",
-        "Demelza Bird",
-        "Norain Ab Latif",
-        "Hamish Forrest",
-        "Holly R Evans",
-        "Iain D Huggins",
-        "Goergina Lang",
-        "Rune Linding",
-        "Alison Gartland",
-        "Janine T Erler"
-      ],
-      "URLS": "https://retractionwatch.com/?s=Janine+Erler",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/17/2023 0:00",
-      "RetractionDOI": "10.1038/s41586-023-06048-x",
-      "RetractionPubMedID": "37069265.0",
-      "OriginalPaperDate": "5/27/2015 0:00",
-      "OriginalPaperDOI": "10.1038/nature14492",
-      "OriginalPaperPubMedID": "26017313.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Unreliable Data",
-        "+Unreliable Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234f07f",
-      "Record ID": "37",
-      "Title": "The design, synthesis, and biochemical evaluation of derivatives of biphenyl sulfamate-based compounds as novel inhibitors of estrone sulfatase",
-      "Subject": [
+      "_id": "687cf0d91f662220d8994465",
+      "recordId": "37",
+      "title": "The design, synthesis, and biochemical evaluation of derivatives of biphenyl sulfamate-based compounds as novel inhibitors of estrone sulfatase",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "School of Chemical and Pharmaceutical Sciences, Kingston University, Penrhyn Road, Kingston upon Thames, Surrey KT1 2EE, UK",
         "Institute of Cancer Research, Cotswold Road, Sutton, UK"
       ],
-      "Journal": "Biochemical and Biophysical Research Communications (BBRC)",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Biochemical and Biophysical Research Communications (BBRC)",
+      "publisher": "Elsevier",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Sabbir Ahmed",
         "Karen James",
         "Caroline P Owen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/21/2003 0:00",
-      "RetractionDOI": "10.1016/S0006-291X(03)00065-2",
-      "RetractionPubMedID": "12589830.0",
-      "OriginalPaperDate": "5/28/2002 0:00",
-      "OriginalPaperDOI": "10.1016/S0006-291X(02)00444-8",
-      "OriginalPaperPubMedID": "12054760.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/21/2003 0:00",
+      "retractiondoi": "10.1016/S0006-291X(03)00065-2",
+      "retractionpubmedid": "12589830.0",
+      "originalpaperdate": "5/28/2002 0:00",
+      "originalpaperdoi": "10.1016/S0006-291X(02)00444-8",
+      "originalpaperpubmedid": "12054760.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2003,
-      "year": 2002
-    },
-    {
-      "_id": "6855d574b14f7811d2349e2f",
-      "Record ID": "21341",
-      "Title": "LOXL2-Mediated Matrix Remodeling in Metastasis and Mammary Gland Involution",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Section of Cell and Molecular Biology, The Institute of Cancer Research, London, United Kingdom",
-        "Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, United Kingdom",
-        "Department of Mathematics, Stanford University, Stanford, California",
-        "The Mellanby Centre For Bone Research, Department of Human Metabolism, The University of Sheffield, Sheffield, United Kingdom"
-      ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Holly E Barker",
-        "Joan Chang",
-        "Thomas R Cox",
-        "Georgina Lang",
-        "Demelza Bird",
-        "Monica Nicolau",
-        "Holly R Evans",
-        "Alison Gartland",
-        "Janine T Erler"
-      ],
-      "URLS": "http://retractionwatch.com/2018/03/22/figures-in-cancer-paper-at-root-of-newly-failed-compound-called-into-question/;http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/1/2019 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-19-2420",
-      "RetractionPubMedID": "31575631.0",
-      "OriginalPaperDate": "1/13/2011 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-10-2868",
-      "OriginalPaperPubMedID": "21233336.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Concerns/Issues About Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349e2e",
-      "Record ID": "21342",
-      "Title": "LOX-Mediated Collagen Cross-linking Is Responsible for Fibrosis-Enhanced Metastasis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen, Denmark",
-        "Hypoxia and Metastasis Team, Division of Cancer Biology, The Institute of Cancer Research, London, United Kingdom",
-        "Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, United Kingdom",
-        "Inflammation Discovery, Hoffmann La Roche, Nutley, New Jersey"
-      ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "Denmark",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Thomas R Cox",
-        "Demelza Bird",
-        "Ann Marie Baker",
-        "Holly E Barker",
-        "Melisa W Y Ho",
-        "Georgina Lang",
-        "Janine T Erler"
-      ],
-      "URLS": "http://retractionwatch.com/2018/03/22/figures-in-cancer-paper-at-root-of-newly-failed-compound-called-into-question/;http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/1/2019 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-19-2419",
-      "RetractionPubMedID": "31575632.0",
-      "OriginalPaperDate": "1/23/2013 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-12-2233",
-      "OriginalPaperPubMedID": "23345161.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2003",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -838,32 +856,32 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -871,10 +889,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -882,10 +900,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -893,10 +911,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

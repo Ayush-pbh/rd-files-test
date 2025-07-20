@@ -1,93 +1,35 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877ad5",
+    "_id": "687ccbab09adbf7aa61b86f6",
     "grid_id": "grid.512929.4",
     "institute_name": "Noroff Education",
     "country": "Norway",
     "retracted_record_ids": [
-      "42918",
-      "62846",
       "47862",
-      "42919",
-      "50717",
+      "47108",
+      "57428",
       "56387",
       "61058",
-      "52853",
-      "62753",
-      "57428",
       "48800",
+      "42919",
       "47107",
-      "47108"
+      "62753",
+      "50717",
+      "62846",
+      "42918",
+      "52853"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2344a3e",
-      "Record ID": "42918",
-      "Title": "A Fused Heterogeneous Deep Neural Network and Robust Feature Selection Framework for Human Actions Recognition",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "Department of Computer Science, HITEC University, Museum Road, Taxila, Pakistan",
-        "Department of Informatics, University of Leicester, Leicester, LE1 7RH, UK",
-        "College of Computer Science and Engineering, University of Ha\u2019il, Ha\u2019il, Saudi Arabia",
-        "Department of Applied Data Science, Noroff University College, Noroff Oslo, Norway",
-        "Department of Mathematics, University of Leicester, Leicester, LE1 7RH, UK",
-        "College of Computer and Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia",
-        "Department of Computer Science, COMSATS University Islamabad, Wah Campus, Islamabad, Pakistan"
-      ],
-      "Journal": "Arabian Journal for Science and Engineering",
-      "Publisher": "Springer",
-      "Country": [
-        "Norway",
-        "Pakistan",
-        "Saudi Arabia",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Muhammad Attique Khan",
-        "Yu-dong Zhang",
-        "Majed Alhaisoni",
-        "Seifedine Kadry",
-        "Shui-Hua Wang",
-        "Tanzila Saba",
-        "Tassawar Iqbal"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/23/2022 0:00",
-      "RetractionDOI": "10.1007/s13369-021-05881-4",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/1/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s13369-021-05881-4",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "Majed Alhaisoni's surname was corrected from Allison on 20 January 2022.",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d233fcab",
-      "Record ID": "62846",
-      "Title": "Natural language processing with deep learning enabled hybrid content retrieval model for digital library management",
-      "Subject": [
+      "_id": "687cef5b1f662220d8985091",
+      "recordId": "62846",
+      "title": "Natural language processing with deep learning enabled hybrid content retrieval model for digital library management",
+      "subject": [
         "(B/T) Data Science",
         "(SOC) Sociology"
       ],
-      "Institution": [
+      "institution": [
         "Information Technology Department, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia",
         "Mathematics Department, Faculty of Science, Al-Azhar University, Naser City, Egypt",
         "Center of Excellence in Smart Environment Research, King Abdulaziz University, Jeddah, Saudi Arabia",
@@ -95,419 +37,45 @@
         "Department of Mathematics, Faculty of Science, New Valley University, El-Kharga, Egypt",
         "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
       ],
-      "Journal": "Expert Systems",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Expert Systems",
+      "publisher": "Wiley",
+      "country": [
         "Egypt",
         "Norway",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Mahmoud Ragab",
         "Anas Almuhammadi",
         "Romany F Mansour",
         "Seifedine Kadry"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/15/2024 0:00",
-      "RetractionDOI": "10.1111/exsy.13753",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/13/2022 0:00",
-      "OriginalPaperDOI": "10.1111/exsy.13135",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/15/2024 0:00",
+      "retractiondoi": "10.1111/exsy.13753",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/13/2022 0:00",
+      "originalpaperdoi": "10.1111/exsy.13135",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher",
         "+Objections by Author(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343703",
-      "Record ID": "47862",
-      "Title": "Optimization of Correlation Filters Using Extended Particle Swarm Optimization Technique",
-      "Subject": [
-        "(B/T) Data Science",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Wah Engineering College, University of Wah, Wah Cantt, Pakistan",
-        "Department of Electrical Engineering, University of Lahore, Islamabad Campus, Pakistan",
-        "Department of Unmanned Vehicle Engineering, Sejong University, Seoul 05006, Republic of Korea",
-        "Department of Computer Science, HITEC University Taxila, Taxila 47040, Pakistan",
-        "College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Al-Khraj, Saudi Arabia",
-        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Norway",
-        "Pakistan",
-        "Saudi Arabia",
-        "South Korea"
-      ],
-      "Author": [
-        "Haris Masood",
-        "Amad Zafar",
-        "Muhammad Umair Ali",
-        "Muhammad Attique Khan",
-        "Kashif Iqbal",
-        "Usman Tariq",
-        "Seifedine Kadry"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9793063",
-      "RetractionPubMedID": "37503368.0",
-      "OriginalPaperDate": "7/7/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6321860",
-      "OriginalPaperPubMedID": "34306177.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/E7FF47FFCA56ABAD1A22FE736991B9",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2344a3d",
-      "Record ID": "42919",
-      "Title": "A Fused Heterogeneous Deep Neural Network and Robust Feature Selection Framework for Human Actions Recognition",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "Department of Computer Science, HITEC University, Museum Road, Taxila, Pakistan",
-        "Department of Informatics, University of Leicester, Leicester, LE1 7RH, UK",
-        "College of Computer Science and Engineering, University of Ha\u2019il, Ha\u2019il, Saudi Arabia",
-        "Department of Applied Data Science, Noroff University College, Noroff Oslo, Norway",
-        "Department of Mathematics, University of Leicester, Leicester, LE1 7RH, UK",
-        "College of Computer and Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia",
-        "Department of Computer Science, COMSATS University Islamabad, Wah Campus, Islamabad, Pakistan"
-      ],
-      "Journal": "Arabian Journal for Science and Engineering",
-      "Publisher": "Springer",
-      "Country": [
-        "Norway",
-        "Pakistan",
-        "Saudi Arabia",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Muhammad Attique Khan",
-        "Yu-dong Zhang",
-        "Majed Alhaisoni",
-        "Seifedine Kadry",
-        "Shui-Hua Wang",
-        "Tanzila Saba",
-        "Tassawar Iqbal"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/20/2022 0:00",
-      "RetractionDOI": "10.1007/s13369-021-06510-w",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/1/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s13369-021-05881-4",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Error in Text",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "Majed Alhaisoni's surname was corrected from Allison. Article retracted on 23 October 2022.",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2342be5",
-      "Record ID": "50717",
-      "Title": "A Rapid Artificial Intelligence-Based Computer-Aided Diagnosis System for COVID-19 Classification from CT Images",
-      "Subject": [
-        "(B/T) Data Science",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Computer Science, HITEC University Taxila, Museum Road, Taxila, Pakistan",
-        "College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Al-Kharj, Saudi Arabia",
-        "Department of Electrical Engineering, Jouf University, Sakaka 75471, Saudi Arabia",
-        "Department of Industrial Security, Chung-Ang University, Seoul, (06974), Republic of Korea",
-        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway",
-        "Department of Electronics and Instrumentation, St. Joseph\u2019s College of Engineering, Chennai 600119, India"
-      ],
-      "Journal": "Behavioural Neurology",
-      "Publisher": "Hindawi",
-      "Country": [
-        "India",
-        "Norway",
-        "Pakistan",
-        "Saudi Arabia",
-        "South Korea"
-      ],
-      "Author": [
-        "Hassaan Haider Syed",
-        "Muhammad Attique Khan",
-        "Usman Tariq",
-        "Ammar Armghan",
-        "Fayadh Alenezi",
-        "Junaid Ali Khan",
-        "Seungmin Rho",
-        "Seifedine Kadry",
-        "Venkatesan Rajinikanth"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/9/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9876194",
-      "RetractionPubMedID": "37593136.0",
-      "OriginalPaperDate": "12/27/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/2560388",
-      "OriginalPaperPubMedID": "34966463.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/CCBCA665923A7909BE037AF6F77EB6",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23415da",
-      "Record ID": "56387",
-      "Title": "Smart Healthcare System for Severity Prediction and Critical Tasks Management of COVID-19 Patients in IoT-Fog Computing Environments",
-      "Subject": [
-        "(B/T) Data Science",
-        "(B/T) Technology",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "College of Agriculture, Al-Muthanna University, Samawah 66001, Iraq",
-        "College of Engineering, University of Warith Al-Anbiyaa, Karbala, Iraq",
-        "Ministry of Education, General Directorate of Curricula, Pure Science Department, Baghdad, Iraq",
-        "Engineering Department, University of Technology- Iraq, Baghdad, Iraq",
-        "Department of Quantitative Methods and Economic Informatics, Faculty of Operation and Economics of Transport and Communication, University of \u017dilina, \u017dilina, Slovakia",
-        "Department of Telecommunications, Faculty of Electrical Engineering and Computer Science, VSB-Technical University of Ostrava, Ostrava, Poruba, Czech Republic",
-        "College of Computer Science and Information Technology, University of Anbar, 11, Ramadi, Anbar, Iraq",
-        "Department of Biochemistry, College of Medicine, University of Wasit, Wasit, Iraq",
-        "Department of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou 325035, China",
-        "Noroff University College, Kristiansand, Norway",
-        "School of Electrical Engineering and Computer Science, National University of Sciences and Technology (NUST), Islamabad 44500, Pakistan"
-      ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China",
-        "Czech Republic",
-        "Iraq",
-        "Norway",
-        "Pakistan",
-        "Slovakia"
-      ],
-      "Author": [
-        "Karrar Hameed Abdulkareem",
-        "Ammar Awad Mutlag",
-        "Ahmed Musa Dinar",
-        "Jaroslav Frnda",
-        "Mazin Abed Mohammed",
-        "Fawzi Hasan Zayr",
-        "Abdullah Lakhan",
-        "Seifedine Kadry",
-        "Hasan Ali Khattak",
-        "Jan Nedoma"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/4/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9820684",
-      "RetractionPubMedID": "37829848.0",
-      "OriginalPaperDate": "7/19/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/5012962",
-      "OriginalPaperPubMedID": "35875731.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/CB4AC952E3FE521FA56CD1F0082801",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23403a0",
-      "Record ID": "61058",
-      "Title": "Automated System for Identifying COVID-19 Infections in Computed Tomography Images Using Deep Learning Models",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(HSC) Medicine - Infectious Disease"
-      ],
-      "Institution": [
-        "College of Agriculture, Al-Muthanna University, Samawah 66001, Iraq",
-        "Faculty of Computer Science and Information Technology, Universiti Tun Hussein Onn Malaysia, 86400 Batu Pahat,Johor, Malaysia",
-        "Computer Sciences Department, Baghdad College of Economic Sciences University, Baghdad, Iraq",
-        "College of Computer Science and Information Technology, University of Anbar, 11 Ramadi, Anbar, Iraq",
-        "Communications Engineering Techniques Department Information Technology Collage, Imam Ja\u2019afar Al-Sadiq University,Baghdad, Iraq",
-        "Faculty of Applied Computing and Technology, Noro\ufb00 University College, Kristiansand, Norway",
-        "Department of Biomedical Engineering, College of Electronics and Information, Kyung Hee University, Yongin-si,Gyeonggi-do 17104, Republic of Korea",
-        "Department of Computer Science and Engineering, Soonchunhyang University, Asan 31538, Republic of Korea"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Iraq",
-        "Malaysia",
-        "Norway",
-        "South Korea"
-      ],
-      "Author": [
-        "Karrar Hameed Abdulkareem",
-        "Salama A. Mostafa",
-        "Zainab N. Al-Qudsy",
-        "Mazin Abed Mohammed",
-        "Alaa S. Al-Waisy",
-        "Seifedine Kadry",
-        "Jinseok Lee",
-        "Yunyoung Nam"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/11/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9812058",
-      "RetractionPubMedID": "37860421.0",
-      "OriginalPaperDate": "3/30/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/5329014",
-      "OriginalPaperPubMedID": "35368962.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2342391",
-      "Record ID": "52853",
-      "Title": "Intrusion detection based on machine learning in the internet of things, attacks and counter measures",
-      "Subject": [
-        "(B/T) Data Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "Department of Software Engineering, Foundation University Islamabad, Islamabad, 44000, Pakistan",
-        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway",
-        "Department of Computer Science, HITEC University Taxila, Taxila, Pakistan",
-        "Chung-Ang University - Seoul Campus: Chung-Ang University, Seoul, Korea"
-      ],
-      "Journal": "The Journal of Supercomputing",
-      "Publisher": "Springer",
-      "Country": [
-        "Norway",
-        "Pakistan",
-        "South Korea"
-      ],
-      "Author": [
-        "Eid Rehman",
-        "Muhammad Haseeb-ud-Din",
-        "Arif Jamal Malik",
-        "Tehmina Karmat Khan",
-        "Aaqif Afzaal Abbasi",
-        "Seifedine Kadry",
-        "Muhammad Attique Khan",
-        "Seungmin Rho"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/13/2024 0:00",
-      "RetractionDOI": "10.1007/s11227-024-05973-6",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/14/2022 0:00",
-      "OriginalPaperDOI": "10.1007/s11227-021-04188-3",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/3BFF243BFC5E52CB9E7FABFAAFEA7E",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d233fd04",
-      "Record ID": "62753",
-      "Title": "Pedestrian identification using motion-controlled deep neural network in real-time visual surveillance",
-      "Subject": [
+      "_id": "687cef5b1f662220d89850ea",
+      "recordId": "62753",
+      "title": "Pedestrian identification using motion-controlled deep neural network in real-time visual surveillance",
+      "subject": [
         "(B/T) Computer Science",
         "(B/T) Data Science",
         "(B/T) Technology",
@@ -515,20 +83,20 @@
         "(PHY) Engineering - General",
         "(PHY) Statistics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Science, COMSATS University Islamabad, Wah Campus, Islamabad, Pakistan",
         "Department of Computer Science, HITEC University, Museum Road, Taxila, Pakistan",
         "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway",
         "School of Computer Applications, KIIT Deemed to be University, Bhubaneswar, India"
       ],
-      "Journal": "Soft Computing",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Soft Computing",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "India",
         "Norway",
         "Pakistan"
       ],
-      "Author": [
+      "author": [
         "Muhammad Zahid",
         "Muhammad Attique Khan",
         "Faisal Azam",
@@ -536,18 +104,18 @@
         "Seifedine Kadry",
         "Jnyana Ranjan Mohanty"
       ],
-      "URLS": "https://retractionwatch.com/2024/11/07/another-springer-nature-journal-has-retracted-over-300-papers-since-july/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/11/07/another-springer-nature-journal-has-retracted-over-300-papers-since-july/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/4/2024 0:00",
-      "RetractionDOI": "10.1007/s00500-024-10290-4",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/12/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s00500-021-05701-9",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/4/2024 0:00",
+      "retractiondoi": "10.1007/s00500-024-10290-4",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/12/2021 0:00",
+      "originalpaperdoi": "10.1007/s00500-021-05701-9",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues about Article",
         "+Concerns/Issues about Referencing/Attributions",
@@ -558,22 +126,87 @@
         "+Rogue Editor",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23411c9",
-      "Record ID": "57428",
-      "Title": "A strategic review on sustainable approaches in municipal solid waste management and energy recovery: Role of artificial intelligence, economic stability and life cycle assessment",
-      "Subject": [
+      "_id": "687cef631f662220d8985786",
+      "recordId": "61058",
+      "title": "Automated System for Identifying COVID-19 Infections in Computed Tomography Images Using Deep Learning Models",
+      "subject": [
+        "(B/T) Computer Science",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "institution": [
+        "College of Agriculture, Al-Muthanna University, Samawah 66001, Iraq",
+        "Faculty of Computer Science and Information Technology, Universiti Tun Hussein Onn Malaysia, 86400 Batu Pahat,Johor, Malaysia",
+        "Computer Sciences Department, Baghdad College of Economic Sciences University, Baghdad, Iraq",
+        "College of Computer Science and Information Technology, University of Anbar, 11 Ramadi, Anbar, Iraq",
+        "Communications Engineering Techniques Department Information Technology Collage, Imam Ja\u2019afar Al-Sadiq University,Baghdad, Iraq",
+        "Faculty of Applied Computing and Technology, Noro\ufb00 University College, Kristiansand, Norway",
+        "Department of Biomedical Engineering, College of Electronics and Information, Kyung Hee University, Yongin-si,Gyeonggi-do 17104, Republic of Korea",
+        "Department of Computer Science and Engineering, Soonchunhyang University, Asan 31538, Republic of Korea"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "Iraq",
+        "Malaysia",
+        "Norway",
+        "South Korea"
+      ],
+      "author": [
+        "Karrar Hameed Abdulkareem",
+        "Salama A. Mostafa",
+        "Zainab N. Al-Qudsy",
+        "Mazin Abed Mohammed",
+        "Alaa S. Al-Waisy",
+        "Seifedine Kadry",
+        "Jinseok Lee",
+        "Yunyoung Nam"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2023 0:00",
+      "retractiondoi": "10.1155/2023/9812058",
+      "retractionpubmedid": "37860421.0",
+      "originalpaperdate": "3/30/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/5329014",
+      "originalpaperpubmedid": "35368962.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef711f662220d89865af",
+      "recordId": "57428",
+      "title": "A strategic review on sustainable approaches in municipal solid waste management and energy recovery: Role of artificial intelligence, economic stability and life cycle assessment",
+      "subject": [
         "(B/T) Data Science",
         "(B/T) Urban Planning",
         "(ENV) Environmental Sciences",
         "(PHY) Engineering - Chemical"
       ],
-      "Institution": [
+      "institution": [
         "Biological Systems Engineering, University of Wisconsin\u2013Madison, Madison, WI, 53706, United States",
         "Forest Products Laboratory, USDA Forest Service, Madison, WI, 53726, United States",
         "Department of Biotechnology, Saveetha School of Engineering, Saveetha Institute of Medical and Technical Sciences (SIMATS), Thandalam, Chennai, 602107, India",
@@ -586,9 +219,9 @@
         "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi Province, 712100, China",
         "Department of Chemistry, National Institute of Technology Silchar, 788010, Assam, India"
       ],
-      "Journal": "Bioresource Technology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Bioresource Technology",
+      "publisher": "Elsevier",
+      "country": [
         "China",
         "India",
         "Lebanon",
@@ -597,7 +230,7 @@
         "United Arab Emirates",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Rajendiran Naveenkumar",
         "Jayaraj Iyyappan",
         "Ravichandran Pravin",
@@ -608,17 +241,17 @@
         "Samuel Lalthazuala Rokhum",
         "Gurunathan Baskar"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "10/2/2024 0:00",
-      "RetractionDOI": "10.1016/j.biortech.2023.129044",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/13/2023 0:00",
-      "OriginalPaperDOI": "10.1016/j.biortech.2023.129044",
-      "OriginalPaperPubMedID": "37044151.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/2/2024 0:00",
+      "retractiondoi": "10.1016/j.biortech.2023.129044",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/13/2023 0:00",
+      "originalpaperdoi": "10.1016/j.biortech.2023.129044",
+      "originalpaperpubmedid": "37044151.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Date of Article and/or Notice Unknown",
@@ -628,21 +261,223 @@
         "+Objections by Author(s)",
         "+Rogue Editor"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234335f",
-      "Record ID": "48800",
-      "Title": "SmartPharma: Blockchain Enabled Internet of Things for Smart Pharmaceutical Traceability System",
-      "Subject": [
+      "_id": "687cef751f662220d89869c0",
+      "recordId": "56387",
+      "title": "Smart Healthcare System for Severity Prediction and Critical Tasks Management of COVID-19 Patients in IoT-Fog Computing Environments",
+      "subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "College of Agriculture, Al-Muthanna University, Samawah 66001, Iraq",
+        "College of Engineering, University of Warith Al-Anbiyaa, Karbala, Iraq",
+        "Ministry of Education, General Directorate of Curricula, Pure Science Department, Baghdad, Iraq",
+        "Engineering Department, University of Technology- Iraq, Baghdad, Iraq",
+        "Department of Quantitative Methods and Economic Informatics, Faculty of Operation and Economics of Transport and Communication, University of \u017dilina, \u017dilina, Slovakia",
+        "Department of Telecommunications, Faculty of Electrical Engineering and Computer Science, VSB-Technical University of Ostrava, Ostrava, Poruba, Czech Republic",
+        "College of Computer Science and Information Technology, University of Anbar, 11, Ramadi, Anbar, Iraq",
+        "Department of Biochemistry, College of Medicine, University of Wasit, Wasit, Iraq",
+        "Department of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou 325035, China",
+        "Noroff University College, Kristiansand, Norway",
+        "School of Electrical Engineering and Computer Science, National University of Sciences and Technology (NUST), Islamabad 44500, Pakistan"
+      ],
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
+        "China",
+        "Czech Republic",
+        "Iraq",
+        "Norway",
+        "Pakistan",
+        "Slovakia"
+      ],
+      "author": [
+        "Karrar Hameed Abdulkareem",
+        "Ammar Awad Mutlag",
+        "Ahmed Musa Dinar",
+        "Jaroslav Frnda",
+        "Mazin Abed Mohammed",
+        "Fawzi Hasan Zayr",
+        "Abdullah Lakhan",
+        "Seifedine Kadry",
+        "Hasan Ali Khattak",
+        "Jan Nedoma"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/4/2023 0:00",
+      "retractiondoi": "10.1155/2023/9820684",
+      "retractionpubmedid": "37829848.0",
+      "originalpaperdate": "7/19/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/5012962",
+      "originalpaperpubmedid": "35875731.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/CB4AC952E3FE521FA56CD1F0082801",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef831f662220d8987777",
+      "recordId": "52853",
+      "title": "Intrusion detection based on machine learning in the internet of things, attacks and counter measures",
+      "subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "Department of Software Engineering, Foundation University Islamabad, Islamabad, 44000, Pakistan",
+        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway",
+        "Department of Computer Science, HITEC University Taxila, Taxila, Pakistan",
+        "Chung-Ang University - Seoul Campus: Chung-Ang University, Seoul, Korea"
+      ],
+      "journal": "The Journal of Supercomputing",
+      "publisher": "Springer",
+      "country": [
+        "Norway",
+        "Pakistan",
+        "South Korea"
+      ],
+      "author": [
+        "Eid Rehman",
+        "Muhammad Haseeb-ud-Din",
+        "Arif Jamal Malik",
+        "Tehmina Karmat Khan",
+        "Aaqif Afzaal Abbasi",
+        "Seifedine Kadry",
+        "Muhammad Attique Khan",
+        "Seungmin Rho"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/13/2024 0:00",
+      "retractiondoi": "10.1007/s11227-024-05973-6",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/14/2022 0:00",
+      "originalpaperdoi": "10.1007/s11227-021-04188-3",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/3BFF243BFC5E52CB9E7FABFAAFEA7E",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8b1f662220d8987fcb",
+      "recordId": "50717",
+      "title": "A Rapid Artificial Intelligence-Based Computer-Aided Diagnosis System for COVID-19 Classification from CT Images",
+      "subject": [
+        "(B/T) Data Science",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Computer Science, HITEC University Taxila, Museum Road, Taxila, Pakistan",
+        "College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Al-Kharj, Saudi Arabia",
+        "Department of Electrical Engineering, Jouf University, Sakaka 75471, Saudi Arabia",
+        "Department of Industrial Security, Chung-Ang University, Seoul, (06974), Republic of Korea",
+        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway",
+        "Department of Electronics and Instrumentation, St. Joseph\u2019s College of Engineering, Chennai 600119, India"
+      ],
+      "journal": "Behavioural Neurology",
+      "publisher": "Hindawi",
+      "country": [
+        "India",
+        "Norway",
+        "Pakistan",
+        "Saudi Arabia",
+        "South Korea"
+      ],
+      "author": [
+        "Hassaan Haider Syed",
+        "Muhammad Attique Khan",
+        "Usman Tariq",
+        "Ammar Armghan",
+        "Fayadh Alenezi",
+        "Junaid Ali Khan",
+        "Seungmin Rho",
+        "Seifedine Kadry",
+        "Venkatesan Rajinikanth"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/9/2023 0:00",
+      "retractiondoi": "10.1155/2023/9876194",
+      "retractionpubmedid": "37593136.0",
+      "originalpaperdate": "12/27/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/2560388",
+      "originalpaperpubmedid": "34966463.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/CCBCA665923A7909BE037AF6F77EB6",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef921f662220d8988745",
+      "recordId": "48800",
+      "title": "SmartPharma: Blockchain Enabled Internet of Things for Smart Pharmaceutical Traceability System",
+      "subject": [
         "(B/T) Business - Manufacturing",
         "(B/T) Computer Science",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Science and Engineering, Sri Krishna College of Technology, Coimbatore, India",
         "Department of Computer Science and Engineering, Anna University Regional Campus, Tirunelveli, India",
         "School of Information Technology and Engineering, Vellore Institute of Technology, Vellore, India",
@@ -651,14 +486,14 @@
         "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway",
         "Industrial Engineering Department, College of Engineering, King Saud University, Riyadh11421, Saudi Arabia"
       ],
-      "Journal": "IETE Journal of Research",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "IETE Journal of Research",
+      "publisher": "Taylor and Francis",
+      "country": [
         "India",
         "Norway",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "M Kavitha Margret",
         "E Golden Julie",
         "Y Harold Robinson",
@@ -668,168 +503,346 @@
         "Ahmed M El-Sherbeeny",
         "Mohammed A El-Meligy"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/25/2023 0:00",
-      "RetractionDOI": "10.1080/03772063.2023.2262993",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/22/2021 0:00",
-      "OriginalPaperDOI": "10.1080/03772063.2021.1994041",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/25/2023 0:00",
+      "retractiondoi": "10.1080/03772063.2023.2262993",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/22/2021 0:00",
+      "originalpaperdoi": "10.1080/03772063.2021.1994041",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23439f6",
-      "Record ID": "47107",
-      "Title": "Intelligent scaling for 6G IoE services for resource provisioning",
-      "Subject": [
+      "_id": "687cef961f662220d8988ae9",
+      "recordId": "47862",
+      "title": "Optimization of Correlation Filters Using Extended Particle Swarm Optimization Technique",
+      "subject": [
+        "(B/T) Data Science",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Wah Engineering College, University of Wah, Wah Cantt, Pakistan",
+        "Department of Electrical Engineering, University of Lahore, Islamabad Campus, Pakistan",
+        "Department of Unmanned Vehicle Engineering, Sejong University, Seoul 05006, Republic of Korea",
+        "Department of Computer Science, HITEC University Taxila, Taxila 47040, Pakistan",
+        "College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Al-Khraj, Saudi Arabia",
+        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "Norway",
+        "Pakistan",
+        "Saudi Arabia",
+        "South Korea"
+      ],
+      "author": [
+        "Haris Masood",
+        "Amad Zafar",
+        "Muhammad Umair Ali",
+        "Muhammad Attique Khan",
+        "Kashif Iqbal",
+        "Usman Tariq",
+        "Seifedine Kadry"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9793063",
+      "retractionpubmedid": "37503368.0",
+      "originalpaperdate": "7/7/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6321860",
+      "originalpaperpubmedid": "34306177.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/E7FF47FFCA56ABAD1A22FE736991B9",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef981f662220d8988ddb",
+      "recordId": "47108",
+      "title": "Intelligent scaling for 6G IoE services for resource provisioning",
+      "subject": [
         "(B/T) Computer Science",
         "(B/T) Data Science"
       ],
-      "Institution": [
+      "institution": [
         "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia",
         "Department of Computer Science, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia",
         "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar",
         "Department of Computer Science, Faculty of Engineering & Informatics, University of Bradford, Bradford, United Kingdom",
         "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
       ],
-      "Journal": "PeerJ Computer Science",
-      "Publisher": "PeerJ",
-      "Country": [
+      "journal": "PeerJ Computer Science",
+      "publisher": "PeerJ",
+      "country": [
         "Norway",
         "Qatar",
         "Saudi Arabia",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Abdullah Alharbi",
         "Hashem Alyami",
         "Poongodi M",
         "Hafiz Tayyab Rauf",
         "Seifedine Kadry"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/24/2022 0:00",
-      "RetractionDOI": "10.7717/peerj-cs.755/retraction",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/26/2021 0:00",
-      "OriginalPaperDOI": "10.7717/peerj-cs.755",
-      "OriginalPaperPubMedID": "34805508.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/28/2022 0:00",
+      "retractiondoi": "10.7717/peerj-cs.755",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/26/2021 0:00",
+      "originalpaperdoi": "10.7717/peerj-cs.755",
+      "originalpaperpubmedid": "34805508.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Investigation by Journal/Publisher",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef981f662220d8988ddc",
+      "recordId": "47107",
+      "title": "Intelligent scaling for 6G IoE services for resource provisioning",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science"
+      ],
+      "institution": [
+        "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia",
+        "Department of Computer Science, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia",
+        "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar",
+        "Department of Computer Science, Faculty of Engineering & Informatics, University of Bradford, Bradford, United Kingdom",
+        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
+      ],
+      "journal": "PeerJ Computer Science",
+      "publisher": "PeerJ",
+      "country": [
+        "Norway",
+        "Qatar",
+        "Saudi Arabia",
+        "United Kingdom"
+      ],
+      "author": [
+        "Abdullah Alharbi",
+        "Hashem Alyami",
+        "Poongodi M",
+        "Hafiz Tayyab Rauf",
+        "Seifedine Kadry"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/24/2022 0:00",
+      "retractiondoi": "10.7717/peerj-cs.755/retraction",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/26/2021 0:00",
+      "originalpaperdoi": "10.7717/peerj-cs.755",
+      "originalpaperpubmedid": "34805508.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Plagiarism of Article",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23439f5",
-      "Record ID": "47108",
-      "Title": "Intelligent scaling for 6G IoE services for resource provisioning",
-      "Subject": [
+      "_id": "687cefaa1f662220d8989e23",
+      "recordId": "42919",
+      "title": "A Fused Heterogeneous Deep Neural Network and Robust Feature Selection Framework for Human Actions Recognition",
+      "subject": [
         "(B/T) Computer Science",
-        "(B/T) Data Science"
+        "(B/T) Data Science",
+        "(B/T) Technology"
       ],
-      "Institution": [
-        "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia",
-        "Department of Computer Science, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia",
-        "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar",
-        "Department of Computer Science, Faculty of Engineering & Informatics, University of Bradford, Bradford, United Kingdom",
-        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
+      "institution": [
+        "Department of Computer Science, HITEC University, Museum Road, Taxila, Pakistan",
+        "Department of Informatics, University of Leicester, Leicester, LE1 7RH, UK",
+        "College of Computer Science and Engineering, University of Ha\u2019il, Ha\u2019il, Saudi Arabia",
+        "Department of Applied Data Science, Noroff University College, Noroff Oslo, Norway",
+        "Department of Mathematics, University of Leicester, Leicester, LE1 7RH, UK",
+        "College of Computer and Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia",
+        "Department of Computer Science, COMSATS University Islamabad, Wah Campus, Islamabad, Pakistan"
       ],
-      "Journal": "PeerJ Computer Science",
-      "Publisher": "PeerJ",
-      "Country": [
+      "journal": "Arabian Journal for Science and Engineering",
+      "publisher": "Springer",
+      "country": [
         "Norway",
-        "Qatar",
+        "Pakistan",
         "Saudi Arabia",
         "United Kingdom"
       ],
-      "Author": [
-        "Abdullah Alharbi",
-        "Hashem Alyami",
-        "Poongodi M",
-        "Hafiz Tayyab Rauf",
-        "Seifedine Kadry"
+      "author": [
+        "Muhammad Attique Khan",
+        "Yu-dong Zhang",
+        "Majed Alhaisoni",
+        "Seifedine Kadry",
+        "Shui-Hua Wang",
+        "Tanzila Saba",
+        "Tassawar Iqbal"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/28/2022 0:00",
-      "RetractionDOI": "10.7717/peerj-cs.755",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/26/2021 0:00",
-      "OriginalPaperDOI": "10.7717/peerj-cs.755",
-      "OriginalPaperPubMedID": "34805508.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Investigation by Journal/Publisher",
+      "retractiondate": "1/20/2022 0:00",
+      "retractiondoi": "10.1007/s13369-021-06510-w",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/1/2021 0:00",
+      "originalpaperdoi": "10.1007/s13369-021-05881-4",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Error in Text",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "Majed Alhaisoni's surname was corrected from Allison. Article retracted on 23 October 2022.",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefaa1f662220d8989e24",
+      "recordId": "42918",
+      "title": "A Fused Heterogeneous Deep Neural Network and Robust Feature Selection Framework for Human Actions Recognition",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "Department of Computer Science, HITEC University, Museum Road, Taxila, Pakistan",
+        "Department of Informatics, University of Leicester, Leicester, LE1 7RH, UK",
+        "College of Computer Science and Engineering, University of Ha\u2019il, Ha\u2019il, Saudi Arabia",
+        "Department of Applied Data Science, Noroff University College, Noroff Oslo, Norway",
+        "Department of Mathematics, University of Leicester, Leicester, LE1 7RH, UK",
+        "College of Computer and Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia",
+        "Department of Computer Science, COMSATS University Islamabad, Wah Campus, Islamabad, Pakistan"
+      ],
+      "journal": "Arabian Journal for Science and Engineering",
+      "publisher": "Springer",
+      "country": [
+        "Norway",
+        "Pakistan",
+        "Saudi Arabia",
+        "United Kingdom"
+      ],
+      "author": [
+        "Muhammad Attique Khan",
+        "Yu-dong Zhang",
+        "Majed Alhaisoni",
+        "Seifedine Kadry",
+        "Shui-Hua Wang",
+        "Tanzila Saba",
+        "Tassawar Iqbal"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/23/2022 0:00",
+      "retractiondoi": "10.1007/s13369-021-05881-4",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/1/2021 0:00",
+      "originalpaperdoi": "10.1007/s13369-021-05881-4",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "Majed Alhaisoni's surname was corrected from Allison on 20 January 2022.",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2021,
-      "retraction_count": 8,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
-      "research": 1,
-      "integrity": 5
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 4,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 3
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 5,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,73 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878279",
+    "_id": "687ccbab09adbf7aa61b8e9a",
     "grid_id": "grid.261103.7",
     "institute_name": "Northeast Ohio Medical University",
     "country": "United States",
     "retracted_record_ids": [
+      "41801",
       "2920",
       "58681",
-      "1223",
-      "41801"
+      "1223"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e579",
-      "Record ID": "2920",
-      "Title": "Deficiency of G-protein-coupled bile acid receptor Gpbar1 (TGR5) enhances chemically induced liver carcinogenesis",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Integrative Medical Sciences, Northeast Ohio Medical University, Rootstown, OH",
-        "Key laboratory of receptors-mediated gene regulation and drug discovery, School of Medicine, Henan University, Kaifeng, P. R. China",
-        "Department of Gene Regulation and Drug Discovery, BeckmanResearch Institute, City of Hope National Medical Center, Duarte, CA"
-      ],
-      "Journal": "Hepatology: Official Journal of the American Association for the Study of Liver Diseases",
-      "Publisher": "Wiley",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Wei-Dong Chen",
-        "Donna Yu",
-        "Barry M Forman",
-        "Wendong Huang",
-        "Yan-Dong Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/29/2013 0:00",
-      "RetractionDOI": "10.1002/hep.26649",
-      "RetractionPubMedID": "23996693.0",
-      "OriginalPaperDate": "2/5/2013 0:00",
-      "OriginalPaperDOI": "10.1002/hep.26019",
-      "OriginalPaperPubMedID": "22911633.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Methods",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340ce7",
-      "Record ID": "58681",
-      "Title": "Assessment of South Asian Pediatric Acute Kidney Injury: Epidemiology and Risk Factors (ASPIRE)-a prospective study on severe dialysis dependent pediatric AKI",
-      "Subject": [
+      "_id": "687cef6b1f662220d89860cd",
+      "recordId": "58681",
+      "title": "Assessment of South Asian Pediatric Acute Kidney Injury: Epidemiology and Risk Factors (ASPIRE)-a prospective study on severe dialysis dependent pediatric AKI",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Pediatrics",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pediatric Nephrology and Pediatric Kidney Transplantation, Kidney and Urology Institute, Medanta, The Medicity Hospital, Gurgaon, India",
         "Department of Nephrology, Akron Nephrology Associates/Cleveland Clinic Akron General Medical Center, Akron, OH, USA",
         "Department of Nephrology, Akron Children\u2019s Hospital, Akron, OH, USA",
@@ -93,9 +47,9 @@
         "Dr. MR Khan Children\u2019s Hospital and Institute of Child Health, Dhaka, Bangladesh",
         "Department of Paediatric and Child Health, University of Cape Town, Cape Town, South Africa"
       ],
-      "Journal": "Pediatric Nephrology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Pediatric Nephrology",
+      "publisher": "Springer",
+      "country": [
         "Bangladesh",
         "India",
         "Myanmar (formerly Burma)",
@@ -107,7 +61,7 @@
         "Switzerland",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Sidharth Kumar Sethi",
         "Rupesh Raina",
         "Ahmad Sawan",
@@ -134,84 +88,36 @@
         "Khalid A Alhasan",
         "Azmeri Sultana"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/18/2024 0:00",
-      "RetractionDOI": "10.1007/s00467-024-06324-6",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/8/2024 0:00",
-      "OriginalPaperDOI": "10.1007/s00467-024-06324-6",
-      "OriginalPaperPubMedID": "38456915.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/18/2024 0:00",
+      "retractiondoi": "10.1007/s00467-024-06324-6",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/8/2024 0:00",
+      "originalpaperdoi": "10.1007/s00467-024-06324-6",
+      "originalpaperpubmedid": "38456915.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of IRB/IACUC Approval and/or Compliance",
         "+Objections by Author(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2024,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ebf5",
-      "Record ID": "1223",
-      "Title": "Development of a Neural Network for Glucose Concentration Prevision in Patients Affected by Type 1 Diabetes",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Department of Bioengineering, University of Toledo, Toledo, Ohio, USA",
-        "Departments of Medicine at: Humility of Mary Health Partners, St. Elizabeth Health Center, Youngstown, Ohio, USA",
-        "St. Joseph Health Center, Warren, Ohio",
-        "Forum Health, Northside Medical Center, Youngstown, Ohio, USA",
-        "Trumbull Memorial Hospital, Warren, Ohio",
-        "University of Toledo, College of Medicine, Toledo, Ohio, USA",
-        "Northeastern Ohio Universities, College of Medicine, Rootstown, Ohio, USA",
-        "Ohio University, College of Osteopathic Medicine, Athens, Ohio",
-        "and Case Western Reserve University, College of Medicine, Cleveland, Ohio, USA"
-      ],
-      "Journal": "Bioprocess and Biosystems Engineering",
-      "Publisher": "Springer",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott M Pappada",
-        "Brent D Cameron",
-        "Paul M Rosman"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/1/2012 0:00",
-      "RetractionDOI": "10.1007/s00449-012-0750-0",
-      "RetractionPubMedID": "22622963.0",
-      "OriginalPaperDate": "5/24/2012 0:00",
-      "OriginalPaperDOI": "10.1007/s00449-012-0750-0",
-      "OriginalPaperPubMedID": "22622963.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2344e9a",
-      "Record ID": "41801",
-      "Title": "Cancer Prevalence in E-Cigarette Users: A Retrospective Cross-Sectional NHANES Study",
-      "Subject": [
+      "_id": "687cefae1f662220d898a280",
+      "recordId": "41801",
+      "title": "Cancer Prevalence in E-Cigarette Users: A Retrospective Cross-Sectional NHANES Study",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Oncology",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Department of Internal Medicine, University of Illinois College of Medicine, Peoria, IL, USA",
         "Department of Internal Medicine, Hackensack Meridian Health Palisades Medical Center, North Bergen, NJ, USA",
         "Department of Family and Community Medicine, University of Missouri, Kansas City, MO, USA",
@@ -226,14 +132,14 @@
         "Department of Internal Medicine, Reading Hospital, West Reading, PA, USA",
         "Department of Internal Medicine, Mayo Clinic Health System, Mankato, MN, USA"
       ],
-      "Journal": "World Journal of Oncology",
-      "Publisher": "Elmer Press",
-      "Country": [
+      "journal": "World Journal of Oncology",
+      "publisher": "Elmer Press",
+      "country": [
         "India",
         "Nepal",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Anusha Chidharla",
         "Kriti Agarwal",
         "Salwa Abdelwahed",
@@ -248,71 +154,169 @@
         "Sachin Gupta",
         "Thoyaja Koritala"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/24/2022 0:00",
-      "RetractionDOI": "10.14740/wjon1438r",
-      "RetractionPubMedID": "36660203.0",
-      "OriginalPaperDate": "2/8/2022 0:00",
-      "OriginalPaperDOI": "10.14740/wjon1438",
-      "OriginalPaperPubMedID": "35317331.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/24/2022 0:00",
+      "retractiondoi": "10.14740/wjon1438r",
+      "retractionpubmedid": "36660203.0",
+      "originalpaperdate": "2/8/2022 0:00",
+      "originalpaperdoi": "10.14740/wjon1438",
+      "originalpaperpubmedid": "35317331.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d899395f",
+      "recordId": "2920",
+      "title": "Deficiency of G-protein-coupled bile acid receptor Gpbar1 (TGR5) enhances chemically induced liver carcinogenesis",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Integrative Medical Sciences, Northeast Ohio Medical University, Rootstown, OH",
+        "Key laboratory of receptors-mediated gene regulation and drug discovery, School of Medicine, Henan University, Kaifeng, P. R. China",
+        "Department of Gene Regulation and Drug Discovery, BeckmanResearch Institute, City of Hope National Medical Center, Duarte, CA"
+      ],
+      "journal": "Hepatology",
+      "publisher": "Wiley",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Wei-Dong Chen",
+        "Donna Yu",
+        "Barry M Forman",
+        "Wendong Huang",
+        "Yan-Dong Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/29/2013 0:00",
+      "retractiondoi": "10.1002/hep.26649",
+      "retractionpubmedid": "23996693.0",
+      "originalpaperdate": "2/5/2013 0:00",
+      "originalpaperdoi": "10.1002/hep.26019",
+      "originalpaperpubmedid": "22911633.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Methods",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d51f662220d8993fdb",
+      "recordId": "1223",
+      "title": "Development of a Neural Network for Glucose Concentration Prevision in Patients Affected by Type 1 Diabetes",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Department of Bioengineering, University of Toledo, Toledo, Ohio, USA",
+        "Departments of Medicine at: Humility of Mary Health Partners, St. Elizabeth Health Center, Youngstown, Ohio, USA",
+        "St. Joseph Health Center, Warren, Ohio",
+        "Forum Health, Northside Medical Center, Youngstown, Ohio, USA",
+        "Trumbull Memorial Hospital, Warren, Ohio",
+        "University of Toledo, College of Medicine, Toledo, Ohio, USA",
+        "Northeastern Ohio Universities, College of Medicine, Rootstown, Ohio, USA",
+        "Ohio University, College of Osteopathic Medicine, Athens, Ohio",
+        "and Case Western Reserve University, College of Medicine, Cleveland, Ohio, USA"
+      ],
+      "journal": "Bioprocess and Biosystems Engineering",
+      "publisher": "Springer",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott M Pappada",
+        "Brent D Cameron",
+        "Paul M Rosman"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/1/2012 0:00",
+      "retractiondoi": "10.1007/s00449-012-0750-0",
+      "retractionpubmedid": "22622963.0",
+      "originalpaperdate": "5/24/2012 0:00",
+      "originalpaperdoi": "10.1007/s00449-012-0750-0",
+      "originalpaperpubmedid": "22622963.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

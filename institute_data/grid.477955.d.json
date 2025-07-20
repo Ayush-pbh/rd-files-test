@@ -1,53 +1,103 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687804d",
+    "_id": "687ccbab09adbf7aa61b8c6e",
     "grid_id": "grid.477955.d",
     "institute_name": "Shaoxing Second Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "52890",
-      "60236"
+      "60236",
+      "52890"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234236c",
-      "Record ID": "52890",
-      "Title": "Two New Co(II)-Cluster-Based Coordination Polymers Based on the C3-Symmetrical Organic Ligand: Synthesis, Crystal Structures and Anti-Liver Cancer Activity",
-      "Subject": [
+      "_id": "687cef651f662220d8985abc",
+      "recordId": "60236",
+      "title": "A Porous Zn2(abct) Framework as an Efficient Carrier for 5-Fu Delivery and Inhibiting Human Liver Cancer Cells",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Inner Mongolia University for Nationalities, Tongliao, Inner Mongolia Autonomous Region, P. R. China",
+        "Department of Neurosurgery, Shaoxing Second Hospital, Shaoxing, Zhejiang, P. R. China",
+        "The First Affiliated Hospital of Inner Mongolia University for Nationalities, Tongliao, Inner Mongolia Autonomous Region, P. R. China"
+      ],
+      "journal": "ZAAC: Zeitschrift f\u00fcr anorganische und allgemeine Chemie (Journal of Inorganic and General Chemistry)",
+      "publisher": "Wiley",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Bao-Hua Song",
+        "Xing Ding",
+        "Chen Li",
+        "Gui-Feng An"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/19/2024 0:00",
+      "retractiondoi": "10.1002/zaac.202400106",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/18/2018 0:00",
+      "originalpaperdoi": "10.1002/zaac.201800059",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/BAF3802EEC30F40A23018DE074E1E3",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef831f662220d8987752",
+      "recordId": "52890",
+      "title": "Two New Co(II)-Cluster-Based Coordination Polymers Based on the C3-Symmetrical Organic Ligand: Synthesis, Crystal Structures and Anti-Liver Cancer Activity",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Inner Mongolia University for Nationalities, Tongliao, Inner Mongolia Autonomous Region, China",
         "Department of Neurosurgery, Shaoxing Second Hospital, Shaoxing, Zhejiang, China",
         "Nursing Department, Tongliao City Hospital, Tongliao, Inner Mongolia Autonomous Region, China",
         "The First Affiliated Hospital of Inner Mongolia University for Nationalities, Tongliao, Inner Mongolia Autonomous Region, China"
       ],
-      "Journal": "Journal of Cluster Science",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Journal of Cluster Science",
+      "publisher": "Springer",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Feng Mao An",
         "Xing Ding",
         "Zhi Fang Zhang",
         "Gui Feng An"
       ],
-      "URLS": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/5/2024 0:00",
-      "RetractionDOI": "10.1007/s10876-023-02538-0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/2/2018 0:00",
-      "OriginalPaperDOI": "10.1007/s10876-018-1418-y",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/5/2024 0:00",
+      "retractiondoi": "10.1007/s10876-023-02538-0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/2/2018 0:00",
+      "originalpaperdoi": "10.1007/s10876-018-1418-y",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Human Subject Welfare",
@@ -56,81 +106,33 @@
         "+Paper Mill",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/427F553519B53617F9FBA7F50944EF",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23406d6",
-      "Record ID": "60236",
-      "Title": "A Porous Zn2(abct) Framework as an Efficient Carrier for 5-Fu Delivery and Inhibiting Human Liver Cancer Cells",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Inner Mongolia University for Nationalities, Tongliao, Inner Mongolia Autonomous Region, P. R. China",
-        "Department of Neurosurgery, Shaoxing Second Hospital, Shaoxing, Zhejiang, P. R. China",
-        "The First Affiliated Hospital of Inner Mongolia University for Nationalities, Tongliao, Inner Mongolia Autonomous Region, P. R. China"
-      ],
-      "Journal": "ZAAC: Zeitschrift f\u00fcr anorganische und allgemeine Chemie (Journal of Inorganic and General Chemistry)",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Bao-Hua Song",
-        "Xing Ding",
-        "Chen Li",
-        "Gui-Feng An"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/19/2024 0:00",
-      "RetractionDOI": "10.1002/zaac.202400106",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/18/2018 0:00",
-      "OriginalPaperDOI": "10.1002/zaac.201800059",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/BAF3802EEC30F40A23018DE074E1E3",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/427F553519B53617F9FBA7F50944EF",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

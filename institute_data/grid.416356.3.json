@@ -1,78 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879f94",
+    "_id": "687ccbab09adbf7aa61babb5",
     "grid_id": "grid.416356.3",
     "institute_name": "St. Boniface Hospital",
     "country": "Canada",
     "retracted_record_ids": [
-      "228",
-      "5388"
+      "5388",
+      "228"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234efc3",
-      "Record ID": "228",
-      "Title": "Intranasal insulin prevents cognitive decline, cerebral atrophy and white matter changes in murine type I diabetic encephalopathy",
-      "Subject": [
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Department of Clinical Neurosciences and the Hotchkiss Brain Institute, University of Calgary, Calgary, Alberta, Canada",
-        "Alzheimer\u2019s Research Center at Regions Hospital, HealthPartners Research Foundation, St. Paul, MN, USA",
-        "Department of Pharmacology and Therapeutics, Division of Neurodegenerative Disorders, University of Manitoba, St. Boniface Hospital Research Centre, Winnipeg, Manitoba, Canada"
-      ],
-      "Journal": "Brain",
-      "Publisher": "Oxford University Press",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "George J Francis",
-        "Jose A Martinez",
-        "Wei Q Liu",
-        "Kevin Xu",
-        "Amit Ayer",
-        "Jared Fine",
-        "Ursula I Tuor",
-        "Gordon Glazner",
-        "Leah R Hanson",
-        "William H Frey II",
-        "Cory C Toth"
-      ],
-      "URLS": "http://retractionwatch.com/category/by-author/cory-toth/;http://retractionwatch.com/2014/05/28/diabetes-researcher-who-says-he-will-no-longer-publish-now-up-to-five-retractions/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/23/2014 0:00",
-      "RetractionDOI": "10.1093/brain/awu127",
-      "RetractionPubMedID": "24860127.0",
-      "OriginalPaperDate": "11/16/2008 0:00",
-      "OriginalPaperDOI": "10.1093/brain/awn288",
-      "OriginalPaperPubMedID": "19015157.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Company/Institution",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234dc0a",
-      "Record ID": "5388",
-      "Title": "Curcumin prevents and reverses murine cardiac hypertrophy",
-      "Subject": [
+      "_id": "687cf0c31f662220d8992ff0",
+      "recordId": "5388",
+      "title": "Curcumin prevents and reverses murine cardiac hypertrophy",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Cardiology, Heart and Stroke/Richard Lewar Centre of Excellence, University Health Network, University of Toronto, Toronto, Ontario, Canada",
         "Laboratory of Molecular Cardiology, National Heart, Lung, and Blood Institute, NIH, Bethesda, Maryland, USA",
         "Wellcome Trust Genome Campus and Sanger Institute, Hinxton, Cambridge, United Kingdom",
@@ -82,14 +29,14 @@
         "Institute of Cardiovascular Sciences, St. Boniface General Hospital Research Centre, Winnipeg, Manitoba, Canada",
         "Institute of Circulatory and Respiratory Health, Canadian Institutes of Health Research, Ottawa, Ontario, Canada"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
         "Canada",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hong-Liang Li",
         "Chen Liu",
         "Geoffrey de Couto",
@@ -111,45 +58,100 @@
         "Lorrie A Kirshenbaum",
         "Peter P Liu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2009 0:00",
-      "RetractionDOI": "10.1172/JCI32865R1",
-      "RetractionPubMedID": "19603550.0",
-      "OriginalPaperDate": "2/21/2008 0:00",
-      "OriginalPaperDOI": "10.1172/JCI32865",
-      "OriginalPaperPubMedID": "18292903.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2009 0:00",
+      "retractiondoi": "10.1172/JCI32865R1",
+      "retractionpubmedid": "19603550.0",
+      "originalpaperdate": "2/21/2008 0:00",
+      "originalpaperdoi": "10.1172/JCI32865",
+      "originalpaperpubmedid": "18292903.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Analyses"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2008,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d89943a9",
+      "recordId": "228",
+      "title": "Intranasal insulin prevents cognitive decline, cerebral atrophy and white matter changes in murine type I diabetic encephalopathy",
+      "subject": [
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Department of Clinical Neurosciences and the Hotchkiss Brain Institute, University of Calgary, Calgary, Alberta, Canada",
+        "Alzheimer\u2019s Research Center at Regions Hospital, HealthPartners Research Foundation, St. Paul, MN, USA",
+        "Department of Pharmacology and Therapeutics, Division of Neurodegenerative Disorders, University of Manitoba, St. Boniface Hospital Research Centre, Winnipeg, Manitoba, Canada"
+      ],
+      "journal": "Brain",
+      "publisher": "Oxford University Press",
+      "country": [
+        "Canada",
+        "United States"
+      ],
+      "author": [
+        "George J Francis",
+        "Jose A Martinez",
+        "Wei Q Liu",
+        "Kevin Xu",
+        "Amit Ayer",
+        "Jared Fine",
+        "Ursula I Tuor",
+        "Gordon Glazner",
+        "Leah R Hanson",
+        "William H Frey II",
+        "Cory C Toth"
+      ],
+      "urls": "http://retractionwatch.com/category/by-author/cory-toth/;http://retractionwatch.com/2014/05/28/diabetes-researcher-who-says-he-will-no-longer-publish-now-up-to-five-retractions/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/23/2014 0:00",
+      "retractiondoi": "10.1093/brain/awu127",
+      "retractionpubmedid": "24860127.0",
+      "originalpaperdate": "11/16/2008 0:00",
+      "originalpaperdoi": "10.1093/brain/awn288",
+      "originalpaperpubmedid": "19015157.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -157,10 +159,10 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

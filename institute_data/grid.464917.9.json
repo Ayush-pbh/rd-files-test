@@ -1,114 +1,116 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687964d",
+    "_id": "687ccbab09adbf7aa61ba26e",
     "grid_id": "grid.464917.9",
     "institute_name": "Government of West Bengal",
     "country": "India",
     "retracted_record_ids": [
-      "8478",
-      "28671"
+      "28671",
+      "8478"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d02c",
-      "Record ID": "8478",
-      "Title": "Measuring Routes Efficiency of Kolkata Bus Transport: A Modified DEA Approach",
-      "Subject": [
-        "(B/T) Transportation"
-      ],
-      "Institution": [
-        "Jaypee Business School, JIIT, Noida, India",
-        "School Education. Government of West Bengal, Kolkata, India"
-      ],
-      "Journal": "Annals of Data Science",
-      "Publisher": "Springer",
-      "Country": [
-        "India"
-      ],
-      "Author": [
-        "Asit Bandyopadhayay",
-        "Ashim Banerjee",
-        "Naseem Abidi"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/22/2016 0:00",
-      "RetractionDOI": "10.1007/s40745-016-0074-z",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/1/2016 0:00",
-      "OriginalPaperDOI": "10.1007/s40745-016-0074-z",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Euphemisms for Duplication"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23481a3",
-      "Record ID": "28671",
-      "Title": "Large dams: Long Term Impacts on Riverine Communities and Free Flowing Rivers",
-      "Subject": [
+      "_id": "687cefe71f662220d898d589",
+      "recordId": "28671",
+      "title": "Large dams: Long Term Impacts on Riverine Communities and Free Flowing Rivers",
+      "subject": [
         "(ENV) Environmental Sciences",
         "(ENV) Ground/Surface Water",
         "(PHY) Engineering - Structural"
       ],
-      "Institution": [
+      "institution": [
         "Public Health Engineering Directorate, Government of West Bengal, Planning Circle I Office, P.N.B. House (4th Floor), 18A, Brabourne Road, Kolkata. Pin \u2013 70000, India"
       ],
-      "Journal": "Canadian Journal of Civil Engineering",
-      "Publisher": "Canadian Science Publishing",
-      "Country": [
+      "journal": "Canadian Journal of Civil Engineering",
+      "publisher": "Canadian Science Publishing",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "Soumyajit Koley"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "3/12/2021 0:00",
-      "RetractionDOI": "10.1139/cjce-2021-0102",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/15/2020 0:00",
-      "OriginalPaperDOI": "10.1139/cjce-2020-0612",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/12/2021 0:00",
+      "retractiondoi": "10.1139/cjce-2021-0102",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/15/2020 0:00",
+      "originalpaperdoi": "10.1139/cjce-2020-0612",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b81f662220d8992412",
+      "recordId": "8478",
+      "title": "Measuring Routes Efficiency of Kolkata Bus Transport: A Modified DEA Approach",
+      "subject": [
+        "(B/T) Transportation"
+      ],
+      "institution": [
+        "Jaypee Business School, JIIT, Noida, India",
+        "School Education. Government of West Bengal, Kolkata, India"
+      ],
+      "journal": "Annals of Data Science",
+      "publisher": "Springer",
+      "country": [
+        "India"
+      ],
+      "author": [
+        "Asit Bandyopadhayay",
+        "Ashim Banerjee",
+        "Naseem Abidi"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/22/2016 0:00",
+      "retractiondoi": "10.1007/s40745-016-0074-z",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/1/2016 0:00",
+      "originalpaperdoi": "10.1007/s40745-016-0074-z",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Euphemisms for Duplication"
+      ],
+      "paywalled": "Yes",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -116,10 +118,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

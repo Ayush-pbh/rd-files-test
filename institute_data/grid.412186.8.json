@@ -1,25 +1,83 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878146",
+    "_id": "687ccbab09adbf7aa61b8d67",
     "grid_id": "grid.412186.8",
     "institute_name": "University of Cauca",
     "country": "Colombia",
     "retracted_record_ids": [
-      "57045",
-      "59538"
+      "59538",
+      "57045"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341348",
-      "Record ID": "57045",
-      "Title": "Decision-level fusion scheme for nasopharyngeal carcinoma identification using machine learning techniques",
-      "Subject": [
+      "_id": "687cef691f662220d8985d76",
+      "recordId": "59538",
+      "title": "Polymethyl Methacrylate-Based Smart Microfluidic Point-of-Care Testing of Prothrombin Time and International Normalized Ratio through Optical Detection",
+      "subject": [
+        "(B/T) Technology",
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Cardiovascular",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Biomedical Engineering Department, Jordan University of Science and Technology, Irbid 22110, Jordan",
+        "Department of Biomedical Engineering, Rathinam Technical Campus, Coimbatore, India",
+        "Department of Electronics and Instrumentation Engineering, Karpagam College of Engineering, Coimbatore, India",
+        "Departamento de Telematica, Universidad del Cauca, Colombia"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "Colombia",
+        "India",
+        "Jordan"
+      ],
+      "author": [
+        "Enas W. Abdulhay",
+        "Ruba E. Khnouf",
+        "Yahia M. Karain",
+        "Taqwa K. Al Omari",
+        "Nourshan M. Ebeid",
+        "Tamara H. Al Muhtaseb",
+        "N. Arunkumar",
+        "M. Thilagaraj",
+        "Gustavo Ramirez-Gonzalez"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/13/2023 0:00",
+      "retractiondoi": "10.1155/2023/9793208",
+      "retractionpubmedid": "38124923.0",
+      "originalpaperdate": "2/18/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/5975228",
+      "originalpaperpubmedid": "35222684.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef731f662220d898672e",
+      "recordId": "57045",
+      "title": "Decision-level fusion scheme for nasopharyngeal carcinoma identification using machine learning techniques",
+      "subject": [
         "(B/T) Data Science",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Otorhinolaryngology"
       ],
-      "Institution": [
+      "institution": [
         "Biomedical Computing and Engineering Technologies (BIOCORE) Applied Research Group, Faculty of Information and Communication Technology, Universiti Teknikal Malaysia Melaka, Durian Tunggal, Malaysia",
         "Planning and Follow Up Department, University Headquarter, University of Anbar, Anbar, Iraq",
         "School of EEE, Sastra University, Thanjavur, India",
@@ -29,16 +87,16 @@
         "Department of Biomedical Engineering, Jordan University of Science and Technology, Irbid, Jordan",
         "Departamento de Telem\u00e1tica, Universidad del Cauca, Popay\u00e1n, Cauca, 190002, Colombia"
       ],
-      "Journal": "Neural Computing and Applications",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Neural Computing and Applications",
+      "publisher": "Springer",
+      "country": [
         "Colombia",
         "India",
         "Iraq",
         "Jordan",
         "Malaysia"
       ],
-      "Author": [
+      "author": [
         "Mohd Khanapi Abd Ghani",
         "Mazin Abed Mohammed",
         "N Arunkumar",
@@ -50,17 +108,17 @@
         "Gustavo Ramirez-Gonzalez",
         "M A Burhanuddin"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/22/2024 0:00",
-      "RetractionDOI": "10.1007/s00521-024-09807-7",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/19/2018 0:00",
-      "OriginalPaperDOI": "10.1007/s00521-018-3882-6",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/22/2024 0:00",
+      "retractiondoi": "10.1007/s00521-024-09807-7",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/19/2018 0:00",
+      "originalpaperdoi": "10.1007/s00521-018-3882-6",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
         "+Concerns/Issues with Peer Review",
@@ -69,99 +127,43 @@
         "+Rogue Editor",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340990",
-      "Record ID": "59538",
-      "Title": "Polymethyl Methacrylate-Based Smart Microfluidic Point-of-Care Testing of Prothrombin Time and International Normalized Ratio through Optical Detection",
-      "Subject": [
-        "(B/T) Technology",
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Cardiovascular",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Biomedical Engineering Department, Jordan University of Science and Technology, Irbid 22110, Jordan",
-        "Department of Biomedical Engineering, Rathinam Technical Campus, Coimbatore, India",
-        "Department of Electronics and Instrumentation Engineering, Karpagam College of Engineering, Coimbatore, India",
-        "Departamento de Telematica, Universidad del Cauca, Colombia"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Colombia",
-        "India",
-        "Jordan"
-      ],
-      "Author": [
-        "Enas W. Abdulhay",
-        "Ruba E. Khnouf",
-        "Yahia M. Karain",
-        "Taqwa K. Al Omari",
-        "Nourshan M. Ebeid",
-        "Tamara H. Al Muhtaseb",
-        "N. Arunkumar",
-        "M. Thilagaraj",
-        "Gustavo Ramirez-Gonzalez"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/13/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9793208",
-      "RetractionPubMedID": "38124923.0",
-      "OriginalPaperDate": "2/18/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/5975228",
-      "OriginalPaperPubMedID": "35222684.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -169,10 +171,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

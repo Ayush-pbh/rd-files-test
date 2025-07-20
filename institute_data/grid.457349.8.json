@@ -1,132 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879d39",
+    "_id": "687ccbab09adbf7aa61ba95a",
     "grid_id": "grid.457349.8",
     "institute_name": "CEA Fontenay-aux-Roses",
     "country": "France",
     "retracted_record_ids": [
-      "5501",
       "15518",
-      "16732"
+      "16732",
+      "5501"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234db9c",
-      "Record ID": "5501",
-      "Title": "Atomistic Simulation of Damage Accumulation and Amorphization in Ge",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "IMDEA Materials Institute, Eric Kandel 2, 28906 Getafe, Madrid, Spain",
-        "CEMES/CNRS, 29 rue J. Marvig, 31055 Toulouse Cedex, France",
-        "CEA, LETI, 17 rue des Martyrs, 38054 Grenoble Cedex 9, France",
-        "GLOBALFOUNDRIES Singapore Pte Ltd., 60 Woodlands Industrial Park D Street 2, Singapore 738406, Singapore"
-      ],
-      "Journal": "Journal of Applied Physics",
-      "Publisher": "American Institute of Physics (AIP Publishing)",
-      "Country": [
-        "France",
-        "Singapore",
-        "Spain"
-      ],
-      "Author": [
-        "Jose L Gomez-Selles",
-        "Alain Claverie",
-        "Benoit Sklenard",
-        "Francis Benistant",
-        "Ignacio Martin-Bragado"
-      ],
-      "URLS": "http://retractionwatch.com/2017/02/14/researchers-disagree-explain-doubts-physics-findings/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2017 0:00",
-      "RetractionDOI": "10.1063/1.4974919",
-      "OriginalPaperDate": "2/1/2015 0:00",
-      "OriginalPaperDOI": "10.1063/1.4907211",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Results Not Reproducible",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234b4c6",
-      "Record ID": "15518",
-      "Title": "Role of alpha7-nicotinic acetylcholine receptor in human non-small cell lung cancer proliferation",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Lung Cancer Unit, National Cancer Research Institute, Genoa, Italy",
-        "University of Insubria, Varese, Italy",
-        "CEA, iBiTecS, Service d\u2019Ing\u00e9nierie Moleculaire des Prot\u00e9ines (SIMOPRO), Gif sur Yvette, France",
-        "IRCCS \u2018San Raffaele\u2019, Rome, Italy",
-        "Thoracic Surgery Unit, Catholic University, Rome, Italy",
-        "Animal Facility Unit, National Cancer Research Institute, Genoa, Italy",
-        "Transplant Thoracic Surgery Unit, \u2018San Martino\u2019 Hospital, Genoa, Italy"
-      ],
-      "Journal": "Cell Proliferation",
-      "Publisher": "Wiley",
-      "Country": [
-        "France",
-        "Italy"
-      ],
-      "Author": [
-        "Laura Paleari",
-        "Alessia Catassi",
-        "Monica Ciarlo",
-        "Zita Cavalieri",
-        "Cristina Bruzzo",
-        "Denis Servent",
-        "Alfredo Cesario",
-        "Leonardo Chessa",
-        "Michele Cilli",
-        "Federica Piccardi",
-        "Pierluigi Granone",
-        "Patrizia Russo"
-      ],
-      "URLS": "http://retractionwatch.com/2016/04/06/does-this-image-look-familiar-its-from-a-catalog/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/29/2017 0:00",
-      "RetractionDOI": "10.1111/cpr.12379",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/18/2008 0:00",
-      "OriginalPaperDOI": "10.1111/j.1365-2184.2008.00566.x",
-      "OriginalPaperPubMedID": "19040571.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234b00f",
-      "Record ID": "16732",
-      "Title": "Inhibition of non-neuronal a7-nicotinic receptor reduces tumorigenicity in A549 NSCLC xenografts",
-      "Subject": [
+      "_id": "687cf0971f662220d89903f5",
+      "recordId": "16732",
+      "title": "Inhibition of non-neuronal a7-nicotinic receptor reduces tumorigenicity in A549 NSCLC xenografts",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Lung Cancer Unit, National Cancer Research Institute, Genoa, Italy",
         "Pathology Unit, University of Insubria, Varese, Italy",
         "Pathology Unit, Multimedica IRCCS, Milan, Italy",
@@ -136,13 +31,13 @@
         "Radiology Unit, Gallarate Hospital, Gallarate (Varese), Italy",
         "Thoracic Surgery Unit, Catholic University, Rome, Italy9CDC \u2018\u2018San Raffaele\u2019\u2019, Velletri, Rome, Italy"
       ],
-      "Journal": "International Journal of Cancer",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "International Journal of Cancer",
+      "publisher": "Wiley",
+      "country": [
         "France",
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Laura Paleari",
         "Fausto Sessa",
         "Alessia Catassi",
@@ -159,67 +54,175 @@
         "Pierluigi Granone",
         "Patrizia Russo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/29/2009 0:00",
-      "RetractionDOI": "10.1002/ijc.24299",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/22/2009 0:00",
-      "OriginalPaperDOI": "10.1002/ijc.24299",
-      "OriginalPaperPubMedID": "19326440.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/29/2009 0:00",
+      "retractiondoi": "10.1002/ijc.24299",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/22/2009 0:00",
+      "originalpaperdoi": "10.1002/ijc.24299",
+      "originalpaperpubmedid": "19326440.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2009,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2009",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf09b1f662220d89908ac",
+      "recordId": "15518",
+      "title": "Role of alpha7-nicotinic acetylcholine receptor in human non-small cell lung cancer proliferation",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Lung Cancer Unit, National Cancer Research Institute, Genoa, Italy",
+        "University of Insubria, Varese, Italy",
+        "CEA, iBiTecS, Service d\u2019Ing\u00e9nierie Moleculaire des Prot\u00e9ines (SIMOPRO), Gif sur Yvette, France",
+        "IRCCS \u2018San Raffaele\u2019, Rome, Italy",
+        "Thoracic Surgery Unit, Catholic University, Rome, Italy",
+        "Animal Facility Unit, National Cancer Research Institute, Genoa, Italy",
+        "Transplant Thoracic Surgery Unit, \u2018San Martino\u2019 Hospital, Genoa, Italy"
+      ],
+      "journal": "Cell Proliferation",
+      "publisher": "Wiley",
+      "country": [
+        "France",
+        "Italy"
+      ],
+      "author": [
+        "Laura Paleari",
+        "Alessia Catassi",
+        "Monica Ciarlo",
+        "Zita Cavalieri",
+        "Cristina Bruzzo",
+        "Denis Servent",
+        "Alfredo Cesario",
+        "Leonardo Chessa",
+        "Michele Cilli",
+        "Federica Piccardi",
+        "Pierluigi Granone",
+        "Patrizia Russo"
+      ],
+      "urls": "http://retractionwatch.com/2016/04/06/does-this-image-look-familiar-its-from-a-catalog/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/29/2017 0:00",
+      "retractiondoi": "10.1111/cpr.12379",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/18/2008 0:00",
+      "originalpaperdoi": "10.1111/j.1365-2184.2008.00566.x",
+      "originalpaperpubmedid": "19040571.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f82",
+      "recordId": "5501",
+      "title": "Atomistic Simulation of Damage Accumulation and Amorphization in Ge",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "IMDEA Materials Institute, Eric Kandel 2, 28906 Getafe, Madrid, Spain",
+        "CEMES/CNRS, 29 rue J. Marvig, 31055 Toulouse Cedex, France",
+        "CEA, LETI, 17 rue des Martyrs, 38054 Grenoble Cedex 9, France",
+        "GLOBALFOUNDRIES Singapore Pte Ltd., 60 Woodlands Industrial Park D Street 2, Singapore 738406, Singapore"
+      ],
+      "journal": "Journal of Applied Physics",
+      "publisher": "American Institute of Physics (AIP Publishing)",
+      "country": [
+        "France",
+        "Singapore",
+        "Spain"
+      ],
+      "author": [
+        "Jose L Gomez-Selles",
+        "Alain Claverie",
+        "Benoit Sklenard",
+        "Francis Benistant",
+        "Ignacio Martin-Bragado"
+      ],
+      "urls": "http://retractionwatch.com/2017/02/14/researchers-disagree-explain-doubts-physics-findings/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2017 0:00",
+      "retractiondoi": "10.1063/1.4974919",
+      "originalpaperdate": "2/1/2015 0:00",
+      "originalpaperdoi": "10.1063/1.4907211",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Results Not Reproducible",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

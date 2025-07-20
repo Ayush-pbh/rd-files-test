@@ -1,51 +1,103 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879b53",
+    "_id": "687ccbab09adbf7aa61ba774",
     "grid_id": "grid.415115.5",
     "institute_name": "Medical Research Institute",
     "country": "Sri Lanka",
     "retracted_record_ids": [
-      "19585",
-      "19661"
+      "19661",
+      "19585"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a501",
-      "Record ID": "19585",
-      "Title": "The Effect of Vitamin D Supplementation on Inflammatory and Hemostatic Markers and Disease Activity in Patients with Systemic Lupus Erythematosus: A Randomized Placebo-controlled Trial",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f89b",
+      "recordId": "19661",
+      "title": "Effect of Low-dose Oral Prednisolone on Symptoms and Systemic Inflammation in Older Adults with Moderate to Severe Knee Osteoarthritis: A Randomized Placebo-controlled Trial",
+      "subject": [
+        "(HSC) Medicine - Geriatric",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Rheumatology Unit, University of Alexandria",
+        "Geriatric Unit, Internal Medicine Department, University of Alexandria",
+        "Orthopaedics Department, University of Alexandria",
+        "Biochemistry Department, Medical Research Institute",
+        "the Alexandria Centre for Women\u2019s Health, Alexandria, Egypt"
+      ],
+      "journal": "The Journal of Rheumatology",
+      "publisher": "The Journal of Rheumatology Publishing Company Limited",
+      "country": [
+        "Egypt"
+      ],
+      "author": [
+        "Anna Abou-Raya",
+        "Suzan Abou-Raya",
+        "Tarek Khadrawi",
+        "Madihah Helmii"
+      ],
+      "urls": "http://retractionwatch.com/2019/01/18/this-is-something-that-we-have-never-seen-before-in-any-study-group-loses-two-more-papers/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "10.3899/jrheum.130199.RET1",
+      "retractionpubmedid": "30504483.0",
+      "originalpaperdate": "1/1/2014 0:00",
+      "originalpaperdoi": "10.3899/jrheum.130199",
+      "originalpaperpubmedid": "24293578.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Concerns/Issues About Data",
+        "+Duplication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "Yes",
+      "year": "2014",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08c1f662220d898f8e7",
+      "recordId": "19585",
+      "title": "The Effect of Vitamin D Supplementation on Inflammatory and Hemostatic Markers and Disease Activity in Patients with Systemic Lupus Erythematosus: A Randomized Placebo-controlled Trial",
+      "subject": [
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Internal Medicine Department, Faculty of Medicine, University of Alexandria",
         "Biochemistry Department, Medical Research Institute",
         "Alexandria Centre for Women\u2019s Health, Alexandria, Egypt"
       ],
-      "Journal": "The Journal of Rheumatology",
-      "Publisher": "The Journal of Rheumatology Publishing Company Limited",
-      "Country": [
+      "journal": "The Journal of Rheumatology",
+      "publisher": "The Journal of Rheumatology Publishing Company Limited",
+      "country": [
         "Egypt"
       ],
-      "Author": [
+      "author": [
         "Anna Abou-Raya",
         "Suzan Abou-Raya",
         "Madihah Helmi"
       ],
-      "URLS": "http://retractionwatch.com/2019/01/18/this-is-something-that-we-have-never-seen-before-in-any-study-group-loses-two-more-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/01/18/this-is-something-that-we-have-never-seen-before-in-any-study-group-loses-two-more-papers/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "10.3899/jrheum.111594.RET1",
-      "RetractionPubMedID": "30504482.0",
-      "OriginalPaperDate": "3/1/2013 0:00",
-      "OriginalPaperDOI": "10.3899/jrheum.111594",
-      "OriginalPaperPubMedID": "23204220.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "10.3899/jrheum.111594.RET1",
+      "retractionpubmedid": "30504482.0",
+      "originalpaperdate": "3/1/2013 0:00",
+      "originalpaperdoi": "10.3899/jrheum.111594",
+      "originalpaperpubmedid": "23204220.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Error in Methods",
@@ -53,82 +105,32 @@
         "+Investigation by Journal/Publisher",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2018,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a4b5",
-      "Record ID": "19661",
-      "Title": "Effect of Low-dose Oral Prednisolone on Symptoms and Systemic Inflammation in Older Adults with Moderate to Severe Knee Osteoarthritis: A Randomized Placebo-controlled Trial",
-      "Subject": [
-        "(HSC) Medicine - Geriatric",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Rheumatology Unit, University of Alexandria",
-        "Geriatric Unit, Internal Medicine Department, University of Alexandria",
-        "Orthopaedics Department, University of Alexandria",
-        "Biochemistry Department, Medical Research Institute",
-        "the Alexandria Centre for Women\u2019s Health, Alexandria, Egypt"
-      ],
-      "Journal": "The Journal of Rheumatology",
-      "Publisher": "The Journal of Rheumatology Publishing Company Limited",
-      "Country": [
-        "Egypt"
-      ],
-      "Author": [
-        "Anna Abou-Raya",
-        "Suzan Abou-Raya",
-        "Tarek Khadrawi",
-        "Madihah Helmii"
-      ],
-      "URLS": "http://retractionwatch.com/2019/01/18/this-is-something-that-we-have-never-seen-before-in-any-study-group-loses-two-more-papers/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "10.3899/jrheum.130199.RET1",
-      "RetractionPubMedID": "30504483.0",
-      "OriginalPaperDate": "1/1/2014 0:00",
-      "OriginalPaperDOI": "10.3899/jrheum.130199",
-      "OriginalPaperPubMedID": "24293578.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Concerns/Issues About Data",
-        "+Duplication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2018,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "Yes",
+      "year": "2013",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -136,10 +138,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

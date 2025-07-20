@@ -1,42 +1,90 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687868a",
+    "_id": "687ccbab09adbf7aa61b92ab",
     "grid_id": "grid.144767.7",
     "institute_name": "Luigi Sacco Hospital",
     "country": "Italy",
     "retracted_record_ids": [
       "54343",
+      "54118",
       "1027",
-      "35610",
-      "54252",
-      "54516",
       "18607",
-      "54118"
+      "54516",
+      "54252",
+      "35610"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341dd2",
-      "Record ID": "54343",
-      "Title": "Noncontiguous finished genome sequence and description of Streptococcus timonensis sp. nov. isolated from the human stomach",
-      "Subject": [
+      "_id": "687cef7d1f662220d898710c",
+      "recordId": "54516",
+      "title": "\u2018Colidextribacter massiliensis\u2019 gen. nov., sp. nov., isolated from human right colon",
+      "subject": [
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Aix-Marseille Universit\u00e9, URMITE, UM63, CNRS7278, IRD198, Inserm 1095, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Marseille, France",
+        "Service de Gastroenterologie, Hopital Nord, Assistance Publique-Hopitaux de Marseille, Marseille, France",
+        "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Milan, Italy"
+      ],
+      "journal": "New Microbes and New Infections",
+      "publisher": "Elsevier",
+      "country": [
+        "France",
+        "Italy"
+      ],
+      "author": [
+        "Davide Ricaboni",
+        "Morgane Mailhe",
+        "Frederique Cadoret",
+        "V\u00e9ronique Vitton",
+        "Pierre \u00c9douard Fournier",
+        "Didier A Raoult"
+      ],
+      "urls": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/3/2024 0:00",
+      "retractiondoi": "10.1016/j.nmni.2024.101282",
+      "retractionpubmedid": "38799865.0",
+      "originalpaperdate": "11/28/2016 0:00",
+      "originalpaperdoi": "10.1016/j.nmni.2016.11.023",
+      "originalpaperpubmedid": "28275436.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Authors' names derived from their Scopus profiles. See also: https://pubpeer.com/publications/AAEA3C3429A58A347B349EEDF6F6E4",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7d1f662220d89871b8",
+      "recordId": "54343",
+      "title": "Noncontiguous finished genome sequence and description of Streptococcus timonensis sp. nov. isolated from the human stomach",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes, CNRS (UMR 7278), IRD (198), INSERM (U1095), AMU (UM63), Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Aix-Marseille Universit\u00e9, Marseille, France",
         "Service de Gastroent\u00e9rologie, H\u00f4pital Nord, Assistance Publique-H\u00f4pitaux de Marseille, Marseille, France",
         "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Milan, Italy",
         "Special Infectious Agents Unit, King Fahd Medical Research Center, King Abdul Aziz University, Jeddah, Saudi Arabia"
       ],
-      "Journal": "New Microbes and New Infections",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "New Microbes and New Infections",
+      "publisher": "Elsevier",
+      "country": [
         "France",
         "Italy",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Davide Ricaboni",
         "Morgane Mailhe",
         "Jean Christophe Lagier",
@@ -48,84 +96,135 @@
         "Didier A Raoult",
         "Matthieu Million"
       ],
-      "URLS": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/4/2024 0:00",
-      "RetractionDOI": "10.1016/j.nmni.2024.101363",
-      "RetractionPubMedID": "38799934.0",
-      "OriginalPaperDate": "11/18/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.nmni.2016.11.013",
-      "OriginalPaperPubMedID": "28050252.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "4/4/2024 0:00",
+      "retractiondoi": "10.1016/j.nmni.2024.101363",
+      "retractionpubmedid": "38799934.0",
+      "originalpaperdate": "11/18/2016 0:00",
+      "originalpaperdoi": "10.1016/j.nmni.2016.11.013",
+      "originalpaperpubmedid": "28050252.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues about Human Subject Welfare",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "Authors' names derived from their Scopus profiles.",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Authors' names derived from their Scopus profiles.",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ecb6",
-      "Record ID": "1027",
-      "Title": "Drug-induced Lupus Erythematosus",
-      "Subject": [
-        "(BLS) Biology - General",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Immunology"
+      "_id": "687cef7d1f662220d8987213",
+      "recordId": "54252",
+      "title": "\u201cIhuprevotella massiliensis\u201d gen. nov., sp. nov., isolated from human gut",
+      "subject": [
+        "(BLS) Microbiology"
       ],
-      "Institution": [
-        "Rheumatology Unit, L Sacco University Hospital, Department of Rheumatology, via GB Grassi 74, Milan, 20157, Italy",
-        "Ospedale Maggiore Policlinico, IRCCS, University of Milan, Department of Internal Medicine, Milan, Italy",
-        "Chair of Rheumatology, University of Padova, Padova, Italy"
+      "institution": [
+        "Aix-Marseille Universit\u00e9, URMITE, UM63, CNRS7278, IRD198, Inserm 1095, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Marseille, France",
+        "Service de Gastroenterologie, Hopital Nord, Assistance Publique-Hopitaux de Marseille, Marseille, France",
+        "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Italy"
       ],
-      "Journal": "Autoimmunity",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "New Microbes and New Infections",
+      "publisher": "Elsevier",
+      "country": [
+        "France",
         "Italy"
       ],
-      "Author": [
-        "Piercarlo Sarzi-Puttini",
-        "Fabiola Atzeni",
-        "Franco Capsoni",
-        "Ennio Lubrano",
-        "Andrea Doria"
+      "author": [
+        "Davide Ricaboni",
+        "Morgane Mailhe",
+        "Alban Benezech",
+        "Pierre \u00c9douard Fournier",
+        "Didier A Raoult",
+        "Saber Khelaifia"
       ],
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/7/2008 0:00",
-      "RetractionDOI": "10.1080/08916930802038194",
-      "RetractionPubMedID": "18365839.0",
-      "OriginalPaperDate": "11/1/2005 0:00",
-      "OriginalPaperDOI": "10.1080/08916930500285857",
-      "OriginalPaperPubMedID": "16373256.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Euphemisms for Misconduct",
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Text"
+      "retractiondate": "4/3/2024 0:00",
+      "retractiondoi": "10.1016/j.nmni.2024.101328",
+      "retractionpubmedid": "38799964.0",
+      "originalpaperdate": "7/29/2016 0:00",
+      "originalpaperdoi": "10.1016/j.nmni.2016.07.008",
+      "originalpaperpubmedid": "27621825.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2008,
-      "year": 2005,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Authors' names derived from their Scopus profiles.",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234669b",
-      "Record ID": "35610",
-      "Title": "Anti TNF therapy in elderly people in IBD: A multicentre survey",
-      "Subject": [
+      "_id": "687cef7d1f662220d8987299",
+      "recordId": "54118",
+      "title": "\u2018Caecibacter massiliensis\u2019 gen. nov., sp. nov., isolated from human right colon",
+      "subject": [
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Aix-Marseille Universit\u00e9, URMITE, UM63, CNRS7278, IRD198, Inserm 1095, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Marseille, France",
+        "Service de Gastroenterologie, Hopital Nord, Assistance Publique-Hopitaux de Marseille, Marseille, France",
+        "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Milan, Italy"
+      ],
+      "journal": "New Microbes and New Infections",
+      "publisher": "Elsevier",
+      "country": [
+        "France",
+        "Italy"
+      ],
+      "author": [
+        "Davide Ricaboni",
+        "Morgane Mailhe",
+        "Alban Benezech",
+        "Frederique Cadoret",
+        "Pierre \u00c9douard Fournier",
+        "Didier A Raoult"
+      ],
+      "urls": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/30/2024 0:00",
+      "retractiondoi": "10.1016/j.nmni.2024.101273",
+      "retractionpubmedid": "38799972.0",
+      "originalpaperdate": "11/24/2016 0:00",
+      "originalpaperdoi": "10.1016/j.nmni.2016.11.021",
+      "originalpaperpubmedid": "28275437.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Authors' names derived from their Scopus profiles. See also: https://pubpeer.com/publications/C96B1880E4D8B7A38B0E21CEAA375E",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898ba81",
+      "recordId": "35610",
+      "title": "Anti TNF therapy in elderly people in IBD: A multicentre survey",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "University of Palermo, Palermo, Italy",
         "Opspedale S. Camillo, Roma, Italy",
         "Ospedale Mauriziano, Torino, Italy",
@@ -141,12 +240,12 @@
         "University of Napoli, Napoli, Italy",
         "Ospedale V. Cervello, Palermo, Italy"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "M Cottone",
         "A Kohn",
         "M Daperno",
@@ -164,142 +263,49 @@
         "F Castiglione",
         "A Orlando"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341e2d",
-      "Record ID": "54252",
-      "Title": "\u201cIhuprevotella massiliensis\u201d gen. nov., sp. nov., isolated from human gut",
-      "Subject": [
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Aix-Marseille Universit\u00e9, URMITE, UM63, CNRS7278, IRD198, Inserm 1095, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Marseille, France",
-        "Service de Gastroenterologie, Hopital Nord, Assistance Publique-Hopitaux de Marseille, Marseille, France",
-        "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Italy"
-      ],
-      "Journal": "New Microbes and New Infections",
-      "Publisher": "Elsevier",
-      "Country": [
-        "France",
-        "Italy"
-      ],
-      "Author": [
-        "Davide Ricaboni",
-        "Morgane Mailhe",
-        "Alban Benezech",
-        "Pierre \u00c9douard Fournier",
-        "Didier A Raoult",
-        "Saber Khelaifia"
-      ],
-      "URLS": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/3/2024 0:00",
-      "RetractionDOI": "10.1016/j.nmni.2024.101328",
-      "RetractionPubMedID": "38799964.0",
-      "OriginalPaperDate": "7/29/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.nmni.2016.07.008",
-      "OriginalPaperPubMedID": "27621825.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Authors' names derived from their Scopus profiles.",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2341d26",
-      "Record ID": "54516",
-      "Title": "\u2018Colidextribacter massiliensis\u2019 gen. nov., sp. nov., isolated from human right colon",
-      "Subject": [
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Aix-Marseille Universit\u00e9, URMITE, UM63, CNRS7278, IRD198, Inserm 1095, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Marseille, France",
-        "Service de Gastroenterologie, Hopital Nord, Assistance Publique-Hopitaux de Marseille, Marseille, France",
-        "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Milan, Italy"
-      ],
-      "Journal": "New Microbes and New Infections",
-      "Publisher": "Elsevier",
-      "Country": [
-        "France",
-        "Italy"
-      ],
-      "Author": [
-        "Davide Ricaboni",
-        "Morgane Mailhe",
-        "Frederique Cadoret",
-        "V\u00e9ronique Vitton",
-        "Pierre \u00c9douard Fournier",
-        "Didier A Raoult"
-      ],
-      "URLS": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/3/2024 0:00",
-      "RetractionDOI": "10.1016/j.nmni.2024.101282",
-      "RetractionPubMedID": "38799865.0",
-      "OriginalPaperDate": "11/28/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.nmni.2016.11.023",
-      "OriginalPaperPubMedID": "28275436.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Authors' names derived from their Scopus profiles. See also: https://pubpeer.com/publications/AAEA3C3429A58A347B349EEDF6F6E4",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234a8cd",
-      "Record ID": "18607",
-      "Title": "Pain in systemic sclerosis",
-      "Subject": [
+      "_id": "687cf0911f662220d898fcb3",
+      "recordId": "18607",
+      "title": "Pain in systemic sclerosis",
+      "subject": [
         "(HSC) Medicine - Orthopedics"
       ],
-      "Institution": [
+      "institution": [
         "Unit of Rheumatology, A.O. G. Rummo, Benevento",
         "Unit of Rheumatology, L. Sacco University Hospital, Milan",
         "Unit of Rheumatology, Ospedale San Giovanni di Dio, Florence",
         "Unit of Rheumatology, University of Siena, Italy"
       ],
-      "Journal": "Reumatismo",
-      "Publisher": "PAGEPress",
-      "Country": [
+      "journal": "Reumatismo",
+      "publisher": "PAGEPress",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Stefano Stisi",
         "Piercarlo Sarzi-Puttini",
         "M Benucci",
@@ -308,80 +314,81 @@
         "Rosella Talotta",
         "Fabiola Atzeni"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "7/6/2018 0:00",
-      "RetractionDOI": "10.4081/reumatismo.2018.1171",
-      "RetractionPubMedID": "29976050.0",
-      "OriginalPaperDate": "6/6/2014 0:00",
-      "OriginalPaperDOI": "10.4081/reumatismo.2014.764",
-      "OriginalPaperPubMedID": "24938196.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/6/2018 0:00",
+      "retractiondoi": "10.4081/reumatismo.2018.1171",
+      "retractionpubmedid": "29976050.0",
+      "originalpaperdate": "6/6/2014 0:00",
+      "originalpaperdoi": "10.4081/reumatismo.2014.764",
+      "originalpaperpubmedid": "24938196.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341eb3",
-      "Record ID": "54118",
-      "Title": "\u2018Caecibacter massiliensis\u2019 gen. nov., sp. nov., isolated from human right colon",
-      "Subject": [
-        "(BLS) Microbiology"
+      "_id": "687cf0d51f662220d899409c",
+      "recordId": "1027",
+      "title": "Drug-induced Lupus Erythematosus",
+      "subject": [
+        "(BLS) Biology - General",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
-        "Aix-Marseille Universit\u00e9, URMITE, UM63, CNRS7278, IRD198, Inserm 1095, Institut Hospitalo-Universitaire M\u00e9diterran\u00e9e-Infection, Facult\u00e9 de m\u00e9decine, Marseille, France",
-        "Service de Gastroenterologie, Hopital Nord, Assistance Publique-Hopitaux de Marseille, Marseille, France",
-        "Department of Biomedical and Clinical Sciences, 3rd Division of Clinical Infectious Disease, University of Milan, Luigi Sacco Hospital, Milan, Italy"
+      "institution": [
+        "Rheumatology Unit, L Sacco University Hospital, Department of Rheumatology, via GB Grassi 74, Milan, 20157, Italy",
+        "Ospedale Maggiore Policlinico, IRCCS, University of Milan, Department of Internal Medicine, Milan, Italy",
+        "Chair of Rheumatology, University of Padova, Padova, Italy"
       ],
-      "Journal": "New Microbes and New Infections",
-      "Publisher": "Elsevier",
-      "Country": [
-        "France",
+      "journal": "Autoimmunity",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Italy"
       ],
-      "Author": [
-        "Davide Ricaboni",
-        "Morgane Mailhe",
-        "Alban Benezech",
-        "Frederique Cadoret",
-        "Pierre \u00c9douard Fournier",
-        "Didier A Raoult"
+      "author": [
+        "Piercarlo Sarzi-Puttini",
+        "Fabiola Atzeni",
+        "Franco Capsoni",
+        "Ennio Lubrano",
+        "Andrea Doria"
       ],
-      "URLS": "https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/30/2024 0:00",
-      "RetractionDOI": "10.1016/j.nmni.2024.101273",
-      "RetractionPubMedID": "38799972.0",
-      "OriginalPaperDate": "11/24/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.nmni.2016.11.021",
-      "OriginalPaperPubMedID": "28275437.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Investigation by Journal/Publisher"
+      "retractiondate": "7/7/2008 0:00",
+      "retractiondoi": "10.1080/08916930802038194",
+      "retractionpubmedid": "18365839.0",
+      "originalpaperdate": "11/1/2005 0:00",
+      "originalpaperdoi": "10.1080/08916930500285857",
+      "originalpaperpubmedid": "16373256.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Euphemisms for Misconduct",
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "Notes": "Authors' names derived from their Scopus profiles. See also: https://pubpeer.com/publications/C96B1880E4D8B7A38B0E21CEAA375E",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2008",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -389,54 +396,54 @@
     {
       "year": 2008,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 4
+      "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -444,10 +451,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -455,10 +462,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

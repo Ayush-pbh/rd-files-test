@@ -1,37 +1,91 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a051",
+    "_id": "687ccbab09adbf7aa61bac72",
     "grid_id": "grid.415858.5",
     "institute_name": "Regions Hospital",
     "country": "United States",
     "retracted_record_ids": [
-      "3813",
-      "3872"
+      "3872",
+      "3813"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e213",
-      "Record ID": "3813",
-      "Title": "Intranasal Insulin Ameliorates Experimental Diabetic Neuropathy",
-      "Subject": [
+      "_id": "687cf0c91f662220d89935c0",
+      "recordId": "3872",
+      "title": "Comparison of central versus peripheral delivery of pregabalin in neuropathic pain states",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Diabetes",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Clinical Neurosciences and the University of Calgary, Calgary, AB, Canada",
+        "Alzheimer\u2019s Research Center, Regions Hospital, and Health Partners Research Foundation, St. Paul, MN, USA",
+        "Department of Pharmaceutics, University of Minnesota, Minneapolis, MN, USA"
+      ],
+      "journal": "Molecular Pain",
+      "publisher": "SAGE Publications",
+      "country": [
+        "Canada",
+        "United States"
+      ],
+      "author": [
+        "Jose A Martinez",
+        "Manami Kasamatsu",
+        "Alma Rosales-Hernandez",
+        "Leah R Hanson",
+        "William H Frey II",
+        "Cory C Toth"
+      ],
+      "urls": "http://retractionwatch.com/2014/04/07/pain-study-retracted-for-bogus-data-is-second-withdrawal-for-university-of-calgary-group/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2014 0:00",
+      "retractiondoi": "10.1186/1744-8069-10-20",
+      "retractionpubmedid": "24693924.0",
+      "originalpaperdate": "1/1/2012 0:00",
+      "originalpaperdoi": "10.1186/1744-8069-8-3",
+      "originalpaperpubmedid": "22236461.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d89935f9",
+      "recordId": "3813",
+      "title": "Intranasal Insulin Ameliorates Experimental Diabetic Neuropathy",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Diabetes",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical Neurosciences, University of Calgary, Calgary, Alberta, Canada",
         "Hotchkiss Brain Institute, University of Calgary, Calgary, Alberta, Canada",
         "Alzheimer's Research Center, Regions Hospital, St. Paul, Minnesota, USA",
         "Department of Pharmaceutics, University of Minnesota, St. Paul, Minnesota, USA"
       ],
-      "Journal": "Diabetes",
-      "Publisher": "American Diabetes Association",
-      "Country": [
+      "journal": "Diabetes",
+      "publisher": "American Diabetes Association",
+      "country": [
         "Canada",
         "United States"
       ],
-      "Author": [
+      "author": [
         "George J Francis",
         "Jose Martinez",
         "Wei Liu",
@@ -43,100 +97,48 @@
         "William H Frey II",
         "Cory C Toth"
       ],
-      "URLS": "http://retractionwatch.com/2014/05/09/more-retractions-for-researcher-who-says-he-will-no-longer-publish/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/05/09/more-retractions-for-researcher-who-says-he-will-no-longer-publish/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/1/2014 0:00",
-      "RetractionDOI": "10.2337/db14-rt05a",
-      "RetractionPubMedID": "24757204.0",
-      "OriginalPaperDate": "4/1/2009 0:00",
-      "OriginalPaperDOI": "10.2337/db08-1287",
-      "OriginalPaperPubMedID": "19136650.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/1/2014 0:00",
+      "retractiondoi": "10.2337/db14-rt05a",
+      "retractionpubmedid": "24757204.0",
+      "originalpaperdate": "4/1/2009 0:00",
+      "originalpaperdoi": "10.2337/db08-1287",
+      "originalpaperpubmedid": "19136650.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2009,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e1da",
-      "Record ID": "3872",
-      "Title": "Comparison of central versus peripheral delivery of pregabalin in neuropathic pain states",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Diabetes",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Clinical Neurosciences and the University of Calgary, Calgary, AB, Canada",
-        "Alzheimer\u2019s Research Center, Regions Hospital, and Health Partners Research Foundation, St. Paul, MN, USA",
-        "Department of Pharmaceutics, University of Minnesota, Minneapolis, MN, USA"
-      ],
-      "Journal": "Molecular Pain",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "Jose A Martinez",
-        "Manami Kasamatsu",
-        "Alma Rosales-Hernandez",
-        "Leah R Hanson",
-        "William H Frey II",
-        "Cory C Toth"
-      ],
-      "URLS": "http://retractionwatch.com/2014/04/07/pain-study-retracted-for-bogus-data-is-second-withdrawal-for-university-of-calgary-group/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2014 0:00",
-      "RetractionDOI": "10.1186/1744-8069-10-20",
-      "RetractionPubMedID": "24693924.0",
-      "OriginalPaperDate": "1/1/2012 0:00",
-      "OriginalPaperDOI": "10.1186/1744-8069-8-3",
-      "OriginalPaperPubMedID": "22236461.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -144,10 +146,10 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

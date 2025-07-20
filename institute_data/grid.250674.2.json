@@ -1,43 +1,43 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877f03",
+    "_id": "687ccbab09adbf7aa61b8b24",
     "grid_id": "grid.250674.2",
     "institute_name": "Lunenfeld-Tanenbaum Research Institute",
     "country": "Canada",
     "retracted_record_ids": [
+      "60342",
       "61011",
-      "60340",
-      "7962",
       "5387",
+      "60340",
       "2078",
-      "60341",
-      "60342"
+      "7962",
+      "60341"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23403cf",
-      "Record ID": "61011",
-      "Title": "A mechanism for the suppression of homologous recombination in G1 cells",
-      "Subject": [
+      "_id": "687cef631f662220d89857b5",
+      "recordId": "61011",
+      "title": "A mechanism for the suppression of homologous recombination in G1 cells",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, M5G 1X5, Ontario, Canada",
         "Department of Biology, ETH Zurich, Institute of Biochemistry, Otto-Stern-Weg 3, Zurich, CH-8093, Switzerland",
         "Department of Molecular Genetics, University of Toronto, Ontario, M5S 3E1, Canada",
         "Departments of Pathology and Biochemistry & Molecular Biology, Dalhousie University, Halifax, B3H 4R2, Nova Scotia, Canada",
         "Department of Radiation Oncology, Rutgers Cancer Institute of New Jersey and Robert Wood Johnson Medical School, Rutgers, The State University of New Jersey, New Brunswick, 08901, New Jersey, USA"
       ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Canada",
         "Switzerland",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Alexandre Orthwein",
         "Sylvie M Noordermeer",
         "Marcus D Wilson",
@@ -52,46 +52,103 @@
         "Matthias Peter",
         "Daniel Durocher"
       ],
-      "URLS": "https://retractionwatch.com/?s=Daniel+Durocher",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=Daniel+Durocher",
+      "articletype": [
         "Letter",
         "Research Article"
       ],
-      "RetractionDate": "1/27/2025 0:00",
-      "RetractionDOI": "10.1038/s41586-025-08644-5",
-      "RetractionPubMedID": "39870925.0",
-      "OriginalPaperDate": "12/9/2015 0:00",
-      "OriginalPaperDOI": "10.1038/nature16142",
-      "OriginalPaperPubMedID": "26649820.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/27/2025 0:00",
+      "retractiondoi": "10.1038/s41586-025-08644-5",
+      "retractionpubmedid": "39870925.0",
+      "originalpaperdate": "12/9/2015 0:00",
+      "originalpaperdoi": "10.1038/nature16142",
+      "originalpaperpubmedid": "26649820.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234066e",
-      "Record ID": "60340",
-      "Title": "Mitosis Inhibits DNA Double-Strand Break Repair to Guard Against Telomere Fusions",
-      "Subject": [
+      "_id": "687cef651f662220d8985a52",
+      "recordId": "60342",
+      "title": "Orchestration of the DNA-Damage Response by the RNF8 Ubiquitin Ligase",
+      "subject": [
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Samuel Lunenfeld Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, M5G 1X5, Ontario, Canada",
+        "The Wellcome Trust and Cancer Research UK Gurdon Institute, and the Department of Zoology, University of Cambridge, Tennis Court Road, Cambridge CB2 1QN, UK",
+        "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada",
+        "Department of Molecular and Cellular Biology, Instituto de Biolog\u00eda Molecular de Barcelona c. Jordi Girona 18-2608034 Barcelona, Spain"
+      ],
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
+        "Canada",
+        "Spain",
+        "United Kingdom"
+      ],
+      "author": [
+        "Nadine K Kolas",
+        "Ross Chapman",
+        "Shinichiro Nakada",
+        "Jarkko Ylanko",
+        "Richard Chahwan",
+        "Fr\u00e9d\u00e9ric D Sweeney",
+        "Stephanie Panier",
+        "Megan Mendez",
+        "Jan Wildenhain",
+        "Timothy M Thomson",
+        "Laurence Pelletier",
+        "Stephen P Jackson",
+        "Daniel Durocher"
+      ],
+      "urls": "https://retractionwatch.com/2024/12/05/science-places-expressions-of-concern-on-two-articles-as-torontos-sinai-health-investigates/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/5/2024 0:00",
+      "retractiondoi": "10.1126/science.adu7744",
+      "retractionpubmedid": "39637007.0",
+      "originalpaperdate": "12/7/2007 0:00",
+      "originalpaperdoi": "10.1126/science.1150034",
+      "originalpaperpubmedid": "18006705.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef651f662220d8985a53",
+      "recordId": "60341",
+      "title": "Mitosis Inhibits DNA Double-Strand Break Repair to Guard Against Telomere Fusions",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, Ontario M5G 1X5, Canada",
         "Department of Molecular Genetics, University of Toronto, Ontario M5S 3E1, Canada"
       ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "Canada"
       ],
-      "Author": [
+      "author": [
         "Alexandre Orthwein",
         "Am\u00e9lie Fradet-Turcotte",
         "Sylvie M Noordermeer",
@@ -101,18 +158,68 @@
         "Cristina Escribano-Diaz",
         "Daniel Durocher"
       ],
-      "URLS": "https://retractionwatch.com/2025/01/09/science-retraction-toronto-orthwein-durocher/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2025/01/09/science-retraction-toronto-orthwein-durocher/;https://retractionwatch.com/2024/12/05/science-places-expressions-of-concern-on-two-articles-as-torontos-sinai-health-investigates/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/9/2025 0:00",
-      "RetractionDOI": "10.1126/science.adv1263",
-      "RetractionPubMedID": "39787242.0",
-      "OriginalPaperDate": "3/20/2014 0:00",
-      "OriginalPaperDOI": "10.1126/science.1248024",
-      "OriginalPaperPubMedID": "24652939.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/5/2024 0:00",
+      "retractiondoi": "10.1126/science.adu7951",
+      "retractionpubmedid": "39637004.0",
+      "originalpaperdate": "3/20/2014 0:00",
+      "originalpaperdoi": "10.1126/science.1248024",
+      "originalpaperpubmedid": "24652939.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Lack of Approval from Company/Institution",
+        "+Lack of Approval from Third Party",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef651f662220d8985a54",
+      "recordId": "60340",
+      "title": "Mitosis Inhibits DNA Double-Strand Break Repair to Guard Against Telomere Fusions",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, Ontario M5G 1X5, Canada",
+        "Department of Molecular Genetics, University of Toronto, Ontario M5S 3E1, Canada"
+      ],
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
+        "Canada"
+      ],
+      "author": [
+        "Alexandre Orthwein",
+        "Am\u00e9lie Fradet-Turcotte",
+        "Sylvie M Noordermeer",
+        "Marella D Canny",
+        "Catherine M Brun",
+        "Jonathan Strecker",
+        "Cristina Escribano-Diaz",
+        "Daniel Durocher"
+      ],
+      "urls": "https://retractionwatch.com/2025/01/09/science-retraction-toronto-orthwein-durocher/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/9/2025 0:00",
+      "retractiondoi": "10.1126/science.adv1263",
+      "retractionpubmedid": "39787242.0",
+      "originalpaperdate": "3/20/2014 0:00",
+      "originalpaperdoi": "10.1126/science.1248024",
+      "originalpaperpubmedid": "24652939.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
@@ -121,20 +228,21 @@
         "+Unreliable Results and/or Conclusions",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d224",
-      "Record ID": "7962",
-      "Title": "Circulating plant miRNAs can regulate human gene expression in vitro",
-      "Subject": [
+      "_id": "687cf0b91f662220d899260a",
+      "recordId": "7962",
+      "title": "Circulating plant miRNAs can regulate human gene expression in vitro",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Obstetrics/Gynecology"
       ],
-      "Institution": [
+      "institution": [
         "IBM Life Sciences Discovery Centre, Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, Canada",
         "Lunenfeld Tanenbaum Research Institute, Toronto, Ontario, Canada",
         "Department of Obstetrics and Gynecology, Physiology, University of Toronto, Toronto, Ontario, Canada",
@@ -145,14 +253,14 @@
         "Institute of Neuroimmunology, Slovak Academy of Sciences, Bratislava, Slovak Republic",
         "Departments of Medical Biophysics and Computer Science, University of Toronto, Toronto, Ontario, Canada"
       ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Scientific Reports",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "Canada",
         "Italy",
         "Slovakia"
       ],
-      "Author": [
+      "author": [
         "Chiara Pastrello",
         "MIke Tsay",
         "Rosanne McQuaid",
@@ -168,46 +276,47 @@
         "Ahmed El-Sohemy",
         "Igor Jurisica"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/23/instead-retracting-flawed-study-journal-let-authors-re-got-retracted-anyway/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/23/instead-retracting-flawed-study-journal-let-authors-re-got-retracted-anyway/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/22/2017 0:00",
-      "RetractionDOI": "10.1038/srep46826",
-      "RetractionPubMedID": "28530244.0",
-      "OriginalPaperDate": "9/8/2016 0:00",
-      "OriginalPaperDOI": "10.1038/srep32773",
-      "OriginalPaperPubMedID": "27604570.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/22/2017 0:00",
+      "retractiondoi": "10.1038/srep46826",
+      "retractionpubmedid": "28530244.0",
+      "originalpaperdate": "9/8/2016 0:00",
+      "originalpaperdoi": "10.1038/srep32773",
+      "originalpaperpubmedid": "27604570.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "Notes": "1. Concerns raised by reader",
-      "notice_year": 2017,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "1. Concerns raised by reader",
+      "year": "2016",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dc0b",
-      "Record ID": "5387",
-      "Title": "GSK-3beta in mouse fibroblasts controls wound healing and fibrosis through an endothelin-1\u2013dependent mechanism",
-      "Subject": [
+      "_id": "687cf0c31f662220d8992ff1",
+      "recordId": "5387",
+      "title": "GSK-3beta in mouse fibroblasts controls wound healing and fibrosis through an endothelin-1\u2013dependent mechanism",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Division of Oral Biology and Department of Physiology and Pharmacology, University of Western Ontario, London, Ontario, Canada",
         "Centre for Rheumatology, University College London, London, United Kingdom",
         "Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
         "Canada",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Mohit Kapoor",
         "Shangxi Liu",
         "Xu Shi-wen",
@@ -218,35 +327,36 @@
         "David J Abraham",
         "Andrew Leask"
       ],
-      "URLS": "http://retractionwatch.com/2016/09/23/author-asks-to-retract-nearly-20-year-old-paper-over-figure-questions-lack-of-data/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/09/23/author-asks-to-retract-nearly-20-year-old-paper-over-figure-questions-lack-of-data/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/3/2008 0:00",
-      "RetractionDOI": "10.1172/JCI35381R1",
-      "RetractionPubMedID": "19043845.0",
-      "OriginalPaperDate": "9/18/2008 0:00",
-      "OriginalPaperDOI": "10.1172/JCI35381",
-      "OriginalPaperPubMedID": "18802478.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/3/2008 0:00",
+      "retractiondoi": "10.1172/JCI35381R1",
+      "retractionpubmedid": "19043845.0",
+      "originalpaperdate": "9/18/2008 0:00",
+      "originalpaperdoi": "10.1172/JCI35381",
+      "originalpaperpubmedid": "18802478.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+False/Forged Authorship"
       ],
-      "Paywalled": "No",
-      "notice_year": 2008,
-      "year": 2008,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2008",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e8b2",
-      "Record ID": "2078",
-      "Title": "Risk factors for ovarian cancers with and without microsatellite instability.",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c98",
+      "recordId": "2078",
+      "title": "Risk factors for ovarian cancers with and without microsatellite instability.",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Women\u2019s College Research Institute, Familial Breast Cancer Research, 790 Bay Street, Toronto, Ontario, M5G 1N8",
         "Canada Department of Obstetrics and Gynecology, University of Toronto and Gynecologic Oncology, Princess Margaret Hospital, Toronto, Ontario, M5G 2M9, Canada",
         "Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, ON, Canada",
@@ -254,13 +364,13 @@
         "Department of Chronic Disease Epidemiology, Yale School of Public Health, 60 College Street, PO Box 208034, New Haven, CT 06520, USA",
         "Duke University, Duke School of Medicine, Durham, NC, U.S.A"
       ],
-      "Journal": "International Journal of Gynecological Cancer",
-      "Publisher": "Wolters Kluwer",
-      "Country": [
+      "journal": "International Journal of Gynecological Cancer",
+      "publisher": "Wolters Kluwer",
+      "country": [
         "Canada",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Yakir Segev",
         "Tuya Pal",
         "Barry Rosen",
@@ -272,203 +382,100 @@
         "Steven Narod",
         "Joellen Schildkraut"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "9/1/2014 0:00",
-      "RetractionDOI": "10.1097/IGC.0000000000000255",
-      "RetractionPubMedID": "25153679.0",
-      "OriginalPaperDate": "7/1/2013 0:00",
-      "OriginalPaperDOI": "10.1097/IGC.0b013e31829a5527",
-      "OriginalPaperPubMedID": "23748177.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/1/2014 0:00",
+      "retractiondoi": "10.1097/IGC.0000000000000255",
+      "retractionpubmedid": "25153679.0",
+      "originalpaperdate": "7/1/2013 0:00",
+      "originalpaperdoi": "10.1097/IGC.0b013e31829a5527",
+      "originalpaperpubmedid": "23748177.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2013,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d234066d",
-      "Record ID": "60341",
-      "Title": "Mitosis Inhibits DNA Double-Strand Break Repair to Guard Against Telomere Fusions",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, Ontario M5G 1X5, Canada",
-        "Department of Molecular Genetics, University of Toronto, Ontario M5S 3E1, Canada"
-      ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
-        "Canada"
-      ],
-      "Author": [
-        "Alexandre Orthwein",
-        "Am\u00e9lie Fradet-Turcotte",
-        "Sylvie M Noordermeer",
-        "Marella D Canny",
-        "Catherine M Brun",
-        "Jonathan Strecker",
-        "Cristina Escribano-Diaz",
-        "Daniel Durocher"
-      ],
-      "URLS": "https://retractionwatch.com/2025/01/09/science-retraction-toronto-orthwein-durocher/;https://retractionwatch.com/2024/12/05/science-places-expressions-of-concern-on-two-articles-as-torontos-sinai-health-investigates/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/5/2024 0:00",
-      "RetractionDOI": "10.1126/science.adu7951",
-      "RetractionPubMedID": "39637004.0",
-      "OriginalPaperDate": "3/20/2014 0:00",
-      "OriginalPaperDOI": "10.1126/science.1248024",
-      "OriginalPaperPubMedID": "24652939.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Lack of Approval from Company/Institution",
-        "+Lack of Approval from Third Party",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2014,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234066c",
-      "Record ID": "60342",
-      "Title": "Orchestration of the DNA-Damage Response by the RNF8 Ubiquitin Ligase",
-      "Subject": [
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Samuel Lunenfeld Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, M5G 1X5, Ontario, Canada",
-        "The Wellcome Trust and Cancer Research UK Gurdon Institute, and the Department of Zoology, University of Cambridge, Tennis Court Road, Cambridge CB2 1QN, UK",
-        "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada",
-        "Department of Molecular and Cellular Biology, Instituto de Biolog\u00eda Molecular de Barcelona c. Jordi Girona 18-2608034 Barcelona, Spain"
-      ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
-        "Canada",
-        "Spain",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Nadine K Kolas",
-        "Ross Chapman",
-        "Shinichiro Nakada",
-        "Jarkko Ylanko",
-        "Richard Chahwan",
-        "Fr\u00e9d\u00e9ric D Sweeney",
-        "Stephanie Panier",
-        "Megan Mendez",
-        "Jan Wildenhain",
-        "Timothy M Thomson",
-        "Laurence Pelletier",
-        "Stephen P Jackson",
-        "Daniel Durocher"
-      ],
-      "URLS": "https://retractionwatch.com/2024/12/05/science-places-expressions-of-concern-on-two-articles-as-torontos-sinai-health-investigates/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/5/2024 0:00",
-      "RetractionDOI": "10.1126/science.adu7744",
-      "RetractionPubMedID": "39637007.0",
-      "OriginalPaperDate": "12/7/2007 0:00",
-      "OriginalPaperDOI": "10.1126/science.1150034",
-      "OriginalPaperPubMedID": "18006705.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2007,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2014",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 1,
-      "integrity": 1
-    },
-    {
-      "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2015,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -476,10 +483,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -487,10 +494,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

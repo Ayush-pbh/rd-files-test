@@ -1,49 +1,49 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068788ff",
+    "_id": "687ccbab09adbf7aa61b9520",
     "grid_id": "grid.469939.8",
     "institute_name": "Islamic Azad University, Lahijan Branch",
     "country": "Iran",
     "retracted_record_ids": [
+      "21378",
       "52394",
+      "40244",
+      "40243",
+      "22950",
+      "21484",
+      "21379",
+      "21068",
       "22949",
       "21486",
-      "40243",
-      "21484",
-      "21378",
-      "21379",
-      "21485",
-      "21068",
+      "21069",
       "22152",
-      "22950",
-      "40244",
-      "21069"
+      "21485"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234255b",
-      "Record ID": "52394",
-      "Title": "Structural equation modeling to estimate treatment adherence based on the light triad of personality and sense of coherence in patients with type-2 diabetes: examining the mediating role of psychological well-being",
-      "Subject": [
+      "_id": "687cef851f662220d8987941",
+      "recordId": "52394",
+      "title": "Structural equation modeling to estimate treatment adherence based on the light triad of personality and sense of coherence in patients with type-2 diabetes: examining the mediating role of psychological well-being",
+      "subject": [
         "(HSC) Medicine - Alternative",
         "(HSC) Medicine - Diabetes",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(PHY) Mathematics",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Nursing and Midwifery, Rasht Branch, Islamic Azad University, Rasht, Iran",
         "Lahijan Branch, Islamic Azad University, Lahijan, Iran",
         "Rasht Branch, Islamic Azad University, Rasht, Iran",
         "Department of Statistics, Faculty of Mathematical Sciences, Shahid Beheshti University, Tehran, Iran"
       ],
-      "Journal": "Frontiers in Psychology",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers",
+      "country": [
         "Iran"
       ],
-      "Author": [
+      "author": [
         "Seyedeh Maryam Mousavi",
         "Seyedeh Masoumeh Bagheri",
         "Nasrin Jalali Heris",
@@ -51,414 +51,226 @@
         "Mozhdeh Azarian",
         "Mohammadreza Kordbagheri"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2024 0:00",
-      "RetractionDOI": "10.3389/fpsyg.2024.1375204",
-      "RetractionPubMedID": "38371707.0",
-      "OriginalPaperDate": "11/26/2023 0:00",
-      "OriginalPaperDOI": "10.3389/fpsyg.2023.1285808",
-      "OriginalPaperPubMedID": "38090178.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2024 0:00",
+      "retractiondoi": "10.3389/fpsyg.2024.1375204",
+      "retractionpubmedid": "38371707.0",
+      "originalpaperdate": "11/26/2023 0:00",
+      "originalpaperdoi": "10.3389/fpsyg.2023.1285808",
+      "originalpaperpubmedid": "38090178.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Investigation by Journal/Publisher",
         "+Objections by Author(s)",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23497ec",
-      "Record ID": "22949",
-      "Title": "Factors affecting the demand for medicinal plants: Implications for rural development in Rasht, Iran",
-      "Subject": [
+      "_id": "687cefb21f662220d898a888",
+      "recordId": "40244",
+      "title": "Environmental Impact of Peanut (Arachis hypogaea L.) Production under Different Levels of Nitrogen Fertilization",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht 3516-41335, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, Orestiada 68200, Greece"
+      ],
+      "journal": "Agriculture",
+      "publisher": "MDPI",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "Seyyed Ali Noorhosseini",
+        "Christos A Damalas"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/29/2022 0:00",
+      "retractiondoi": "10.3390/agriculture12101571",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/2/2018 0:00",
+      "originalpaperdoi": "10.3390/agriculture8070104",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb21f662220d898a889",
+      "recordId": "40243",
+      "title": "Farmers\u2019 Technical Knowledge about Integrated Pest Management (IPM) in Olive Production",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, 41476-54919 Rasht, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, GR-682 00 Orestiada, Greece"
+      ],
+      "journal": "Agriculture",
+      "publisher": "MDPI",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "Mohammad S Allahyari",
+        "Christos A Damalas",
+        "Mehdi Ebadattalab"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/29/2022 0:00",
+      "retractiondoi": "10.3390/agriculture12101572",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/5/2017 0:00",
+      "originalpaperdoi": "10.3390/agriculture7120101",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0121f662220d898ebd1",
+      "recordId": "22950",
+      "title": "Double cropping in paddy fields of northern Iran: Current trends and determinants of adoption",
+      "subject": [
+        "(BLS) Agriculture"
+      ],
+      "institution": [
+        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, GR-682 00 Orestiada, Greece",
+        "Department of Agronomy, Rasht Branch, Islamic Azad University, Rasht, Iran"
+      ],
+      "journal": "Land Use Policy",
+      "publisher": "Elsevier",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "V Toorminaee",
+        "Mohammad Sadegh Allahyari",
+        "Christos A Damalas",
+        "Hashem Aminpanah"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "3/31/2020 0:00",
+      "retractiondoi": "10.1016/j.landusepol.2020.104603",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/22/2016 0:00",
+      "originalpaperdoi": "10.1016/j.landusepol.2016.12.013",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0121f662220d898ebd2",
+      "recordId": "22949",
+      "title": "Factors affecting the demand for medicinal plants: Implications for rural development in Rasht, Iran",
+      "subject": [
         "(BLS) Agriculture",
         "(BLS) Plant Biology/Botany",
         "(HSC) Medicine - Alternative"
       ],
-      "Institution": [
+      "institution": [
         "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht, Iran",
         "Department of Agricultural Economics, Shiraz University, Shiraz, Iran",
         "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
         "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran"
       ],
-      "Journal": "Land Use Policy",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Land Use Policy",
+      "publisher": "Elsevier",
+      "country": [
         "Greece",
         "Iran"
       ],
-      "Author": [
+      "author": [
         "Seyyed Ali Noorhosseini",
         "Esmaeil Fallahi",
         "Christos A Damalas",
         "Mohammad Sadegh Allahyari"
       ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/31/2020 0:00",
-      "RetractionDOI": "10.1016/j.landusepol.2020.104604",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/17/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.landusepol.2017.07.058",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/31/2020 0:00",
+      "retractiondoi": "10.1016/j.landusepol.2020.104604",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/17/2017 0:00",
+      "originalpaperdoi": "10.1016/j.landusepol.2017.07.058",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2017,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349d9e",
-      "Record ID": "21486",
-      "Title": "Technical performance of Plant Clinics as providers of crop protection services: The case of Guilan Province, Iran",
-      "Subject": [
-        "(BLS) Agriculture"
-      ],
-      "Institution": [
-        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
-        "Department of Agricultural Economics, Faculty of Agricultural Sciences, University of Guilan, Rasht, Iran"
-      ],
-      "Journal": "Crop Protection",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Roya Azimi",
-        "Mohammad Sadegh Allahyari",
-        "Christos A Damalas",
-        "Mohammad Kavoosi-Kalashami"
-      ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/4/2020 0:00",
-      "RetractionDOI": "10.1016/j.cropro.2020.105093",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/19/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.cropro.2017.07.007",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23454a3",
-      "Record ID": "40243",
-      "Title": "Farmers\u2019 Technical Knowledge about Integrated Pest Management (IPM) in Olive Production",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, 41476-54919 Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, GR-682 00 Orestiada, Greece"
-      ],
-      "Journal": "Agriculture",
-      "Publisher": "MDPI",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Mohammad S Allahyari",
-        "Christos A Damalas",
-        "Mehdi Ebadattalab"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/29/2022 0:00",
-      "RetractionDOI": "10.3390/agriculture12101572",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/5/2017 0:00",
-      "OriginalPaperDOI": "10.3390/agriculture7120101",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349da0",
-      "Record ID": "21484",
-      "Title": "Crop insurance as a risk management tool in agriculture: The case of silk farmers in northern Iran",
-      "Subject": [
-        "(B/T) Business - Accounting",
-        "(BLS) Agriculture"
-      ],
-      "Institution": [
-        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, GR-682 00 Orestiada, Greece",
-        "Department of Animal Husbandry, Rasht Branch, Islamic Azad University, Rasht, Iran"
-      ],
-      "Journal": "Land Use Policy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Majid Farzaneh",
-        "Mohammad Sadegh Allahyari",
-        "Christos A Damalas",
-        "Alireza Seidavi"
-      ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/19/2019 0:00",
-      "RetractionDOI": "10.1016/j.landusepol.2019.104274",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/7/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.landusepol.2017.02.018",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349e0a",
-      "Record ID": "21378",
-      "Title": "Public environmental awareness of water pollution from urban growth: A case study with Zarjub and Goharrud rivers in Rasht, Iran",
-      "Subject": [
-        "(B/T) Urban Planning",
-        "(ENV) Environmental Sciences",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
-        "Department of Agronomy, Faculty of Agriculture, Urmia University, Urmia, Iran"
-      ],
-      "Journal": "Science of The Total Environment",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Seyyed Ali Noorhosseini",
-        "Mohammad Sadegh Allahyari",
-        "Christos A Damalas",
-        "Sina Siavash Moghaddam"
-      ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/11/2019 0:00",
-      "RetractionDOI": "10.1016/j.scitotenv.2019.133595",
-      "RetractionPubMedID": "31627261.0",
-      "OriginalPaperDate": "5/23/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.scitotenv.2017.05.128",
-      "OriginalPaperPubMedID": "28558423.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349e09",
-      "Record ID": "21379",
-      "Title": "Use of personal protective equipment towards pesticide exposure: Farmers' attitudes and determinants of behavior",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Toxicology",
-        "(ENV) Environmental Sciences",
-        "(HSC) Occupational Health and Safety",
-        "(SOC) Psychology"
-      ],
-      "Institution": [
-        "Faculty of Agriculture and Natural Resources, University of Mohaghegh Ardabili, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
-        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran"
-      ],
-      "Journal": "Science of The Total Environment",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Abolmohammad Bondori",
-        "Asghar Bagheri",
-        "Christos A Damalas",
-        "Mohammad Sadegh Allahyari"
-      ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/11/2019 0:00",
-      "RetractionDOI": "10.1016/j.scitotenv.2019.133597",
-      "RetractionPubMedID": "31627260.0",
-      "OriginalPaperDate": "5/26/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.scitotenv.2018.05.203",
-      "OriginalPaperPubMedID": "29929284.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349d9f",
-      "Record ID": "21485",
-      "Title": "Pesticide use in cereal production in Moghan Plain, Iran: Risk knowledge and farmers\u2019 attitudes",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Toxicology",
-        "(ENV) Environmental Sciences",
-        "(ENV) Food Science"
-      ],
-      "Institution": [
-        "Faculty of Agriculture and Natural Resources, University of Mohaghegh Ardabili, Iran",
-        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece"
-      ],
-      "Journal": "Crop Protection",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Abolmohammad Bondori",
-        "Asghar Bagheri",
-        "Mojtaba Sookhtanlou",
-        "Mohammad Sadegh Allahyari",
-        "Christos A Damalas"
-      ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/1/2018 0:00",
-      "RetractionDOI": "10.1016/j.cropro.2018.04.009",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/18/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.cropro.2018.04.009",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349f40",
-      "Record ID": "21068",
-      "Title": "Challenges for efficient land use in rice production of northern Iran: The use of modern cultivars among small-scale farmers",
-      "Subject": [
-        "(BLS) Agriculture"
-      ],
-      "Institution": [
-        "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Management and Development, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
-        "Faculty of Agriculture and Natural Resources, University of Mohaghegh Ardabili, Iran"
-      ],
-      "Journal": "Land Use Policy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Greece",
-        "Iran"
-      ],
-      "Author": [
-        "Daryoush Ashoori",
-        "Mohammad Sadegh Allahyari",
-        "Christos A Damalas",
-        "Asghar Bagheri"
-      ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/14/2019 0:00",
-      "RetractionDOI": "10.1016/j.landusepol.2019.104146",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/1/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.landusepol.2018.04.044",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349b05",
-      "Record ID": "22152",
-      "Title": "Social factors affecting personality disorders",
-      "Subject": [
+      "_id": "687cf01a1f662220d898eeeb",
+      "recordId": "22152",
+      "title": "Social factors affecting personality disorders",
+      "subject": [
         "(SOC) Psychology",
         "(SOC) Sociology"
       ],
-      "Institution": [
+      "institution": [
         "Assistant professor, Department of Psycology, Lahijan Branch, Islamic Azad University, Lahijan, Iran",
         "Department of Health and Community Medicine, Shahid Beheshti University of Medical Sciences, School of Medicine, Tehran, Iran",
         "Sabzevar University of Medical Sciences, Sabzevar, Iran",
         "Iranian Research Center on Healthy Aging, Sabzevar University of Medical Sciences, Sabzevar, Iran",
         "Assistant professor, Department of Community Medicine, Shahid Beheshti University of Medical Sciences, School of Medicine, Tehran, Iran"
       ],
-      "Journal": "Journal of Fundamental and Applied Sciences",
-      "Publisher": "University of El Qued",
-      "Country": [
+      "journal": "Journal of Fundamental and Applied Sciences",
+      "publisher": "University of El Qued",
+      "country": [
         "Iran"
       ],
-      "Author": [
+      "author": [
         "T Hamzeh Poor Haghighy",
         "P Amiri",
         "S M S Vaziri",
@@ -467,196 +279,397 @@
         "E R Eradfar",
         "M Mohseny"
       ],
-      "URLS": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/7/2018 0:00",
-      "OriginalPaperDOI": "10.4314/jfas.v10i6s.98",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/7/2018 0:00",
+      "originalpaperdoi": "10.4314/jfas.v10i6s.98",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Removed",
         "+Withdrawn to Publish in Different Journal"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23497eb",
-      "Record ID": "22950",
-      "Title": "Double cropping in paddy fields of northern Iran: Current trends and determinants of adoption",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f184",
+      "recordId": "21486",
+      "title": "Technical performance of Plant Clinics as providers of crop protection services: The case of Guilan Province, Iran",
+      "subject": [
         "(BLS) Agriculture"
       ],
-      "Institution": [
+      "institution": [
         "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, GR-682 00 Orestiada, Greece",
-        "Department of Agronomy, Rasht Branch, Islamic Azad University, Rasht, Iran"
+        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
+        "Department of Agricultural Economics, Faculty of Agricultural Sciences, University of Guilan, Rasht, Iran"
       ],
-      "Journal": "Land Use Policy",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Crop Protection",
+      "publisher": "Elsevier",
+      "country": [
         "Greece",
         "Iran"
       ],
-      "Author": [
-        "V Toorminaee",
+      "author": [
+        "Roya Azimi",
         "Mohammad Sadegh Allahyari",
         "Christos A Damalas",
-        "Hashem Aminpanah"
+        "Mohammad Kavoosi-Kalashami"
       ],
-      "ArticleType": [
-        "Review Article"
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "3/31/2020 0:00",
-      "RetractionDOI": "10.1016/j.landusepol.2020.104603",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/22/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.landusepol.2016.12.013",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/4/2020 0:00",
+      "retractiondoi": "10.1016/j.cropro.2020.105093",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/19/2017 0:00",
+      "originalpaperdoi": "10.1016/j.cropro.2017.07.007",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2016,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23454a2",
-      "Record ID": "40244",
-      "Title": "Environmental Impact of Peanut (Arachis hypogaea L.) Production under Different Levels of Nitrogen Fertilization",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f185",
+      "recordId": "21485",
+      "title": "Pesticide use in cereal production in Moghan Plain, Iran: Risk knowledge and farmers\u2019 attitudes",
+      "subject": [
         "(BLS) Agriculture",
-        "(BLS) Toxicology"
+        "(BLS) Toxicology",
+        "(ENV) Environmental Sciences",
+        "(ENV) Food Science"
       ],
-      "Institution": [
-        "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht 3516-41335, Iran",
-        "Department of Agricultural Development, Democritus University of Thrace, Orestiada 68200, Greece"
+      "institution": [
+        "Faculty of Agriculture and Natural Resources, University of Mohaghegh Ardabili, Iran",
+        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece"
       ],
-      "Journal": "Agriculture",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "Crop Protection",
+      "publisher": "Elsevier",
+      "country": [
         "Greece",
         "Iran"
       ],
-      "Author": [
-        "Seyyed Ali Noorhosseini",
+      "author": [
+        "Abolmohammad Bondori",
+        "Asghar Bagheri",
+        "Mojtaba Sookhtanlou",
+        "Mohammad Sadegh Allahyari",
         "Christos A Damalas"
       ],
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/29/2022 0:00",
-      "RetractionDOI": "10.3390/agriculture12101571",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/2/2018 0:00",
-      "OriginalPaperDOI": "10.3390/agriculture8070104",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review"
+      "retractiondate": "8/1/2018 0:00",
+      "retractiondoi": "10.1016/j.cropro.2018.04.009",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/18/2018 0:00",
+      "originalpaperdoi": "10.1016/j.cropro.2018.04.009",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2018,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349f3f",
-      "Record ID": "21069",
-      "Title": "Land consolidation success in paddy fields of northern Iran: An assessment based on farmers\u2019 satisfaction",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f186",
+      "recordId": "21484",
+      "title": "Crop insurance as a risk management tool in agriculture: The case of silk farmers in northern Iran",
+      "subject": [
+        "(B/T) Business - Accounting",
         "(BLS) Agriculture"
       ],
-      "Institution": [
+      "institution": [
+        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, GR-682 00 Orestiada, Greece",
+        "Department of Animal Husbandry, Rasht Branch, Islamic Azad University, Rasht, Iran"
+      ],
+      "journal": "Land Use Policy",
+      "publisher": "Elsevier",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "Majid Farzaneh",
+        "Mohammad Sadegh Allahyari",
+        "Christos A Damalas",
+        "Alireza Seidavi"
+      ],
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/19/2019 0:00",
+      "retractiondoi": "10.1016/j.landusepol.2019.104274",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/7/2017 0:00",
+      "originalpaperdoi": "10.1016/j.landusepol.2017.02.018",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f1ef",
+      "recordId": "21379",
+      "title": "Use of personal protective equipment towards pesticide exposure: Farmers' attitudes and determinants of behavior",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Toxicology",
+        "(ENV) Environmental Sciences",
+        "(HSC) Occupational Health and Safety",
+        "(SOC) Psychology"
+      ],
+      "institution": [
+        "Faculty of Agriculture and Natural Resources, University of Mohaghegh Ardabili, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
+        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran"
+      ],
+      "journal": "Science of The Total Environment",
+      "publisher": "Elsevier",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "Abolmohammad Bondori",
+        "Asghar Bagheri",
+        "Christos A Damalas",
+        "Mohammad Sadegh Allahyari"
+      ],
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2019 0:00",
+      "retractiondoi": "10.1016/j.scitotenv.2019.133597",
+      "retractionpubmedid": "31627260.0",
+      "originalpaperdate": "5/26/2018 0:00",
+      "originalpaperdoi": "10.1016/j.scitotenv.2018.05.203",
+      "originalpaperpubmedid": "29929284.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f1f0",
+      "recordId": "21378",
+      "title": "Public environmental awareness of water pollution from urban growth: A case study with Zarjub and Goharrud rivers in Rasht, Iran",
+      "subject": [
+        "(B/T) Urban Planning",
+        "(ENV) Environmental Sciences",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Management, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
+        "Department of Agronomy, Faculty of Agriculture, Urmia University, Urmia, Iran"
+      ],
+      "journal": "Science of The Total Environment",
+      "publisher": "Elsevier",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "Seyyed Ali Noorhosseini",
+        "Mohammad Sadegh Allahyari",
+        "Christos A Damalas",
+        "Sina Siavash Moghaddam"
+      ],
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2019 0:00",
+      "retractiondoi": "10.1016/j.scitotenv.2019.133595",
+      "retractionpubmedid": "31627261.0",
+      "originalpaperdate": "5/23/2017 0:00",
+      "originalpaperdoi": "10.1016/j.scitotenv.2017.05.128",
+      "originalpaperpubmedid": "28558423.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f325",
+      "recordId": "21069",
+      "title": "Land consolidation success in paddy fields of northern Iran: An assessment based on farmers\u2019 satisfaction",
+      "subject": [
+        "(BLS) Agriculture"
+      ],
+      "institution": [
         "Department of Agricultural Management and Development, Rasht Branch, Islamic Azad University, Rasht, Iran",
         "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
         "Department of Agricultural Economics, Payame Noor University (PNU), Tehran 19395-4697, Iran"
       ],
-      "Journal": "Land Use Policy",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Land Use Policy",
+      "publisher": "Elsevier",
+      "country": [
         "Greece",
         "Iran"
       ],
-      "Author": [
+      "author": [
         "Mohammad Sadegh Allahyari",
         "Christos A Damalas",
         "Zahra Daghighi Masouleh",
         "Mehrdad Ghorbani"
       ],
-      "URLS": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/14/2019 0:00",
-      "RetractionDOI": "10.1016/j.landusepol.2019.104147",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/21/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.landusepol.2018.01.035",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/14/2019 0:00",
+      "retractiondoi": "10.1016/j.landusepol.2019.104147",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/21/2018 0:00",
+      "originalpaperdoi": "10.1016/j.landusepol.2018.01.035",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f326",
+      "recordId": "21068",
+      "title": "Challenges for efficient land use in rice production of northern Iran: The use of modern cultivars among small-scale farmers",
+      "subject": [
+        "(BLS) Agriculture"
+      ],
+      "institution": [
+        "Young Researchers and Elite Club, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Management and Development, Rasht Branch, Islamic Azad University, Rasht, Iran",
+        "Department of Agricultural Development, Democritus University of Thrace, Orestiada, Greece",
+        "Faculty of Agriculture and Natural Resources, University of Mohaghegh Ardabili, Iran"
+      ],
+      "journal": "Land Use Policy",
+      "publisher": "Elsevier",
+      "country": [
+        "Greece",
+        "Iran"
+      ],
+      "author": [
+        "Daryoush Ashoori",
+        "Mohammad Sadegh Allahyari",
+        "Christos A Damalas",
+        "Asghar Bagheri"
+      ],
+      "urls": "http://retractionwatch.com/2019/10/25/author-protests-as-elsevier-retracts-nine-papers-for-fake-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/14/2019 0:00",
+      "retractiondoi": "10.1016/j.landusepol.2019.104146",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/1/2018 0:00",
+      "originalpaperdoi": "10.1016/j.landusepol.2018.04.044",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 5,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 5
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 6,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
-      "integrity": 5
+      "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 5,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -664,10 +677,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -675,32 +688,32 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

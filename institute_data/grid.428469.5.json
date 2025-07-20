@@ -1,39 +1,91 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687829a",
+    "_id": "687ccbab09adbf7aa61b8ebb",
     "grid_id": "grid.428469.5",
     "institute_name": "National Center for Biotechnology",
     "country": "Spain",
     "retracted_record_ids": [
-      "35055",
-      "1678",
+      "58523",
       "1079",
-      "58523"
+      "35055",
+      "1678"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23468c5",
-      "Record ID": "35055",
-      "Title": "Innate Immune Sensing of Modified Vaccinia Virus Ankara (MVA) Is Mediated by TLR2-TLR6, MDA-5 and the NALP3 Inflammasome",
-      "Subject": [
+      "_id": "687cef6d1f662220d898616b",
+      "recordId": "58523",
+      "title": "Potato CYCLING DOF FACTOR 1 and its lncRNA counterpart StFLORE link tuber development and drought response",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Plant Breeding, Wageningen University & Research, PO Box 386, Wageningen 6700 AJ, the Netherlands",
+        "Centro de Biotecnolog\u0131a y Genomica de Plantas, Universidad Politecnica de Madrid (UPM), Instituto Nacional deInvestigacion y Tecnolog\u0131a Agraria y Alimentaria (INIA), Madrid 28040, Spain",
+        "Departamento de Genetica Molecular de Plantas, Centro Nacional de Biotecnolog\u0131a \u2013 CSIC, Madrid 28049, Spain"
+      ],
+      "journal": "The Plant Journal",
+      "publisher": "Wiley",
+      "country": [
+        "Netherlands",
+        "Spain"
+      ],
+      "author": [
+        "Lorena Ram\u00edrez Gonzales",
+        "Li Shi",
+        "Sara Bergonzi Bergonzi",
+        "Marian Oortwijn",
+        "Jos\u00e9 M Franco-Zorrilla",
+        "Roberto Solano-Tavira",
+        "Richard G F Visser",
+        "Jos\u00e9 A Abelenda",
+        "Christian W B Bachem"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/3/2024 0:00",
+      "retractiondoi": "10.1111/tpj.17106",
+      "retractionpubmedid": "39491334.0",
+      "originalpaperdate": "11/21/2020 0:00",
+      "originalpaperdoi": "10.1111/tpj.15093",
+      "originalpaperpubmedid": "33220113.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bcab",
+      "recordId": "35055",
+      "title": "Innate Immune Sensing of Modified Vaccinia Virus Ankara (MVA) Is Mediated by TLR2-TLR6, MDA-5 and the NALP3 Inflammasome",
+      "subject": [
         "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
+      "institution": [
         "Infectious Diseases Service, Department of Medicine, Centre Hospitalier Universitaire Vaudois and University of Lausanne, Lausanne, Switzerland",
         "Department of Host Defense, Research Institute for Microbial Diseases, Osaka University, Osaka, Japan",
         "Department of Biochemistry, University of Lausanne, Epalinges, Switzerland",
         "Centro Nacional de Biotecnologia, CSIC, Ciudad Universitaria Cantoblanco, Madrid, Spain",
         "Laboratory of AIDS Immunopathogenesis, Immunology and Allergology Service, Department of Medicine, Centre Hospitalier Universitaire Vaudois and University of Lausanne, Lausanne, Switzerland"
       ],
-      "Journal": "PLoS Pathogens",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS Pathogens",
+      "publisher": "PLoS",
+      "country": [
         "Japan",
         "Spain",
         "Switzerland"
       ],
-      "Author": [
+      "author": [
         "Julie Delaloye",
         "Thierry Roger",
         "Quynh Giao Steiner-Tardivel",
@@ -48,36 +100,37 @@
         "Mariano Esteban",
         "Thierry Calandra"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/25/2022 0:00",
-      "RetractionDOI": "10.1371/journal.ppat.1010263",
-      "RetractionPubMedID": "35077525.0",
-      "OriginalPaperDate": "6/19/2009 0:00",
-      "OriginalPaperDOI": "10.1371/journal.ppat.1000480",
-      "OriginalPaperPubMedID": "19543380.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/25/2022 0:00",
+      "retractiondoi": "10.1371/journal.ppat.1010263",
+      "retractionpubmedid": "35077525.0",
+      "originalpaperdate": "6/19/2009 0:00",
+      "originalpaperdoi": "10.1371/journal.ppat.1000480",
+      "originalpaperpubmedid": "19543380.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Unreliable Image",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2009,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ea37",
-      "Record ID": "1678",
-      "Title": "Reactome array: forging a link between metabolome and genome",
-      "Subject": [
+      "_id": "687cf0d31f662220d8993e1d",
+      "recordId": "1678",
+      "title": "Reactome array: forging a link between metabolome and genome",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "CSIC, Institute of Catalysis, Madrid, Spain",
         "CSIC, Centro Nacional de Biotecnologia, Madrid, Spain",
         "HZI-Helmholtz Centre for Infection Research, Braunschweigh, Germany",
@@ -87,15 +140,15 @@
         "School of Biological Sciences, Bangor University, Gwynedd, United Kingdom",
         "Centre for Integrated Research in the Rural Environment, Aberystwyth University-Bangor University Partnership, United Kingdom"
       ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "Germany",
         "Italy",
         "Spain",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Ana Beloqui",
         "Maria-Eugenia Guazzaroni",
         "Florencio Pazos",
@@ -115,39 +168,40 @@
         "Peter N Golyshin",
         "Manuel Ferrer"
       ],
-      "URLS": "http://retractionwatch.com/2016/01/04/did-the-process-of-self-correction-fail-a-science-paper/;http://retractionwatch.com/2010/11/11/science-plays-two-a-retraction-and-concern-issued-about-genetics-papers/;http://retractionwatch.com/2010/08/09/science-wants-reactome-array-enzyme-chip-authors-to-retract-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/01/04/did-the-process-of-self-correction-fail-a-science-paper/;http://retractionwatch.com/2010/11/11/science-plays-two-a-retraction-and-concern-issued-about-genetics-papers/;http://retractionwatch.com/2010/08/09/science-wants-reactome-array-enzyme-chip-authors-to-retract-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/8/2010 0:00",
-      "RetractionDOI": "10.1126/science.1186078",
-      "RetractionPubMedID": "20019246.0",
-      "OriginalPaperDate": "10/9/2009 0:00",
-      "OriginalPaperDOI": "10.1126/science.1174094",
-      "OriginalPaperPubMedID": "19815770.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/8/2010 0:00",
+      "retractiondoi": "10.1126/science.1186078",
+      "retractionpubmedid": "20019246.0",
+      "originalpaperdate": "10/9/2009 0:00",
+      "originalpaperdoi": "10.1126/science.1174094",
+      "originalpaperpubmedid": "19815770.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Complaints about Author",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "3/31/2017",
-      "notice_year": 2010,
-      "year": 2009,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "3/31/2017",
+      "year": "2009",
+      "noticeYear": "2010",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ec82",
-      "Record ID": "1079",
-      "Title": "Reactome array: forging a link between metabolome and genome",
-      "Subject": [
+      "_id": "687cf0d51f662220d8994068",
+      "recordId": "1079",
+      "title": "Reactome array: forging a link between metabolome and genome",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "CSIC, Institute of Catalysis, Madrid, Spain",
         "CSIC, Centro Nacional de Biotecnologia, Madrid, Spain",
         "HZI-Helmholtz Centre for Infection Research, Braunschweigh, Germany",
@@ -157,15 +211,15 @@
         "School of Biological Sciences, Bangor University, Gwynedd, United Kingdom",
         "Centre for Integrated Research in the Rural Environment, Aberystwyth University-Bangor University Partnership, United Kingdom"
       ],
-      "Journal": "Science",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
+      "journal": "Science",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "Germany",
         "Italy",
         "Spain",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Ana Beloqui",
         "Maria-Eugenia Guazzaroni",
         "Florencio Pazos",
@@ -185,123 +239,73 @@
         "Peter N Golyshin",
         "Manuel Ferrer"
       ],
-      "URLS": "http://retractionwatch.com/2016/01/04/did-the-process-of-self-correction-fail-a-science-paper/;http://retractionwatch.com/2010/11/11/science-plays-two-a-retraction-and-concern-issued-about-genetics-papers/;http://retractionwatch.com/2010/08/09/science-wants-reactome-array-enzyme-chip-authors-to-retract-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/01/04/did-the-process-of-self-correction-fail-a-science-paper/;http://retractionwatch.com/2010/11/11/science-plays-two-a-retraction-and-concern-issued-about-genetics-papers/;http://retractionwatch.com/2010/08/09/science-wants-reactome-array-enzyme-chip-authors-to-retract-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/12/2010 0:00",
-      "RetractionDOI": "10.1126/science.330.6006.912-a",
-      "RetractionPubMedID": "21071648.0",
-      "OriginalPaperDate": "10/9/2009 0:00",
-      "OriginalPaperDOI": "10.1126/science.1174094",
-      "OriginalPaperPubMedID": "19815770.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/12/2010 0:00",
+      "retractiondoi": "10.1126/science.330.6006.912-a",
+      "retractionpubmedid": "21071648.0",
+      "originalpaperdate": "10/9/2009 0:00",
+      "originalpaperdoi": "10.1126/science.1174094",
+      "originalpaperpubmedid": "19815770.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher",
         "+Objections by Third Party"
       ],
-      "Paywalled": "No",
-      "Notes": "3/31/2017",
-      "notice_year": 2010,
-      "year": 2009,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340d85",
-      "Record ID": "58523",
-      "Title": "Potato CYCLING DOF FACTOR 1 and its lncRNA counterpart StFLORE link tuber development and drought response",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Plant Breeding, Wageningen University & Research, PO Box 386, Wageningen 6700 AJ, the Netherlands",
-        "Centro de Biotecnolog\u0131a y Genomica de Plantas, Universidad Politecnica de Madrid (UPM), Instituto Nacional deInvestigacion y Tecnolog\u0131a Agraria y Alimentaria (INIA), Madrid 28040, Spain",
-        "Departamento de Genetica Molecular de Plantas, Centro Nacional de Biotecnolog\u0131a \u2013 CSIC, Madrid 28049, Spain"
-      ],
-      "Journal": "The Plant Journal",
-      "Publisher": "Wiley",
-      "Country": [
-        "Netherlands",
-        "Spain"
-      ],
-      "Author": [
-        "Lorena Ram\u00edrez Gonzales",
-        "Li Shi",
-        "Sara Bergonzi Bergonzi",
-        "Marian Oortwijn",
-        "Jos\u00e9 M Franco-Zorrilla",
-        "Roberto Solano-Tavira",
-        "Richard G F Visser",
-        "Jos\u00e9 A Abelenda",
-        "Christian W B Bachem"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/3/2024 0:00",
-      "RetractionDOI": "10.1111/tpj.17106",
-      "RetractionPubMedID": "39491334.0",
-      "OriginalPaperDate": "11/21/2020 0:00",
-      "OriginalPaperDOI": "10.1111/tpj.15093",
-      "OriginalPaperPubMedID": "33220113.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "3/31/2017",
+      "year": "2009",
+      "noticeYear": "2010",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -309,10 +313,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

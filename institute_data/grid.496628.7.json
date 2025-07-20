@@ -1,83 +1,36 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878fb8",
+    "_id": "687ccbab09adbf7aa61b9bd9",
     "grid_id": "grid.496628.7",
     "institute_name": "Institute of Neurosciences Kolkata",
     "country": "India",
     "retracted_record_ids": [
-      "21317",
-      "40383"
+      "40383",
+      "21317"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349e47",
-      "Record ID": "21317",
-      "Title": "Determining the Sites of Neural Adaptations to Resistance Training: A Systematic Review and Meta-Analysis",
-      "Subject": [
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Neurology, Institute of Neurosciences, Kolkata, India",
-        "Department of Physiotherapy, School of Primary and Allied Health Care, Faculty of Medicine, Nursing and Health Science, Monash University, Frankston, Australia",
-        "Faculty of Health and Life Sciences, Northumbria University, Newcastle-upon-Tyne, UK",
-        "Water Research Group, School of Environmental Sciences and Development, Northwest University, Potchefstroom, South Africa"
-      ],
-      "Journal": "Sports Medicine",
-      "Publisher": "Springer",
-      "Country": [
-        "Australia",
-        "India",
-        "South Africa",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Ummatul Siddique",
-        "Simin Rahman",
-        "Ashlyn K Frazer",
-        "Glyn Howatson",
-        "Dawson J Kidgell"
-      ],
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "7/29/2019 0:00",
-      "RetractionDOI": "10.1007/s40279-019-01152-3",
-      "RetractionPubMedID": "31359349.0",
-      "OriginalPaperDate": "7/29/2019 0:00",
-      "OriginalPaperDOI": "10.1007/s40279-019-01152-3",
-      "OriginalPaperPubMedID": "31359349.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Error in Analyses"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345418",
-      "Record ID": "40383",
-      "Title": "Non-invasive vagus nerve stimulation improves clinical and molecular biomarkers of Parkinson's disease in patients with freezing of gait",
-      "Subject": [
+      "_id": "687cefb21f662220d898a7fe",
+      "recordId": "40383",
+      "title": "Non-invasive vagus nerve stimulation improves clinical and molecular biomarkers of Parkinson's disease in patients with freezing of gait",
+      "subject": [
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Neurosciences Kolkata, Kolkata, India",
         "Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, UK",
         "Department of Neurology, Royal Victoria Infirmary, Newcastle upon Tyne, UK",
         "Department of Clinical Neurophysiology, Royal Victoria Infirmary, Newcastle, UK"
       ],
-      "Journal": "NPJ Parkinson's Disease",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "NPJ Parkinson's Disease",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "India",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Banashree Mondal",
         "Supriyo Choudhury",
         "Rebecca Banerjee",
@@ -91,56 +44,105 @@
         "Mark R Baker",
         "Hrishikesh Kumar"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/3/2022 0:00",
-      "RetractionDOI": "10.1038/s41531-022-00424-6",
-      "RetractionPubMedID": "36329071.0",
-      "OriginalPaperDate": "5/27/2021 0:00",
-      "OriginalPaperDOI": "10.1038/s41531-021-00190-x",
-      "OriginalPaperPubMedID": "34045464.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/3/2022 0:00",
+      "retractiondoi": "10.1038/s41531-022-00424-6",
+      "retractionpubmedid": "36329071.0",
+      "originalpaperdate": "5/27/2021 0:00",
+      "originalpaperdoi": "10.1038/s41531-021-00190-x",
+      "originalpaperpubmedid": "34045464.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f22d",
+      "recordId": "21317",
+      "title": "Determining the Sites of Neural Adaptations to Resistance Training: A Systematic Review and Meta-Analysis",
+      "subject": [
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Department of Neurology, Institute of Neurosciences, Kolkata, India",
+        "Department of Physiotherapy, School of Primary and Allied Health Care, Faculty of Medicine, Nursing and Health Science, Monash University, Frankston, Australia",
+        "Faculty of Health and Life Sciences, Northumbria University, Newcastle-upon-Tyne, UK",
+        "Water Research Group, School of Environmental Sciences and Development, Northwest University, Potchefstroom, South Africa"
+      ],
+      "journal": "Sports Medicine",
+      "publisher": "Springer",
+      "country": [
+        "Australia",
+        "India",
+        "South Africa",
+        "United Kingdom"
+      ],
+      "author": [
+        "Ummatul Siddique",
+        "Simin Rahman",
+        "Ashlyn K Frazer",
+        "Glyn Howatson",
+        "Dawson J Kidgell"
+      ],
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "7/29/2019 0:00",
+      "retractiondoi": "10.1007/s40279-019-01152-3",
+      "retractionpubmedid": "31359349.0",
+      "originalpaperdate": "7/29/2019 0:00",
+      "originalpaperdoi": "10.1007/s40279-019-01152-3",
+      "originalpaperpubmedid": "31359349.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Error in Analyses"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

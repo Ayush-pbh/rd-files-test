@@ -1,83 +1,41 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878930",
+    "_id": "687ccbab09adbf7aa61b9551",
     "grid_id": "grid.11478.3b",
     "institute_name": "Centre for Genomic Regulation",
     "country": "Spain",
     "retracted_record_ids": [
-      "40914",
       "52024",
+      "40914",
       "3336"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234520c",
-      "Record ID": "40914",
-      "Title": "Expression profiles of the connexin genes, Gjb1 and Gjb3, in the developing mouse cochlea",
-      "Subject": [
-        "(BLS) Genetics",
-        "(BLS) Zoology"
-      ],
-      "Institution": [
-        "Genes and Disease Program, Centre de Regulaci\u00f3 Gen\u00f2mica, Barcelona, Spain"
-      ],
-      "Journal": "Gene Expression Patterns",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "N\u00faria L\u00f3pez-Bigas",
-        "Maria L Arbon\u00e9s",
-        "Xavier Estivill",
-        "Lionel Simonneau"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/1/2002 0:00",
-      "RetractionDOI": "10.1016/S0925-4773(03)00085-6",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/1/2002 0:00",
-      "OriginalPaperDOI": "10.1016/S0925-4773(02)00299-X",
-      "OriginalPaperPubMedID": "12617848.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Withdrawn to Publish in Different Journal"
-      ],
-      "Paywalled": "No",
-      "Notes": "See: https://www.sciencedirect.com/science/article/pii/S0925477303001023",
-      "notice_year": 2002,
-      "year": 2002,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d23426cc",
-      "Record ID": "52024",
-      "Title": "Adenomatous polyposis coli (APC) regulates miR17-92 cluster through \u03b2-catenin pathway in colorectal cancer",
-      "Subject": [
+      "_id": "687cef871f662220d8987ab2",
+      "recordId": "52024",
+      "title": "Adenomatous polyposis coli (APC) regulates miR17-92 cluster through \u03b2-catenin pathway in colorectal cancer",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Molecular Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA",
         "Dipartimento di Medicina Specialistica, Diagnostica e Sperimentale, Universit\u00e0 di Bologna, Bologna, Italy",
         "EMBL-CRG Systems Biology Unit, Centre for Genomic Regulation (CRG), Dr. Aiguader, Barcelona, Spain",
         "Department of Gastrointestinal Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA",
         "Department of Pathology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA"
       ],
-      "Journal": "Oncogene",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Oncogene",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Italy",
         "Spain",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Yajuan Li",
         "Mattia Lauriola",
         "Donghwa Kim",
@@ -90,39 +48,83 @@
         "Rossella Solmi",
         "Jin Q Cheng"
       ],
-      "URLS": "https://retractionwatch.com/?s=%22Jin+Cheng%22",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=%22Jin+Cheng%22",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/20/2024 0:00",
-      "RetractionDOI": "10.1038/s41388-024-02979-5",
-      "RetractionPubMedID": "38378921.0",
-      "OriginalPaperDate": "1/25/2016 0:00",
-      "OriginalPaperDOI": "10.1038/onc.2015.522",
-      "OriginalPaperPubMedID": "26804172.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "2/20/2024 0:00",
+      "retractiondoi": "10.1038/s41388-024-02979-5",
+      "retractionpubmedid": "38378921.0",
+      "originalpaperdate": "1/25/2016 0:00",
+      "originalpaperdoi": "10.1038/onc.2015.522",
+      "originalpaperpubmedid": "26804172.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Euphemisms for Duplication",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e3e9",
-      "Record ID": "3336",
-      "Title": "A TARBP2 mutation in human cancer impairs microRNA processing and DICER1 function",
-      "Subject": [
+      "_id": "687cefb11f662220d898a5f2",
+      "recordId": "40914",
+      "title": "Expression profiles of the connexin genes, Gjb1 and Gjb3, in the developing mouse cochlea",
+      "subject": [
+        "(BLS) Genetics",
+        "(BLS) Zoology"
+      ],
+      "institution": [
+        "Genes and Disease Program, Centre de Regulaci\u00f3 Gen\u00f2mica, Barcelona, Spain"
+      ],
+      "journal": "Gene Expression Patterns",
+      "publisher": "Elsevier",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "N\u00faria L\u00f3pez-Bigas",
+        "Maria L Arbon\u00e9s",
+        "Xavier Estivill",
+        "Lionel Simonneau"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/1/2002 0:00",
+      "retractiondoi": "10.1016/S0925-4773(03)00085-6",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/1/2002 0:00",
+      "originalpaperdoi": "10.1016/S0925-4773(02)00299-X",
+      "originalpaperpubmedid": "12617848.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Withdrawn to Publish in Different Journal"
+      ],
+      "paywalled": "No",
+      "notes": "See: https://www.sciencedirect.com/science/article/pii/S0925477303001023",
+      "year": "2002",
+      "noticeYear": "2002",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d89937cf",
+      "recordId": "3336",
+      "title": "A TARBP2 mutation in human cancer impairs microRNA processing and DICER1 function",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Cancer Epigenetics Laboratory, Spanish National Cancer Research Centre (CNIO), Madrid",
         "Tumor Genomics Group, Academy of Finland and Genome-Scale Biology Research Program/Biomedicum, Department of Medical Genetics, University of Helsinki, Helsinki",
         "Sapporo Medical University, South 1, West 17, Chuo-ku, Sapporo",
@@ -134,16 +136,16 @@
         "Institucio Catalana de Recerca i Estudis Avan\u00e7ats (ICREA), Barcelona, Catalonia",
         "Cancer Epigenetics and Biology Program (PEBC), Catalan Institute of Oncology (ICO), Institut d'Investigacio Biomedica de Bellvitge (IDIBELL), 08907 L'Hospitalet, Barcelona, Catalonia"
       ],
-      "Journal": "Nature Genetics",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Genetics",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Finland",
         "Japan",
         "Portugal",
         "Spain",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Sonia A Melo",
         "Santiago Ropero",
         "Catia Moutinho",
@@ -162,56 +164,58 @@
         "Ramin Shiekhattar",
         "Manel Esteller"
       ],
-      "URLS": "http://retractionwatch.com/2016/02/02/embo-awardee-under-investigation-there-was-no-effort-to-commit-fraud/;http://retractionwatch.com/2016/03/02/embo-awardee-under-investigation-loses-grant/;http://retractionwatch.com/2016/04/26/authors-correct-highly-cited-biology-paper-due-to-genuine-mistake/;http://retractionwatch.com/2016/01/28/embo-takes-back-voinnets-award-investigates-other-awardee-who-just-lost-a-nature-genetics-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/02/02/embo-awardee-under-investigation-there-was-no-effort-to-commit-fraud/;http://retractionwatch.com/2016/03/02/embo-awardee-under-investigation-loses-grant/;http://retractionwatch.com/2016/04/26/authors-correct-highly-cited-biology-paper-due-to-genuine-mistake/;http://retractionwatch.com/2016/01/28/embo-takes-back-voinnets-award-investigates-other-awardee-who-just-lost-a-nature-genetics-paper/",
+      "articletype": [
         "Letter",
         "Research Article"
       ],
-      "RetractionDate": "1/27/2016 0:00",
-      "RetractionDOI": "10.1038/ng0216-221",
-      "RetractionPubMedID": "26813765.0",
-      "OriginalPaperDate": "2/15/2009 0:00",
-      "OriginalPaperDOI": "10.1038/ng.317",
-      "OriginalPaperPubMedID": "19219043.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/27/2016 0:00",
+      "retractiondoi": "10.1038/ng0216-221",
+      "retractionpubmedid": "26813765.0",
+      "originalpaperdate": "2/15/2009 0:00",
+      "originalpaperdoi": "10.1038/ng.317",
+      "originalpaperpubmedid": "19219043.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2009
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -219,10 +223,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

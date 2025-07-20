@@ -1,64 +1,128 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687991b",
+    "_id": "687ccbab09adbf7aa61ba53c",
     "grid_id": "grid.26193.3f",
     "institute_name": "Tbilisi State University",
     "country": "Georgia",
     "retracted_record_ids": [
-      "22703"
+      "22703",
+      "65651"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23498df",
-      "Record ID": "22703",
-      "Title": "The spectral properties of matrices of some Markov chains",
-      "Subject": [
+      "_id": "687cef4f1f662220d89845c2",
+      "recordId": "65651",
+      "title": "Democratic evolution of Georgia and authoritarian cycles",
+      "subject": [
+        "(SOC) Political Science"
+      ],
+      "institution": [
+        "Ivane Javakhishvili Tbilisi State University, Faculty of Social and Political Sciences, Department of Political Sciences 1, Chavchavadze Ave, 0179 Tbilisi, Georgia"
+      ],
+      "journal": "E3S Web of Conferences",
+      "publisher": "EDP Sciences",
+      "country": [
+        "Georgia"
+      ],
+      "author": [
+        "Valerian Dolidze",
+        "Avtandil Tukvadze"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "1/6/2025 0:00",
+      "retractiondoi": "10.1051/e3sconf/202342000001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/4/2023 0:00",
+      "originalpaperdoi": "10.1051/e3sconf/202342008015",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0151f662220d898ecc5",
+      "recordId": "22703",
+      "title": "The spectral properties of matrices of some Markov chains",
+      "subject": [
         "(B/T) Computer Science",
         "(PHY) Mathematics"
       ],
-      "Institution": [
+      "institution": [
         "Iv. Javakhishvili Tbilisi State University 2, University St., Tbilisi 0143, Georgia"
       ],
-      "Journal": "Journal of Fundamental and Applied Sciences",
-      "Publisher": "University of El Qued",
-      "Country": [
+      "journal": "Journal of Fundamental and Applied Sciences",
+      "publisher": "University of El Qued",
+      "country": [
         "Georgia"
       ],
-      "Author": [
+      "author": [
         "Tariel Khvedelidze"
       ],
-      "URLS": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/5/2018 0:00",
-      "OriginalPaperDOI": "10.4314/jfas.v10i4s.65",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/5/2018 0:00",
+      "originalpaperdoi": "10.4314/jfas.v10i4s.65",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Removed",
         "+Withdrawn to Publish in Different Journal"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

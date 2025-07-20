@@ -1,22 +1,22 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879011",
+    "_id": "687ccbab09adbf7aa61b9c32",
     "grid_id": "grid.430298.4",
     "institute_name": "Phylogeny (United States)",
     "country": "United States",
     "retracted_record_ids": [
-      "8943",
-      "36637",
       "39505",
-      "10120"
+      "36637",
+      "10120",
+      "8943"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ce62",
-      "Record ID": "8943",
-      "Title": "In vivo NCL targeting affects breast cancer aggressiveness through miRNA regulation",
-      "Subject": [
+      "_id": "687cefb41f662220d898ab6a",
+      "recordId": "39505",
+      "title": "In vivo NCL targeting affects breast cancer aggressiveness through miRNA regulation",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
@@ -25,7 +25,7 @@
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Hematology, College of Medicine, The Ohio State University, Columbus, OH 43210",
         "Division of Oncology, Department of Internal Medicine, College of Medicine, The Ohio State University, Columbus, OH 43210",
         "Department of Molecular Virology, Immunology, and Medical Genetics",
@@ -39,13 +39,13 @@
         "Phylogeny Inc., Powell, OH 43065",
         "Data Mining for Analysis of Microarrays, Department of Morphology and Embryology, University of Ferrara, 44100 Ferrara, Italy"
       ],
-      "Journal": "The Journal of Experimental Medicine",
-      "Publisher": "Rockefeller University Press",
-      "Country": [
+      "journal": "The Journal of Experimental Medicine",
+      "publisher": "Rockefeller University Press",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Flavia Pichiorri",
         "Dario Palmieri",
         "Luciana De Luca",
@@ -69,49 +69,52 @@
         "Michael A Freitas",
         "Carlo M Croce"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/09/osu-researcher-investigation-corrects-paper-cited-500-times/;http://retractionwatch.com/?s=carlo+croce;https://retractionwatch.com/?s=Flavia+Pichiorri",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/09/osu-researcher-investigation-corrects-paper-cited-500-times/;http://retractionwatch.com/?s=carlo+croce;https://retractionwatch.com/?s=Flavia+Pichiorri",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/19/2017 0:00",
-      "RetractionDOI": "10.1084/jem.2012095001172017c",
-      "RetractionPubMedID": "28104811.0",
-      "OriginalPaperDate": "4/22/2013 0:00",
-      "OriginalPaperDOI": "10.1084/jem.20120950",
-      "OriginalPaperPubMedID": "23610125.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
+      "retractiondate": "10/3/2022 0:00",
+      "retractiondoi": "10.1084/jem.2012095009272022e",
+      "retractionpubmedid": "36191251.0",
+      "originalpaperdate": "4/22/2013 0:00",
+      "originalpaperdoi": "10.1084/jem.20120950",
+      "originalpaperpubmedid": "23610125.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23462a7",
-      "Record ID": "36637",
-      "Title": "MiR-34a/c-Dependent PDGFR-a/\u00df Downregulation Inhibits Tumorigenesis and Enhances TRAIL-Induced Apoptosis in Lung Cancer",
-      "Subject": [
+      "_id": "687cefbe1f662220d898b68d",
+      "recordId": "36637",
+      "title": "MiR-34a/c-Dependent PDGFR-a/\u00df Downregulation Inhibits Tumorigenesis and Enhances TRAIL-Induced Apoptosis in Lung Cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Molecular Virology, Immunology and Medical Genetics, Comprehensive Cancer Center, the Ohio State University, Columbus, Ohio, United States of America",
         "Phylogeny, Inc., Columbus, Ohio, United States of America",
         "Department of Morphology and Embryology, Human Anatomy Section, University of Ferrara, Ferrara, Italy",
         "Pulmonary, Allergy, Critical Care and Sleep Medicine, The Ohio State University Comprehensive Cancer Center, Columbus, Ohio, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Michela Garofalo",
         "Young-Jun Jeon",
         "Gerard J Nuovo",
@@ -126,33 +129,93 @@
         "Patrrick Nana-Sinkam",
         "Carlo M Croce"
       ],
-      "URLS": "http://retractionwatch.com/2016/09/16/when-does-overlap-become-plagiarism-heres-what-plos-one-decided/;http://retractionwatch.com/?s=carlo+croce",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/09/16/when-does-overlap-become-plagiarism-heres-what-plos-one-decided/;http://retractionwatch.com/?s=carlo+croce",
+      "articletype": [
         "Correction/Erratum/Corrigendum"
       ],
-      "RetractionDate": "4/20/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0131729",
-      "RetractionPubMedID": "26110899.0",
-      "OriginalPaperDate": "6/21/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0067581",
-      "OriginalPaperPubMedID": "23805317.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "4/20/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0131729",
+      "retractionpubmedid": "26110899.0",
+      "originalpaperdate": "6/21/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0067581",
+      "originalpaperpubmedid": "23805317.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Investigation by Company/Institution",
         "+Plagiarism of Text",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345784",
-      "Record ID": "39505",
-      "Title": "In vivo NCL targeting affects breast cancer aggressiveness through miRNA regulation",
-      "Subject": [
+      "_id": "687cf0b41f662220d8991db4",
+      "recordId": "10120",
+      "title": "MiR-34a/c-Dependent PDGFR-a/\u00df Downregulation Inhibits Tumorigenesis and Enhances TRAIL-Induced Apoptosis in Lung Cancer",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Department of Molecular Virology, Immunology and Medical Genetics, Comprehensive Cancer Center, the Ohio State University, Columbus, Ohio, United States of America",
+        "Phylogeny, Inc., Columbus, Ohio, United States of America",
+        "Department of Morphology and Embryology, Human Anatomy Section, University of Ferrara, Ferrara, Italy",
+        "Pulmonary, Allergy, Critical Care and Sleep Medicine, The Ohio State University Comprehensive Cancer Center, Columbus, Ohio, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Italy",
+        "United States"
+      ],
+      "author": [
+        "Michela Garofalo",
+        "Young-Jun Jeon",
+        "Gerard J Nuovo",
+        "Justin Middleton",
+        "Paola Secchiero",
+        "Pooja Joshi",
+        "Hansjuerg Alder",
+        "Natalya Nazaryan",
+        "Gianpiero Di Leva",
+        "Giulia Romano",
+        "Melissa Crawford",
+        "Patrrick Nana-Sinkam",
+        "Carlo M Croce"
+      ],
+      "urls": "http://retractionwatch.com/2016/09/16/when-does-overlap-become-plagiarism-heres-what-plos-one-decided/;http://retractionwatch.com/?s=carlo+croce",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/25/2015 0:00",
+      "retractiondoi": "10.1371/journal.pone.0131729",
+      "retractionpubmedid": "26110899.0",
+      "originalpaperdate": "6/21/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0067581",
+      "originalpaperpubmedid": "23805317.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b61f662220d8992248",
+      "recordId": "8943",
+      "title": "In vivo NCL targeting affects breast cancer aggressiveness through miRNA regulation",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
@@ -161,7 +224,7 @@
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Hematology, College of Medicine, The Ohio State University, Columbus, OH 43210",
         "Division of Oncology, Department of Internal Medicine, College of Medicine, The Ohio State University, Columbus, OH 43210",
         "Department of Molecular Virology, Immunology, and Medical Genetics",
@@ -175,13 +238,13 @@
         "Phylogeny Inc., Powell, OH 43065",
         "Data Mining for Analysis of Microarrays, Department of Morphology and Embryology, University of Ferrara, 44100 Ferrara, Italy"
       ],
-      "Journal": "The Journal of Experimental Medicine",
-      "Publisher": "Rockefeller University Press",
-      "Country": [
+      "journal": "The Journal of Experimental Medicine",
+      "publisher": "Rockefeller University Press",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Flavia Pichiorri",
         "Dario Palmieri",
         "Luciana De Luca",
@@ -205,105 +268,46 @@
         "Michael A Freitas",
         "Carlo M Croce"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/09/osu-researcher-investigation-corrects-paper-cited-500-times/;http://retractionwatch.com/?s=carlo+croce;https://retractionwatch.com/?s=Flavia+Pichiorri",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/09/osu-researcher-investigation-corrects-paper-cited-500-times/;http://retractionwatch.com/?s=carlo+croce;https://retractionwatch.com/?s=Flavia+Pichiorri",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/3/2022 0:00",
-      "RetractionDOI": "10.1084/jem.2012095009272022e",
-      "RetractionPubMedID": "36191251.0",
-      "OriginalPaperDate": "4/22/2013 0:00",
-      "OriginalPaperDOI": "10.1084/jem.20120950",
-      "OriginalPaperPubMedID": "23610125.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher"
+      "retractiondate": "1/19/2017 0:00",
+      "retractiondoi": "10.1084/jem.2012095001172017c",
+      "retractionpubmedid": "28104811.0",
+      "originalpaperdate": "4/22/2013 0:00",
+      "originalpaperdoi": "10.1084/jem.20120950",
+      "originalpaperpubmedid": "23610125.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c9ce",
-      "Record ID": "10120",
-      "Title": "MiR-34a/c-Dependent PDGFR-a/\u00df Downregulation Inhibits Tumorigenesis and Enhances TRAIL-Induced Apoptosis in Lung Cancer",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Pulmonology"
-      ],
-      "Institution": [
-        "Department of Molecular Virology, Immunology and Medical Genetics, Comprehensive Cancer Center, the Ohio State University, Columbus, Ohio, United States of America",
-        "Phylogeny, Inc., Columbus, Ohio, United States of America",
-        "Department of Morphology and Embryology, Human Anatomy Section, University of Ferrara, Ferrara, Italy",
-        "Pulmonary, Allergy, Critical Care and Sleep Medicine, The Ohio State University Comprehensive Cancer Center, Columbus, Ohio, United States of America"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Italy",
-        "United States"
-      ],
-      "Author": [
-        "Michela Garofalo",
-        "Young-Jun Jeon",
-        "Gerard J Nuovo",
-        "Justin Middleton",
-        "Paola Secchiero",
-        "Pooja Joshi",
-        "Hansjuerg Alder",
-        "Natalya Nazaryan",
-        "Gianpiero Di Leva",
-        "Giulia Romano",
-        "Melissa Crawford",
-        "Patrrick Nana-Sinkam",
-        "Carlo M Croce"
-      ],
-      "URLS": "http://retractionwatch.com/2016/09/16/when-does-overlap-become-plagiarism-heres-what-plos-one-decided/;http://retractionwatch.com/?s=carlo+croce",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/25/2015 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0131729",
-      "RetractionPubMedID": "26110899.0",
-      "OriginalPaperDate": "6/21/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0067581",
-      "OriginalPaperPubMedID": "23805317.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -311,10 +315,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -322,10 +326,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

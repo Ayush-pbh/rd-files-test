@@ -1,29 +1,29 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068788b5",
+    "_id": "687ccbab09adbf7aa61b94d6",
     "grid_id": "grid.249964.4",
     "institute_name": "Korea Institute of Science & Technology Information",
     "country": "South Korea",
     "retracted_record_ids": [
       "52919",
-      "6292",
       "6294",
+      "6451",
       "14533",
-      "6293",
-      "6451"
+      "6292",
+      "6293"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234234f",
-      "Record ID": "52919",
-      "Title": "KRAS activation in gastric cancer stem-like cells promotes tumor angiogenesis and metastasis",
-      "Subject": [
+      "_id": "687cef831f662220d8987735",
+      "recordId": "52919",
+      "title": "KRAS activation in gastric cancer stem-like cells promotes tumor angiogenesis and metastasis",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Surgery, Columbia University Irving Medical Center, Milstein Hospital Building 7-002, 177 Fort Washington Avenue, New York, NY, 10032, USA",
         "Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, Fujian, China",
         "Center for Supercomputing Applications, Korea Institute of Science and Technology Information, Division of National, Supercomputing Daejeon, Korea",
@@ -32,14 +32,14 @@
         "Department of Cancer Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
         "Department of Biological Science, Hyupsung University, Hwasung-Si, Republic of Korea"
       ],
-      "Journal": "BMC Cancer",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "BMC Cancer",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "China",
         "South Korea",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Changhwan Yoon",
         "Jun Lu",
         "Yukyung Jun",
@@ -51,37 +51,199 @@
         "Sandra Ryeom",
         "Sam S Yoon"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/28/2024 0:00",
-      "RetractionDOI": "10.1186/s12885-024-12164-2",
-      "RetractionPubMedID": "38549056.0",
-      "OriginalPaperDate": "7/22/2023 0:00",
-      "OriginalPaperDOI": "10.1186/s12885-023-11170-0",
-      "OriginalPaperPubMedID": "37481516.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/28/2024 0:00",
+      "retractiondoi": "10.1186/s12885-024-12164-2",
+      "retractionpubmedid": "38549056.0",
+      "originalpaperdate": "7/22/2023 0:00",
+      "originalpaperdoi": "10.1186/s12885-023-11170-0",
+      "originalpaperpubmedid": "37481516.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/8D5662920FA06422A87F6EDB70D8CB#3",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/8D5662920FA06422A87F6EDB70D8CB#3",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d896",
-      "Record ID": "6292",
-      "Title": "Microstructure of Co Precipitation Strengthened B2-Ordered NiAl",
-      "Subject": [
+      "_id": "687cf09f1f662220d8990c82",
+      "recordId": "14533",
+      "title": "The Influence of Technological Attributes on Technology Valuation in Korea",
+      "subject": [
+        "(B/T) Business - Management",
+        "(B/T) Technology",
+        "(B/T) Transportation",
+        "(PHY) Mathematics"
+      ],
+      "institution": [
+        "Information Analysis Center, Korea Institute of Science and Technology Information, Seoul, Korea"
+      ],
+      "journal": "2010 IEEE International Conference on Advanced Management Science (ICAMS 2010)",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Hyun-Woo Park",
+        "Do-Baek Nah",
+        "Sun-Hi Yoo"
+      ],
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "8/23/2010 0:00",
+      "retractiondoi": "10.1109/ICAMS.2010.5552952",
+      "originalpaperdate": "7/9/2010 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bf1f662220d8992bdd",
+      "recordId": "6451",
+      "title": "A Study on the Microstructure of Precipitation Strengthened B2-ordered NiAl",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Materials Science"
       ],
-      "Institution": [
+      "institution": [
+        "Korea Institute of Science and Technology Information, Reseat Program, Daejeon, Korea",
+        "Dept. of Defense Science and Technology, Hoseo University, Asan-si, Chungnam, Korea"
+      ],
+      "journal": "Metals and Materials International",
+      "publisher": "Springer",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Chang-Sup Oh",
+        "Chang-Suk Han"
+      ],
+      "urls": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/12/2015 0:00",
+      "retractiondoi": "10.1007/s12540-015-2131-0",
+      "originalpaperdate": "4/26/2011 0:00",
+      "originalpaperdoi": "10.1007/s12540-011-0405-8",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Duplication of Text"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c11f662220d8992c7a",
+      "recordId": "6294",
+      "title": "Precipitation behavior of Al-Ti-Ag alloy system",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Korea Institute of Science and Technology Information, Reseat Program, Daejeon, Korea",
+        "Department of Defense Science & Technology, Hoseo University, Asan, Korea"
+      ],
+      "journal": "Metals and Materials International",
+      "publisher": "Springer",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Chang-Suk Han",
+        "Chang-Sup Oh"
+      ],
+      "urls": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/12/2015 0:00",
+      "retractiondoi": "10.1007/s12540-015-2132-z",
+      "originalpaperdate": "6/20/2012 0:00",
+      "originalpaperdoi": "10.1007/s12540-012-3003-5",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Image",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "Yes",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c11f662220d8992c7b",
+      "recordId": "6293",
+      "title": "Microstructures and Morphologies of B2-Ordered NiAl(Co) and FeAl(Co)",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Korea Institute of Science and Technology Information, Reseat Program, Daejeon, Korea",
+        "Department of Defense Science & Technology, Hoseo University, Asan City, Chungnam, Korea"
+      ],
+      "journal": "Metals and Materials International",
+      "publisher": "Springer",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Chang-Suk Han",
+        "Chang-Sup Oh"
+      ],
+      "urls": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/12/2015 0:00",
+      "retractiondoi": "10.1007/s12540-015-2133-y",
+      "originalpaperdate": "3/10/2013 0:00",
+      "originalpaperdoi": "10.1007/s12540-013-2008-z",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Image",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c11f662220d8992c7c",
+      "recordId": "6292",
+      "title": "Microstructure of Co Precipitation Strengthened B2-Ordered NiAl",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
         "Reseat Program, Korea Institute of Science and Technology Information, Daejeon, Korea",
         "Dept. of Defense Science & Technology, Hoseo University, Asan-si, Chungnam, Korea",
         "School of Display Engineering, Hoseo University, Chungnam, Korea",
@@ -89,12 +251,12 @@
         "Institute of Fusion Technology, Hoseo University, Chungnam, Korea",
         "Dept. of Mechatronics Eng., Graduate School of M. T. & M., Hoseo University, Chungnam, Korea"
       ],
-      "Journal": "Metals and Materials International",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Metals and Materials International",
+      "publisher": "Springer",
+      "country": [
         "South Korea"
       ],
-      "Author": [
+      "author": [
         "Chang-Sup Oh",
         "Chang-Suk Han",
         "Chang-Hwan Chun",
@@ -105,223 +267,67 @@
         "Chang-Hwan Bae",
         "Ju-Hee Lee"
       ],
-      "URLS": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/12/2015 0:00",
-      "RetractionDOI": "10.1007/s12540-015-2130-1",
-      "OriginalPaperDate": "4/26/2010 0:00",
-      "OriginalPaperDOI": "10.1007/s12540-010-0404-1",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/12/2015 0:00",
+      "retractiondoi": "10.1007/s12540-015-2130-1",
+      "originalpaperdate": "4/26/2010 0:00",
+      "originalpaperdoi": "10.1007/s12540-010-0404-1",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Image",
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2010,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d894",
-      "Record ID": "6294",
-      "Title": "Precipitation behavior of Al-Ti-Ag alloy system",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Korea Institute of Science and Technology Information, Reseat Program, Daejeon, Korea",
-        "Department of Defense Science & Technology, Hoseo University, Asan, Korea"
-      ],
-      "Journal": "Metals and Materials International",
-      "Publisher": "Springer",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Chang-Suk Han",
-        "Chang-Sup Oh"
-      ],
-      "URLS": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/12/2015 0:00",
-      "RetractionDOI": "10.1007/s12540-015-2132-z",
-      "OriginalPaperDate": "6/20/2012 0:00",
-      "OriginalPaperDOI": "10.1007/s12540-012-3003-5",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Image",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234b89c",
-      "Record ID": "14533",
-      "Title": "The Influence of Technological Attributes on Technology Valuation in Korea",
-      "Subject": [
-        "(B/T) Business - Management",
-        "(B/T) Technology",
-        "(B/T) Transportation",
-        "(PHY) Mathematics"
-      ],
-      "Institution": [
-        "Information Analysis Center, Korea Institute of Science and Technology Information, Seoul, Korea"
-      ],
-      "Journal": "2010 IEEE International Conference on Advanced Management Science (ICAMS 2010)",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Hyun-Woo Park",
-        "Do-Baek Nah",
-        "Sun-Hi Yoo"
-      ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "8/23/2010 0:00",
-      "RetractionDOI": "10.1109/ICAMS.2010.5552952",
-      "OriginalPaperDate": "7/9/2010 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234d895",
-      "Record ID": "6293",
-      "Title": "Microstructures and Morphologies of B2-Ordered NiAl(Co) and FeAl(Co)",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Korea Institute of Science and Technology Information, Reseat Program, Daejeon, Korea",
-        "Department of Defense Science & Technology, Hoseo University, Asan City, Chungnam, Korea"
-      ],
-      "Journal": "Metals and Materials International",
-      "Publisher": "Springer",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Chang-Suk Han",
-        "Chang-Sup Oh"
-      ],
-      "URLS": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/12/2015 0:00",
-      "RetractionDOI": "10.1007/s12540-015-2133-y",
-      "OriginalPaperDate": "3/10/2013 0:00",
-      "OriginalPaperDOI": "10.1007/s12540-013-2008-z",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Image",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d7f7",
-      "Record ID": "6451",
-      "Title": "A Study on the Microstructure of Precipitation Strengthened B2-ordered NiAl",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Korea Institute of Science and Technology Information, Reseat Program, Daejeon, Korea",
-        "Dept. of Defense Science and Technology, Hoseo University, Asan-si, Chungnam, Korea"
-      ],
-      "Journal": "Metals and Materials International",
-      "Publisher": "Springer",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Chang-Sup Oh",
-        "Chang-Suk Han"
-      ],
-      "URLS": "http://retractionwatch.com/2014/11/17/engineer-in-south-korea-forced-to-retract-ten-papers-in-one-fell-swoop/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/12/2015 0:00",
-      "RetractionDOI": "10.1007/s12540-015-2131-0",
-      "OriginalPaperDate": "4/26/2011 0:00",
-      "OriginalPaperDOI": "10.1007/s12540-011-0405-8",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Duplication of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -329,32 +335,32 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

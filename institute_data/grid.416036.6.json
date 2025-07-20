@@ -1,85 +1,38 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687938d",
+    "_id": "687ccbab09adbf7aa61b9fae",
     "grid_id": "grid.416036.6",
     "institute_name": "London Chest Hospital",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "33514",
-      "33515"
+      "33515",
+      "33514"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346ec8",
-      "Record ID": "33514",
-      "Title": "Antibiotics for exacerbations of chronic obstructive pulmonary disease (Pub 2)",
-      "Subject": [
+      "_id": "687cefca1f662220d898c2ad",
+      "recordId": "33515",
+      "title": "Antibiotics for acute exacerbations of chronic obstructive pulmonary disease",
+      "subject": [
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
-        "School of Health Sciences, Massey University, Auckland, Auckland, New Zealand",
-        "Servei de Pneumologia, Hospital Cl\u00ednic, Universitat de Barcelona, Barcelona, Spain",
-        "Respiratory and Environmental Health Research Unit, Institut Municipal d'Investigaci\u00f3 M\u00e8dica, University of Barcelona, Barcelona, Spain",
-        "Centre for Research in Environmental Epidemiology (CREAL), Barcelona, Spain",
-        "Department of Respiratory Medicine, London Chest Hospital, London, UK"
-      ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "New Zealand",
-        "Spain",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Felix SF Ram",
-        "Robert Rodriguez Roisin",
-        "Alicia Granados Navarrete",
-        "Judith Garcia Aymerich",
-        "Neil C Barnes"
-      ],
-      "ArticleType": [
-        "Review Article",
-        "Revision"
-      ],
-      "RetractionDate": "1/19/2011 0:00",
-      "RetractionDOI": "10.1002/14651858.CD004403.pub3",
-      "RetractionPubMedID": "21249661.0",
-      "OriginalPaperDate": "4/19/2006 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD004403.pub2",
-      "OriginalPaperPubMedID": "16625602.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Withdrawn as Out of Date"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2006
-    },
-    {
-      "_id": "6855d574b14f7811d2346ec7",
-      "Record ID": "33515",
-      "Title": "Antibiotics for acute exacerbations of chronic obstructive pulmonary disease",
-      "Subject": [
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Pulmonology"
-      ],
-      "Institution": [
+      "institution": [
         "School of Health Sciences, Massey University, Albany, Auckland, New Zealand",
         "Department of Respiratory Medicine, London Chest Hospital, London, UK",
         "Respiratory and Environmental Health Research Unit, Institut Municipal d'Investigaci\u00f3 M\u00e8dica, University of Barcelona, Spain",
         "Respiratory and Environmental Health Research Unit, Barcelona, Spain",
         "Servei de Pneumologia, Hospital Cl\u00ednic, Universitat de Barcelona, Barcelona, Spain"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "New Zealand",
         "Spain",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Felix SF Ram",
         "R Joppi",
         "Neil C Barnes",
@@ -87,43 +40,94 @@
         "Judith Garcia Aymerich",
         "Robert Rodriguez Roisin"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "1/19/2011 0:00",
-      "RetractionDOI": "10.1002/14651858.CD004403.pub3",
-      "RetractionPubMedID": "21249661.0",
-      "OriginalPaperDate": "7/21/2003 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD004403",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/19/2011 0:00",
+      "retractiondoi": "10.1002/14651858.CD004403.pub3",
+      "retractionpubmedid": "21249661.0",
+      "originalpaperdate": "7/21/2003 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD004403",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Withdrawn as Out of Date"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2003
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2011",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefca1f662220d898c2ae",
+      "recordId": "33514",
+      "title": "Antibiotics for exacerbations of chronic obstructive pulmonary disease (Pub 2)",
+      "subject": [
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "School of Health Sciences, Massey University, Auckland, Auckland, New Zealand",
+        "Servei de Pneumologia, Hospital Cl\u00ednic, Universitat de Barcelona, Barcelona, Spain",
+        "Respiratory and Environmental Health Research Unit, Institut Municipal d'Investigaci\u00f3 M\u00e8dica, University of Barcelona, Barcelona, Spain",
+        "Centre for Research in Environmental Epidemiology (CREAL), Barcelona, Spain",
+        "Department of Respiratory Medicine, London Chest Hospital, London, UK"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "New Zealand",
+        "Spain",
+        "United Kingdom"
+      ],
+      "author": [
+        "Felix SF Ram",
+        "Robert Rodriguez Roisin",
+        "Alicia Granados Navarrete",
+        "Judith Garcia Aymerich",
+        "Neil C Barnes"
+      ],
+      "articletype": [
+        "Review Article",
+        "Revision"
+      ],
+      "retractiondate": "1/19/2011 0:00",
+      "retractiondoi": "10.1002/14651858.CD004403.pub3",
+      "retractionpubmedid": "21249661.0",
+      "originalpaperdate": "4/19/2006 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD004403.pub2",
+      "originalpaperpubmedid": "16625602.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Withdrawn as Out of Date"
+      ],
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2011",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -131,10 +135,10 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

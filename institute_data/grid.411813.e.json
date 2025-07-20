@@ -1,26 +1,83 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879141",
+    "_id": "687ccbab09adbf7aa61b9d62",
     "grid_id": "grid.411813.e",
     "institute_name": "Mizoram University",
     "country": "India",
     "retracted_record_ids": [
+      "37420",
       "18620",
-      "18615",
-      "37420"
+      "18615"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a8c0",
-      "Record ID": "18620",
-      "Title": "Bioprospection of actinobacteria derived from freshwater sediments for their potential to produce antimicrobial compounds",
-      "Subject": [
+      "_id": "687cefbc1f662220d898b382",
+      "recordId": "37420",
+      "title": "Determination and production of antimicrobial compounds by Aspergillus clavatonanicus strain MJ31, an endophytic fungus from Mirabilis jalapa L. using UPLC-ESI-MS/MS and TD-GC-MS analysis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Microbiology",
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "Molecular Microbiology and Systematics Laboratory, Department of Biotechnology, Aizawl, Mizoram University, Mizoram, India",
+        "SAIF, CSIR-Central Drug Research Institute (CSIR-CDRI), Lucknow, India",
+        "Biocatalysts Lab, Department of Agricultural Microbiology, Tamil Nadu Agricultural University, Coimbatore, India",
+        "Department of Chemistry and Biotechnology, School of Science, Tallinn University of Technology, Tallinn, Estonia",
+        "Molecular Glyco-biotechnology Group, Department of Chemistry, National University of Ireland, Galway, Ireland"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Estonia",
+        "India",
+        "Ireland"
+      ],
+      "author": [
+        "Vineet Kumar Mishra",
+        "Ajit Kumar Passari",
+        "Preeti Chandra",
+        "Vincent Vineeth Leo",
+        "Brijesh Kumar",
+        "Sivakumar Uthandi",
+        "Sugitha Thankappan",
+        "Vijai Kumar Gupta",
+        "Bhim Pratap Singh"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/26/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0268371",
+      "retractionpubmedid": "35617424.0",
+      "originalpaperdate": "10/19/2017 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0186234",
+      "originalpaperpubmedid": "29049321.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Copyright Claims",
+        "+Error in Methods",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fca6",
+      "recordId": "18620",
+      "title": "Bioprospection of actinobacteria derived from freshwater sediments for their potential to produce antimicrobial compounds",
+      "subject": [
         "(BLS) Microbiology",
         "(BLS) Toxicology",
         "(ENV) Ground/Surface Water"
       ],
-      "Institution": [
+      "institution": [
         "Molecular Microbiology and Systematics Laboratory, Department of Biotechnology, Mizoram University, Aizawl, Mizoram 796004, India",
         "SAIF, CSIR-Central Drug Research Institute (CSIR-CDRI), Lucknow 226012, India",
         "University of Mysore, Manasagangotri, Mysore, India",
@@ -28,14 +85,14 @@
         "Mycology and Plant Disease Survey Department, Plant Pathology Research Institute, ARC, Giza 12511, Egypt",
         ". Department of Plant Production, Faculty of Food & Agricultural Sciences, P.O. Box. 2460, Riyadh 11451, Saudi Arabia"
       ],
-      "Journal": "Microbial Cell Factories",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "Microbial Cell Factories",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "Egypt",
         "India",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Zothanpuia",
         "Ajit Kumar Passari",
         "Vincent Vineeth Leo",
@@ -47,44 +104,45 @@
         "Abdulaziz A Alqarawi",
         "Bhim Pratap Singh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/5/2018 0:00",
-      "RetractionDOI": "10.1186/s12934-018-0933-8",
-      "RetractionPubMedID": "29871626.0",
-      "OriginalPaperDate": "5/5/2018 0:00",
-      "OriginalPaperDOI": "10.1186/s12934-018-0912-0",
-      "OriginalPaperPubMedID": "29729667.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "6/5/2018 0:00",
+      "retractiondoi": "10.1186/s12934-018-0933-8",
+      "retractionpubmedid": "29871626.0",
+      "originalpaperdate": "5/5/2018 0:00",
+      "originalpaperdoi": "10.1186/s12934-018-0912-0",
+      "originalpaperpubmedid": "29729667.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image",
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a8c5",
-      "Record ID": "18615",
-      "Title": "Production of Potent Antimicrobial Compounds from Streptomyces cyaneofuscatus Associated with Fresh Water Sediment",
-      "Subject": [
+      "_id": "687cf0911f662220d898fcab",
+      "recordId": "18615",
+      "title": "Production of Potent Antimicrobial Compounds from Streptomyces cyaneofuscatus Associated with Fresh Water Sediment",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology",
         "(BLS) Zoology"
       ],
-      "Institution": [
+      "institution": [
         "Molecular Microbiology and Systematics Laboratory, Department of Biotechnology, Mizoram University, Aizawl, India",
         "CSIR-Central Drug Research Institute, Sophisticated Analytical Instrument Facility, Lucknow, India"
       ],
-      "Journal": "Frontiers in Microbiology",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Microbiology",
+      "publisher": "Frontiers",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "Zothanpuia",
         "Ajit K Passari",
         "Preeti Chandra",
@@ -93,113 +151,58 @@
         "Brijesh Kumar",
         "Bhim P Singh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/5/2018 0:00",
-      "RetractionDOI": "10.3389/fmicb.2018.01681",
-      "RetractionPubMedID": "30034387.0",
-      "OriginalPaperDate": "1/25/2017 0:00",
-      "OriginalPaperDOI": "10.3389/fmicb.2017.00068",
-      "OriginalPaperPubMedID": "28179900.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/5/2018 0:00",
+      "retractiondoi": "10.3389/fmicb.2018.01681",
+      "retractionpubmedid": "30034387.0",
+      "originalpaperdate": "1/25/2017 0:00",
+      "originalpaperdoi": "10.3389/fmicb.2017.00068",
+      "originalpaperpubmedid": "28179900.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Methods",
         "+Investigation by Journal/Publisher",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345f9c",
-      "Record ID": "37420",
-      "Title": "Determination and production of antimicrobial compounds by Aspergillus clavatonanicus strain MJ31, an endophytic fungus from Mirabilis jalapa L. using UPLC-ESI-MS/MS and TD-GC-MS analysis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Microbiology",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "Molecular Microbiology and Systematics Laboratory, Department of Biotechnology, Aizawl, Mizoram University, Mizoram, India",
-        "SAIF, CSIR-Central Drug Research Institute (CSIR-CDRI), Lucknow, India",
-        "Biocatalysts Lab, Department of Agricultural Microbiology, Tamil Nadu Agricultural University, Coimbatore, India",
-        "Department of Chemistry and Biotechnology, School of Science, Tallinn University of Technology, Tallinn, Estonia",
-        "Molecular Glyco-biotechnology Group, Department of Chemistry, National University of Ireland, Galway, Ireland"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Estonia",
-        "India",
-        "Ireland"
-      ],
-      "Author": [
-        "Vineet Kumar Mishra",
-        "Ajit Kumar Passari",
-        "Preeti Chandra",
-        "Vincent Vineeth Leo",
-        "Brijesh Kumar",
-        "Sivakumar Uthandi",
-        "Sugitha Thankappan",
-        "Vijai Kumar Gupta",
-        "Bhim Pratap Singh"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/26/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0268371",
-      "RetractionPubMedID": "35617424.0",
-      "OriginalPaperDate": "10/19/2017 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0186234",
-      "OriginalPaperPubMedID": "29049321.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Copyright Claims",
-        "+Error in Methods",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

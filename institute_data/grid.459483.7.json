@@ -1,47 +1,106 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878588",
+    "_id": "687ccbab09adbf7aa61b91a9",
     "grid_id": "grid.459483.7",
     "institute_name": "Tangshan People's Hospital",
     "country": "China",
     "retracted_record_ids": [
       "50515",
-      "31622",
-      "37842",
-      "41520",
-      "33415",
       "36690",
       "35603",
-      "38858",
-      "41522",
       "33537",
+      "55695",
+      "38858",
+      "33415",
       "40389",
-      "55695"
+      "41520",
+      "41522",
+      "31622",
+      "37842"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342caf",
-      "Record ID": "50515",
-      "Title": "Disruption of microRNA-214 during general anaesthesia prevents brain injury and maintains mitochondrial fusion by promoting Mfn2 interaction with Pkm2",
-      "Subject": [
+      "_id": "687cef761f662220d8986c72",
+      "recordId": "55695",
+      "title": "miR-139-5p Inhibits Lung Adenocarcinoma Cell Proliferation, Migration, and Invasion by Targeting MAD2L1",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Department of Thoracic Surgery, Tangshan People\u2019s Hospital, Tangshan, China",
+        "Shanghai Engineering Research Center of Pharmaceutical Translation, Shanghai, China",
+        "Department of Thoracic Surgical Oncology, Fujian Cancer Hospital & Fujian Medical University Cancer Hospital, Fujian, China",
+        "Department of Respiration, China Coast Guard of the Chinese People\u2019s Armed Police Force Hospital, Zhejiang Province, China"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jianfeng Li",
+        "Xi He",
+        "Xiaotang Wu",
+        "Xiaohui Liu",
+        "Yixiong Huang",
+        "Yuchen Gong"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/27/2023 0:00",
+      "retractiondoi": "10.1155/2023/9789647",
+      "retractionpubmedid": "37811302.0",
+      "originalpaperdate": "11/4/2020 0:00",
+      "originalpaperdoi": "10.1155/2020/2953598",
+      "originalpaperpubmedid": "33204298.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/F9B77B76E4F0CFBD56B665F5AFF343",
+      "year": "2020",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8c1f662220d8988095",
+      "recordId": "50515",
+      "title": "Disruption of microRNA-214 during general anaesthesia prevents brain injury and maintains mitochondrial fusion by promoting Mfn2 interaction with Pkm2",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, North China University of Science and Technology Affiliated Hospital, Tangshan, China",
         "Department of Pediatrics, North China University of Science and Technology Affiliated Hospital, Tangshan, China",
         "CT Department, North China University of Science and Technology Affiliated Hospital, Tangshan, China",
         "Department of Neurology, Tangshan People's Hospital, Tangshan, China"
       ],
-      "Journal": "Journal of Cellular and Molecular Medicine (JCMM)",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Journal of Cellular and Molecular Medicine (JCMM)",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Tiejun Liu",
         "Bin Wang",
         "Gai Li",
@@ -53,101 +112,251 @@
         "Zhao Jia",
         "Jing Bai"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/28/2023 0:00",
-      "RetractionDOI": "10.1111/jcmm.18095",
-      "RetractionPubMedID": "38153171.0",
-      "OriginalPaperDate": "11/4/2020 0:00",
-      "OriginalPaperDOI": "10.1111/jcmm.15222",
-      "OriginalPaperPubMedID": "33147380.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/28/2023 0:00",
+      "retractiondoi": "10.1111/jcmm.18095",
+      "retractionpubmedid": "38153171.0",
+      "originalpaperdate": "11/4/2020 0:00",
+      "originalpaperdoi": "10.1111/jcmm.15222",
+      "originalpaperpubmedid": "33147380.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/73B39C3678E0FE001614E540B77458;",
-      "notice_year": 2023,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/73B39C3678E0FE001614E540B77458;",
+      "year": "2020",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2347624",
-      "Record ID": "31622",
-      "Title": "A novel microRNA identified in hepatocellular carcinomas is responsive to LEF1 and facilitates proliferation and epithelial-mesenchymal transition via targeting of NFIX",
-      "Subject": [
+      "_id": "687cefb01f662220d898a397",
+      "recordId": "41522",
+      "title": "miR-3928v is induced by HBx via NF-\u03baB/ EGR1 and contributes to hepatocellular carcinoma malignancy by down-regulating VDAC3",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
-        "Tianjin Life Science Research Center and Department of Pathogen Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, School of Basic Medical Sciences, Tianjin Medical University, 300070, Tianjin, China",
-        "The Cancer Institute, Tangshan People\u2019s Hospital, 063001, Tangshan, China",
-        "Department of Hepatobiliary Oncology, State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen University, 510060, Guangzhou, China"
+      "institution": [
+        "Tianjin Life Science Research Center and Department of Pathogen Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, School of Basic Medical Sciences, Tianjin Medical University, No. 22 Qi-Xiang-Tai Road, Tianjin, 300070, China",
+        "The Cancer Institute, Tangshan People\u2019s Hospital, Tangshan, 063001, China",
+        "Department of Hepatobiliary Oncology, State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen University, Guangzhou, 510060, China"
       ],
-      "Journal": "Oncogenesis",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Yaqi Hu",
-        "Xu Guo",
-        "Jinxia Wang",
+      "author": [
+        "Qiaoge Zhang",
+        "Ge Song",
+        "Lili Yao",
         "Yankun Liu",
-        "Huijie Gao",
-        "Hongxia Fan",
-        "Xiangyang Nong",
-        "Yi Nong",
-        "Xi Yang",
         "Min Liu",
-        "Shengping Li"
+        "Shengping Li",
+        "Hua Tang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/15/2021 0:00",
-      "RetractionDOI": "10.1038/s41389-021-00336-9",
-      "RetractionPubMedID": "34267183.0",
-      "OriginalPaperDate": "2/23/2018 0:00",
-      "OriginalPaperDOI": "10.1038/s41389-017-0010-x",
-      "OriginalPaperPubMedID": "29472529.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Unreliable Data"
+      "retractiondate": "8/21/2020 0:00",
+      "retractiondoi": "10.1186/s13046-020-01655-2",
+      "retractionpubmedid": "32825844.0",
+      "originalpaperdate": "1/29/2018 0:00",
+      "originalpaperdoi": "10.1186/s13046-018-0681-y",
+      "originalpaperpubmedid": "29378599.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image",
+        "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/73BE1EA1632A045871290A4AEF1A81",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345df6",
-      "Record ID": "37842",
-      "Title": "HAS2-AS1 Acts as a Molecular Sponge for miR-137 and Promotes the Invasion and Migration of Glioma Cells by Targeting EZH2",
-      "Subject": [
+      "_id": "687cefb01f662220d898a399",
+      "recordId": "41520",
+      "title": "miR-3928v is induced by HBx via NF-\u03baB/ EGR1 and contributes to hepatocellular carcinoma malignancy by down-regulating VDAC3",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
+        "Tianjin Life Science Research Center and Department of Pathogen Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, School of Basic Medical Sciences, Tianjin Medical University, No. 22 Qi-Xiang-Tai Road, Tianjin, 300070, China",
+        "The Cancer Institute, Tangshan People\u2019s Hospital, Tangshan, 063001, China",
+        "Department of Hepatobiliary Oncology, State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen University, Guangzhou, 510060, China"
+      ],
+      "journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qiaoge Zhang",
+        "Ge Song",
+        "Lili Yao",
+        "Yankun Liu",
+        "Min Liu",
+        "Shengping Li",
+        "Hua Tang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/28/2022 0:00",
+      "retractiondoi": "10.1186/s13046-022-02580-2",
+      "retractionpubmedid": "36575461.0",
+      "originalpaperdate": "1/29/2018 0:00",
+      "originalpaperdoi": "10.1186/s13046-018-0681-y",
+      "originalpaperpubmedid": "29378599.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/73BE1EA1632A045871290A4AEF1A81",
+      "year": "2018",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb21f662220d898a7f8",
+      "recordId": "40389",
+      "title": "Effects of rehabilitation training on apoptosis of nerve cells and the recovery of neural and motor functions in rats with ischemic stroke through the PI3K/Akt and Nrf2/ARE signaling pathways",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Institute of Physical Education, Jiangsu Normal University, Xuzhou 221116, PR China",
+        "Key Laboratory for Biotechnology on Medicinal Plants of Jiangsu Province, School of Life Science, Jiangsu Normal University, Xuzhou 221116, PR China",
+        "Department of Neurology, Tangshan People\u2019s Hospital, Tangshan 063000, PR China"
+      ],
+      "journal": "Brain Research Bulletin",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiao Fei Jin",
+        "Shan Wang",
+        "Min Shen",
+        "Xin Wen",
+        "Xin Rui Han",
+        "Jun Chang Wu",
+        "Gao Zhuo Tang",
+        "Dong Mei Wu",
+        "Jun Lu",
+        "Yuan Lin Zheng"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/4/2022 0:00",
+      "retractiondoi": "10.1016/j.brainresbull.2022.11.001",
+      "retractionpubmedid": "36343567.0",
+      "originalpaperdate": "8/24/2017 0:00",
+      "originalpaperdoi": "10.1016/j.brainresbull.2017.08.011",
+      "originalpaperpubmedid": "28843352.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "Dong Mei Wu has institutional findng of misconduct;",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898adea",
+      "recordId": "38858",
+      "title": "miR-15b-3p promotes the malignant progression of endometrial cancer cells through targeting KLF2",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Oncology, Tangshan People\u2019s Hospital, Tangshan, China",
+        "Department of Neurosurgery, Tangshan People\u2019s Hospital, Tangshan, China",
+        "Shanghai Engineering Research Center of Pharmaceutical Translation, Shanghai, China",
+        "Department of Pathology, Affiliated Hospital of Jiaxing University, Jiaxing, China"
+      ],
+      "journal": "Cell Cycle",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Ping Wang",
+        "Xiqing Zhao",
+        "Xiaotang Wu",
+        "Guoshuai Tang",
+        "Linna Yuan"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/2/2022 0:00",
+      "retractiondoi": "10.1080/15384101.2022.2113239",
+      "retractionpubmedid": "36052980.0",
+      "originalpaperdate": "7/5/2021 0:00",
+      "originalpaperdoi": "10.1080/15384101.2021.1941611",
+      "originalpaperpubmedid": "34224334.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefba1f662220d898b1dc",
+      "recordId": "37842",
+      "title": "HAS2-AS1 Acts as a Molecular Sponge for miR-137 and Promotes the Invasion and Migration of Glioma Cells by Targeting EZH2",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
         "The Fourth Department of Neurosurgery, Tangshan Gongren Hospital, Tangshan, China",
         "The Fourth Department of Neurology, Tangshan Gongren Hospital, Tangshan, China",
         "The Department of Radiology, Tangshan People\u2019s Hospital, Tangshan, China",
         "The Department of Thoracic Surgery, Tangshan People\u2019s Hospital, Tangshan, China",
         "Shanghai Engineering Research Center of Pharmaceutical Translation, Shanghai, China"
       ],
-      "Journal": "Cell Cycle",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Cell Cycle",
+      "publisher": "Taylor and Francis",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Juntong Wang",
         "Yuyan Zhang",
         "Aiwu You",
@@ -165,132 +374,35 @@
         "Mengjiao Zhu",
         "Dongchun Wang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/21/2022 0:00",
-      "RetractionDOI": "10.1080/15384101.2022.2080999",
-      "RetractionPubMedID": "35727564.0",
-      "OriginalPaperDate": "10/16/2020 0:00",
-      "OriginalPaperDOI": "10.1080/15384101.2020.1826237",
-      "OriginalPaperPubMedID": "33064966.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/21/2022 0:00",
+      "retractiondoi": "10.1080/15384101.2022.2080999",
+      "retractionpubmedid": "35727564.0",
+      "originalpaperdate": "10/16/2020 0:00",
+      "originalpaperdoi": "10.1080/15384101.2020.1826237",
+      "originalpaperpubmedid": "33064966.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2344fb3",
-      "Record ID": "41520",
-      "Title": "miR-3928v is induced by HBx via NF-\u03baB/ EGR1 and contributes to hepatocellular carcinoma malignancy by down-regulating VDAC3",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Tianjin Life Science Research Center and Department of Pathogen Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, School of Basic Medical Sciences, Tianjin Medical University, No. 22 Qi-Xiang-Tai Road, Tianjin, 300070, China",
-        "The Cancer Institute, Tangshan People\u2019s Hospital, Tangshan, 063001, China",
-        "Department of Hepatobiliary Oncology, State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen University, Guangzhou, 510060, China"
-      ],
-      "Journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qiaoge Zhang",
-        "Ge Song",
-        "Lili Yao",
-        "Yankun Liu",
-        "Min Liu",
-        "Shengping Li",
-        "Hua Tang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/28/2022 0:00",
-      "RetractionDOI": "10.1186/s13046-022-02580-2",
-      "RetractionPubMedID": "36575461.0",
-      "OriginalPaperDate": "1/29/2018 0:00",
-      "OriginalPaperDOI": "10.1186/s13046-018-0681-y",
-      "OriginalPaperPubMedID": "29378599.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/73BE1EA1632A045871290A4AEF1A81",
-      "notice_year": 2022,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346f2b",
-      "Record ID": "33415",
-      "Title": "Effects of microRNA-206 and its target gene IGF-1 on sevoflurane-induced activation of hippocampal astrocytes in aged rats through the PI3K/AKT/CREB signaling pathway",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Anesthesiology, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
-        "Department of Paediatrics, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
-        "Department of Neurosurgery, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
-        "Department of Neurology, Tangshan People's Hospital, Tangshan, P.R. China"
-      ],
-      "Journal": "Journal of Cellular Physiology",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Tie Jun Liu",
-        "Bin Wang",
-        "Qun Xi Li",
-        "Xiao Liang Han",
-        "Shu Bo Zhang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/30/2021 0:00",
-      "RetractionDOI": "10.1002/jcp.30472",
-      "RetractionPubMedID": "34191285.0",
-      "OriginalPaperDate": "10/20/2017 0:00",
-      "OriginalPaperDOI": "10.1002/jcp.26248",
-      "OriginalPaperPubMedID": "29052839.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Objections by Third Party",
-        "+Paper Mill"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/9AA3416A6A9A24EB691CBA3357F04D;",
-      "notice_year": 2021,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346272",
-      "Record ID": "36690",
-      "Title": "Endoplasmic reticulum stress potentiates the autophagy of alveolar macrophage to attenuate acute lung injury and airway inflammation",
-      "Subject": [
+      "_id": "687cefbe1f662220d898b658",
+      "recordId": "36690",
+      "title": "Endoplasmic reticulum stress potentiates the autophagy of alveolar macrophage to attenuate acute lung injury and airway inflammation",
+      "subject": [
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "College of Public Health, North China University of Science and Technology, Tangshan, P. R. China",
         "College of Life Sciences, North China",
         "University of Science and Technology, Tangshan, P. R. China",
@@ -298,12 +410,12 @@
         "Department of Neurology, Tangshan People\u2019s Hospital, Tangshan, P. R. China",
         "Department of Neurosurgery, Tangshan Worker\u2019s Hospital, Tangshan, P. R. China"
       ],
-      "Journal": "Cell Cycle",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Cell Cycle",
+      "publisher": "Taylor and Francis",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Qingzeng Qian",
         "Xiangke Cao",
         "Bin Wang",
@@ -312,44 +424,45 @@
         "Ling Xue",
         "Fumin Feng"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/17/2022 0:00",
-      "RetractionDOI": "10.1080/15384101.2022.2046818",
-      "RetractionPubMedID": "35297298.0",
-      "OriginalPaperDate": "2/14/2020 0:00",
-      "OriginalPaperDOI": "10.1080/15384101.2020.1718851",
-      "OriginalPaperPubMedID": "32057287.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/17/2022 0:00",
+      "retractiondoi": "10.1080/15384101.2022.2046818",
+      "retractionpubmedid": "35297298.0",
+      "originalpaperdate": "2/14/2020 0:00",
+      "originalpaperdoi": "10.1080/15384101.2020.1718851",
+      "originalpaperpubmedid": "32057287.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23466a2",
-      "Record ID": "35603",
-      "Title": "Silencing of PTEN inhibits the oxidative stress damage and hippocampal cell apoptosis induced by Sevoflurane through activating MEK1/ERK signaling pathway in infant rats",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba88",
+      "recordId": "35603",
+      "title": "Silencing of PTEN inhibits the oxidative stress damage and hippocampal cell apoptosis induced by Sevoflurane through activating MEK1/ERK signaling pathway in infant rats",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
         "Department of Neurology, Tangshan People \u2018S Hospital, Tangshan, P.R. China",
         "Department of Pediatric, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China"
       ],
-      "Journal": "Cell Cycle",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Cell Cycle",
+      "publisher": "Taylor and Francis",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Tiejun Liu",
         "Xiaoliu Dong",
         "Bin Wang",
@@ -359,140 +472,47 @@
         "Xiaojing Zhao",
         "Xiaotao Wang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/22/2022 0:00",
-      "RetractionDOI": "10.1080/15384101.2021.2014707",
-      "RetractionPubMedID": "35191822.0",
-      "OriginalPaperDate": "2/23/2020 0:00",
-      "OriginalPaperDOI": "10.1080/15384101.2020.1717041",
-      "OriginalPaperPubMedID": "32089060.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/22/2022 0:00",
+      "retractiondoi": "10.1080/15384101.2021.2014707",
+      "retractionpubmedid": "35191822.0",
+      "originalpaperdate": "2/23/2020 0:00",
+      "originalpaperdoi": "10.1080/15384101.2020.1717041",
+      "originalpaperpubmedid": "32089060.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/802EE63BF978C5E85F7BE7F919F340",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/802EE63BF978C5E85F7BE7F919F340",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345a04",
-      "Record ID": "38858",
-      "Title": "miR-15b-3p promotes the malignant progression of endometrial cancer cells through targeting KLF2",
-      "Subject": [
+      "_id": "687cefca1f662220d898c297",
+      "recordId": "33537",
+      "title": "HBV-encoded miR-2 functions as an oncogene by downregulating TRIM35 but upregulating RAN in liver cancer cells",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
-        "Department of Oncology, Tangshan People\u2019s Hospital, Tangshan, China",
-        "Department of Neurosurgery, Tangshan People\u2019s Hospital, Tangshan, China",
-        "Shanghai Engineering Research Center of Pharmaceutical Translation, Shanghai, China",
-        "Department of Pathology, Affiliated Hospital of Jiaxing University, Jiaxing, China"
-      ],
-      "Journal": "Cell Cycle",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ping Wang",
-        "Xiqing Zhao",
-        "Xiaotang Wu",
-        "Guoshuai Tang",
-        "Linna Yuan"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/2/2022 0:00",
-      "RetractionDOI": "10.1080/15384101.2022.2113239",
-      "RetractionPubMedID": "36052980.0",
-      "OriginalPaperDate": "7/5/2021 0:00",
-      "OriginalPaperDOI": "10.1080/15384101.2021.1941611",
-      "OriginalPaperPubMedID": "34224334.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2344fb1",
-      "Record ID": "41522",
-      "Title": "miR-3928v is induced by HBx via NF-\u03baB/ EGR1 and contributes to hepatocellular carcinoma malignancy by down-regulating VDAC3",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Tianjin Life Science Research Center and Department of Pathogen Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, School of Basic Medical Sciences, Tianjin Medical University, No. 22 Qi-Xiang-Tai Road, Tianjin, 300070, China",
-        "The Cancer Institute, Tangshan People\u2019s Hospital, Tangshan, 063001, China",
-        "Department of Hepatobiliary Oncology, State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen University, Guangzhou, 510060, China"
-      ],
-      "Journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qiaoge Zhang",
-        "Ge Song",
-        "Lili Yao",
-        "Yankun Liu",
-        "Min Liu",
-        "Shengping Li",
-        "Hua Tang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/21/2020 0:00",
-      "RetractionDOI": "10.1186/s13046-020-01655-2",
-      "RetractionPubMedID": "32825844.0",
-      "OriginalPaperDate": "1/29/2018 0:00",
-      "OriginalPaperDOI": "10.1186/s13046-018-0681-y",
-      "OriginalPaperPubMedID": "29378599.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/73BE1EA1632A045871290A4AEF1A81",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346eb1",
-      "Record ID": "33537",
-      "Title": "HBV-encoded miR-2 functions as an oncogene by downregulating TRIM35 but upregulating RAN in liver cancer cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
+      "institution": [
         "Tianjin Life Science Research Center, Tianjin Laboratory of Inflammation Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, Department of Pathogen Biology, Basic Medical School, Tianjin Medical University, Tianjin 300070, China",
         "The Cancer Institute, Tangshan People's Hospital, Tangshan 063001, China",
         "State Key Laboratory of Oncology in Southern China, Department of Hepatobiliary Oncology, Cancer Center, Sun Yat-sen University, Guangzhou 510060, China"
       ],
-      "Journal": "EBioMedicine",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "EBioMedicine",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Lilo Yao",
         "Yadi Zhou",
         "Zhenhua Sui",
@@ -506,201 +526,193 @@
         "Shengping Li",
         "Hua Tang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/27/2021 0:00",
-      "RetractionDOI": "10.1016/j.ebiom.2021.103667",
-      "RetractionPubMedID": "34717839.0",
-      "OriginalPaperDate": "9/14/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.ebiom.2019.09.012",
-      "OriginalPaperPubMedID": "31530503.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/27/2021 0:00",
+      "retractiondoi": "10.1016/j.ebiom.2021.103667",
+      "retractionpubmedid": "34717839.0",
+      "originalpaperdate": "9/14/2019 0:00",
+      "originalpaperdoi": "10.1016/j.ebiom.2019.09.012",
+      "originalpaperpubmedid": "31530503.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image",
         "+Investigation by Company/Institution",
         "+Objections by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345412",
-      "Record ID": "40389",
-      "Title": "Effects of rehabilitation training on apoptosis of nerve cells and the recovery of neural and motor functions in rats with ischemic stroke through the PI3K/Akt and Nrf2/ARE signaling pathways",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Institute of Physical Education, Jiangsu Normal University, Xuzhou 221116, PR China",
-        "Key Laboratory for Biotechnology on Medicinal Plants of Jiangsu Province, School of Life Science, Jiangsu Normal University, Xuzhou 221116, PR China",
-        "Department of Neurology, Tangshan People\u2019s Hospital, Tangshan 063000, PR China"
-      ],
-      "Journal": "Brain Research Bulletin",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiao Fei Jin",
-        "Shan Wang",
-        "Min Shen",
-        "Xin Wen",
-        "Xin Rui Han",
-        "Jun Chang Wu",
-        "Gao Zhuo Tang",
-        "Dong Mei Wu",
-        "Jun Lu",
-        "Yuan Lin Zheng"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/4/2022 0:00",
-      "RetractionDOI": "10.1016/j.brainresbull.2022.11.001",
-      "RetractionPubMedID": "36343567.0",
-      "OriginalPaperDate": "8/24/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.brainresbull.2017.08.011",
-      "OriginalPaperPubMedID": "28843352.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "Dong Mei Wu has institutional findng of misconduct;",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234188c",
-      "Record ID": "55695",
-      "Title": "miR-139-5p Inhibits Lung Adenocarcinoma Cell Proliferation, Migration, and Invasion by Targeting MAD2L1",
-      "Subject": [
+      "_id": "687cefcc1f662220d898c311",
+      "recordId": "33415",
+      "title": "Effects of microRNA-206 and its target gene IGF-1 on sevoflurane-induced activation of hippocampal astrocytes in aged rats through the PI3K/AKT/CREB signaling pathway",
+      "subject": [
+        "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pulmonology"
+        "(BLS) Genetics"
       ],
-      "Institution": [
-        "Department of Thoracic Surgery, Tangshan People\u2019s Hospital, Tangshan, China",
-        "Shanghai Engineering Research Center of Pharmaceutical Translation, Shanghai, China",
-        "Department of Thoracic Surgical Oncology, Fujian Cancer Hospital & Fujian Medical University Cancer Hospital, Fujian, China",
-        "Department of Respiration, China Coast Guard of the Chinese People\u2019s Armed Police Force Hospital, Zhejiang Province, China"
+      "institution": [
+        "Department of Anesthesiology, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
+        "Department of Paediatrics, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
+        "Department of Neurosurgery, North China University of Science and Technology Affiliated Hospital, Tangshan, P.R. China",
+        "Department of Neurology, Tangshan People's Hospital, Tangshan, P.R. China"
       ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Journal of Cellular Physiology",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Jianfeng Li",
-        "Xi He",
-        "Xiaotang Wu",
-        "Xiaohui Liu",
-        "Yixiong Huang",
-        "Yuchen Gong"
+      "author": [
+        "Tie Jun Liu",
+        "Bin Wang",
+        "Qun Xi Li",
+        "Xiao Liang Han",
+        "Shu Bo Zhang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/27/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9789647",
-      "RetractionPubMedID": "37811302.0",
-      "OriginalPaperDate": "11/4/2020 0:00",
-      "OriginalPaperDOI": "10.1155/2020/2953598",
-      "OriginalPaperPubMedID": "33204298.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
+      "retractiondate": "6/30/2021 0:00",
+      "retractiondoi": "10.1002/jcp.30472",
+      "retractionpubmedid": "34191285.0",
+      "originalpaperdate": "10/20/2017 0:00",
+      "originalpaperdoi": "10.1002/jcp.26248",
+      "originalpaperpubmedid": "29052839.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
+        "+Objections by Third Party",
+        "+Paper Mill"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/F9B77B76E4F0CFBD56B665F5AFF343",
-      "notice_year": 2023,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/9AA3416A6A9A24EB691CBA3357F04D;",
+      "year": "2017",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd21f662220d898ca0a",
+      "recordId": "31622",
+      "title": "A novel microRNA identified in hepatocellular carcinomas is responsive to LEF1 and facilitates proliferation and epithelial-mesenchymal transition via targeting of NFIX",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Tianjin Life Science Research Center and Department of Pathogen Biology, Collaborative Innovation Center of Tianjin for Medical Epigenetics, School of Basic Medical Sciences, Tianjin Medical University, 300070, Tianjin, China",
+        "The Cancer Institute, Tangshan People\u2019s Hospital, 063001, Tangshan, China",
+        "Department of Hepatobiliary Oncology, State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen University, 510060, Guangzhou, China"
+      ],
+      "journal": "Oncogenesis",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yaqi Hu",
+        "Xu Guo",
+        "Jinxia Wang",
+        "Yankun Liu",
+        "Huijie Gao",
+        "Hongxia Fan",
+        "Xiangyang Nong",
+        "Yi Nong",
+        "Xi Yang",
+        "Min Liu",
+        "Shengping Li"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/15/2021 0:00",
+      "retractiondoi": "10.1038/s41389-021-00336-9",
+      "retractionpubmedid": "34267183.0",
+      "originalpaperdate": "2/23/2018 0:00",
+      "originalpaperdoi": "10.1038/s41389-017-0010-x",
+      "originalpaperpubmedid": "29472529.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 5,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 4,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 6,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -708,10 +720,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

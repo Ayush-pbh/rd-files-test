@@ -1,54 +1,207 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687860e",
+    "_id": "687ccbab09adbf7aa61b922f",
     "grid_id": "grid.9499.d",
     "institute_name": "National University of La Plata",
     "country": "Argentina",
     "retracted_record_ids": [
+      "18015",
       "17660",
-      "19168",
-      "9607",
-      "54883",
       "2228",
-      "18015"
+      "54883",
+      "9607",
+      "19168"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ac7b",
-      "Record ID": "17660",
-      "Title": "Compensatory role of the NBCn1 sodium/bicarbonate cotransporter on Ca2+-induced mitochondrial swelling in hypertrophic hearts",
-      "Subject": [
+      "_id": "687cef7b1f662220d8986f9d",
+      "recordId": "54883",
+      "title": "An organic-solvent-tolerant esterase from thermophilic Bacillus licheniformis S-86",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Microbiology",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Planta Piloto de Procesos Industriales Microbiol\u00f3gicos (PROIMI), Av. Belgrano y Pasaje Caseros, T4001 MVB Tucum\u00e1n, Argentina",
+        "National Institute for Interdisciplinary Science and Technology, Trivandrum 695 019, India",
+        "CINDEFI (Institute of Applied Biotechnology) and INIFTA (UNLP \u2013 CCT La Plata \u2013 CONICET), Facultad de Ciencias Exactas, Universidad Nacional de La Plata, Calle 50 y 115 (B1900AJL) La Plata, Argentina",
+        "Department of Biomedical Engineering, School of Engineering, Tufts University, 4 Colby Street, Medford, MA 02155, USA"
+      ],
+      "journal": "Bioresource Technology",
+      "publisher": "Elsevier",
+      "country": [
+        "Argentina",
+        "India",
+        "United States"
+      ],
+      "author": [
+        "Sebasti\u00e1n Torres",
+        "M Alejandra Mart\u00ednez",
+        "Ashok Pandey",
+        "Guillermo R Castro"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/14/2024 0:00",
+      "retractiondoi": "10.1016/j.biortech.2008.07.009",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/23/2008 0:00",
+      "originalpaperdoi": "10.1016/j.biortech.2008.07.009",
+      "originalpaperpubmedid": "18723341.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Conflict of Interest",
+        "+Date of Article and/or Notice Unknown",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Objections by Author(s)",
+        "+Rogue Editor"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://www.thehindu.com/sci-tech/science/12-papers-involving-a-scientist-from-csirs-indian-institute-of-toxicology-research-retracted/article68399826.ece",
+      "year": "2008",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fa86",
+      "recordId": "19168",
+      "title": "The mRNA Levels of TGF-beta Type II Receptor Splice Variants in Monocytes are Associated with Rheumatoid Arthritis Disease Activity",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Immunology"
+      ],
+      "institution": [
+        "Laboratorio de Terapia G\u00e9nica y C\u00e9lulas Madre, Instituto Tecnol\u00f3gico de Chascom\u00fas (INTECH), CONICET-UNSAM, Chascom\u00fas, Argentina",
+        "Instituto M\u00e9dico CER, Quilmes, Argentina",
+        "Instituto de Investigaci\u00f3n en Biomedicina de Buenos Aires (IBioBA), CONICET, Partner Institute of the Max Planck Society, Buenos Aires, Argentina",
+        "Centro Regional de Estudios Gen\u00f3micos (CREG), Universidad Nacional de La Plata, La Plata, Argentina"
+      ],
+      "journal": "Journal of Arthritis",
+      "publisher": "OMICS International",
+      "country": [
+        "Argentina"
+      ],
+      "author": [
+        "Alejandra Carrea",
+        "Matias Adan Preisegger",
+        "Jorge Velasco Zamora",
+        "Marcelo Javier Perone",
+        "Ricardo Alfredo Dewey"
+      ],
+      "urls": "http://retractionwatch.com/2018/09/08/weekend-reads-an-article-on-a-controversial-topic-just-disappears-mass-resignations-from-a-nutrition-journal-the-likely-mistaken-history-of-the-vibrator/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/31/2018 0:00",
+      "retractiondoi": "10.4172/2167-7921.1000274",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/31/2018 0:00",
+      "originalpaperdoi": "10.4172/2167-7921.1000274",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Bias Issues or Lack of Balance",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898ff01",
+      "recordId": "18015",
+      "title": "Compensatory role of the NBCn1 sodium/bicarbonate cotransporter on Ca2+-induced mitochondrial swelling in hypertrophic hearts",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Centro de Investigaciones Cardiovasculares CIC-CONICET, Facultad de Ciencias M\u00e9dicas, Universidad Nacional de La Plata, La Plata, Argentina"
       ],
-      "Journal": "Basic Research in Cardiology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Basic Research in Cardiology",
+      "publisher": "Springer",
+      "country": [
         "Argentina"
       ],
-      "Author": [
+      "author": [
         "Lorena A Vargas",
         "Fernanda Carrizo Velasquez",
         "Bernardo V Alvarez"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/15/2018 0:00",
-      "RetractionDOI": "10.1007/s00395-018-0676-z",
-      "RetractionPubMedID": "29546624.0",
-      "OriginalPaperDate": "1/24/2017 0:00",
-      "OriginalPaperDOI": "10.1007/s00395-017-0604-7",
-      "OriginalPaperPubMedID": "28120038.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "4/18/2018 0:00",
+      "retractiondoi": "10.1007/s00395-018-0680-3",
+      "retractionpubmedid": "29671120.0",
+      "originalpaperdate": "1/24/2017 0:00",
+      "originalpaperdoi": "10.1007/s00395-017-0604-7",
+      "originalpaperpubmedid": "28120038.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d8990061",
+      "recordId": "17660",
+      "title": "Compensatory role of the NBCn1 sodium/bicarbonate cotransporter on Ca2+-induced mitochondrial swelling in hypertrophic hearts",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Centro de Investigaciones Cardiovasculares CIC-CONICET, Facultad de Ciencias M\u00e9dicas, Universidad Nacional de La Plata, La Plata, Argentina"
+      ],
+      "journal": "Basic Research in Cardiology",
+      "publisher": "Springer",
+      "country": [
+        "Argentina"
+      ],
+      "author": [
+        "Lorena A Vargas",
+        "Fernanda Carrizo Velasquez",
+        "Bernardo V Alvarez"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/15/2018 0:00",
+      "retractiondoi": "10.1007/s00395-018-0676-z",
+      "retractionpubmedid": "29546624.0",
+      "originalpaperdate": "1/24/2017 0:00",
+      "originalpaperdoi": "10.1007/s00395-017-0604-7",
+      "originalpaperpubmedid": "28120038.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
@@ -56,69 +209,21 @@
         "+Investigation by Journal/Publisher",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a6a0",
-      "Record ID": "19168",
-      "Title": "The mRNA Levels of TGF-beta Type II Receptor Splice Variants in Monocytes are Associated with Rheumatoid Arthritis Disease Activity",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Immunology"
-      ],
-      "Institution": [
-        "Laboratorio de Terapia G\u00e9nica y C\u00e9lulas Madre, Instituto Tecnol\u00f3gico de Chascom\u00fas (INTECH), CONICET-UNSAM, Chascom\u00fas, Argentina",
-        "Instituto M\u00e9dico CER, Quilmes, Argentina",
-        "Instituto de Investigaci\u00f3n en Biomedicina de Buenos Aires (IBioBA), CONICET, Partner Institute of the Max Planck Society, Buenos Aires, Argentina",
-        "Centro Regional de Estudios Gen\u00f3micos (CREG), Universidad Nacional de La Plata, La Plata, Argentina"
-      ],
-      "Journal": "Journal of Arthritis",
-      "Publisher": "OMICS International",
-      "Country": [
-        "Argentina"
-      ],
-      "Author": [
-        "Alejandra Carrea",
-        "Matias Adan Preisegger",
-        "Jorge Velasco Zamora",
-        "Marcelo Javier Perone",
-        "Ricardo Alfredo Dewey"
-      ],
-      "URLS": "http://retractionwatch.com/2018/09/08/weekend-reads-an-article-on-a-controversial-topic-just-disappears-mass-resignations-from-a-nutrition-journal-the-likely-mistaken-history-of-the-vibrator/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/31/2018 0:00",
-      "RetractionDOI": "10.4172/2167-7921.1000274",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/31/2018 0:00",
-      "OriginalPaperDOI": "10.4172/2167-7921.1000274",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Bias Issues or Lack of Balance",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234cbce",
-      "Record ID": "9607",
-      "Title": "The Palaeocene Cerro Munro tonalite intrusion (Chubut Province, Argentina): A plutonic remnant of explosive volcanism?",
-      "Subject": [
+      "_id": "687cf0b51f662220d8991fb4",
+      "recordId": "9607",
+      "title": "The Palaeocene Cerro Munro tonalite intrusion (Chubut Province, Argentina): A plutonic remnant of explosive volcanism?",
+      "subject": [
         "(ENV) Environmental Sciences",
         "(PHY) Geology"
       ],
-      "Institution": [
+      "institution": [
         "Departamento de Ciencias de la Tierra, Universidad de Huelva, Campus El Carmen, 21071 Huelva, Spain",
         "Facultad de Ciencias Naturales y Museo (UNLP), 122 y 60, s/n. (1900), La Plata, Buenos Aires, Argentina",
         "Departement des sciences appliquees, Unite d'enseignement en sciences de la Terre, 555 Boulevard de l'Universite (G7H 2B1), Chicoutimi, Qu\u00e9bec, Canada",
@@ -127,15 +232,15 @@
         "Departamento de Geolog\u00eda, Universidad de Atacama, Copayapu 485, Copiap\u00f3, Chile",
         "Departamento de Ciencias Geologicas, UNRIV, R\u00edo Cuarto, Argentina"
       ],
-      "Journal": "Journal of South American Earth Sciences",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of South American Earth Sciences",
+      "publisher": "Elsevier",
+      "country": [
         "Argentina",
         "Canada",
         "Chile",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Carmen Rodriguez",
         "Eugenio Aragon",
         "Antonio Castro",
@@ -150,220 +255,121 @@
         "Irene Raquel Hernando",
         "T Fuentes"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/12/2017 0:00",
-      "RetractionDOI": "10.1016/j.jsames.2017.08.001",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/10/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.jsames.2017.06.002",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/12/2017 0:00",
+      "retractiondoi": "10.1016/j.jsames.2017.08.001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/10/2017 0:00",
+      "originalpaperdoi": "10.1016/j.jsames.2017.06.002",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error by Journal/Publisher",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341bb7",
-      "Record ID": "54883",
-      "Title": "An organic-solvent-tolerant esterase from thermophilic Bacillus licheniformis S-86",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Microbiology",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Planta Piloto de Procesos Industriales Microbiol\u00f3gicos (PROIMI), Av. Belgrano y Pasaje Caseros, T4001 MVB Tucum\u00e1n, Argentina",
-        "National Institute for Interdisciplinary Science and Technology, Trivandrum 695 019, India",
-        "CINDEFI (Institute of Applied Biotechnology) and INIFTA (UNLP \u2013 CCT La Plata \u2013 CONICET), Facultad de Ciencias Exactas, Universidad Nacional de La Plata, Calle 50 y 115 (B1900AJL) La Plata, Argentina",
-        "Department of Biomedical Engineering, School of Engineering, Tufts University, 4 Colby Street, Medford, MA 02155, USA"
-      ],
-      "Journal": "Bioresource Technology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Argentina",
-        "India",
-        "United States"
-      ],
-      "Author": [
-        "Sebasti\u00e1n Torres",
-        "M Alejandra Mart\u00ednez",
-        "Ashok Pandey",
-        "Guillermo R Castro"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/14/2024 0:00",
-      "RetractionDOI": "10.1016/j.biortech.2008.07.009",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/23/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.biortech.2008.07.009",
-      "OriginalPaperPubMedID": "18723341.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Conflict of Interest",
-        "+Date of Article and/or Notice Unknown",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Objections by Author(s)",
-        "+Rogue Editor"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://www.thehindu.com/sci-tech/science/12-papers-involving-a-scientist-from-csirs-indian-institute-of-toxicology-research-retracted/article68399826.ece",
-      "notice_year": 2024,
-      "year": 2008,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234e81f",
-      "Record ID": "2228",
-      "Title": "Origin of the Obliquities of the Giant Planets in Mutual Interactions in the Early Solar System",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c05",
+      "recordId": "2228",
+      "title": "Origin of the Obliquities of the Giant Planets in Mutual Interactions in the Early Solar System",
+      "subject": [
         "(PHY) Astronomy",
         "(PHY) Astrophysics"
       ],
-      "Institution": [
+      "institution": [
         "Facultad de Ciencias Astron\u00f3micas y Geof\u00edsicas, Universidad Nacional de La Plata, Paseo del Bosque s/n (1900) La Plata, Argentina",
         "Instituto Astrof\u00edsico de La Plata, Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), Paseo del Bosque s/n (1900) La Plata, Argentina"
       ],
-      "Journal": "Nature",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "Argentina"
       ],
-      "Author": [
+      "author": [
         "Adri\u00e1n Brunini"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/26/2006 0:00",
-      "RetractionDOI": "10.1038/nature05298",
-      "RetractionPubMedID": "17066038.0",
-      "OriginalPaperDate": "4/27/2006 0:00",
-      "OriginalPaperDOI": "10.1038/nature04577",
-      "OriginalPaperPubMedID": "16641989.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/26/2006 0:00",
+      "retractiondoi": "10.1038/nature05298",
+      "retractionpubmedid": "17066038.0",
+      "originalpaperdate": "4/27/2006 0:00",
+      "originalpaperdoi": "10.1038/nature04577",
+      "originalpaperpubmedid": "16641989.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Results Not Reproducible",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2006,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234ab1b",
-      "Record ID": "18015",
-      "Title": "Compensatory role of the NBCn1 sodium/bicarbonate cotransporter on Ca2+-induced mitochondrial swelling in hypertrophic hearts",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "Centro de Investigaciones Cardiovasculares CIC-CONICET, Facultad de Ciencias M\u00e9dicas, Universidad Nacional de La Plata, La Plata, Argentina"
-      ],
-      "Journal": "Basic Research in Cardiology",
-      "Publisher": "Springer",
-      "Country": [
-        "Argentina"
-      ],
-      "Author": [
-        "Lorena A Vargas",
-        "Fernanda Carrizo Velasquez",
-        "Bernardo V Alvarez"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/18/2018 0:00",
-      "RetractionDOI": "10.1007/s00395-018-0680-3",
-      "RetractionPubMedID": "29671120.0",
-      "OriginalPaperDate": "1/24/2017 0:00",
-      "OriginalPaperDOI": "10.1007/s00395-017-0604-7",
-      "OriginalPaperPubMedID": "28120038.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Company/Institution",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2006",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 1,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

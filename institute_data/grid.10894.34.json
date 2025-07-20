@@ -1,25 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687901d",
+    "_id": "687ccbab09adbf7aa61b9c3e",
     "grid_id": "grid.10894.34",
     "institute_name": "Alfred Wegener Institute for Polar and Marine Research",
     "country": "Germany",
     "retracted_record_ids": [
-      "39326",
       "30840",
+      "39326",
       "6272"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345834",
-      "Record ID": "39326",
-      "Title": "Plio-Pleistocene Indonesian Throughflow Variability Drove Eastern Indian Ocean Sea Surface Temperatures",
-      "Subject": [
+      "_id": "687cefb41f662220d898ac1a",
+      "recordId": "39326",
+      "title": "Plio-Pleistocene Indonesian Throughflow Variability Drove Eastern Indian Ocean Sea Surface Temperatures",
+      "subject": [
         "(ENV) Climate Change",
         "(ENV) Ground/Surface Water"
       ],
-      "Institution": [
+      "institution": [
         "Department of Geosciences, University of Massachusetts Amherst, Amherst, MA, USA",
         "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany",
         "MARUM-Center for Marine and Environmental Sciences, University of Bremen, Bremen, Germany",
@@ -32,9 +32,9 @@
         "School of Earth Sciences, University of Melbourne, Melbourne, Victoria, Australia",
         "Institute for Geophysics, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, USA"
       ],
-      "Journal": "Paleoceanography and Paleoclimatology",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Paleoceanography and Paleoclimatology",
+      "publisher": "Wiley",
+      "country": [
         "Australia",
         "Austria",
         "Germany",
@@ -43,7 +43,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Rebecca A Smith",
         "Isla S Castenada",
         "Jeroen Groeneveld",
@@ -56,75 +56,78 @@
         "Stephen J Gallagher",
         "Craig S Fulthorpe"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/21/2022 0:00",
-      "RetractionDOI": "10.1002/palo.21208",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/29/2020 0:00",
-      "OriginalPaperDOI": "10.1029/2020PA003872",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/21/2022 0:00",
+      "retractiondoi": "10.1002/palo.21208",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/29/2020 0:00",
+      "originalpaperdoi": "10.1029/2020PA003872",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2347931",
-      "Record ID": "30840",
-      "Title": "Hypoxia attenuate ionic transport in the isolated gill epithelium of Carcinus maenas",
-      "Subject": [
+      "_id": "687cefd61f662220d898cd17",
+      "recordId": "30840",
+      "title": "Hypoxia attenuate ionic transport in the isolated gill epithelium of Carcinus maenas",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - Cellular",
         "(BLS) Zoology"
       ],
-      "Institution": [
+      "institution": [
         "Center for Marine Research, Institute Rudder Boskovic, Rovinj, Zagreb, Croatia",
         "Alfred Wegener-Institute Helmholtz Centre for Polar and Marine Research, Wadden Sea Station List, Sylt, Germany"
       ],
-      "Journal": "Journal of Comparative Physiology B",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Journal of Comparative Physiology B",
+      "publisher": "Springer",
+      "country": [
         "Croatia",
         "Germany"
       ],
-      "Author": [
+      "author": [
         "\u010cedomil Lucu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/14/2021 0:00",
-      "RetractionDOI": "10.1007/s00360-021-01383-9",
-      "RetractionPubMedID": "34259918.0",
-      "OriginalPaperDate": "4/24/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s00360-020-01277-2",
-      "OriginalPaperPubMedID": "32333115.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "7/14/2021 0:00",
+      "retractiondoi": "10.1007/s00360-021-01383-9",
+      "retractionpubmedid": "34259918.0",
+      "originalpaperdate": "4/24/2020 0:00",
+      "originalpaperdoi": "10.1007/s00360-020-01277-2",
+      "originalpaperpubmedid": "32333115.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Duplication of/in Image",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d8a8",
-      "Record ID": "6272",
-      "Title": "What caused the mid-Holocene forest decline on the eastern Tibet-Qinghai Plateau?",
-      "Subject": [
+      "_id": "687cf0c11f662220d8992c8e",
+      "recordId": "6272",
+      "title": "What caused the mid-Holocene forest decline on the eastern Tibet-Qinghai Plateau?",
+      "subject": [
         "(BLS) Plant Biology/Botany",
         "(ENV) Climate Change",
         "(ENV) Ecology",
         "(HUM) History - Asia"
       ],
-      "Institution": [
+      "institution": [
         "Alfred Wegener Institute for Polar and Marine Research, Potsdam",
         "Department of Geosciences, University of Potsdam, Potsdam-Golm",
         "Department of Biology and Bjerknes Centre for Climate Research, University of Bergen, Bergen",
@@ -132,82 +135,83 @@
         "Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing",
         "Alfred Wegener Institute for Polar and Marine Research, Bremerhaven"
       ],
-      "Journal": "Global Ecology and Biogeography",
-      "Publisher": "Weed Science Society of America",
-      "Country": [
+      "journal": "Global Ecology and Biogeography",
+      "publisher": "Weed Science Society of America",
+      "country": [
         "China",
         "Germany",
         "Norway",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Ulrike Herzschuh",
         "H John B Birks",
         "Xingqi Liu",
         "Claudia Kubatzki",
         "Gerrit Lohmann"
       ],
-      "URLS": "http://retractionwatch.com/2010/12/21/authors-plan-to-appeal-global-ecology-and-biogeography-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/12/21/authors-plan-to-appeal-global-ecology-and-biogeography-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/17/2010 0:00",
-      "RetractionDOI": "10.1111/j.1466-8238.2010.00648.x",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/27/2009 0:00",
-      "OriginalPaperDOI": "10.1111/j.1466-8238.2009.00501.x",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/17/2010 0:00",
+      "retractiondoi": "10.1111/j.1466-8238.2010.00648.x",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/27/2009 0:00",
+      "originalpaperdoi": "10.1111/j.1466-8238.2009.00501.x",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of Approval from Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2009,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2010",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2010,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -215,10 +219,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,72 +1,34 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879ec3",
+    "_id": "687ccbab09adbf7aa61baae4",
     "grid_id": "grid.509664.8",
     "institute_name": "Institute of Desertification Studies",
     "country": "China",
     "retracted_record_ids": [
-      "8261",
-      "8283"
+      "8283",
+      "8261"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d0ff",
-      "Record ID": "8261",
-      "Title": "Impacts of Reforestation Approaches on Soil Quality and Vegetation Structure in the Purple Soil Region of Southern China",
-      "Subject": [
-        "(ENV) Ecology",
-        "(ENV) Environmental Sciences",
-        "(PHY) Geology"
-      ],
-      "Institution": [
-        "Institute of Desertification Studies, Chinese Academy of Forestry, Beijing 100091, China",
-        "College of Soil and Water Conservation, Beijing Forestry University, 100083, China"
-      ],
-      "Journal": "2010 2nd IITA International Conference on Geoscience and Remote Sensing",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Youyan Zhang",
-        "Jinhua Cheng",
-        "Zefu Zhou"
-      ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "10/14/2010 0:00",
-      "RetractionDOI": "10.1109/IITA-GRS.2010.5603943",
-      "OriginalPaperDate": "8/28/2010 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234d0e9",
-      "Record ID": "8283",
-      "Title": "Effects of Land Use on Preferential Flow Paths Distributions in Southwestern China",
-      "Subject": [
+      "_id": "687cf0b91f662220d89924cf",
+      "recordId": "8283",
+      "title": "Effects of Land Use on Preferential Flow Paths Distributions in Southwestern China",
+      "subject": [
         "(ENV) Ecology",
         "(PHY) Geology",
         "(PHY) Mathematics"
       ],
-      "Institution": [
+      "institution": [
         "College of Soil and Water Conservation, Beijing Forestry University, 100083, China",
         "Institute of Desertification Studies, Chinese Academy of Forestry, Beijing 100091, China"
       ],
-      "Journal": "2010 2nd IITA International Conference on Geoscience and Remote Sensing",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2010 2nd IITA International Conference on Geoscience and Remote Sensing",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Jinhua Cheng",
         "Hongjiang Zhang",
         "Wei Wang",
@@ -74,31 +36,71 @@
         "Ran Wang",
         "Wenxing L\u00fc"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "10/14/2010 0:00",
-      "RetractionDOI": "10.1109/IITA-GRS.2010.5603182",
-      "OriginalPaperDate": "8/28/2010 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/14/2010 0:00",
+      "retractiondoi": "10.1109/IITA-GRS.2010.5603182",
+      "originalpaperdate": "8/28/2010 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d89924e5",
+      "recordId": "8261",
+      "title": "Impacts of Reforestation Approaches on Soil Quality and Vegetation Structure in the Purple Soil Region of Southern China",
+      "subject": [
+        "(ENV) Ecology",
+        "(ENV) Environmental Sciences",
+        "(PHY) Geology"
+      ],
+      "institution": [
+        "Institute of Desertification Studies, Chinese Academy of Forestry, Beijing 100091, China",
+        "College of Soil and Water Conservation, Beijing Forestry University, 100083, China"
+      ],
+      "journal": "2010 2nd IITA International Conference on Geoscience and Remote Sensing",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Youyan Zhang",
+        "Jinhua Cheng",
+        "Zefu Zhou"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "10/14/2010 0:00",
+      "retractiondoi": "10.1109/IITA-GRS.2010.5603943",
+      "originalpaperdate": "8/28/2010 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 2,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

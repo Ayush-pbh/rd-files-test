@@ -1,62 +1,165 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687929b",
+    "_id": "687ccbab09adbf7aa61b9ebc",
     "grid_id": "grid.426467.5",
     "institute_name": "St Mary's Hospital",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "14325",
-      "184",
-      "1317",
-      "35522",
-      "185",
-      "14326",
       "14324",
-      "2041",
-      "2040"
+      "184",
+      "35522",
+      "2040",
+      "1317",
+      "14326",
+      "14325",
+      "185",
+      "2041"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234b96b",
-      "Record ID": "14325",
-      "Title": "Skin-Derived Fibroblasts for the Treatment of Refractory Achilles Tendinosis: Preliminary Short-Term Results",
-      "Subject": [
+      "_id": "687cefc21f662220d898bad9",
+      "recordId": "35522",
+      "title": "Linear ulceration in collagenous colitis",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "St. Mark\u2019s Hospital, Imperial College, London, United Kingdom",
+        "St. Mary\u2019s Hospital, Imperial College London, London, United Kingdom"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "A N Milestone",
+        "R D Goldin",
+        "T Paris",
+        "J P Teare"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0a11f662220d8990d50",
+      "recordId": "14326",
+      "title": "Skin-Derived Fibroblasts for the Treatment of Refractory Achilles Tendinosis: Preliminary Short-Term Results",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Orthopedics"
       ],
-      "Institution": [
+      "institution": [
         "Royal University Hospital, 103 Hospital Drive, Saskatoon, SK S7N 0WB, Canada",
         "Royal National Orthopaedic Hospital, 45 Bolsover Street, London W1W 5AQ, United Kingdom",
         "Royal National Orthopaedic Hospital, Stanmore, Middlesex, HA7 4LP, United Kingdom",
         "St Mary\u2019s Hospital, Praed Street, London W2 1NY, United Kingdom",
         "Ember Physiotherapy, 18 Buckingham Avenue, West Molesey, Surrey, KT8 1TG, United Kingdom"
       ],
-      "Journal": "The Journal of Bone and Joint Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "The Journal of Bone and Joint Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "Canada",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Haron Obaid",
         "Andrew Clarke",
         "Peter Rosenfeld",
         "Christopher Leach",
         "David Connell"
       ],
-      "URLS": "http://retractionwatch.com/2015/05/14/clinical-trial-of-achilles-tendon-therapy-retracted-for-not-actually-being-a-clinical-trial/;http://retractionwatch.com/2013/12/02/lack-of-ethical-clearance-prompts-expression-of-concern-from-bone-journal/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/05/14/clinical-trial-of-achilles-tendon-therapy-retracted-for-not-actually-being-a-clinical-trial/;http://retractionwatch.com/2013/12/02/lack-of-ethical-clearance-prompts-expression-of-concern-from-bone-journal/",
+      "articletype": [
+        "Retraction Notice"
+      ],
+      "retractiondate": "6/17/2015 0:00",
+      "retractiondoi": "10.2106/JBJS.O.00456",
+      "retractionpubmedid": "26085535.0",
+      "originalpaperdate": "4/15/2015 0:00",
+      "originalpaperdoi": "10.2106/JBJS.O.00119",
+      "originalpaperpubmedid": "25878311.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Error by Third Party",
+        "+Investigation by Company/Institution",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Miscommunication with/by Author",
+        "+Miscommunication with/by Third Party",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0a11f662220d8990d51",
+      "recordId": "14325",
+      "title": "Skin-Derived Fibroblasts for the Treatment of Refractory Achilles Tendinosis: Preliminary Short-Term Results",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Royal University Hospital, 103 Hospital Drive, Saskatoon, SK S7N 0WB, Canada",
+        "Royal National Orthopaedic Hospital, 45 Bolsover Street, London W1W 5AQ, United Kingdom",
+        "Royal National Orthopaedic Hospital, Stanmore, Middlesex, HA7 4LP, United Kingdom",
+        "St Mary\u2019s Hospital, Praed Street, London W2 1NY, United Kingdom",
+        "Ember Physiotherapy, 18 Buckingham Avenue, West Molesey, Surrey, KT8 1TG, United Kingdom"
+      ],
+      "journal": "The Journal of Bone and Joint Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "Canada",
+        "United Kingdom"
+      ],
+      "author": [
+        "Haron Obaid",
+        "Andrew Clarke",
+        "Peter Rosenfeld",
+        "Christopher Leach",
+        "David Connell"
+      ],
+      "urls": "http://retractionwatch.com/2015/05/14/clinical-trial-of-achilles-tendon-therapy-retracted-for-not-actually-being-a-clinical-trial/;http://retractionwatch.com/2013/12/02/lack-of-ethical-clearance-prompts-expression-of-concern-from-bone-journal/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/15/2015 0:00",
-      "RetractionDOI": "10.2106/JBJS.O.00119",
-      "RetractionPubMedID": "25878311.0",
-      "OriginalPaperDate": "2/1/2012 0:00",
-      "OriginalPaperDOI": "10.2106/JBJS.J.00781",
-      "OriginalPaperPubMedID": "22241604.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/15/2015 0:00",
+      "retractiondoi": "10.2106/JBJS.O.00119",
+      "retractionpubmedid": "25878311.0",
+      "originalpaperdate": "2/1/2012 0:00",
+      "originalpaperdoi": "10.2106/JBJS.J.00781",
+      "originalpaperpubmedid": "22241604.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error by Third Party",
         "+Investigation by Company/Institution",
         "+Investigation by Third Party",
@@ -64,32 +167,270 @@
         "+Miscommunication with/by Author",
         "+Miscommunication with/by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efee",
-      "Record ID": "184",
-      "Title": "Optimized dialysis and protease inhibition of sputum dithiothreitol supernatants",
-      "Subject": [
+      "_id": "687cf0a11f662220d8990d52",
+      "recordId": "14324",
+      "title": "Skin-Derived Fibroblasts for the Treatment of Refractory Achilles Tendinosis: Preliminary Short-Term Results",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Royal University Hospital, 103 Hospital Drive, Saskatoon, SK S7N 0WB, Canada",
+        "Royal National Orthopaedic Hospital, 45 Bolsover Street, London W1W 5AQ, United Kingdom",
+        "Royal National Orthopaedic Hospital, Stanmore, Middlesex, HA7 4LP, United Kingdom",
+        "St Mary\u2019s Hospital, Praed Street, London W2 1NY, United Kingdom",
+        "Ember Physiotherapy, 18 Buckingham Avenue, West Molesey, Surrey, KT8 1TG, United Kingdom"
+      ],
+      "journal": "The Journal of Bone and Joint Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "Canada",
+        "United Kingdom"
+      ],
+      "author": [
+        "Haron Obaid",
+        "Andrew Clarke",
+        "Peter Rosenfeld",
+        "Christopher Leach",
+        "David Connell"
+      ],
+      "urls": "http://retractionwatch.com/2015/05/14/clinical-trial-of-achilles-tendon-therapy-retracted-for-not-actually-being-a-clinical-trial/;http://retractionwatch.com/2013/12/02/lack-of-ethical-clearance-prompts-expression-of-concern-from-bone-journal/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/20/2013 0:00",
+      "retractiondoi": "10.2106/JBJS.M.01269",
+      "retractionpubmedid": "24257665.0",
+      "originalpaperdate": "2/1/2012 0:00",
+      "originalpaperdoi": "10.2106/JBJS.J.00781",
+      "originalpaperpubmedid": "22241604.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Ethical Violations by Author",
+        "+Investigation by Third Party",
+        "+Lack of Approval from Company/Institution",
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "paywalled": "Yes",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993cbb",
+      "recordId": "2041",
+      "title": "Relation between infection with a subtype of HPV16 and cervical neoplasia",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Ludwig Institute for Cancer Research, St Mary's Branch, St Mary's Hospital Medical School, Norfolk Place, London"
+      ],
+      "journal": "Lancet",
+      "publisher": "Elsevier",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "John A Tidy",
+        "Karen H Vousden",
+        "Paul J Farrell"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/23/1989 0:00",
+      "retractiondoi": "10.1016/S0140-6736(89)92987-5",
+      "retractionpubmedid": "2574815.0",
+      "originalpaperdate": "6/3/1989 0:00",
+      "originalpaperdoi": "10.1016/S0140-6736(89)92329-5",
+      "originalpaperpubmedid": "2566780.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Contamination of Cell Lines/Tissues",
+        "+Results Not Reproducible"
+      ],
+      "paywalled": "Yes",
+      "notes": "Retraction title Retraction: human papillomavirus subtype 16b",
+      "year": "1989",
+      "noticeYear": "1989",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993cbc",
+      "recordId": "2040",
+      "title": "High rate of human papillomavirus type 16 infection in cytologically normal cervices",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Ludwig Institute for Cancer Research, St Mary's Hospital Medical School, London W2 1PG, United Kingdom Department of Biochemistry, Charing Cross and Westminster Medical School, London W6, United Kingdom Department of Pathology, St Mary's Hospital Medical School, United Kingdom Institute of Cancer Research, Sutton, Surrey, United Kingdom"
+      ],
+      "journal": "Lancet",
+      "publisher": "Elsevier",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "John A Tidy",
+        "Graham C N Parry",
+        "Penelope Ward",
+        "Dulcie V Coleman",
+        "Julian Peto",
+        "Alan D B Malcolm",
+        "Paul J Farrell"
+      ],
+      "articletype": [
+        "Letter",
+        "Research Article"
+      ],
+      "retractiondate": "12/23/1989 0:00",
+      "retractiondoi": "10.1016/S0140-6736(89)92987-5",
+      "retractionpubmedid": "2574815.0",
+      "originalpaperdate": "6/3/1989 0:00",
+      "originalpaperdoi": "10.1016/S0140-6736(89)90023-8",
+      "originalpaperpubmedid": "2563804.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Contamination of Cell Lines/Tissues",
+        "+Results Not Reproducible"
+      ],
+      "paywalled": "Yes",
+      "notes": "Notice titled Retraction: human papillomavirus subtype 16b. Notice Date December 23-30 1989",
+      "year": "1989",
+      "noticeYear": "1989",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d31f662220d8993f7e",
+      "recordId": "1317",
+      "title": "Academic integrity. Proper Review Makes Funding Irrelevant",
+      "subject": [
+        "(SOC) Ethics/Bioethics"
+      ],
+      "institution": [
+        "St Mary's Hospital, London, UK"
+      ],
+      "journal": "BMJ: British Medical Journal",
+      "publisher": "BMJ Publishing",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "James Bird"
+      ],
+      "articletype": [
+        "Commentary/Editorial",
+        "Letter"
+      ],
+      "retractiondate": "8/26/1995 0:00",
+      "retractiondoi": "10.1136/bmj.311.7004.573d",
+      "retractionpubmedid": "7663236.0",
+      "originalpaperdate": "4/22/1995 0:00",
+      "originalpaperdoi": "10.1136/bmj.310.6986.1068c",
+      "originalpaperpubmedid": "7728076.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+False/Forged Affiliation",
+        "+False/Forged Authorship"
+      ],
+      "paywalled": "No",
+      "year": "1995",
+      "noticeYear": "1995",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d91f662220d89943d3",
+      "recordId": "185",
+      "title": "The effects of a monoclonal antibody directed against tumor necrosis factor-alpha in asthma",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
+        "Clinical Studies Unit, National Heart and Lung Institute, and Department of Thoracic Medicine, Imperial College, London",
+        "Department of Nephrology, Royal Free Hospital, London",
+        "Department of Respiratory Medicine, St. Mary's Hospital, London, United Kingdom",
+        "Centocor, Inc., Malvern, Pennsylvania"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "publisher": "American Thoracic Society",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Edward M Erin",
+        "Brian R Leaker",
+        "Grant C Nicholson",
+        "Andrew J Tan",
+        "Linda M Green",
+        "Helen Neighbour",
+        "Angela S Zacharasiewicz",
+        "Jackie Turner",
+        "Elliot S Barnathan",
+        "Onn Min Kon",
+        "Peter J Barnes",
+        "Trevor T Hansel"
+      ],
+      "urls": "http://retractionwatch.com/2011/02/03/retractions-arrive-in-case-of-edward-erin-british-allergist-who-tried-to-poison-mistress/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/1/2011 0:00",
+      "retractiondoi": "10.1164/ajrccm.183.3.418",
+      "retractionpubmedid": "21288870.0",
+      "originalpaperdate": "10/1/2006 0:00",
+      "originalpaperdoi": "10.1164/rccm.200601-072OC",
+      "originalpaperpubmedid": "16840747.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d91f662220d89943d4",
+      "recordId": "184",
+      "title": "Optimized dialysis and protease inhibition of sputum dithiothreitol supernatants",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
         "Clinical Studies Unit, National Heart and Lung Institute, Imperial College, London, United Kingdom",
         "Department of Respiratory Medicine, St. Mary's Hospital, London, United Kingdom",
         "Department of Respiratory Paediatrics, Royal Free Hospital, London, United Kingdom Department of Nephrology, Royal Free Hospital, London, United Kingdom",
         "Department of Leukocyte Biology, Imperial College, London, United Kingdom",
         "Department of Thoracic Medicine, Imperial College, London, United Kingdom"
       ],
-      "Journal": "American Journal of Respiratory and Critical Care Medicine",
-      "Publisher": "American Thoracic Society",
-      "Country": [
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "publisher": "American Thoracic Society",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Edward M Erin",
         "Gavin R Jenkins",
         "Onn Min Kon",
@@ -104,468 +445,136 @@
         "Peter J Barnes",
         "Trevor T Hansel"
       ],
-      "URLS": "http://retractionwatch.com/2011/02/03/retractions-arrive-in-case-of-edward-erin-british-allergist-who-tried-to-poison-mistress/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2011/02/03/retractions-arrive-in-case-of-edward-erin-british-allergist-who-tried-to-poison-mistress/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2011 0:00",
-      "RetractionDOI": "10.1164/ajrccm.183.3.418",
-      "RetractionPubMedID": "21288870.0",
-      "OriginalPaperDate": "1/15/2008 0:00",
-      "OriginalPaperDOI": "10.1164/rccm.200603-311OC",
-      "OriginalPaperPubMedID": "17962642.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2011 0:00",
+      "retractiondoi": "10.1164/ajrccm.183.3.418",
+      "retractionpubmedid": "21288870.0",
+      "originalpaperdate": "1/15/2008 0:00",
+      "originalpaperdoi": "10.1164/rccm.200603-311OC",
+      "originalpaperpubmedid": "17962642.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2008,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234eb98",
-      "Record ID": "1317",
-      "Title": "Academic integrity. Proper Review Makes Funding Irrelevant",
-      "Subject": [
-        "(SOC) Ethics/Bioethics"
-      ],
-      "Institution": [
-        "St Mary's Hospital, London, UK"
-      ],
-      "Journal": "BMJ: British Medical Journal",
-      "Publisher": "BMJ Publishing",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "James Bird"
-      ],
-      "ArticleType": [
-        "Commentary/Editorial",
-        "Letter"
-      ],
-      "RetractionDate": "8/26/1995 0:00",
-      "RetractionDOI": "10.1136/bmj.311.7004.573d",
-      "RetractionPubMedID": "7663236.0",
-      "OriginalPaperDate": "4/22/1995 0:00",
-      "OriginalPaperDOI": "10.1136/bmj.310.6986.1068c",
-      "OriginalPaperPubMedID": "7728076.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+False/Forged Affiliation",
-        "+False/Forged Authorship"
-      ],
-      "Paywalled": "No",
-      "notice_year": 1995,
-      "year": 1995,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23466f3",
-      "Record ID": "35522",
-      "Title": "Linear ulceration in collagenous colitis",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "St. Mark\u2019s Hospital, Imperial College, London, United Kingdom",
-        "St. Mary\u2019s Hospital, Imperial College London, London, United Kingdom"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "A N Milestone",
-        "R D Goldin",
-        "T Paris",
-        "J P Teare"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234efed",
-      "Record ID": "185",
-      "Title": "The effects of a monoclonal antibody directed against tumor necrosis factor-alpha in asthma",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Clinical Studies Unit, National Heart and Lung Institute, and Department of Thoracic Medicine, Imperial College, London",
-        "Department of Nephrology, Royal Free Hospital, London",
-        "Department of Respiratory Medicine, St. Mary's Hospital, London, United Kingdom",
-        "Centocor, Inc., Malvern, Pennsylvania"
-      ],
-      "Journal": "American Journal of Respiratory and Critical Care Medicine",
-      "Publisher": "American Thoracic Society",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Edward M Erin",
-        "Brian R Leaker",
-        "Grant C Nicholson",
-        "Andrew J Tan",
-        "Linda M Green",
-        "Helen Neighbour",
-        "Angela S Zacharasiewicz",
-        "Jackie Turner",
-        "Elliot S Barnathan",
-        "Onn Min Kon",
-        "Peter J Barnes",
-        "Trevor T Hansel"
-      ],
-      "URLS": "http://retractionwatch.com/2011/02/03/retractions-arrive-in-case-of-edward-erin-british-allergist-who-tried-to-poison-mistress/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/1/2011 0:00",
-      "RetractionDOI": "10.1164/ajrccm.183.3.418",
-      "RetractionPubMedID": "21288870.0",
-      "OriginalPaperDate": "10/1/2006 0:00",
-      "OriginalPaperDOI": "10.1164/rccm.200601-072OC",
-      "OriginalPaperPubMedID": "16840747.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234b96a",
-      "Record ID": "14326",
-      "Title": "Skin-Derived Fibroblasts for the Treatment of Refractory Achilles Tendinosis: Preliminary Short-Term Results",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Royal University Hospital, 103 Hospital Drive, Saskatoon, SK S7N 0WB, Canada",
-        "Royal National Orthopaedic Hospital, 45 Bolsover Street, London W1W 5AQ, United Kingdom",
-        "Royal National Orthopaedic Hospital, Stanmore, Middlesex, HA7 4LP, United Kingdom",
-        "St Mary\u2019s Hospital, Praed Street, London W2 1NY, United Kingdom",
-        "Ember Physiotherapy, 18 Buckingham Avenue, West Molesey, Surrey, KT8 1TG, United Kingdom"
-      ],
-      "Journal": "The Journal of Bone and Joint Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
-        "Canada",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Haron Obaid",
-        "Andrew Clarke",
-        "Peter Rosenfeld",
-        "Christopher Leach",
-        "David Connell"
-      ],
-      "URLS": "http://retractionwatch.com/2015/05/14/clinical-trial-of-achilles-tendon-therapy-retracted-for-not-actually-being-a-clinical-trial/;http://retractionwatch.com/2013/12/02/lack-of-ethical-clearance-prompts-expression-of-concern-from-bone-journal/",
-      "ArticleType": [
-        "Retraction Notice"
-      ],
-      "RetractionDate": "6/17/2015 0:00",
-      "RetractionDOI": "10.2106/JBJS.O.00456",
-      "RetractionPubMedID": "26085535.0",
-      "OriginalPaperDate": "4/15/2015 0:00",
-      "OriginalPaperDOI": "10.2106/JBJS.O.00119",
-      "OriginalPaperPubMedID": "25878311.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Error by Third Party",
-        "+Investigation by Company/Institution",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Miscommunication with/by Author",
-        "+Miscommunication with/by Third Party",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234b96c",
-      "Record ID": "14324",
-      "Title": "Skin-Derived Fibroblasts for the Treatment of Refractory Achilles Tendinosis: Preliminary Short-Term Results",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Royal University Hospital, 103 Hospital Drive, Saskatoon, SK S7N 0WB, Canada",
-        "Royal National Orthopaedic Hospital, 45 Bolsover Street, London W1W 5AQ, United Kingdom",
-        "Royal National Orthopaedic Hospital, Stanmore, Middlesex, HA7 4LP, United Kingdom",
-        "St Mary\u2019s Hospital, Praed Street, London W2 1NY, United Kingdom",
-        "Ember Physiotherapy, 18 Buckingham Avenue, West Molesey, Surrey, KT8 1TG, United Kingdom"
-      ],
-      "Journal": "The Journal of Bone and Joint Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
-        "Canada",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Haron Obaid",
-        "Andrew Clarke",
-        "Peter Rosenfeld",
-        "Christopher Leach",
-        "David Connell"
-      ],
-      "URLS": "http://retractionwatch.com/2015/05/14/clinical-trial-of-achilles-tendon-therapy-retracted-for-not-actually-being-a-clinical-trial/;http://retractionwatch.com/2013/12/02/lack-of-ethical-clearance-prompts-expression-of-concern-from-bone-journal/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/20/2013 0:00",
-      "RetractionDOI": "10.2106/JBJS.M.01269",
-      "RetractionPubMedID": "24257665.0",
-      "OriginalPaperDate": "2/1/2012 0:00",
-      "OriginalPaperDOI": "10.2106/JBJS.J.00781",
-      "OriginalPaperPubMedID": "22241604.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Ethical Violations by Author",
-        "+Investigation by Third Party",
-        "+Lack of Approval from Company/Institution",
-        "+Lack of IRB/IACUC Approval and/or Compliance"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234e8d5",
-      "Record ID": "2041",
-      "Title": "Relation between infection with a subtype of HPV16 and cervical neoplasia",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Ludwig Institute for Cancer Research, St Mary's Branch, St Mary's Hospital Medical School, Norfolk Place, London"
-      ],
-      "Journal": "Lancet",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "John A Tidy",
-        "Karen H Vousden",
-        "Paul J Farrell"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/23/1989 0:00",
-      "RetractionDOI": "10.1016/S0140-6736(89)92987-5",
-      "RetractionPubMedID": "2574815.0",
-      "OriginalPaperDate": "6/3/1989 0:00",
-      "OriginalPaperDOI": "10.1016/S0140-6736(89)92329-5",
-      "OriginalPaperPubMedID": "2566780.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Contamination of Cell Lines/Tissues",
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "Yes",
-      "Notes": "Retraction title Retraction: human papillomavirus subtype 16b",
-      "notice_year": 1989,
-      "year": 1989,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e8d6",
-      "Record ID": "2040",
-      "Title": "High rate of human papillomavirus type 16 infection in cytologically normal cervices",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Ludwig Institute for Cancer Research, St Mary's Hospital Medical School, London W2 1PG, United Kingdom Department of Biochemistry, Charing Cross and Westminster Medical School, London W6, United Kingdom Department of Pathology, St Mary's Hospital Medical School, United Kingdom Institute of Cancer Research, Sutton, Surrey, United Kingdom"
-      ],
-      "Journal": "Lancet",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "John A Tidy",
-        "Graham C N Parry",
-        "Penelope Ward",
-        "Dulcie V Coleman",
-        "Julian Peto",
-        "Alan D B Malcolm",
-        "Paul J Farrell"
-      ],
-      "ArticleType": [
-        "Letter",
-        "Research Article"
-      ],
-      "RetractionDate": "12/23/1989 0:00",
-      "RetractionDOI": "10.1016/S0140-6736(89)92987-5",
-      "RetractionPubMedID": "2574815.0",
-      "OriginalPaperDate": "6/3/1989 0:00",
-      "OriginalPaperDOI": "10.1016/S0140-6736(89)90023-8",
-      "OriginalPaperPubMedID": "2563804.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Contamination of Cell Lines/Tissues",
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "Yes",
-      "Notes": "Notice titled Retraction: human papillomavirus subtype 16b. Notice Date December 23-30 1989",
-      "notice_year": 1989,
-      "year": 1989,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1989,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 1995,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2006,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

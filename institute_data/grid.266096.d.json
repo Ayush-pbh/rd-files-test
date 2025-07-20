@@ -1,96 +1,47 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068789f1",
+    "_id": "687ccbab09adbf7aa61b9612",
     "grid_id": "grid.266096.d",
     "institute_name": "University of California, Merced",
     "country": "United States",
     "retracted_record_ids": [
-      "27752",
-      "50460",
-      "33715",
-      "18685",
       "42793",
-      "3093",
+      "21086",
+      "27759",
+      "27752",
       "27758",
       "19777",
+      "18685",
+      "50460",
+      "50459",
+      "3093",
+      "5127",
       "19776",
       "8366",
-      "21086",
-      "5127",
-      "27759",
-      "50459"
+      "33715"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234853a",
-      "Record ID": "27752",
-      "Title": "Replication or death: distinct fates of pathogenic Leptospira strain Lai within macrophages of human or mouse origin",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Division of Basic Medical Microbiology, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, First Affiliated Hospital of Zhejiang University, Hangzhou, P.R. China",
-        "Department of Medical Microbiology and Parasitology, College of Medicine, Zhejiang University, Hangzhou, P.R. China",
-        "School of Natural Sciences, University of California, Merced, California, USA",
-        "School of Life Sciences, Zhejiang University, Hangzhou, P.R. China"
-      ],
-      "Journal": "Innate Immunity",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Shijun Li",
-        "David M Ojcius",
-        "Sumei Liao",
-        "Liwei Li",
-        "Feng Xue",
-        "Haiyan Dong",
-        "Jie Yan"
-      ],
-      "URLS": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/12/2020 0:00",
-      "RetractionDOI": "10.1177/1753425920963461",
-      "RetractionPubMedID": "33044889.0",
-      "OriginalPaperDate": "7/8/2009 0:00",
-      "OriginalPaperDOI": "10.1177/1753425909105580",
-      "OriginalPaperPubMedID": "19587003.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2009,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2342ce5",
-      "Record ID": "50460",
-      "Title": "Taste loss as a distinct symptom of COVID-19: a systematic review and meta-analysis",
-      "Subject": [
+      "_id": "687cef8c1f662220d89880cb",
+      "recordId": "50460",
+      "title": "Taste loss as a distinct symptom of COVID-19: a systematic review and meta-analysis",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Otorhinolaryngology"
       ],
-      "Institution": [
+      "institution": [
         "Monell Chemical Senses Center, 3500 Market St, Philadelphia PA 19104, USA",
         "Department of Public Health, University of California Merced, Merced, CA 95348, USA",
         "Division of Intramural Research, National Institute of Nursing Research, National Institutes of Health, Bethesda, MD, USA",
         "Division of Intramural Research, National Institute of Alcohol Abuse and Alcoholism, National Institutes of Health, Bethesda, MD, USA"
       ],
-      "Journal": "Chemical Senses",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Chemical Senses",
+      "publisher": "Oxford Academic",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Mackenzie E Hannum",
         "Riley J Koch",
         "Vicente A Ramirez",
@@ -101,171 +52,645 @@
         "Paule V Joseph",
         "Danielle R Reed"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Meta-Analysis",
         "Review Article"
       ],
-      "RetractionDate": "6/21/2023 0:00",
-      "RetractionDOI": "10.1093/chemse/bjad019",
-      "RetractionPubMedID": "37503716.0",
-      "OriginalPaperDate": "2/16/2022 0:00",
-      "OriginalPaperDOI": "10.1093/chemse/bjac001",
-      "OriginalPaperPubMedID": "35171979.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "6/21/2023 0:00",
+      "retractiondoi": "10.1093/chemse/bjad019",
+      "retractionpubmedid": "37503716.0",
+      "originalpaperdate": "2/16/2022 0:00",
+      "originalpaperdoi": "10.1093/chemse/bjac001",
+      "originalpaperpubmedid": "35171979.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346dff",
-      "Record ID": "33715",
-      "Title": "Optimization of Hierarchical Regression Model with Application to Optimizing Multi-Response Regression K-ary Trees",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology"
+      "_id": "687cef8c1f662220d89880cc",
+      "recordId": "50459",
+      "title": "Taste loss as a distinct symptom of COVID-19: a systematic review and meta-analysis",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Otorhinolaryngology"
       ],
-      "Institution": [
-        "University of California, Merced, USA",
-        "California Institute of Technology, USA"
+      "institution": [
+        "Monell Chemical Senses Center, 3500 Market St, Philadelphia PA 19104, USA",
+        "Department of Public Health, University of California Merced, Merced, CA 95348, USA",
+        "Division of Intramural Research, National Institute of Nursing Research, National Institutes of Health, Bethesda, MD, USA",
+        "Division of Intramural Research, National Institute of Alcohol Abuse and Alcoholism, National Institutes of Health, Bethesda, MD, USA"
       ],
-      "Journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
-      "Publisher": "Association for the Advancement of Artificial Intelligence",
-      "Country": [
+      "journal": "Chemical Senses",
+      "publisher": "Oxford Academic",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Pooya Tavallali",
-        "Peyman Tavallali",
-        "Mukesh Singhal"
+      "author": [
+        "Mackenzie E Hannum",
+        "Riley J Koch",
+        "Vicente A Ramirez",
+        "Sarah S Marks",
+        "Aurora K Toskala",
+        "Riley D Herriman",
+        "Cailu Lin",
+        "Paule V Joseph",
+        "Danielle R Reed"
       ],
-      "ArticleType": [
-        "Research Article"
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Meta-Analysis",
+        "Review Article"
       ],
-      "RetractionDate": "10/4/2021 0:00",
-      "RetractionDOI": "10.1609/aaai.v33i01.33015133",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/17/2019 0:00",
-      "OriginalPaperDOI": "10.1609/aaai.v33i01.33015133",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Plagiarism of Article"
+      "retractiondate": "12/15/2023 0:00",
+      "retractiondoi": "10.1093/chemse/bjad044",
+      "retractionpubmedid": "38100384.0",
+      "originalpaperdate": "2/16/2022 0:00",
+      "originalpaperdoi": "10.1093/chemse/bjac001",
+      "originalpaperpubmedid": "35171979.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Journal/Publisher",
+        "+Notice - Limited or No Information",
+        "+Retract and Replace",
+        "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page ovewrite, estimated from notifications;",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "see https://academic.oup.com/chemse/article-abstract/doi/10.1093/chemse/bjad043/7471469?redirectedFrom=fulltext",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a87f",
-      "Record ID": "18685",
-      "Title": "Experimental Performance of a Two-Stage (50X) Parabolic Trough Collector tested to 650 degrees C using a Suspended Particulate (Alumina) HTF",
-      "Subject": [
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "University of California, Merced \u2013 5200 Lake Rd, Merced, CA 95343, USA",
-        "University of California Advanced Solar Energy Institute (UC Solar), USA"
-      ],
-      "Journal": "Applied Energy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Bennett Widyolar",
-        "Lun Jiang",
-        "Jonathan Ferry",
-        "Roland Winston"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/5/2018 0:00",
-      "RetractionDOI": "10.1016/j.apenergy.2018.05.107",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/10/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.apenergy.2018.03.173",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Copyright Claims",
-        "+Objections by Third Party"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d2344abb",
-      "Record ID": "42793",
-      "Title": "N-(1-Pyrenyl) Maleimide Induces Bak Oligomerization and Mitochondrial Dysfunction in Jurkat Cells",
-      "Subject": [
+      "_id": "687cefaa1f662220d8989ea1",
+      "recordId": "42793",
+      "title": "N-(1-Pyrenyl) Maleimide Induces Bak Oligomerization and Mitochondrial Dysfunction in Jurkat Cells",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Molecular and Cellular Biology, College of Medicine, Chang Gung University, Kwei-San, Tao-Yuan 333, Taiwan",
         "Health Sciences Research Institute and School of Natural Sciences, University of California, Merced, CA 95343, USA",
         "Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Kwei-San, Tao-Yuan 333, Taiwan",
         "Department of Molecular and Cellular Biology, College of Medicine, Chang Gung University, Kwei-San, Tao-Yuan 333, Taiwan",
         "Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Kwei-San, Tao-Yuan 333, Taiwan"
       ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pei-Rong Huang",
         "Shu-Chen Hung",
         "Chia-Chu Pao",
         "Tzu-Chien V Wang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/28/2021 0:00",
-      "RetractionDOI": "10.1155/2021/9835474",
-      "RetractionPubMedID": "34746314.0",
-      "OriginalPaperDate": "1/8/2015 0:00",
-      "OriginalPaperDOI": "10.1155/2015/798489",
-      "OriginalPaperPubMedID": "25632401.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/28/2021 0:00",
+      "retractiondoi": "10.1155/2021/9835474",
+      "retractionpubmedid": "34746314.0",
+      "originalpaperdate": "1/8/2015 0:00",
+      "originalpaperdoi": "10.1155/2015/798489",
+      "originalpaperpubmedid": "25632401.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues About Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2015,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e4ce",
-      "Record ID": "3093",
-      "Title": "InvA protein is a Nudix hydrolase required for infection by pathogenic Leptospira in cell lines and animals",
-      "Subject": [
+      "_id": "687cefca1f662220d898c1e5",
+      "recordId": "33715",
+      "title": "Optimization of Hierarchical Regression Model with Application to Optimizing Multi-Response Regression K-ary Trees",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "University of California, Merced, USA",
+        "California Institute of Technology, USA"
+      ],
+      "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "publisher": "Association for the Advancement of Artificial Intelligence",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Pooya Tavallali",
+        "Peyman Tavallali",
+        "Mukesh Singhal"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/4/2021 0:00",
+      "retractiondoi": "10.1609/aaai.v33i01.33015133",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/17/2019 0:00",
+      "originalpaperdoi": "10.1609/aaai.v33i01.33015133",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page ovewrite, estimated from notifications;",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687ceff11f662220d898d919",
+      "recordId": "27759",
+      "title": "p53 signalling controls cell cycle arrest and caspase\u2010independent apoptosis in macrophages infected with pathogenic Leptospira species",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Division of Basic Medical Microbiology, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310003 China",
+        "Department of Medical Microbiology and Parasitology, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310058 China",
+        "Health Sciences Research Institute and Molecular Cell Biology, University of California, Merced, CA, 95343 USA",
+        "Department of Microbiology and Immunology, Indiana University School of Medicine, Indianapolis, IN, 46202 USA"
+      ],
+      "journal": "Cellular Microbiology",
+      "publisher": "Wiley",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Weilin Hu",
+        "Yumei Ge",
+        "David M Ojcius",
+        "Dexter Sun",
+        "Haiyan Dong",
+        "X Frank Yang",
+        "Jie Yan"
+      ],
+      "urls": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/19/2020 0:00",
+      "retractiondoi": "10.1111/cmi.13265",
+      "retractionpubmedid": "33155393.0",
+      "originalpaperdate": "4/9/2013 0:00",
+      "originalpaperdoi": "10.1111/cmi.12141",
+      "originalpaperpubmedid": "23521874.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687ceff11f662220d898d91a",
+      "recordId": "27758",
+      "title": "ChpK and MazF of the toxin\u2013antitoxin modules are involved in the virulence of Leptospira interrogans during infection",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Department of Medical Microbiology and Parasitology, Zhejiang University School of Medicine, Hangzhou, Zhejiang 310058, PR China",
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital of Zhejiang University, Hangzhou, Zhejiang 310058, PR China",
+        "Health Sciences Research Institute and Molecular Cell Biology Department, University of California, Merced, CA 95343, USA",
+        "New York Presbyterian Hospital & Hospital for Special Surgery, Weill Medical College, Cornell University, New York, NY, USA"
+      ],
+      "journal": "Microbes and Infection",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Komi Koukoura Komi",
+        "Yu Mei Ge",
+        "Xiao Yang Xin",
+        "David M Ojcius",
+        "Dexter Sun",
+        "Wei Lin Hu",
+        "Xin Zhao",
+        "Xu'ai Lin",
+        "Jie Yan"
+      ],
+      "urls": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/21/2021 0:00",
+      "retractiondoi": "10.1016/j.micinf.2014.10.010",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/13/2014 0:00",
+      "originalpaperdoi": "10.1016/j.micinf.2014.10.010",
+      "originalpaperpubmedid": "25461800.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, date estimated from other notifications;",
+      "year": "2014",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687ceff11f662220d898d920",
+      "recordId": "27752",
+      "title": "Replication or death: distinct fates of pathogenic Leptospira strain Lai within macrophages of human or mouse origin",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Division of Basic Medical Microbiology, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, First Affiliated Hospital of Zhejiang University, Hangzhou, P.R. China",
+        "Department of Medical Microbiology and Parasitology, College of Medicine, Zhejiang University, Hangzhou, P.R. China",
+        "School of Natural Sciences, University of California, Merced, California, USA",
+        "School of Life Sciences, Zhejiang University, Hangzhou, P.R. China"
+      ],
+      "journal": "Innate Immunity",
+      "publisher": "SAGE Publications",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Shijun Li",
+        "David M Ojcius",
+        "Sumei Liao",
+        "Liwei Li",
+        "Feng Xue",
+        "Haiyan Dong",
+        "Jie Yan"
+      ],
+      "urls": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/12/2020 0:00",
+      "retractiondoi": "10.1177/1753425920963461",
+      "retractionpubmedid": "33044889.0",
+      "originalpaperdate": "7/8/2009 0:00",
+      "originalpaperdoi": "10.1177/1753425909105580",
+      "originalpaperpubmedid": "19587003.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f314",
+      "recordId": "21086",
+      "title": "Open science and modified funding lotteries can impede the natural selection of bad science",
+      "subject": [
+        "(BLS) Biology - General"
+      ],
+      "institution": [
+        "Department of Cognitive and Information Sciences, University of California, Merced, CA, USA.",
+        "Department of Psychology, Cornell University, Ithaca, NY, USA."
+      ],
+      "journal": "Royal Society Open Science",
+      "publisher": "Royal Society Publishing",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Paul E Smaldino",
+        "Matthew A Turner",
+        "Pablo A Contreras Kallens"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "8/14/2019 0:00",
+      "retractiondoi": "10.1098/rsos.191249",
+      "retractionpubmedid": "31543978.0",
+      "originalpaperdate": "7/10/2019 0:00",
+      "originalpaperdoi": "10.1098/rsos.190194",
+      "originalpaperpubmedid": "31417725.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08c1f662220d898f828",
+      "recordId": "19777",
+      "title": "Identification of CD24 as a Cancer Stem Cell Marker in Human Nasopharyngeal Carcinoma",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Otorhinolaryngology"
+      ],
+      "institution": [
+        "Biochemical Engineering Research Center, Ming Chi University of Technology, Taipei, Taiwan, Republic of China",
+        "Center for Molecular and Clinical Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan, Republic of China",
+        "Department of Medical Biotechnology and Laboratory Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Department of Microbiology and Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Department of Molecular Cell Biology and Health Sciences Research Institute, University of California Merced, Merced, California, United States of America",
+        "Department of Respiratory Therapy, Fu Jen Catholic University, Taipei, Taiwan, Republic of China",
+        "Division of Applied Toxicology, Taiwan Agricultural Chemicals and Toxic Substances Research Institute, Council of Agriculture, Executive Yuan, Taichung, Taiwan, Republic of China",
+        "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Laboratory of Cellular Physiology and Immunology, Rockefeller University, New York, New York, United States of America",
+        "Molecular Medicine Research Center, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Research Center of Bacterial Pathogenesis, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Taiwan",
+        "United States"
+      ],
+      "author": [
+        "Chun Hung Yang",
+        "Hui Ling Wang",
+        "Yi Sheng Lin",
+        "K P Shravan Kumar",
+        "Hung Chi Lin",
+        "Chih Jung Chang",
+        "Chia Chen Lu",
+        "Tsung Teng Huang",
+        "Jan Martel",
+        "David M Ojcius",
+        "Yu Sun Chang",
+        "John D Yuong",
+        "Hsin Chih Lai"
+      ],
+      "urls": "http://retractionwatch.com/2019/01/12/weekend-reads-fishy-research-on-fishes-was-sokal-squared-misconduct-the-misuse-of-metrics/;http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/26/2014 0:00",
+      "retractiondoi": "10.1371/journal.pone.0109495",
+      "retractionpubmedid": "24955581.0",
+      "originalpaperdate": "6/23/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0099412",
+      "originalpaperpubmedid": "24955581.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of Data"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/8A0CD6D0ADE54A9A28E8EA09D94D71",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08c1f662220d898f829",
+      "recordId": "19776",
+      "title": "Identification of CD24 as a Cancer Stem Cell Marker in Human Nasopharyngeal Carcinoma",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Otorhinolaryngology"
+      ],
+      "institution": [
+        "Biochemical Engineering Research Center, Ming Chi University of Technology, Taipei, Taiwan, Republic of China",
+        "Center for Molecular and Clinical Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan, Republic of China",
+        "Department of Medical Biotechnology and Laboratory Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Department of Microbiology and Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Department of Molecular Cell Biology and Health Sciences Research Institute, University of California Merced, Merced, California, United States of America",
+        "Department of Respiratory Therapy, Fu Jen Catholic University, Taipei, Taiwan, Republic of China",
+        "Division of Applied Toxicology, Taiwan Agricultural Chemicals and Toxic Substances Research Institute, Council of Agriculture, Executive Yuan, Taichung, Taiwan, Republic of China",
+        "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Laboratory of Cellular Physiology and Immunology, Rockefeller University, New York, New York, United States of America",
+        "Molecular Medicine Research Center, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
+        "Research Center of Bacterial Pathogenesis, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "China",
+        "Taiwan",
+        "United States"
+      ],
+      "author": [
+        "Chun Hung Yang",
+        "Hui Ling Wang",
+        "Yi Sheng Lin",
+        "K P Shravan Kumar",
+        "Hung Chi Lin",
+        "Chih Jung Chang",
+        "Chia Chen Lu",
+        "Tsung Teng Huang",
+        "Jan Martel",
+        "David M Ojcius",
+        "Yu Sun Chang",
+        "John D Yuong",
+        "Hsin Chih Lai"
+      ],
+      "urls": "http://retractionwatch.com/2019/01/12/weekend-reads-fishy-research-on-fishes-was-sokal-squared-misconduct-the-misuse-of-metrics/;http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/3/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0210304",
+      "retractionpubmedid": "30605487.0",
+      "originalpaperdate": "6/23/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0099412",
+      "originalpaperpubmedid": "24955581.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/8A0CD6D0ADE54A9A28E8EA09D94D71",
+      "year": "2014",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fc65",
+      "recordId": "18685",
+      "title": "Experimental Performance of a Two-Stage (50X) Parabolic Trough Collector tested to 650 degrees C using a Suspended Particulate (Alumina) HTF",
+      "subject": [
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "University of California, Merced \u2013 5200 Lake Rd, Merced, CA 95343, USA",
+        "University of California Advanced Solar Energy Institute (UC Solar), USA"
+      ],
+      "journal": "Applied Energy",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Bennett Widyolar",
+        "Lun Jiang",
+        "Jonathan Ferry",
+        "Roland Winston"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/5/2018 0:00",
+      "retractiondoi": "10.1016/j.apenergy.2018.05.107",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/10/2018 0:00",
+      "originalpaperdoi": "10.1016/j.apenergy.2018.03.173",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Copyright Claims",
+        "+Objections by Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d899247e",
+      "recordId": "8366",
+      "title": "Frequentist and Bayesian Estimation of CFA Measurement Models With Mixed Item Response Types: A Monte Carlo Investigation",
+      "subject": [
+        "(PHY) Statistics"
+      ],
+      "institution": [
+        "University of California, Merced"
+      ],
+      "journal": "Structural Equation Modeling: A Multidisciplinary Journal",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Sarah Depaoli",
+        "Sarah Scott"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/15/2015 0:00",
+      "retractiondoi": "10.1080/10705511.2015.1107439",
+      "originalpaperdate": "8/28/2015 0:00",
+      "originalpaperdoi": "10.1080/10705511.2015.1044653",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Error in Results and/or Conclusions",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c51f662220d89930ed",
+      "recordId": "5127",
+      "title": "CO2 effects on plant nutrient concentration depend on plant functional group and available nitrogen: a meta-analysis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Department of Biological Sciences, Northern Arizona University, Flagstaff, USA",
+        "School of Natural Sciences, University of California at Merced, Merced, USA",
+        "Merriam Powell Center for Environmental Research, Flagstaff, USA",
+        "Energy Biosciences Institute, University of Illinois at Urbana-Champaign, Urbana, USA"
+      ],
+      "journal": "Plant Ecology",
+      "publisher": "Springer",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Benjamin D Duval",
+        "Joseph C Blankinship",
+        "Paul Dijkstra",
+        "Bruce A Hungate"
+      ],
+      "urls": "http://retractionwatch.com/2015/12/04/paper-claiming-extra-co2-isnt-always-bad-for-plants-pulled-for-errors/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "11/18/2015 0:00",
+      "retractiondoi": "10.1007/s11258-015-0541-1",
+      "originalpaperdate": "11/11/2011 0:00",
+      "originalpaperdoi": "10.1007/s11258-011-9998-8",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Image",
+        "+Error in Methods",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d89938b4",
+      "recordId": "3093",
+      "title": "InvA protein is a Nudix hydrolase required for infection by pathogenic Leptospira in cell lines and animals",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - General",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Division of Basic Medical Microbiology, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital of Medical College, Hangzhou, Zhejiang 310003, China",
         "Department of Medical Microbiology and Parasitology, College of Medicine, Zhejiang University, Hangzhou, Zhejiang 310058, China",
         "Department of Bioinformatics, College of Life Science, Zhejiang University, Hangzhou, Zhejiang 310058, China",
@@ -273,13 +698,13 @@
         "New York Presbyterian Hospital and Hospital for Special Surgery, Weill Medical College, Cornell University SinoUnited Health, New York, New York",
         "Health Sciences Research Institute and School of Natural Sciences, University of California, Merced, California"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Yihui Luo",
         "Yan Liu",
         "Dexter Sun",
@@ -292,533 +717,123 @@
         "Lanjuan Li",
         "Jie Yan"
       ],
-      "URLS": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/16/2012 0:00",
-      "RetractionDOI": "10.1074/jbc.A111.219931",
-      "RetractionPubMedID": "22532973.0",
-      "OriginalPaperDate": "10/21/2011 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M111.219931",
-      "OriginalPaperPubMedID": "21862592.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/16/2012 0:00",
+      "retractiondoi": "10.1074/jbc.A111.219931",
+      "retractionpubmedid": "22532973.0",
+      "originalpaperdate": "10/21/2011 0:00",
+      "originalpaperdoi": "10.1074/jbc.M111.219931",
+      "originalpaperpubmedid": "21862592.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2011,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2348534",
-      "Record ID": "27758",
-      "Title": "ChpK and MazF of the toxin\u2013antitoxin modules are involved in the virulence of Leptospira interrogans during infection",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Department of Medical Microbiology and Parasitology, Zhejiang University School of Medicine, Hangzhou, Zhejiang 310058, PR China",
-        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital of Zhejiang University, Hangzhou, Zhejiang 310058, PR China",
-        "Health Sciences Research Institute and Molecular Cell Biology Department, University of California, Merced, CA 95343, USA",
-        "New York Presbyterian Hospital & Hospital for Special Surgery, Weill Medical College, Cornell University, New York, NY, USA"
-      ],
-      "Journal": "Microbes and Infection",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Komi Koukoura Komi",
-        "Yu Mei Ge",
-        "Xiao Yang Xin",
-        "David M Ojcius",
-        "Dexter Sun",
-        "Wei Lin Hu",
-        "Xin Zhao",
-        "Xu'ai Lin",
-        "Jie Yan"
-      ],
-      "URLS": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/21/2021 0:00",
-      "RetractionDOI": "10.1016/j.micinf.2014.10.010",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/13/2014 0:00",
-      "OriginalPaperDOI": "10.1016/j.micinf.2014.10.010",
-      "OriginalPaperPubMedID": "25461800.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, date estimated from other notifications;",
-      "notice_year": 2021,
-      "year": 2014
-    },
-    {
-      "_id": "6855d574b14f7811d234a442",
-      "Record ID": "19777",
-      "Title": "Identification of CD24 as a Cancer Stem Cell Marker in Human Nasopharyngeal Carcinoma",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Otorhinolaryngology"
-      ],
-      "Institution": [
-        "Biochemical Engineering Research Center, Ming Chi University of Technology, Taipei, Taiwan, Republic of China",
-        "Center for Molecular and Clinical Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan, Republic of China",
-        "Department of Medical Biotechnology and Laboratory Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Department of Microbiology and Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Department of Molecular Cell Biology and Health Sciences Research Institute, University of California Merced, Merced, California, United States of America",
-        "Department of Respiratory Therapy, Fu Jen Catholic University, Taipei, Taiwan, Republic of China",
-        "Division of Applied Toxicology, Taiwan Agricultural Chemicals and Toxic Substances Research Institute, Council of Agriculture, Executive Yuan, Taichung, Taiwan, Republic of China",
-        "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Laboratory of Cellular Physiology and Immunology, Rockefeller University, New York, New York, United States of America",
-        "Molecular Medicine Research Center, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Research Center of Bacterial Pathogenesis, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Taiwan",
-        "United States"
-      ],
-      "Author": [
-        "Chun Hung Yang",
-        "Hui Ling Wang",
-        "Yi Sheng Lin",
-        "K P Shravan Kumar",
-        "Hung Chi Lin",
-        "Chih Jung Chang",
-        "Chia Chen Lu",
-        "Tsung Teng Huang",
-        "Jan Martel",
-        "David M Ojcius",
-        "Yu Sun Chang",
-        "John D Yuong",
-        "Hsin Chih Lai"
-      ],
-      "URLS": "http://retractionwatch.com/2019/01/12/weekend-reads-fishy-research-on-fishes-was-sokal-squared-misconduct-the-misuse-of-metrics/;http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/26/2014 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0109495",
-      "RetractionPubMedID": "24955581.0",
-      "OriginalPaperDate": "6/23/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0099412",
-      "OriginalPaperPubMedID": "24955581.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of Data"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/8A0CD6D0ADE54A9A28E8EA09D94D71",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234a443",
-      "Record ID": "19776",
-      "Title": "Identification of CD24 as a Cancer Stem Cell Marker in Human Nasopharyngeal Carcinoma",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Otorhinolaryngology"
-      ],
-      "Institution": [
-        "Biochemical Engineering Research Center, Ming Chi University of Technology, Taipei, Taiwan, Republic of China",
-        "Center for Molecular and Clinical Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Department of Laboratory Medicine, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan, Republic of China",
-        "Department of Medical Biotechnology and Laboratory Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Department of Microbiology and Immunology, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Department of Molecular Cell Biology and Health Sciences Research Institute, University of California Merced, Merced, California, United States of America",
-        "Department of Respiratory Therapy, Fu Jen Catholic University, Taipei, Taiwan, Republic of China",
-        "Division of Applied Toxicology, Taiwan Agricultural Chemicals and Toxic Substances Research Institute, Council of Agriculture, Executive Yuan, Taichung, Taiwan, Republic of China",
-        "Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Laboratory of Cellular Physiology and Immunology, Rockefeller University, New York, New York, United States of America",
-        "Molecular Medicine Research Center, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China",
-        "Research Center of Bacterial Pathogenesis, College of Medicine, Chang Gung University, Taoyuan, Taiwan, Republic of China"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "China",
-        "Taiwan",
-        "United States"
-      ],
-      "Author": [
-        "Chun Hung Yang",
-        "Hui Ling Wang",
-        "Yi Sheng Lin",
-        "K P Shravan Kumar",
-        "Hung Chi Lin",
-        "Chih Jung Chang",
-        "Chia Chen Lu",
-        "Tsung Teng Huang",
-        "Jan Martel",
-        "David M Ojcius",
-        "Yu Sun Chang",
-        "John D Yuong",
-        "Hsin Chih Lai"
-      ],
-      "URLS": "http://retractionwatch.com/2019/01/12/weekend-reads-fishy-research-on-fishes-was-sokal-squared-misconduct-the-misuse-of-metrics/;http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/3/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0210304",
-      "RetractionPubMedID": "30605487.0",
-      "OriginalPaperDate": "6/23/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0099412",
-      "OriginalPaperPubMedID": "24955581.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/8A0CD6D0ADE54A9A28E8EA09D94D71",
-      "notice_year": 2019,
-      "year": 2014,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234d098",
-      "Record ID": "8366",
-      "Title": "Frequentist and Bayesian Estimation of CFA Measurement Models With Mixed Item Response Types: A Monte Carlo Investigation",
-      "Subject": [
-        "(PHY) Statistics"
-      ],
-      "Institution": [
-        "University of California, Merced"
-      ],
-      "Journal": "Structural Equation Modeling: A Multidisciplinary Journal",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Sarah Depaoli",
-        "Sarah Scott"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/15/2015 0:00",
-      "RetractionDOI": "10.1080/10705511.2015.1107439",
-      "OriginalPaperDate": "8/28/2015 0:00",
-      "OriginalPaperDOI": "10.1080/10705511.2015.1044653",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Error in Results and/or Conclusions",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349f2e",
-      "Record ID": "21086",
-      "Title": "Open science and modified funding lotteries can impede the natural selection of bad science",
-      "Subject": [
-        "(BLS) Biology - General"
-      ],
-      "Institution": [
-        "Department of Cognitive and Information Sciences, University of California, Merced, CA, USA.",
-        "Department of Psychology, Cornell University, Ithaca, NY, USA."
-      ],
-      "Journal": "Royal Society Open Science",
-      "Publisher": "Royal Society Publishing",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Paul E Smaldino",
-        "Matthew A Turner",
-        "Pablo A Contreras Kallens"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "8/14/2019 0:00",
-      "RetractionDOI": "10.1098/rsos.191249",
-      "RetractionPubMedID": "31543978.0",
-      "OriginalPaperDate": "7/10/2019 0:00",
-      "OriginalPaperDOI": "10.1098/rsos.190194",
-      "OriginalPaperPubMedID": "31417725.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234dd07",
-      "Record ID": "5127",
-      "Title": "CO2 effects on plant nutrient concentration depend on plant functional group and available nitrogen: a meta-analysis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Department of Biological Sciences, Northern Arizona University, Flagstaff, USA",
-        "School of Natural Sciences, University of California at Merced, Merced, USA",
-        "Merriam Powell Center for Environmental Research, Flagstaff, USA",
-        "Energy Biosciences Institute, University of Illinois at Urbana-Champaign, Urbana, USA"
-      ],
-      "Journal": "Plant Ecology",
-      "Publisher": "Springer",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Benjamin D Duval",
-        "Joseph C Blankinship",
-        "Paul Dijkstra",
-        "Bruce A Hungate"
-      ],
-      "URLS": "http://retractionwatch.com/2015/12/04/paper-claiming-extra-co2-isnt-always-bad-for-plants-pulled-for-errors/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "11/18/2015 0:00",
-      "RetractionDOI": "10.1007/s11258-015-0541-1",
-      "OriginalPaperDate": "11/11/2011 0:00",
-      "OriginalPaperDOI": "10.1007/s11258-011-9998-8",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Image",
-        "+Error in Methods",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2348533",
-      "Record ID": "27759",
-      "Title": "p53 signalling controls cell cycle arrest and caspase\u2010independent apoptosis in macrophages infected with pathogenic Leptospira species",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Division of Basic Medical Microbiology, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310003 China",
-        "Department of Medical Microbiology and Parasitology, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310058 China",
-        "Health Sciences Research Institute and Molecular Cell Biology, University of California, Merced, CA, 95343 USA",
-        "Department of Microbiology and Immunology, Indiana University School of Medicine, Indianapolis, IN, 46202 USA"
-      ],
-      "Journal": "Cellular Microbiology",
-      "Publisher": "Wiley",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Weilin Hu",
-        "Yumei Ge",
-        "David M Ojcius",
-        "Dexter Sun",
-        "Haiyan Dong",
-        "X Frank Yang",
-        "Jie Yan"
-      ],
-      "URLS": "http://retractionwatch.com/2021/04/28/on-the-perils-of-scientific-collaboration-from-thousands-of-miles-away/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/19/2020 0:00",
-      "RetractionDOI": "10.1111/cmi.13265",
-      "RetractionPubMedID": "33155393.0",
-      "OriginalPaperDate": "4/9/2013 0:00",
-      "OriginalPaperDOI": "10.1111/cmi.12141",
-      "OriginalPaperPubMedID": "23521874.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2342ce6",
-      "Record ID": "50459",
-      "Title": "Taste loss as a distinct symptom of COVID-19: a systematic review and meta-analysis",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Otorhinolaryngology"
-      ],
-      "Institution": [
-        "Monell Chemical Senses Center, 3500 Market St, Philadelphia PA 19104, USA",
-        "Department of Public Health, University of California Merced, Merced, CA 95348, USA",
-        "Division of Intramural Research, National Institute of Nursing Research, National Institutes of Health, Bethesda, MD, USA",
-        "Division of Intramural Research, National Institute of Alcohol Abuse and Alcoholism, National Institutes of Health, Bethesda, MD, USA"
-      ],
-      "Journal": "Chemical Senses",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Mackenzie E Hannum",
-        "Riley J Koch",
-        "Vicente A Ramirez",
-        "Sarah S Marks",
-        "Aurora K Toskala",
-        "Riley D Herriman",
-        "Cailu Lin",
-        "Paule V Joseph",
-        "Danielle R Reed"
-      ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Meta-Analysis",
-        "Review Article"
-      ],
-      "RetractionDate": "12/15/2023 0:00",
-      "RetractionDOI": "10.1093/chemse/bjad044",
-      "RetractionPubMedID": "38100384.0",
-      "OriginalPaperDate": "2/16/2022 0:00",
-      "OriginalPaperDOI": "10.1093/chemse/bjac001",
-      "OriginalPaperPubMedID": "35171979.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Journal/Publisher",
-        "+Notice - Limited or No Information",
-        "+Retract and Replace",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "see https://academic.oup.com/chemse/article-abstract/doi/10.1093/chemse/bjad043/7471469?redirectedFrom=fulltext",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2012",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -826,32 +841,32 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

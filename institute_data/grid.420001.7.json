@@ -1,42 +1,135 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879def",
+    "_id": "687ccbab09adbf7aa61baa10",
     "grid_id": "grid.420001.7",
     "institute_name": "New York State Office for People With Developmental Disabilities",
     "country": "United States",
     "retracted_record_ids": [
-      "4598",
+      "812",
+      "12417",
       "12773",
       "4597",
-      "12417",
-      "812"
+      "4598"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234df0f",
-      "Record ID": "4598",
-      "Title": "Upregulation of Ras/Raf/ERK1/2 signaling and ERK5 in the brain of autistic subjects",
-      "Subject": [
+      "_id": "687cf0ac1f662220d899135e",
+      "recordId": "12773",
+      "title": "PRKX critically regulates endothelial cell proliferation, migration, and vascular-like structure formation",
+      "subject": [
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Neurochemistry, NY State Institute for Basic Research in Developmental Disabilities, New York, NY 10314, USA",
+        "Department of Development and Regenerative Biology, New York, NY 10029, USA",
+        "Department of Medicine, Mount Sinai School of Medicine, New York, NY 10029, USA",
+        "Department of Medicine, University College London Medical School, London NW3 2PF, UK"
+      ],
+      "journal": "Developmental Biology",
+      "publisher": "Elsevier",
+      "country": [
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Xiaohong Li",
+        "Carlo Iomini",
+        "Deborah Hyink",
+        "Patricia D Wilson"
+      ],
+      "urls": "http://retractionwatch.com/2016/07/20/institute-director-loses-third-paper-following-investigation/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/15/2013 0:00",
+      "retractiondoi": "10.1016/j.ydbio.2013.07.014",
+      "originalpaperdate": "6/12/2011 0:00",
+      "originalpaperdoi": "10.1016/j.ydbio.2011.05.673",
+      "originalpaperpubmedid": "21684272.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "X Li otherwise investigated;",
+      "year": "2011",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0ac1f662220d89914c1",
+      "recordId": "12417",
+      "title": "NF-kB signaling in the brain of autistic subjects",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Department of Neurochemistry, New York State Institute for Basic Research in Developmental Disabilities, 1050 Forest Hill Road, Staten Island, New York, NY 10314, USA"
+      ],
+      "journal": "Mediators of Inflammation",
+      "publisher": "Hindawi",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Mazhar Malik",
+        "Zujaja Tauqeer",
+        "Ashfaq M Sheikh",
+        "Guang Wen",
+        "Amenah Nagori",
+        "Kun Yang",
+        "W Ted Brown",
+        "Xiaohong Li"
+      ],
+      "urls": "http://retractionwatch.com/2016/07/20/institute-director-loses-third-paper-following-investigation/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/5/2013 0:00",
+      "retractiondoi": "10.1155/2013/691975",
+      "originalpaperdate": "8/18/2011 0:00",
+      "originalpaperdoi": "10.1155/2011/785265",
+      "originalpaperpubmedid": "22046080.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "Erratum added Fujiang Cao as an author.",
+      "year": "2011",
+      "noticeYear": "2013",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d89932f5",
+      "recordId": "4598",
+      "title": "Upregulation of Ras/Raf/ERK1/2 signaling and ERK5 in the brain of autistic subjects",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurochemistry, NY State Institute for Basic Research in Developmental Disabilities, New York, NY",
         "Department of Molecular Biology, the Affiliated Hospital of the Medical College, Qingdao University, Qingdao",
         "Department of Developmental Neurobiology, NY State Institute for Basic Research in Developmental Disabilities, New York, NY",
         "Department of Human Genetics, NY State Institute for Basic Research in Developmental Disabilities, New York, NY"
       ],
-      "Journal": "Genes, Brain, and Behavior",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Genes, Brain, and Behavior",
+      "publisher": "Wiley",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "K Yang",
         "Ashfaq M Sheikh",
         "Mazhar Malik",
@@ -45,97 +138,54 @@
         "W Ted Brown",
         "Xiaohong Li"
       ],
-      "URLS": "http://retractionwatch.com/2013/06/26/autism-genetics-papers-retracted-after-fraud-inquiry-at-ny-research-agency/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/06/26/autism-genetics-papers-retracted-after-fraud-inquiry-at-ny-research-agency/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/22/2013 0:00",
-      "RetractionDOI": "10.1111/gbb.12054",
-      "RetractionPubMedID": "23971092.0",
-      "OriginalPaperDate": "9/13/2011 0:00",
-      "OriginalPaperDOI": "10.1111/j.1601-183X.2011.00723.x",
-      "OriginalPaperPubMedID": "21848643.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/22/2013 0:00",
+      "retractiondoi": "10.1111/gbb.12054",
+      "retractionpubmedid": "23971092.0",
+      "originalpaperdate": "9/13/2011 0:00",
+      "originalpaperdoi": "10.1111/j.1601-183X.2011.00723.x",
+      "originalpaperpubmedid": "21848643.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Image",
         "+Falsification/Fabrication of Image",
         "+Investigation by Company/Institution",
         "+Manipulation of Images"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234bf78",
-      "Record ID": "12773",
-      "Title": "PRKX critically regulates endothelial cell proliferation, migration, and vascular-like structure formation",
-      "Subject": [
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Neurochemistry, NY State Institute for Basic Research in Developmental Disabilities, New York, NY 10314, USA",
-        "Department of Development and Regenerative Biology, New York, NY 10029, USA",
-        "Department of Medicine, Mount Sinai School of Medicine, New York, NY 10029, USA",
-        "Department of Medicine, University College London Medical School, London NW3 2PF, UK"
-      ],
-      "Journal": "Developmental Biology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Xiaohong Li",
-        "Carlo Iomini",
-        "Deborah Hyink",
-        "Patricia D Wilson"
-      ],
-      "URLS": "http://retractionwatch.com/2016/07/20/institute-director-loses-third-paper-following-investigation/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/15/2013 0:00",
-      "RetractionDOI": "10.1016/j.ydbio.2013.07.014",
-      "OriginalPaperDate": "6/12/2011 0:00",
-      "OriginalPaperDOI": "10.1016/j.ydbio.2011.05.673",
-      "OriginalPaperPubMedID": "21684272.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "X Li otherwise investigated;",
-      "notice_year": 2013,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234df10",
-      "Record ID": "4597",
-      "Title": "Association of upregulated Ras/Raf/ERK1/2 signaling with autism",
-      "Subject": [
+      "_id": "687cf0c71f662220d89932f6",
+      "recordId": "4597",
+      "title": "Association of upregulated Ras/Raf/ERK1/2 signaling with autism",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Obstetrics & Gynecology, Nanfang Hospital, Southern Medical University, Guangzhou",
         "Department of Neurochemistry, NY State Institute for Basic Research in Developmental Disabilities, New York, NY",
         "Department of Neurobiology, NY State Institute for Basic Research in Developmental Disabilities, New York, NY",
         "Department of Medicine, Qingdao Medical University, Qingdao"
       ],
-      "Journal": "Genes, Brain, and Behavior",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Genes, Brain, and Behavior",
+      "publisher": "Wiley",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Huachang Zou",
         "Young Hun Yu",
         "Ashfaq M Sheikh",
@@ -146,99 +196,53 @@
         "W Ted Brown",
         "Xiaohong Li"
       ],
-      "URLS": "http://retractionwatch.com/2013/06/26/autism-genetics-papers-retracted-after-fraud-inquiry-at-ny-research-agency/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/06/26/autism-genetics-papers-retracted-after-fraud-inquiry-at-ny-research-agency/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/22/2013 0:00",
-      "RetractionDOI": "10.1111/gbb.12054",
-      "RetractionPubMedID": "23971092.0",
-      "OriginalPaperDate": "6/14/2011 0:00",
-      "OriginalPaperDOI": "10.1111/j.1601-183X.2011.00702.x",
-      "OriginalPaperPubMedID": "21595826.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/22/2013 0:00",
+      "retractiondoi": "10.1111/gbb.12054",
+      "retractionpubmedid": "23971092.0",
+      "originalpaperdate": "6/14/2011 0:00",
+      "originalpaperdoi": "10.1111/j.1601-183X.2011.00702.x",
+      "originalpaperpubmedid": "21595826.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Data",
         "+Error in Image",
         "+Falsification/Fabrication of Image",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c0db",
-      "Record ID": "12417",
-      "Title": "NF-kB signaling in the brain of autistic subjects",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Department of Neurochemistry, New York State Institute for Basic Research in Developmental Disabilities, 1050 Forest Hill Road, Staten Island, New York, NY 10314, USA"
-      ],
-      "Journal": "Mediators of Inflammation",
-      "Publisher": "Hindawi",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Mazhar Malik",
-        "Zujaja Tauqeer",
-        "Ashfaq M Sheikh",
-        "Guang Wen",
-        "Amenah Nagori",
-        "Kun Yang",
-        "W Ted Brown",
-        "Xiaohong Li"
-      ],
-      "URLS": "http://retractionwatch.com/2016/07/20/institute-director-loses-third-paper-following-investigation/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/5/2013 0:00",
-      "RetractionDOI": "10.1155/2013/691975",
-      "OriginalPaperDate": "8/18/2011 0:00",
-      "OriginalPaperDOI": "10.1155/2011/785265",
-      "OriginalPaperPubMedID": "22046080.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "Erratum added Fujiang Cao as an author.",
-      "notice_year": 2013,
-      "year": 2011,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234ed82",
-      "Record ID": "812",
-      "Title": "Alteration of Astrocytes and Wnt/\u00df-catenin Signaling in the Frontal Cortex of Autistic Subjects",
-      "Subject": [
+      "_id": "687cf0d51f662220d8994168",
+      "recordId": "812",
+      "title": "Alteration of Astrocytes and Wnt/\u00df-catenin Signaling in the Frontal Cortex of Autistic Subjects",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurochemistry, NY State Institute for Basic Research in Developmental Disabilities, 1050 Forest Hill Road, Staten Island New York, USA",
         "Department of Developmental Neurobiology, NY State Institute for Basic Research in Developmental Disabilities, 10314, New York, NY, USA",
         "Digital Microscopy, NY State Institute for Basic Research in Developmental Disabilities, 10314, New York, NY, USA",
         "Department of Orthopaedics, General Hospital of Tianjin Medical Universtiy, Tianjin, China"
       ],
-      "Journal": "Journal of Neuroinflammation",
-      "Publisher": "BioMed Central (BMC)",
-      "Country": [
+      "journal": "Journal of Neuroinflammation",
+      "publisher": "BioMed Central (BMC)",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Fujiang Cao",
         "Ailan Yin",
         "Guang Wen",
@@ -253,58 +257,59 @@
         "W Ted Brown",
         "Xiaohong Li"
       ],
-      "URLS": "http://retractionwatch.com/2016/07/20/institute-director-loses-third-paper-following-investigation/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/07/20/institute-director-loses-third-paper-following-investigation/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/13/2016 0:00",
-      "RetractionDOI": "10.1186/s12974-016-0568-9",
-      "RetractionPubMedID": "27178190.0",
-      "OriginalPaperDate": "9/21/2012 0:00",
-      "OriginalPaperDOI": "10.1186/1742-2094-9-223",
-      "OriginalPaperPubMedID": "22999633.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/13/2016 0:00",
+      "retractiondoi": "10.1186/s12974-016-0568-9",
+      "retractionpubmedid": "27178190.0",
+      "originalpaperdate": "9/21/2012 0:00",
+      "originalpaperdoi": "10.1186/1742-2094-9-223",
+      "originalpaperpubmedid": "22999633.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Company/Institution",
         "+Unreliable Image",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -312,10 +317,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,27 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878548",
+    "_id": "687ccbab09adbf7aa61b9169",
     "grid_id": "grid.257410.5",
     "institute_name": "Indiana University",
     "country": "United States",
     "retracted_record_ids": [
-      "55971",
-      "5163",
       "1942",
-      "28623"
+      "28623",
+      "5163",
+      "55971"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341778",
-      "Record ID": "55971",
-      "Title": "Arid3b Is Critical for B Lymphocyte Development",
-      "Subject": [
+      "_id": "687cef761f662220d8986b5e",
+      "recordId": "55971",
+      "title": "Arid3b Is Critical for B Lymphocyte Development",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana, United States of America",
         "Harper Cancer Research Institute, South Bend, Indiana, United States of America",
         "Institute for Cellular and Molecular Biology, Department of Molecular Biosciences, University of Texas at Austin, Austin, Texas, United States of America",
@@ -29,12 +29,12 @@
         "Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, South Bend, Indiana, United States of America",
         "Deparment of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, Indiana, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jeffrey L Kurkewich",
         "Nathan Klopfenstein",
         "William M Hallas",
@@ -45,17 +45,17 @@
         "Richard Dahl",
         "Karen D Cowden Dahl"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/22/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0309551",
-      "RetractionPubMedID": "39172998.0",
-      "OriginalPaperDate": "8/18/2016 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0161468",
-      "OriginalPaperPubMedID": "27537840.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/22/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0309551",
+      "retractionpubmedid": "39172998.0",
+      "originalpaperdate": "8/18/2016 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0161468",
+      "originalpaperpubmedid": "27537840.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Copyright Claims",
@@ -64,136 +64,23 @@
         "+Investigation by Journal/Publisher",
         "+Objections by Author(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dce3",
-      "Record ID": "5163",
-      "Title": "Structure and Mechanism of the Essential Two-component Signal-transduction System WalKR in Staphylococcus aureus",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Microbiology",
-        "(SOC) Communications"
-      ],
-      "Institution": [
-        "Department of Chemistry, Department of Biochemistry and Molecular Biology, and Institute for Biophysical Dynamics, Howard Hughes Medical Institute, The University of Chicago, 929 East 57th Street, Chicago, Illinois 60637, USA",
-        "State Key Laboratory of Drug Research, Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China",
-        "Shanghai Center for Bioinformation Technology, Shanghai Academy of Science and Technology, Shanghai 201203, China",
-        "Synchrotron Research Center, LS-CAT, Northwestern University, Argonne, Illinois 60439, USA",
-        "Indiana University School of Medicine-Northwest, Gary, Indiana 46408, USA",
-        "High-Throughput Analysis Laboratory, Department of Molecular Biosciences, Center for Structural Genomics of Infectious Diseases, Northwestern University, Evanston, Illinois 60208, USA",
-        "Department of Biochemistry and Molecular Biology, University of Chicago, 929 E 57th Street, Chicago, Illinois 60637, USA"
-      ],
-      "Journal": "Nature Communications",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Quanjiang Ji",
-        "Peter J Chen",
-        "Guangrong Qin",
-        "Xin Deng",
-        "Ziyang Hao",
-        "Zdzislaw Wawrzak",
-        "Won-Sik Yeo",
-        "Jenny Winjing Quang",
-        "Hoonsik Cho",
-        "Guan-Zheng Luo",
-        "Xiaocheng Weng",
-        "Qiancheng You",
-        "Chi-Hao Luan",
-        "Xiaojing Yang",
-        "Taeok Bae",
-        "Kunqian Yu",
-        "Hualiang Jiang",
-        "Chuan He"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/6/2017 0:00",
-      "RetractionDOI": "10.1038/ncomms14331",
-      "RetractionPubMedID": "28165458.0",
-      "OriginalPaperDate": "5/12/2015 0:00",
-      "OriginalPaperDOI": "10.1038/ncomms11000",
-      "OriginalPaperPubMedID": "26987594.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Image",
-        "+Error in Materials",
-        "+Unreliable Image",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e937",
-      "Record ID": "1942",
-      "Title": "Multi-scale Inference of Interaction Rules in Animal Groups Using Bayesian Model Selection",
-      "Subject": [
-        "(BLS) Zoology",
-        "(ENV) Ecology"
-      ],
-      "Institution": [
-        "Department of Mathematics, Uppsala University, Uppsala, Sweden",
-        "Robotics Institute, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America",
-        "School of Biological Sciences, University of Sydney, Sydney, Australia Indiana University, United States of America"
-      ],
-      "Journal": "PLoS Computational Biology",
-      "Publisher": "PLoS",
-      "Country": [
-        "Sweden",
-        "United States"
-      ],
-      "Author": [
-        "Richard P Mann",
-        "Andrea Perna",
-        "Daniel Str\u00f6mbom",
-        "Roman Garnett",
-        "James E Herbert-Read",
-        "Ashley J W Ward",
-        "David J T Sumpter"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/7/2012 0:00",
-      "RetractionDOI": "10.1371/annotation/7bc3a37e-db82-4813-8242-7d34877125c5",
-      "RetractionPubMedID": "22879819.0",
-      "OriginalPaperDate": "1/5/2012 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pcbi.1002308",
-      "OriginalPaperPubMedID": "22241970.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Methods",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23481d3",
-      "Record ID": "28623",
-      "Title": "TBCRC026: Phase II Trial Correlating Standardized Uptake Value With Pathologic Complete Response to Pertuzumab and Trastuzumab in Breast Cancer",
-      "Subject": [
+      "_id": "687cefe71f662220d898d5b9",
+      "recordId": "28623",
+      "title": "TBCRC026: Phase II Trial Correlating Standardized Uptake Value With Pathologic Complete Response to Pertuzumab and Trastuzumab in Breast Cancer",
+      "subject": [
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Johns Hopkins University School of Medicine, Baltimore, MD Vanderbilt University, Nashville, TN",
         "University of North Carolina, Chapel Hill, NC",
         "Mayo Clinic, Rochester, MN",
@@ -204,12 +91,12 @@
         "Dana-Farber Cancer Institute, Boston, MA",
         "Washington University in St Louis, St Louis, MO"
       ],
-      "Journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
-      "Publisher": "American Society of Clinical Oncology",
-      "Country": [
+      "journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
+      "publisher": "American Society of Clinical Oncology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Roisin M Connolly",
         "Jeffrey P Leal",
         "Lilja Solnes",
@@ -234,57 +121,174 @@
         "Richard L Wahl",
         "Vered Stearns"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "5/17/2021 0:00",
-      "RetractionDOI": "10.1200/JCO.21.00752",
-      "RetractionPubMedID": "33999659.0",
-      "OriginalPaperDate": "2/5/2019 0:00",
-      "OriginalPaperDOI": "10.1200/JCO.2018.78.7986",
-      "OriginalPaperPubMedID": "30721110.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/17/2021 0:00",
+      "retractiondoi": "10.1200/JCO.21.00752",
+      "retractionpubmedid": "33999659.0",
+      "originalpaperdate": "2/5/2019 0:00",
+      "originalpaperdoi": "10.1200/JCO.2018.78.7986",
+      "originalpaperpubmedid": "30721110.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Retract and Replace"
       ],
-      "Paywalled": "Yes",
-      "Notes": "see https://ascopubs.org/doi/10.1200/JCO.21.00280?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "Yes",
+      "notes": "see https://ascopubs.org/doi/10.1200/JCO.21.00280?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c51f662220d89930c9",
+      "recordId": "5163",
+      "title": "Structure and Mechanism of the Essential Two-component Signal-transduction System WalKR in Staphylococcus aureus",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Microbiology",
+        "(SOC) Communications"
+      ],
+      "institution": [
+        "Department of Chemistry, Department of Biochemistry and Molecular Biology, and Institute for Biophysical Dynamics, Howard Hughes Medical Institute, The University of Chicago, 929 East 57th Street, Chicago, Illinois 60637, USA",
+        "State Key Laboratory of Drug Research, Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China",
+        "Shanghai Center for Bioinformation Technology, Shanghai Academy of Science and Technology, Shanghai 201203, China",
+        "Synchrotron Research Center, LS-CAT, Northwestern University, Argonne, Illinois 60439, USA",
+        "Indiana University School of Medicine-Northwest, Gary, Indiana 46408, USA",
+        "High-Throughput Analysis Laboratory, Department of Molecular Biosciences, Center for Structural Genomics of Infectious Diseases, Northwestern University, Evanston, Illinois 60208, USA",
+        "Department of Biochemistry and Molecular Biology, University of Chicago, 929 E 57th Street, Chicago, Illinois 60637, USA"
+      ],
+      "journal": "Nature Communications",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Quanjiang Ji",
+        "Peter J Chen",
+        "Guangrong Qin",
+        "Xin Deng",
+        "Ziyang Hao",
+        "Zdzislaw Wawrzak",
+        "Won-Sik Yeo",
+        "Jenny Winjing Quang",
+        "Hoonsik Cho",
+        "Guan-Zheng Luo",
+        "Xiaocheng Weng",
+        "Qiancheng You",
+        "Chi-Hao Luan",
+        "Xiaojing Yang",
+        "Taeok Bae",
+        "Kunqian Yu",
+        "Hualiang Jiang",
+        "Chuan He"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/6/2017 0:00",
+      "retractiondoi": "10.1038/ncomms14331",
+      "retractionpubmedid": "28165458.0",
+      "originalpaperdate": "5/12/2015 0:00",
+      "originalpaperdoi": "10.1038/ncomms11000",
+      "originalpaperpubmedid": "26987594.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Image",
+        "+Error in Materials",
+        "+Unreliable Image",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d11f662220d8993d1d",
+      "recordId": "1942",
+      "title": "Multi-scale Inference of Interaction Rules in Animal Groups Using Bayesian Model Selection",
+      "subject": [
+        "(BLS) Zoology",
+        "(ENV) Ecology"
+      ],
+      "institution": [
+        "Department of Mathematics, Uppsala University, Uppsala, Sweden",
+        "Robotics Institute, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America",
+        "School of Biological Sciences, University of Sydney, Sydney, Australia Indiana University, United States of America"
+      ],
+      "journal": "PLoS Computational Biology",
+      "publisher": "PLoS",
+      "country": [
+        "Sweden",
+        "United States"
+      ],
+      "author": [
+        "Richard P Mann",
+        "Andrea Perna",
+        "Daniel Str\u00f6mbom",
+        "Roman Garnett",
+        "James E Herbert-Read",
+        "Ashley J W Ward",
+        "David J T Sumpter"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/7/2012 0:00",
+      "retractiondoi": "10.1371/annotation/7bc3a37e-db82-4813-8242-7d34877125c5",
+      "retractionpubmedid": "22879819.0",
+      "originalpaperdate": "1/5/2012 0:00",
+      "originalpaperdoi": "10.1371/journal.pcbi.1002308",
+      "originalpaperpubmedid": "22241970.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Methods",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -292,32 +296,32 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -325,10 +329,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,61 +1,130 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879206",
+    "_id": "687ccbab09adbf7aa61b9e27",
     "grid_id": "grid.445331.4",
     "institute_name": "Admiral Ushakov State Maritime University",
     "country": "Russia",
     "retracted_record_ids": [
-      "36248"
+      "36248",
+      "65848"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234641d",
-      "Record ID": "36248",
-      "Title": "Modeling and development of a fundamentally new way of landing a quadcopter on inclined surfaces",
-      "Subject": [
-        "(PHY) Engineering - Mechanical"
+      "_id": "687cef4f1f662220d89844fd",
+      "recordId": "65848",
+      "title": "Socio-demographic factors of the employed population digital skills development",
+      "subject": [
+        "(B/T) Business - Economics",
+        "(B/T) Technology",
+        "(SOC) Sociology"
       ],
-      "Institution": [
-        "Admiral Ushakov Maritime State University, 93 Lenin Ave., Novorossiysk, 353924, Russian Federatio"
+      "institution": [
+        "North Ossetian State University, Vatutin str. 44-46, Vladikavkaz, Russia",
+        "Admiral Ushakov State Maritime University, Lenin's Avenue 93, Novorossisk, Russia",
+        "Vladikavkaz Scientific Center of the Russian Academy of Sciences, Markus str. 22, Vladikavkaz, Russia"
       ],
-      "Journal": "Journal of Physics: Conference Series",
-      "Publisher": "IOP Publishing",
-      "Country": [
+      "journal": "E3S Web of Conferences",
+      "publisher": "EDP Sciences",
+      "country": [
         "Russia"
       ],
-      "Author": [
+      "author": [
+        "Lira Gurieva",
+        "Olga Baburina",
+        "Aleksandr Dzhioev"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "1/6/2025 0:00",
+      "retractiondoi": "10.1051/e3sconf/202342000001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/4/2023 0:00",
+      "originalpaperdoi": "10.1051/e3sconf/202342006035",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc01f662220d898b803",
+      "recordId": "36248",
+      "title": "Modeling and development of a fundamentally new way of landing a quadcopter on inclined surfaces",
+      "subject": [
+        "(PHY) Engineering - Mechanical"
+      ],
+      "institution": [
+        "Admiral Ushakov Maritime State University, 93 Lenin Ave., Novorossiysk, 353924, Russian Federatio"
+      ],
+      "journal": "Journal of Physics: Conference Series",
+      "publisher": "IOP Publishing",
+      "country": [
+        "Russia"
+      ],
+      "author": [
         "F F Olenko",
         "S O Malakhov"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "12/23/2021 0:00",
-      "RetractionDOI": "10.1088/1742-6596/2061/1/012141",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/15/2021 0:00",
-      "OriginalPaperDOI": "10.1088/1742-6596/2061/1/012109",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/23/2021 0:00",
+      "retractiondoi": "10.1088/1742-6596/2061/1/012141",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/15/2021 0:00",
+      "originalpaperdoi": "10.1088/1742-6596/2061/1/012109",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

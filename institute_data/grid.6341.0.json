@@ -1,41 +1,41 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879b3c",
+    "_id": "687ccbab09adbf7aa61ba75d",
     "grid_id": "grid.6341.0",
     "institute_name": "Swedish University of Agricultural Sciences",
     "country": "Sweden",
     "retracted_record_ids": [
-      "19803",
       "18557",
       "3139",
-      "7846"
+      "7846",
+      "19803"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a428",
-      "Record ID": "19803",
-      "Title": "Macrophages Mediate a Switch between Canonical and Non-Canonical Wnt Pathways in Canine Mammary Tumors",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f80e",
+      "recordId": "19803",
+      "title": "Macrophages Mediate a Switch between Canonical and Non-Canonical Wnt Pathways in Canine Mammary Tumors",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Physiological Sciences, Faculty of Veterinary Medicine, Warsaw University of Life Sciences, Warsaw, Poland",
         "Department of Animal Environment Biology, Faculty of Animal Sciences, Warsaw University of Life Sciences, Warsaw, Poland",
         "Department of Large Animal Diseases with Clinic, Faculty of Veterinary Medicine, Warsaw University of Life Sciences, Warsaw, Poland",
         "Area Diagnostica Integrata Istologia e Microscopia Elettronica Istituto Zooprofilattico Sperimentale dell'Umbria e delle Marche, Perugia, Italy",
         "Department of Anatomy, Physiology and Biochemistry, Swedish University of Agricultural Sciences, Uppsala, Sweden"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Italy",
         "Poland",
         "Sweden"
       ],
-      "Author": [
+      "author": [
         "Magdalena Krol",
         "Joanna Mucha",
         "Kinga Majchrzak",
@@ -50,88 +50,133 @@
         "Eva Hellmen",
         "Tomasz Motyl"
       ],
-      "URLS": "http://retractionwatch.com/2019/01/16/we-regret-our-delay-plos-one-retracts-two-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/01/16/we-regret-our-delay-plos-one-retracts-two-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/10/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0210894",
-      "RetractionPubMedID": "30629722.0",
-      "OriginalPaperDate": "1/3/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0083995",
-      "OriginalPaperPubMedID": "24404146.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/10/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0210894",
+      "retractionpubmedid": "30629722.0",
+      "originalpaperdate": "1/3/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0083995",
+      "originalpaperpubmedid": "24404146.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a8ff",
-      "Record ID": "18557",
-      "Title": "Interspecific competition among ants in the boreal forest: Testing predictions from a linear hierarchical competition model",
-      "Subject": [
+      "_id": "687cf0911f662220d898fce5",
+      "recordId": "18557",
+      "title": "Interspecific competition among ants in the boreal forest: Testing predictions from a linear hierarchical competition model",
+      "subject": [
         "(BLS) Zoology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Wildlife, Fish, and Environmental Studies, Swedish University of Agricultural Sciences, Umea, Sweden"
       ],
-      "Journal": "Insectes Sociaux",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Insectes Sociaux",
+      "publisher": "Springer",
+      "country": [
         "Sweden"
       ],
-      "Author": [
+      "author": [
         "Ola Alinvi",
         "Jonas Bohlin"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2008 0:00",
-      "RetractionDOI": "10.1007/s00040-007-0964-3",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/1/2008 0:00",
-      "OriginalPaperDOI": "10.1007/s00040-007-0964-3",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2008 0:00",
+      "retractiondoi": "10.1007/s00040-007-0964-3",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/1/2008 0:00",
+      "originalpaperdoi": "10.1007/s00040-007-0964-3",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Image",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "exact date of retraction unknown; Ola Alinvi named responsible for falsification of figure",
-      "notice_year": 2008,
-      "year": 2008,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "exact date of retraction unknown; Ola Alinvi named responsible for falsification of figure",
+      "year": "2008",
+      "noticeYear": "2008",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e4a5",
-      "Record ID": "3139",
-      "Title": "Repeated Massage-like Stimulation Induces Long-term Effects on Nociception: Contribution of Oxytocinergic Mechanisms",
-      "Subject": [
+      "_id": "687cf0ba1f662220d8992678",
+      "recordId": "7846",
+      "title": "Gum and resin resources from some Acacia, Boswellia and Commiphora species and their economic contributions in Liban, Southeast Ethiopia",
+      "subject": [
+        "(B/T) Business - Economics",
+        "(BLS) Agriculture",
+        "(ENV) Ecology"
+      ],
+      "institution": [
+        "Wondo Genet College of Forestry, Debub University, Shashemene",
+        "Department of Forest Soils, Swedish University of Agricultural Sciences, Uppsala"
+      ],
+      "journal": "Journal of Arid Environments",
+      "publisher": "Elsevier",
+      "country": [
+        "Ethiopia",
+        "Sweden"
+      ],
+      "author": [
+        "Mulugeta Lemenih",
+        "Tarekegn Abebe",
+        "Mats Olsson"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/18/2004 0:00",
+      "retractiondoi": "10.1016/j.jaridenv.2004.04.001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/23/2003 0:00",
+      "originalpaperdoi": "10.1016/S0140-1963(03)00003-X",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Content through Error by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2004",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d899388b",
+      "recordId": "3139",
+      "title": "Repeated Massage-like Stimulation Induces Long-term Effects on Nociception: Contribution of Oxytocinergic Mechanisms",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Department of Physiology and Pharmacology, Karolinska Institutet, SE-171 77 Stockholm, Sweden",
         "Department of Physiology, College of Life Science and National Laboratory of Biomembrane and Membrane Biotechnology, Peking University, Beijing 100871, China",
         "Department of Animal Physiology, Swedish University of Agricultural Sciences, SE-756 61 Uppsala, Sweden",
         "Department of Rehabilitation Medicine, Karolinska Hospital, SE-171 76 Stockholm, Sweden"
       ],
-      "Journal": "European Journal of Neuroscience",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "European Journal of Neuroscience",
+      "publisher": "Wiley",
+      "country": [
         "China",
         "Sweden"
       ],
-      "Author": [
+      "author": [
         "Irene Lund",
         "Long Chuan Yu",
         "Kerstin Uvnas-Moberg",
@@ -143,88 +188,47 @@
         "Magnus Lekman",
         "Thomas Lundeberg"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/16/2009 0:00",
-      "RetractionDOI": "10.1111/j.1460-9568.2009.06687.x",
-      "RetractionPubMedID": "19250442.0",
-      "OriginalPaperDate": "7/1/2002 0:00",
-      "OriginalPaperDOI": "10.1046/j.1460-9568.2002.02087.x",
-      "OriginalPaperPubMedID": "12169113.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/16/2009 0:00",
+      "retractiondoi": "10.1111/j.1460-9568.2009.06687.x",
+      "retractionpubmedid": "19250442.0",
+      "originalpaperdate": "7/1/2002 0:00",
+      "originalpaperdoi": "10.1046/j.1460-9568.2002.02087.x",
+      "originalpaperpubmedid": "12169113.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Text",
         "+Euphemisms for Plagiarism",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2009,
-      "year": 2002,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d292",
-      "Record ID": "7846",
-      "Title": "Gum and resin resources from some Acacia, Boswellia and Commiphora species and their economic contributions in Liban, Southeast Ethiopia",
-      "Subject": [
-        "(B/T) Business - Economics",
-        "(BLS) Agriculture",
-        "(ENV) Ecology"
-      ],
-      "Institution": [
-        "Wondo Genet College of Forestry, Debub University, Shashemene",
-        "Department of Forest Soils, Swedish University of Agricultural Sciences, Uppsala"
-      ],
-      "Journal": "Journal of Arid Environments",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Ethiopia",
-        "Sweden"
-      ],
-      "Author": [
-        "Mulugeta Lemenih",
-        "Tarekegn Abebe",
-        "Mats Olsson"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/18/2004 0:00",
-      "RetractionDOI": "10.1016/j.jaridenv.2004.04.001",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/23/2003 0:00",
-      "OriginalPaperDOI": "10.1016/S0140-1963(03)00003-X",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Content through Error by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2003,
-      "mark": "system"
+      "paywalled": "Yes",
+      "year": "2002",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -232,21 +236,21 @@
     {
       "year": 2004,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -254,32 +258,32 @@
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,29 +1,29 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879283",
+    "_id": "687ccbab09adbf7aa61b9ea4",
     "grid_id": "grid.411052.3",
     "institute_name": "Central University Hospital of Asturias",
     "country": "Spain",
     "retracted_record_ids": [
-      "35609",
-      "22984",
       "22333",
-      "20575",
+      "20706",
       "34200",
-      "20706"
+      "35609",
+      "20575",
+      "22984"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234669c",
-      "Record ID": "35609",
-      "Title": "Patient undergoing colectomy because of ulcerative colitis had a very high rate of surgical complications in clinical practice conditions",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba82",
+      "recordId": "35609",
+      "title": "Patient undergoing colectomy because of ulcerative colitis had a very high rate of surgical complications in clinical practice conditions",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "Hospital Clinico, Madrid, Spain",
         "Hospital Parc Tauli, Sabadell, Spain",
         "Hospital La Princesa, Madrid, Spain",
@@ -35,12 +35,12 @@
         "Pharmacoeconomics & Outcomes Research Iberia, Madrid, Spain",
         "Schering-Plough S.A., Madrid, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "C Taxonera",
         "X Calvet",
         "J P Gisbert",
@@ -53,37 +53,111 @@
         "I Oyaguez",
         "J L Lopez-Belmonte"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23497c9",
-      "Record ID": "22984",
-      "Title": "Prognostic Relevance of Short-Term Blood Pressure Variability: The Spanish ABPM Registry",
-      "Subject": [
+      "_id": "687cefc81f662220d898c001",
+      "recordId": "34200",
+      "title": "Gu\u00eda Anest\u00e9sico-Quir\u00fargica en el Tratamiento de la Patologia de Aorta Toraco-Abdominal",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario Vall d\u2019Hebron, Barcelona, Espa\u00f1a",
+        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Espa\u00f1a",
+        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario Vall d\u2019Hebron, Barcelona, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario Puerta de Hierro, Majadahonda, Madrid, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca, Hospital \u00c1lvaro Cunqueiro de Vigo, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario de Canarias, Espa\u00f1a",
+        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario Miguel Servet, Zaragoza, Espa\u00f1a",
+        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Complejo Hospitalario Universitario de A Coru\u00f1a, Espa\u00f1a",
+        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital \u00c1lvaro Cunqueiro de Vigo, Espa\u00f1a",
+        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario Central de Asturias, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca, Hospital Hospiten Rambla, Tenerife, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario Carlos Haya, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Cardiaca. Complejo Hospitalario de Navarra, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Card\u00edaca. Hospital Universitario de Valladolid, Espa\u00f1a",
+        "Servicio de Cirug\u00eda Card\u00edaca. Hospital Universitario Central de Asturias, Espa\u00f1a"
+      ],
+      "journal": "Revista Espa\u00f1ola de Anestesiolog\u00eda y Reanimaci\u00f3n",
+      "publisher": "Elsevier",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "R Rodr\u00edguez",
+        "A L\u00f3pez G\u00f3mez",
+        "N Zebdi",
+        "R R\u00edos Barrera",
+        "A Forteza",
+        "J J Legarra Calder\u00f3n",
+        "P Garrido Mart\u00edn",
+        "B Hernando",
+        "A Sanjuan",
+        "S Gonz\u00e1lez Bardanca",
+        "M \u00c1 Varela Mart\u00ednez",
+        "F E Fern\u00e1ndez",
+        "R Llorens",
+        "F J Valera Mart\u00ednez",
+        "A G\u00f3mez Felices",
+        "P J Aranda Granados",
+        "R S\u00e1daba Sagredo",
+        "J R Echevarr\u00eda",
+        "R V Guill\u00e9n",
+        "J Silva Guisasola"
+      ],
+      "articletype": [
+        "Guideline"
+      ],
+      "retractiondate": "11/20/2021 0:00",
+      "retractiondoi": "10.1016/j.redar.2021.10.003",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/26/2021 0:00",
+      "originalpaperdoi": "10.1016/j.redar.2020.12.015",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0121f662220d898ebaf",
+      "recordId": "22984",
+      "title": "Prognostic Relevance of Short-Term Blood Pressure Variability: The Spanish ABPM Registry",
+      "subject": [
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Internal Medicine, Hospital Mutua Terrassa, University of Barcelona, Spain",
         "Department of Preventive Medicine and Public Health, Universidad Aut\u00f3noma de Madrid, IdiPAZ and CIBERESP, Madrid, Spain",
         "Hypertension Unit, Department of Medicine, Hadassah-Hebrew University Medical Center, Mount-Scopus, Jerusalem, Israel",
@@ -93,15 +167,15 @@
         "Hypertension Unit and Cardiorenal Translational Laboratory, Hospital 12 de Octubre, Madrid, Spain",
         "Department of Nephrology, Hospital Universitario Central de Asturias, RedinRen, Oviedo, Spain"
       ],
-      "Journal": "Hypertension",
-      "Publisher": "American Heart Association",
-      "Country": [
+      "journal": "Hypertension",
+      "publisher": "American Heart Association",
+      "country": [
         "Greece",
         "Israel",
         "Italy",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Alejandro de la Sierra",
         "Jose R Banegas",
         "Michael Bursztyn",
@@ -113,32 +187,33 @@
         "Manuel Gorostidi",
         "Luis M Ruilope"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/30/2020 0:00",
-      "RetractionDOI": "10.1161/HYP.0000000000000105",
-      "RetractionPubMedID": "32223384.0",
-      "OriginalPaperDate": "1/27/2020 0:00",
-      "OriginalPaperDOI": "10.1161/HYPERTENSIONAHA.119.14508",
-      "OriginalPaperPubMedID": "31983311.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/30/2020 0:00",
+      "retractiondoi": "10.1161/HYP.0000000000000105",
+      "retractionpubmedid": "32223384.0",
+      "originalpaperdate": "1/27/2020 0:00",
+      "originalpaperdoi": "10.1161/HYPERTENSIONAHA.119.14508",
+      "originalpaperpubmedid": "31983311.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Unable to Access via current resources"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349a50",
-      "Record ID": "22333",
-      "Title": "Prognostic Relevance of Short-Term Blood Pressure Variability: The Spanish ABPM Registry",
-      "Subject": [
+      "_id": "687cf01a1f662220d898ee36",
+      "recordId": "22333",
+      "title": "Prognostic Relevance of Short-Term Blood Pressure Variability: The Spanish ABPM Registry",
+      "subject": [
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Internal Medicine, Hospital Mutua Terrassa, University of Barcelona, Spain",
         "Department of Preventive Medicine and Public Health, Universidad Aut\u00f3noma de Madrid, IdiPAZ and CIBERESP, Madrid, Spain",
         "Hypertension Unit, Department of Medicine, Hadassah-Hebrew University Medical Center, Mount-Scopus, Jerusalem, Israel",
@@ -148,15 +223,15 @@
         "Hypertension Unit and Cardiorenal Translational Laboratory, Hospital 12 de Octubre, Madrid, Spain",
         "Department of Nephrology, Hospital Universitario Central de Asturias, RedinRen, Oviedo, Spain"
       ],
-      "Journal": "Hypertension",
-      "Publisher": "American Heart Association",
-      "Country": [
+      "journal": "Hypertension",
+      "publisher": "American Heart Association",
+      "country": [
         "Greece",
         "Israel",
         "Italy",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Alejandro de la Sierra",
         "Jose R Banegas",
         "Michael Bursztyn",
@@ -168,35 +243,89 @@
         "Manuel Gorostidi",
         "Luis M Ruilope"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/5/2020 0:00",
-      "RetractionDOI": "10.1161/HYP.0000000000000098",
-      "RetractionPubMedID": "32019375.0",
-      "OriginalPaperDate": "1/27/2020 0:00",
-      "OriginalPaperDOI": "10.1161/HYPERTENSIONAHA.119.14508",
-      "OriginalPaperPubMedID": "31983311.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "2/5/2020 0:00",
+      "retractiondoi": "10.1161/HYP.0000000000000098",
+      "retractionpubmedid": "32019375.0",
+      "originalpaperdate": "1/27/2020 0:00",
+      "originalpaperdoi": "10.1161/HYPERTENSIONAHA.119.14508",
+      "originalpaperpubmedid": "31983311.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a12a",
-      "Record ID": "20575",
-      "Title": "Identification of tumor antigens among the HLA peptidomes of glioblastoma tumors and plasma",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f48d",
+      "recordId": "20706",
+      "title": "Frequent genetic and biochemical alterations of the PI 3-K/AKT/PTEN pathway in head and neck squamous cell carcinoma",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Dermatology"
+      ],
+      "institution": [
+        "Instituto Universitario de Oncologia del Principado de Asturias (IUOPA), Universidad de Oviedo, Asturias, Spain",
+        "Servicio de Otorrinolaringologia, Hospital Central de Asturias, Oviedo (Asturias), Spain",
+        "Servicio Anatomia Patologica, Hospital Central de Asturias, Oviedo (Asturias), Spain"
+      ],
+      "journal": "International Journal of Cancer",
+      "publisher": "Wiley",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "Juana Maria Garcia Pedrero",
+        "Dario Garcia Carracedo",
+        "Cristina Munoz Pinto",
+        "Agust\u00edn Herrero Zapatero",
+        "Juan Pablo Rodrigo",
+        "Carlo Suarez Nieto",
+        "Maria Victoria Gonzalez"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/6/2019 0:00",
+      "retractiondoi": "10.1002/ijc.32347",
+      "retractionpubmedid": "31283014.0",
+      "originalpaperdate": "11/12/2004 0:00",
+      "originalpaperdoi": "10.1002/ijc.20711",
+      "originalpaperpubmedid": "15543611.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf05d1f662220d898f510",
+      "recordId": "20575",
+      "title": "Identification of tumor antigens among the HLA peptidomes of glioblastoma tumors and plasma",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Biology, Technion \u2013 Israel Institute of Technology, Haifa 32000, Israel",
         "Rheumatology Unit Bnai Zion Medical Center, Haifa 31048, Israel",
         "Hospital Universitario Central de Asturias, 33011 Oviedo, Asturias, Spain",
@@ -215,9 +344,9 @@
         "BCN Peptides, Pol. Ind. Els Vinyets-Els Fogars II. 08777 Sant Quinti de Mediona (Barcelona), Spain",
         "University of California, San Francisco, CA 94131 USA"
       ],
-      "Journal": "Molecular and Cellular Proteomics",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "Molecular and Cellular Proteomics",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "Denmark",
         "Germany",
         "Israel",
@@ -227,7 +356,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Bracha Shraibman",
         "Eilon Barnea",
         "Dganit Melamed Kadosh",
@@ -266,215 +395,92 @@
         "Harpreet Singh",
         "Arie Admon"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/1/2019 0:00",
-      "RetractionDOI": "10.1074/mcp.W119.001571",
-      "RetractionPubMedID": "31154440.0",
-      "OriginalPaperDate": "11/1/2018 0:00",
-      "OriginalPaperDOI": "10.1074/mcp.RA118.000792",
-      "OriginalPaperPubMedID": "30072578.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/1/2019 0:00",
+      "retractiondoi": "10.1074/mcp.W119.001571",
+      "retractionpubmedid": "31154440.0",
+      "originalpaperdate": "11/1/2018 0:00",
+      "originalpaperdoi": "10.1074/mcp.RA118.000792",
+      "originalpaperpubmedid": "30072578.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Methods",
         "+Error in Results and/or Conclusions",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346c1b",
-      "Record ID": "34200",
-      "Title": "Gu\u00eda Anest\u00e9sico-Quir\u00fargica en el Tratamiento de la Patologia de Aorta Toraco-Abdominal",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario Vall d\u2019Hebron, Barcelona, Espa\u00f1a",
-        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Espa\u00f1a",
-        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario Vall d\u2019Hebron, Barcelona, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario Puerta de Hierro, Majadahonda, Madrid, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca, Hospital \u00c1lvaro Cunqueiro de Vigo, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario de Canarias, Espa\u00f1a",
-        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario Miguel Servet, Zaragoza, Espa\u00f1a",
-        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Complejo Hospitalario Universitario de A Coru\u00f1a, Espa\u00f1a",
-        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital \u00c1lvaro Cunqueiro de Vigo, Espa\u00f1a",
-        "Servicio de Anestesiolog\u00eda, Reanimaci\u00f3n y Terap\u00e9utica del dolor, Hospital Universitario Central de Asturias, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca, Hospital Hospiten Rambla, Tenerife, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario y Polit\u00e9cnico La Fe, Valencia, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca, Hospital Universitario Carlos Haya, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Cardiaca. Complejo Hospitalario de Navarra, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Card\u00edaca. Hospital Universitario de Valladolid, Espa\u00f1a",
-        "Servicio de Cirug\u00eda Card\u00edaca. Hospital Universitario Central de Asturias, Espa\u00f1a"
-      ],
-      "Journal": "Revista Espa\u00f1ola de Anestesiolog\u00eda y Reanimaci\u00f3n",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "R Rodr\u00edguez",
-        "A L\u00f3pez G\u00f3mez",
-        "N Zebdi",
-        "R R\u00edos Barrera",
-        "A Forteza",
-        "J J Legarra Calder\u00f3n",
-        "P Garrido Mart\u00edn",
-        "B Hernando",
-        "A Sanjuan",
-        "S Gonz\u00e1lez Bardanca",
-        "M \u00c1 Varela Mart\u00ednez",
-        "F E Fern\u00e1ndez",
-        "R Llorens",
-        "F J Valera Mart\u00ednez",
-        "A G\u00f3mez Felices",
-        "P J Aranda Granados",
-        "R S\u00e1daba Sagredo",
-        "J R Echevarr\u00eda",
-        "R V Guill\u00e9n",
-        "J Silva Guisasola"
-      ],
-      "ArticleType": [
-        "Guideline"
-      ],
-      "RetractionDate": "11/20/2021 0:00",
-      "RetractionDOI": "10.1016/j.redar.2021.10.003",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/26/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.redar.2020.12.015",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234a0a7",
-      "Record ID": "20706",
-      "Title": "Frequent genetic and biochemical alterations of the PI 3-K/AKT/PTEN pathway in head and neck squamous cell carcinoma",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Dermatology"
-      ],
-      "Institution": [
-        "Instituto Universitario de Oncologia del Principado de Asturias (IUOPA), Universidad de Oviedo, Asturias, Spain",
-        "Servicio de Otorrinolaringologia, Hospital Central de Asturias, Oviedo (Asturias), Spain",
-        "Servicio Anatomia Patologica, Hospital Central de Asturias, Oviedo (Asturias), Spain"
-      ],
-      "Journal": "International Journal of Cancer",
-      "Publisher": "Wiley",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "Juana Maria Garcia Pedrero",
-        "Dario Garcia Carracedo",
-        "Cristina Munoz Pinto",
-        "Agust\u00edn Herrero Zapatero",
-        "Juan Pablo Rodrigo",
-        "Carlo Suarez Nieto",
-        "Maria Victoria Gonzalez"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/6/2019 0:00",
-      "RetractionDOI": "10.1002/ijc.32347",
-      "RetractionPubMedID": "31283014.0",
-      "OriginalPaperDate": "11/12/2004 0:00",
-      "OriginalPaperDOI": "10.1002/ijc.20711",
-      "OriginalPaperPubMedID": "15543611.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2004,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -482,10 +488,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

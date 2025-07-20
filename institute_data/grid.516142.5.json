@@ -1,32 +1,75 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879827",
+    "_id": "687ccbab09adbf7aa61ba448",
     "grid_id": "grid.516142.5",
     "institute_name": "Vanderbilt-Ingram Cancer Center",
     "country": "United States",
     "retracted_record_ids": [
-      "315",
-      "24314"
+      "24314",
+      "315"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ef6f",
-      "Record ID": "315",
-      "Title": "Distinct roles of JNKs/p38 MAP kinase and ERKs in apoptosis and survival of HCD-57 cells induced by withdrawal or addition of erythropoietin",
-      "Subject": [
+      "_id": "687cf00a1f662220d898e683",
+      "recordId": "24314",
+      "title": "Targeted Molecular Therapy in Melanoma",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Vanderbilt Ingram Cancer Center, Vanderbilt University, Nashville, TN",
+        "Massachusetts General Hospital, Cancer Center, Harvard Medical School, Boston, MA"
+      ],
+      "journal": "Seminars in Cutaneous Medicine and Surgery",
+      "publisher": "Frontline Medical Communications",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Igor Puzanov",
+        "Keith T Flaherty"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "9/1/2020 0:00",
+      "retractiondoi": "10.12788/j.sder.2020.001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/1/2010 0:00",
+      "originalpaperdoi": "10.1016/j.sder.2010.06.005",
+      "originalpaperpubmedid": "21051014.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "notes": "Journal previously published by Elsevier;",
+      "year": "2010",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994355",
+      "recordId": "315",
+      "title": "Distinct roles of JNKs/p38 MAP kinase and ERKs in apoptosis and survival of HCD-57 cells induced by withdrawal or addition of erythropoietin",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Division of Hematology/Oncology, Department of Medicine, Vanderbilt-Ingram Cancer Center, Vanderbilt University, Nashville, TN, USA"
       ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Rujiao Shan",
         "James O Price",
         "William A Gaarde",
@@ -34,75 +77,35 @@
         "Sanford B Krantz",
         "Zhizhuang Joe Zhao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/15/2001 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "11873810.0",
-      "OriginalPaperDate": "12/15/1999 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "10590051.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/15/2001 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "11873810.0",
+      "originalpaperdate": "12/15/1999 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "10590051.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2001,
-      "year": 1999,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234929d",
-      "Record ID": "24314",
-      "Title": "Targeted Molecular Therapy in Melanoma",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Dermatology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Vanderbilt Ingram Cancer Center, Vanderbilt University, Nashville, TN",
-        "Massachusetts General Hospital, Cancer Center, Harvard Medical School, Boston, MA"
-      ],
-      "Journal": "Seminars in Cutaneous Medicine and Surgery",
-      "Publisher": "Frontline Medical Communications",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Igor Puzanov",
-        "Keith T Flaherty"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "9/1/2020 0:00",
-      "RetractionDOI": "10.12788/j.sder.2020.001",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.sder.2010.06.005",
-      "OriginalPaperPubMedID": "21051014.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "Journal previously published by Elsevier;",
-      "notice_year": 2020,
-      "year": 2010
+      "paywalled": "No",
+      "year": "1999",
+      "noticeYear": "2001",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1999,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -110,21 +113,21 @@
     {
       "year": 2001,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -132,10 +135,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

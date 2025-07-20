@@ -1,45 +1,96 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687793c",
+    "_id": "687ccbab09adbf7aa61b855d",
     "grid_id": "grid.15496.3f",
     "institute_name": "Vita-Salute San Raffaele University",
     "country": "Italy",
     "retracted_record_ids": [
+      "15584",
       "22336",
-      "63340",
-      "19851",
       "3052",
       "24918",
       "23375",
-      "15584"
+      "63340",
+      "19851"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349a4d",
-      "Record ID": "22336",
-      "Title": "Redox modification of cysteine residues regulates the cytokine activity of high mobility group box-1 (HMGB1)",
-      "Subject": [
+      "_id": "687cef591f662220d8984ea9",
+      "recordId": "63340",
+      "title": "Myo-inositol may improve oocyte quality in intracytoplasmic sperm injection cycles. A prospective, controlled, randomized trial",
+      "subject": [
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "IVF unit, Gynecologic-Obstetric Department, Istituto di Ricovera e Cura a Carattere Scientifico, San Raffaele Hospital, Vita-Salute University, Milan, Italy",
+        "Gynecology Association Unfer Costabile (A.G.UN.CO.), Obstetrics and Gynecology Center, Rome, Italy",
+        "Department of Medicine, Universit\u00e9 de Sherbrooke, Sherbrooke, Canada"
+      ],
+      "journal": "Fertility and Sterility",
+      "publisher": "Elsevier",
+      "country": [
+        "Canada",
+        "Italy"
+      ],
+      "author": [
+        "Enrico Papaleo",
+        "Vittorio Unfer",
+        "Jean-Patrice Baillargeon",
+        "Francesco Fusi",
+        "Francesca Occhi",
+        "Lucia De Santis"
+      ],
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "2/17/2025 0:00",
+      "retractiondoi": "10.1016/j.fertnstert.2025.01.028",
+      "retractionpubmedid": "39971415.0",
+      "originalpaperdate": "5/7/2008 0:00",
+      "originalpaperdoi": "10.1016/j.fertnstert.2008.01.088",
+      "originalpaperpubmedid": "18462730.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Third Party Involvement",
+        "+Conflict of Interest",
+        "+Error in Analyses",
+        "+Investigation by Journal/Publisher",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0081f662220d898e42b",
+      "recordId": "24918",
+      "title": "Redox modification of cysteine residues regulates the cytokine activity of high mobility group box-1 (HMGB1)",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Laboratory of Biomedical Science , the Feinstein Institute for Medical Research, Manhasset, New York, United States of America",
         "Departments of Women\u2019s and Children\u2019s Health, Medicine and Rheumatology Research Laboratory, Karolinska Institutet and Karolinska University Hospital, Stockholm, Sweden",
         "San Raffaele University and Scientific Institute, Milan, Italy",
         "Department of Medicinal Chemistry, The Feinstein Institute for Medical Research, Manhasset, New York, United States of America",
         "MRC Centre for Drug Safety Science, Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom"
       ],
-      "Journal": "Molecular Medicine",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "Molecular Medicine",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "Italy",
         "Sweden",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Huan Yang",
         "Peter Lundback",
         "Lars Ottosson",
@@ -51,98 +102,155 @@
         "Kevin J Tracey",
         "Daniel J Antoine"
       ],
-      "URLS": "http://retractionwatch.com/?s=Daniel+J+Antoine",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=Daniel+J+Antoine",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/4/2020 0:00",
-      "RetractionDOI": "10.1186/s10020-020-0144-8",
-      "RetractionPubMedID": "32019497.0",
-      "OriginalPaperDate": "11/7/2011 0:00",
-      "OriginalPaperDOI": "10.2119/molmed.2011.00389",
-      "OriginalPaperPubMedID": "22105604.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "12/30/2020 0:00",
+      "retractiondoi": "10.1186/s10020-020-00264-1",
+      "retractionpubmedid": "33380312.0",
+      "originalpaperdate": "11/7/2011 0:00",
+      "originalpaperdoi": "10.2119/molmed.2011.00389",
+      "originalpaperpubmedid": "22105604.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Daniel J Antoine has institutional finding of misconduct; see also: https://news.liverpool.ac.uk/2020/08/17/further-update-on-research-misconduct-investigation/;",
+      "year": "2011",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0121f662220d898ea2a",
+      "recordId": "23375",
+      "title": "Successful treatment of pyoderma gangrenosum with anakinra in a patient with Wiskott\u2013Aldrich syndrome",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Unit of Dermatology and Cosmetology, IRCCS University Vita-Salute San Raffaele, Milan, Italy",
+        "First Division of Dermatology, IRCCS Istituto Dermopatico dell'Immacolata, Rome, Italy"
+      ],
+      "journal": "Dermatologic Therapy",
+      "publisher": "Wiley",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Santo Raffaele Mercuri",
+        "Giovanni Paolino",
+        "Eduardo de Flammineis",
+        "Darlo Didona",
+        "Pina Brianti"
+      ],
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "4/27/2020 0:00",
+      "retractiondoi": "10.1111/dth.13413",
+      "retractionpubmedid": "32545926.0",
+      "originalpaperdate": "12/7/2017 0:00",
+      "originalpaperdoi": "10.1111/dth.12582",
+      "originalpaperpubmedid": "29214738.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf01a1f662220d898ee33",
+      "recordId": "22336",
+      "title": "Redox modification of cysteine residues regulates the cytokine activity of high mobility group box-1 (HMGB1)",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Laboratory of Biomedical Science , the Feinstein Institute for Medical Research, Manhasset, New York, United States of America",
+        "Departments of Women\u2019s and Children\u2019s Health, Medicine and Rheumatology Research Laboratory, Karolinska Institutet and Karolinska University Hospital, Stockholm, Sweden",
+        "San Raffaele University and Scientific Institute, Milan, Italy",
+        "Department of Medicinal Chemistry, The Feinstein Institute for Medical Research, Manhasset, New York, United States of America",
+        "MRC Centre for Drug Safety Science, Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom"
+      ],
+      "journal": "Molecular Medicine",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "Italy",
+        "Sweden",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Huan Yang",
+        "Peter Lundback",
+        "Lars Ottosson",
+        "Helena Erlandsson-Harris",
+        "Emilie Venereau",
+        "Marco E Bianchi",
+        "Yousef Al-Abed",
+        "Ulf Andersson",
+        "Kevin J Tracey",
+        "Daniel J Antoine"
+      ],
+      "urls": "http://retractionwatch.com/?s=Daniel+J+Antoine",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/4/2020 0:00",
+      "retractiondoi": "10.1186/s10020-020-0144-8",
+      "retractionpubmedid": "32019497.0",
+      "originalpaperdate": "11/7/2011 0:00",
+      "originalpaperdoi": "10.2119/molmed.2011.00389",
+      "originalpaperpubmedid": "22105604.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Company/Institution",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d233fac3",
-      "Record ID": "63340",
-      "Title": "Myo-inositol may improve oocyte quality in intracytoplasmic sperm injection cycles. A prospective, controlled, randomized trial",
-      "Subject": [
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "IVF unit, Gynecologic-Obstetric Department, Istituto di Ricovera e Cura a Carattere Scientifico, San Raffaele Hospital, Vita-Salute University, Milan, Italy",
-        "Gynecology Association Unfer Costabile (A.G.UN.CO.), Obstetrics and Gynecology Center, Rome, Italy",
-        "Department of Medicine, Universit\u00e9 de Sherbrooke, Sherbrooke, Canada"
-      ],
-      "Journal": "Fertility and Sterility",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Canada",
-        "Italy"
-      ],
-      "Author": [
-        "Enrico Papaleo",
-        "Vittorio Unfer",
-        "Jean-Patrice Baillargeon",
-        "Francesco Fusi",
-        "Francesca Occhi",
-        "Lucia De Santis"
-      ],
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "2/17/2025 0:00",
-      "RetractionDOI": "10.1016/j.fertnstert.2025.01.028",
-      "RetractionPubMedID": "39971415.0",
-      "OriginalPaperDate": "5/7/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.fertnstert.2008.01.088",
-      "OriginalPaperPubMedID": "18462730.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Third Party Involvement",
-        "+Conflict of Interest",
-        "+Error in Analyses",
-        "+Investigation by Journal/Publisher",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2008,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234a3f8",
-      "Record ID": "19851",
-      "Title": "Prep1 Controls Insulin Glucoregulatory Function in Liver by Transcriptional Targeting of SHP1 Tyrosine Phosphatase",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f7de",
+      "recordId": "19851",
+      "title": "Prep1 Controls Insulin Glucoregulatory Function in Liver by Transcriptional Targeting of SHP1 Tyrosine Phosphatase",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Diabetes"
       ],
-      "Institution": [
+      "institution": [
         "Dipartimento di Biologia e Patologia Cellulare e Molecolare and Istituto di Endocrinologia ed Oncologia Sperimentale del Consiglio Nazionale delle Ricerche, Universita` degli Studi di Napoli Federico II, Naples, Italy",
         "Istituto FIRC di Oncologia Molecolare (Fondazione Italiana per la Ricerca sul Cancro Institute of Molecular Oncology), Milano, Italy",
         "Universita` Vita Salute San Raffaele, Milano, Italy"
       ],
-      "Journal": "Diabetes",
-      "Publisher": "American Diabetes Association",
-      "Country": [
+      "journal": "Diabetes",
+      "publisher": "American Diabetes Association",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Francesco Oriente",
         "Salvatore Iovino",
         "Serena Cabaro",
@@ -154,17 +262,17 @@
         "Francesco Blasi",
         "Francesco Beguinot"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/14/2019 0:00",
-      "RetractionDOI": "10.2337/db19-rt02c",
-      "RetractionPubMedID": "30665957.0",
-      "OriginalPaperDate": "9/23/2010 0:00",
-      "OriginalPaperDOI": "10.2337/db10-0860",
-      "OriginalPaperPubMedID": "20864515.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/14/2019 0:00",
+      "retractiondoi": "10.2337/db19-rt02c",
+      "retractionpubmedid": "30665957.0",
+      "originalpaperdate": "9/23/2010 0:00",
+      "originalpaperdoi": "10.2337/db10-0860",
+      "originalpaperpubmedid": "20864515.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher",
@@ -172,34 +280,89 @@
         "+Unreliable Image",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e4f7",
-      "Record ID": "3052",
-      "Title": "SIK1 localizes with nephrin in glomerular podocytes and its polymorphism predicts kidney injury",
-      "Subject": [
+      "_id": "687cf09b1f662220d899086a",
+      "recordId": "15584",
+      "title": "Prep1 Controls Insulin Glucoregulatory Function in Liver by Transcriptional Targeting of SHP1 Tyrosine Phosphatase",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Dipartimento di Biologia e Patologia Cellulare e Molecolare and Istituto di Endocrinologia ed Oncologia Sperimentale del Consiglio Nazionale delle Ricerche, Universita` degli Studi di Napoli Federico II, Naples, Italy",
+        "Istituto FIRC di Oncologia Molecolare (Fondazione Italiana per la Ricerca sul Cancro Institute of Molecular Oncology), Milano, Italy",
+        "Universita` Vita Salute San Raffaele, Milano, Italy"
+      ],
+      "journal": "Diabetes",
+      "publisher": "American Diabetes Association",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Francesco Oriente",
+        "Salvatore Iovino",
+        "Serena Cabaro",
+        "Angela Cassese",
+        "Elena Longobardi",
+        "Claudia Miele",
+        "Paola Ungaro",
+        "Pietro Formisano",
+        "Francesco Blasi",
+        "Francesco Beguinot"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/6/2017 0:00",
+      "retractiondoi": "10.2337/db17-ec2017c",
+      "retractionpubmedid": "29109244.0",
+      "originalpaperdate": "9/23/2010 0:00",
+      "originalpaperdoi": "10.2337/db10-0860",
+      "originalpaperpubmedid": "20864515.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d89938dd",
+      "recordId": "3052",
+      "title": "SIK1 localizes with nephrin in glomerular podocytes and its polymorphism predicts kidney injury",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "Prassis Sigma-tau Research Institute, Via Forlanini, 3, Settimo Milanese, Milan, Italy, Division of Genetics and Cell Biology, Genomics of Renal Diseases and Hypertension Unit, Universit\u00e0 Vita-Salute San Raffaele, San Raffaele Scientific Institute, Milan, Italy",
         "Division of Genetics and Cell Biology, Biomolecular Mass Spectrometry Unit, Division of Metabolic and Cardiovascular Sciences, Complications of Diabetes, Department of Internal and Specialistic Medicine, San Raffaele Scientific Institute, Milan, Italy",
         "Renal Research Laboratory, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico & Fondazione D'Amico per la Ricerca Sulle Malattie Renali, Milan, Italy",
         "CVie Therapeutics, Hong Kong, China"
       ],
-      "Journal": "Human Molecular Genetics",
-      "Publisher": "Oxford University Press",
-      "Country": [
+      "journal": "Human Molecular Genetics",
+      "publisher": "Oxford University Press",
+      "country": [
         "China",
         "Italy"
       ],
-      "Author": [
+      "author": [
         "M Ferrandi",
         "I Molinari",
         "V Matafora",
@@ -211,181 +374,25 @@
         "P Ferrari",
         "P Manunta"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/14/2017 0:00",
-      "RetractionDOI": "10.1093/hmg/ddu558",
-      "RetractionPubMedID": "25392177.0",
-      "OriginalPaperDate": "4/3/2014 0:00",
-      "OriginalPaperDOI": "10.1093/hmg/ddu154",
-      "OriginalPaperPubMedID": "24698975.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/14/2017 0:00",
+      "retractiondoi": "10.1093/hmg/ddu558",
+      "retractionpubmedid": "25392177.0",
+      "originalpaperdate": "4/3/2014 0:00",
+      "originalpaperdoi": "10.1093/hmg/ddu154",
+      "originalpaperpubmedid": "24698975.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349045",
-      "Record ID": "24918",
-      "Title": "Redox modification of cysteine residues regulates the cytokine activity of high mobility group box-1 (HMGB1)",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Laboratory of Biomedical Science , the Feinstein Institute for Medical Research, Manhasset, New York, United States of America",
-        "Departments of Women\u2019s and Children\u2019s Health, Medicine and Rheumatology Research Laboratory, Karolinska Institutet and Karolinska University Hospital, Stockholm, Sweden",
-        "San Raffaele University and Scientific Institute, Milan, Italy",
-        "Department of Medicinal Chemistry, The Feinstein Institute for Medical Research, Manhasset, New York, United States of America",
-        "MRC Centre for Drug Safety Science, Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, United Kingdom"
-      ],
-      "Journal": "Molecular Medicine",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "Italy",
-        "Sweden",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Huan Yang",
-        "Peter Lundback",
-        "Lars Ottosson",
-        "Helena Erlandsson-Harris",
-        "Emilie Venereau",
-        "Marco E Bianchi",
-        "Yousef Al-Abed",
-        "Ulf Andersson",
-        "Kevin J Tracey",
-        "Daniel J Antoine"
-      ],
-      "URLS": "http://retractionwatch.com/?s=Daniel+J+Antoine",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/30/2020 0:00",
-      "RetractionDOI": "10.1186/s10020-020-00264-1",
-      "RetractionPubMedID": "33380312.0",
-      "OriginalPaperDate": "11/7/2011 0:00",
-      "OriginalPaperDOI": "10.2119/molmed.2011.00389",
-      "OriginalPaperPubMedID": "22105604.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Daniel J Antoine has institutional finding of misconduct; see also: https://news.liverpool.ac.uk/2020/08/17/further-update-on-research-misconduct-investigation/;",
-      "notice_year": 2020,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2349644",
-      "Record ID": "23375",
-      "Title": "Successful treatment of pyoderma gangrenosum with anakinra in a patient with Wiskott\u2013Aldrich syndrome",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Dermatology",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Unit of Dermatology and Cosmetology, IRCCS University Vita-Salute San Raffaele, Milan, Italy",
-        "First Division of Dermatology, IRCCS Istituto Dermopatico dell'Immacolata, Rome, Italy"
-      ],
-      "Journal": "Dermatologic Therapy",
-      "Publisher": "Wiley",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Santo Raffaele Mercuri",
-        "Giovanni Paolino",
-        "Eduardo de Flammineis",
-        "Darlo Didona",
-        "Pina Brianti"
-      ],
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "4/27/2020 0:00",
-      "RetractionDOI": "10.1111/dth.13413",
-      "RetractionPubMedID": "32545926.0",
-      "OriginalPaperDate": "12/7/2017 0:00",
-      "OriginalPaperDOI": "10.1111/dth.12582",
-      "OriginalPaperPubMedID": "29214738.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2017,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234b484",
-      "Record ID": "15584",
-      "Title": "Prep1 Controls Insulin Glucoregulatory Function in Liver by Transcriptional Targeting of SHP1 Tyrosine Phosphatase",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Dipartimento di Biologia e Patologia Cellulare e Molecolare and Istituto di Endocrinologia ed Oncologia Sperimentale del Consiglio Nazionale delle Ricerche, Universita` degli Studi di Napoli Federico II, Naples, Italy",
-        "Istituto FIRC di Oncologia Molecolare (Fondazione Italiana per la Ricerca sul Cancro Institute of Molecular Oncology), Milano, Italy",
-        "Universita` Vita Salute San Raffaele, Milano, Italy"
-      ],
-      "Journal": "Diabetes",
-      "Publisher": "American Diabetes Association",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Francesco Oriente",
-        "Salvatore Iovino",
-        "Serena Cabaro",
-        "Angela Cassese",
-        "Elena Longobardi",
-        "Claudia Miele",
-        "Paola Ungaro",
-        "Pietro Formisano",
-        "Francesco Blasi",
-        "Francesco Beguinot"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/6/2017 0:00",
-      "RetractionDOI": "10.2337/db17-ec2017c",
-      "RetractionPubMedID": "29109244.0",
-      "OriginalPaperDate": "9/23/2010 0:00",
-      "OriginalPaperDOI": "10.2337/db10-0860",
-      "OriginalPaperPubMedID": "20864515.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
@@ -395,7 +402,7 @@
       "retraction_notice_count": 0,
       "publication_count": 1,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -406,7 +413,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -417,7 +424,7 @@
       "retraction_notice_count": 0,
       "publication_count": 10,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -428,7 +435,7 @@
       "retraction_notice_count": 0,
       "publication_count": 20,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -439,7 +446,7 @@
       "retraction_notice_count": 0,
       "publication_count": 20,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -450,7 +457,7 @@
       "retraction_notice_count": 0,
       "publication_count": 80,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -461,7 +468,7 @@
       "retraction_notice_count": 0,
       "publication_count": 132,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -472,7 +479,7 @@
       "retraction_notice_count": 0,
       "publication_count": 168,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -483,7 +490,7 @@
       "retraction_notice_count": 0,
       "publication_count": 242,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -494,7 +501,7 @@
       "retraction_notice_count": 0,
       "publication_count": 272,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -505,7 +512,7 @@
       "retraction_notice_count": 0,
       "publication_count": 332,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -516,21 +523,32 @@
       "retraction_notice_count": 0,
       "publication_count": 357,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 419,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2008,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 419,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2009,
@@ -538,31 +556,53 @@
       "retraction_notice_count": 0,
       "publication_count": 429,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 487,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2010,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 487,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 576,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2011,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 576,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
@@ -571,7 +611,7 @@
       "retraction_notice_count": 0,
       "publication_count": 693,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -582,20 +622,31 @@
       "retraction_notice_count": 0,
       "publication_count": 655,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 667,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2014,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 667,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
@@ -604,7 +655,7 @@
       "retraction_notice_count": 0,
       "publication_count": 768,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -615,18 +666,29 @@
       "retraction_notice_count": 0,
       "publication_count": 883,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 988,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2017,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 988,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -637,7 +699,7 @@
       "retraction_notice_count": 0,
       "publication_count": 1066,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -645,10 +707,21 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 1252,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2019,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 1252,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -656,10 +729,21 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 1860,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2020,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 1860,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -670,7 +754,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2026,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -681,7 +765,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2065,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -692,7 +776,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2329,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -703,7 +787,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2414,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -711,10 +795,21 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 1242,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 1242,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

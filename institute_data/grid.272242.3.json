@@ -1,31 +1,31 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878897",
+    "_id": "687ccbab09adbf7aa61b94b8",
     "grid_id": "grid.272242.3",
     "institute_name": "National Cancer Centre Japan",
     "country": "Japan",
     "retracted_record_ids": [
-      "52982",
-      "1067",
       "2766",
-      "37040",
-      "31553",
       "24374",
-      "44138"
+      "52982",
+      "31553",
+      "44138",
+      "37040",
+      "1067"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342310",
-      "Record ID": "52982",
-      "Title": "Genetic manipulation of autonomic nerve fiber innervation and activity and its effect on breast cancer progression",
-      "Subject": [
+      "_id": "687cef831f662220d89876f6",
+      "recordId": "52982",
+      "title": "Genetic manipulation of autonomic nerve fiber innervation and activity and its effect on breast cancer progression",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Genetics",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cellular Physiology, Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, Japan",
         "Department of Cardiovascular Dynamics, National Cerebral and Cardiovascular Center Research Institute, Suita, Japan",
         "PRIME, Japan Agency for Medical Research and Development, Tokyo, Japan",
@@ -36,12 +36,12 @@
         "Division of Molecular and Cellular Medicine, National Cancer Center Research Institute, Tokyo, Japan",
         "Institute of Medical Science, Tokyo Medical University, Tokyo, Japan"
       ],
-      "Journal": "Nature Neuroscience",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Atsunori Kamiya",
         "Yohsuke Hayama",
         "Shigeki Kato",
@@ -53,17 +53,17 @@
         "Kazuto Kobayashi",
         "Takahiro Ochiya"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/29/2024 0:00",
-      "RetractionDOI": "10.1038/s41593-024-01628-0",
-      "RetractionPubMedID": "38553637.0",
-      "OriginalPaperDate": "7/8/2019 0:00",
-      "OriginalPaperDOI": "10.1038/s41593-019-0430-3",
-      "OriginalPaperPubMedID": "31285612.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/29/2024 0:00",
+      "retractiondoi": "10.1038/s41593-024-01628-0",
+      "retractionpubmedid": "38553637.0",
+      "originalpaperdate": "7/8/2019 0:00",
+      "originalpaperdoi": "10.1038/s41593-019-0430-3",
+      "originalpaperpubmedid": "31285612.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Error in Analyses",
@@ -73,157 +73,123 @@
         "+Lack of IRB/IACUC Approval and/or Compliance",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2019,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ec8e",
-      "Record ID": "1067",
-      "Title": "Regulation of p53: Intricate Loops and Delicate Balances",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Molecular Cell Biology, The Weizmann Institute of Science, P.O. Box 26, Rehovot 76100, Israel",
-        "Department of Biological Regulation, The Weizmann Institute of Science, P.O. Box 26, Rehovot 76100, Israel",
-        "Radiobiology Division, National Cancer Center Research Institute, Tokyo 104-0045, Japan"
-      ],
-      "Journal": "Biochemical Pharmacology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Israel"
-      ],
-      "Author": [
-        "Moshe Oren",
-        "Alexander Damalas",
-        "Tanya Gottlieb",
-        "Dan Michael",
-        "Jan Taplick",
-        "Juan Fernando Martinez Leal",
-        "Ruth Maya",
-        "Miri Moas",
-        "Rony Seger",
-        "Yoichi Taya",
-        "Avri Ben-Ze\u2019ev"
-      ],
-      "URLS": "http://retractionwatch.com/2017/05/25/journal-retracts-nine-papers-one-day-author-investigation-weizmann-institute/",
-      "ArticleType": [
-        "Research Article",
-        "Review Article"
-      ],
-      "RetractionDate": "8/1/2015 0:00",
-      "RetractionDOI": "10.1016/j.bcp.2015.07.001",
-      "RetractionPubMedID": "26465018.0",
-      "OriginalPaperDate": "9/1/2002 0:00",
-      "OriginalPaperDOI": "10.1016/S0006-2952(02)01149-8",
-      "OriginalPaperPubMedID": "12213580.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Euphemisms for Duplication"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2002,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e612",
-      "Record ID": "2766",
-      "Title": "Superselective Transarterial Chemoembolization for Hepatocellular Carcinoma: Recent Progression and Perspective",
-      "Subject": [
+      "_id": "687cefa41f662220d898996b",
+      "recordId": "44138",
+      "title": "The low expression of miR-451 predicts a worse prognosis in non-small cell lung cancer cases",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology"
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular"
       ],
-      "Institution": [
-        "Department of Diagnostic Radiology, National Cancer Center Hospital, Tokyo, Japan"
+      "institution": [
+        "Department of Cellular and Organ Pathology, Graduate School of Medicine, Akita University, Akita, Japan",
+        "Department of Molecular Medicine and Biochemistry, Graduate School of Medicine, Akita University, Akita, Japan",
+        "Department of Clinical Pathology, Akita University Hospital, Akita, Japan",
+        "Division of Genome Biology, National Cancer Center Research Institute, Tokyo, Japan",
+        "Department of Thoracic Surgery, Akita University Hospital, Akita, Japan"
       ],
-      "Journal": "Oncology",
-      "Publisher": "Karger",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Japan"
       ],
-      "Author": [
-        "K Takayasu"
+      "author": [
+        "Akiteru Goto",
+        "Masamitsu Tanaka",
+        "Makoto Yoshida",
+        "Michinobu Umakoshi",
+        "Hiroshi Nanjo",
+        "Kouya Shiraishi",
+        "Motonobu Saito",
+        "Takashi Kohno",
+        "Sei Kuriyama",
+        "Hayato Konno",
+        "Kazuhiro Imai",
+        "Hajime Saito",
+        "Yoshihiro Minamiya",
+        "Daichi Maeda"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/1/2012 0:00",
-      "RetractionDOI": "10.1159/000335636",
-      "RetractionPubMedID": "22538349.0",
-      "OriginalPaperDate": "1/1/2011 0:00",
-      "OriginalPaperDOI": "10.1159/000333269",
-      "OriginalPaperPubMedID": "22212943.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Third Party",
-        "+Error in Data"
+      "retractiondate": "1/18/2023 0:00",
+      "retractiondoi": "10.1371/journal.pone.0280774",
+      "retractionpubmedid": "36652437.0",
+      "originalpaperdate": "7/12/2017 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0181270",
+      "originalpaperpubmedid": "28704499.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Conflict of Interest"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346116",
-      "Record ID": "37040",
-      "Title": "Enhanced Anti-Tumor Effect of Zoledronic Acid Combined with Temozolomide against Human Malignant Glioma Cell Expressing O6-Methylguanine DNA Methyltransferase",
-      "Subject": [
+      "_id": "687cefbc1f662220d898b4fc",
+      "recordId": "37040",
+      "title": "Enhanced Anti-Tumor Effect of Zoledronic Acid Combined with Temozolomide against Human Malignant Glioma Cell Expressing O6-Methylguanine DNA Methyltransferase",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurological Surgery, Wakayama Medical University School of Medicine, Wakayama, Japan",
         "Shien-Lab, National Cancer Center Hospital, Tokyo, Japan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Junya Fukai",
         "Fumiaki Koizumi",
         "Naoyuki Nakao"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/5/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0268315",
-      "RetractionPubMedID": "35511800.0",
-      "OriginalPaperDate": "8/11/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0104538",
-      "OriginalPaperPubMedID": "25111384.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/5/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0268315",
+      "retractionpubmedid": "35511800.0",
+      "originalpaperdate": "8/11/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0104538",
+      "originalpaperpubmedid": "25111384.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2347669",
-      "Record ID": "31553",
-      "Title": "First-line pembrolizumab vs chemotherapy in metastatic non-small-cell lung cancer: KEYNOTE-024 Japan subset",
-      "Subject": [
+      "_id": "687cefd21f662220d898ca4f",
+      "recordId": "31553",
+      "title": "First-line pembrolizumab vs chemotherapy in metastatic non-small-cell lung cancer: KEYNOTE-024 Japan subset",
+      "subject": [
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Pulmonology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Department of Thoracic Oncology, Hyogo Cancer Center, Akashi, Japan",
         "Department of Thoracic Oncology, National Hospital Organization Kyushu Cancer Center, Fukuoka, Japan",
         "Division of Thoracic Oncology, Shizuoka Cancer Center, Shuntougun, Japan",
@@ -250,13 +216,13 @@
         "Merck & Co., Inc., Kenilworth, NJ, USA",
         "Center for Innovative Clinical Medicine, Okayama University Hospital, Okayama, Japan"
       ],
-      "Journal": "Cancer Science",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cancer Science",
+      "publisher": "Wiley",
+      "country": [
         "Japan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Miyako Satouchi",
         "Kaname Nosaki",
         "Toshiaki Takahashi",
@@ -284,35 +250,36 @@
         "Victori Ebiana",
         "Katsuyuki Hotta"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "8/10/2021 0:00",
-      "RetractionDOI": "10.1111/cas.15066",
-      "RetractionPubMedID": "34390097.0",
-      "OriginalPaperDate": "9/14/2020 0:00",
-      "OriginalPaperDOI": "10.1111/cas.14647",
-      "OriginalPaperPubMedID": "32926507.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/10/2021 0:00",
+      "retractiondoi": "10.1111/cas.15066",
+      "retractionpubmedid": "34390097.0",
+      "originalpaperdate": "9/14/2020 0:00",
+      "originalpaperdoi": "10.1111/cas.14647",
+      "originalpaperpubmedid": "32926507.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349261",
-      "Record ID": "24374",
-      "Title": "High-dose therapy and autologous stem cell transplantation for relapsed or high-risk diffuse large B-cell lymphoma: a nationwide survey",
-      "Subject": [
+      "_id": "687cf00a1f662220d898e647",
+      "recordId": "24374",
+      "title": "High-dose therapy and autologous stem cell transplantation for relapsed or high-risk diffuse large B-cell lymphoma: a nationwide survey",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Department of Hematopoietic Stem Cell Transplantation, National Cancer Center Hospital, 5-1-1 Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan",
         "Department of Hematology and Oncology, Okinawa Chubu Hospital, Uruma, Japan",
         "Department of Hematology, Japanese Red Cross Kyoto Daiichi Hospital, Kyoto, Japan",
@@ -324,12 +291,12 @@
         "Hematology Division, Tokyo Metropolitan Cancer and Infectious Disease Center, Komagome Hospital, Tokyo, Japan",
         "Department of HSCT Data Management and Biostatistics, Nagoya University School of Medicine, Nagoya, Japan"
       ],
-      "Journal": "International Journal of Hematology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "International Journal of Hematology",
+      "publisher": "Springer",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Sung Won Kim",
         "Yoshitaka Asakura",
         "Kinuko Tajima",
@@ -342,178 +309,218 @@
         "Ritsuro Suzuki",
         "Takahiro Fukuda"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/8/2020 0:00",
-      "RetractionDOI": "10.1007/s12185-020-03018-1",
-      "RetractionPubMedID": "33030633.0",
-      "OriginalPaperDate": "11/16/2019 0:00",
-      "OriginalPaperDOI": "10.1007/s12185-019-02772-1",
-      "OriginalPaperPubMedID": "31732878.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/8/2020 0:00",
+      "retractiondoi": "10.1007/s12185-020-03018-1",
+      "retractionpubmedid": "33030633.0",
+      "originalpaperdate": "11/16/2019 0:00",
+      "originalpaperdoi": "10.1007/s12185-019-02772-1",
+      "originalpaperpubmedid": "31732878.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Company/Institution",
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2344585",
-      "Record ID": "44138",
-      "Title": "The low expression of miR-451 predicts a worse prognosis in non-small cell lung cancer cases",
-      "Subject": [
+      "_id": "687cf0cf1f662220d89939f8",
+      "recordId": "2766",
+      "title": "Superselective Transarterial Chemoembolization for Hepatocellular Carcinoma: Recent Progression and Perspective",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular"
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
-        "Department of Cellular and Organ Pathology, Graduate School of Medicine, Akita University, Akita, Japan",
-        "Department of Molecular Medicine and Biochemistry, Graduate School of Medicine, Akita University, Akita, Japan",
-        "Department of Clinical Pathology, Akita University Hospital, Akita, Japan",
-        "Division of Genome Biology, National Cancer Center Research Institute, Tokyo, Japan",
-        "Department of Thoracic Surgery, Akita University Hospital, Akita, Japan"
+      "institution": [
+        "Department of Diagnostic Radiology, National Cancer Center Hospital, Tokyo, Japan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "Oncology",
+      "publisher": "Karger",
+      "country": [
         "Japan"
       ],
-      "Author": [
-        "Akiteru Goto",
-        "Masamitsu Tanaka",
-        "Makoto Yoshida",
-        "Michinobu Umakoshi",
-        "Hiroshi Nanjo",
-        "Kouya Shiraishi",
-        "Motonobu Saito",
-        "Takashi Kohno",
-        "Sei Kuriyama",
-        "Hayato Konno",
-        "Kazuhiro Imai",
-        "Hajime Saito",
-        "Yoshihiro Minamiya",
-        "Daichi Maeda"
+      "author": [
+        "K Takayasu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/18/2023 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0280774",
-      "RetractionPubMedID": "36652437.0",
-      "OriginalPaperDate": "7/12/2017 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0181270",
-      "OriginalPaperPubMedID": "28704499.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Conflict of Interest"
+      "retractiondate": "1/1/2012 0:00",
+      "retractiondoi": "10.1159/000335636",
+      "retractionpubmedid": "22538349.0",
+      "originalpaperdate": "1/1/2011 0:00",
+      "originalpaperdoi": "10.1159/000333269",
+      "originalpaperpubmedid": "22212943.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Third Party",
+        "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2017,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2012",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d51f662220d8994074",
+      "recordId": "1067",
+      "title": "Regulation of p53: Intricate Loops and Delicate Balances",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Molecular Cell Biology, The Weizmann Institute of Science, P.O. Box 26, Rehovot 76100, Israel",
+        "Department of Biological Regulation, The Weizmann Institute of Science, P.O. Box 26, Rehovot 76100, Israel",
+        "Radiobiology Division, National Cancer Center Research Institute, Tokyo 104-0045, Japan"
+      ],
+      "journal": "Biochemical Pharmacology",
+      "publisher": "Elsevier",
+      "country": [
+        "Israel"
+      ],
+      "author": [
+        "Moshe Oren",
+        "Alexander Damalas",
+        "Tanya Gottlieb",
+        "Dan Michael",
+        "Jan Taplick",
+        "Juan Fernando Martinez Leal",
+        "Ruth Maya",
+        "Miri Moas",
+        "Rony Seger",
+        "Yoichi Taya",
+        "Avri Ben-Ze\u2019ev"
+      ],
+      "urls": "http://retractionwatch.com/2017/05/25/journal-retracts-nine-papers-one-day-author-investigation-weizmann-institute/",
+      "articletype": [
+        "Research Article",
+        "Review Article"
+      ],
+      "retractiondate": "8/1/2015 0:00",
+      "retractiondoi": "10.1016/j.bcp.2015.07.001",
+      "retractionpubmedid": "26465018.0",
+      "originalpaperdate": "9/1/2002 0:00",
+      "originalpaperdoi": "10.1016/S0006-2952(02)01149-8",
+      "originalpaperpubmedid": "12213580.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Euphemisms for Duplication"
+      ],
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -521,10 +528,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -532,10 +539,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -543,10 +550,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

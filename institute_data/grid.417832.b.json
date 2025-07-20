@@ -1,74 +1,166 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879247",
+    "_id": "687ccbab09adbf7aa61b9e68",
     "grid_id": "grid.417832.b",
     "institute_name": "Biogen (United States)",
     "country": "United States",
     "retracted_record_ids": [
-      "35972",
+      "17162",
       "5471",
-      "19471",
-      "17162"
+      "35972",
+      "19471"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346531",
-      "Record ID": "35972",
-      "Title": "Introducing baminercept, a novel agent for the treatment of inflammatory bowel disease (IBD)",
-      "Subject": [
+      "_id": "687cefc21f662220d898b917",
+      "recordId": "35972",
+      "title": "Introducing baminercept, a novel agent for the treatment of inflammatory bowel disease (IBD)",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "University Hospital Schleswig-Holstein, Kiel, Germany",
         "Oklahoma Foundation for Digestive Research, Oklahoma City, OK, United States",
         "Biogen Idec, Cambridge, MA, United States"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Germany",
         "United States"
       ],
-      "Author": [
+      "author": [
         "S Schreiber",
         "P Miner",
         "J Browning",
         "F Cataldi"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dbb7",
-      "Record ID": "5471",
-      "Title": "Novel APC-like properties of human NK cells directly regulate T cell activation",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f958",
+      "recordId": "19471",
+      "title": "LINGO-1 Regulates Oligodendrocyte Differentiation through the Cytoplasmic Gelsolin Signaling Pathway",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Biogen, Inc., Cambridge, Massachusetts 02142"
+      ],
+      "journal": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+      "publisher": "Society for Neuroscience",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Zhaohui Shao",
+        "Xinhua Lee",
+        "Guanrong Huang",
+        "Guoqing Sheng",
+        "Christopher E Henderson",
+        "Daniel Louvard",
+        "Jiho Sohn",
+        "Blake Pepinsky",
+        "Sha Mi"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/14/2018 0:00",
+      "retractiondoi": "10.1523/JNEUROSCI.2476-18.2018",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/13/2017 0:00",
+      "originalpaperdoi": "10.1523/JNEUROSCI.3722-16.2017",
+      "originalpaperpubmedid": "28193690.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0941f662220d899024a",
+      "recordId": "17162",
+      "title": "Molecular characterization of excipients\u2019 preferential interactions with therapeutic monoclonal antibodies",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA",
+        "Protein Pharmaceutical Development, Biogen, Cambridge, MA, USA"
+      ],
+      "journal": "Journal of Pharmacy and Pharmacology",
+      "publisher": "Wiley",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Jehoon Kim",
+        "Mark R H Krebs",
+        "Bernhardt L Trout"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/16/2018 0:00",
+      "retractiondoi": "10.1111/jphp.12787",
+      "retractionpubmedid": "28776673.0",
+      "originalpaperdate": "8/4/2017 0:00",
+      "originalpaperdoi": "10.1111/jphp.12787",
+      "originalpaperpubmedid": "28776673.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f9d",
+      "recordId": "5471",
+      "title": "Novel APC-like properties of human NK cells directly regulate T cell activation",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
+      "institution": [
         "The Lautenberg Center for General and Tumor Immunology, Hebrew University\u2013Hadassah Medical School, Jerusalem, Israel",
         "Biogen Idec Inc., San Diego, California, USA",
         "Institute of Immunology, University of Oslo, Oslo, Norway",
@@ -77,15 +169,15 @@
         "The Laboratory for Cellular and Molecular Immunology, Department of Medicine, and Department of Obstetrics and Gynecology, Hadassah Hospital, Jerusalem, Israel",
         "Benaroya Research Institute, Seattle, Washington, USA"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
         "Germany",
         "Israel",
         "Norway",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jacob Hanna",
         "Tsufit Gonen-Gross",
         "Jonathan Fitchett",
@@ -104,18 +196,18 @@
         "Jane H Buckner",
         "Ofer Mandelboim"
       ],
-      "URLS": "http://retractionwatch.com/2015/04/08/jci-retracts-stem-cell-paper-by-jacob-hanna-citing-figure-irregularities/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/04/08/jci-retracts-stem-cell-paper-by-jacob-hanna-citing-figure-irregularities/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2015 0:00",
-      "RetractionDOI": "10.1172/JCI81527",
-      "RetractionPubMedID": "25831444.0",
-      "OriginalPaperDate": "12/1/2004 0:00",
-      "OriginalPaperDOI": "10.1172/JCI22787",
-      "OriginalPaperPubMedID": "15578093.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2015 0:00",
+      "retractiondoi": "10.1172/JCI81527",
+      "retractionpubmedid": "25831444.0",
+      "originalpaperdate": "12/1/2004 0:00",
+      "originalpaperdoi": "10.1172/JCI22787",
+      "originalpaperpubmedid": "15578093.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Error in Data",
@@ -123,153 +215,65 @@
         "+Objections by Author(s)",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2004,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234a572",
-      "Record ID": "19471",
-      "Title": "LINGO-1 Regulates Oligodendrocyte Differentiation through the Cytoplasmic Gelsolin Signaling Pathway",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Biogen, Inc., Cambridge, Massachusetts 02142"
-      ],
-      "Journal": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
-      "Publisher": "Society for Neuroscience",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Zhaohui Shao",
-        "Xinhua Lee",
-        "Guanrong Huang",
-        "Guoqing Sheng",
-        "Christopher E Henderson",
-        "Daniel Louvard",
-        "Jiho Sohn",
-        "Blake Pepinsky",
-        "Sha Mi"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/14/2018 0:00",
-      "RetractionDOI": "10.1523/JNEUROSCI.2476-18.2018",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/13/2017 0:00",
-      "OriginalPaperDOI": "10.1523/JNEUROSCI.3722-16.2017",
-      "OriginalPaperPubMedID": "28193690.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234ae64",
-      "Record ID": "17162",
-      "Title": "Molecular characterization of excipients\u2019 preferential interactions with therapeutic monoclonal antibodies",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA",
-        "Protein Pharmaceutical Development, Biogen, Cambridge, MA, USA"
-      ],
-      "Journal": "Journal of Pharmacy and Pharmacology",
-      "Publisher": "Wiley",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Jehoon Kim",
-        "Mark R H Krebs",
-        "Bernhardt L Trout"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/16/2018 0:00",
-      "RetractionDOI": "10.1111/jphp.12787",
-      "RetractionPubMedID": "28776673.0",
-      "OriginalPaperDate": "8/4/2017 0:00",
-      "OriginalPaperDOI": "10.1111/jphp.12787",
-      "OriginalPaperPubMedID": "28776673.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -277,10 +281,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

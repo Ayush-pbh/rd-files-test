@@ -1,37 +1,104 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878ee4",
+    "_id": "687ccbab09adbf7aa61b9b05",
     "grid_id": "grid.239864.2",
     "institute_name": "Henry Ford Health System",
     "country": "United States",
     "retracted_record_ids": [
       "18292",
       "18004",
-      "11304",
-      "41801"
+      "41801",
+      "11304"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234aa07",
-      "Record ID": "18292",
-      "Title": "Performance of Ceftolozane-Tazobactam Etest, MIC Test Strips, and Disk Diffusion Compared to Reference Broth Microdilution for beta-Lactam-Resistant Pseudomonas aeruginosa Isolates",
-      "Subject": [
+      "_id": "687cefae1f662220d898a280",
+      "recordId": "41801",
+      "title": "Cancer Prevalence in E-Cigarette Users: A Retrospective Cross-Sectional NHANES Study",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Department of Internal Medicine, University of Illinois College of Medicine, Peoria, IL, USA",
+        "Department of Internal Medicine, Hackensack Meridian Health Palisades Medical Center, North Bergen, NJ, USA",
+        "Department of Family and Community Medicine, University of Missouri, Kansas City, MO, USA",
+        "Department of Internal Medicine, Manipal College of Medical Sciences, Pokhara, Nepal",
+        "Department of Internal Medicine, Mount Sinai Morningside, NY, New York, USA",
+        "Department of Internal Medicine, Temple University Hospital, Philadelphia, PA, USA",
+        "Department of Internal Medicine, Smt Kashibai Navale Medical College, Nahre, Maharashtra, India",
+        "Apex Heart and Vascular Center, Jersey City, NJ, USA",
+        "Clinical Research, Icahn School of Medicine at Mount Sinai, New York, NY, USA",
+        "Department of Internal Medicine, Canton Medical Education Foundation/NEOMED, Canton, OH, USA",
+        "Department of Internal Medicine, Henry Ford Health System, Detroit, MI, USA",
+        "Department of Internal Medicine, Reading Hospital, West Reading, PA, USA",
+        "Department of Internal Medicine, Mayo Clinic Health System, Mankato, MN, USA"
+      ],
+      "journal": "World Journal of Oncology",
+      "publisher": "Elmer Press",
+      "country": [
+        "India",
+        "Nepal",
+        "United States"
+      ],
+      "author": [
+        "Anusha Chidharla",
+        "Kriti Agarwal",
+        "Salwa Abdelwahed",
+        "Renu Bhandari",
+        "Abhishek Singh",
+        "Rizwan Rabbani",
+        "Kajal Patel",
+        "Priyanka Singh",
+        "Deep Mehta",
+        "Pritika S Manaktala",
+        "Shreejith Pillai",
+        "Sachin Gupta",
+        "Thoyaja Koritala"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/24/2022 0:00",
+      "retractiondoi": "10.14740/wjon1438r",
+      "retractionpubmedid": "36660203.0",
+      "originalpaperdate": "2/8/2022 0:00",
+      "originalpaperdoi": "10.14740/wjon1438",
+      "originalpaperpubmedid": "35317331.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Concerns/Issues about Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898fded",
+      "recordId": "18292",
+      "title": "Performance of Ceftolozane-Tazobactam Etest, MIC Test Strips, and Disk Diffusion Compared to Reference Broth Microdilution for beta-Lactam-Resistant Pseudomonas aeruginosa Isolates",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathology & Laboratory Medicine, UCLA, Los Angeles, California, USA",
         "Department of Pharmacy, Huntington Memorial Hospital, School of Pharmacy, University of Southern California, Los Angeles, California, USA",
         "Henry Ford Health System, Detroit, Michigan, USA"
       ],
-      "Journal": "Journal of Clinical Microbiology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Journal of Clinical Microbiology",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Romney M Humphries",
         "Janet A Hindler",
         "Paul Magnano",
@@ -39,35 +106,36 @@
         "Robert J Tibbetts",
         "Shelley A Miller"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/25/2018 0:00",
-      "RetractionDOI": "10.1128/JCM.00541-18",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/6/2017 0:00",
-      "OriginalPaperDOI": "10.1128/JCM.01633-17",
-      "OriginalPaperPubMedID": "29212704.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/25/2018 0:00",
+      "retractiondoi": "10.1128/JCM.00541-18",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/6/2017 0:00",
+      "originalpaperdoi": "10.1128/JCM.01633-17",
+      "originalpaperpubmedid": "29212704.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Methods",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ab26",
-      "Record ID": "18004",
-      "Title": "Efficacy and safety of topical oxymetazoline cream 1.0% for treatment of persistent facial erythema associated with rosacea: findings from the 2 phase 3, 29-day, randomized, controlled REVEAL trials",
-      "Subject": [
+      "_id": "687cf0921f662220d898ff0c",
+      "recordId": "18004",
+      "title": "Efficacy and safety of topical oxymetazoline cream 1.0% for treatment of persistent facial erythema associated with rosacea: findings from the 2 phase 3, 29-day, randomized, controlled REVEAL trials",
+      "subject": [
         "(HSC) Medicine - Dermatology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Henry Ford Health System, West Bloomfield",
         "Icahn School of Medicine at Mount Sinai, New York",
         "Dermatology Consulting Services, High Point",
@@ -80,12 +148,12 @@
         "Center for Dermatology and Laser Surgery, Sacramento",
         "Allergan plc, Irvine"
       ],
-      "Journal": "Journal of the American Academy of Dermatology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of the American Academy of Dermatology",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Linda Stein-Gold",
         "Leon H Kircik",
         "Zoe Diane Draelos",
@@ -101,29 +169,30 @@
         "David R Berk",
         "Gurpreet Ahluwalia"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "4/12/2018 0:00",
-      "RetractionDOI": "10.1016/j.jaad.2018.04.011",
-      "RetractionPubMedID": "29655997.0",
-      "OriginalPaperDate": "1/3/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.jaad.2018.01.028",
-      "OriginalPaperPubMedID": "29409915.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/12/2018 0:00",
+      "retractiondoi": "10.1016/j.jaad.2018.04.011",
+      "retractionpubmedid": "29655997.0",
+      "originalpaperdate": "1/3/2018 0:00",
+      "originalpaperdoi": "10.1016/j.jaad.2018.01.028",
+      "originalpaperpubmedid": "29409915.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c531",
-      "Record ID": "11304",
-      "Title": "Epigenetic silencing of miR-34a in human prostate cancer cells and tumor tissue specimens can be reversed by BR-DIM treatment",
-      "Subject": [
+      "_id": "687cf0b21f662220d8991917",
+      "recordId": "11304",
+      "title": "Epigenetic silencing of miR-34a in human prostate cancer cells and tumor tissue specimens can be reversed by BR-DIM treatment",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
@@ -131,16 +200,16 @@
         "(HSC) Medicine - Pathology",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "Departments of Pathology, Oncology, Urology, Karmanos Cancer Institute, Wayne State University School ofMedicine, Detroit, Michigan",
         "Departments of Oncology, Pathology, Urology, Henry Ford Health System, Detroit, MI"
       ],
-      "Journal": "American Journal of Translational Research",
-      "Publisher": "e-Century Publishing Corporation",
-      "Country": [
+      "journal": "American Journal of Translational Research",
+      "publisher": "e-Century Publishing Corporation",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Dejuan Kong",
         "Elisabeth Heath",
         "Wei Chen",
@@ -158,103 +227,38 @@
         "Mani Menon",
         "Fazlul H Sarkar"
       ],
-      "URLS": "http://retractionwatch.com/2016/08/12/meet-the-researcher-who-tried-to-take-on-pubpeer-commenters-fazlul-sarkar/;http://retractionwatch.com/2014/10/26/scientist-sues-pubpeer-commenters-subpoenas-site-for-names/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/08/12/meet-the-researcher-who-tried-to-take-on-pubpeer-commenters-fazlul-sarkar/;http://retractionwatch.com/2014/10/26/scientist-sues-pubpeer-commenters-subpoenas-site-for-names/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/1/2013 0:00",
-      "RetractionPubMedID": "24349627.0",
-      "OriginalPaperDate": "1/5/2012 0:00",
-      "OriginalPaperPubMedID": "22347519.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "12/1/2013 0:00",
+      "retractionpubmedid": "24349627.0",
+      "originalpaperdate": "1/5/2012 0:00",
+      "originalpaperpubmedid": "22347519.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Company/Institution",
         "+Legal Reasons and/or Threats",
         "+Manipulation of Images",
         "+Misconduct - Official Investigation(s) and/or Finding(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "Wayne State University investigated Fazlul H Sarkar;",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2344e9a",
-      "Record ID": "41801",
-      "Title": "Cancer Prevalence in E-Cigarette Users: A Retrospective Cross-Sectional NHANES Study",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Department of Internal Medicine, University of Illinois College of Medicine, Peoria, IL, USA",
-        "Department of Internal Medicine, Hackensack Meridian Health Palisades Medical Center, North Bergen, NJ, USA",
-        "Department of Family and Community Medicine, University of Missouri, Kansas City, MO, USA",
-        "Department of Internal Medicine, Manipal College of Medical Sciences, Pokhara, Nepal",
-        "Department of Internal Medicine, Mount Sinai Morningside, NY, New York, USA",
-        "Department of Internal Medicine, Temple University Hospital, Philadelphia, PA, USA",
-        "Department of Internal Medicine, Smt Kashibai Navale Medical College, Nahre, Maharashtra, India",
-        "Apex Heart and Vascular Center, Jersey City, NJ, USA",
-        "Clinical Research, Icahn School of Medicine at Mount Sinai, New York, NY, USA",
-        "Department of Internal Medicine, Canton Medical Education Foundation/NEOMED, Canton, OH, USA",
-        "Department of Internal Medicine, Henry Ford Health System, Detroit, MI, USA",
-        "Department of Internal Medicine, Reading Hospital, West Reading, PA, USA",
-        "Department of Internal Medicine, Mayo Clinic Health System, Mankato, MN, USA"
-      ],
-      "Journal": "World Journal of Oncology",
-      "Publisher": "Elmer Press",
-      "Country": [
-        "India",
-        "Nepal",
-        "United States"
-      ],
-      "Author": [
-        "Anusha Chidharla",
-        "Kriti Agarwal",
-        "Salwa Abdelwahed",
-        "Renu Bhandari",
-        "Abhishek Singh",
-        "Rizwan Rabbani",
-        "Kajal Patel",
-        "Priyanka Singh",
-        "Deep Mehta",
-        "Pritika S Manaktala",
-        "Shreejith Pillai",
-        "Sachin Gupta",
-        "Thoyaja Koritala"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/24/2022 0:00",
-      "RetractionDOI": "10.14740/wjon1438r",
-      "RetractionPubMedID": "36660203.0",
-      "OriginalPaperDate": "2/8/2022 0:00",
-      "OriginalPaperDOI": "10.14740/wjon1438",
-      "OriginalPaperPubMedID": "35317331.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Concerns/Issues about Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Wayne State University investigated Fazlul H Sarkar;",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -262,45 +266,45 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

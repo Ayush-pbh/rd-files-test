@@ -1,27 +1,199 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877eb4",
+    "_id": "687ccbab09adbf7aa61b8ad5",
     "grid_id": "grid.412897.1",
     "institute_name": "Taipei Medical University Hospital",
     "country": "Taiwan",
     "retracted_record_ids": [
       "19274",
-      "61193",
+      "26517",
       "11998",
-      "26517"
+      "61193",
+      "65717"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a636",
-      "Record ID": "19274",
-      "Title": "Dicer Elicits Paclitaxel Chemosensitization and Suppresses Cancer Stemness in Breast Cancer by Repressing AXL",
-      "Subject": [
+      "_id": "687cef4f1f662220d8984580",
+      "recordId": "65717",
+      "title": "Clinical impact of monocyte distribution width and neutrophil-to-lymphocyte ratio for distinguishing COVID-19 and influenza from other upper respiratory tract infections: A pilot study",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Department of Emergency Medicine, Taipei Medical University Hospital, Taipei, Taiwan",
+        "Department of Emergency Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
+        "School of Public Health, College of Public Health, Taipei Medical University, Taipei, Taiwan",
+        "Division of Physician Hospitalist, Department of Internal Medicine, Far Eastern Memorial Hospital, New Taipei, Taiwan",
+        "Department of Neurology, Far Eastern Memorial Hospital, New Taipei, Taiwan",
+        "Department of Medical Laboratory, Taipei Medical University Hospital, Taipei, Taiwan",
+        "School of Medical Laboratory Science and Biotechnology, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan",
+        "Division of Infectious Disease, Department of Internal Medicine, Taipei Medical University Hospital, Taipei, Taiwan",
+        "Department of Surgery, Taipei Medical University Hospital, Taipei, Taiwan"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Hui-An Lin",
+        "Sheng-Feng Lin",
+        "Hui-Wen Chang",
+        "Yuarn-Jang Lee",
+        "Ray-Jade Chen",
+        "Sen-Kuang Hou"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/18/2025 0:00",
+      "retractiondoi": "10.1371/journal.pone.0326523",
+      "retractionpubmedid": "40531820.0",
+      "originalpaperdate": "11/2/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0241262",
+      "originalpaperpubmedid": "33137167.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Investigation by Journal/Publisher",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Objections by Author(s)"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef611f662220d89856ff",
+      "recordId": "61193",
+      "title": "The Effects of Elgucare on Degenerated Intervertebral Disc-Induced Low Back Pain and Disc Regeneration: A Clinical Trial",
+      "subject": [
+        "(HSC) Medicine - Alternative",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
+        "Department of Neurosurgery, Taipei Medical University Hospital, Taipei, Taiwan",
+        "Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
+        "Research and Development of DC Botanical Biotechnology CO., LTD, LDY Chinese Medicine Hospital, New Taipei City, Taiwan",
+        "DC Botanical Biotechnology CO., LTD, LDY Chinese Medicine Hospital, New Taipei City, Taiwan"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Wen-Cheng Lo",
+        "Yu Ting Chen",
+        "Chen Ching Chen"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "11/1/2023 0:00",
+      "retractiondoi": "10.1155/2023/9849070",
+      "retractionpubmedid": "37946995.0",
+      "originalpaperdate": "11/8/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/5824956",
+      "originalpaperpubmedid": "34790253.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687ceff81f662220d898ddf0",
+      "recordId": "26517",
+      "title": "Exposure to radiofrequency radiation increases the risk of breast cancer: A systematic review and meta\u2011analysis",
+      "subject": [
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "School of Nursing, College of Nursing, Taipei Medical University, Taipei 11031, Taiwan, ROC",
+        "Faculty of Health and Medicine, School of Nursing and Midwifery, The University of Newcastle, Callaghan, New South Wales 2308, Australia",
+        "Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, New Taipei City, Taipei 11031, Taiwan ROC.",
+        "Division of General Surgery, Department of Surgery, Shuang Ho Hospital, Taipei Medical University, New Taipei City, Taipei 11031, Taiwan ROC.",
+        "Post-Baccalaureate Program in Nursing, College of Nursing, Taipei Medical University, Taipei 11031, Taiwan ROC.",
+        "Center for Nursing and Healthcare Research in Clinical Practice Application, Wan Fang Hospital, Taipei Medical University, Taipei 11031, Taiwan R.O.C. Evidence-based Knowledge Translation Center, Wan Fang Hospital, Taipei Medical University, Taipei 11031, Taiwan ROC.",
+        "Cochrane Taiwan, Taipei 11031, Taiwan ROC.",
+        "Department of Physical Medicine and Rehabilitation/Center of Evidence-Based Medicine in Department of Education, Taipei Medical University Hospital, Taipei 11031, Taiwan ROC",
+        "Master Program in Long-Term Care, College of Nursing, Taipei Medical University, Taipei 11031, Taiwan ROC",
+        "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan, ROC"
+      ],
+      "journal": "Experimental and Therapeutic Medicine",
+      "publisher": "Spandidos",
+      "country": [
+        "Australia",
+        "China",
+        "Taiwan"
+      ],
+      "author": [
+        "Ya Wen Shih",
+        "Anthony Paul O'brien",
+        "Chin Sheng Hung",
+        "Kee Hsin Chen",
+        "Wen Hsuan Hou",
+        "Hsiu Ting Tsai"
+      ],
+      "urls": "http://retractionwatch.com/2021/03/22/riddled-with-errors-study-of-cell-phones-and-breast-cancer-retracted/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "3/10/2021 0:00",
+      "retractiondoi": "10.3892/etm.2021.9903",
+      "retractionpubmedid": "33767767.0",
+      "originalpaperdate": "11/9/2020 0:00",
+      "originalpaperdoi": "10.3892/etm.2020.9455",
+      "originalpaperpubmedid": "33262809.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fa1c",
+      "recordId": "19274",
+      "title": "Dicer Elicits Paclitaxel Chemosensitization and Suppresses Cancer Stemness in Breast Cancer by Repressing AXL",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "National Institute of Cancer Research, National Health Research Institutes, Zhunan, Miaoli County, Taiwan",
         "Department of General Surgery, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
         "Division of General Surgery, Department of Surgery, Shuang Ho Hospital, Taipei Medical University, New Taipei City, Taiwan",
@@ -33,12 +205,12 @@
         "Center for Molecular Medicine, China Medical University Hospital, Taichung, Taiwan",
         "Graduate Institute of Cancer Biology, China Medical University, Taichung, Taiwan"
       ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Ting Yu Chang",
         "Hsin An Chen",
         "Ching Feng Chiu",
@@ -49,94 +221,41 @@
         "Mien Chie Hung",
         "Jen Liang Su"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/1/2018 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-18-2384",
-      "RetractionPubMedID": "30275055.0",
-      "OriginalPaperDate": "5/23/2016 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-15-2555",
-      "OriginalPaperPubMedID": "27216190.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/1/2018 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-18-2384",
+      "retractionpubmedid": "30275055.0",
+      "originalpaperdate": "5/23/2016 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-15-2555",
+      "originalpaperpubmedid": "27216190.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2340319",
-      "Record ID": "61193",
-      "Title": "The Effects of Elgucare on Degenerated Intervertebral Disc-Induced Low Back Pain and Disc Regeneration: A Clinical Trial",
-      "Subject": [
-        "(HSC) Medicine - Alternative",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
-        "Department of Neurosurgery, Taipei Medical University Hospital, Taipei, Taiwan",
-        "Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
-        "Research and Development of DC Botanical Biotechnology CO., LTD, LDY Chinese Medicine Hospital, New Taipei City, Taiwan",
-        "DC Botanical Biotechnology CO., LTD, LDY Chinese Medicine Hospital, New Taipei City, Taiwan"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Taiwan"
-      ],
-      "Author": [
-        "Wen-Cheng Lo",
-        "Yu Ting Chen",
-        "Chen Ching Chen"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "11/1/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9849070",
-      "RetractionPubMedID": "37946995.0",
-      "OriginalPaperDate": "11/8/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/5824956",
-      "OriginalPaperPubMedID": "34790253.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c27e",
-      "Record ID": "11998",
-      "Title": "Human monoclonal antibody GNX-8 directed to extended type 1 chain: specific binding to human colorectal cancer",
-      "Subject": [
+      "_id": "687cf0ae1f662220d8991664",
+      "recordId": "11998",
+      "title": "Human monoclonal antibody GNX-8 directed to extended type 1 chain: specific binding to human colorectal cancer",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "School of Pharmacy, College of Pharmacy, Taipei Medical University, Taipei, Taiwan",
         "GlycoNex Inc., Taipei, Taiwan",
         "Graduate Institute of Pharmacognosy, College of Pharmacy, Taipei Medical University, Taipei, Taiwan",
@@ -144,14 +263,14 @@
         "Kyowa Hakko Kirin Co., Ltd., Gunma, Japan",
         "Center for Reproductive Medicine & Sciences, Taipei Medical University Hospital, Taipei, Taiwan"
       ],
-      "Journal": "International Journal of Cancer",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "International Journal of Cancer",
+      "publisher": "Wiley",
+      "country": [
         "Japan",
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Mei-Chun Yang",
         "Feng-Lin Hsu",
         "Kazuko Handa",
@@ -164,104 +283,46 @@
         "Isao Ishida",
         "Tong-Hsuan Chang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/22/2017 0:00",
-      "RetractionDOI": "10.1002/ijc.25131",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/21/2009 0:00",
-      "OriginalPaperDOI": "10.1002/ijc.25131",
-      "OriginalPaperPubMedID": "20027630.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/22/2017 0:00",
+      "retractiondoi": "10.1002/ijc.25131",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/21/2009 0:00",
+      "originalpaperdoi": "10.1002/ijc.25131",
+      "originalpaperpubmedid": "20027630.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Copyright Claims"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2009,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2348a0a",
-      "Record ID": "26517",
-      "Title": "Exposure to radiofrequency radiation increases the risk of breast cancer: A systematic review and meta\u2011analysis",
-      "Subject": [
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "School of Nursing, College of Nursing, Taipei Medical University, Taipei 11031, Taiwan, ROC",
-        "Faculty of Health and Medicine, School of Nursing and Midwifery, The University of Newcastle, Callaghan, New South Wales 2308, Australia",
-        "Department of Surgery, School of Medicine, College of Medicine, Taipei Medical University, New Taipei City, Taipei 11031, Taiwan ROC.",
-        "Division of General Surgery, Department of Surgery, Shuang Ho Hospital, Taipei Medical University, New Taipei City, Taipei 11031, Taiwan ROC.",
-        "Post-Baccalaureate Program in Nursing, College of Nursing, Taipei Medical University, Taipei 11031, Taiwan ROC.",
-        "Center for Nursing and Healthcare Research in Clinical Practice Application, Wan Fang Hospital, Taipei Medical University, Taipei 11031, Taiwan R.O.C. Evidence-based Knowledge Translation Center, Wan Fang Hospital, Taipei Medical University, Taipei 11031, Taiwan ROC.",
-        "Cochrane Taiwan, Taipei 11031, Taiwan ROC.",
-        "Department of Physical Medicine and Rehabilitation/Center of Evidence-Based Medicine in Department of Education, Taipei Medical University Hospital, Taipei 11031, Taiwan ROC",
-        "Master Program in Long-Term Care, College of Nursing, Taipei Medical University, Taipei 11031, Taiwan ROC",
-        "Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan, ROC"
-      ],
-      "Journal": "Experimental and Therapeutic Medicine",
-      "Publisher": "Spandidos",
-      "Country": [
-        "Australia",
-        "China",
-        "Taiwan"
-      ],
-      "Author": [
-        "Ya Wen Shih",
-        "Anthony Paul O'brien",
-        "Chin Sheng Hung",
-        "Kee Hsin Chen",
-        "Wen Hsuan Hou",
-        "Hsiu Ting Tsai"
-      ],
-      "URLS": "http://retractionwatch.com/2021/03/22/riddled-with-errors-study-of-cell-phones-and-breast-cancer-retracted/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "3/10/2021 0:00",
-      "RetractionDOI": "10.3892/etm.2021.9903",
-      "RetractionPubMedID": "33767767.0",
-      "OriginalPaperDate": "11/9/2020 0:00",
-      "OriginalPaperDOI": "10.3892/etm.2020.9455",
-      "OriginalPaperPubMedID": "33262809.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2017",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -269,10 +330,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -280,43 +341,54 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,47 +1,159 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878704",
+    "_id": "687ccbab09adbf7aa61b9325",
     "grid_id": "grid.1025.6",
     "institute_name": "Murdoch University",
     "country": "Australia",
     "retracted_record_ids": [
-      "40660",
-      "39534",
-      "23571",
       "40657",
-      "54076",
-      "40632",
+      "23571",
+      "39534",
+      "53406",
+      "40660",
+      "28119",
+      "24940",
       "5983",
       "38873",
-      "24939",
-      "24940",
       "40636",
-      "28119",
-      "53406"
+      "40632",
+      "54076",
+      "24939"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345309",
-      "Record ID": "40660",
-      "Title": "Efficacy of fertilizing method for different potash sources in cotton (Gossypium hirsutum L.) nutrition under arid climatic conditions",
-      "Subject": [
+      "_id": "687cef7f1f662220d89872c3",
+      "recordId": "54076",
+      "title": "Formation of giant iron oxide-copper-gold deposits by superimposed, episodic hydrothermal pulses",
+      "subject": [
+        "(PHY) Geology",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Department of Geology, FCFM, Universidad de Chile, Plaza Ercilla 803, Santiago, Chile",
+        "Millennium Nucleus for Metal Tracing Along Subduction, FCFM, Universidad de Chile, Santiago, Chile",
+        "Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI, USA",
+        "Chemistry and Physics, Murdoch University, Perth, WA, 6150, Australia",
+        "PetraScience Consultants, 3995 West 24th Avenue, Vancouver, BC, V6S 1M1, Canada",
+        "Centre for Microscopy, Characterisation and Analysis (CMCA), University of Western Australia, Perth, WA, 6009, Australia"
+      ],
+      "journal": "Communications Earth & Environment",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Australia",
+        "Canada",
+        "Chile",
+        "United States"
+      ],
+      "author": [
+        "Irene Del Real",
+        "Martin Reich",
+        "Adam C Simon",
+        "Artur Deditius",
+        "Fernando Barra",
+        "Mar\u00eda A Rodr\u00edguez-Mustafa",
+        "John F H Thompson",
+        "Malcolm P Roberts"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/1/2022 0:00",
+      "retractiondoi": "10.1038/s43247-022-00525-3",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/15/2021 0:00",
+      "originalpaperdoi": "10.1038/s43247-021-00265-w",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Error in Methods",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef811f662220d8987560",
+      "recordId": "53406",
+      "title": "Formation of giant iron oxide-copper-gold deposits by superimposed, episodic hydrothermal pulses",
+      "subject": [
+        "(PHY) Geology",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Department of Geology, FCFM, Universidad de Chile, Plaza Ercilla 803, Santiago, Chile",
+        "Millennium Nucleus for Metal Tracing Along Subduction, FCFM, Universidad de Chile, Santiago, Chile",
+        "Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI, USA",
+        "Chemistry and Physics, Murdoch University, Perth, WA, 6150, Australia",
+        "PetraScience Consultants, 3995 West 24th Avenue, Vancouver, BC, V6S 1M1, Canada",
+        "Centre for Microscopy, Characterisation and Analysis (CMCA), University of Western Australia, Perth, WA, 6009, Australia"
+      ],
+      "journal": "Communications Earth & Environment",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Australia",
+        "Canada",
+        "Chile",
+        "United States"
+      ],
+      "author": [
+        "Irene Del Real",
+        "Martin Reich",
+        "Adam C Simon",
+        "Artur Deditius",
+        "Fernando Barra",
+        "Mar\u00eda A Rodr\u00edguez-Mustafa",
+        "John F H Thompson",
+        "Malcolm P Roberts"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/13/2023 0:00",
+      "retractiondoi": "10.1038/s43247-023-00774-w",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/15/2021 0:00",
+      "originalpaperdoi": "10.1038/s43247-021-00265-w",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Methods",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb11f662220d898a6ef",
+      "recordId": "40660",
+      "title": "Efficacy of fertilizing method for different potash sources in cotton (Gossypium hirsutum L.) nutrition under arid climatic conditions",
+      "subject": [
         "(BLS) Agriculture",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
+      "institution": [
         "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
         "Agriculture Discipline, College of Science, Health, Engineering and Education Murdoch University, Murdoch, WA, Australia",
         "College of Agriculture, BZU, Bahadur Sub Campus, Layyah, Pakistan",
         "Institute of Soil and Environmental Sciences, University of Agriculture, Faisalabad, Pakistan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Australia",
         "Pakistan"
       ],
-      "Author": [
+      "author": [
         "Mubshar Hussain",
         "Ahmad Faizan Tariq",
         "Ahmad Nawaz",
@@ -50,130 +162,37 @@
         "Sami Ul-Allah",
         "Abdul Wakeel"
       ],
-      "URLS": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/16/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0277637",
-      "RetractionPubMedID": "36383532.0",
-      "OriginalPaperDate": "1/24/2020 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0228335",
-      "OriginalPaperPubMedID": "31978138.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/16/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0277637",
+      "retractionpubmedid": "36383532.0",
+      "originalpaperdate": "1/24/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0228335",
+      "originalpaperpubmedid": "31978138.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345768",
-      "Record ID": "39534",
-      "Title": "The impact of boron seed priming on seedling establishment, growth, and grain biofortification of mungbean (Vigna radiata L.) in yermosols",
-      "Subject": [
+      "_id": "687cefb11f662220d898a6f2",
+      "recordId": "40657",
+      "title": "Iron application improves yield, economic returns and grain-Fe concentration of mungbean",
+      "subject": [
         "(BLS) Agriculture",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
-        "Department of Agronomy, College of Agriculture, University of Sargodha, Sargodha, Pakistan",
-        "Department of Botany and Microbiology, College of Science, King Saud University, Riyadh, Saudi Arabia",
-        "School of Veterinary and Life Sciences, Murdoch University, Murdoch, WA, Australia"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Australia",
-        "Pakistan",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Atique-Ur Rehman",
-        "Zartash Fatima",
-        "Rafi Qamar",
-        "Fizza Farukh",
-        "Mona S Alwahibi",
-        "Mubshar Hussain"
-      ],
-      "URLS": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/30/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0275145",
-      "RetractionPubMedID": "36178893.0",
-      "OriginalPaperDate": "3/31/2022 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0265956",
-      "OriginalPaperPubMedID": "35358247.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Conflict of Interest",
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349583",
-      "Record ID": "23571",
-      "Title": "Cold Responses of the Mediterranean Fruit Fly Ceratitis capitata Wiedemann (Diptera: Tephritidae) in Blueberry",
-      "Subject": [
-        "(BLS) Parasitology",
-        "(BLS) Plant Biology/Botany",
-        "(BLS) Zoology"
-      ],
-      "Institution": [
-        "College of Science, Health, Engineering and Education, Murdoch University, Murdoch, WA 6150, Australia",
-        "College of Agriculture, Misan University, Misan 62001, Iraq"
-      ],
-      "Journal": "Insects",
-      "Publisher": "MDPI",
-      "Country": [
-        "Australia",
-        "Iraq"
-      ],
-      "Author": [
-        "Farhan J M Al-Behadili",
-        "Manjree Agarwal",
-        "Wei Xu",
-        "Yonglin Ren"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/9/2020 0:00",
-      "RetractionDOI": "10.3390/insects11060360",
-      "RetractionPubMedID": "32527050.0",
-      "OriginalPaperDate": "5/1/2020 0:00",
-      "OriginalPaperDOI": "10.3390/insects11050276",
-      "OriginalPaperPubMedID": "32370035.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Lack of Approval from Company/Institution",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234530c",
-      "Record ID": "40657",
-      "Title": "Iron application improves yield, economic returns and grain-Fe concentration of mungbean",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
+      "institution": [
         "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
         "Department of Plant Protection, Harran University, Sanliurfa, Turkey",
         "Department of Agronomy, Faculty of Agricultural Sciences, Ghazi University, Dera Ghazi Khan, Pakistan",
@@ -181,14 +200,14 @@
         "Department of Agronomy, University of Agriculture, Faisalabad, Pakistan",
         "Cholistan Institute of Desert Studies, The Islamia University of Bahawalpur, Bahawalpur, Pakistan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Australia",
         "Pakistan",
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Abdul Majeed",
         "Waqas Ahmed Minhas",
         "Noman Mehboob",
@@ -197,181 +216,186 @@
         "Sardar Alam",
         "Muhammad Shahid Rizwan"
       ],
-      "URLS": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/16/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0277622",
-      "RetractionPubMedID": "36383553.0",
-      "OriginalPaperDate": "3/27/2020 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0230720",
-      "OriginalPaperPubMedID": "32218586.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/16/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0277622",
+      "retractionpubmedid": "36383553.0",
+      "originalpaperdate": "3/27/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0230720",
+      "originalpaperpubmedid": "32218586.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341edd",
-      "Record ID": "54076",
-      "Title": "Formation of giant iron oxide-copper-gold deposits by superimposed, episodic hydrothermal pulses",
-      "Subject": [
-        "(PHY) Geology",
-        "(PHY) Materials Science"
+      "_id": "687cefb11f662220d898a707",
+      "recordId": "40636",
+      "title": "ACC-deaminase producing plant growth promoting rhizobacteria and biochar mitigate adverse effects of drought stress on maize growth",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Department of Geology, FCFM, Universidad de Chile, Plaza Ercilla 803, Santiago, Chile",
-        "Millennium Nucleus for Metal Tracing Along Subduction, FCFM, Universidad de Chile, Santiago, Chile",
-        "Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI, USA",
-        "Chemistry and Physics, Murdoch University, Perth, WA, 6150, Australia",
-        "PetraScience Consultants, 3995 West 24th Avenue, Vancouver, BC, V6S 1M1, Canada",
-        "Centre for Microscopy, Characterisation and Analysis (CMCA), University of Western Australia, Perth, WA, 6009, Australia"
+      "institution": [
+        "Department of Soil Science, Bahauddin Zakariya University, Multan, Pakistan",
+        "Department of Biology, Government College for Women Chungi, Multan, Pakistan",
+        "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
+        "Agriculture Discipline, College of Science Health, Engineering and Education, Murdoch University, Murdoch, Australia"
       ],
-      "Journal": "Communications Earth & Environment",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Australia",
-        "Canada",
-        "Chile",
-        "United States"
+        "Pakistan"
       ],
-      "Author": [
-        "Irene Del Real",
-        "Martin Reich",
-        "Adam C Simon",
-        "Artur Deditius",
-        "Fernando Barra",
-        "Mar\u00eda A Rodr\u00edguez-Mustafa",
-        "John F H Thompson",
-        "Malcolm P Roberts"
+      "author": [
+        "Subhan Danish",
+        "Muhammad Zafar-Ul-Hye",
+        "Fauzia Mohsin",
+        "Mubshar Hussain"
       ],
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2022 0:00",
-      "RetractionDOI": "10.1038/s43247-022-00525-3",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/15/2021 0:00",
-      "OriginalPaperDOI": "10.1038/s43247-021-00265-w",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Error in Methods",
-        "+Investigation by Journal/Publisher",
-        "+Unreliable Results and/or Conclusions",
-        "+Updated to Retraction"
+      "retractiondate": "11/16/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0277591",
+      "retractionpubmedid": "36383533.0",
+      "originalpaperdate": "4/6/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0230615",
+      "originalpaperpubmedid": "32251430.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Conflict of Interest",
+        "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345324",
-      "Record ID": "40632",
-      "Title": "The influence of transgenic (Bt) and non-transgenic (non-Bt) cotton mulches on weed dynamics, soil properties and productivity of different winter crops",
-      "Subject": [
+      "_id": "687cefb11f662220d898a70a",
+      "recordId": "40632",
+      "title": "The influence of transgenic (Bt) and non-transgenic (non-Bt) cotton mulches on weed dynamics, soil properties and productivity of different winter crops",
+      "subject": [
         "(BLS) Agriculture",
         "(BLS) Genetics",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
+      "institution": [
         "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
         "Physiology/Chemistry Section, Central Cotton Research Institute, Multan, Pakistan",
         "Department of Agronomy, Ghazi University, Dera Ghazi Khan, Pakistan",
         "Agriculture Discipline, College of Science, Health, Engineering and Education, Murdoch University, Murdoch, WA, Australia"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Australia",
         "Pakistan"
       ],
-      "Author": [
+      "author": [
         "Muhammad Waseem Riaz Marral",
         "Muhammad Bismillah Khan",
         "Fiaz Ahmad",
         "Shahid Farooq",
         "Mubshar Hussain"
       ],
-      "URLS": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/16/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0277579",
-      "RetractionPubMedID": "36383527.0",
-      "OriginalPaperDate": "9/4/2020 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0238716",
-      "OriginalPaperPubMedID": "32886700.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/16/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0277579",
+      "retractionpubmedid": "36383527.0",
+      "originalpaperdate": "9/4/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0238716",
+      "originalpaperpubmedid": "32886700.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d9c4",
-      "Record ID": "5983",
-      "Title": "Renewable Energy Education for Architects: Lessons from Developed and Developing Countries",
-      "Subject": [
-        "(ENV) Ecology",
-        "(ENV) Environmental Sciences"
-      ],
-      "Institution": [
-        "School of Engineering and Energy , Murdoch University , Australia",
-        "Department of Architecture , University of Tehran , Tehran, Iran"
-      ],
-      "Journal": "International Journal of Sustainable Development and World Ecology",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "Australia",
-        "Iran"
-      ],
-      "Author": [
-        "Mohammad Taleghani",
-        "Hamid R Ansari",
-        "Philip Jennings"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/17/2011 0:00",
-      "RetractionDOI": "10.1080/13504509.2011.632890",
-      "OriginalPaperDate": "11/24/2009 0:00",
-      "OriginalPaperDOI": "10.1080/14786460903440714",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Investigation by Journal/Publisher",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2009,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23459f5",
-      "Record ID": "38873",
-      "Title": "Impact of different mulching treatments on weed flora and productivity of maize (Zea mays L.) and sunflower (Helianthus annuus L.)",
-      "Subject": [
+      "_id": "687cefb31f662220d898ab4e",
+      "recordId": "39534",
+      "title": "The impact of boron seed priming on seedling establishment, growth, and grain biofortification of mungbean (Vigna radiata L.) in yermosols",
+      "subject": [
         "(BLS) Agriculture",
         "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
+      "institution": [
+        "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
+        "Department of Agronomy, College of Agriculture, University of Sargodha, Sargodha, Pakistan",
+        "Department of Botany and Microbiology, College of Science, King Saud University, Riyadh, Saudi Arabia",
+        "School of Veterinary and Life Sciences, Murdoch University, Murdoch, WA, Australia"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Australia",
+        "Pakistan",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Atique-Ur Rehman",
+        "Zartash Fatima",
+        "Rafi Qamar",
+        "Fizza Farukh",
+        "Mona S Alwahibi",
+        "Mubshar Hussain"
+      ],
+      "urls": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/30/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0275145",
+      "retractionpubmedid": "36178893.0",
+      "originalpaperdate": "3/31/2022 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0265956",
+      "originalpaperpubmedid": "35358247.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Conflict of Interest",
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898addb",
+      "recordId": "38873",
+      "title": "Impact of different mulching treatments on weed flora and productivity of maize (Zea mays L.) and sunflower (Helianthus annuus L.)",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
         "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
         "School of Veterinary and Life Sciences, Murdoch University, Murdoch, WA, Australia",
         "The Urban Unit, Shaheen Complex, Garhi Shahu, Lahore, Punjab, Pakistan",
@@ -379,15 +403,15 @@
         "Department of Plant Production and Technologies, Nigde Omer Halisdemir University, Nigde, Turkey",
         "Zoology Department, College of Science, King Saud University, Riyadh, Saudi Arabia"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Australia",
         "Pakistan",
         "Saudi Arabia",
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Mubshar Hussain",
         "Syed Nasir Abbas Shah",
         "Muhammad Naeem",
@@ -395,320 +419,309 @@
         "Khawar Jabran",
         "Saleh Alfarraj"
       ],
-      "URLS": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/31/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0273468",
-      "RetractionPubMedID": "36044450.0",
-      "OriginalPaperDate": "4/15/2022 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0266756",
-      "OriginalPaperPubMedID": "35427360.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/31/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0273468",
+      "retractionpubmedid": "36044450.0",
+      "originalpaperdate": "4/15/2022 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0266756",
+      "originalpaperpubmedid": "35427360.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349030",
-      "Record ID": "24939",
-      "Title": "Estimating Repetitions in Reserve in Four Commonly Used Resistance Exercises",
-      "Subject": [
-        "(SOC) Sports and Recreation"
-      ],
-      "Institution": [
-        "Exercise Science Department, College of Science, Health, Engineering and Education, Murdoch University, Murdoch, Western Australia",
-        "Murdoch Applied Sports Science Laboratory, Murdoch University, Murdoch, Western Australia"
-      ],
-      "Journal": "Journal of Strength and Conditioning Research: National Strength & Conditioning Association",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
-        "Australia"
-      ],
-      "Author": [
-        "Liam J Hughes",
-        "Jeremiah J Peiffer",
-        "Brendan R Scott"
-      ],
-      "URLS": "https://retractionwatch.com/2021/01/18/exercise-science-grad-student-at-australian-university-dismissed-after-he-admitted-faking-data-says-supervisor/;https://retractionwatch.com/2022/02/14/journal-retracts-a-paper-then-publishes-in-an-issue-11-months-later/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/8/2021 0:00",
-      "RetractionDOI": "10.1519/JSC.0000000000003977",
-      "RetractionPubMedID": "33470601.0",
-      "OriginalPaperDate": "12/21/2020 0:00",
-      "OriginalPaperDOI": "10.1519/JSC.0000000000003865",
-      "OriginalPaperPubMedID": "33337690.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Error in Data",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234902f",
-      "Record ID": "24940",
-      "Title": "The reliability and Validity of Using the Push Band v2.0 to Measure Repetition Velocity in Free-Weight and Smith Machine Exercises",
-      "Subject": [
-        "(SOC) Sports and Recreation"
-      ],
-      "Institution": [
-        "Exercise Science Department, College of Science, Health, Engineering and Education, Murdoch University, Western Australia, Australia",
-        "Murdoch Applied Sports Science Laboratory, Murdoch University, Murdoch, Western Australia, Australia"
-      ],
-      "Journal": "Journal of Strength and Conditioning Research: National Strength & Conditioning Association",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
-        "Australia"
-      ],
-      "Author": [
-        "Liam J Hughes",
-        "Jeremiah J Peiffer",
-        "Brendan R Scott"
-      ],
-      "URLS": "https://retractionwatch.com/2021/01/18/exercise-science-grad-student-at-australian-university-dismissed-after-he-admitted-faking-data-says-supervisor/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/8/2021 0:00",
-      "RetractionDOI": "10.1519/JSC.0000000000003977",
-      "RetractionPubMedID": "33470601.0",
-      "OriginalPaperDate": "12/21/2020 0:00",
-      "OriginalPaperDOI": "10.1519/JSC.0000000000003436",
-      "OriginalPaperPubMedID": "31860535.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Error in Data",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, estimated from notifications;",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2345321",
-      "Record ID": "40636",
-      "Title": "ACC-deaminase producing plant growth promoting rhizobacteria and biochar mitigate adverse effects of drought stress on maize growth",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Department of Soil Science, Bahauddin Zakariya University, Multan, Pakistan",
-        "Department of Biology, Government College for Women Chungi, Multan, Pakistan",
-        "Department of Agronomy, Bahauddin Zakariya University, Multan, Pakistan",
-        "Agriculture Discipline, College of Science Health, Engineering and Education, Murdoch University, Murdoch, Australia"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Australia",
-        "Pakistan"
-      ],
-      "Author": [
-        "Subhan Danish",
-        "Muhammad Zafar-Ul-Hye",
-        "Fauzia Mohsin",
-        "Mubshar Hussain"
-      ],
-      "URLS": "https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/16/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0277591",
-      "RetractionPubMedID": "36383533.0",
-      "OriginalPaperDate": "4/6/2020 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0230615",
-      "OriginalPaperPubMedID": "32251430.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Conflict of Interest",
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23483cb",
-      "Record ID": "28119",
-      "Title": "Load-velocity relationship 1RM predictions: A comparison of Smith machine and free-weight exercise",
-      "Subject": [
+      "_id": "687cefeb1f662220d898d7b1",
+      "recordId": "28119",
+      "title": "Load-velocity relationship 1RM predictions: A comparison of Smith machine and free-weight exercise",
+      "subject": [
         "(HSC) Medicine - Sports",
         "(PHY) Engineering - General"
       ],
-      "Institution": [
+      "institution": [
         "Exercise Science Department, College of Science, Health, Engineering and Education, Murdoch University , Murdoch, Western Australia, Australia",
         "Murdoch Applied Sports Science Laboratory, Murdoch University , Murdoch, Western Australia, Australia"
       ],
-      "Journal": "Journal of Sports Sciences",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Journal of Sports Sciences",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Australia"
       ],
-      "Author": [
+      "author": [
         "Liam J Hughes",
         "Jeremiah J Peiffer",
         "Brendan R Scott"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "5/4/2021 0:00",
-      "RetractionDOI": "10.1080/02640414.2021.1902603",
-      "RetractionPubMedID": "33944687.0",
-      "OriginalPaperDate": "7/15/2020 0:00",
-      "OriginalPaperDOI": "10.1080/02640414.2020.1794235",
-      "OriginalPaperPubMedID": "32669051.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/4/2021 0:00",
+      "retractiondoi": "10.1080/02640414.2021.1902603",
+      "retractionpubmedid": "33944687.0",
+      "originalpaperdate": "7/15/2020 0:00",
+      "originalpaperdoi": "10.1080/02640414.2020.1794235",
+      "originalpaperpubmedid": "32669051.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "Notes": "Liam J Hughes named responsible for data fabrication;",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Liam J Hughes named responsible for data fabrication;",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234217a",
-      "Record ID": "53406",
-      "Title": "Formation of giant iron oxide-copper-gold deposits by superimposed, episodic hydrothermal pulses",
-      "Subject": [
-        "(PHY) Geology",
-        "(PHY) Materials Science"
+      "_id": "687cf0081f662220d898e415",
+      "recordId": "24940",
+      "title": "The reliability and Validity of Using the Push Band v2.0 to Measure Repetition Velocity in Free-Weight and Smith Machine Exercises",
+      "subject": [
+        "(SOC) Sports and Recreation"
       ],
-      "Institution": [
-        "Department of Geology, FCFM, Universidad de Chile, Plaza Ercilla 803, Santiago, Chile",
-        "Millennium Nucleus for Metal Tracing Along Subduction, FCFM, Universidad de Chile, Santiago, Chile",
-        "Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, MI, USA",
-        "Chemistry and Physics, Murdoch University, Perth, WA, 6150, Australia",
-        "PetraScience Consultants, 3995 West 24th Avenue, Vancouver, BC, V6S 1M1, Canada",
-        "Centre for Microscopy, Characterisation and Analysis (CMCA), University of Western Australia, Perth, WA, 6009, Australia"
+      "institution": [
+        "Exercise Science Department, College of Science, Health, Engineering and Education, Murdoch University, Western Australia, Australia",
+        "Murdoch Applied Sports Science Laboratory, Murdoch University, Murdoch, Western Australia, Australia"
       ],
-      "Journal": "Communications Earth & Environment",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Australia",
-        "Canada",
-        "Chile",
-        "United States"
+      "journal": "Journal of Strength and Conditioning Research: National Strength & Conditioning Association",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "Australia"
       ],
-      "Author": [
-        "Irene Del Real",
-        "Martin Reich",
-        "Adam C Simon",
-        "Artur Deditius",
-        "Fernando Barra",
-        "Mar\u00eda A Rodr\u00edguez-Mustafa",
-        "John F H Thompson",
-        "Malcolm P Roberts"
+      "author": [
+        "Liam J Hughes",
+        "Jeremiah J Peiffer",
+        "Brendan R Scott"
       ],
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2021/01/18/exercise-science-grad-student-at-australian-university-dismissed-after-he-admitted-faking-data-says-supervisor/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/13/2023 0:00",
-      "RetractionDOI": "10.1038/s43247-023-00774-w",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/15/2021 0:00",
-      "OriginalPaperDOI": "10.1038/s43247-021-00265-w",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Methods",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Upgrade/Update of Prior Notice(s)"
+      "retractiondate": "1/8/2021 0:00",
+      "retractiondoi": "10.1519/JSC.0000000000003977",
+      "retractionpubmedid": "33470601.0",
+      "originalpaperdate": "12/21/2020 0:00",
+      "originalpaperdoi": "10.1519/JSC.0000000000003436",
+      "originalpaperpubmedid": "31860535.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Error in Data",
+        "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "date of retraction unknown, estimated from notifications;",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0081f662220d898e416",
+      "recordId": "24939",
+      "title": "Estimating Repetitions in Reserve in Four Commonly Used Resistance Exercises",
+      "subject": [
+        "(SOC) Sports and Recreation"
+      ],
+      "institution": [
+        "Exercise Science Department, College of Science, Health, Engineering and Education, Murdoch University, Murdoch, Western Australia",
+        "Murdoch Applied Sports Science Laboratory, Murdoch University, Murdoch, Western Australia"
+      ],
+      "journal": "Journal of Strength and Conditioning Research: National Strength & Conditioning Association",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "Australia"
+      ],
+      "author": [
+        "Liam J Hughes",
+        "Jeremiah J Peiffer",
+        "Brendan R Scott"
+      ],
+      "urls": "https://retractionwatch.com/2021/01/18/exercise-science-grad-student-at-australian-university-dismissed-after-he-admitted-faking-data-says-supervisor/;https://retractionwatch.com/2022/02/14/journal-retracts-a-paper-then-publishes-in-an-issue-11-months-later/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/8/2021 0:00",
+      "retractiondoi": "10.1519/JSC.0000000000003977",
+      "retractionpubmedid": "33470601.0",
+      "originalpaperdate": "12/21/2020 0:00",
+      "originalpaperdoi": "10.1519/JSC.0000000000003865",
+      "originalpaperpubmedid": "33337690.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Error in Data",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00e1f662220d898e969",
+      "recordId": "23571",
+      "title": "Cold Responses of the Mediterranean Fruit Fly Ceratitis capitata Wiedemann (Diptera: Tephritidae) in Blueberry",
+      "subject": [
+        "(BLS) Parasitology",
+        "(BLS) Plant Biology/Botany",
+        "(BLS) Zoology"
+      ],
+      "institution": [
+        "College of Science, Health, Engineering and Education, Murdoch University, Murdoch, WA 6150, Australia",
+        "College of Agriculture, Misan University, Misan 62001, Iraq"
+      ],
+      "journal": "Insects",
+      "publisher": "MDPI",
+      "country": [
+        "Australia",
+        "Iraq"
+      ],
+      "author": [
+        "Farhan J M Al-Behadili",
+        "Manjree Agarwal",
+        "Wei Xu",
+        "Yonglin Ren"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/9/2020 0:00",
+      "retractiondoi": "10.3390/insects11060360",
+      "retractionpubmedid": "32527050.0",
+      "originalpaperdate": "5/1/2020 0:00",
+      "originalpaperdoi": "10.3390/insects11050276",
+      "originalpaperpubmedid": "32370035.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Lack of Approval from Company/Institution",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c11f662220d8992daa",
+      "recordId": "5983",
+      "title": "Renewable Energy Education for Architects: Lessons from Developed and Developing Countries",
+      "subject": [
+        "(ENV) Ecology",
+        "(ENV) Environmental Sciences"
+      ],
+      "institution": [
+        "School of Engineering and Energy , Murdoch University , Australia",
+        "Department of Architecture , University of Tehran , Tehran, Iran"
+      ],
+      "journal": "International Journal of Sustainable Development and World Ecology",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "Australia",
+        "Iran"
+      ],
+      "author": [
+        "Mohammad Taleghani",
+        "Hamid R Ansari",
+        "Philip Jennings"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/17/2011 0:00",
+      "retractiondoi": "10.1080/13504509.2011.632890",
+      "originalpaperdate": "11/24/2009 0:00",
+      "originalpaperdoi": "10.1080/14786460903440714",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Investigation by Journal/Publisher",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 8,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 5
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 7,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

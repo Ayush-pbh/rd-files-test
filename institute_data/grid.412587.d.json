@@ -1,34 +1,133 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879a2f",
+    "_id": "687ccbab09adbf7aa61ba650",
     "grid_id": "grid.412587.d",
     "institute_name": "University of Virginia Health System",
     "country": "United States",
     "retracted_record_ids": [
-      "2883",
+      "21268",
       "2867",
-      "21268"
+      "2883",
+      "66119"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e59d",
-      "Record ID": "2883",
-      "Title": "Application and implementation of selective tissue microdissection and proteomic profiling in neurological disease",
-      "Subject": [
+      "_id": "687cef4f1f662220d89843ef",
+      "recordId": "66119",
+      "title": "Co-involvement of mitochondria and endoplasmic reticulum in regulation of apoptosis: changes in cytochrome c, Bcl-2 and Bax in the hippocampus of aluminum-treated rabbits",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Pathology, University of Virginia Health Sciences Center, Box 168, Charlottesville, VA 22908, USA",
+        "Department of Biochemistry and Molecular Genetics and Chemistry, University of Virginia Health Sciences Center, Box 168, Charlottesville, VA 22908, USA",
+        "Department of Biology and Chemistry, Liberty University, Lynchburg, VA, USA",
+        "IRP, NIMH, NIH, Bethesda, MD, USA"
+      ],
+      "journal": "Brain Research",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Othman Ghribi",
+        "David A DeWitt",
+        "Michael S Forbes",
+        "Mary M Herman",
+        "John Savory"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/9/2025 0:00",
+      "retractiondoi": "10.1016/j.brainres.2025.149820",
+      "retractionpubmedid": "40639068.0",
+      "originalpaperdate": "7/30/2001 0:00",
+      "originalpaperdoi": "10.1016/S0006-8993(01)02406-4",
+      "originalpaperpubmedid": "11382389.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Image",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/6C7013E383EEFB5748A5DCC124E325",
+      "year": "2001",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f25e",
+      "recordId": "21268",
+      "title": "Cellular signaling molecules as therapeutic targets in glioblastoma multiforme",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Neurological Surgery, University of Virginia Health System, Charlottesville, Virginia"
+      ],
+      "journal": "Neurosurgical Focus",
+      "publisher": "American Association of Neurological Surgeons",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Jay Jagannathan",
+        "Daniel M Prevedello",
+        "Aaron S Dumont",
+        "Edward R Laws"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "2/1/2011 0:00",
+      "retractiondoi": "10.3171/FOC.2011.30.2.E8r",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/15/2006 0:00",
+      "originalpaperdoi": "10.3171/foc.2006.20.4.5",
+      "originalpaperpubmedid": "16709039.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "notes": "Jay Jagannathan has ORI finding of misconduct, see: https://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-011.html",
+      "year": "2006",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d8993983",
+      "recordId": "2883",
+      "title": "Application and implementation of selective tissue microdissection and proteomic profiling in neurological disease",
+      "subject": [
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Surgical Neurology Branch, National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD 20892-1414, USA",
         "Department of Neurosurgery, University of Virginia Health Sciences Center, University of Virginia, Charlottesville Virginia"
       ],
-      "Journal": "Neurosurgery",
-      "Publisher": "Lippincott Williams and Wilkins",
-      "Country": [
+      "journal": "Neurosurgery",
+      "publisher": "Lippincott Williams and Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jay Jagannathan",
         "Jie Li",
         "Nicholas Szerlip",
@@ -37,144 +136,111 @@
         "Edward H Oldfield",
         "Zhengping Zhuang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/1/2011 0:00",
-      "RetractionDOI": "10.1227/NEU.0b013e31822a34e1",
-      "RetractionPubMedID": "21937967.0",
-      "OriginalPaperDate": "1/1/2009 0:00",
-      "OriginalPaperDOI": "10.1227/01.NEU.0000335776.93176.83",
-      "OriginalPaperPubMedID": "19145153.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2011 0:00",
+      "retractiondoi": "10.1227/NEU.0b013e31822a34e1",
+      "retractionpubmedid": "21937967.0",
+      "originalpaperdate": "1/1/2009 0:00",
+      "originalpaperdoi": "10.1227/01.NEU.0000335776.93176.83",
+      "originalpaperpubmedid": "19145153.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions"
       ],
-      "Paywalled": "No",
-      "Notes": "1. Withdrawn by lead author Jay Jagannathan",
-      "notice_year": 2011,
-      "year": 2009,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "1. Withdrawn by lead author Jay Jagannathan",
+      "year": "2009",
+      "noticeYear": "2011",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e5ad",
-      "Record ID": "2867",
-      "Title": "Molecular mechanisms of traumatic brain injury in children. A review",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993993",
+      "recordId": "2867",
+      "title": "Molecular mechanisms of traumatic brain injury in children. A review",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pediatrics"
       ],
-      "Institution": [
+      "institution": [
         "Landon School, Bethesda, Maryland",
         "Department of Neurosurgery, University of Virginia Health System, Charlottesville, Virginia"
       ],
-      "Journal": "Neurosurgical Focus",
-      "Publisher": "American Association of Neurological Surgeons",
-      "Country": [
+      "journal": "Neurosurgical Focus",
+      "publisher": "American Association of Neurological Surgeons",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pavan Jagannathan",
         "Jay Jagannathan"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.3171/FOC.2008.25.10.E6r",
-      "RetractionPubMedID": "19341349.0",
-      "OriginalPaperDate": "10/1/2008 0:00",
-      "OriginalPaperDOI": "10.3171/FOC.2008.25.10.E6",
-      "OriginalPaperPubMedID": "18828704.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.3171/FOC.2008.25.10.E6r",
+      "retractionpubmedid": "19341349.0",
+      "originalpaperdate": "10/1/2008 0:00",
+      "originalpaperdoi": "10.3171/FOC.2008.25.10.E6",
+      "originalpaperpubmedid": "18828704.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Ethical Violations by Author",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2009,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2349e78",
-      "Record ID": "21268",
-      "Title": "Cellular signaling molecules as therapeutic targets in glioblastoma multiforme",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Neurological Surgery, University of Virginia Health System, Charlottesville, Virginia"
-      ],
-      "Journal": "Neurosurgical Focus",
-      "Publisher": "American Association of Neurological Surgeons",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Jay Jagannathan",
-        "Daniel M Prevedello",
-        "Aaron S Dumont",
-        "Edward R Laws"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "2/1/2011 0:00",
-      "RetractionDOI": "10.3171/FOC.2011.30.2.E8r",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/15/2006 0:00",
-      "OriginalPaperDOI": "10.3171/foc.2006.20.4.5",
-      "OriginalPaperPubMedID": "16709039.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by ORI",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "Jay Jagannathan has ORI finding of misconduct, see: https://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-011.html",
-      "notice_year": 2011,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "Yes",
+      "year": "2008",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
-      "year": 2006,
-      "retraction_count": 1,
+      "year": 2001,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2006,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -182,10 +248,21 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,30 +1,134 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878a2d",
+    "_id": "687ccbab09adbf7aa61b964e",
     "grid_id": "grid.502801.e",
     "institute_name": "Tampere University",
     "country": "Finland",
     "retracted_record_ids": [
-      "40079",
-      "36077",
-      "49933",
       "20206",
+      "49933",
       "40093",
+      "36077",
+      "20446",
       "5232",
       "36219",
-      "20446"
+      "40079"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345547",
-      "Record ID": "40079",
-      "Title": "CBX7 controls the growth of normal and tumor-derived prostate cells by repressing the Ink4a/Arf locus",
-      "Subject": [
+      "_id": "687cef8d1f662220d89882da",
+      "recordId": "49933",
+      "title": "T Tubules and Surface Membranes Provide Equally Effective Pathways of Carbonic Anhydrase-Facilitated Lactic Acid Transport in Skeletal Muscle",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Molecular and Cell Physiology, Vegetative Physiologie, Medizinische Hochschule Hannover, Hannover, Germany",
+        "Abteilung Physiologische Chemie, Medizinische Hochschule Hannover, Hannover, Germany",
+        "Institute of Medical Technology, Tissue Biology, University of Tampere, Tampere, Finland",
+        "Department of Biochemistry and Molecular Biology, St. Louis University, St. Louis, Missouri, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Finland",
+        "Germany",
+        "United States"
+      ],
+      "author": [
+        "Janine Hallerdei",
+        "Renate J Scheibe",
+        "Seppo Parkkila",
+        "Abdul Waheed",
+        "William S Sly",
+        "Gerolf Gros",
+        "Petra Wetzel",
+        "Volker Endeward"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/4/2023 0:00",
+      "retractiondoi": "10.1371/journal.pone.0295635",
+      "retractionpubmedid": "38048306.0",
+      "originalpaperdate": "12/13/2010 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0015137",
+      "originalpaperpubmedid": "21179203.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb21f662220d898a91f",
+      "recordId": "40093",
+      "title": "Genomic amplification and high expression of EGFR are key targetable oncogenic events in malignant peripheral nerve sheath tumor",
+      "subject": [
+        "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
+        "Department of Diagnostics, Tianjin Medical University, Tianjin, 300060, China",
+        "Department of Bone and Soft Tissue Tumor, National Clinical Cancer Research Center, Tianjin Medical University Cancer Institute & Hospital, Tianjin, 300060, China",
+        "Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA",
+        "Department of Signal Processing, Tampere University of Technology, Tampere, 33101, Finland",
+        "Department of Medical Microbiology, Tianjin Medical University, Tianjin, 300060, China"
+      ],
+      "journal": "Journal of Hematology & Oncology",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China",
+        "Finland",
+        "United States"
+      ],
+      "author": [
+        "Xiaoling Du",
+        "Jilong Yang",
+        "Annti Ylipaa",
+        "Ze Zhu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/27/2022 0:00",
+      "retractiondoi": "10.1186/s13045-022-01380-7",
+      "retractionpubmedid": "36303190.0",
+      "originalpaperdate": "12/17/2013 0:00",
+      "originalpaperdoi": "10.1186/1756-8722-6-93",
+      "originalpaperpubmedid": "24341609.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb21f662220d898a92d",
+      "recordId": "40079",
+      "title": "CBX7 controls the growth of normal and tumor-derived prostate cells by repressing the Ink4a/Arf locus",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
         "Laboratory of Molecular Virology, Faculty of Medicine, Free University of Brussels, Brussels, Belgium",
         "Experimental Therapeutics Program, Centro Nacional de Investigaciones Oncol\u00f3gicas, Melchor Fern\u00e1ndez Almagro 3, Madrid, 28029, Spain",
         "Prostate Stem Cell Laboratory, Institute of Cancer Research, 15 Cotswold Road, Sutton, SM2 5NG, UK",
@@ -33,15 +137,15 @@
         "Molecular Oncology Laboratory, Cancer Research UK, London Research Institute, 44 Lincoln's Inn Fields, London, WC2A 3PX, UK",
         "Center for Cutaneous Biology, Institute for Cell and Molecular Sciences, 2 Newark St, Whitechapel, London, E1 2AT, UK"
       ],
-      "Journal": "Oncogene",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Oncogene",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Belgium",
         "Finland",
         "Spain",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "David Bernard",
         "Juan F Martinez-Leal",
         "Sian Rizzo",
@@ -53,33 +157,86 @@
         "David Beach",
         "Jesus Gil"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/17/2022 0:00",
-      "RetractionDOI": "10.1038/s41388-022-02502-8",
-      "RetractionPubMedID": "36253447.0",
-      "OriginalPaperDate": "5/9/2005 0:00",
-      "OriginalPaperDOI": "10.1038/sj.onc.1208735",
-      "OriginalPaperPubMedID": "15897876.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/17/2022 0:00",
+      "retractiondoi": "10.1038/s41388-022-02502-8",
+      "retractionpubmedid": "36253447.0",
+      "originalpaperdate": "5/9/2005 0:00",
+      "originalpaperdoi": "10.1038/sj.onc.1208735",
+      "originalpaperpubmedid": "15897876.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2005
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23464c8",
-      "Record ID": "36077",
-      "Title": "High annual increase in the incidence of pediatric inflammatory bowel disease in Finland, 1987 2003, a nationwide study",
-      "Subject": [
+      "_id": "687cefc01f662220d898b820",
+      "recordId": "36219",
+      "title": "Drug Flux across RPE Cell Models: The Hunt for an Appropriate Outer Blood\u2013Retinal Barrier Model for Use in Early Drug Discovery",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "School of Pharmacy, Faculty of Health Sciences, University of Eastern Finland, 70210 Kuopio, Finland",
+        "Department of Ophthalmology, Institute of Clinical Medicine, University of Eastern Finland, 70210 Kuopio, Finland",
+        "Drug Research Programme, Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, P.O. Box 56, FI-00014 Helsinki, Finland",
+        "Department of Ophthalmology, Kuopio University Hospital, P.O.Box 100, FI-70029 Kuopio, Finland",
+        "Faculty of Medicine and Health Technology, BioMediTech, Tampere University, 33520 Tampere, Finland"
+      ],
+      "journal": "Pharmaceutics",
+      "publisher": "MDPI",
+      "country": [
+        "Finland"
+      ],
+      "author": [
+        "Laura Hellinen",
+        "Heidi Hongisto",
+        "Eva Ramsey",
+        "Kai Kaarniranta",
+        "Kati Sisko Vellonen",
+        "Heli Skottman",
+        "Marika Ruponen"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/9/2022 0:00",
+      "retractiondoi": "10.3390/pharmaceutics14030595",
+      "retractionpubmedid": "35297820.0",
+      "originalpaperdate": "2/19/2020 0:00",
+      "originalpaperdoi": "10.3390/pharmaceutics12020176",
+      "originalpaperpubmedid": "32093035.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Contamination of Cell Lines/Tissues",
+        "+Error in Data",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc01f662220d898b8ae",
+      "recordId": "36077",
+      "title": "High annual increase in the incidence of pediatric inflammatory bowel disease in Finland, 1987 2003, a nationwide study",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "University of Tampere, Tampere, Finland",
         "Hospital for Children and Adolescents, Helsinki University Central Hospital, Helsinki, Finland",
         "Department of Pediatrics, Tampere University Hospital, Tampere, Finland",
@@ -88,12 +245,12 @@
         "Kainuu Central Hospital, Kajaani, Finland",
         "Department of Public Health, University of Tampere, Tampere, Finland"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Finland"
       ],
-      "Author": [
+      "author": [
         "P Turunen Jr",
         "K Kolho",
         "M Ashorn",
@@ -102,95 +259,102 @@
         "P Jauhonen",
         "A Auvinen"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342ef4",
-      "Record ID": "49933",
-      "Title": "T Tubules and Surface Membranes Provide Equally Effective Pathways of Carbonic Anhydrase-Facilitated Lactic Acid Transport in Skeletal Muscle",
-      "Subject": [
-        "(BLS) Biochemistry",
+      "_id": "687cf05d1f662220d898f58f",
+      "recordId": "20446",
+      "title": "Genomic and Molecular Characterization of Malignant Peripheral Nerve Sheath Tumor Identifies the IGF1R Pathway as a Primary Target for Treatment",
+      "subject": [
         "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
-        "Molecular and Cell Physiology, Vegetative Physiologie, Medizinische Hochschule Hannover, Hannover, Germany",
-        "Abteilung Physiologische Chemie, Medizinische Hochschule Hannover, Hannover, Germany",
-        "Institute of Medical Technology, Tissue Biology, University of Tampere, Tampere, Finland",
-        "Department of Biochemistry and Molecular Biology, St. Louis University, St. Louis, Missouri, United States of America"
+      "institution": [
+        "Department of Bone and Soft Tissue Tumor, Tianjin Medical University Cancer Hospital and Institute, Tianjin, China",
+        "Department of Pathology, Tianjin Medical University Cancer Hospital and Institute, Tianjin, China",
+        "Department of Epidemiology and Biostatistics, Tianjin Medical University Cancer Hospital and Institute, Tianjin, China",
+        "Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
+        "Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
+        "Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
+        "Department of Signal Processing, Tampere University of Technology, Tampere, Finland",
+        "Division of Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "China",
         "Finland",
-        "Germany",
         "United States"
       ],
-      "Author": [
-        "Janine Hallerdei",
-        "Renate J Scheibe",
-        "Seppo Parkkila",
-        "Abdul Waheed",
-        "William S Sly",
-        "Gerolf Gros",
-        "Petra Wetzel",
-        "Volker Endeward"
+      "author": [
+        "Jilong Yang",
+        "Antti Ylipaa",
+        "Yan Sun",
+        "Hong Zheng",
+        "Kexin Chen",
+        "Matti Nykter",
+        "Jonathan Trent",
+        "Nancy Ratner",
+        "Dina C Lev",
+        "Wei Zhang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/4/2023 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0295635",
-      "RetractionPubMedID": "38048306.0",
-      "OriginalPaperDate": "12/13/2010 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0015137",
-      "OriginalPaperPubMedID": "21179203.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/15/2019 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-19-1144",
+      "retractionpubmedid": "31092619.0",
+      "originalpaperdate": "10/31/2011 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-11-1707",
+      "originalpaperpubmedid": "22042973.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Results and/or Conclusions"
+        "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a296",
-      "Record ID": "20206",
-      "Title": "Risk of Esophageal Adenocarcinoma After Antireflux Surgery in Patients With Gastroesophageal Reflux Disease in the Nordic Countries",
-      "Subject": [
+      "_id": "687cf0721f662220d898f67c",
+      "recordId": "20206",
+      "title": "Risk of Esophageal Adenocarcinoma After Antireflux Surgery in Patients With Gastroesophageal Reflux Disease in the Nordic Countries",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Upper Gastrointestinal Surgery, Department of Molecular Medicine and Surgery, Karolinska Institutet, Karolinska University Hospital, Stockholm, Sweden",
         "Impact Assessment Unit, Department of Health Protection, National Institute for Health and Welfare, Tampere, Finland",
         "Centre for Translational Microbiome Research, Department of Microbiology, Tumor, and Cell Biology, Karolinska Institutet, Stockholm, Sweden",
@@ -204,9 +368,9 @@
         "Faculty of Medicine, University of Iceland, Reykjavik, Iceland",
         "School of Cancer Sciences, King\u2019s College London, London, United Kingdom"
       ],
-      "Journal": "JAMA Oncology",
-      "Publisher": "American Medical Association",
-      "Country": [
+      "journal": "JAMA Oncology",
+      "publisher": "American Medical Association",
+      "country": [
         "Denmark",
         "Finland",
         "Iceland",
@@ -214,7 +378,7 @@
         "Sweden",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "John Maret-Ouda",
         "Karl Wahlin",
         "Miia Artama",
@@ -228,336 +392,181 @@
         "My von Euler-Chelpin",
         "Jesper Lagergren"
       ],
-      "URLS": "http://retractionwatch.com/2019/03/29/scientific-integrity-a-rare-commodity-these-days-cancer-journal-makes-its-first-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/03/29/scientific-integrity-a-rare-commodity-these-days-cancer-journal-makes-its-first-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/28/2019 0:00",
-      "RetractionDOI": "10.1001/jamaoncol.2019.0653",
-      "RetractionPubMedID": "30920590.0",
-      "OriginalPaperDate": "8/23/2018 0:00",
-      "OriginalPaperDOI": "10.1001/jamaoncol.2018.3054",
-      "OriginalPaperPubMedID": "30422249.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/28/2019 0:00",
+      "retractiondoi": "10.1001/jamaoncol.2019.0653",
+      "retractionpubmedid": "30920590.0",
+      "originalpaperdate": "8/23/2018 0:00",
+      "originalpaperdoi": "10.1001/jamaoncol.2018.3054",
+      "originalpaperpubmedid": "30422249.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Error in Methods",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "Yes",
-      "Notes": "see also: https://jamanetwork.com/journals/jamaoncology/fullarticle/2729061",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "Yes",
+      "notes": "see also: https://jamanetwork.com/journals/jamaoncology/fullarticle/2729061",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345539",
-      "Record ID": "40093",
-      "Title": "Genomic amplification and high expression of EGFR are key targetable oncogenic events in malignant peripheral nerve sheath tumor",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Diagnostics, Tianjin Medical University, Tianjin, 300060, China",
-        "Department of Bone and Soft Tissue Tumor, National Clinical Cancer Research Center, Tianjin Medical University Cancer Institute & Hospital, Tianjin, 300060, China",
-        "Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA",
-        "Department of Signal Processing, Tampere University of Technology, Tampere, 33101, Finland",
-        "Department of Medical Microbiology, Tianjin Medical University, Tianjin, 300060, China"
-      ],
-      "Journal": "Journal of Hematology & Oncology",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China",
-        "Finland",
-        "United States"
-      ],
-      "Author": [
-        "Xiaoling Du",
-        "Jilong Yang",
-        "Annti Ylipaa",
-        "Ze Zhu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/27/2022 0:00",
-      "RetractionDOI": "10.1186/s13045-022-01380-7",
-      "RetractionPubMedID": "36303190.0",
-      "OriginalPaperDate": "12/17/2013 0:00",
-      "OriginalPaperDOI": "10.1186/1756-8722-6-93",
-      "OriginalPaperPubMedID": "24341609.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2013,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234dca3",
-      "Record ID": "5232",
-      "Title": "trans-Tetrakis(pyridine)dichloroiron(II) as catalyst for Suzuki cross-coupling in ethanol and water",
-      "Subject": [
+      "_id": "687cf0c51f662220d8993089",
+      "recordId": "5232",
+      "title": "trans-Tetrakis(pyridine)dichloroiron(II) as catalyst for Suzuki cross-coupling in ethanol and water",
+      "subject": [
         "(PHY) Chemistry"
       ],
-      "Institution": [
+      "institution": [
         "Department of Chemistry and Bioengineering, The Laboratory of Chemistry, Tampere University of Technology, Tampere",
         "Nanoscience Center, Department of Chemistry, University of Jyv\u00e4skyl\u00e4",
         "School of Pharmaceutical Engineering, Shenyang Pharmaceutical University, Shenyang"
       ],
-      "Journal": "Tetrahedron",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Tetrahedron",
+      "publisher": "Elsevier",
+      "country": [
         "China",
         "Finland"
       ],
-      "Author": [
+      "author": [
         "Tuula Kylm\u00e4l\u00e4",
         "Arto Valkonen",
         "Kari Rissanen",
         "Youjun Xu",
         "Robert Franz\u00e9n"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/5/2009 0:00",
-      "RetractionDOI": "10.1016/j.tetlet.2009.07.103",
-      "OriginalPaperDate": "9/15/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.tetlet.2008.09.059",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/5/2009 0:00",
+      "retractiondoi": "10.1016/j.tetlet.2009.07.103",
+      "originalpaperdate": "9/15/2008 0:00",
+      "originalpaperdoi": "10.1016/j.tetlet.2008.09.059",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Results Not Reproducible",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2008,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234643a",
-      "Record ID": "36219",
-      "Title": "Drug Flux across RPE Cell Models: The Hunt for an Appropriate Outer Blood\u2013Retinal Barrier Model for Use in Early Drug Discovery",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "School of Pharmacy, Faculty of Health Sciences, University of Eastern Finland, 70210 Kuopio, Finland",
-        "Department of Ophthalmology, Institute of Clinical Medicine, University of Eastern Finland, 70210 Kuopio, Finland",
-        "Drug Research Programme, Division of Pharmaceutical Biosciences, Faculty of Pharmacy, University of Helsinki, P.O. Box 56, FI-00014 Helsinki, Finland",
-        "Department of Ophthalmology, Kuopio University Hospital, P.O.Box 100, FI-70029 Kuopio, Finland",
-        "Faculty of Medicine and Health Technology, BioMediTech, Tampere University, 33520 Tampere, Finland"
-      ],
-      "Journal": "Pharmaceutics",
-      "Publisher": "MDPI",
-      "Country": [
-        "Finland"
-      ],
-      "Author": [
-        "Laura Hellinen",
-        "Heidi Hongisto",
-        "Eva Ramsey",
-        "Kai Kaarniranta",
-        "Kati Sisko Vellonen",
-        "Heli Skottman",
-        "Marika Ruponen"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/9/2022 0:00",
-      "RetractionDOI": "10.3390/pharmaceutics14030595",
-      "RetractionPubMedID": "35297820.0",
-      "OriginalPaperDate": "2/19/2020 0:00",
-      "OriginalPaperDOI": "10.3390/pharmaceutics12020176",
-      "OriginalPaperPubMedID": "32093035.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Contamination of Cell Lines/Tissues",
-        "+Error in Data",
-        "+Error in Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a1a9",
-      "Record ID": "20446",
-      "Title": "Genomic and Molecular Characterization of Malignant Peripheral Nerve Sheath Tumor Identifies the IGF1R Pathway as a Primary Target for Treatment",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Bone and Soft Tissue Tumor, Tianjin Medical University Cancer Hospital and Institute, Tianjin, China",
-        "Department of Pathology, Tianjin Medical University Cancer Hospital and Institute, Tianjin, China",
-        "Department of Epidemiology and Biostatistics, Tianjin Medical University Cancer Hospital and Institute, Tianjin, China",
-        "Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
-        "Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
-        "Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas",
-        "Department of Signal Processing, Tampere University of Technology, Tampere, Finland",
-        "Division of Experimental Hematology and Cancer Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio"
-      ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "China",
-        "Finland",
-        "United States"
-      ],
-      "Author": [
-        "Jilong Yang",
-        "Antti Ylipaa",
-        "Yan Sun",
-        "Hong Zheng",
-        "Kexin Chen",
-        "Matti Nykter",
-        "Jonathan Trent",
-        "Nancy Ratner",
-        "Dina C Lev",
-        "Wei Zhang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/15/2019 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-19-1144",
-      "RetractionPubMedID": "31092619.0",
-      "OriginalPaperDate": "10/31/2011 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-11-1707",
-      "OriginalPaperPubMedID": "22042973.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2009",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -565,10 +574,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

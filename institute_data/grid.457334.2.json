@@ -1,40 +1,40 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879310",
+    "_id": "687ccbab09adbf7aa61b9f31",
     "grid_id": "grid.457334.2",
     "institute_name": "CEA Paris-Saclay",
     "country": "France",
     "retracted_record_ids": [
-      "34934",
       "17728",
-      "5397",
-      "20878"
+      "20878",
+      "34934",
+      "5397"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234693d",
-      "Record ID": "34934",
-      "Title": "Lactobacillus casei BL23 regulates Treg and Th17 T-cell populations and reduces DMH-associated colorectal cancer",
-      "Subject": [
+      "_id": "687cefc61f662220d898bd23",
+      "recordId": "34934",
+      "title": "Lactobacillus casei BL23 regulates Treg and Th17 T-cell populations and reduces DMH-associated colorectal cancer",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "INRA, Commensal and Probiotics-Host Interactions Laboratory, UMR 1319 Micalis, 78350, Jouy-en-Josas, France",
         "AgroParisTech, UMR1319 Micalis, 78350, Jouy-en-Josas, France",
         "Centro de Referencia para Lactobacilos (CERELA-CONICET), T4000ILC, San Miguel de Tucum\u00e1n, Argentina",
         "INRA, UR496 Unit\u00e9 d\u2019Immuno-Allergie Alimentaire, Jouy-en-Josas, France",
         "CEA, IBiTecS, Service de Pharmacologie et d\u2019Immunoanalyse, Gif-sur-Yvette, France"
       ],
-      "Journal": "Journal of Gastroenterology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Journal of Gastroenterology",
+      "publisher": "Springer",
+      "country": [
         "Argentina",
         "France"
       ],
-      "Author": [
+      "author": [
         "Marion Lenoir",
         "Silvina del Carmen",
         "Naima G Cortes-Perez",
@@ -46,42 +46,88 @@
         "Jean Guy LeBlanc",
         "Luis G Berm\u00fadez-Humar\u00e1n"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/8/2020 0:00",
-      "RetractionDOI": "10.1007/s00535-020-01722-7",
-      "RetractionPubMedID": "32897451.0",
-      "OriginalPaperDate": "1/9/2016 0:00",
-      "OriginalPaperDOI": "10.1007/s00535-015-1158-9",
-      "OriginalPaperPubMedID": "26749362.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/8/2020 0:00",
+      "retractiondoi": "10.1007/s00535-020-01722-7",
+      "retractionpubmedid": "32897451.0",
+      "originalpaperdate": "1/9/2016 0:00",
+      "originalpaperdoi": "10.1007/s00535-015-1158-9",
+      "originalpaperpubmedid": "26749362.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ac37",
-      "Record ID": "17728",
-      "Title": "On modelling the behaviour of a ductile adhesive under low temperatures",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f3e3",
+      "recordId": "20878",
+      "title": "The ARF exchange factors Gea1p and Gea2p regulate Golgi structure and function in yeast",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Service de Biochimie et G\u00e9n\u00e9tique Mol\u00e9culaire, Bat. 142, D\u00e9partement de Biologie Cellulaire et Mol\u00e9culaire, CEA/Saclay, 91191 Gif-sur-Yvette, France",
+        "Cell Biology and Metabolism Branch, NICHD, NIH, Bldg. 18T, Room 101, 18 Library Drive, Bethesda, MD 20892-5430, USA"
+      ],
+      "journal": "Journal of Cell Science",
+      "publisher": "The Company of Biologists",
+      "country": [
+        "France",
+        "United States"
+      ],
+      "author": [
+        "Anna Peyroche",
+        "Regis Courbeyrette",
+        "Alain Rambourg",
+        "Catherine L Jackson"
+      ],
+      "urls": "http://retractionwatch.com/?s=anna+peyroche",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/2/2019 0:00",
+      "retractiondoi": "10.1242/jcs.234336",
+      "retractionpubmedid": "31266810.0",
+      "originalpaperdate": "6/15/2001 0:00",
+      "originalpaperdoi": "10.1242/jcs.114.12.2241",
+      "originalpaperpubmedid": "11493664.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://www.the-scientist.com/news-opinion/report--former-cnrs-president-guilty-of-fraud-64932",
+      "year": "2001",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d899001d",
+      "recordId": "17728",
+      "title": "On modelling the behaviour of a ductile adhesive under low temperatures",
+      "subject": [
         "(PHY) Materials Science"
       ],
-      "Institution": [
+      "institution": [
         "Laboratoire Brestois de M\u00e9canique et des Syst\u00e8mes, ENSTA Bretagne, Brest, France",
         "CEA Saclay, DSM/Irfu/SACM, 91191 Gif sur Yvette, France"
       ],
-      "Journal": "International Journal of Adhesion and Adhesives",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "International Journal of Adhesion and Adhesives",
+      "publisher": "Elsevier",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "J Y Cognard",
         "C Badulescu",
         "J Maurice",
@@ -89,173 +135,131 @@
         "N Carrere",
         "P Vedrine"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/1/2016 0:00",
-      "RetractionDOI": "10.1016/j.ijadhadh.2016.05.004",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/3/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.ijadhadh.2013.09.014",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/1/2016 0:00",
+      "retractiondoi": "10.1016/j.ijadhadh.2016.05.004",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/3/2013 0:00",
+      "originalpaperdoi": "10.1016/j.ijadhadh.2013.09.014",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2013,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2016",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dc01",
-      "Record ID": "5397",
-      "Title": "Conjugation Length Dependence of the Charge Transport in Oligothiophene Single Crystals",
-      "Subject": [
+      "_id": "687cf0c31f662220d8992fe7",
+      "recordId": "5397",
+      "title": "Conjugation Length Dependence of the Charge Transport in Oligothiophene Single Crystals",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Engineering - Electrical",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Bell Laboratories, Lucent Technologies, 600 Mountain Avenue, Murray Hill, New Jersey, USA",
         "CEA-Saclay, Service de Physique et Chimie des Surfaces et Interfaces, DRECAM/DSM, 91191 Gif-sur-Yvette, France",
         "Universite\u00b4 Pierre et Marie Curie, UMR 7611, 4 place Jussieu, 75005 Paris, France",
         "Solid State Physics Laboratory, ETH Ho\u00a8nggerberg, CH-8093 Zu\u00a8rich, Switzerland"
       ],
-      "Journal": "Physical Review B",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review B",
+      "publisher": "American Physical Society",
+      "country": [
         "France",
         "Switzerland",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jan Hendrik Schon",
         "Christian Kloc",
         "D Fichou",
         "Bertram Batlogg"
       ],
-      "URLS": "https://retractionwatch.com/?s=%22Jan+Hendrik+Schon%22",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=%22Jan+Hendrik+Schon%22",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/23/2002 0:00",
-      "RetractionDOI": "10.1103/PhysRevB.66.249906",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/27/2001 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevB.64.035209",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/23/2002 0:00",
+      "retractiondoi": "10.1103/PhysRevB.66.249906",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/27/2001 0:00",
+      "originalpaperdoi": "10.1103/PhysRevB.64.035209",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Miscommunication with/by Author",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "Jan Hendrik Schon has instituonal finding of misconduct;",
-      "notice_year": 2002,
-      "year": 2001,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2349ffd",
-      "Record ID": "20878",
-      "Title": "The ARF exchange factors Gea1p and Gea2p regulate Golgi structure and function in yeast",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Service de Biochimie et G\u00e9n\u00e9tique Mol\u00e9culaire, Bat. 142, D\u00e9partement de Biologie Cellulaire et Mol\u00e9culaire, CEA/Saclay, 91191 Gif-sur-Yvette, France",
-        "Cell Biology and Metabolism Branch, NICHD, NIH, Bldg. 18T, Room 101, 18 Library Drive, Bethesda, MD 20892-5430, USA"
-      ],
-      "Journal": "Journal of Cell Science",
-      "Publisher": "The Company of Biologists",
-      "Country": [
-        "France",
-        "United States"
-      ],
-      "Author": [
-        "Anna Peyroche",
-        "Regis Courbeyrette",
-        "Alain Rambourg",
-        "Catherine L Jackson"
-      ],
-      "URLS": "http://retractionwatch.com/?s=anna+peyroche",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/2/2019 0:00",
-      "RetractionDOI": "10.1242/jcs.234336",
-      "RetractionPubMedID": "31266810.0",
-      "OriginalPaperDate": "6/15/2001 0:00",
-      "OriginalPaperDOI": "10.1242/jcs.114.12.2241",
-      "OriginalPaperPubMedID": "11493664.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://www.the-scientist.com/news-opinion/report--former-cnrs-president-guilty-of-fraud-64932",
-      "notice_year": 2019,
-      "year": 2001,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Jan Hendrik Schon has instituonal finding of misconduct;",
+      "year": "2001",
+      "noticeYear": "2002",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2001,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2002,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -263,10 +267,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

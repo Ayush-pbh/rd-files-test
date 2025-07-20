@@ -1,26 +1,83 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877a65",
+    "_id": "687ccbab09adbf7aa61b8686",
     "grid_id": "grid.414746.4",
     "institute_name": "Far Eastern Memorial Hospital",
     "country": "Taiwan",
     "retracted_record_ids": [
-      "62945",
       "49740",
-      "6515"
+      "6515",
+      "62945",
+      "65717"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d233fc4e",
-      "Record ID": "62945",
-      "Title": "Long-Lasting Exendin-4-Loaded PLGA Nanoparticles Ameliorate Cerebral Ischemia/Reperfusion Damage in Diabetic Rats",
-      "Subject": [
+      "_id": "687cef4f1f662220d8984580",
+      "recordId": "65717",
+      "title": "Clinical impact of monocyte distribution width and neutrophil-to-lymphocyte ratio for distinguishing COVID-19 and influenza from other upper respiratory tract infections: A pilot study",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Department of Emergency Medicine, Taipei Medical University Hospital, Taipei, Taiwan",
+        "Department of Emergency Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan",
+        "School of Public Health, College of Public Health, Taipei Medical University, Taipei, Taiwan",
+        "Division of Physician Hospitalist, Department of Internal Medicine, Far Eastern Memorial Hospital, New Taipei, Taiwan",
+        "Department of Neurology, Far Eastern Memorial Hospital, New Taipei, Taiwan",
+        "Department of Medical Laboratory, Taipei Medical University Hospital, Taipei, Taiwan",
+        "School of Medical Laboratory Science and Biotechnology, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan",
+        "Division of Infectious Disease, Department of Internal Medicine, Taipei Medical University Hospital, Taipei, Taiwan",
+        "Department of Surgery, Taipei Medical University Hospital, Taipei, Taiwan"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Hui-An Lin",
+        "Sheng-Feng Lin",
+        "Hui-Wen Chang",
+        "Yuarn-Jang Lee",
+        "Ray-Jade Chen",
+        "Sen-Kuang Hou"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/18/2025 0:00",
+      "retractiondoi": "10.1371/journal.pone.0326523",
+      "retractionpubmedid": "40531820.0",
+      "originalpaperdate": "11/2/2020 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0241262",
+      "originalpaperpubmedid": "33137167.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Investigation by Journal/Publisher",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Objections by Author(s)"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef5b1f662220d8985034",
+      "recordId": "62945",
+      "title": "Long-Lasting Exendin-4-Loaded PLGA Nanoparticles Ameliorate Cerebral Ischemia/Reperfusion Damage in Diabetic Rats",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Neurology",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Life Science, School of Life Science, College of Science, National Taiwan Normal University, No. 88, Tingzhou Road, Taipei City 116, Taiwan",
         "Division of Urology, Department of Surgery, Far Eastern Memorial Hospital, New Taipei City 220, Taiwan",
         "Department of Nursing, College of Healthcare & Management, Asia Eastern University of Science and Technology, New Taipei City 220, Taiwan",
@@ -28,29 +85,29 @@
         "Department of Neurology, Kuang Tien General Hospital, No. 117, Shatian Road, Shalu District, Taichung City 433, Taiwan",
         "Department of Nutrition, Huang-Kuang University, Taichung 433, Taiwan"
       ],
-      "Journal": "Journal of Personalized Medicine",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "Journal of Personalized Medicine",
+      "publisher": "MDPI",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Cheng-Hsun Chung",
         "Shiu-Dong Chung",
         "Yu-Hsuan Cheng",
         "Chun-Pai Yang",
         "Chiang-Ting Chien"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/31/2024 0:00",
-      "RetractionDOI": "10.3390/jpm15010011",
-      "RetractionPubMedID": "39852232.0",
-      "OriginalPaperDate": "3/3/2022 0:00",
-      "OriginalPaperDOI": "10.3390/jpm12030390",
-      "OriginalPaperPubMedID": "35330390.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/31/2024 0:00",
+      "retractiondoi": "10.3390/jpm15010011",
+      "retractionpubmedid": "39852232.0",
+      "originalpaperdate": "3/3/2022 0:00",
+      "originalpaperdoi": "10.3390/jpm12030390",
+      "originalpaperpubmedid": "35330390.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Concerns/Issues about Article",
         "+Duplication of/in Article",
@@ -58,21 +115,22 @@
         "+Investigation by Third Party",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342fb5",
-      "Record ID": "49740",
-      "Title": "Sodium thiosulfate through preserving mitochondrial dynamics ameliorates oxidative stress induced renal apoptosis and ferroptosis in 5/6 nephrectomized rats with chronic kidney diseases",
-      "Subject": [
+      "_id": "687cef8d1f662220d898839b",
+      "recordId": "49740",
+      "title": "Sodium thiosulfate through preserving mitochondrial dynamics ameliorates oxidative stress induced renal apoptosis and ferroptosis in 5/6 nephrectomized rats with chronic kidney diseases",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Life Science, School of Life Science, College of Science, National Taiwan Normal University, Taipei, Taiwan, ROC",
         "Department of Family Medicine, National Taiwan University Hospital, Taipei, Taiwan, ROC",
         "Office of Public Relation of Ministry of Health and Welfare, Taipei, Taiwan, ROC",
@@ -80,29 +138,29 @@
         "Department of Internal Medicine, Far Eastern Memorial Hospital, New Taipei City, Taiwan, ROC",
         "Department of Industrial Management, Oriental Institute of Technology, New Taipei City, Taiwan, ROC"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Yu-Hsuan Cheng",
         "Chien-An Yao",
         "Chih-Ching Yang",
         "Shih-Ping Hsu",
         "Chiang-Ting Chien"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/28/2023 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0295162",
-      "RetractionPubMedID": "38015904.0",
-      "OriginalPaperDate": "2/16/2023 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0277652",
-      "OriginalPaperPubMedID": "36795670.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/28/2023 0:00",
+      "retractiondoi": "10.1371/journal.pone.0295162",
+      "retractionpubmedid": "38015904.0",
+      "originalpaperdate": "2/16/2023 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0277652",
+      "originalpaperpubmedid": "36795670.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Copyright Claims",
         "+Duplication of/in Image",
@@ -110,97 +168,121 @@
         "+Investigation by Journal/Publisher",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d7b7",
-      "Record ID": "6515",
-      "Title": "Mobile Telemedicine Application and Technologies on GSM",
-      "Subject": [
+      "_id": "687cf0bf1f662220d8992b9d",
+      "recordId": "6515",
+      "title": "Mobile Telemedicine Application and Technologies on GSM",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - General"
       ],
-      "Institution": [
+      "institution": [
         "Department of Electronic Engineering, Oriental Institute of Technology, Taipei, Taiwan",
         "Section of Neurology, Department of Internal Medicine, Far Eastern Memorial Hospital, Taipei, Taiwan"
       ],
-      "Journal": "2007 1st International Conference on Bioinformatics and Biomedical Engineering, ICBBE",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2007 1st International Conference on Bioinformatics and Biomedical Engineering, ICBBE",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Ching Sung Wang",
         "Jung Hunag Lee",
         "Yiu Tong Chu"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "7/16/2007 0:00",
-      "RetractionDOI": "10.1109/ICBBE.2007.291",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/6/2007 0:00",
-      "OriginalPaperDOI": "10.1109/ICBBE.2007.291",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/16/2007 0:00",
+      "retractiondoi": "10.1109/ICBBE.2007.291",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/6/2007 0:00",
+      "originalpaperdoi": "10.1109/ICBBE.2007.291",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Breach of Policy by Author",
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "See also IEEE conference retractions mentioned by RW: http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/; Date of retraction unknown, estimated from conference date.",
-      "notice_year": 2007,
-      "year": 2007,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See also IEEE conference retractions mentioned by RW: http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/; Date of retraction unknown, estimated from conference date.",
+      "year": "2007",
+      "noticeYear": "2007",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2007,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2020,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2022,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

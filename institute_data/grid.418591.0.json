@@ -1,26 +1,133 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879067",
+    "_id": "687ccbab09adbf7aa61b9c88",
     "grid_id": "grid.418591.0",
     "institute_name": "Canadian Memorial Chiropractic College",
     "country": "Canada",
     "retracted_record_ids": [
       "32187",
-      "32189",
-      "38885"
+      "38885",
+      "32189"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23473f4",
-      "Record ID": "32187",
-      "Title": "Botulinum toxin for subacute/chronic neck pain (Pub 2)",
-      "Subject": [
+      "_id": "687cefb51f662220d898adcf",
+      "recordId": "38885",
+      "title": "Group-based multimodal exercises integrated with cognitive-behavioural therapy improve disability, pain and quality of life of subjects with chronic neck pain: a randomized controlled trial with one-year follow-up",
+      "subject": [
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Psychiatry",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Public Health, Clinical and Molecular Medicine, University of Cagliari, Cagliari, Italy",
+        "Physical Medicine and Rehabilitation Unit, Scientific Institute of Lissone, Salvatore Maugeri Foundation IRCCS, Lissone, Italy",
+        "Neuroengineering and Medical Robotics Laboratory, Politecnico di Milano, Milan, Italy",
+        "Canadian Memorial Chiropractic College, Toronto, Ontario, Canada"
+      ],
+      "journal": "Clinical Rehabilitation",
+      "publisher": "SAGE Publications",
+      "country": [
+        "Canada",
+        "Italy"
+      ],
+      "author": [
+        "Marco Monticone",
+        "Emilia Ambrosini",
+        "Barbara Rocca",
+        "Daniele Cazzaniga",
+        "Valentina Liquori",
+        "Alessandra Pedrocchi",
+        "Howard Vernon"
+      ],
+      "urls": "https://retractionwatch.com/2022/11/09/pain-researchers-lose-three-papers-after-cochrane-group-questioned-data/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "9/7/2022 0:00",
+      "retractiondoi": "10.1177/02692155221126008",
+      "retractionpubmedid": "36069340.0",
+      "originalpaperdate": "5/31/2016 0:00",
+      "originalpaperdoi": "10.1177/0269215516651979",
+      "originalpaperpubmedid": "27246516.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://journals.lww.com/pain/Abstract/9900/Investigating_the_veracity_of_a_sample_of.70.aspx;",
+      "year": "2016",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd01f662220d898c7d8",
+      "recordId": "32189",
+      "title": "Medicinal and injection therapies for mechanical neck disorders (Pub 4)",
+      "subject": [
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Department of Clinical Development, Merck Research Laboratories, Rahway, USA",
+        "School of Rehabilitation Science & Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Canada",
+        "Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Canada",
+        "DeGroote School of Medicine, Office of MD Admissions, McMaster University, Hamilton, Canada",
+        "Faculty of Health Sciences, Simon Fraser University, Burnaby, Canada",
+        "Department of Clinical Education, Canadian Memorial Chiropractic College, Toronto, Canada",
+        "Hamilton, Canada"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "Canada",
+        "United States"
+      ],
+      "author": [
+        "Paul Michael J Peloso",
+        "Anita Gross",
+        "Ted Haines",
+        "Kien Trinh",
+        "Charles H Goldsmith",
+        "Stephen J Burnie",
+        "Cervical Overview Group"
+      ],
+      "articletype": [
+        "Review Article",
+        "Revision"
+      ],
+      "retractiondate": "5/21/2015 0:00",
+      "retractiondoi": "10.1002/14651858.CD000319.pub5",
+      "retractionpubmedid": "25994305.0",
+      "originalpaperdate": "7/18/2007 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD000319.pub4",
+      "originalpaperpubmedid": "17636629.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Third Party Involvement",
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd01f662220d898c7da",
+      "recordId": "32187",
+      "title": "Botulinum toxin for subacute/chronic neck pain (Pub 2)",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Cliniques Physio Interactive, D\u00e9partement de r\u00e9adaptation, Facult\u00e9 de M\u00e9decine, Universit\u00e9 Laval, Quebec City, Canada",
         "Department of Clinical Development, Merck Research Laboratories, Rahway, USA",
         "Highland Park, USA",
@@ -33,13 +140,13 @@
         "Department of Clinical Education, Canadian Memorial Chiropractic College, Toronto, Canada",
         "Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Canada"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "Canada",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pierre Langevin",
         "Paul Michael J Peloso",
         "Janet Lowcock",
@@ -52,152 +159,48 @@
         "Stephen J Burnie",
         "Ted Haines"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article",
         "Revision"
       ],
-      "RetractionDate": "5/21/2015 0:00",
-      "RetractionDOI": "10.1002/14651858.CD008626.pub3",
-      "RetractionPubMedID": "25994306.0",
-      "OriginalPaperDate": "7/6/2011 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD008626.pub2",
-      "OriginalPaperPubMedID": "21735434.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/21/2015 0:00",
+      "retractiondoi": "10.1002/14651858.CD008626.pub3",
+      "retractionpubmedid": "25994306.0",
+      "originalpaperdate": "7/6/2011 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD008626.pub2",
+      "originalpaperpubmedid": "21735434.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Third Party Involvement",
         "+Notice - Limited or No Information",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d23473f2",
-      "Record ID": "32189",
-      "Title": "Medicinal and injection therapies for mechanical neck disorders (Pub 4)",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Clinical Development, Merck Research Laboratories, Rahway, USA",
-        "School of Rehabilitation Science & Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Canada",
-        "Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Canada",
-        "DeGroote School of Medicine, Office of MD Admissions, McMaster University, Hamilton, Canada",
-        "Faculty of Health Sciences, Simon Fraser University, Burnaby, Canada",
-        "Department of Clinical Education, Canadian Memorial Chiropractic College, Toronto, Canada",
-        "Hamilton, Canada"
-      ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "Paul Michael J Peloso",
-        "Anita Gross",
-        "Ted Haines",
-        "Kien Trinh",
-        "Charles H Goldsmith",
-        "Stephen J Burnie",
-        "Cervical Overview Group"
-      ],
-      "ArticleType": [
-        "Review Article",
-        "Revision"
-      ],
-      "RetractionDate": "5/21/2015 0:00",
-      "RetractionDOI": "10.1002/14651858.CD000319.pub5",
-      "RetractionPubMedID": "25994305.0",
-      "OriginalPaperDate": "7/18/2007 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD000319.pub4",
-      "OriginalPaperPubMedID": "17636629.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Third Party Involvement",
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2007,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d23459e9",
-      "Record ID": "38885",
-      "Title": "Group-based multimodal exercises integrated with cognitive-behavioural therapy improve disability, pain and quality of life of subjects with chronic neck pain: a randomized controlled trial with one-year follow-up",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Psychiatry",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Department of Public Health, Clinical and Molecular Medicine, University of Cagliari, Cagliari, Italy",
-        "Physical Medicine and Rehabilitation Unit, Scientific Institute of Lissone, Salvatore Maugeri Foundation IRCCS, Lissone, Italy",
-        "Neuroengineering and Medical Robotics Laboratory, Politecnico di Milano, Milan, Italy",
-        "Canadian Memorial Chiropractic College, Toronto, Ontario, Canada"
-      ],
-      "Journal": "Clinical Rehabilitation",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Canada",
-        "Italy"
-      ],
-      "Author": [
-        "Marco Monticone",
-        "Emilia Ambrosini",
-        "Barbara Rocca",
-        "Daniele Cazzaniga",
-        "Valentina Liquori",
-        "Alessandra Pedrocchi",
-        "Howard Vernon"
-      ],
-      "URLS": "https://retractionwatch.com/2022/11/09/pain-researchers-lose-three-papers-after-cochrane-group-questioned-data/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "9/7/2022 0:00",
-      "RetractionDOI": "10.1177/02692155221126008",
-      "RetractionPubMedID": "36069340.0",
-      "OriginalPaperDate": "5/31/2016 0:00",
-      "OriginalPaperDOI": "10.1177/0269215516651979",
-      "OriginalPaperPubMedID": "27246516.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://journals.lww.com/pain/Abstract/9900/Investigating_the_veracity_of_a_sample_of.70.aspx;",
-      "notice_year": 2022,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -205,32 +208,32 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

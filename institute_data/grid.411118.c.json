@@ -1,89 +1,369 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687825f",
+    "_id": "687ccbab09adbf7aa61b8e80",
     "grid_id": "grid.411118.c",
     "institute_name": "Kongju National University",
     "country": "South Korea",
     "retracted_record_ids": [
       "38789",
+      "42766",
+      "20155",
+      "58724",
+      "22745",
       "21438",
+      "20153",
+      "10245",
       "48806",
       "35535",
-      "20155",
-      "10245",
-      "25025",
-      "20153",
-      "58724",
-      "42766",
-      "22745"
+      "25025"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345a49",
-      "Record ID": "38789",
-      "Title": "PSHRisk-Tool: A Python-Based Computational Tool for Developing Site Seismic Hazard Analysis and Failure Risk Assessment of Infrastructure",
-      "Subject": [
+      "_id": "687cef6b1f662220d89860a3",
+      "recordId": "58724",
+      "title": "Enhancing Data Quality Management in Structural Health Monitoring through Irregular Time-Series Data Anomaly Detection Using IoT Sensors",
+      "subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Department of Regional Infrastructure Engineering, Kangwon National University, Chuncheon 24341, Republic of Korea",
+        "2 Department of Agricultural Civil Engineering, Kyungpook National University, Daegu 41566, Republic of Korea",
+        "3 Department of Rural Construction Engineering, Kongju National University, Yesan 32439, Republic of Korea"
+      ],
+      "journal": "Buildings",
+      "publisher": "MDPI",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Junhwi Cho",
+        "Kyoung Jae Lim",
+        "Jonggun Kim",
+        "Yongchul Shin",
+        "Youn Shik Park",
+        "Jaeheum Yeon"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2024 0:00",
+      "retractiondoi": "10.3390/buildings14103223",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/19/2024 0:00",
+      "originalpaperdoi": "10.3390/buildings14072223",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Methods",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef921f662220d898873f",
+      "recordId": "48806",
+      "title": "Graph based CNN Algorithm to Detect Spammer Activity Over Social Media",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(SOC) Communications"
+      ],
+      "institution": [
+        "Krishna Engineering College, Ghaziabad, Up, Ghaziabad, India",
+        "The West Bengal National University of Juridical Sciences, Kolkata, India",
+        "Department of Computer Science and Engineering, Kongju National University, Cheonan 31080, Korea",
+        "Maharaja Surajmal Institute of Technology, Delhi, India",
+        "Model Institute of Engineering and Technology, Jammu, J&K, India",
+        "Department of Computing and Engineering, University of Gloucestershire, Gloucestershir, UK"
+      ],
+      "journal": "IETE Journal of Research",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "India",
+        "South Korea",
+        "United Kingdom"
+      ],
+      "author": [
+        "Aditya Tandon",
+        "Shouvik Kumar Guha",
+        "Junaid Rashid",
+        "Jungeun Kim",
+        "Mamta Gahlan",
+        "Mohammad Shabaz",
+        "Nasreen Anjum"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/25/2023 0:00",
+      "retractiondoi": "10.1080/03772063.2023.2262829",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/14/2022 0:00",
+      "originalpaperdoi": "10.1080/03772063.2022.2061610",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefaa1f662220d8989ebc",
+      "recordId": "42766",
+      "title": "Pest diagnosis system based on deep learning using col- lective intelligence",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(PHY) Engineering - General"
+      ],
+      "institution": [
+        "Department of Computer Engineering, Kongju National University, Gongju, Republic of Korea"
+      ],
+      "journal": "The International Journal of Electrical Engineering & Education",
+      "publisher": "SAGE Publications",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Hoo Young Lee",
+        "Dong Hyun Kim",
+        "Koo Rack Park"
+      ],
+      "urls": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/15/2021 0:00",
+      "retractiondoi": "10.1177/00207209211064046",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/18/2019 0:00",
+      "originalpaperdoi": "10.1177/0020720919833052",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898ae2f",
+      "recordId": "38789",
+      "title": "PSHRisk-Tool: A Python-Based Computational Tool for Developing Site Seismic Hazard Analysis and Failure Risk Assessment of Infrastructure",
+      "subject": [
         "(B/T) Computer Science",
         "(PHY) Engineering - Structural",
         "(PHY) Geology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Civil and Environmental Engineering, Kunsan National University, Gunsan-si 54150, Jeollabuk-do, Korea",
         "Department of Civil Engineering, Pabna University of Science and Technology, Pabna 6600, Bangladesh",
         "Department of Civil and Environmental Engineering, Kongju National University, Cheonan-si 31080, Chungnam, Korea"
       ],
-      "Journal": "Applied Sciences",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "Applied Sciences",
+      "publisher": "MDPI",
+      "country": [
         "Bangladesh",
         "South Korea"
       ],
-      "Author": [
+      "author": [
         "Tahmina Tasnim Nahar",
         "Md Motiur Rahman",
         "Dookie Kim"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/28/2022 0:00",
-      "RetractionDOI": "10.3390/app12157585",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/24/2020 0:00",
-      "OriginalPaperDOI": "10.3390/app10217487",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/28/2022 0:00",
+      "retractiondoi": "10.3390/app12157585",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/24/2020 0:00",
+      "originalpaperdoi": "10.3390/app10217487",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Methods",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349dce",
-      "Record ID": "21438",
-      "Title": "A Hot Pepper cDNA Encoding Ascorbate Peroxidase Is Induced during the Incompatible Interaction with Virus and Bacteria",
-      "Subject": [
+      "_id": "687cefc21f662220d898bacc",
+      "recordId": "35535",
+      "title": "Control strategy and security of small and medium-sized wind power grid-connected inverter",
+      "subject": [
+        "(B/T) Technology",
+        "(PHY) Energy",
+        "(PHY) Engineering - Mechanical"
+      ],
+      "institution": [
+        "College of Electrical & Information Engineering, Beihua University, Jilin, China",
+        "Division of Electrical, Electronics & Control Engineering, Kongju National University, Kongju, Korea",
+        "Jilin Chemical Fiber Group Co., Ltd, Jilin, China"
+      ],
+      "journal": "International Journal of Electrical Engineering & Education",
+      "publisher": "SAGE Publications",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yan Ming Cheng",
+        "Cheng Liu",
+        "Jing Wu",
+        "Il Kyoo Le",
+        "Jing Niu"
+      ],
+      "urls": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
+      "articletype": [
+        "Article in Press",
+        "Research Article"
+      ],
+      "retractiondate": "12/15/2021 0:00",
+      "retractiondoi": "10.1177/00207209211064059",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/31/2020 0:00",
+      "originalpaperdoi": "10.1177/0020720920928548",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Paper Mill"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0051f662220d898e3c1",
+      "recordId": "25025",
+      "title": "Changes in the characteristics of atmosphere\u2013ocean interactions over the South China Sea during summer",
+      "subject": [
+        "(ENV) Climatology"
+      ],
+      "institution": [
+        "Division of Polar Climate Change Research, Korea Polar Research Institute, Inchon, South Korea",
+        "Department of Marine Sciences and Convergent Technology, Hanyang University, ERICA, Seoul, South Korea",
+        "Department of Atmospheric Science, Kongju National University, Gongju, South Korea"
+      ],
+      "journal": "Climate Dynamics",
+      "publisher": "Springer",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Hye Yeong Jang",
+        "Sang Wook Yeh",
+        "Eun Chul Chang",
+        "Baek Min Kim"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/13/2014 0:00",
+      "retractiondoi": "10.1007/s00382-014-2150-4",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/13/2014 0:00",
+      "originalpaperdoi": "10.1007/s00382-014-2150-4",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0151f662220d898ec9b",
+      "recordId": "22745",
+      "title": "Experimental evaluation of volume stability of rapidly-cooled steel slag [RCSS] as fine aggregate for concrete",
+      "subject": [
+        "(PHY) Engineering - Structural",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Dept. of Architecture Engineering, Kongju National University, Cheonan, 330-717, Korea",
+        "Research Center, Hanil Cement Company Ltd., Daejeon, 306-802, Korea",
+        "ECM Technology, Cheonan, 330-717, Korea"
+      ],
+      "journal": "KSCE Journal of Civil Engineering",
+      "publisher": "Springer",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "Jin Man Kim",
+        "Sung Hyun Cho",
+        "Eun Gu Kwak"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/1/2015 0:00",
+      "retractiondoi": "10.1007/s12205-014-0328-2",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/31/2014 0:00",
+      "originalpaperdoi": "10.1007/s12205-014-0328-2",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f1b4",
+      "recordId": "21438",
+      "title": "A Hot Pepper cDNA Encoding Ascorbate Peroxidase Is Induced during the Incompatible Interaction with Virus and Bacteria",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Microbiology",
         "(BLS) Plant Biology/Botany",
         "(HSC) Medicine - Alternative"
       ],
-      "Institution": [
+      "institution": [
         "Graduate School of Biotechnology, Korea University, Seoul 136-701, Korea",
         "Department of Biological Science, Kongju National University, Kongju 314-701, Korea"
       ],
-      "Journal": "Molecules and Cells",
-      "Publisher": "Korean Society for Molecular and Cellular Biology",
-      "Country": [
+      "journal": "Molecules and Cells",
+      "publisher": "Korean Society for Molecular and Cellular Biology",
+      "country": [
         "South Korea"
       ],
-      "Author": [
+      "author": [
         "Tae Hyoung Yoo",
         "Chang Jin Park",
         "Gil Je Lee",
@@ -93,177 +373,119 @@
         "Ki Hyeong Rhee",
         "Kyung Hee Paek"
       ],
-      "URLS": "http://retractionwatch.com/?s=Kyung-Hee+Paek",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=Kyung-Hee+Paek",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/21/2013 0:00",
-      "RetractionDOI": "10.1007/s10059-013-3069-z",
-      "RetractionPubMedID": "23456341.0",
-      "OriginalPaperDate": "8/31/2002 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "12243356.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/21/2013 0:00",
+      "retractiondoi": "10.1007/s10059-013-3069-z",
+      "retractionpubmedid": "23456341.0",
+      "originalpaperdate": "8/31/2002 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "12243356.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data",
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343359",
-      "Record ID": "48806",
-      "Title": "Graph based CNN Algorithm to Detect Spammer Activity Over Social Media",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology",
-        "(SOC) Communications"
-      ],
-      "Institution": [
-        "Krishna Engineering College, Ghaziabad, Up, Ghaziabad, India",
-        "The West Bengal National University of Juridical Sciences, Kolkata, India",
-        "Department of Computer Science and Engineering, Kongju National University, Cheonan 31080, Korea",
-        "Maharaja Surajmal Institute of Technology, Delhi, India",
-        "Model Institute of Engineering and Technology, Jammu, J&K, India",
-        "Department of Computing and Engineering, University of Gloucestershire, Gloucestershir, UK"
-      ],
-      "Journal": "IETE Journal of Research",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "India",
-        "South Korea",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Aditya Tandon",
-        "Shouvik Kumar Guha",
-        "Junaid Rashid",
-        "Jungeun Kim",
-        "Mamta Gahlan",
-        "Mohammad Shabaz",
-        "Nasreen Anjum"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/25/2023 0:00",
-      "RetractionDOI": "10.1080/03772063.2023.2262829",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/14/2022 0:00",
-      "OriginalPaperDOI": "10.1080/03772063.2022.2061610",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23466e6",
-      "Record ID": "35535",
-      "Title": "Control strategy and security of small and medium-sized wind power grid-connected inverter",
-      "Subject": [
-        "(B/T) Technology",
-        "(PHY) Energy",
-        "(PHY) Engineering - Mechanical"
-      ],
-      "Institution": [
-        "College of Electrical & Information Engineering, Beihua University, Jilin, China",
-        "Division of Electrical, Electronics & Control Engineering, Kongju National University, Kongju, Korea",
-        "Jilin Chemical Fiber Group Co., Ltd, Jilin, China"
-      ],
-      "Journal": "International Journal of Electrical Engineering & Education",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yan Ming Cheng",
-        "Cheng Liu",
-        "Jing Wu",
-        "Il Kyoo Le",
-        "Jing Niu"
-      ],
-      "URLS": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
-      "ArticleType": [
-        "Article in Press",
-        "Research Article"
-      ],
-      "RetractionDate": "12/15/2021 0:00",
-      "RetractionDOI": "10.1177/00207209211064059",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/31/2020 0:00",
-      "OriginalPaperDOI": "10.1177/0020720920928548",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Fake Peer Review",
-        "+Paper Mill"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234a2c8",
-      "Record ID": "20155",
-      "Title": "Considerations on coordinated protection by connecting distributed generators to power system",
-      "Subject": [
+      "_id": "687cf0721f662220d898f6ae",
+      "recordId": "20155",
+      "title": "Considerations on coordinated protection by connecting distributed generators to power system",
+      "subject": [
         "(PHY) Energy",
         "(PHY) Engineering - Electrical"
       ],
-      "Institution": [
+      "institution": [
         "Department of Electronic Engineering, Kumoh National Institute of Technology, 61 Daehak-ro, Gumi, Gyeongbuk, South Korea",
         "Division of Electrical, Electronic and Control Engineering, Kongju National University, 1223-24 Cheonan Dae-ro, Cheonan, Chungnam, South Korea"
       ],
-      "Journal": "Journal of Fundamental and Applied Sciences",
-      "Publisher": "University of El Qued",
-      "Country": [
+      "journal": "Journal of Fundamental and Applied Sciences",
+      "publisher": "University of El Qued",
+      "country": [
         "South Korea"
       ],
-      "Author": [
+      "author": [
         "H J Lee",
         "S M Baek"
       ],
-      "URLS": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/16/2018 0:00",
-      "OriginalPaperDOI": "10.4314/jfas.v10i5s.72",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/16/2018 0:00",
+      "originalpaperdoi": "10.4314/jfas.v10i5s.72",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Removed",
         "+Withdrawn to Publish in Different Journal"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c953",
-      "Record ID": "10245",
-      "Title": "Long-term fluctuation in sedimentary remains of Aegagropila linnaei in Lake Takkobu in Kushiro Mire, Northern Japan",
-      "Subject": [
+      "_id": "687cf0721f662220d898f6b0",
+      "recordId": "20153",
+      "title": "Construction of test-bed system of voltage management system to apply physical power system",
+      "subject": [
+        "(PHY) Engineering - Electrical"
+      ],
+      "institution": [
+        "Division of Electrical, Electronic and Control Engineering, Kongju National University, Cheonan, Chungnam, South Korea"
+      ],
+      "journal": "Journal of Fundamental and Applied Sciences",
+      "publisher": "University of El Qued",
+      "country": [
+        "South Korea"
+      ],
+      "author": [
+        "S M Baek"
+      ],
+      "urls": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "12/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/16/2018 0:00",
+      "originalpaperdoi": "10.4314/jfas.v10i5s.74",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information",
+        "+Removed",
+        "+Withdrawn to Publish in Different Journal"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b41f662220d8991d39",
+      "recordId": "10245",
+      "title": "Long-term fluctuation in sedimentary remains of Aegagropila linnaei in Lake Takkobu in Kushiro Mire, Northern Japan",
+      "subject": [
         "(BLS) Plant Biology/Botany",
         "(ENV) Ground/Surface Water"
       ],
-      "Institution": [
+      "institution": [
         "Laboratory of Forest Ecosystem Management, Division of Forest Sciences, Department of Agro-Environmental Sciences, Sasaguri, Fukuoka",
         "Division of Forest Resources, College of Agriculture and Life Sciences, Chonnam National University, Gwangju",
         "Marimo Laboratory, Lake Akan Eco-Museum Center, Akan, Hokkaido",
@@ -274,14 +496,14 @@
         "Department of Forest Resources, College of Industrial Sciences, Kongju National University, Yesaneup, Yesangun, Chungcheongnamdo",
         "Department of Forest Resources, College of Forest and Environmental Sciences, Kangwon National University, Chuncheon, Gangwondo"
       ],
-      "Journal": "Journal of the Faculty of Agriculture, Kyushu University",
-      "Publisher": "Kyushu University",
-      "Country": [
+      "journal": "Journal of the Faculty of Agriculture, Kyushu University",
+      "publisher": "Kyushu University",
+      "country": [
         "Iceland",
         "Japan",
         "South Korea"
       ],
-      "Author": [
+      "author": [
         "Young Sang Ahn",
         "Tamao Kasahara",
         "Kyoichi Otsuki",
@@ -294,241 +516,32 @@
         "Jung Il Seo",
         "Kun Woo Chun"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2015 0:00",
-      "OriginalPaperDate": "2/1/2015 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/1/2015 0:00",
+      "originalpaperdate": "2/1/2015 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Notice - Limited or No Information",
         "+Objections by Author(s)"
       ],
-      "Paywalled": "Unknown",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2348fdb",
-      "Record ID": "25025",
-      "Title": "Changes in the characteristics of atmosphere\u2013ocean interactions over the South China Sea during summer",
-      "Subject": [
-        "(ENV) Climatology"
-      ],
-      "Institution": [
-        "Division of Polar Climate Change Research, Korea Polar Research Institute, Inchon, South Korea",
-        "Department of Marine Sciences and Convergent Technology, Hanyang University, ERICA, Seoul, South Korea",
-        "Department of Atmospheric Science, Kongju National University, Gongju, South Korea"
-      ],
-      "Journal": "Climate Dynamics",
-      "Publisher": "Springer",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Hye Yeong Jang",
-        "Sang Wook Yeh",
-        "Eun Chul Chang",
-        "Baek Min Kim"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/13/2014 0:00",
-      "RetractionDOI": "10.1007/s00382-014-2150-4",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/13/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s00382-014-2150-4",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014
-    },
-    {
-      "_id": "6855d574b14f7811d234a2ca",
-      "Record ID": "20153",
-      "Title": "Construction of test-bed system of voltage management system to apply physical power system",
-      "Subject": [
-        "(PHY) Engineering - Electrical"
-      ],
-      "Institution": [
-        "Division of Electrical, Electronic and Control Engineering, Kongju National University, Cheonan, Chungnam, South Korea"
-      ],
-      "Journal": "Journal of Fundamental and Applied Sciences",
-      "Publisher": "University of El Qued",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "S M Baek"
-      ],
-      "URLS": "http://retractionwatch.com/2019/02/20/journal-retracts-more-than-400-papers-at-once/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "12/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/16/2018 0:00",
-      "OriginalPaperDOI": "10.4314/jfas.v10i5s.74",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information",
-        "+Removed",
-        "+Withdrawn to Publish in Different Journal"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2340cbd",
-      "Record ID": "58724",
-      "Title": "Enhancing Data Quality Management in Structural Health Monitoring through Irregular Time-Series Data Anomaly Detection Using IoT Sensors",
-      "Subject": [
-        "(B/T) Data Science",
-        "(B/T) Technology",
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Department of Regional Infrastructure Engineering, Kangwon National University, Chuncheon 24341, Republic of Korea",
-        "2 Department of Agricultural Civil Engineering, Kyungpook National University, Daegu 41566, Republic of Korea",
-        "3 Department of Rural Construction Engineering, Kongju National University, Yesan 32439, Republic of Korea"
-      ],
-      "Journal": "Buildings",
-      "Publisher": "MDPI",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Junhwi Cho",
-        "Kyoung Jae Lim",
-        "Jonggun Kim",
-        "Yongchul Shin",
-        "Youn Shik Park",
-        "Jaeheum Yeon"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/11/2024 0:00",
-      "RetractionDOI": "10.3390/buildings14103223",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/19/2024 0:00",
-      "OriginalPaperDOI": "10.3390/buildings14072223",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Methods",
-        "+Investigation by Journal/Publisher",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2024,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2344ad6",
-      "Record ID": "42766",
-      "Title": "Pest diagnosis system based on deep learning using col- lective intelligence",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(PHY) Engineering - General"
-      ],
-      "Institution": [
-        "Department of Computer Engineering, Kongju National University, Gongju, Republic of Korea"
-      ],
-      "Journal": "The International Journal of Electrical Engineering & Education",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Hoo Young Lee",
-        "Dong Hyun Kim",
-        "Koo Rack Park"
-      ],
-      "URLS": "https://retractionwatch.com/2021/12/15/journal-retracts-122-papers-at-once/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/15/2021 0:00",
-      "RetractionDOI": "10.1177/00207209211064046",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/18/2019 0:00",
-      "OriginalPaperDOI": "10.1177/0020720919833052",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23498b5",
-      "Record ID": "22745",
-      "Title": "Experimental evaluation of volume stability of rapidly-cooled steel slag [RCSS] as fine aggregate for concrete",
-      "Subject": [
-        "(PHY) Engineering - Structural",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Dept. of Architecture Engineering, Kongju National University, Cheonan, 330-717, Korea",
-        "Research Center, Hanil Cement Company Ltd., Daejeon, 306-802, Korea",
-        "ECM Technology, Cheonan, 330-717, Korea"
-      ],
-      "Journal": "KSCE Journal of Civil Engineering",
-      "Publisher": "Springer",
-      "Country": [
-        "South Korea"
-      ],
-      "Author": [
-        "Jin Man Kim",
-        "Sung Hyun Cho",
-        "Eun Gu Kwak"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/1/2015 0:00",
-      "RetractionDOI": "10.1007/s12205-014-0328-2",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/31/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s12205-014-0328-2",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2014
+      "paywalled": "Unknown",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -536,111 +549,111 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 2,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

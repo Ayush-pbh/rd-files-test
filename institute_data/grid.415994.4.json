@@ -1,25 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687883d",
+    "_id": "687ccbab09adbf7aa61b945e",
     "grid_id": "grid.415994.4",
     "institute_name": "Liverpool Hospital",
     "country": "Australia",
     "retracted_record_ids": [
-      "53167",
-      "33308"
+      "33308",
+      "53167"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342259",
-      "Record ID": "53167",
-      "Title": "Asia-Pacific guidelines for standardization of appropriate selection, placement, and management of vascular access devices",
-      "Subject": [
+      "_id": "687cef811f662220d898763f",
+      "recordId": "53167",
+      "title": "Asia-Pacific guidelines for standardization of appropriate selection, placement, and management of vascular access devices",
+      "subject": [
         "(B/T) International Relations",
         "(B/T) Technology",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biomedical Imaging, University of Malaya, Kuala Lumpur, Malaysia",
         "Rajiv Gandhi Cancer Institute & Research Centre Sector 5, West Delhi, New Delhi, DL, India",
         "The Medicity Hospital, Gurgaon, Haryana, India",
@@ -31,9 +31,9 @@
         "Department of Internal Medicine, National Taiwan University Hospital, Taipei City",
         "Director of Emergency Department, Kyoto Katsura Hospital, Kyoto City, Kyoto Prefecture, Japan"
       ],
-      "Journal": "Journal of Vascular Access",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "Journal of Vascular Access",
+      "publisher": "SAGE Publications",
+      "country": [
         "Australia",
         "China",
         "India",
@@ -43,7 +43,7 @@
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Anushya Vijayananthan",
         "Dinesh Bhurani",
         "Harsh Sapra",
@@ -55,98 +55,100 @@
         "Wang Huei Sheng",
         "Yusuke Terasaka"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/22/2023 0:00",
-      "RetractionDOI": "10.1177/11297298231181824",
-      "RetractionPubMedID": "37349985.0",
-      "OriginalPaperDate": "1/23/2023 0:00",
-      "OriginalPaperDOI": "10.1177/11297298221150664",
-      "OriginalPaperPubMedID": "36688479.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/22/2023 0:00",
+      "retractiondoi": "10.1177/11297298231181824",
+      "retractionpubmedid": "37349985.0",
+      "originalpaperdate": "1/23/2023 0:00",
+      "originalpaperdoi": "10.1177/11297298221150664",
+      "originalpaperpubmedid": "36688479.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346f96",
-      "Record ID": "33308",
-      "Title": "Adenosine versus intravenous calcium channel antagonists for the treatment of supraventricular tachycardia in adults (Pub 2)",
-      "Subject": [
+      "_id": "687cefcc1f662220d898c37c",
+      "recordId": "33308",
+      "title": "Adenosine versus intravenous calcium channel antagonists for the treatment of supraventricular tachycardia in adults (Pub 2)",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Emergency Medicine Research Unit, Liverpool Hospital, Liverpool, Australia",
         "Department of Emergency Medicine, St George Hospital, Kogarah, Australia"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "Australia"
       ],
-      "Author": [
+      "author": [
         "Anna Holdgate",
         "Angeline Foo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article",
         "Revision"
       ],
-      "RetractionDate": "2/15/2012 0:00",
-      "RetractionDOI": "10.1002/14651858.CD005154.pub3",
-      "RetractionPubMedID": "22336809.0",
-      "OriginalPaperDate": "10/18/2006 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD005154.pub2",
-      "OriginalPaperPubMedID": "17054240.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/15/2012 0:00",
+      "retractiondoi": "10.1002/14651858.CD005154.pub3",
+      "retractionpubmedid": "22336809.0",
+      "originalpaperdate": "10/18/2006 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD005154.pub2",
+      "originalpaperpubmedid": "17054240.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2006,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2012",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

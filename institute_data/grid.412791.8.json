@@ -1,26 +1,213 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878998",
+    "_id": "687ccbab09adbf7aa61b95b9",
     "grid_id": "grid.412791.8",
     "institute_name": "H\u00f4pital Farhat Hached",
     "country": "Tunisia",
     "retracted_record_ids": [
-      "325",
       "3074",
+      "1329",
       "51116",
-      "1329"
+      "325"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ef65",
-      "Record ID": "325",
-      "Title": "Single autologous stem-cell transplantation followed by maintenance therapy with thalidomide is superior to double autologous transplantation in multiple myeloma: results of a multicenter randomized clinical trial",
-      "Subject": [
+      "_id": "687cef891f662220d8987e3e",
+      "recordId": "51116",
+      "title": "2-Day versus C-reactive protein guided antibiotherapy with levofloxacin in acute COPD exacerbation: A randomized controlled trial",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Pulmonology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Emergency Department, Fattouma Bourguiba University Hospital, Monastir, Tunisia",
+        "Research Laboratory LR12SP18, Monastir University, Monastir, Tunisia",
+        "Pneumology Department, Farhat Hached University Hospital, Sousse, Tunisia",
+        "Medis Laboratories, Tunis, Tunisia",
+        "DACIMA Consulting, Tunis, Tunisia",
+        "Emergency Department, Farhat Hached University Hospital, Sousse, Tunisia",
+        "Department of Preventive Medicine, Fattouma Bourguiba University Hospital, Monastir, Tunisia",
+        "Emergency Department, Sahloul University Hospital, Sousse, Tunisia"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Tunisia"
+      ],
+      "author": [
+        "Msolli Mohamed Amine",
+        "Messous Selma",
+        "Sekma Adel",
+        "Bel haj ali Khaoula",
+        "Khalil Mohamed Hassene",
+        "Trabelsi Imen",
+        "Abdelghani Ahmed",
+        "Ben Brahim Nadia",
+        "Ben Dhaya Yosra",
+        "Razgallah Rabie",
+        "Grissa Mohamed Habib",
+        "Beltaief Kaouthar",
+        "Methamem Mehdi",
+        "Belguith Asma",
+        "Bouida Wahid",
+        "Boukef Riadh",
+        "Boubaker Hamdi",
+        "Nouira Semir",
+        "GREAT Network"
+      ],
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/18/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0297557",
+      "retractionpubmedid": "38236909.0",
+      "originalpaperdate": "5/20/2021 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0251716",
+      "originalpaperpubmedid": "34015041.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Duplication of/in Article",
+        "+Investigation by Journal/Publisher",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Objections by Author(s)",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d89938c7",
+      "recordId": "3074",
+      "title": "Effect of Obesity at the Pathologic Response to Neoadjuvant Chemotherapy Among Premenopausal Tunisian Women with Breast Cancer",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Medical Oncology, CHU Farhat Hached, Sousse, Tunisia"
+      ],
+      "journal": "Obesity",
+      "publisher": "Wiley",
+      "country": [
+        "Tunisia"
+      ],
+      "author": [
+        "Kacem Mahmoudi",
+        "Awatef Msolly",
+        "Amel Landolsi",
+        "Jihen Maatoug Maaloul",
+        "Slim ben Ahmed"
+      ],
+      "urls": "http://retractionwatch.com/2012/04/19/whistling-the-same-tunisia-serial-plagiarists-plague-the-oncology-literature/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/1/2011 0:00",
+      "retractiondoi": "10.1038/oby.2010.151",
+      "retractionpubmedid": "20523300.0",
+      "originalpaperdate": "5/6/2010 0:00",
+      "originalpaperdoi": "10.1038/oby.2010.101",
+      "originalpaperpubmedid": "20448536.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Data",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "notes": "Note: Authors names on article appear to be surname first, e.g. Mahmoudi Kacem, Msolly Awatef, etc",
+      "year": "2010",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d31f662220d8993f72",
+      "recordId": "1329",
+      "title": "First-line Thalidomide-dexamethasone Therapy in Preparation for Autologous Stem Cell Transplantation in Young Patients (61 years) with Symptomatic Multiple Myeloma",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Centre National de Greffe de Moelle Osseuse, Tunis, Tunisia",
+        "Hopital La Rabta, Tunis, Tunisia",
+        "Hopital Farhat Hached, Sousse, Tunisia",
+        "Hopital H\u00e9di Chaker, Sfax, Tunisia",
+        "Hopital Aziza Othmana, Tunis, Tunisia",
+        "Laboratoire de cytogenetique, Hopital Farhat Hached, Sousse, Tunisia",
+        "Institut National de la Sante Publique, Tunis, Tunisia",
+        "Centre National de Transfusion Sanguine, Tunis, Tunisia",
+        "Institut Pasteur de Tunis, Tunis, Tunisia"
+      ],
+      "journal": "Bone Marrow Transplantation",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "Tunisia"
+      ],
+      "author": [
+        "Abderrahman Abdelkefi",
+        "Lamia Torjman",
+        "Neila ben Romdhane",
+        "Saloua Ladeb",
+        "Halima el Omri",
+        "Tarek ben Othman",
+        "Moez Elloumi",
+        "Hatem Bellaj",
+        "Amel Lakhal",
+        "Ramzi Jeddi",
+        "Lamia Aissaoui",
+        "Ali Saad",
+        "Mohamed Hsairi",
+        "Kamel Boukef",
+        "Koussay Dellagi",
+        "Abdeladhim ben Abdeladhim"
+      ],
+      "urls": "http://retractionwatch.com/2010/12/06/our-computer-ate-the-data-expression-of-concern-over-blood-thinner-study-raises-concerns-itself/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/13/2005 0:00",
+      "retractiondoi": "10.1038/sj.bmt.1705050",
+      "retractionpubmedid": "19513083.0",
+      "originalpaperdate": "4/23/2005 0:00",
+      "originalpaperdoi": "10.1038/sj.bmt.1705050",
+      "originalpaperpubmedid": "15968290.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "notes": "Abderrahman Abdelkefi named responsible for errors",
+      "year": "2005",
+      "noticeYear": "2005",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d899434b",
+      "recordId": "325",
+      "title": "Single autologous stem-cell transplantation followed by maintenance therapy with thalidomide is superior to double autologous transplantation in multiple myeloma: results of a multicenter randomized clinical trial",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Centre National de Greffe de Moelle Osseuse, Tunis",
         "Hospital La Rabta, Tunis",
         "Hospital Farhat Hached, Sousse",
@@ -32,12 +219,12 @@
         "Centre National de Transfusion Sanguine, Tunis",
         "Institut Pasteur de Tunis, Tunisia"
       ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
         "Tunisia"
       ],
-      "Author": [
+      "author": [
         "Abderrahman Abdelkefi",
         "Saloua Ladeb",
         "Lamia Torjman",
@@ -60,252 +247,69 @@
         "Koussay Dellagi",
         "Abdeladhim ben Abdeladhim"
       ],
-      "URLS": "http://retractionwatch.com/2010/12/06/our-computer-ate-the-data-expression-of-concern-over-blood-thinner-study-raises-concerns-itself/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/12/06/our-computer-ate-the-data-expression-of-concern-over-blood-thinner-study-raises-concerns-itself/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/11/2009 0:00",
-      "RetractionDOI": "10.1182/blood-2009-05-222927",
-      "RetractionPubMedID": "19520824.0",
-      "OriginalPaperDate": "2/15/2008 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2007-07-101212",
-      "OriginalPaperPubMedID": "17875806.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/11/2009 0:00",
+      "retractiondoi": "10.1182/blood-2009-05-222927",
+      "retractionpubmedid": "19520824.0",
+      "originalpaperdate": "2/15/2008 0:00",
+      "originalpaperdoi": "10.1182/blood-2007-07-101212",
+      "originalpaperpubmedid": "17875806.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Methods"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2008,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e4e1",
-      "Record ID": "3074",
-      "Title": "Effect of Obesity at the Pathologic Response to Neoadjuvant Chemotherapy Among Premenopausal Tunisian Women with Breast Cancer",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Medical Oncology, CHU Farhat Hached, Sousse, Tunisia"
-      ],
-      "Journal": "Obesity",
-      "Publisher": "Wiley",
-      "Country": [
-        "Tunisia"
-      ],
-      "Author": [
-        "Kacem Mahmoudi",
-        "Awatef Msolly",
-        "Amel Landolsi",
-        "Jihen Maatoug Maaloul",
-        "Slim ben Ahmed"
-      ],
-      "URLS": "http://retractionwatch.com/2012/04/19/whistling-the-same-tunisia-serial-plagiarists-plague-the-oncology-literature/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2011 0:00",
-      "RetractionDOI": "10.1038/oby.2010.151",
-      "RetractionPubMedID": "20523300.0",
-      "OriginalPaperDate": "5/6/2010 0:00",
-      "OriginalPaperDOI": "10.1038/oby.2010.101",
-      "OriginalPaperPubMedID": "20448536.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Data",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "Notes": "Note: Authors names on article appear to be surname first, e.g. Mahmoudi Kacem, Msolly Awatef, etc",
-      "notice_year": 2011,
-      "year": 2010,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342a58",
-      "Record ID": "51116",
-      "Title": "2-Day versus C-reactive protein guided antibiotherapy with levofloxacin in acute COPD exacerbation: A randomized controlled trial",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Pulmonology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Emergency Department, Fattouma Bourguiba University Hospital, Monastir, Tunisia",
-        "Research Laboratory LR12SP18, Monastir University, Monastir, Tunisia",
-        "Pneumology Department, Farhat Hached University Hospital, Sousse, Tunisia",
-        "Medis Laboratories, Tunis, Tunisia",
-        "DACIMA Consulting, Tunis, Tunisia",
-        "Emergency Department, Farhat Hached University Hospital, Sousse, Tunisia",
-        "Department of Preventive Medicine, Fattouma Bourguiba University Hospital, Monastir, Tunisia",
-        "Emergency Department, Sahloul University Hospital, Sousse, Tunisia"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Tunisia"
-      ],
-      "Author": [
-        "Msolli Mohamed Amine",
-        "Messous Selma",
-        "Sekma Adel",
-        "Bel haj ali Khaoula",
-        "Khalil Mohamed Hassene",
-        "Trabelsi Imen",
-        "Abdelghani Ahmed",
-        "Ben Brahim Nadia",
-        "Ben Dhaya Yosra",
-        "Razgallah Rabie",
-        "Grissa Mohamed Habib",
-        "Beltaief Kaouthar",
-        "Methamem Mehdi",
-        "Belguith Asma",
-        "Bouida Wahid",
-        "Boukef Riadh",
-        "Boubaker Hamdi",
-        "Nouira Semir",
-        "GREAT Network"
-      ],
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/18/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0297557",
-      "RetractionPubMedID": "38236909.0",
-      "OriginalPaperDate": "5/20/2021 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0251716",
-      "OriginalPaperPubMedID": "34015041.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Duplication of/in Article",
-        "+Investigation by Journal/Publisher",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Objections by Author(s)",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234eb8c",
-      "Record ID": "1329",
-      "Title": "First-line Thalidomide-dexamethasone Therapy in Preparation for Autologous Stem Cell Transplantation in Young Patients (61 years) with Symptomatic Multiple Myeloma",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Centre National de Greffe de Moelle Osseuse, Tunis, Tunisia",
-        "Hopital La Rabta, Tunis, Tunisia",
-        "Hopital Farhat Hached, Sousse, Tunisia",
-        "Hopital H\u00e9di Chaker, Sfax, Tunisia",
-        "Hopital Aziza Othmana, Tunis, Tunisia",
-        "Laboratoire de cytogenetique, Hopital Farhat Hached, Sousse, Tunisia",
-        "Institut National de la Sante Publique, Tunis, Tunisia",
-        "Centre National de Transfusion Sanguine, Tunis, Tunisia",
-        "Institut Pasteur de Tunis, Tunis, Tunisia"
-      ],
-      "Journal": "Bone Marrow Transplantation",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "Tunisia"
-      ],
-      "Author": [
-        "Abderrahman Abdelkefi",
-        "Lamia Torjman",
-        "Neila ben Romdhane",
-        "Saloua Ladeb",
-        "Halima el Omri",
-        "Tarek ben Othman",
-        "Moez Elloumi",
-        "Hatem Bellaj",
-        "Amel Lakhal",
-        "Ramzi Jeddi",
-        "Lamia Aissaoui",
-        "Ali Saad",
-        "Mohamed Hsairi",
-        "Kamel Boukef",
-        "Koussay Dellagi",
-        "Abdeladhim ben Abdeladhim"
-      ],
-      "URLS": "http://retractionwatch.com/2010/12/06/our-computer-ate-the-data-expression-of-concern-over-blood-thinner-study-raises-concerns-itself/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/13/2005 0:00",
-      "RetractionDOI": "10.1038/sj.bmt.1705050",
-      "RetractionPubMedID": "19513083.0",
-      "OriginalPaperDate": "4/23/2005 0:00",
-      "OriginalPaperDOI": "10.1038/sj.bmt.1705050",
-      "OriginalPaperPubMedID": "15968290.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Methods"
-      ],
-      "Paywalled": "No",
-      "Notes": "Abderrahman Abdelkefi named responsible for errors",
-      "notice_year": 2005,
-      "year": 2005,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2009",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -313,32 +317,32 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

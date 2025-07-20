@@ -1,35 +1,134 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878f6b",
+    "_id": "687ccbab09adbf7aa61b9b8c",
     "grid_id": "grid.411778.c",
     "institute_name": "University Medical Centre Mannheim",
     "country": "Germany",
     "retracted_record_ids": [
-      "19347",
-      "3036",
-      "8520",
-      "3900",
-      "8111",
-      "21963",
-      "3899",
-      "40932",
+      "3072",
       "2596",
-      "3898",
-      "3072"
+      "8111",
+      "40932",
+      "19347",
+      "3900",
+      "3899",
+      "3036",
+      "21963",
+      "8520",
+      "3898"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a5ed",
-      "Record ID": "19347",
-      "Title": "Vemurafenib in Multiple Nonmelanoma Cancers with BRAF V600 Mutations",
-      "Subject": [
+      "_id": "687cefb11f662220d898a5e1",
+      "recordId": "40932",
+      "title": "Hepatic stellate cell mediates transcription of TNFSF14 in hepatocellular carcinoma cells via H2S/CSE-JNK/JunB signaling pathway",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Gastroenterology and Hepatology, Beijing You\u2019an Hospital affiliated with Capital Medical University, Beijing, 100069, China",
+        "Beijing Institute of Hepatology, Beijing You\u2019 An Hospital, Capital Medical University, Beijing, 100069, China",
+        "Department of Medicine II, University Medical Center Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, 68167, Germany"
+      ],
+      "journal": "Cell Death & Disease",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China",
+        "Germany"
+      ],
+      "author": [
+        "Yanan Ma",
+        "Shanshan Wang",
+        "Yongle Wu",
+        "Bihan Liu",
+        "Lei Li",
+        "Wenjing Wang",
+        "Honglei Weng",
+        "Huiguo Ding"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/30/2022 0:00",
+      "retractiondoi": "10.1038/s41419-022-05464-7",
+      "retractionpubmedid": "36450708.0",
+      "originalpaperdate": "3/15/2022 0:00",
+      "originalpaperdoi": "10.1038/s41419-022-04678-z",
+      "originalpaperpubmedid": "35292636.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/D8D87180B2C062DF17A8DB1CBDD7A7;",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf01a1f662220d898efa8",
+      "recordId": "21963",
+      "title": "cGMP-phosphodiesterase 6, transducin and Wnt5a/Frizzled-2-signaling control cGMP and Ca2+ homeostasis in melanoma cells",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Skin Cancer Unit, German Cancer Research Center, 69120, Heidelberg, Germany",
+        "Department of Dermatology, University of Heidelberg, University Hospital Mannheim, 68135, Mannheim, Germany",
+        "Department of Cell Signalling, A.N. Belozersky Institute of Physico-Chemical Biology, M.V. Lomonosov Moscow State University, 119991, Moscow, Russia",
+        "Department of Dermatology, University Hospital Essen, 45122, Essen, Germany"
+      ],
+      "journal": "Cellular and Molecular Life Sciences (CMLS)",
+      "publisher": "Springer",
+      "country": [
+        "Germany",
+        "Russia"
+      ],
+      "author": [
+        "Alexandr V Bazhin",
+        "Vojtech Tambor",
+        "Boyan Dikov",
+        "Pavel P Philippov"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/9/2020 0:00",
+      "retractiondoi": "10.1007/s00018-019-03437-2",
+      "retractionpubmedid": "31919573.0",
+      "originalpaperdate": "11/28/2009 0:00",
+      "originalpaperdoi": "10.1007/s00018-009-0214-0",
+      "originalpaperpubmedid": "19946729.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898f9d3",
+      "recordId": "19347",
+      "title": "Vemurafenib in Multiple Nonmelanoma Cancers with BRAF V600 Mutations",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Memorial Sloan Kettering Cancer Center, New York, USA",
         "Vanderbilt University Medical Center, Nashville, USA",
         "University of Texas M.D. Anderson Cancer Center, Houston, USA",
@@ -48,9 +147,9 @@
         "Hospital Universitario Madrid Sanchinarro, Madrid, Spain",
         "F Hoffmann\u2013La Roche, Basel, Switzerland"
       ],
-      "Journal": "NEJM: The New England Journal of Medicine",
-      "Publisher": "Massachusetts Medical Society",
-      "Country": [
+      "journal": "NEJM: The New England Journal of Medicine",
+      "publisher": "Massachusetts Medical Society",
+      "country": [
         "France",
         "Germany",
         "Spain",
@@ -58,7 +157,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "David M Hyman",
         "Igor Puzanov",
         "Vivek Subbiah",
@@ -83,84 +182,42 @@
         "Josep Tabernero",
         "Jose Baselga"
       ],
-      "URLS": "http://retractionwatch.com/2018/10/12/more-than-a-dozen-papers-by-sloan-kettering-researchers-have-now-been-updated-with-financial-disclosures/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2018/10/12/more-than-a-dozen-papers-by-sloan-kettering-researchers-have-now-been-updated-with-financial-disclosures/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "10/18/2018 0:00",
-      "RetractionDOI": "10.1056/NEJMx180036",
-      "RetractionPubMedID": "30338958.0",
-      "OriginalPaperDate": "8/20/2015 0:00",
-      "OriginalPaperDOI": "10.1056/NEJMoa1502309",
-      "OriginalPaperPubMedID": "26287849.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "10/18/2018 0:00",
+      "retractiondoi": "10.1056/NEJMx180036",
+      "retractionpubmedid": "30338958.0",
+      "originalpaperdate": "8/20/2015 0:00",
+      "originalpaperdoi": "10.1056/NEJMoa1502309",
+      "originalpaperpubmedid": "26287849.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Conflict of Interest"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e507",
-      "Record ID": "3036",
-      "Title": "Aerobic endurance training improves weight loss, body composition, and co-morbidities in patients after laparoscopic Roux-en-Y gastric bypass",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Surgery",
-        "(HSC) Sports Science"
-      ],
-      "Institution": [
-        "Department of Surgery, University Hospital Mannheim, Mannheim, Germany"
-      ],
-      "Journal": "Surgery for Obesity and Related Diseases: Official Journal of the American Society for Bariatric Surgery",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Edward Shang",
-        "Till Hasenberg"
-      ],
-      "URLS": "http://retractionwatch.com/2012/05/02/author-retracts-weight-loss-surgery-paper-after-admitting-most-if-not-all-of-the-subjects-were-made-up/;http://retractionwatch.com/category/by-author/edward-shang/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/27/2012 0:00",
-      "RetractionDOI": "10.1016/j.soard.2012.04.002",
-      "RetractionPubMedID": "22774224.0",
-      "OriginalPaperDate": "2/8/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.soard.2010.01.006",
-      "OriginalPaperPubMedID": "20510289.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Ethical Violations by Author",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2010,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d004",
-      "Record ID": "8520",
-      "Title": "In vitro analysis of integrin expression in stem cells from bone marrow and cord blood during chondrogenic differentiation",
-      "Subject": [
+      "_id": "687cf0b81f662220d89923ea",
+      "recordId": "8520",
+      "title": "In vitro analysis of integrin expression in stem cells from bone marrow and cord blood during chondrogenic differentiation",
+      "subject": [
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Otolaryngology, Head and Neck Surgery, University Hospital Mannheim, University of Heidelberg, Mannheim, Germany Institute of Transfusion Medicine and Immunology, Red Cross Blood Service of Baden-W\u00fcrttemberg/ Hessen gGmbH, Ruprecht Karls-University Heidelberg, Faculty of Clinical Medicine Mannheim, Germany"
       ],
-      "Journal": "Journal of Cellular and Molecular Medicine (JCMM)",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Journal of Cellular and Molecular Medicine (JCMM)",
+      "publisher": "Wiley",
+      "country": [
         "Germany"
       ],
-      "Author": [
+      "author": [
         "Ulrich Reinhart Goessler",
         "Peter Bugert",
         "Karen Bieback",
@@ -170,82 +227,37 @@
         "Karl H\u00f6rmann",
         "Frank Riedel"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2009 0:00",
-      "RetractionDOI": "10.1111/j.1582-4934.2009.01001.x",
-      "RetractionPubMedID": "20196791.0",
-      "OriginalPaperDate": "8/4/2008 0:00",
-      "OriginalPaperDOI": "10.1111/j.1582-4934.2008.00451.x",
-      "OriginalPaperPubMedID": "18681910.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/1/2009 0:00",
+      "retractiondoi": "10.1111/j.1582-4934.2009.01001.x",
+      "retractionpubmedid": "20196791.0",
+      "originalpaperdate": "8/4/2008 0:00",
+      "originalpaperdoi": "10.1111/j.1582-4934.2008.00451.x",
+      "originalpaperpubmedid": "18681910.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2008,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e1bf",
-      "Record ID": "3900",
-      "Title": "Pump-Assisted Enteral Nutrition Can Prevent Aspiration in Bedridden Percutaneous Endoscopic Gastrostomy Patients",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - General",
-        "(BLS) Nutrition",
-        "(HSC) Medicine - Gastroenterology"
-      ],
-      "Institution": [
-        "Department of Surgery, University Hospital Mannheim, Germany"
-      ],
-      "Journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Edward Shang",
-        "Joerg W Sturm",
-        "Stefan Post",
-        "Nicole Geiger"
-      ],
-      "URLS": "http://retractionwatch.com/2012/06/22/three-more-retractions-for-weight-loss-surgeon-edward-shang-for-making-up-data/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "6/19/2012 0:00",
-      "RetractionDOI": "10.1177/0148607112450696",
-      "RetractionPubMedID": "22715106.0",
-      "OriginalPaperDate": "5/1/2004 0:00",
-      "OriginalPaperDOI": "10.1177/0148607104028003180",
-      "OriginalPaperPubMedID": "15141412.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Falsification/Fabrication of Results",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2004,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d192",
-      "Record ID": "8111",
-      "Title": "Randomized Trial of Thymectomy in Myasthenia Gravis",
-      "Subject": [
+      "_id": "687cf0b91f662220d8992578",
+      "recordId": "8111",
+      "title": "Randomized Trial of Thymectomy in Myasthenia Gravis",
+      "subject": [
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pathology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurology, University at Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, New York",
         "the Department of Neurology, University of Rochester Medical Center, Rochester, New York",
         "Section of General Thoracic Surgery, Columbia University Medical Center, New York",
@@ -265,9 +277,9 @@
         "the Department of Neurology, Medical College of Wisconsin, Milwaukee, USA",
         "Department of Neurology, Harvard Medical School, Boston, USA"
       ],
-      "Journal": "NEJM: The New England Journal of Medicine",
-      "Publisher": "Massachusetts Medical Society",
-      "Country": [
+      "journal": "NEJM: The New England Journal of Medicine",
+      "publisher": "Massachusetts Medical Society",
+      "country": [
         "Argentina",
         "Australia",
         "Canada",
@@ -278,7 +290,7 @@
         "Thailand",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Gil I Wolfe",
         "Henry J Kaminski",
         "Inmaculada B Aban",
@@ -286,174 +298,263 @@
         "Hui Chien Kuo",
         "Gary R Cutter"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/20/big-corrections-usually-weaken-findings-recent-nejm-one-strengthened-author-says/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/20/big-corrections-usually-weaken-findings-recent-nejm-one-strengthened-author-says/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "5/25/2017 0:00",
-      "RetractionDOI": "10.1056/NEJMx170003",
-      "RetractionPubMedID": "28471717.0",
-      "OriginalPaperDate": "8/11/2016 0:00",
-      "OriginalPaperDOI": "10.1056/NEJMoa1602489",
-      "OriginalPaperPubMedID": "27509100.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "5/25/2017 0:00",
+      "retractiondoi": "10.1056/NEJMx170003",
+      "retractionpubmedid": "28471717.0",
+      "originalpaperdate": "8/11/2016 0:00",
+      "originalpaperdoi": "10.1056/NEJMoa1602489",
+      "originalpaperpubmedid": "27509100.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Methods",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349bc2",
-      "Record ID": "21963",
-      "Title": "cGMP-phosphodiesterase 6, transducin and Wnt5a/Frizzled-2-signaling control cGMP and Ca2+ homeostasis in melanoma cells",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Dermatology",
-        "(HSC) Medicine - Oncology"
+      "_id": "687cf0c91f662220d89935a5",
+      "recordId": "3900",
+      "title": "Pump-Assisted Enteral Nutrition Can Prevent Aspiration in Bedridden Percutaneous Endoscopic Gastrostomy Patients",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - General",
+        "(BLS) Nutrition",
+        "(HSC) Medicine - Gastroenterology"
       ],
-      "Institution": [
-        "Skin Cancer Unit, German Cancer Research Center, 69120, Heidelberg, Germany",
-        "Department of Dermatology, University of Heidelberg, University Hospital Mannheim, 68135, Mannheim, Germany",
-        "Department of Cell Signalling, A.N. Belozersky Institute of Physico-Chemical Biology, M.V. Lomonosov Moscow State University, 119991, Moscow, Russia",
-        "Department of Dermatology, University Hospital Essen, 45122, Essen, Germany"
+      "institution": [
+        "Department of Surgery, University Hospital Mannheim, Germany"
       ],
-      "Journal": "Cellular and Molecular Life Sciences (CMLS)",
-      "Publisher": "Springer",
-      "Country": [
-        "Germany",
-        "Russia"
+      "journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
+      "publisher": "SAGE Publications",
+      "country": [
+        "Germany"
       ],
-      "Author": [
-        "Alexandr V Bazhin",
-        "Vojtech Tambor",
-        "Boyan Dikov",
-        "Pavel P Philippov"
+      "author": [
+        "Edward Shang",
+        "Joerg W Sturm",
+        "Stefan Post",
+        "Nicole Geiger"
       ],
-      "ArticleType": [
-        "Research Article"
+      "urls": "http://retractionwatch.com/2012/06/22/three-more-retractions-for-weight-loss-surgeon-edward-shang-for-making-up-data/",
+      "articletype": [
+        "Clinical Study"
       ],
-      "RetractionDate": "1/9/2020 0:00",
-      "RetractionDOI": "10.1007/s00018-019-03437-2",
-      "RetractionPubMedID": "31919573.0",
-      "OriginalPaperDate": "11/28/2009 0:00",
-      "OriginalPaperDOI": "10.1007/s00018-009-0214-0",
-      "OriginalPaperPubMedID": "19946729.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image"
+      "retractiondate": "6/19/2012 0:00",
+      "retractiondoi": "10.1177/0148607112450696",
+      "retractionpubmedid": "22715106.0",
+      "originalpaperdate": "5/1/2004 0:00",
+      "originalpaperdoi": "10.1177/0148607104028003180",
+      "originalpaperpubmedid": "15141412.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Falsification/Fabrication of Results",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2009
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e1c0",
-      "Record ID": "3899",
-      "Title": "The Influence of Early Supplementation of Parenteral Nutrition on Quality of Life and Body Composition in Patients with Advanced Cancer",
-      "Subject": [
+      "_id": "687cf0c91f662220d89935a6",
+      "recordId": "3899",
+      "title": "The Influence of Early Supplementation of Parenteral Nutrition on Quality of Life and Body Composition in Patients with Advanced Cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Nutrition",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Surgery, University Hospital Mannheim, Germany"
       ],
-      "Journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
+      "publisher": "SAGE Publications",
+      "country": [
         "Germany"
       ],
-      "Author": [
+      "author": [
         "Edward Shang",
         "Stefan Post",
         "Christel Weiss",
         "Georg Kaehler"
       ],
-      "URLS": "http://retractionwatch.com/2012/06/22/three-more-retractions-for-weight-loss-surgeon-edward-shang-for-making-up-data/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/06/22/three-more-retractions-for-weight-loss-surgeon-edward-shang-for-making-up-data/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/19/2012 0:00",
-      "RetractionDOI": "10.1177/0148607112450696",
-      "RetractionPubMedID": "28052743.0",
-      "OriginalPaperDate": "5/1/2006 0:00",
-      "OriginalPaperDOI": "10.1177/0148607106030003222",
-      "OriginalPaperPubMedID": "16639069.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/19/2012 0:00",
+      "retractiondoi": "10.1177/0148607112450696",
+      "retractionpubmedid": "28052743.0",
+      "originalpaperdate": "5/1/2006 0:00",
+      "originalpaperdoi": "10.1177/0148607106030003222",
+      "originalpaperpubmedid": "16639069.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Falsification/Fabrication of Results",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23451fb",
-      "Record ID": "40932",
-      "Title": "Hepatic stellate cell mediates transcription of TNFSF14 in hepatocellular carcinoma cells via H2S/CSE-JNK/JunB signaling pathway",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
+      "_id": "687cf0c91f662220d89935a7",
+      "recordId": "3898",
+      "title": "Pump-assisted Versus Gravity-controlled Enteral Nutrition in Long-term Percutaneous Endoscopic Gastrostomy Patients: A Prospective Controlled Trial",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - General",
+        "(BLS) Nutrition",
+        "(HSC) Medicine - Gastroenterology"
       ],
-      "Institution": [
-        "Department of Gastroenterology and Hepatology, Beijing You\u2019an Hospital affiliated with Capital Medical University, Beijing, 100069, China",
-        "Beijing Institute of Hepatology, Beijing You\u2019 An Hospital, Capital Medical University, Beijing, 100069, China",
-        "Department of Medicine II, University Medical Center Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, 68167, Germany"
+      "institution": [
+        "Department of Surgery, University Hospital Mannheim, Germany"
       ],
-      "Journal": "Cell Death & Disease",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China",
+      "journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
+      "publisher": "SAGE Publications",
+      "country": [
         "Germany"
       ],
-      "Author": [
-        "Yanan Ma",
-        "Shanshan Wang",
-        "Yongle Wu",
-        "Bihan Liu",
-        "Lei Li",
-        "Wenjing Wang",
-        "Honglei Weng",
-        "Huiguo Ding"
+      "author": [
+        "Edward Shang",
+        "Joerg W Sturm",
+        "Stefan Post"
       ],
-      "ArticleType": [
-        "Research Article"
+      "urls": "http://retractionwatch.com/2012/06/22/three-more-retractions-for-weight-loss-surgeon-edward-shang-for-making-up-data/",
+      "articletype": [
+        "Clinical Study"
       ],
-      "RetractionDate": "11/30/2022 0:00",
-      "RetractionDOI": "10.1038/s41419-022-05464-7",
-      "RetractionPubMedID": "36450708.0",
-      "OriginalPaperDate": "3/15/2022 0:00",
-      "OriginalPaperDOI": "10.1038/s41419-022-04678-z",
-      "OriginalPaperPubMedID": "35292636.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Unreliable Data"
+      "retractiondate": "7/19/2012 0:00",
+      "retractiondoi": "10.1177/0148607112450696",
+      "retractionpubmedid": "22715106.0",
+      "originalpaperdate": "5/1/2003 0:00",
+      "originalpaperdoi": "10.1177/0148607103027003216",
+      "originalpaperpubmedid": "12757116.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Falsification/Fabrication of Results",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/D8D87180B2C062DF17A8DB1CBDD7A7;",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e6b6",
-      "Record ID": "2596",
-      "Title": "Assessment of recovery, dreaming, hemodynamics, and satisfaction in postcardiac surgery patients receiving supplementary propofol sedation with S(+)-ketamine",
-      "Subject": [
+      "_id": "687cf0cd1f662220d89938c9",
+      "recordId": "3072",
+      "title": "First Experiences with A Circular Stapled Gastro-Jejunostomy by a New Transorally Introducible Stapler System in Laparoscopic Roux-en-Y Gastric Bypass",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - General",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Surgery, University Hospital Mannheim, Mannheim, Germany",
+        "Department of Surgery, Krankenhaus Sachsenhausen, Frankfurt am Main, Germany"
+      ],
+      "journal": "Obesity Surgery",
+      "publisher": "Springer",
+      "country": [
+        "Germany"
+      ],
+      "author": [
+        "Edward Shang",
+        "Till Hasenberg",
+        "Richard Magdeburg",
+        "Michael Keese",
+        "Stefan Post",
+        "Rudolf Weiner"
+      ],
+      "urls": "http://retractionwatch.com/2012/05/04/obesity-surgery-wont-retract-papers-by-weight-loss-surgeon-who-published-fake-data-elsewhere/;http://retractionwatch.com/2012/05/08/puzzling-maybe-weight-loss-surgery-paper-by-author-who-acknowledged-fraud-is-being-retracted-after-all/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/2/2012 0:00",
+      "retractiondoi": "10.1007/s11695-012-0650-z",
+      "retractionpubmedid": "22549496.0",
+      "originalpaperdate": "8/30/2008 0:00",
+      "originalpaperdoi": "10.1007/s11695-008-9661-1",
+      "originalpaperpubmedid": "18758872.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d89938ed",
+      "recordId": "3036",
+      "title": "Aerobic endurance training improves weight loss, body composition, and co-morbidities in patients after laparoscopic Roux-en-Y gastric bypass",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Surgery",
+        "(HSC) Sports Science"
+      ],
+      "institution": [
+        "Department of Surgery, University Hospital Mannheim, Mannheim, Germany"
+      ],
+      "journal": "Surgery for Obesity and Related Diseases: Official Journal of the American Society for Bariatric Surgery",
+      "publisher": "Elsevier",
+      "country": [
+        "Germany"
+      ],
+      "author": [
+        "Edward Shang",
+        "Till Hasenberg"
+      ],
+      "urls": "http://retractionwatch.com/2012/05/02/author-retracts-weight-loss-surgery-paper-after-admitting-most-if-not-all-of-the-subjects-were-made-up/;http://retractionwatch.com/category/by-author/edward-shang/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/27/2012 0:00",
+      "retractiondoi": "10.1016/j.soard.2012.04.002",
+      "retractionpubmedid": "22774224.0",
+      "originalpaperdate": "2/8/2010 0:00",
+      "originalpaperdoi": "10.1016/j.soard.2010.01.006",
+      "originalpaperpubmedid": "20510289.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Ethical Violations by Author",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993a9c",
+      "recordId": "2596",
+      "title": "Assessment of recovery, dreaming, hemodynamics, and satisfaction in postcardiac surgery patients receiving supplementary propofol sedation with S(+)-ketamine",
+      "subject": [
         "(BLS) Neuroscience",
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Cardiology",
@@ -461,18 +562,18 @@
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, University Medical Center Mannheim, Medical Faculty Mannheim, Heidelberg University, Theodor-Kutzer-Ufer 1-3, D-68167 Mannheim, Germany",
         "Department of Anesthesiology and Intensive Care Medicine, Klinikum Ludwigshafen, Ludwigshafen, Germany",
         "Department of Anesthesia, Spital Langenthal, Langenthal, Switzerland"
       ],
-      "Journal": "Minerva Anestesiologica",
-      "Publisher": "Edizioni Minerva Medica",
-      "Country": [
+      "journal": "Minerva Anestesiologica",
+      "publisher": "Edizioni Minerva Medica",
+      "country": [
         "Germany",
         "Switzerland"
       ],
-      "Author": [
+      "author": [
         "Swen N Piper",
         "Ralf B Beschmann",
         "Andinet M Mengistu",
@@ -481,18 +582,18 @@
         "Kerstin D Rohm",
         "Armin Kalenka"
       ],
-      "URLS": "http://retractionwatch.com/2011/02/04/unglaublich-boldt-investigation-may-lead-to-more-than-90-retractions/;http://retractionwatch.com/2015/10/12/boldts-retraction-count-upped-to-94-co-author-takes-legal-action-to-prevent-95th/;https://retractionwatch.com/?s=Joachim+Boldt",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2011/02/04/unglaublich-boldt-investigation-may-lead-to-more-than-90-retractions/;http://retractionwatch.com/2015/10/12/boldts-retraction-count-upped-to-94-co-author-takes-legal-action-to-prevent-95th/;https://retractionwatch.com/?s=Joachim+Boldt",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/12/2011 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "21540815.0",
-      "OriginalPaperDate": "6/1/2009 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "19468278.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/12/2011 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "21540815.0",
+      "originalpaperdate": "6/1/2009 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "19468278.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Ethical Violations by Author",
         "+Investigation by Company/Institution",
         "+Investigation by Third Party",
@@ -500,165 +601,76 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2011,
-      "year": 2009,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234e1c1",
-      "Record ID": "3898",
-      "Title": "Pump-assisted Versus Gravity-controlled Enteral Nutrition in Long-term Percutaneous Endoscopic Gastrostomy Patients: A Prospective Controlled Trial",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - General",
-        "(BLS) Nutrition",
-        "(HSC) Medicine - Gastroenterology"
-      ],
-      "Institution": [
-        "Department of Surgery, University Hospital Mannheim, Germany"
-      ],
-      "Journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Edward Shang",
-        "Joerg W Sturm",
-        "Stefan Post"
-      ],
-      "URLS": "http://retractionwatch.com/2012/06/22/three-more-retractions-for-weight-loss-surgeon-edward-shang-for-making-up-data/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "7/19/2012 0:00",
-      "RetractionDOI": "10.1177/0148607112450696",
-      "RetractionPubMedID": "22715106.0",
-      "OriginalPaperDate": "5/1/2003 0:00",
-      "OriginalPaperDOI": "10.1177/0148607103027003216",
-      "OriginalPaperPubMedID": "12757116.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Falsification/Fabrication of Results",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2003,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e4e3",
-      "Record ID": "3072",
-      "Title": "First Experiences with A Circular Stapled Gastro-Jejunostomy by a New Transorally Introducible Stapler System in Laparoscopic Roux-en-Y Gastric Bypass",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - General",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Surgery, University Hospital Mannheim, Mannheim, Germany",
-        "Department of Surgery, Krankenhaus Sachsenhausen, Frankfurt am Main, Germany"
-      ],
-      "Journal": "Obesity Surgery",
-      "Publisher": "Springer",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Edward Shang",
-        "Till Hasenberg",
-        "Richard Magdeburg",
-        "Michael Keese",
-        "Stefan Post",
-        "Rudolf Weiner"
-      ],
-      "URLS": "http://retractionwatch.com/2012/05/04/obesity-surgery-wont-retract-papers-by-weight-loss-surgeon-who-published-fake-data-elsewhere/;http://retractionwatch.com/2012/05/08/puzzling-maybe-weight-loss-surgery-paper-by-author-who-acknowledged-fraud-is-being-retracted-after-all/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/2/2012 0:00",
-      "RetractionDOI": "10.1007/s11695-012-0650-z",
-      "RetractionPubMedID": "22549496.0",
-      "OriginalPaperDate": "8/30/2008 0:00",
-      "OriginalPaperDOI": "10.1007/s11695-008-9661-1",
-      "OriginalPaperPubMedID": "18758872.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2008,
-      "mark": "alterations"
+      "paywalled": "Yes",
+      "year": "2009",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2010,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -666,10 +678,10 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -677,43 +689,43 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 5,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -721,10 +733,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -732,23 +744,23 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

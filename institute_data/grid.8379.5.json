@@ -1,84 +1,262 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878fb5",
+    "_id": "687ccbab09adbf7aa61b9bd6",
     "grid_id": "grid.8379.5",
     "institute_name": "University of W\u00fcrzburg",
     "country": "Germany",
     "retracted_record_ids": [
       "21842",
+      "17339",
+      "40407",
+      "30914",
+      "38634",
       "18338",
       "23",
-      "38634",
       "3725",
-      "30914",
-      "40407",
-      "19581",
-      "17339"
+      "19581"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349c3b",
-      "Record ID": "21842",
-      "Title": "Comparative analysis of factors effecting the dissemination of breast cancer diseases in different population groups in the Middle East",
-      "Subject": [
+      "_id": "687cefb21f662220d898a7e6",
+      "recordId": "40407",
+      "title": "Complete Disjoint CoNP-Pairs but No Complete Total Polynomial Search Problems Relative to an Oracle",
+      "subject": [
+        "(B/T) Computer Science"
+      ],
+      "institution": [
+        "Institute of Computer Science, University of W\u00fcrzburg, W\u00fcrzburg, Germany"
+      ],
+      "journal": "International Symposium on Fundamentals of Computation Theory (FCT 2019: Fundamentals of Computation Theory)",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Germany"
+      ],
+      "author": [
+        "Titus Dose"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "2/7/2020 0:00",
+      "retractiondoi": "10.1007/978-3-030-25027-0_25",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/10/2019 0:00",
+      "originalpaperdoi": "10.1007/978-3-030-25027-0_11",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898aec8",
+      "recordId": "38634",
+      "title": "Vascularised human tissue models: A new approach for the refinement of biomedical research",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(PHY) Engineering - General"
+      ],
+      "institution": [
+        "Fraunhofer Institute for Interfacial Engineering and Biotechnology, Fraunhofer Campus Stuttgart, D-70569 Stuttgart, Germany",
+        "Institute for Interfacial Engineering, University Stuttgart, D-70569 Stuttgart, Germany",
+        "Tissue Engineering and Regenerative Medicine, University Wuerzburg, D-97070 Wuerzburg, Germany"
+      ],
+      "journal": "Journal of Biotechnology",
+      "publisher": "Elsevier",
+      "country": [
+        "Germany"
+      ],
+      "author": [
+        "Johanna Schanz",
+        "Jacqueline Pusch",
+        "Jan Hansmann",
+        "Heike Walles"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/22/2022 0:00",
+      "retractiondoi": "10.1016/j.jbiotec.2022.08.011",
+      "retractionpubmedid": "36030112.0",
+      "originalpaperdate": "4/23/2010 0:00",
+      "originalpaperdoi": "10.1016/j.jbiotec.2010.03.015",
+      "originalpaperpubmedid": "20399817.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Duplication of/in Article",
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estmiated from notification; retraction notice later published on 8/29/2022;",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd61f662220d898cccd",
+      "recordId": "30914",
+      "title": "Anticonvulsants for fibromyalgia",
+      "subject": [
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Neurology, University of Wurzburg, Wurzburg, Germany",
+        "Georgetown University Medical Center, Washington Hospital Center, Washington, USA",
+        "Department of Psychosomatic Medicine and Psychotherapy, Technische Universit\u00e4t Munchen, Munchen, Germany"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "Germany",
+        "United States"
+      ],
+      "author": [
+        "Nurcan Uceyler",
+        "Claudia Sommer",
+        "Brian Walitt",
+        "Winfried Hauser"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "10/9/2017 0:00",
+      "retractiondoi": "10.1002/14651858.CD010782.pub2",
+      "retractionpubmedid": "28991361.0",
+      "originalpaperdate": "10/16/2013 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD010782",
+      "originalpaperpubmedid": "24129853.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Conflict of Interest",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf02f1f662220d898f021",
+      "recordId": "21842",
+      "title": "Comparative analysis of factors effecting the dissemination of breast cancer diseases in different population groups in the Middle East",
+      "subject": [
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Dept of Biology, College of Science, University of Sulaimani, Sulaimani, Kurdistan Region, Republic of Iraq",
         "Tumorbiology Laboratory, Dept of Neurosurgery, Medical Faculty, University of Wurzburg, Wurzburg, Germany",
         "Dept of Radiation Oncology, Medical Faculty, UNiversity of Wurzburg, Wurzburg, Germany"
       ],
-      "Journal": "International Journal of Molecular Medicine",
-      "Publisher": "Spandidos",
-      "Country": [
+      "journal": "International Journal of Molecular Medicine",
+      "publisher": "Spandidos",
+      "country": [
         "Germany"
       ],
-      "Author": [
+      "author": [
         "Dalanya Asaad Mohammad",
         "Ahmed M S Amin",
         "Carsten Hagemann"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "2/16/2016 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2013 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/16/2016 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2013 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of Approval from Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2013,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2016",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a9d9",
-      "Record ID": "18338",
-      "Title": "Surface-enhanced Raman spectroscopy employed in antimalarial mechanism of chloroquine drug upon hematin",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f8eb",
+      "recordId": "19581",
+      "title": "Rhodozepinone, a new antitrypanosomal azepino-diindole alkaloid from the marine sponge-derived bacterium Rhodococcus sp. UA13",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Department of Pharmacognosy, Faculty of Pharmacy, Minia University, Minia, Egypt",
+        "Department of Botany II, Julius-von-Sachs Institute for Biological Sciences, University of W\u00fcrzburg, W\u00fcrzburg, Germany",
+        "Department of Pharmacognosy, Faculty of Pharmacy, Suez Canal University, Ismailia, Egypt"
+      ],
+      "journal": "Medicinal Chemistry Research",
+      "publisher": "Springer",
+      "country": [
+        "Egypt",
+        "Germany"
+      ],
+      "author": [
+        "Yasmin Elsayed",
+        "John Refaat",
+        "Usama R Abdelmohsen",
+        "Safwat Ahmed",
+        "Mostata A Fouad"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/30/2018 0:00",
+      "retractiondoi": "10.1007/s00044-018-2263-0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/15/2017 0:00",
+      "originalpaperdoi": "10.1007/s00044-017-1974-y",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898fdbf",
+      "recordId": "18338",
+      "title": "Surface-enhanced Raman spectroscopy employed in antimalarial mechanism of chloroquine drug upon hematin",
+      "subject": [
         "(BLS) Toxicology",
         "(PHY) Crystallography/Spectroscopy"
       ],
-      "Institution": [
+      "institution": [
         "Faculty of Physics, Babes-Bolyai University, 1, Kogalniceanu st., RO-400084, Cluj-Napoca, Romania",
         "Institut fur Physikalische Chemie, Universitat W\u00fcrzburg, Am Hubland, D-97074 Wurzburg, Germany",
         "Institut fur Physikalische Chemie, Universitat Jena, Helmholtzweg 4, D-07743 Jena, Germany"
       ],
-      "Journal": "Romanian Journal of Biophysics",
-      "Publisher": "Romanian Society of Pure and Applied Biophysics",
-      "Country": [
+      "journal": "Romanian Journal of Biophysics",
+      "publisher": "Romanian Society of Pure and Applied Biophysics",
+      "country": [
         "Germany",
         "Romania"
       ],
-      "Author": [
+      "author": [
         "Simona Cinta-Pinzaru",
         "Niculina Peica",
         "Bernd Kustner",
@@ -88,137 +266,80 @@
         "Jurgen Popp",
         "Wolfgang Kiefer"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2017 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2006 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2017 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2006 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Plagiarism of Article",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "Simona Cinta-Pinzaru aka Simona C\u00eenta P\u00eenzaru aka Simona Cinta Pinzaru; see https://antiplagiarism2014blog2.files.wordpress.com/2018/03/article4.pdf",
-      "notice_year": 2017,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Simona Cinta-Pinzaru aka Simona C\u00eenta P\u00eenzaru aka Simona Cinta Pinzaru; see https://antiplagiarism2014blog2.files.wordpress.com/2018/03/article4.pdf",
+      "year": "2006",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234f08d",
-      "Record ID": "23",
-      "Title": "A comparison of nefopam and clonidine for the prevention of postanaesthetic shivering: a comparative, double-blind and placebo-controlled dose-ranging study",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Surgery"
+      "_id": "687cf0941f662220d899019b",
+      "recordId": "17339",
+      "title": "Levenberg\u2013Marquardt methods with strong local convergence properties for solving nonlinear equations with convex constraints",
+      "subject": [
+        "(PHY) Mathematics"
       ],
-      "Institution": [
-        "Department of Anaesthesiology and Intensive Care Medicine, Klinikum Ludwigshafen, Germany",
-        "Department of Anaesthesiology, Spital Grenchen, Switzerland",
-        "Department of Anaesthesiology and Intensive Care Medicine, University of Wurzburg,Germany"
+      "institution": [
+        "Institute of Applied Mathematics and Statistics, University of W\u00fcrzburg, Am Hubland, 97074 W\u00fcrzburg, Germany",
+        "Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University, Kyoto 606-8501, Japan"
       ],
-      "Journal": "Anaesthesia",
-      "Publisher": "Wiley-Blackwell",
-      "Country": [
+      "journal": "Journal of Computational and Applied Mathematics",
+      "publisher": "Elsevier",
+      "country": [
         "Germany",
-        "Switzerland"
+        "Japan"
       ],
-      "Author": [
-        "Swen N Piper",
-        "Kerstin D Rohm",
-        "Stefan W Suttner",
-        "Joachim Boldt",
-        "Wolfgang H Maleck",
-        "P Kranke"
+      "author": [
+        "Christian Kanzow",
+        "Nobuo Yamashita",
+        "Masao Fukushima"
       ],
-      "URLS": "https://retractionwatch.com/?s=Joachim+Boldt",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "6/21/2011 0:00",
-      "RetractionDOI": "10.1111/j.1365-2044.2011.06717.x",
-      "RetractionPubMedID": "21826809.0",
-      "OriginalPaperDate": "6/1/2004 0:00",
-      "OriginalPaperDOI": "10.1111/j.1365-2044.2004.03734.x",
-      "OriginalPaperPubMedID": "15144295.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Company/Institution",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2004,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345ae2",
-      "Record ID": "38634",
-      "Title": "Vascularised human tissue models: A new approach for the refinement of biomedical research",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(PHY) Engineering - General"
-      ],
-      "Institution": [
-        "Fraunhofer Institute for Interfacial Engineering and Biotechnology, Fraunhofer Campus Stuttgart, D-70569 Stuttgart, Germany",
-        "Institute for Interfacial Engineering, University Stuttgart, D-70569 Stuttgart, Germany",
-        "Tissue Engineering and Regenerative Medicine, University Wuerzburg, D-97070 Wuerzburg, Germany"
-      ],
-      "Journal": "Journal of Biotechnology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Johanna Schanz",
-        "Jacqueline Pusch",
-        "Jan Hansmann",
-        "Heike Walles"
-      ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/22/2022 0:00",
-      "RetractionDOI": "10.1016/j.jbiotec.2022.08.011",
-      "RetractionPubMedID": "36030112.0",
-      "OriginalPaperDate": "4/23/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.jbiotec.2010.03.015",
-      "OriginalPaperPubMedID": "20399817.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Duplication of/in Article",
-        "+Plagiarism of Article"
+      "retractiondate": "1/15/2005 0:00",
+      "retractiondoi": "10.1016/j.cam.2004.03.015",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/25/2004 0:00",
+      "originalpaperdoi": "10.1016/j.cam.2004.03.015",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estmiated from notification; retraction notice later published on 8/29/2022;",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2005",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e269",
-      "Record ID": "3725",
-      "Title": "Immunohistochemical prognostic markers in diffuse large B-cell lymphoma: validation of tissue microarray as a prerequisite for broad clinical applications (a study from the Lunenburg Lymphoma Biomarker Consortium)",
-      "Subject": [
+      "_id": "687cf0cb1f662220d899364f",
+      "recordId": "3725",
+      "title": "Immunohistochemical prognostic markers in diffuse large B-cell lymphoma: validation of tissue microarray as a prerequisite for broad clinical applications (a study from the Lunenburg Lymphoma Biomarker Consortium)",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "The Netherlands Cancer Institute, Amsterdam",
         "Dana-Farber Cancer Institute, Boston, Massachusetts",
         "Institute of Pathology, University of W\u00fcrzburg, W\u00fcrzburg",
@@ -237,9 +358,9 @@
         "University Medical Center Nijmegen",
         "Hospices Civils de Lyon and Universit\u00e9 Claude Bernard Lyon-1, Lyon"
       ],
-      "Journal": "Journal of Clinical Pathology",
-      "Publisher": "BMJ Publishing",
-      "Country": [
+      "journal": "Journal of Clinical Pathology",
+      "publisher": "BMJ Publishing",
+      "country": [
         "Canada",
         "France",
         "Germany",
@@ -249,7 +370,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Daphne de Jong",
         "Wanling Xie",
         "Andreas Rosenwald",
@@ -269,247 +390,135 @@
         "Randy D Gascoyne",
         "Edie Weller"
       ],
-      "URLS": "http://retractionwatch.com/2012/02/02/rabies-paper-retracted-for-plagiarism-and-more-from-the-journal-of-clinical-pathology/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/02/02/rabies-paper-retracted-for-plagiarism-and-more-from-the-journal-of-clinical-pathology/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/28/2012 0:00",
-      "RetractionDOI": "10.1136/jcp.2008.057257ret",
-      "RetractionPubMedID": "22930798.0",
-      "OriginalPaperDate": "9/15/2008 0:00",
-      "OriginalPaperDOI": "10.1136/jcp.2008.057257",
-      "OriginalPaperPubMedID": "18794197.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/28/2012 0:00",
+      "retractiondoi": "10.1136/jcp.2008.057257ret",
+      "retractionpubmedid": "22930798.0",
+      "originalpaperdate": "9/15/2008 0:00",
+      "originalpaperdoi": "10.1136/jcp.2008.057257",
+      "originalpaperpubmedid": "18794197.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data",
         "+Duplication of Text",
         "+Concerns/Issues about Referencing/Attributions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2008,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23478e7",
-      "Record ID": "30914",
-      "Title": "Anticonvulsants for fibromyalgia",
-      "Subject": [
-        "(HSC) Medicine - General",
+      "_id": "687cf0d91f662220d8994473",
+      "recordId": "23",
+      "title": "A comparison of nefopam and clonidine for the prevention of postanaesthetic shivering: a comparative, double-blind and placebo-controlled dose-ranging study",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Department of Neurology, University of Wurzburg, Wurzburg, Germany",
-        "Georgetown University Medical Center, Washington Hospital Center, Washington, USA",
-        "Department of Psychosomatic Medicine and Psychotherapy, Technische Universit\u00e4t Munchen, Munchen, Germany"
+      "institution": [
+        "Department of Anaesthesiology and Intensive Care Medicine, Klinikum Ludwigshafen, Germany",
+        "Department of Anaesthesiology, Spital Grenchen, Switzerland",
+        "Department of Anaesthesiology and Intensive Care Medicine, University of Wurzburg,Germany"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Anaesthesia",
+      "publisher": "Wiley-Blackwell",
+      "country": [
         "Germany",
-        "United States"
+        "Switzerland"
       ],
-      "Author": [
-        "Nurcan Uceyler",
-        "Claudia Sommer",
-        "Brian Walitt",
-        "Winfried Hauser"
+      "author": [
+        "Swen N Piper",
+        "Kerstin D Rohm",
+        "Stefan W Suttner",
+        "Joachim Boldt",
+        "Wolfgang H Maleck",
+        "P Kranke"
       ],
-      "ArticleType": [
-        "Review Article"
+      "urls": "https://retractionwatch.com/?s=Joachim+Boldt",
+      "articletype": [
+        "Clinical Study"
       ],
-      "RetractionDate": "10/9/2017 0:00",
-      "RetractionDOI": "10.1002/14651858.CD010782.pub2",
-      "RetractionPubMedID": "28991361.0",
-      "OriginalPaperDate": "10/16/2013 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD010782",
-      "OriginalPaperPubMedID": "24129853.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Conflict of Interest",
-        "+Investigation by Journal/Publisher"
+      "retractiondate": "6/21/2011 0:00",
+      "retractiondoi": "10.1111/j.1365-2044.2011.06717.x",
+      "retractionpubmedid": "21826809.0",
+      "originalpaperdate": "6/1/2004 0:00",
+      "originalpaperdoi": "10.1111/j.1365-2044.2004.03734.x",
+      "originalpaperpubmedid": "15144295.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Company/Institution",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2013,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345400",
-      "Record ID": "40407",
-      "Title": "Complete Disjoint CoNP-Pairs but No Complete Total Polynomial Search Problems Relative to an Oracle",
-      "Subject": [
-        "(B/T) Computer Science"
-      ],
-      "Institution": [
-        "Institute of Computer Science, University of W\u00fcrzburg, W\u00fcrzburg, Germany"
-      ],
-      "Journal": "International Symposium on Fundamentals of Computation Theory (FCT 2019: Fundamentals of Computation Theory)",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Titus Dose"
-      ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "2/7/2020 0:00",
-      "RetractionDOI": "10.1007/978-3-030-25027-0_25",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/10/2019 0:00",
-      "OriginalPaperDOI": "10.1007/978-3-030-25027-0_11",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Methods"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a505",
-      "Record ID": "19581",
-      "Title": "Rhodozepinone, a new antitrypanosomal azepino-diindole alkaloid from the marine sponge-derived bacterium Rhodococcus sp. UA13",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Department of Pharmacognosy, Faculty of Pharmacy, Minia University, Minia, Egypt",
-        "Department of Botany II, Julius-von-Sachs Institute for Biological Sciences, University of W\u00fcrzburg, W\u00fcrzburg, Germany",
-        "Department of Pharmacognosy, Faculty of Pharmacy, Suez Canal University, Ismailia, Egypt"
-      ],
-      "Journal": "Medicinal Chemistry Research",
-      "Publisher": "Springer",
-      "Country": [
-        "Egypt",
-        "Germany"
-      ],
-      "Author": [
-        "Yasmin Elsayed",
-        "John Refaat",
-        "Usama R Abdelmohsen",
-        "Safwat Ahmed",
-        "Mostata A Fouad"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/30/2018 0:00",
-      "RetractionDOI": "10.1007/s00044-018-2263-0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/15/2017 0:00",
-      "OriginalPaperDOI": "10.1007/s00044-017-1974-y",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234adb5",
-      "Record ID": "17339",
-      "Title": "Levenberg\u2013Marquardt methods with strong local convergence properties for solving nonlinear equations with convex constraints",
-      "Subject": [
-        "(PHY) Mathematics"
-      ],
-      "Institution": [
-        "Institute of Applied Mathematics and Statistics, University of W\u00fcrzburg, Am Hubland, 97074 W\u00fcrzburg, Germany",
-        "Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University, Kyoto 606-8501, Japan"
-      ],
-      "Journal": "Journal of Computational and Applied Mathematics",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Germany",
-        "Japan"
-      ],
-      "Author": [
-        "Christian Kanzow",
-        "Nobuo Yamashita",
-        "Masao Fukushima"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/15/2005 0:00",
-      "RetractionDOI": "10.1016/j.cam.2004.03.015",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/25/2004 0:00",
-      "OriginalPaperDOI": "10.1016/j.cam.2004.03.015",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Content through Error by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2005,
-      "year": 2004,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2005,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -517,10 +526,10 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -528,76 +537,76 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -605,10 +614,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

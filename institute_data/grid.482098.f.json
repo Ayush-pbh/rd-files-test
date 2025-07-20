@@ -1,28 +1,28 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068791ef",
+    "_id": "687ccbab09adbf7aa61b9e10",
     "grid_id": "grid.482098.f",
     "institute_name": "Ludwig Cancer Research",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "36328",
       "20681",
-      "36327",
+      "36328",
       "20332",
-      "20680"
+      "20680",
+      "36327"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23463cd",
-      "Record ID": "36328",
-      "Title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
-      "Subject": [
+      "_id": "687cefc01f662220d898b7b3",
+      "recordId": "36328",
+      "title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
         "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
         "PIramed, Slough, Berkshire, UK",
@@ -33,15 +33,15 @@
         "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
         "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
       ],
-      "Journal": "Anticancer Research",
-      "Publisher": "International Institute of Anticancer Research",
-      "Country": [
+      "journal": "Anticancer Research",
+      "publisher": "International Institute of Anticancer Research",
+      "country": [
         "France",
         "Japan",
         "Switzerland",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Danielle Boller",
         "Kathrin T Doepfner",
         "Angela De Laurentiis",
@@ -65,49 +65,123 @@
         "Michael D Waterfield",
         "Alexandre Arcaro"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/7/2013 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "22843869.0",
-      "OriginalPaperDate": "7/25/2012 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22843869.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "2/7/2013 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "22843869.0",
+      "originalpaperdate": "7/25/2012 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22843869.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a0c0",
-      "Record ID": "20681",
-      "Title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
-      "Subject": [
+      "_id": "687cefc01f662220d898b7b4",
+      "recordId": "36327",
+      "title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
+        "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
+        "PIramed, Slough, Berkshire, UK",
+        "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Ibaraki, Japan",
+        "INSERM U509, Paris, France",
+        "Department of Clinical Research, University of Bern, Bern, Switzerland",
+        "Department of Neurosurgery, University Hospital Zurich, Zurich, Switzerland",
+        "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
+        "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
+      ],
+      "journal": "Anticancer Research",
+      "publisher": "International Institute of Anticancer Research",
+      "country": [
+        "France",
+        "Japan",
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Danielle Boller",
+        "Kathrin T Doepfner",
+        "Angela De Laurentiis",
+        "Ana S Guerreiro",
+        "Marin Marinov",
+        "Tarek Shalaby",
+        "Paul Depledge",
+        "Anthony Robson",
+        "Nahid Saghir",
+        "Masahiko Hayakawa",
+        "Hiroyuki Kaizawa",
+        "Tomonobu Koizumi",
+        "Takahide Ohishi",
+        "Sarah Fattet",
+        "Olivier Delattre",
+        "Anelia Schweri-Olac",
+        "Katrin Holand",
+        "Michael A Grotzer",
+        "Karl Frei",
+        "Olivier Spertini",
+        "Michael D Waterfield",
+        "Alexandre Arcaro"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/1/2021 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "35349467.0",
+      "originalpaperdate": "7/25/2012 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22843869.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf05d1f662220d898f4a6",
+      "recordId": "20681",
+      "title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
         "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
         "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
         "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
         "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
       ],
-      "Journal": "Current Biology (CB)",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Current Biology (CB)",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pat P Ongusaha",
         "Hyung Gu Kim",
         "Sarah A Boswell",
@@ -118,124 +192,53 @@
         "Stuart A Aaronson",
         "Sam W Lee"
       ],
-      "URLS": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/22/2016 0:00",
-      "RetractionDOI": "10.1016/j.cub.2012.11.007",
-      "RetractionPubMedID": "17174923.0",
-      "OriginalPaperDate": "12/19/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.cub.2006.10.056",
-      "OriginalPaperPubMedID": "17174923.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "8/22/2016 0:00",
+      "retractiondoi": "10.1016/j.cub.2012.11.007",
+      "retractionpubmedid": "17174923.0",
+      "originalpaperdate": "12/19/2006 0:00",
+      "originalpaperdoi": "10.1016/j.cub.2006.10.056",
+      "originalpaperpubmedid": "17174923.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2006,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23463ce",
-      "Record ID": "36327",
-      "Title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
-        "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
-        "PIramed, Slough, Berkshire, UK",
-        "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Ibaraki, Japan",
-        "INSERM U509, Paris, France",
-        "Department of Clinical Research, University of Bern, Bern, Switzerland",
-        "Department of Neurosurgery, University Hospital Zurich, Zurich, Switzerland",
-        "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
-        "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
-      ],
-      "Journal": "Anticancer Research",
-      "Publisher": "International Institute of Anticancer Research",
-      "Country": [
-        "France",
-        "Japan",
-        "Switzerland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Danielle Boller",
-        "Kathrin T Doepfner",
-        "Angela De Laurentiis",
-        "Ana S Guerreiro",
-        "Marin Marinov",
-        "Tarek Shalaby",
-        "Paul Depledge",
-        "Anthony Robson",
-        "Nahid Saghir",
-        "Masahiko Hayakawa",
-        "Hiroyuki Kaizawa",
-        "Tomonobu Koizumi",
-        "Takahide Ohishi",
-        "Sarah Fattet",
-        "Olivier Delattre",
-        "Anelia Schweri-Olac",
-        "Katrin Holand",
-        "Michael A Grotzer",
-        "Karl Frei",
-        "Olivier Spertini",
-        "Michael D Waterfield",
-        "Alexandre Arcaro"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/1/2021 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "35349467.0",
-      "OriginalPaperDate": "7/25/2012 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22843869.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a218",
-      "Record ID": "20332",
-      "Title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f4a7",
+      "recordId": "20680",
+      "title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
         "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
         "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
         "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
         "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
       ],
-      "Journal": "Current Biology (CB)",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Current Biology (CB)",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pat P Ongusaha",
         "Hyung Gu Kim",
         "Sarah A Boswell",
@@ -246,114 +249,116 @@
         "Stuart A Aaronson",
         "Sam W Lee"
       ],
-      "URLS": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/2019/04/19/harvard-cancer-lab-subject-to-federal-misconduct-probe/;http://retractionwatch.com/?s=sam+w+lee",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/20/2012 0:00",
-      "RetractionDOI": "10.1016/j.cub.2012.11.007",
-      "RetractionPubMedID": "17174923.0",
-      "OriginalPaperDate": "12/19/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.cub.2006.10.056",
-      "OriginalPaperPubMedID": "17174923.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a0c1",
-      "Record ID": "20680",
-      "Title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
-        "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
-        "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
-        "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
-        "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
-      ],
-      "Journal": "Current Biology (CB)",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Pat P Ongusaha",
-        "Hyung Gu Kim",
-        "Sarah A Boswell",
-        "Anne J Ridley",
-        "Channing J Der",
-        "G Paolo Dotto",
-        "Young Bum Kim",
-        "Stuart A Aaronson",
-        "Sam W Lee"
-      ],
-      "URLS": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/2019/04/19/harvard-cancer-lab-subject-to-federal-misconduct-probe/;http://retractionwatch.com/?s=sam+w+lee",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/17/2019 0:00",
-      "RetractionDOI": "10.1016/j.cub.2019.05.065",
-      "RetractionPubMedID": "31211968.0",
-      "OriginalPaperDate": "12/19/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.cub.2006.10.056",
-      "OriginalPaperPubMedID": "17174923.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/17/2019 0:00",
+      "retractiondoi": "10.1016/j.cub.2019.05.065",
+      "retractionpubmedid": "31211968.0",
+      "originalpaperdate": "12/19/2006 0:00",
+      "originalpaperdoi": "10.1016/j.cub.2006.10.056",
+      "originalpaperpubmedid": "17174923.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2006,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f5fe",
+      "recordId": "20332",
+      "title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
+        "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
+        "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
+        "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
+        "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
+      ],
+      "journal": "Current Biology (CB)",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Pat P Ongusaha",
+        "Hyung Gu Kim",
+        "Sarah A Boswell",
+        "Anne J Ridley",
+        "Channing J Der",
+        "G Paolo Dotto",
+        "Young Bum Kim",
+        "Stuart A Aaronson",
+        "Sam W Lee"
+      ],
+      "urls": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/20/2012 0:00",
+      "retractiondoi": "10.1016/j.cub.2012.11.007",
+      "retractionpubmedid": "17174923.0",
+      "originalpaperdate": "12/19/2006 0:00",
+      "originalpaperdoi": "10.1016/j.cub.2006.10.056",
+      "originalpaperpubmedid": "17174923.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -361,10 +366,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -372,10 +377,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -383,10 +388,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

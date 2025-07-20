@@ -1,35 +1,80 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879bc4",
+    "_id": "687ccbab09adbf7aa61ba7e5",
     "grid_id": "grid.415180.9",
     "institute_name": "Institutul Clinic Fundeni",
     "country": "Romania",
     "retracted_record_ids": [
-      "4522",
-      "18963"
+      "18963",
+      "4522"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234df59",
-      "Record ID": "4522",
-      "Title": "Prognostic factors in retroperitoneal fibrosis",
-      "Subject": [
+      "_id": "687cf08f1f662220d898fb50",
+      "recordId": "18963",
+      "title": "Morphological aspects of the kidney: can normality be predicted",
+      "subject": [
+        "(HSC) Medicine - Urology/Nephrology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Center of Urology and Renal Transplantation, Fundeni Clinical Institute, Bucharest, Romania"
+      ],
+      "journal": "Romanian Journal of Morphology and Embryology",
+      "publisher": "Romanian Academy Publishing House",
+      "country": [
+        "Romania"
+      ],
+      "author": [
+        "C Surcel",
+        "C Mirvald",
+        "C Gingu",
+        "A Udrea",
+        "C Savu",
+        "I Sinescu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2018 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/1/2011 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22203941.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d899333f",
+      "recordId": "4522",
+      "title": "Prognostic factors in retroperitoneal fibrosis",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Internal",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Center of Urological Surgery, Dialysis and Renal Transplantation, Fundeni Clinical Institute, Bucharest, Romania",
         "Department of Intensive Care and Anesthesiology, Fundeni Clinical Institute, Bucharest, Romania",
         "Polytechnic University, Bucharest, Romania"
       ],
-      "Journal": "Journal of Medicine and Life",
-      "Publisher": "Carol Davila University of Medicine and Pharmacy, Bucharest",
-      "Country": [
+      "journal": "Journal of Medicine and Life",
+      "publisher": "Carol Davila University of Medicine and Pharmacy, Bucharest",
+      "country": [
         "Romania"
       ],
-      "Author": [
+      "author": [
         "I Sinescu",
         "C Surcel",
         "C Mirvald",
@@ -42,99 +87,57 @@
         "C Savu",
         "A Udrea"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/12/2012 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "22802902.0",
-      "OriginalPaperDate": "2/15/2010 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "20302193.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/12/2012 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "22802902.0",
+      "originalpaperdate": "2/15/2010 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "20302193.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2010
-    },
-    {
-      "_id": "6855d574b14f7811d234a76a",
-      "Record ID": "18963",
-      "Title": "Morphological aspects of the kidney: can normality be predicted",
-      "Subject": [
-        "(HSC) Medicine - Urology/Nephrology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Center of Urology and Renal Transplantation, Fundeni Clinical Institute, Bucharest, Romania"
-      ],
-      "Journal": "Romanian Journal of Morphology and Embryology",
-      "Publisher": "Romanian Academy Publishing House",
-      "Country": [
-        "Romania"
-      ],
-      "Author": [
-        "C Surcel",
-        "C Mirvald",
-        "C Gingu",
-        "A Udrea",
-        "C Savu",
-        "I Sinescu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2018 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/1/2011 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22203941.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2011,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -142,10 +145,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

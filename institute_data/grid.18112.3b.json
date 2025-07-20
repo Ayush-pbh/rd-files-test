@@ -1,30 +1,233 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068789d4",
+    "_id": "687ccbab09adbf7aa61b95f5",
     "grid_id": "grid.18112.3b",
     "institute_name": "Beirut Arab University",
     "country": "Lebanon",
     "retracted_record_ids": [
       "42550",
-      "38345",
       "33597",
-      "45735",
-      "50132",
       "50715",
-      "50133"
+      "38345",
+      "50132",
+      "50133",
+      "45735"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2344bae",
-      "Record ID": "42550",
-      "Title": "Hybrid method for mining rules based on enhanced Apriori algorithm with sequential minimal optimization in healthcare industry",
-      "Subject": [
+      "_id": "687cef8b1f662220d8987fcd",
+      "recordId": "50715",
+      "title": "Recognition of Apple Leaf Diseases using Deep Learning and Variances-Controlled Features Reduction",
+      "subject": [
+        "(B/T) Data Science",
+        "(BLS) Agriculture",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "Department of Computer Science, HITEC University Taxila, Pakistan",
+        "Department of Robotics, SMME Nust, Islamabad, Pakistan",
+        "Department of Mathematics and Computer Science, Faculty of Science, Beirut Arab University, Lebanon",
+        "Department of Informatics, University of Leicester, UK",
+        "Department of Electrical Engineering, COMSATS University Islamabad, Pakistan"
+      ],
+      "journal": "Microprocessors and Microsystems",
+      "publisher": "Elsevier",
+      "country": [
+        "Lebanon",
+        "Pakistan",
+        "United Kingdom"
+      ],
+      "author": [
+        "Muqadas Bin Tahir",
+        "Muhammad Attique Khan",
+        "Kashif Javed",
+        "Seifedine Kadry",
+        "Yu-Dong Zhang",
+        "Tallha Akram",
+        "Muhammad Nazir"
+      ],
+      "articletype": [
+        "Article in Press",
+        "Research Article"
+      ],
+      "retractiondate": "12/31/2023 0:00",
+      "retractiondoi": "10.1016/j.micpro.2021.104027",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/15/2021 0:00",
+      "originalpaperdoi": "10.1016/j.micpro.2021.104027",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Error by Journal/Publisher",
+        "+Euphemisms for Plagiarism",
+        "+Fake Peer Review",
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unkown/html page overwrite, date estimated from notifications;",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8c1f662220d8988212",
+      "recordId": "50133",
+      "title": "Artificial intelligence with robotics for advanced manufacturing industry using robot-assisted mixed-integer programming model",
+      "subject": [
+        "(B/T) Business - Management",
+        "(B/T) Data Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "School of Finance and Economics, Anhui Science and Technology University, Bengbu, 233100, AnHui, China",
+        "V.R.S. College of Engineering & Technology, Villupuram, India",
+        "Beirut Arab University, Lebnon, Lebanon"
+      ],
+      "journal": "Intelligent Service Robotics",
+      "publisher": "Springer",
+      "country": [
+        "China",
+        "India",
+        "Lebanon"
+      ],
+      "author": [
+        "Hong Xiao",
+        "BalaAnand Muthu",
+        "Seifedine Nimer Kadry"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/20/2020 0:00",
+      "retractiondoi": "10.1007/s11370-020-00330-x",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/17/2020 0:00",
+      "originalpaperdoi": "10.1007/s11370-020-00326-7",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Text",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8c1f662220d8988213",
+      "recordId": "50132",
+      "title": "Artificial intelligence with robotics for advanced manufacturing industry using robot-assisted mixed-integer programming model",
+      "subject": [
+        "(B/T) Business - Management",
+        "(B/T) Data Science",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "School of Finance and Economics, Anhui Science and Technology University, Bengbu, 233100, AnHui, China",
+        "V.R.S. College of Engineering & Technology, Villupuram, India",
+        "Beirut Arab University, Lebnon, Lebanon"
+      ],
+      "journal": "Intelligent Service Robotics",
+      "publisher": "Springer",
+      "country": [
+        "China",
+        "India",
+        "Lebanon"
+      ],
+      "author": [
+        "Hong Xiao",
+        "BalaAnand Muthu",
+        "Seifedine Nimer Kadry"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/7/2023 0:00",
+      "retractiondoi": "10.1007/s11370-020-00326-7",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/17/2020 0:00",
+      "originalpaperdoi": "10.1007/s11370-020-00326-7",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Objections by Author(s)",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d8989332",
+      "recordId": "45735",
+      "title": "Analysis of the influence of politics on work emotion in workplace",
+      "subject": [
+        "(SOC) Psychology",
+        "(SOC) Sociology"
+      ],
+      "institution": [
+        "Marxist School, Northeast Normal University, Changchun 130024, China",
+        "Institute of Economics, Jilin Academy of Social Sciences, Changchun 130033, China",
+        "Facultad de Ingenier\u00eda, Universidad Distrital Francisco Jos\u00e9 de Caldas, Colombia",
+        "Beirut Arab University, Lebanon"
+      ],
+      "journal": "Aggression and Violent Behavior",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "Colombia",
+        "Lebanon"
+      ],
+      "author": [
+        "Wenjun Zhou",
+        "Fengrong Zhang",
+        "Xi Wang",
+        "Carlos Enrique Montenegro-Marin",
+        "Seifedine Nimer Kadry"
+      ],
+      "articletype": [
+        "Article in Press",
+        "Research Article"
+      ],
+      "retractiondate": "6/14/2023 0:00",
+      "retractiondoi": "10.1016/j.avb.2021.101563",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/12/2021 0:00",
+      "originalpaperdoi": "10.1016/j.avb.2021.101563",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues with Peer Review",
+        "+Error by Journal/Publisher",
+        "+Rogue Editor",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefaa1f662220d8989f94",
+      "recordId": "42550",
+      "title": "Hybrid method for mining rules based on enhanced Apriori algorithm with sequential minimal optimization in healthcare industry",
+      "subject": [
         "(B/T) Business - Management",
         "(B/T) Data Science",
         "(HSC) Medicine - General"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Applications, Kalasalingam Academy of Research and Education, Krishnankoil, Tamilnadu, 626126, India",
         "Department of Computer Science and Engineering, Kalasalingam Academy of Research and Education, Krishnankoil, Tamilnadu, 626126, India",
         "St. Joseph College of Engineering, Sriperumbudur, Chennai, Tamilnadu, 602117, India",
@@ -36,15 +239,15 @@
         "Department of Computer Science and Information Engineering, National Chung Cheng University, Chiayi, Taiwan",
         "V.R.S. College of Engineering and Technology, Viluppuram, India"
       ],
-      "Journal": "Neural Computing and Applications",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Neural Computing and Applications",
+      "publisher": "Springer",
+      "country": [
         "India",
         "Lebanon",
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "M Sornalakshmi",
         "S Balamurali",
         "M Venkatesulu",
@@ -55,48 +258,49 @@
         "Ching Hsien Hsu",
         "Bala Anand Muthu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/12/2022 0:00",
-      "RetractionDOI": "10.1007/s00521-022-08154-9",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/31/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s00521-020-04862-2",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/12/2022 0:00",
+      "retractiondoi": "10.1007/s00521-022-08154-9",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/31/2020 0:00",
+      "originalpaperdoi": "10.1007/s00521-020-04862-2",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Third Party Involvement",
         "+Fake Peer Review",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345c00",
-      "Record ID": "38345",
-      "Title": "Turbulent Kinetic Energy and self-sustaining tones in an impinging jet using High Speed 3D Tomographic-PIV",
-      "Subject": [
+      "_id": "687cefb81f662220d898afe6",
+      "recordId": "38345",
+      "title": "Turbulent Kinetic Energy and self-sustaining tones in an impinging jet using High Speed 3D Tomographic-PIV",
+      "subject": [
         "(PHY) Energy",
         "(PHY) Engineering - General"
       ],
-      "Institution": [
+      "institution": [
         "Beirut Arab University, Mechanical Engineering Department, Tripoli, Lebanon",
         "Prince Mohammad Bin Fahd University, Mechanical Engineering Department, Al Khobar, Saudi Arabia",
         "School of Engineering, Lebanese American University, P.O. Box 36, Byblos, Lebanon",
         "Lasie, University of La Rochelle, La Rochelle, France"
       ],
-      "Journal": "Energy Reports",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Energy Reports",
+      "publisher": "Elsevier",
+      "country": [
         "France",
         "Lebanon",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Hassan H Assoum",
         "Mouhammad El Hassan",
         "Jana Hamdi",
@@ -104,35 +308,36 @@
         "Kamel Abed Meraim",
         "Anas Sakout"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/2/2020 0:00",
-      "RetractionDOI": "10.1016/j.egyr.2019.12.021",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/2/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.egyr.2019.12.021",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/2/2020 0:00",
+      "retractiondoi": "10.1016/j.egyr.2019.12.021",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/2/2020 0:00",
+      "originalpaperdoi": "10.1016/j.egyr.2019.12.021",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346e75",
-      "Record ID": "33597",
-      "Title": "Effects of a Single Dose of Ivermectin on Viral and Clinical Outcomes in Asymptomatic SARS-CoV-2 Infected Subjects: A Pilot Clinical Trial in Lebanon",
-      "Subject": [
+      "_id": "687cefca1f662220d898c25b",
+      "recordId": "33597",
+      "title": "Effects of a Single Dose of Ivermectin on Viral and Clinical Outcomes in Asymptomatic SARS-CoV-2 Infected Subjects: A Pilot Clinical Trial in Lebanon",
+      "subject": [
         "(BLS) Toxicology",
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Faculty of Public Health, Lebanese University, Beirut, Lebanon",
         "Nursing Department, Faculty of Health Sciences, Beirut Arab University, Beirut, Mazraa 1105, Lebanon",
         "Department of Biomedical Sciences, Lebanese International University, Beirut, Mazraa 1105, Lebanon",
@@ -146,15 +351,15 @@
         "Department of Basic Medical Sciences, College of Medicine, QU Health, Qatar University, Doha, Qatar",
         "Biomedical and Pharmaceutical Unit, QU Health, Qatar University, Doha, Qatar"
       ],
-      "Journal": "Viruses",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "Viruses",
+      "publisher": "MDPI",
+      "country": [
         "France",
         "Iraq",
         "Lebanon",
         "Qatar"
       ],
-      "Author": [
+      "author": [
         "Ali A Samaha",
         "Hussein Mouawia",
         "Mirna Fawaz",
@@ -172,255 +377,57 @@
         "Ali H Eid",
         "Houssam Raad"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/;http://retractionwatch.com/2021/11/02/ivermectin-covid-19-study-retracted-authors-blame-file-mixup/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/;http://retractionwatch.com/2021/11/02/ivermectin-covid-19-study-retracted-authors-blame-file-mixup/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "10/26/2021 0:00",
-      "RetractionDOI": "10.3390/v13112154",
-      "RetractionPubMedID": "34751680.0",
-      "OriginalPaperDate": "5/26/2021 0:00",
-      "OriginalPaperDOI": "10.3390/v13060989",
-      "OriginalPaperPubMedID": "34073401.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/26/2021 0:00",
+      "retractiondoi": "10.3390/v13112154",
+      "retractionpubmedid": "34751680.0",
+      "originalpaperdate": "5/26/2021 0:00",
+      "originalpaperdoi": "10.3390/v13060989",
+      "originalpaperpubmedid": "34073401.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343f4c",
-      "Record ID": "45735",
-      "Title": "Analysis of the influence of politics on work emotion in workplace",
-      "Subject": [
-        "(SOC) Psychology",
-        "(SOC) Sociology"
-      ],
-      "Institution": [
-        "Marxist School, Northeast Normal University, Changchun 130024, China",
-        "Institute of Economics, Jilin Academy of Social Sciences, Changchun 130033, China",
-        "Facultad de Ingenier\u00eda, Universidad Distrital Francisco Jos\u00e9 de Caldas, Colombia",
-        "Beirut Arab University, Lebanon"
-      ],
-      "Journal": "Aggression and Violent Behavior",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China",
-        "Colombia",
-        "Lebanon"
-      ],
-      "Author": [
-        "Wenjun Zhou",
-        "Fengrong Zhang",
-        "Xi Wang",
-        "Carlos Enrique Montenegro-Marin",
-        "Seifedine Nimer Kadry"
-      ],
-      "ArticleType": [
-        "Article in Press",
-        "Research Article"
-      ],
-      "RetractionDate": "6/14/2023 0:00",
-      "RetractionDOI": "10.1016/j.avb.2021.101563",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/12/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.avb.2021.101563",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues with Peer Review",
-        "+Error by Journal/Publisher",
-        "+Rogue Editor",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications;",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d2342e2d",
-      "Record ID": "50132",
-      "Title": "Artificial intelligence with robotics for advanced manufacturing industry using robot-assisted mixed-integer programming model",
-      "Subject": [
-        "(B/T) Business - Management",
-        "(B/T) Data Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "School of Finance and Economics, Anhui Science and Technology University, Bengbu, 233100, AnHui, China",
-        "V.R.S. College of Engineering & Technology, Villupuram, India",
-        "Beirut Arab University, Lebnon, Lebanon"
-      ],
-      "Journal": "Intelligent Service Robotics",
-      "Publisher": "Springer",
-      "Country": [
-        "China",
-        "India",
-        "Lebanon"
-      ],
-      "Author": [
-        "Hong Xiao",
-        "BalaAnand Muthu",
-        "Seifedine Nimer Kadry"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/7/2023 0:00",
-      "RetractionDOI": "10.1007/s11370-020-00326-7",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/17/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s11370-020-00326-7",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Objections by Author(s)",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2342be7",
-      "Record ID": "50715",
-      "Title": "Recognition of Apple Leaf Diseases using Deep Learning and Variances-Controlled Features Reduction",
-      "Subject": [
-        "(B/T) Data Science",
-        "(BLS) Agriculture",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Department of Computer Science, HITEC University Taxila, Pakistan",
-        "Department of Robotics, SMME Nust, Islamabad, Pakistan",
-        "Department of Mathematics and Computer Science, Faculty of Science, Beirut Arab University, Lebanon",
-        "Department of Informatics, University of Leicester, UK",
-        "Department of Electrical Engineering, COMSATS University Islamabad, Pakistan"
-      ],
-      "Journal": "Microprocessors and Microsystems",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Lebanon",
-        "Pakistan",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Muqadas Bin Tahir",
-        "Muhammad Attique Khan",
-        "Kashif Javed",
-        "Seifedine Kadry",
-        "Yu-Dong Zhang",
-        "Tallha Akram",
-        "Muhammad Nazir"
-      ],
-      "ArticleType": [
-        "Article in Press",
-        "Research Article"
-      ],
-      "RetractionDate": "12/31/2023 0:00",
-      "RetractionDOI": "10.1016/j.micpro.2021.104027",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/15/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.micpro.2021.104027",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Error by Journal/Publisher",
-        "+Euphemisms for Plagiarism",
-        "+Fake Peer Review",
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unkown/html page overwrite, date estimated from notifications;",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342e2c",
-      "Record ID": "50133",
-      "Title": "Artificial intelligence with robotics for advanced manufacturing industry using robot-assisted mixed-integer programming model",
-      "Subject": [
-        "(B/T) Business - Management",
-        "(B/T) Data Science",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "School of Finance and Economics, Anhui Science and Technology University, Bengbu, 233100, AnHui, China",
-        "V.R.S. College of Engineering & Technology, Villupuram, India",
-        "Beirut Arab University, Lebnon, Lebanon"
-      ],
-      "Journal": "Intelligent Service Robotics",
-      "Publisher": "Springer",
-      "Country": [
-        "China",
-        "India",
-        "Lebanon"
-      ],
-      "Author": [
-        "Hong Xiao",
-        "BalaAnand Muthu",
-        "Seifedine Nimer Kadry"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/20/2020 0:00",
-      "RetractionDOI": "10.1007/s11370-020-00330-x",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/17/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s11370-020-00326-7",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2020,
-      "retraction_count": 4,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 1,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -428,10 +435,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

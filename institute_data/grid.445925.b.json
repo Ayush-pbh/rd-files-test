@@ -1,61 +1,106 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878fe1",
+    "_id": "687ccbab09adbf7aa61b9c02",
     "grid_id": "grid.445925.b",
     "institute_name": "North-Western State Medical University named after I.I. Mechnikov",
     "country": "Russia",
     "retracted_record_ids": [
-      "40143"
+      "40143",
+      "65690"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345507",
-      "Record ID": "40143",
-      "Title": "Assessment Results of Surgical Treatment of Sciatic Nerve Injuries",
-      "Subject": [
+      "_id": "687cef4f1f662220d898459b",
+      "recordId": "65690",
+      "title": "Environmental impact and biological activity of bio-based shampoos",
+      "subject": [
+        "(BLS) Toxicology",
+        "(ENV) Environmental Sciences"
+      ],
+      "institution": [
+        "North-Western State Medical University named after I. I. Mechnikov, 195067 St. Petersburg, Russia"
+      ],
+      "journal": "E3S Web of Conferences",
+      "publisher": "EDP Sciences",
+      "country": [
+        "Russia"
+      ],
+      "author": [
+        "Alexey Popov",
+        "Irina Ivanova",
+        "Eva Dikareva"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "1/6/2025 0:00",
+      "retractiondoi": "10.1051/e3sconf/202342000001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/4/2023 0:00",
+      "originalpaperdoi": "10.1051/e3sconf/202342009016",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb21f662220d898a8ed",
+      "recordId": "40143",
+      "title": "Assessment Results of Surgical Treatment of Sciatic Nerve Injuries",
+      "subject": [
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "North-Western State Medical University named after I.I. Mechnikov",
         "Almazov National Medical Research Centre of the Ministry of Health of the Russian Federation"
       ],
-      "Journal": "Traumatology and Orthopedics of Russia (\u0422\u0440\u0430\u0432\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u0418 \u041e\u0440\u0442\u043e\u043f\u0435\u0434\u0438\u044f \u0420\u043e\u0441\u0441\u0438\u0438)",
-      "Publisher": "Eco-Vector",
-      "Country": [
+      "journal": "Traumatology and Orthopedics of Russia (\u0422\u0440\u0430\u0432\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u0418 \u041e\u0440\u0442\u043e\u043f\u0435\u0434\u0438\u044f \u0420\u043e\u0441\u0441\u0438\u0438)",
+      "publisher": "Eco-Vector",
+      "country": [
         "Russia"
       ],
-      "Author": [
+      "author": [
         "Rusian I Khamzaev",
         "Valery P Bersnev",
         "Yuri I Boroda"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/20/2022 0:00",
-      "RetractionDOI": "10.17816/2311-2905-1789",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2009 0:00",
-      "OriginalPaperDOI": "10.17816/2311-2905-1899",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/20/2022 0:00",
+      "retractiondoi": "10.17816/2311-2905-1789",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2009 0:00",
+      "originalpaperdoi": "10.17816/2311-2905-1899",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2009
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -63,10 +108,32 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

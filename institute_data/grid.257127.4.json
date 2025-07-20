@@ -1,33 +1,94 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068782eb",
+    "_id": "687ccbab09adbf7aa61b8f0c",
     "grid_id": "grid.257127.4",
     "institute_name": "Howard University",
     "country": "United States",
     "retracted_record_ids": [
-      "57881",
       "38589",
-      "58277",
-      "10920",
-      "1715",
-      "52022",
-      "18131",
       "52023",
-      "23584"
+      "58277",
+      "52022",
+      "10920",
+      "57881",
+      "23584",
+      "18131",
+      "1715"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2341004",
-      "Record ID": "57881",
-      "Title": "KMT2C Mutations in Diffuse-Type Gastric Adenocarcinoma Promote Epithelial-to-Mesenchymal Transition",
-      "Subject": [
+      "_id": "687cef6d1f662220d898625f",
+      "recordId": "58277",
+      "title": "CDX1 Expression Induced by CagA-Expressing Helicobacter pylori Promotes Gastric Tumorigenesis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Center for Gastric Cancer, National Cancer Center, Goyang, Republic of Korea",
+        "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New York",
+        "Gastric Cancer Branch, Research Institute, National Cancer Center, Goyang, Republic of Korea",
+        "Department of Gastric Surgery, Fujian Medical University Union Hospital, Fujian Province, P.R. China",
+        "Department of Medicine, Howard University, Washington, D.C.",
+        "Department of Internal Medicine, Liver Research Institute, Seoul National University Hospital, Seoul, Republic of Korea"
+      ],
+      "journal": "Molecular Cancer Research (MCR)",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "China",
+        "South Korea",
+        "United States"
+      ],
+      "author": [
+        "Sang Il Choi",
+        "Changhwan Yoon",
+        "Mi Ree Park",
+        "DaHyung Lee",
+        "Myeong-Cherl Kook",
+        "Jian-Xian Lin",
+        "Jun Hyuk Kang",
+        "Hassan Ashktorab",
+        "Duane T Smoot",
+        "Sam S Yoon",
+        "Soo-Jeong Cho"
+      ],
+      "urls": "https://retractionwatch.com/?s=sam+Yoon",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/1/2024 0:00",
+      "retractiondoi": "10.1158/1541-7786.MCR-24-0859",
+      "retractionpubmedid": "39482974.0",
+      "originalpaperdate": "11/1/2019 0:00",
+      "originalpaperdoi": "10.1158/1541-7786.MCR-19-0181",
+      "originalpaperpubmedid": "31416838.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef6f1f662220d89863ea",
+      "recordId": "57881",
+      "title": "KMT2C Mutations in Diffuse-Type Gastric Adenocarcinoma Promote Epithelial-to-Mesenchymal Transition",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Gastric and Mixed Tumor Service, Department of Surgery, Memorial SloanKettering Cancer Center, New York, New York",
         "Center for Gastric Cancer, National Cancer Center, Goyang, South Korea",
         "Division of Clinical Research, Rare Cancer Branch, National Cancer Center, Goyang, South Korea",
@@ -37,13 +98,13 @@
         "Department of Medicine, Howard University, Washington, D.C",
         "Department of Internal Medicine, Meharry Medical College, Nashville, Tennessee"
       ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "South Korea",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Soo-Jeong Cho",
         "Changhwan Yoon",
         "Jun Ho Lee",
@@ -58,227 +119,103 @@
         "Nikolaus Schultz",
         "Sam S Yoon"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/15/2024 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-24-2132",
-      "RetractionPubMedID": "39402969.0",
-      "OriginalPaperDate": "12/15/2018 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-17-1679",
-      "OriginalPaperPubMedID": "30108106.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/15/2024 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-24-2132",
+      "retractionpubmedid": "39402969.0",
+      "originalpaperdate": "12/15/2018 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-17-1679",
+      "originalpaperpubmedid": "30108106.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://www.nytimes.com/2024/10/16/science/sam-yoon-columbia-cancer-surgeon-5-more-retractions.html",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "see also: https://www.nytimes.com/2024/10/16/science/sam-yoon-columbia-cancer-surgeon-5-more-retractions.html",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345b0f",
-      "Record ID": "38589",
-      "Title": "Our Separate Struggles Are Really One: Re/Building Coalitions and Solidarity for Social and Racial Justice in Education",
-      "Subject": [
-        "(SOC) Education",
-        "(SOC) Political Science",
-        "(SOC) Sociology"
-      ],
-      "Institution": [
-        "Arizona State University",
-        "CUNY, Queens College",
-        "Howard University"
-      ],
-      "Journal": "Educational Studies",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Crist\u00f3bal Rodr\u00edguez"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/29/2022 0:00",
-      "RetractionDOI": "10.1080/00131946.2022.2089516",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/7/2022 0:00",
-      "OriginalPaperDOI": "10.1080/00131946.2022.2033754",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2340e79",
-      "Record ID": "58277",
-      "Title": "CDX1 Expression Induced by CagA-Expressing Helicobacter pylori Promotes Gastric Tumorigenesis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Center for Gastric Cancer, National Cancer Center, Goyang, Republic of Korea",
-        "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New York",
-        "Gastric Cancer Branch, Research Institute, National Cancer Center, Goyang, Republic of Korea",
-        "Department of Gastric Surgery, Fujian Medical University Union Hospital, Fujian Province, P.R. China",
-        "Department of Medicine, Howard University, Washington, D.C.",
-        "Department of Internal Medicine, Liver Research Institute, Seoul National University Hospital, Seoul, Republic of Korea"
-      ],
-      "Journal": "Molecular Cancer Research (MCR)",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "China",
-        "South Korea",
-        "United States"
-      ],
-      "Author": [
-        "Sang Il Choi",
-        "Changhwan Yoon",
-        "Mi Ree Park",
-        "DaHyung Lee",
-        "Myeong-Cherl Kook",
-        "Jian-Xian Lin",
-        "Jun Hyuk Kang",
-        "Hassan Ashktorab",
-        "Duane T Smoot",
-        "Sam S Yoon",
-        "Soo-Jeong Cho"
-      ],
-      "URLS": "https://retractionwatch.com/?s=sam+Yoon",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/1/2024 0:00",
-      "RetractionDOI": "10.1158/1541-7786.MCR-24-0859",
-      "RetractionPubMedID": "39482974.0",
-      "OriginalPaperDate": "11/1/2019 0:00",
-      "OriginalPaperDOI": "10.1158/1541-7786.MCR-19-0181",
-      "OriginalPaperPubMedID": "31416838.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c6b1",
-      "Record ID": "10920",
-      "Title": "Development, metamorphosis, morphology, and diversity: The evolution of chordate muscles and the origin of vertebrates",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Zoology"
-      ],
-      "Institution": [
-        "Department of Anatomy, Howard University College of Medicine, Washington, DC"
-      ],
-      "Journal": "Developmental Dynamics",
-      "Publisher": "Wiley",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Rui Diogo",
-        "Janine M Ziermann"
-      ],
-      "URLS": "http://retractionwatch.com/2015/08/25/sea-squirt-draft-published-by-mistake/",
-      "ArticleType": [
-        "Article in Press",
-        "Review Article"
-      ],
-      "RetractionDate": "7/15/2015 0:00",
-      "RetractionDOI": "10.1002/dvdy.24236",
-      "RetractionPubMedID": "25476723.0",
-      "OriginalPaperDate": "12/5/2014 0:00",
-      "OriginalPaperDOI": "10.1002/dvdy.24245",
-      "OriginalPaperPubMedID": "26095777.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Retract and Replace"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2014,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d234ea12",
-      "Record ID": "1715",
-      "Title": "Reply to Letter: ATLS Protocols of Initial Intravenous Fluid Administration for Trauma Patients; Needing a Revision?",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Division of Acute Care Surgery, Department of Surgery, The Johns Hopkins University School of Medicine, Baltimore, Maryland",
-        "Department of Surgery and The Center for Translational Injury Research, The University of Texas Health Science Center, Houston, Texas",
-        "Department of Surgery, Howard University, Washington, DC"
-      ],
-      "Journal": "Annals of Surgery",
-      "Publisher": "Wolters Kluwer",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Elliott R Haut",
-        "Adil H Haider",
-        "Bryan A Cotton",
-        "Kent A Stevens",
-        "Edward E III Cornwell",
-        "David T Efron"
-      ],
-      "URLS": "http://retractionwatch.com/2015/10/22/surgery-journal-publishes-then-retracts-response-to-letter-that-never-appeared/",
-      "ArticleType": [
-        "Letter"
-      ],
-      "RetractionDate": "8/1/2015 0:00",
-      "RetractionDOI": "10.1097/01.sla.0000469996.10909.96",
-      "RetractionPubMedID": "26164431.0",
-      "OriginalPaperDate": "8/1/2015 0:00",
-      "OriginalPaperDOI": "10.1097/SLA.0000000000000484",
-      "OriginalPaperPubMedID": "24441797.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Miscommunication with/by Third Party"
-      ],
-      "Paywalled": "No",
-      "Notes": "March 18, 2015 published online ahead of print, but no online component remains; RW URL mentions that there is a paywall, but retraction has since been updated so it is not paywalled. JME 04/03/2017",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d23426ce",
-      "Record ID": "52022",
-      "Title": "FOXC1 modulates stem-like cell properties and chemoresistance through hedgehog and EMT signaling in gastric adenocarcinoma",
-      "Subject": [
+      "_id": "687cef871f662220d8987ab3",
+      "recordId": "52023",
+      "title": "Lymphatic metastasis-related TBL1XR1 enhances stemness and metastasis in gastric cancer stem-like cells by activating ERK1/2-SOX2 signaling",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
+        "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY, USA",
+        "Department of Gastric Surgery, Fujian Medical University Union Hospital, Fujian, China",
+        "Department of Pathology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, South Korea",
+        "Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea",
+        "Department of Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam, Gyeonggi-do, South Korea",
+        "Department of Internal Medicine, Liver Research Institute, Seoul National University Hospital, Seoul, South Korea",
+        "Department of Medicine, Howard University, Washington, DC, USA",
+        "Department of Cancer Biology, University of Pennsylvania School of Medicine, Philadelphia, PA, USA"
+      ],
+      "journal": "Oncogene",
+      "publisher": "Springer",
+      "country": [
+        "China",
+        "South Korea",
+        "United States"
+      ],
+      "author": [
+        "Jun Lu",
+        "Heejin Bang",
+        "Su Mi Kim",
+        "Soo-Jeong Cho",
+        "Hassan Ashktorab",
+        "Duane T Smoot",
+        "Chao-hui Zheng",
+        "Sandra W Ryeom",
+        "Sam S Yoon",
+        "Changhwan Yoon",
+        "Jun Ho Lee"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/20/2024 0:00",
+      "retractiondoi": "10.1038/s41388-024-02962-0",
+      "retractionpubmedid": "38378920.0",
+      "originalpaperdate": "12/7/2020 0:00",
+      "originalpaperdoi": "10.1038/s41388-020-01571-x",
+      "originalpaperpubmedid": "33288885.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Euphemisms for Duplication",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/8CEA071572048587E9E0936ED11A5F",
+      "year": "2020",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef871f662220d8987ab4",
+      "recordId": "52022",
+      "title": "FOXC1 modulates stem-like cell properties and chemoresistance through hedgehog and EMT signaling in gastric adenocarcinoma",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
         "Department of Gastric Surgery, Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou 350001, Fujian Province, China",
         "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY 10013, USA",
         "Department of Pathology, School of Basic Medical Sciences, Fujian Medical, 35001 University, Fuzhou 35001, Fujian Province, China",
@@ -288,14 +225,14 @@
         "Department of Cancer Biology, University of Pennsylvania School of Medicine, Philadelphia, PA 19019, USA",
         "Department of Surgery, Columbia University Irving Medical Center, New York, NY 10032"
       ],
-      "Journal": "Molecular Therapy",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Molecular Therapy",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "China",
         "South Korea",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jun Lu",
         "Long-long Cao",
         "Yu Xu",
@@ -311,252 +248,324 @@
         "Changhwan Yoon",
         "Chang-ming Huang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Article in Press",
         "Research Article"
       ],
-      "RetractionDate": "2/24/2024 0:00",
-      "RetractionDOI": "10.1016/j.ymthe.2024.02.023",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/15/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.ymthe.2021.09.009",
-      "OriginalPaperPubMedID": "34534693.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/24/2024 0:00",
+      "retractiondoi": "10.1016/j.ymthe.2024.02.023",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/15/2021 0:00",
+      "originalpaperdoi": "10.1016/j.ymthe.2021.09.009",
+      "originalpaperpubmedid": "34534693.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234aaa7",
-      "Record ID": "18131",
-      "Title": "Compliance of federally-funded maternal fetal medicine and neonatology studies to federally-mandated trial registration requirement",
-      "Subject": [
+      "_id": "687cefb51f662220d898aef5",
+      "recordId": "38589",
+      "title": "Our Separate Struggles Are Really One: Re/Building Coalitions and Solidarity for Social and Racial Justice in Education",
+      "subject": [
+        "(SOC) Education",
+        "(SOC) Political Science",
+        "(SOC) Sociology"
+      ],
+      "institution": [
+        "Arizona State University",
+        "CUNY, Queens College",
+        "Howard University"
+      ],
+      "journal": "Educational Studies",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Crist\u00f3bal Rodr\u00edguez"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/29/2022 0:00",
+      "retractiondoi": "10.1080/00131946.2022.2089516",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/7/2022 0:00",
+      "originalpaperdoi": "10.1080/00131946.2022.2033754",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00e1f662220d898e95c",
+      "recordId": "23584",
+      "title": "Managing college operations during the coronavirus outbreak",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(SOC) Education"
+      ],
+      "institution": [
+        "Howard University College of Pharmacy, Washington, DC",
+        "Pharmacy Sciences Department, Howard University College of Pharmacy, Washington, DC"
+      ],
+      "journal": "Journal of the American Pharmacists Association",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Toyin Tofade",
+        "Monika Daftary"
+      ],
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Commentary/Editorial"
+      ],
+      "retractiondate": "4/10/2020 0:00",
+      "retractiondoi": "10.1016/j.japh.2020.04.004",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/10/2020 0:00",
+      "originalpaperdoi": "10.1016/j.japh.2020.04.004",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Content through Error by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898fe8d",
+      "recordId": "18131",
+      "title": "Compliance of federally-funded maternal fetal medicine and neonatology studies to federally-mandated trial registration requirement",
+      "subject": [
         "(B/T) Business - Economics",
         "(B/T) Government",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Greenville Health System, Univ South Carolina School of Medicine, Greenville, SC",
         "Howard University College of Medicine, Washington, DC",
         "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health and Human Development(NIH/NICHD), Bethesda, MD"
       ],
-      "Journal": "American Journal of Obstetrics and Gynecology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "American Journal of Obstetrics and Gynecology",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Vanessa C Nunes",
         "Alexandria Wells",
         "Germaine Y Noukelak",
         "Menachem Miodovnik",
         "Tonse N K Raju"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "5/4/2018 0:00",
-      "RetractionDOI": "10.1016/j.ajog.2017.11.176",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.ajog.2017.11.176",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/4/2018 0:00",
+      "retractiondoi": "10.1016/j.ajog.2017.11.176",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2018 0:00",
+      "originalpaperdoi": "10.1016/j.ajog.2017.11.176",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23426cd",
-      "Record ID": "52023",
-      "Title": "Lymphatic metastasis-related TBL1XR1 enhances stemness and metastasis in gastric cancer stem-like cells by activating ERK1/2-SOX2 signaling",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
+      "_id": "687cf0b21f662220d8991a97",
+      "recordId": "10920",
+      "title": "Development, metamorphosis, morphology, and diversity: The evolution of chordate muscles and the origin of vertebrates",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Zoology"
       ],
-      "Institution": [
-        "Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY, USA",
-        "Department of Gastric Surgery, Fujian Medical University Union Hospital, Fujian, China",
-        "Department of Pathology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, South Korea",
-        "Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea",
-        "Department of Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam, Gyeonggi-do, South Korea",
-        "Department of Internal Medicine, Liver Research Institute, Seoul National University Hospital, Seoul, South Korea",
-        "Department of Medicine, Howard University, Washington, DC, USA",
-        "Department of Cancer Biology, University of Pennsylvania School of Medicine, Philadelphia, PA, USA"
+      "institution": [
+        "Department of Anatomy, Howard University College of Medicine, Washington, DC"
       ],
-      "Journal": "Oncogene",
-      "Publisher": "Springer",
-      "Country": [
-        "China",
-        "South Korea",
+      "journal": "Developmental Dynamics",
+      "publisher": "Wiley",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Jun Lu",
-        "Heejin Bang",
-        "Su Mi Kim",
-        "Soo-Jeong Cho",
-        "Hassan Ashktorab",
-        "Duane T Smoot",
-        "Chao-hui Zheng",
-        "Sandra W Ryeom",
-        "Sam S Yoon",
-        "Changhwan Yoon",
-        "Jun Ho Lee"
+      "author": [
+        "Rui Diogo",
+        "Janine M Ziermann"
       ],
-      "ArticleType": [
-        "Research Article"
+      "urls": "http://retractionwatch.com/2015/08/25/sea-squirt-draft-published-by-mistake/",
+      "articletype": [
+        "Article in Press",
+        "Review Article"
       ],
-      "RetractionDate": "2/20/2024 0:00",
-      "RetractionDOI": "10.1038/s41388-024-02962-0",
-      "RetractionPubMedID": "38378920.0",
-      "OriginalPaperDate": "12/7/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41388-020-01571-x",
-      "OriginalPaperPubMedID": "33288885.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Euphemisms for Duplication",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Data"
+      "retractiondate": "7/15/2015 0:00",
+      "retractiondoi": "10.1002/dvdy.24236",
+      "retractionpubmedid": "25476723.0",
+      "originalpaperdate": "12/5/2014 0:00",
+      "originalpaperdoi": "10.1002/dvdy.24245",
+      "originalpaperpubmedid": "26095777.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/8CEA071572048587E9E0936ED11A5F",
-      "notice_year": 2024,
-      "year": 2020,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349576",
-      "Record ID": "23584",
-      "Title": "Managing college operations during the coronavirus outbreak",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(SOC) Education"
+      "_id": "687cf0d31f662220d8993df8",
+      "recordId": "1715",
+      "title": "Reply to Letter: ATLS Protocols of Initial Intravenous Fluid Administration for Trauma Patients; Needing a Revision?",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Howard University College of Pharmacy, Washington, DC",
-        "Pharmacy Sciences Department, Howard University College of Pharmacy, Washington, DC"
+      "institution": [
+        "Division of Acute Care Surgery, Department of Surgery, The Johns Hopkins University School of Medicine, Baltimore, Maryland",
+        "Department of Surgery and The Center for Translational Injury Research, The University of Texas Health Science Center, Houston, Texas",
+        "Department of Surgery, Howard University, Washington, DC"
       ],
-      "Journal": "Journal of the American Pharmacists Association",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Annals of Surgery",
+      "publisher": "Wolters Kluwer",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Toyin Tofade",
-        "Monika Daftary"
+      "author": [
+        "Elliott R Haut",
+        "Adil H Haider",
+        "Bryan A Cotton",
+        "Kent A Stevens",
+        "Edward E III Cornwell",
+        "David T Efron"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Commentary/Editorial"
+      "urls": "http://retractionwatch.com/2015/10/22/surgery-journal-publishes-then-retracts-response-to-letter-that-never-appeared/",
+      "articletype": [
+        "Letter"
       ],
-      "RetractionDate": "4/10/2020 0:00",
-      "RetractionDOI": "10.1016/j.japh.2020.04.004",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/10/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.japh.2020.04.004",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Content through Error by Journal/Publisher"
+      "retractiondate": "8/1/2015 0:00",
+      "retractiondoi": "10.1097/01.sla.0000469996.10909.96",
+      "retractionpubmedid": "26164431.0",
+      "originalpaperdate": "8/1/2015 0:00",
+      "originalpaperdoi": "10.1097/SLA.0000000000000484",
+      "originalpaperpubmedid": "24441797.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Miscommunication with/by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "March 18, 2015 published online ahead of print, but no online component remains; RW URL mentions that there is a paywall, but retraction has since been updated so it is not paywalled. JME 04/03/2017",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 1,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -564,10 +573,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,20 +1,75 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068784c6",
+    "_id": "687ccbab09adbf7aa61b90e7",
     "grid_id": "grid.413005.3",
     "institute_name": "Azienda Ospedaliero Universitaria San Giovanni Battista",
     "country": "Italy",
     "retracted_record_ids": [
-      "39505",
-      "56824"
+      "56824",
+      "39505"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345784",
-      "Record ID": "39505",
-      "Title": "In vivo NCL targeting affects breast cancer aggressiveness through miRNA regulation",
-      "Subject": [
+      "_id": "687cef731f662220d898680b",
+      "recordId": "56824",
+      "title": "Verapamil Inhibits Ser202/Thr205 Phosphorylation of Tau by Blocking TXNIP/ROS/p38 MAPK Pathway",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Medical, Surgical, Neurological, Metabolic Sciences and Aging, Second Division of Neurology, Center for Rare Neurological e Neuromuscular Diseases and Interuniversity Center for Research in Neurosciences, University of Campania Luigi Vanvitelli, 80100, Naples, Italy",
+        "Department of Neuroscience, University Hospital San Giovanni Battista di Torino, 10126, Molinette, Italy",
+        "Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Universit\u00e0 degli Studi di Napoli Federico II, 80100, Naples, Italy",
+        "Universite\u00b4Grenoble Alpes, Grenoble, France",
+        "DKFZ, Department of Functional and Structural Genomics, Heidelberg, Germany"
+      ],
+      "journal": "Pharmaceutical Research",
+      "publisher": "Springer",
+      "country": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "author": [
+        "Mariarosa Anna Beatrice Melone",
+        "Clemente Dato",
+        "Simona Paladino",
+        "Cinzia Coppola",
+        "Claudia Trebini",
+        "Maria Teresa Giordana",
+        "Lorena Perrone"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/11/2024 0:00",
+      "retractiondoi": "10.1007/s11095-024-03767-2",
+      "retractionpubmedid": "39261442.0",
+      "originalpaperdate": "2/5/2018 0:00",
+      "originalpaperdoi": "10.1007/s11095-017-2276-2",
+      "originalpaperpubmedid": "29404777.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Objections by Author(s)",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb41f662220d898ab6a",
+      "recordId": "39505",
+      "title": "In vivo NCL targeting affects breast cancer aggressiveness through miRNA regulation",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
@@ -23,7 +78,7 @@
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Hematology, College of Medicine, The Ohio State University, Columbus, OH 43210",
         "Division of Oncology, Department of Internal Medicine, College of Medicine, The Ohio State University, Columbus, OH 43210",
         "Department of Molecular Virology, Immunology, and Medical Genetics",
@@ -37,13 +92,13 @@
         "Phylogeny Inc., Powell, OH 43065",
         "Data Mining for Analysis of Microarrays, Department of Morphology and Embryology, University of Ferrara, 44100 Ferrara, Italy"
       ],
-      "Journal": "The Journal of Experimental Medicine",
-      "Publisher": "Rockefeller University Press",
-      "Country": [
+      "journal": "The Journal of Experimental Medicine",
+      "publisher": "Rockefeller University Press",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Flavia Pichiorri",
         "Dario Palmieri",
         "Luciana De Luca",
@@ -67,112 +122,59 @@
         "Michael A Freitas",
         "Carlo M Croce"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/09/osu-researcher-investigation-corrects-paper-cited-500-times/;http://retractionwatch.com/?s=carlo+croce;https://retractionwatch.com/?s=Flavia+Pichiorri",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/09/osu-researcher-investigation-corrects-paper-cited-500-times/;http://retractionwatch.com/?s=carlo+croce;https://retractionwatch.com/?s=Flavia+Pichiorri",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/3/2022 0:00",
-      "RetractionDOI": "10.1084/jem.2012095009272022e",
-      "RetractionPubMedID": "36191251.0",
-      "OriginalPaperDate": "4/22/2013 0:00",
-      "OriginalPaperDOI": "10.1084/jem.20120950",
-      "OriginalPaperPubMedID": "23610125.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "10/3/2022 0:00",
+      "retractiondoi": "10.1084/jem.2012095009272022e",
+      "retractionpubmedid": "36191251.0",
+      "originalpaperdate": "4/22/2013 0:00",
+      "originalpaperdoi": "10.1084/jem.20120950",
+      "originalpaperpubmedid": "23610125.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2341425",
-      "Record ID": "56824",
-      "Title": "Verapamil Inhibits Ser202/Thr205 Phosphorylation of Tau by Blocking TXNIP/ROS/p38 MAPK Pathway",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Medical, Surgical, Neurological, Metabolic Sciences and Aging, Second Division of Neurology, Center for Rare Neurological e Neuromuscular Diseases and Interuniversity Center for Research in Neurosciences, University of Campania Luigi Vanvitelli, 80100, Naples, Italy",
-        "Department of Neuroscience, University Hospital San Giovanni Battista di Torino, 10126, Molinette, Italy",
-        "Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Universit\u00e0 degli Studi di Napoli Federico II, 80100, Naples, Italy",
-        "Universite\u00b4Grenoble Alpes, Grenoble, France",
-        "DKFZ, Department of Functional and Structural Genomics, Heidelberg, Germany"
-      ],
-      "Journal": "Pharmaceutical Research",
-      "Publisher": "Springer",
-      "Country": [
-        "France",
-        "Germany",
-        "Italy"
-      ],
-      "Author": [
-        "Mariarosa Anna Beatrice Melone",
-        "Clemente Dato",
-        "Simona Paladino",
-        "Cinzia Coppola",
-        "Claudia Trebini",
-        "Maria Teresa Giordana",
-        "Lorena Perrone"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/11/2024 0:00",
-      "RetractionDOI": "10.1007/s11095-024-03767-2",
-      "RetractionPubMedID": "39261442.0",
-      "OriginalPaperDate": "2/5/2018 0:00",
-      "OriginalPaperDOI": "10.1007/s11095-017-2276-2",
-      "OriginalPaperPubMedID": "29404777.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Objections by Author(s)",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -180,10 +182,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

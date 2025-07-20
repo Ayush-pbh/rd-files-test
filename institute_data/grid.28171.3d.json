@@ -1,109 +1,112 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879d4a",
+    "_id": "687ccbab09adbf7aa61ba96b",
     "grid_id": "grid.28171.3d",
     "institute_name": "N. I. Lobachevsky State University of Nizhny Novgorod",
     "country": "Russia",
     "retracted_record_ids": [
-      "10121",
-      "16625"
+      "16625",
+      "10121"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234c9cd",
-      "Record ID": "10121",
-      "Title": "Lorenz-like attractors in a nonholonomic model of a rattleback",
-      "Subject": [
-        "(PHY) Engineering - General",
-        "(PHY) Mathematics",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "Nizhny Novgorod State University, Nizhny Novgorod"
-      ],
-      "Journal": "Nonlinearity",
-      "Publisher": "Institute of Physics (IOP)",
-      "Country": [
-        "Russia"
-      ],
-      "Author": [
-        "A S Gonchenko",
-        "S V Gonchenko"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/21/2017 0:00",
-      "RetractionDOI": "10.1088/1361-6544/aa5d6e",
-      "OriginalPaperDate": "8/24/2015 0:00",
-      "OriginalPaperDOI": "10.1088/0951-7715/28/9/3403",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015
-    },
-    {
-      "_id": "6855d574b14f7811d234b079",
-      "Record ID": "16625",
-      "Title": "Numerical infinities and infinitesimals: Methodology, applications, and repercussions on two Hilbert problems",
-      "Subject": [
+      "_id": "687cf0971f662220d899045f",
+      "recordId": "16625",
+      "title": "Numerical infinities and infinitesimals: Methodology, applications, and repercussions on two Hilbert problems",
+      "subject": [
         "(PHY) Mathematics"
       ],
-      "Institution": [
+      "institution": [
         "Universit\u00e0 della Calabria, Via P. Bucci, Cubo 42-C, 87036 Rende (CS), Italy",
         "Lobachevsky University, Nizhni Novgorod, Russia",
         "Institute of High Performance Computing and Networking of the National Research Council of Italy, Rende, Italy"
       ],
-      "Journal": "EMS Surveys in Mathematical Sciences",
-      "Publisher": "European Mathematical Society",
-      "Country": [
+      "journal": "EMS Surveys in Mathematical Sciences",
+      "publisher": "European Mathematical Society",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Yaroslav D Sergeyev"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/1/2017 0:00",
-      "RetractionDOI": "10.4171/EMSS/4-2-3",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/13/2017 0:00",
-      "OriginalPaperDOI": "10.4171/EMSS/4-2-3",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "12/1/2017 0:00",
+      "retractiondoi": "10.4171/EMSS/4-2-3",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/13/2017 0:00",
+      "originalpaperdoi": "10.4171/EMSS/4-2-3",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b41f662220d8991db3",
+      "recordId": "10121",
+      "title": "Lorenz-like attractors in a nonholonomic model of a rattleback",
+      "subject": [
+        "(PHY) Engineering - General",
+        "(PHY) Mathematics",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "Nizhny Novgorod State University, Nizhny Novgorod"
+      ],
+      "journal": "Nonlinearity",
+      "publisher": "Institute of Physics (IOP)",
+      "country": [
+        "Russia"
+      ],
+      "author": [
+        "A S Gonchenko",
+        "S V Gonchenko"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/21/2017 0:00",
+      "retractiondoi": "10.1088/1361-6544/aa5d6e",
+      "originalpaperdate": "8/24/2015 0:00",
+      "originalpaperdoi": "10.1088/0951-7715/28/9/3403",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

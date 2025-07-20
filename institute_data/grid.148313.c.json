@@ -1,205 +1,171 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879a5c",
+    "_id": "687ccbab09adbf7aa61ba67d",
     "grid_id": "grid.148313.c",
     "institute_name": "Los Alamos National Laboratory",
     "country": "United States",
     "retracted_record_ids": [
-      "9572",
-      "3716",
       "2385",
-      "16924",
+      "21031",
+      "3716",
+      "9572",
       "5403",
-      "21031"
+      "16924"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234cbf0",
-      "Record ID": "9572",
-      "Title": "Ion-beam-induced structural changes in MgAl2O4 and TiO2",
-      "Subject": [
-        "(PHY) Chemistry"
+      "_id": "687cf03f1f662220d898f34b",
+      "recordId": "21031",
+      "title": "X-ray observations of PSR B0355+54 and its pulsar wind nebula",
+      "subject": [
+        "(PHY) Astrophysics",
+        "(PHY) Crystallography/Spectroscopy"
       ],
-      "Institution": [
-        "The Institute of Scientific and Industrial Research, Osaka University, Mihogaoka, Ibaraki, Osaka",
-        "Materials Science and Technology Division, Los Alamos National Laboratory, Los Alamos, NM"
+      "institution": [
+        "School of Physics and Astronomy, University of Southampton, Southampton, UK",
+        "Los Alamos National Laboratory, Los Alamos, USA",
+        "525 Davey Laboratory, Pennsylvania State University, University Park, USA",
+        "Mullard Space Science Laboratory, Dorking, UK",
+        "Chancellor\u2019s Office, University of California, Riverside, USA"
       ],
-      "Journal": "Microscopy",
-      "Publisher": "Oxford University Press",
-      "Country": [
+      "journal": "Astrophysics and Space Science",
+      "publisher": "Springer",
+      "country": [
+        "United Kingdom",
         "United States"
       ],
-      "Author": [
-        "Manabu Ishimaru",
-        "Yoshihiko Hirotsu",
-        "Kurt E Sickafus"
+      "author": [
+        "Katherine E McGowan",
+        "W Thomas Vestrand",
+        "Jamie A Kennea",
+        "Silvia Zane",
+        "Mark Cropper",
+        "France A Cordova"
       ],
-      "ArticleType": [
+      "articletype": [
+        "Book Chapter/Reference Work",
         "Research Article"
       ],
-      "RetractionDate": "1/1/2016 0:00",
-      "RetractionDOI": "10.1093/jmicro/51.Supplement.S219",
-      "OriginalPaperDate": "3/27/2002 0:00",
-      "OriginalPaperDOI": "10.1093/jmicro/51.Supplement.S219",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Duplication of Text"
+      "retractiondate": "8/12/2019 0:00",
+      "retractiondoi": "10.1007/s10509-019-3622-0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/21/2007 0:00",
+      "originalpaperdoi": "10.1007/s10509-007-9319-9",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
       ],
-      "Paywalled": "Yes",
-      "Notes": "Journal previously known as Journal of Electron Microscopy",
-      "notice_year": 2016,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "possible diff doi for same article at https://link.springer.com/chapter/10.1007/978-1-4020-5998-8_39",
+      "year": "2007",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e272",
-      "Record ID": "3716",
-      "Title": "Fluorobodies combine GFP fluorescence with the binding characteristics of antibodies",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Immunology"
-      ],
-      "Institution": [
-        "Bioscience Division, HRL-1 TA-43 MS M888, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",
-        "USA Division of Neuroscience, Baylor College of Medicine, One Baylor Plaza, Houston, Texas 77030, USA",
-        "Department of Physics, Lewis and Clark College, Portland, Oregon 97219, USA"
-      ],
-      "Journal": "Nature Biotechnology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Ahmet Zeytun",
-        "Andreas Jeromin",
-        "Bethe A Scalettar",
-        "Geoffrey S Waldo",
-        "Andrew RM Bradbury"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/1/2004 0:00",
-      "RetractionDOI": "10.1038/nbt0504-601",
-      "RetractionPubMedID": "15122294.0",
-      "OriginalPaperDate": "11/9/2003 0:00",
-      "OriginalPaperDOI": "10.1038/nbt911",
-      "OriginalPaperPubMedID": "14608366.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Error in Results and/or Conclusions",
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2003,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e784",
-      "Record ID": "2385",
-      "Title": "Formation of zirconium metallic glass",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Engineering - Chemical"
-      ],
-      "Institution": [
-        "LANSCE Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Jianzhong Zhang",
-        "Yusheng Zhao"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/13/2005 0:00",
-      "RetractionDOI": "10.1038/nature04183",
-      "RetractionPubMedID": "16222302.0",
-      "OriginalPaperDate": "7/15/2004 0:00",
-      "OriginalPaperDOI": "10.1038/nature02715",
-      "OriginalPaperPubMedID": "15254533.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Methods"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2005,
-      "year": 2004,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234af50",
-      "Record ID": "16924",
-      "Title": "SQUID-detected ultra-low field MRI",
-      "Subject": [
+      "_id": "687cf0941f662220d8990336",
+      "recordId": "16924",
+      "title": "SQUID-detected ultra-low field MRI",
+      "subject": [
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Los Alamos National Laboratory, Los Alamos, NM 87545, United States"
       ],
-      "Journal": "Journal of Magnetic Resonance",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Magnetic Resonance",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Michelle Espy",
         "Andrei Matlashov",
         "Petr Volegov"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "10/15/2016 0:00",
-      "RetractionDOI": "10.1016/j.jmr.2016.09.008",
-      "RetractionPubMedID": "27756461.0",
-      "OriginalPaperDate": "12/22/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.jmr.2012.11.030",
-      "OriginalPaperPubMedID": "23333456.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/15/2016 0:00",
+      "retractiondoi": "10.1016/j.jmr.2016.09.008",
+      "retractionpubmedid": "27756461.0",
+      "originalpaperdate": "12/22/2012 0:00",
+      "originalpaperdoi": "10.1016/j.jmr.2012.11.030",
+      "originalpaperpubmedid": "23333456.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2012,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2016",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dbfb",
-      "Record ID": "5403",
-      "Title": "Superconductivity in the Rh-based Heusler Family MRh2Sn",
-      "Subject": [
+      "_id": "687cf0b51f662220d8991fd6",
+      "recordId": "9572",
+      "title": "Ion-beam-induced structural changes in MgAl2O4 and TiO2",
+      "subject": [
+        "(PHY) Chemistry"
+      ],
+      "institution": [
+        "The Institute of Scientific and Industrial Research, Osaka University, Mihogaoka, Ibaraki, Osaka",
+        "Materials Science and Technology Division, Los Alamos National Laboratory, Los Alamos, NM"
+      ],
+      "journal": "Microscopy",
+      "publisher": "Oxford University Press",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Manabu Ishimaru",
+        "Yoshihiko Hirotsu",
+        "Kurt E Sickafus"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2016 0:00",
+      "retractiondoi": "10.1093/jmicro/51.Supplement.S219",
+      "originalpaperdate": "3/27/2002 0:00",
+      "originalpaperdoi": "10.1093/jmicro/51.Supplement.S219",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Duplication of Text"
+      ],
+      "paywalled": "Yes",
+      "notes": "Journal previously known as Journal of Electron Microscopy",
+      "year": "2002",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992fe1",
+      "recordId": "5403",
+      "title": "Superconductivity in the Rh-based Heusler Family MRh2Sn",
+      "subject": [
         "(PHY) Engineering - Electrical",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",
         "Joint Research Center, Institute for Transuranium Elements, European Commission, Postfach 2340, Karlsruhe D-76125, Germany",
         "Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Narutowicza 11/12, 80-952 Gdansk, Poland",
         "University of California, Irvine, California 92697, USA",
         "Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA"
       ],
-      "Journal": "Physical Review B",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review B",
+      "publisher": "American Physical Society",
+      "country": [
         "Germany",
         "Poland",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Tomasz W Klimczuk",
         "K Gofryk",
         "C H Wang",
@@ -212,161 +178,202 @@
         "J D Thompson",
         "Robert J Cava"
       ],
-      "URLS": "http://retractionwatch.com/2011/02/07/biologist-realizes-hes-been-studying-cadbury-egg-mislabeled-bottle-leads-to-phys-rev-b-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2011/02/07/biologist-realizes-hes-been-studying-cadbury-egg-mislabeled-bottle-leads-to-phys-rev-b-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/4/2011 0:00",
-      "RetractionDOI": "10.1103/PhysRevB.83.019901",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/14/2010 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevB.82.134520",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/4/2011 0:00",
+      "retractiondoi": "10.1103/PhysRevB.83.019901",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/14/2010 0:00",
+      "originalpaperdoi": "10.1103/PhysRevB.82.134520",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Doing the Right Thing",
         "+Error in Data",
         "+Error in Materials"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349f65",
-      "Record ID": "21031",
-      "Title": "X-ray observations of PSR B0355+54 and its pulsar wind nebula",
-      "Subject": [
-        "(PHY) Astrophysics",
-        "(PHY) Crystallography/Spectroscopy"
+      "_id": "687cf0cb1f662220d8993658",
+      "recordId": "3716",
+      "title": "Fluorobodies combine GFP fluorescence with the binding characteristics of antibodies",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
-        "School of Physics and Astronomy, University of Southampton, Southampton, UK",
-        "Los Alamos National Laboratory, Los Alamos, USA",
-        "525 Davey Laboratory, Pennsylvania State University, University Park, USA",
-        "Mullard Space Science Laboratory, Dorking, UK",
-        "Chancellor\u2019s Office, University of California, Riverside, USA"
+      "institution": [
+        "Bioscience Division, HRL-1 TA-43 MS M888, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",
+        "USA Division of Neuroscience, Baylor College of Medicine, One Baylor Plaza, Houston, Texas 77030, USA",
+        "Department of Physics, Lewis and Clark College, Portland, Oregon 97219, USA"
       ],
-      "Journal": "Astrophysics and Space Science",
-      "Publisher": "Springer",
-      "Country": [
-        "United Kingdom",
+      "journal": "Nature Biotechnology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Katherine E McGowan",
-        "W Thomas Vestrand",
-        "Jamie A Kennea",
-        "Silvia Zane",
-        "Mark Cropper",
-        "France A Cordova"
+      "author": [
+        "Ahmet Zeytun",
+        "Andreas Jeromin",
+        "Bethe A Scalettar",
+        "Geoffrey S Waldo",
+        "Andrew RM Bradbury"
       ],
-      "ArticleType": [
-        "Book Chapter/Reference Work",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/12/2019 0:00",
-      "RetractionDOI": "10.1007/s10509-019-3622-0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/21/2007 0:00",
-      "OriginalPaperDOI": "10.1007/s10509-007-9319-9",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
+      "retractiondate": "4/1/2004 0:00",
+      "retractiondoi": "10.1038/nbt0504-601",
+      "retractionpubmedid": "15122294.0",
+      "originalpaperdate": "11/9/2003 0:00",
+      "originalpaperdoi": "10.1038/nbt911",
+      "originalpaperpubmedid": "14608366.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Error in Results and/or Conclusions",
+        "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "Notes": "possible diff doi for same article at https://link.springer.com/chapter/10.1007/978-1-4020-5998-8_39",
-      "notice_year": 2019,
-      "year": 2007
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2004",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993b6a",
+      "recordId": "2385",
+      "title": "Formation of zirconium metallic glass",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Engineering - Chemical"
+      ],
+      "institution": [
+        "LANSCE Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA"
+      ],
+      "journal": "Nature",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Jianzhong Zhang",
+        "Yusheng Zhao"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/13/2005 0:00",
+      "retractiondoi": "10.1038/nature04183",
+      "retractionpubmedid": "16222302.0",
+      "originalpaperdate": "7/15/2004 0:00",
+      "originalpaperdoi": "10.1038/nature02715",
+      "originalpaperpubmedid": "15254533.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2005",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -374,10 +381,10 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -385,10 +392,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

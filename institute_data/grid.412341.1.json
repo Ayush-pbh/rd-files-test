@@ -1,31 +1,131 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878af4",
+    "_id": "687ccbab09adbf7aa61b9715",
     "grid_id": "grid.412341.1",
     "institute_name": "University Children's Hospital Zurich",
     "country": "Switzerland",
     "retracted_record_ids": [
-      "36328",
-      "536",
-      "47968",
-      "6297",
       "8384",
-      "36327",
+      "536",
       "12327",
-      "47967"
+      "36328",
+      "47967",
+      "6297",
+      "36327",
+      "47968"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23463cd",
-      "Record ID": "36328",
-      "Title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
-      "Subject": [
+      "_id": "687cef961f662220d8988a7f",
+      "recordId": "47968",
+      "title": "Inhibition of HDACs reduces Ewing sarcoma tumor growth through EWS-FLI1 protein destabilization",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Oncology and Children's Research Center, University Children's Hospital, Steinwiesstrasse 32, 8032, Zurich, Switzerland"
+      ],
+      "journal": "Neoplasia",
+      "publisher": "Elsevier",
+      "country": [
+        "Switzerland"
+      ],
+      "author": [
+        "Gloria Pedot",
+        "Joana Gra\u00e7a Marques",
+        "Philip P Amb\u00fchl",
+        "Marco Wachtel",
+        "Stephanie Kasper",
+        "Quy A Ngo",
+        "Felix K Niggli",
+        "Beat W Sch\u00e4fer"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/14/2022 0:00",
+      "retractiondoi": "10.1016/j.neo.2022.100805",
+      "retractionpubmedid": "35843705.0",
+      "originalpaperdate": "3/30/2022 0:00",
+      "originalpaperdoi": "10.1016/j.neo.2022.100784",
+      "originalpaperpubmedid": "35366465.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Error in Text",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "notes": "retracted in addition to retraction of original article: PMID: 37802557 DOI: 10.1016/j.neo.2023.100917",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef961f662220d8988a80",
+      "recordId": "47967",
+      "title": "Inhibition of HDACs reduces Ewing sarcoma tumor growth through EWS-FLI1 protein destabilization",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Oncology and Children's Research Center, University Children's Hospital, Steinwiesstrasse 32, 8032, Zurich, Switzerland"
+      ],
+      "journal": "Neoplasia",
+      "publisher": "Elsevier",
+      "country": [
+        "Switzerland"
+      ],
+      "author": [
+        "Gloria Pedot",
+        "Joana Gra\u00e7a Marques",
+        "Philip P Amb\u00fchl",
+        "Marco Wachtel",
+        "Stephanie Kasper",
+        "Quy A Ngo",
+        "Felix K Niggli",
+        "Beat W Sch\u00e4fer"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/4/2023 0:00",
+      "retractiondoi": "10.1016/j.neo.2023.100916",
+      "retractionpubmedid": "37802556.0",
+      "originalpaperdate": "3/30/2022 0:00",
+      "originalpaperdoi": "10.1016/j.neo.2022.100784",
+      "originalpaperpubmedid": "35366465.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Investigation by Journal/Publisher",
+        "+Lack of Approval from Author",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc01f662220d898b7b3",
+      "recordId": "36328",
+      "title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
         "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
         "PIramed, Slough, Berkshire, UK",
@@ -36,15 +136,15 @@
         "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
         "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
       ],
-      "Journal": "Anticancer Research",
-      "Publisher": "International Institute of Anticancer Research",
-      "Country": [
+      "journal": "Anticancer Research",
+      "publisher": "International Institute of Anticancer Research",
+      "country": [
         "France",
         "Japan",
         "Switzerland",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Danielle Boller",
         "Kathrin T Doepfner",
         "Angela De Laurentiis",
@@ -68,180 +168,160 @@
         "Michael D Waterfield",
         "Alexandre Arcaro"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/7/2013 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "22843869.0",
-      "OriginalPaperDate": "7/25/2012 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22843869.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "2/7/2013 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "22843869.0",
+      "originalpaperdate": "7/25/2012 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22843869.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ee93",
-      "Record ID": "536",
-      "Title": "Impaired Type I and Type III Interferon Induction and Rhinovirus Control in Human Cystic Fibrosis Airway Epithelial Cells",
-      "Subject": [
-        "(BLS) Biochemistry",
+      "_id": "687cefc01f662220d898b7b4",
+      "recordId": "36327",
+      "title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
+      "subject": [
+        "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Drug Design"
+        "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
+        "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
+        "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
+        "PIramed, Slough, Berkshire, UK",
+        "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Ibaraki, Japan",
+        "INSERM U509, Paris, France",
         "Department of Clinical Research, University of Bern, Bern, Switzerland",
-        "Institute for Infectious Diseases, University of Bern, Bern, Switzerland",
-        "Laboratoire d'Immunologie, Facult\u00e9s de M\u00e9decine et Pharmacie, Clermont-Ferrand, France",
-        "Division of Respiratory Medicine, Department of Paediatrics, Inselspital and University of Bern, Bern, Switzerland",
-        "Department of Respiratory Medicine, University Children's Hospital, Z\u00fcrich, Switzerland",
-        "Division of Respiratory Medicine, University Hospital of Bern, Inselspital, Bern, Switzerland",
-        "Department of Respiratory Medicine, National Heart and Lung Institute, Wright Fleming Institute of Infection and Immunity & MRC and Asthma UK Centre in Allergic Mechanisms of Asthma, Imperial College London, London, UK"
+        "Department of Neurosurgery, University Hospital Zurich, Zurich, Switzerland",
+        "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
+        "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
       ],
-      "Journal": "Thorax",
-      "Publisher": "BMJ Publishing",
-      "Country": [
+      "journal": "Anticancer Research",
+      "publisher": "International Institute of Anticancer Research",
+      "country": [
         "France",
+        "Japan",
         "Switzerland",
         "United Kingdom"
       ],
-      "Author": [
-        "Marjolaine Vareille",
-        "Elisabeth Kieninger",
-        "Marco P Alves",
-        "Brigitte S Kopf",
-        "Alexander M\u00f6ller",
-        "Thomas Geiser",
-        "Sebastian L Johnston",
-        "Michael R Edwards",
-        "Nicolas Regamey"
+      "author": [
+        "Danielle Boller",
+        "Kathrin T Doepfner",
+        "Angela De Laurentiis",
+        "Ana S Guerreiro",
+        "Marin Marinov",
+        "Tarek Shalaby",
+        "Paul Depledge",
+        "Anthony Robson",
+        "Nahid Saghir",
+        "Masahiko Hayakawa",
+        "Hiroyuki Kaizawa",
+        "Tomonobu Koizumi",
+        "Takahide Ohishi",
+        "Sarah Fattet",
+        "Olivier Delattre",
+        "Anelia Schweri-Olac",
+        "Katrin Holand",
+        "Michael A Grotzer",
+        "Karl Frei",
+        "Olivier Spertini",
+        "Michael D Waterfield",
+        "Alexandre Arcaro"
       ],
-      "URLS": "http://retractionwatch.com/2013/08/14/thorax-retracts-cystic-fibrosis-paper-with-bogus-data/",
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2013 0:00",
-      "RetractionDOI": "10.1136/thoraxjnl-2011-200405ret",
-      "RetractionPubMedID": "24083316.0",
-      "OriginalPaperDate": "6/1/2012 0:00",
-      "OriginalPaperDOI": "10.1136/thoraxjnl-2011-200405",
-      "OriginalPaperPubMedID": "22213737.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Results Not Reproducible"
+      "retractiondate": "9/1/2021 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "35349467.0",
+      "originalpaperdate": "7/25/2012 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "22843869.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "M. Vareille.named responsible for data fabrication",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343699",
-      "Record ID": "47968",
-      "Title": "Inhibition of HDACs reduces Ewing sarcoma tumor growth through EWS-FLI1 protein destabilization",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
+      "_id": "687cf0ae1f662220d899151b",
+      "recordId": "12327",
+      "title": "Glucose-induced \u00df cell production of IL-1\u00df contributes to glucotoxicity in human pancreatic islets",
+      "subject": [
         "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
+        "(HSC) Medicine - Diabetes",
+        "(HSC) Medicine - Endocrinology",
+        "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
-        "Department of Oncology and Children's Research Center, University Children's Hospital, Steinwiesstrasse 32, 8032, Zurich, Switzerland"
+      "institution": [
+        "Division of Endocrinology and Diabetes, University Hospital, Zurich, Switzerland",
+        "Louis-Jeantet Research Laboratories, University of Geneva Medical Center, Geneva, Switzerland",
+        "Division of Surgical Research, Department of Surgery, University of Geneva Medical Center, Geneva, Switzerland",
+        "Division of Clinical Immunology, University Hospital, Zurich, Switzerland",
+        "Department of Endocrinology and Metabolism, Hebrew University \u2014 Hadassah Medical Center, Jerusalem, Israel"
       ],
-      "Journal": "Neoplasia",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
+        "Israel",
         "Switzerland"
       ],
-      "Author": [
-        "Gloria Pedot",
-        "Joana Gra\u00e7a Marques",
-        "Philip P Amb\u00fchl",
-        "Marco Wachtel",
-        "Stephanie Kasper",
-        "Quy A Ngo",
-        "Felix K Niggli",
-        "Beat W Sch\u00e4fer"
+      "author": [
+        "Kathrin Maedler",
+        "Pavel Sergeev",
+        "Fr\u00e9d\u00e9ric Ris",
+        "Jos\u00e9 Oberholzer",
+        "Helen I Joller-Jemelka",
+        "Giatgen A Spinas",
+        "Nurit Kaiser",
+        "Philippe A Halban",
+        "Marc Y Donath"
       ],
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/05/01/university-suggests-journal-correct-diabetes-paper-publisher-retracts/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/14/2022 0:00",
-      "RetractionDOI": "10.1016/j.neo.2022.100805",
-      "RetractionPubMedID": "35843705.0",
-      "OriginalPaperDate": "3/30/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.neo.2022.100784",
-      "OriginalPaperPubMedID": "35366465.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Error in Text",
-        "+Updated to Retraction"
+      "retractiondate": "4/3/2017 0:00",
+      "retractiondoi": "10.1172/JCI92172",
+      "retractionpubmedid": "28368291.0",
+      "originalpaperdate": "9/15/2002 0:00",
+      "originalpaperdoi": "10.1172/JCI15318",
+      "originalpaperpubmedid": "12235117.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image"
       ],
-      "Paywalled": "No",
-      "Notes": "retracted in addition to retraction of original article: PMID: 37802557 DOI: 10.1016/j.neo.2023.100917",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "K Maedler otherwise investigated;",
+      "year": "2002",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d891",
-      "Record ID": "6297",
-      "Title": "Ascending aortic dissection after proximal bypass anastomotic device",
-      "Subject": [
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department for Cardiovascular Surgery, University Hospital, Zurich, Switzerland"
-      ],
-      "Journal": "Journal of Cardiac Surgery",
-      "Publisher": "Wiley",
-      "Country": [
-        "Switzerland"
-      ],
-      "Author": [
-        "Alberto Weber",
-        "Reza Tavakoli",
-        "Michele Genoni"
-      ],
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/1/2012 0:00",
-      "RetractionDOI": "10.1111/j.1540-8191.2011.01408.x",
-      "RetractionPubMedID": "22423355.0",
-      "OriginalPaperDate": "3/31/2008 0:00",
-      "OriginalPaperDOI": "10.1111/j.1540-8191.2007.00561.x",
-      "OriginalPaperPubMedID": "18384566.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Text",
-        "+Euphemisms for Duplication"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d086",
-      "Record ID": "8384",
-      "Title": "Gene therapy for Wiskott-Aldrich syndrome--long-term efficacy and genotoxicity",
-      "Subject": [
+      "_id": "687cf0b81f662220d899246c",
+      "recordId": "8384",
+      "title": "Gene therapy for Wiskott-Aldrich syndrome--long-term efficacy and genotoxicity",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Medicine - Cardiovascular",
@@ -249,7 +329,7 @@
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Dr. von Hauner Children\u2019s Hospital, Ludwig Maximilians University Munich, Munich",
         "Department of Pediatric Hematology/Oncology, Hannover Medical School, Hannover",
         "Department of Translational Oncology, National Center for Tumor Diseases and German Cancer Research Center, Heidelberg",
@@ -266,9 +346,9 @@
         "Department of Clinical Immunology, Russian Clinical Children's Hospital, Moscow",
         "Department of Infectious and Pediatric Immunology, Medical and Health Science Center, University of Debrecen, Debrecen"
       ],
-      "Journal": "Science Translational Medicine",
-      "Publisher": "American Association for the Advancement of Science (AAAS)",
-      "Country": [
+      "journal": "Science Translational Medicine",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "country": [
         "Australia",
         "Germany",
         "Hungary",
@@ -277,7 +357,7 @@
         "Russia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Christian J\u00f6rg Braun",
         "Kaan Boztug",
         "Anna Paruzynski",
@@ -309,266 +389,194 @@
         "Christof von Kalle",
         "Christoph Klein"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "9/17/2014 0:00",
-      "RetractionDOI": "10.1126/scitranslmed.3010603",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/12/2014 0:00",
-      "OriginalPaperDOI": "10.1126/scitranslmed.3007280",
-      "OriginalPaperPubMedID": "24622513.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "9/17/2014 0:00",
+      "retractiondoi": "10.1126/scitranslmed.3010603",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/12/2014 0:00",
+      "originalpaperdoi": "10.1126/scitranslmed.3007280",
+      "originalpaperpubmedid": "24622513.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Error in Image",
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23463ce",
-      "Record ID": "36327",
-      "Title": "Targeting PI3KC2\u03b2 impairs proliferation and survival in acute leukemia, brain tumours and neuroendocrine tumours",
-      "Subject": [
-        "(BLS) Biology - Cancer",
+      "_id": "687cf0c11f662220d8992c77",
+      "recordId": "6297",
+      "title": "Ascending aortic dissection after proximal bypass anastomotic device",
+      "subject": [
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department for Cardiovascular Surgery, University Hospital, Zurich, Switzerland"
+      ],
+      "journal": "Journal of Cardiac Surgery",
+      "publisher": "Wiley",
+      "country": [
+        "Switzerland"
+      ],
+      "author": [
+        "Alberto Weber",
+        "Reza Tavakoli",
+        "Michele Genoni"
+      ],
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/1/2012 0:00",
+      "retractiondoi": "10.1111/j.1540-8191.2011.01408.x",
+      "retractionpubmedid": "22423355.0",
+      "originalpaperdate": "3/31/2008 0:00",
+      "originalpaperdoi": "10.1111/j.1540-8191.2007.00561.x",
+      "originalpaperpubmedid": "18384566.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Text",
+        "+Euphemisms for Duplication"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994279",
+      "recordId": "536",
+      "title": "Impaired Type I and Type III Interferon Induction and Rhinovirus Control in Human Cystic Fibrosis Airway Epithelial Cells",
+      "subject": [
+        "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
-        "(BLS) Neuroscience"
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Drug Design"
       ],
-      "Institution": [
-        "Division of Clinical Chemistry and Biochemistry, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
-        "Department of Oncology, University Children\u2019s Hospital Zurich, Zurich, Switzerland",
-        "PIramed, Slough, Berkshire, UK",
-        "Drug Discovery Research, Astellas Pharma Inc., Tsukuba, Ibaraki, Japan",
-        "INSERM U509, Paris, France",
+      "institution": [
         "Department of Clinical Research, University of Bern, Bern, Switzerland",
-        "Department of Neurosurgery, University Hospital Zurich, Zurich, Switzerland",
-        "Service and Central Laboratory of Hematology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland",
-        "Ludwig Institute for Cancer Research, Proteomics Unit, London, U.K"
+        "Institute for Infectious Diseases, University of Bern, Bern, Switzerland",
+        "Laboratoire d'Immunologie, Facult\u00e9s de M\u00e9decine et Pharmacie, Clermont-Ferrand, France",
+        "Division of Respiratory Medicine, Department of Paediatrics, Inselspital and University of Bern, Bern, Switzerland",
+        "Department of Respiratory Medicine, University Children's Hospital, Z\u00fcrich, Switzerland",
+        "Division of Respiratory Medicine, University Hospital of Bern, Inselspital, Bern, Switzerland",
+        "Department of Respiratory Medicine, National Heart and Lung Institute, Wright Fleming Institute of Infection and Immunity & MRC and Asthma UK Centre in Allergic Mechanisms of Asthma, Imperial College London, London, UK"
       ],
-      "Journal": "Anticancer Research",
-      "Publisher": "International Institute of Anticancer Research",
-      "Country": [
+      "journal": "Thorax",
+      "publisher": "BMJ Publishing",
+      "country": [
         "France",
-        "Japan",
         "Switzerland",
         "United Kingdom"
       ],
-      "Author": [
-        "Danielle Boller",
-        "Kathrin T Doepfner",
-        "Angela De Laurentiis",
-        "Ana S Guerreiro",
-        "Marin Marinov",
-        "Tarek Shalaby",
-        "Paul Depledge",
-        "Anthony Robson",
-        "Nahid Saghir",
-        "Masahiko Hayakawa",
-        "Hiroyuki Kaizawa",
-        "Tomonobu Koizumi",
-        "Takahide Ohishi",
-        "Sarah Fattet",
-        "Olivier Delattre",
-        "Anelia Schweri-Olac",
-        "Katrin Holand",
-        "Michael A Grotzer",
-        "Karl Frei",
-        "Olivier Spertini",
-        "Michael D Waterfield",
-        "Alexandre Arcaro"
+      "author": [
+        "Marjolaine Vareille",
+        "Elisabeth Kieninger",
+        "Marco P Alves",
+        "Brigitte S Kopf",
+        "Alexander M\u00f6ller",
+        "Thomas Geiser",
+        "Sebastian L Johnston",
+        "Michael R Edwards",
+        "Nicolas Regamey"
       ],
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/08/14/thorax-retracts-cystic-fibrosis-paper-with-bogus-data/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2021 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "35349467.0",
-      "OriginalPaperDate": "7/25/2012 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "22843869.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Upgrade/Update of Prior Notice(s)"
+      "retractiondate": "9/1/2013 0:00",
+      "retractiondoi": "10.1136/thoraxjnl-2011-200405ret",
+      "retractionpubmedid": "24083316.0",
+      "originalpaperdate": "6/1/2012 0:00",
+      "originalpaperdoi": "10.1136/thoraxjnl-2011-200405",
+      "originalpaperpubmedid": "22213737.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c135",
-      "Record ID": "12327",
-      "Title": "Glucose-induced \u00df cell production of IL-1\u00df contributes to glucotoxicity in human pancreatic islets",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Diabetes",
-        "(HSC) Medicine - Endocrinology",
-        "(HSC) Medicine - Immunology"
-      ],
-      "Institution": [
-        "Division of Endocrinology and Diabetes, University Hospital, Zurich, Switzerland",
-        "Louis-Jeantet Research Laboratories, University of Geneva Medical Center, Geneva, Switzerland",
-        "Division of Surgical Research, Department of Surgery, University of Geneva Medical Center, Geneva, Switzerland",
-        "Division of Clinical Immunology, University Hospital, Zurich, Switzerland",
-        "Department of Endocrinology and Metabolism, Hebrew University \u2014 Hadassah Medical Center, Jerusalem, Israel"
-      ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
-        "Israel",
-        "Switzerland"
-      ],
-      "Author": [
-        "Kathrin Maedler",
-        "Pavel Sergeev",
-        "Fr\u00e9d\u00e9ric Ris",
-        "Jos\u00e9 Oberholzer",
-        "Helen I Joller-Jemelka",
-        "Giatgen A Spinas",
-        "Nurit Kaiser",
-        "Philippe A Halban",
-        "Marc Y Donath"
-      ],
-      "URLS": "http://retractionwatch.com/2017/05/01/university-suggests-journal-correct-diabetes-paper-publisher-retracts/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/3/2017 0:00",
-      "RetractionDOI": "10.1172/JCI92172",
-      "RetractionPubMedID": "28368291.0",
-      "OriginalPaperDate": "9/15/2002 0:00",
-      "OriginalPaperDOI": "10.1172/JCI15318",
-      "OriginalPaperPubMedID": "12235117.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "K Maedler otherwise investigated;",
-      "notice_year": 2017,
-      "year": 2002,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234369a",
-      "Record ID": "47967",
-      "Title": "Inhibition of HDACs reduces Ewing sarcoma tumor growth through EWS-FLI1 protein destabilization",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Oncology and Children's Research Center, University Children's Hospital, Steinwiesstrasse 32, 8032, Zurich, Switzerland"
-      ],
-      "Journal": "Neoplasia",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Switzerland"
-      ],
-      "Author": [
-        "Gloria Pedot",
-        "Joana Gra\u00e7a Marques",
-        "Philip P Amb\u00fchl",
-        "Marco Wachtel",
-        "Stephanie Kasper",
-        "Quy A Ngo",
-        "Felix K Niggli",
-        "Beat W Sch\u00e4fer"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/4/2023 0:00",
-      "RetractionDOI": "10.1016/j.neo.2023.100916",
-      "RetractionPubMedID": "37802556.0",
-      "OriginalPaperDate": "3/30/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.neo.2022.100784",
-      "OriginalPaperPubMedID": "35366465.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Investigation by Journal/Publisher",
-        "+Lack of Approval from Author",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "M. Vareille.named responsible for data fabrication",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -576,32 +584,32 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

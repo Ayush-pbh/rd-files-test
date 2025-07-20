@@ -1,38 +1,84 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878ff4",
+    "_id": "687ccbab09adbf7aa61b9c15",
     "grid_id": "grid.417308.9",
     "institute_name": "Azienda Ospedaliera G. Brotzu",
     "country": "Italy",
     "retracted_record_ids": [
-      "39040",
       "40008",
+      "39040",
       "6713"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234594f",
-      "Record ID": "39040",
-      "Title": "Multimodal exercises integrated with cognitive-behavioural therapy improve disability of patients with failed back surgery syndrome: a randomized controlled trial with one-year follow-up",
-      "Subject": [
+      "_id": "687cefb31f662220d898a974",
+      "recordId": "40008",
+      "title": "Multidisciplinary program based on early management of psychological factors reduces disability of patients with subacute low back pain: one-year results of a randomized controlled study",
+      "subject": [
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(SOC) Psychology"
+      ],
+      "institution": [
+        "Department of Medical Sciences and Public Health, University of Cagliari, Cagliari, Italy",
+        "Unit of Neurorehabilitation, Department of Neuroscience and Rehabilitation, G. Brotzu Hospital, Cagliari, Italy",
+        "Laboratory of Neuroengineering and Medical Robotics, Department of Electronics, Information and Bioengineering, Polytechnic University Milano, Milan, Italy",
+        "Unit of Physical Medicine and Rehabilitation, Scientific Institute of Lissone, Maugeri Clinical and Scientific Institutes, Lissone, Monza Brianza, Italy"
+      ],
+      "journal": "European Journal of Physical and Rehabilitation Medicine",
+      "publisher": "Edizioni Minerva Medica",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Marco Monticone",
+        "Emilia Ambrosini",
+        "Igor Portoghese",
+        "Barbara Rocca"
+      ],
+      "urls": "https://retractionwatch.com/2022/11/09/pain-researchers-lose-three-papers-after-cochrane-group-questioned-data/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "10/24/2022 0:00",
+      "retractiondoi": "10.23736/S1973-9087.22.07743-7",
+      "retractionpubmedid": "36278474.0",
+      "originalpaperdate": "5/5/2021 0:00",
+      "originalpaperdoi": "10.23736/S1973-9087.21.06696-X",
+      "originalpaperpubmedid": "33947827.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb41f662220d898ad35",
+      "recordId": "39040",
+      "title": "Multimodal exercises integrated with cognitive-behavioural therapy improve disability of patients with failed back surgery syndrome: a randomized controlled trial with one-year follow-up",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Physical Medicine and Rehabilitation, Department of Medical Sciences and Public Health, University of Cagliari",
         "Neurorehabilitation Unit, Department of Neuroscience and Rehabilitation, G. Brotzu Hospital, Cagliari, Italy",
         "Neuroengineering and Medical Robotics Laboratory, Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy",
         "Physical Medicine and Rehabilitation Unit, Istituti Clinici Scientifici Maugeri IRCCS, Lissone, Italy",
         "Unit of Spinal Orthopaedics Surgery, Galeazzi Hospital, IRRCS, Milan, Italy"
       ],
-      "Journal": "Disability and Rehabilitation",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Disability and Rehabilitation",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Marco Monticone",
         "Emilia Ambrosini",
         "Barbara Rocca",
@@ -41,89 +87,45 @@
         "Alessio Lovi",
         "Marco Brayda-Bruno"
       ],
-      "URLS": "https://retractionwatch.com/2022/11/09/pain-researchers-lose-three-papers-after-cochrane-group-questioned-data/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/11/09/pain-researchers-lose-three-papers-after-cochrane-group-questioned-data/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "9/13/2022 0:00",
-      "RetractionDOI": "10.1080/09638288.2022.2121034",
-      "RetractionPubMedID": "36098961.0",
-      "OriginalPaperDate": "12/27/2020 0:00",
-      "OriginalPaperDOI": "10.1080/09638288.2020.1863480",
-      "OriginalPaperPubMedID": "33356640.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/13/2022 0:00",
+      "retractiondoi": "10.1080/09638288.2022.2121034",
+      "retractionpubmedid": "36098961.0",
+      "originalpaperdate": "12/27/2020 0:00",
+      "originalpaperdoi": "10.1080/09638288.2020.1863480",
+      "originalpaperpubmedid": "33356640.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234558e",
-      "Record ID": "40008",
-      "Title": "Multidisciplinary program based on early management of psychological factors reduces disability of patients with subacute low back pain: one-year results of a randomized controlled study",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(SOC) Psychology"
-      ],
-      "Institution": [
-        "Department of Medical Sciences and Public Health, University of Cagliari, Cagliari, Italy",
-        "Unit of Neurorehabilitation, Department of Neuroscience and Rehabilitation, G. Brotzu Hospital, Cagliari, Italy",
-        "Laboratory of Neuroengineering and Medical Robotics, Department of Electronics, Information and Bioengineering, Polytechnic University Milano, Milan, Italy",
-        "Unit of Physical Medicine and Rehabilitation, Scientific Institute of Lissone, Maugeri Clinical and Scientific Institutes, Lissone, Monza Brianza, Italy"
-      ],
-      "Journal": "European Journal of Physical and Rehabilitation Medicine",
-      "Publisher": "Edizioni Minerva Medica",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Marco Monticone",
-        "Emilia Ambrosini",
-        "Igor Portoghese",
-        "Barbara Rocca"
-      ],
-      "URLS": "https://retractionwatch.com/2022/11/09/pain-researchers-lose-three-papers-after-cochrane-group-questioned-data/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "10/24/2022 0:00",
-      "RetractionDOI": "10.23736/S1973-9087.22.07743-7",
-      "RetractionPubMedID": "36278474.0",
-      "OriginalPaperDate": "5/5/2021 0:00",
-      "OriginalPaperDOI": "10.23736/S1973-9087.21.06696-X",
-      "OriginalPaperPubMedID": "33947827.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234d6f7",
-      "Record ID": "6713",
-      "Title": "Supraventricular tachycardia in neonates: antiarrhythmic drug choice dilemma",
-      "Subject": [
+      "_id": "687cf0bf1f662220d8992add",
+      "recordId": "6713",
+      "title": "Supraventricular tachycardia in neonates: antiarrhythmic drug choice dilemma",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Pediatrics",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Division of Paediatric Cardiology, 'G. Brotzu' Hospital, Cagliari, Italy"
       ],
-      "Journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "M C Tavera",
         "P P Bassareo",
         "P Neroni",
@@ -132,35 +134,36 @@
         "S Montis",
         "R Tumbarello"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "11/23/2015 0:00",
-      "RetractionDOI": "10.3109/14767058.2015.1114551",
-      "RetractionPubMedID": "26595395.0",
-      "OriginalPaperDate": "9/1/2010 0:00",
-      "OriginalPaperDOI": "10.3109/14767058.2010.509915",
-      "OriginalPaperPubMedID": "20807153.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/23/2015 0:00",
+      "retractiondoi": "10.3109/14767058.2015.1114551",
+      "retractionpubmedid": "26595395.0",
+      "originalpaperdate": "9/1/2010 0:00",
+      "originalpaperdoi": "10.3109/14767058.2010.509915",
+      "originalpaperpubmedid": "20807153.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Text",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "Notes": "Article that replaced the retraction: https://www.ncbi.nlm.nih.gov/pubmed/20873974",
-      "notice_year": 2015,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Article that replaced the retraction: https://www.ncbi.nlm.nih.gov/pubmed/20873974",
+      "year": "2010",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -168,43 +171,43 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

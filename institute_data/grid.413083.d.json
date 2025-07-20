@@ -1,24 +1,75 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877ae6",
+    "_id": "687ccbab09adbf7aa61b8707",
     "grid_id": "grid.413083.d",
     "institute_name": "Ronald Reagan UCLA Medical Center",
     "country": "United States",
     "retracted_record_ids": [
-      "27981",
-      "62831"
+      "62831",
+      "27981"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2348455",
-      "Record ID": "27981",
-      "Title": "Water and sodium in heart failure: a spotlight on congestion",
-      "Subject": [
+      "_id": "687cef5b1f662220d898509f",
+      "recordId": "62831",
+      "title": "Downstream effectors of oncogenic ras in multiple myeloma cells",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer"
+      ],
+      "institution": [
+        "Hematology-Oncology Division of the West Los Angeles Veteran\u2019s Administration-University of California Los Angeles Medical Center, Los Angeles, CA",
+        "the Department of Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, MN"
+      ],
+      "journal": "Blood",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Liping Hu",
+        "Yijiang Shi",
+        "Jung-hsin Hsu",
+        "Joseph Gera",
+        "Brian Van Ness",
+        "Alan Lichtenstein"
+      ],
+      "urls": "https://retractionwatch.com/?s=Alan+Lichtenstein;https://retractionwatch.com/2024/11/19/cancer-specialist-faked-data-in-at-least-ten-papers-va-and-ucla-find/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/15/2025 0:00",
+      "retractiondoi": "10.1182/blood-2002-08-2640",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/14/2020 0:00",
+      "originalpaperdoi": "10.1182/blood-2002-08-2640",
+      "originalpaperpubmedid": "12515720.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite, date estimated from notifications; Alan Lichtenstein has institutional finding of misconduct, see https://www.federalregister.gov/documents/2024/11/18/2024-26756/findings-of-research-misconduct-c",
+      "year": "2020",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefeb1f662220d898d83b",
+      "recordId": "27981",
+      "title": "Water and sodium in heart failure: a spotlight on congestion",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
+      "institution": [
         "Biomedical Department of Internal and Specialty Medicine, (Di.Bi.M.I.S.), A.O.U.P \u2018\u2018Paolo Giaccone\u2019\u2019, University of Palermo, Piazza delle Cliniche 2, 90,127, Palermo, Italy",
         "Center for Cardiovascular Innovation, Northwestern University Feinberg School of Medicine, Chicago, USA",
         "Department of Epidemiology and Population Health, Albert Einstein College of Medicine, Yeshiva University, New York, USA",
@@ -30,13 +81,13 @@
         "Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, USA",
         "Division of Cardiology, Emory University, Atlanta, USA"
       ],
-      "Journal": "Heart Failure Reviews",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Heart Failure Reviews",
+      "publisher": "Springer",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Gaspare Parrinello",
         "Stephen J Greene",
         "Daniele Torres",
@@ -52,95 +103,46 @@
         "Lynne Warner Stevenson",
         "Mihai Gheorghiade"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "4/29/2021 0:00",
-      "RetractionDOI": "10.1007/s10741-014-9438-7",
-      "RetractionPubMedID": "33913077.0",
-      "OriginalPaperDate": "6/19/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s10741-021-10113-w",
-      "OriginalPaperPubMedID": "24942806.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "4/29/2021 0:00",
+      "retractiondoi": "10.1007/s10741-014-9438-7",
+      "retractionpubmedid": "33913077.0",
+      "originalpaperdate": "6/19/2014 0:00",
+      "originalpaperdoi": "10.1007/s10741-021-10113-w",
+      "originalpaperpubmedid": "24942806.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Duplication of Data",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2014,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d233fcb9",
-      "Record ID": "62831",
-      "Title": "Downstream effectors of oncogenic ras in multiple myeloma cells",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer"
-      ],
-      "Institution": [
-        "Hematology-Oncology Division of the West Los Angeles Veteran\u2019s Administration-University of California Los Angeles Medical Center, Los Angeles, CA",
-        "the Department of Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, MN"
-      ],
-      "Journal": "Blood",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Liping Hu",
-        "Yijiang Shi",
-        "Jung-hsin Hsu",
-        "Joseph Gera",
-        "Brian Van Ness",
-        "Alan Lichtenstein"
-      ],
-      "URLS": "https://retractionwatch.com/?s=Alan+Lichtenstein;https://retractionwatch.com/2024/11/19/cancer-specialist-faked-data-in-at-least-ten-papers-va-and-ucla-find/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/15/2025 0:00",
-      "RetractionDOI": "10.1182/blood-2002-08-2640",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/14/2020 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2002-08-2640",
-      "OriginalPaperPubMedID": "12515720.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite, date estimated from notifications; Alan Lichtenstein has institutional finding of misconduct, see https://www.federalregister.gov/documents/2024/11/18/2024-26756/findings-of-research-misconduct-c",
-      "notice_year": 2025,
-      "year": 2020,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -148,10 +150,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -159,10 +161,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

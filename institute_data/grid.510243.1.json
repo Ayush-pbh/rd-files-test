@@ -1,50 +1,142 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879355",
+    "_id": "687ccbab09adbf7aa61b9f76",
     "grid_id": "grid.510243.1",
     "institute_name": "National Centre for Biological Sciences",
     "country": "India",
     "retracted_record_ids": [
+      "34140",
       "30532",
-      "30533",
-      "34140"
+      "30533"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2347a65",
-      "Record ID": "30532",
-      "Title": "Discovery of iron-sensing bacterial riboswitches",
-      "Subject": [
+      "_id": "687cefc81f662220d898c03d",
+      "recordId": "34140",
+      "title": "The Pathogenic A116V Mutation Enhances Ion-Selective Channel Formation by Prion Protein in Membranes",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "National Centre for Biological Sciences, Tata Institute of Fundamental Research, Bengaluru, India",
+        "Biocon Bristol Myers Squibb Research Center, Bengaluru, India",
+        "School of Biotechnology, Kalinga Institute of Industrial Technology (KIIT) University, Bhubaneswar, India"
+      ],
+      "journal": "Biophysical Journal",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "India"
+      ],
+      "author": [
+        "Ambadi Thody Sabareesan",
+        "Jogender Singh",
+        "Samrat Roy",
+        "Jayant B Udgaonkar",
+        "M K Mathew"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/9/2021 0:00",
+      "retractiondoi": "10.1016/j.bpj.2021.11.005",
+      "retractionpubmedid": "34767755.0",
+      "originalpaperdate": "4/26/2016 0:00",
+      "originalpaperdoi": "10.1016/j.bpj.2016.03.017",
+      "originalpaperpubmedid": "27119637.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd61f662220d898ce4a",
+      "recordId": "30533",
+      "title": "Discovery of iron-sensing bacterial riboswitches",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "National Centre for Biological Sciences, Tata Institute of Fundamental Research, GKVK Campus, Bangalore, India",
         "SASTRA University, Tirumalaisamudram, Thanjavur, India"
       ],
-      "Journal": "Nature Chemical Biology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Chemical Biology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "Siladitya Bandyopadhyay",
         "Susmitnarayan Chaudhury",
         "Dolly Mehta",
         "Arati Ramesh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/30/2021 0:00",
-      "RetractionDOI": "10.1038/s41589-020-00665-7",
-      "RetractionPubMedID": "33020663.0",
-      "OriginalPaperDate": "10/5/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41589-020-00665-7",
-      "OriginalPaperPubMedID": "33020663.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/10/2020 0:00",
+      "retractiondoi": "10.1038/s41589-020-00665-7",
+      "retractionpubmedid": "33020663.0",
+      "originalpaperdate": "10/5/2020 0:00",
+      "originalpaperdoi": "10.1038/s41589-020-00665-7",
+      "originalpaperpubmedid": "33020663.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues About Image",
+        "+Investigation by Company/Institution",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://news.ncbs.res.in/research/retraction-paper-arati-ramesh-lab-ncbs; html page overwrite, but press release states date of retraction;",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefd61f662220d898ce4b",
+      "recordId": "30532",
+      "title": "Discovery of iron-sensing bacterial riboswitches",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "National Centre for Biological Sciences, Tata Institute of Fundamental Research, GKVK Campus, Bangalore, India",
+        "SASTRA University, Tirumalaisamudram, Thanjavur, India"
+      ],
+      "journal": "Nature Chemical Biology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "India"
+      ],
+      "author": [
+        "Siladitya Bandyopadhyay",
+        "Susmitnarayan Chaudhury",
+        "Dolly Mehta",
+        "Arati Ramesh"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/30/2021 0:00",
+      "retractiondoi": "10.1038/s41589-020-00665-7",
+      "retractionpubmedid": "33020663.0",
+      "originalpaperdate": "10/5/2020 0:00",
+      "originalpaperdoi": "10.1038/s41589-020-00665-7",
+      "originalpaperpubmedid": "33020663.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Company/Institution",
         "+Manipulation of Images",
@@ -52,133 +144,44 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://news.ncbs.res.in/research/retraction-paper-arati-ramesh-lab-ncbs; html page overwrite, but press release states date of retraction;",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2347a64",
-      "Record ID": "30533",
-      "Title": "Discovery of iron-sensing bacterial riboswitches",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "National Centre for Biological Sciences, Tata Institute of Fundamental Research, GKVK Campus, Bangalore, India",
-        "SASTRA University, Tirumalaisamudram, Thanjavur, India"
-      ],
-      "Journal": "Nature Chemical Biology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "India"
-      ],
-      "Author": [
-        "Siladitya Bandyopadhyay",
-        "Susmitnarayan Chaudhury",
-        "Dolly Mehta",
-        "Arati Ramesh"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/10/2020 0:00",
-      "RetractionDOI": "10.1038/s41589-020-00665-7",
-      "RetractionPubMedID": "33020663.0",
-      "OriginalPaperDate": "10/5/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41589-020-00665-7",
-      "OriginalPaperPubMedID": "33020663.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues About Image",
-        "+Investigation by Company/Institution",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://news.ncbs.res.in/research/retraction-paper-arati-ramesh-lab-ncbs; html page overwrite, but press release states date of retraction;",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346c57",
-      "Record ID": "34140",
-      "Title": "The Pathogenic A116V Mutation Enhances Ion-Selective Channel Formation by Prion Protein in Membranes",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "National Centre for Biological Sciences, Tata Institute of Fundamental Research, Bengaluru, India",
-        "Biocon Bristol Myers Squibb Research Center, Bengaluru, India",
-        "School of Biotechnology, Kalinga Institute of Industrial Technology (KIIT) University, Bhubaneswar, India"
-      ],
-      "Journal": "Biophysical Journal",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "India"
-      ],
-      "Author": [
-        "Ambadi Thody Sabareesan",
-        "Jogender Singh",
-        "Samrat Roy",
-        "Jayant B Udgaonkar",
-        "M K Mathew"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/9/2021 0:00",
-      "RetractionDOI": "10.1016/j.bpj.2021.11.005",
-      "RetractionPubMedID": "34767755.0",
-      "OriginalPaperDate": "4/26/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.bpj.2016.03.017",
-      "OriginalPaperPubMedID": "27119637.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Investigation by Journal/Publisher",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "see also: https://news.ncbs.res.in/research/retraction-paper-arati-ramesh-lab-ncbs; html page overwrite, but press release states date of retraction;",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

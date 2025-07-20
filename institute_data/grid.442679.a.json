@@ -1,38 +1,38 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877899",
+    "_id": "687ccbab09adbf7aa61b84ba",
     "grid_id": "grid.442679.a",
     "institute_name": "Akwa Ibom State University",
     "country": "Nigeria",
     "retracted_record_ids": [
-      "63520",
       "49671",
-      "63518"
+      "63518",
+      "63520"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d233fa11",
-      "Record ID": "63520",
-      "Title": "Computational design and molecular modeling of the interaction of nicotinic acid hydrazide nickel-based complexes with H2S gas",
-      "Subject": [
+      "_id": "687cef591f662220d8984df7",
+      "recordId": "63520",
+      "title": "Computational design and molecular modeling of the interaction of nicotinic acid hydrazide nickel-based complexes with H2S gas",
+      "subject": [
         "(B/T) Computer Science",
         "(PHY) Chemistry"
       ],
-      "Institution": [
+      "institution": [
         "Computational and Bio-Simulation Research Group, University of Calabar, Calabar, Nigeria",
         "Department of Pure and Applied Chemistry, Faculty of Physical Sciences, University of Calabar, Calabar, Nigeria",
         "Department of Chemistry, Akwa-Ibom State University, Uyo, Nigeria",
         "Department of Chemistry, University of Ilorin, Ilorin, Nigeria",
         "Department of Chemistry, University of Buea, Buea, Cameroon"
       ],
-      "Journal": "RSC Advances",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
+      "journal": "RSC Advances",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
         "Cameroon",
         "Nigeria"
       ],
-      "Author": [
+      "author": [
         "Hitler Louis",
         "Daniel Etiese",
         "Tomsmith O Unimuke",
@@ -43,17 +43,17 @@
         "Ededet A Eno",
         "Emmanuel N Nfor"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/4/2025 0:00",
-      "RetractionDOI": "10.1039/d5ra90037a",
-      "RetractionPubMedID": "40190635.0",
-      "OriginalPaperDate": "10/24/2022 0:00",
-      "OriginalPaperDOI": "10.1039/d2ra05456f",
-      "OriginalPaperPubMedID": "36337983.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/4/2025 0:00",
+      "retractiondoi": "10.1039/d5ra90037a",
+      "retractionpubmedid": "40190635.0",
+      "originalpaperdate": "10/24/2022 0:00",
+      "originalpaperdoi": "10.1039/d2ra05456f",
+      "originalpaperpubmedid": "36337983.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Referencing/Attributions",
         "+Duplication of Data",
@@ -61,88 +61,32 @@
         "+Euphemisms for Duplication",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2022,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342ff9",
-      "Record ID": "49671",
-      "Title": "Exact solutions of the Schr\u00f6dinger equation using extended Nikiforov-Uvarov formalism for generalized pseudoharmonic oscillator",
-      "Subject": [
-        "(PHY) Mathematics",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "Department of Physics, College of Science, Princess Nourah bint Abdulrahman University, P. O. Box 84428, Riyadh 11671, Saudi Arabia",
-        "Theoretical Physics Group, Department of Physics, University of Port Harcourt, Choba, Nigeria",
-        "Department of Physics, Akwa Ibom State University, Ikot Akpaden, P.M.B. 1167, Uyo, Nigeria",
-        "Theoretical Physics Programme, National Mathematical Centre, Abuja, Nigeria",
-        "Department of Physics, College of Science, Sultan Qaboos University, P. O. Box 36, P. C. 123, Al-Khod, Muscat, Oman",
-        "Department of Physics, College of Sciences, University of Bisha, P. O. Box 344, Bisha 61922, Saudi Arabia",
-        "Physics Department, Faculty of Science, Al-Azhar University, Assiut, 71524, Egypt"
-      ],
-      "Journal": "Physica Scripta",
-      "Publisher": "IOP Publishing",
-      "Country": [
-        "Egypt",
-        "Nigeria",
-        "Oman",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "H I Alrebdi",
-        "A N Ikot",
-        "U S Okorie",
-        "L F Obagboye",
-        "R Horchani",
-        "A-H Abdel-Aty"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/11/2023 0:00",
-      "RetractionDOI": "10.1088/1402-4896/acf20f",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/23/2022 0:00",
-      "OriginalPaperDOI": "10.1088/1402-4896/acab8b",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Objections by Author(s)",
-        "+Results Not Reproducible",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d233fa13",
-      "Record ID": "63518",
-      "Title": "Heteroatoms (Si, B, N, and P) doped 2D monolayer MoS2 for NH3 gas detection",
-      "Subject": [
+      "_id": "687cef591f662220d8984df9",
+      "recordId": "63518",
+      "title": "Heteroatoms (Si, B, N, and P) doped 2D monolayer MoS2 for NH3 gas detection",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Engineering - Chemical"
       ],
-      "Institution": [
+      "institution": [
         "Computational and Bio-Simulation Research Group, University of Calabar, Calabar, Nigeria",
         "Department of Pure and Applied Chemistry, Faculty of Physical Sciences, University of Calabar, Calabar, Nigeria",
         "Department of Chemistry, Akwa-Ibom State University, Uyo, Nigeria",
         "Department of Physics, University of Ilorin, Ilorin, Nigeria"
       ],
-      "Journal": "RSC Advances",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
+      "journal": "RSC Advances",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
         "Nigeria"
       ],
-      "Author": [
+      "author": [
         "Terkumbur E Gber",
         "Hitler Louis",
         "Aniekan E Owen",
@@ -152,25 +96,84 @@
         "Muyiwa M Orosun",
         "Ededet A Eno"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/4/2025 0:00",
-      "RetractionDOI": "10.1039/D5RA90040A",
-      "RetractionPubMedID": "40190647.0",
-      "OriginalPaperDate": "9/13/2022 0:00",
-      "OriginalPaperDOI": "10.1039/D2RA04028J",
-      "OriginalPaperPubMedID": "36199611.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/4/2025 0:00",
+      "retractiondoi": "10.1039/D5RA90040A",
+      "retractionpubmedid": "40190647.0",
+      "originalpaperdate": "9/13/2022 0:00",
+      "originalpaperdoi": "10.1039/D2RA04028J",
+      "originalpaperpubmedid": "36199611.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Investigation by Journal/Publisher",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8d1f662220d89883df",
+      "recordId": "49671",
+      "title": "Exact solutions of the Schr\u00f6dinger equation using extended Nikiforov-Uvarov formalism for generalized pseudoharmonic oscillator",
+      "subject": [
+        "(PHY) Mathematics",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "Department of Physics, College of Science, Princess Nourah bint Abdulrahman University, P. O. Box 84428, Riyadh 11671, Saudi Arabia",
+        "Theoretical Physics Group, Department of Physics, University of Port Harcourt, Choba, Nigeria",
+        "Department of Physics, Akwa Ibom State University, Ikot Akpaden, P.M.B. 1167, Uyo, Nigeria",
+        "Theoretical Physics Programme, National Mathematical Centre, Abuja, Nigeria",
+        "Department of Physics, College of Science, Sultan Qaboos University, P. O. Box 36, P. C. 123, Al-Khod, Muscat, Oman",
+        "Department of Physics, College of Sciences, University of Bisha, P. O. Box 344, Bisha 61922, Saudi Arabia",
+        "Physics Department, Faculty of Science, Al-Azhar University, Assiut, 71524, Egypt"
+      ],
+      "journal": "Physica Scripta",
+      "publisher": "IOP Publishing",
+      "country": [
+        "Egypt",
+        "Nigeria",
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "H I Alrebdi",
+        "A N Ikot",
+        "U S Okorie",
+        "L F Obagboye",
+        "R Horchani",
+        "A-H Abdel-Aty"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2023 0:00",
+      "retractiondoi": "10.1088/1402-4896/acf20f",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/23/2022 0:00",
+      "originalpaperdoi": "10.1088/1402-4896/acab8b",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Objections by Author(s)",
+        "+Results Not Reproducible",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
@@ -180,7 +183,7 @@
       "retraction_notice_count": 0,
       "publication_count": 1,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -191,7 +194,7 @@
       "retraction_notice_count": 0,
       "publication_count": 3,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -202,7 +205,7 @@
       "retraction_notice_count": 0,
       "publication_count": 17,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -213,7 +216,7 @@
       "retraction_notice_count": 0,
       "publication_count": 22,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -224,7 +227,7 @@
       "retraction_notice_count": 0,
       "publication_count": 24,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -235,7 +238,7 @@
       "retraction_notice_count": 0,
       "publication_count": 27,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -246,7 +249,7 @@
       "retraction_notice_count": 0,
       "publication_count": 42,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -257,7 +260,7 @@
       "retraction_notice_count": 0,
       "publication_count": 53,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -268,7 +271,7 @@
       "retraction_notice_count": 0,
       "publication_count": 69,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -279,7 +282,7 @@
       "retraction_notice_count": 0,
       "publication_count": 98,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -290,29 +293,51 @@
       "retraction_notice_count": 0,
       "publication_count": 118,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 142,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2022,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 142,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 162,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 162,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -323,7 +348,7 @@
       "retraction_notice_count": 0,
       "publication_count": 183,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -331,10 +356,21 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 77,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 77,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,80 +1,141 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879873",
+    "_id": "687ccbab09adbf7aa61ba494",
     "grid_id": "grid.266815.e",
     "institute_name": "University of Nebraska at Omaha",
     "country": "United States",
     "retracted_record_ids": [
+      "9201",
       "23707",
-      "4265",
-      "9201"
+      "4265"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23494fb",
-      "Record ID": "23707",
-      "Title": "Criminal tendency detection from facial images and the gender bias effect",
-      "Subject": [
+      "_id": "687cf00e1f662220d898e8e1",
+      "recordId": "23707",
+      "title": "Criminal tendency detection from facial images and the gender bias effect",
+      "subject": [
         "(B/T) Computer Science",
         "(B/T) Technology",
         "(SOC) Criminology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Information Sciences and Technology, George Mason University, 4400 University Dr, Fairfax, VA, 22030, USA",
         "College of Information Science and Technology, University of Nebraska at Omaha, 1110 S 67th St, Omaha, NE, 68182, USA"
       ],
-      "Journal": "Journal of Big Data",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Journal of Big Data",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Mahdi Hashemi",
         "Margeret Hall"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/30/2020 0:00",
-      "RetractionDOI": "10.1186/s40537-020-00323-8",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/7/2020 0:00",
-      "OriginalPaperDOI": "10.1186/s40537-019-0282-4",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/30/2020 0:00",
+      "retractiondoi": "10.1186/s40537-020-00323-8",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/7/2020 0:00",
+      "originalpaperdoi": "10.1186/s40537-019-0282-4",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e056",
-      "Record ID": "4265",
-      "Title": "Membrane-Bound Mucins and Mucin Terminal Glycans Expression in Idiopathic or Helicobacter pylori, NSAID Associated Peptic Ulcers",
-      "Subject": [
+      "_id": "687cf0b61f662220d8992148",
+      "recordId": "9201",
+      "title": "The Highly Similar Arabidopsis Homologs of Trithorax ATX1 and ATX2 Encode Proteins with Divergent Biochemical Functions",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics",
+        "(BLS) Plant Biology/Botany"
+      ],
+      "institution": [
+        "School of Biological Sciences, University of Nebraska, Lincoln, Nebraska 68588-0118",
+        "North Carolina State University, Raleigh, North Carolina 27606",
+        "Department of Genetic Engineering, Centro de Investigaci\u00f3n y de Estudios Avanzados, Campus Guanajuato, Irapuato, C.P. 36821, Mexico",
+        "Department of Cell and Molecular Biology, Boston University, Boston, Massachusetts 02215",
+        "Microscopy Facility, Appalachian State University, Boone, North Carolina 28608",
+        "Faculty of Agriculture, University of Jordan, Amman 11942, Jordan",
+        "Genomics Core Research Facility, Center for Biotechnology, University of Nebraska, Lincoln Nebraska 68588-0665",
+        "Department of Biology, University of Nebraska, Omaha, Nebraska 68182-0040",
+        "Center for Biotechnology and Department of Statistics, University of Nebraska, Lincoln, Nebraska 68588-0665"
+      ],
+      "journal": "The Plant Cell",
+      "publisher": "American Society of Plant Biologists",
+      "country": [
+        "Jordan",
+        "Mexico",
+        "United States"
+      ],
+      "author": [
+        "Abdelaty Saleh",
+        "Raul Alvarez-Venegas",
+        "Mehtap Yilmaz",
+        "Oahn Le",
+        "Guichuan Hou",
+        "Monther Sadder",
+        "Ayed Al-Abdallat",
+        "Yuannan Xia",
+        "Guoqinq Lu",
+        "Istvan Ladunga",
+        "Zoya Avramova"
+      ],
+      "urls": "http://retractionwatch.com/2016/06/07/prompted-by-pubpeer-biologist-corrects-three-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/14/2015 0:00",
+      "retractiondoi": "10.1105/tpc.15.01029",
+      "retractionpubmedid": "26668307.0",
+      "originalpaperdate": "3/28/2008 0:00",
+      "originalpaperdoi": "10.1105/tpc.107.056614",
+      "originalpaperpubmedid": "18375658.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d899343c",
+      "recordId": "4265",
+      "title": "Membrane-Bound Mucins and Mucin Terminal Glycans Expression in Idiopathic or Helicobacter pylori, NSAID Associated Peptic Ulcers",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Microbiology",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Department of Gastroenterology, Rabin Medical Center, Tel Aviv University, Petach Tikva, Israel",
         "Department of Pathology, Rabin Medical Center, Hasharon Hospital, Petach Tikva, Israel Department of Cellular and Molecular Medicine, Glycobiology Research and Training Center, University of California at San Diego, San Diego, USA",
         "Department of Pathology, Rabin Medical Center, Beilinson Hospital, Petach Tikva, Israel",
         "Department of Medicine, University of California, San Diego, USA VA San Diego Healthcare System, San Diego, USA",
         "Department of Biochemistry and Molecular Biology, University of Nebraska, Omaha, USA"
       ],
-      "Journal": "Digestive Diseases and Sciences",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Digestive Diseases and Sciences",
+      "publisher": "Springer",
+      "country": [
         "Israel",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Yaron Niv",
         "Doron Boltin",
         "Marisa Halpern",
@@ -88,104 +149,46 @@
         "Surinder K Batra",
         "Samuel B Ho"
       ],
-      "URLS": "http://retractionwatch.com/2013/05/30/a-double-bill-from-digestive-diseases-and-sciences-both-for-regurgitation-aka-duplication/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/05/30/a-double-bill-from-digestive-diseases-and-sciences-both-for-regurgitation-aka-duplication/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "5/28/2013 0:00",
-      "RetractionDOI": "10.1007/s10620-013-2723-9",
-      "RetractionPubMedID": "23712373.0",
-      "OriginalPaperDate": "5/11/2012 0:00",
-      "OriginalPaperDOI": "10.1007/s10620-012-2205-5",
-      "OriginalPaperPubMedID": "22576713.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/28/2013 0:00",
+      "retractiondoi": "10.1007/s10620-013-2723-9",
+      "retractionpubmedid": "23712373.0",
+      "originalpaperdate": "5/11/2012 0:00",
+      "originalpaperdoi": "10.1007/s10620-012-2205-5",
+      "originalpaperpubmedid": "22576713.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234cd62",
-      "Record ID": "9201",
-      "Title": "The Highly Similar Arabidopsis Homologs of Trithorax ATX1 and ATX2 Encode Proteins with Divergent Biochemical Functions",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "School of Biological Sciences, University of Nebraska, Lincoln, Nebraska 68588-0118",
-        "North Carolina State University, Raleigh, North Carolina 27606",
-        "Department of Genetic Engineering, Centro de Investigaci\u00f3n y de Estudios Avanzados, Campus Guanajuato, Irapuato, C.P. 36821, Mexico",
-        "Department of Cell and Molecular Biology, Boston University, Boston, Massachusetts 02215",
-        "Microscopy Facility, Appalachian State University, Boone, North Carolina 28608",
-        "Faculty of Agriculture, University of Jordan, Amman 11942, Jordan",
-        "Genomics Core Research Facility, Center for Biotechnology, University of Nebraska, Lincoln Nebraska 68588-0665",
-        "Department of Biology, University of Nebraska, Omaha, Nebraska 68182-0040",
-        "Center for Biotechnology and Department of Statistics, University of Nebraska, Lincoln, Nebraska 68588-0665"
-      ],
-      "Journal": "The Plant Cell",
-      "Publisher": "American Society of Plant Biologists",
-      "Country": [
-        "Jordan",
-        "Mexico",
-        "United States"
-      ],
-      "Author": [
-        "Abdelaty Saleh",
-        "Raul Alvarez-Venegas",
-        "Mehtap Yilmaz",
-        "Oahn Le",
-        "Guichuan Hou",
-        "Monther Sadder",
-        "Ayed Al-Abdallat",
-        "Yuannan Xia",
-        "Guoqinq Lu",
-        "Istvan Ladunga",
-        "Zoya Avramova"
-      ],
-      "URLS": "http://retractionwatch.com/2016/06/07/prompted-by-pubpeer-biologist-corrects-three-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/14/2015 0:00",
-      "RetractionDOI": "10.1105/tpc.15.01029",
-      "RetractionPubMedID": "26668307.0",
-      "OriginalPaperDate": "3/28/2008 0:00",
-      "OriginalPaperDOI": "10.1105/tpc.107.056614",
-      "OriginalPaperPubMedID": "18375658.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2008,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -193,10 +196,10 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -204,24 +207,24 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

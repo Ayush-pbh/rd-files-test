@@ -1,56 +1,98 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878ae9",
+    "_id": "687ccbab09adbf7aa61b970a",
     "grid_id": "grid.443667.4",
     "institute_name": "Agrarian-Technical University",
     "country": "Kazakhstan",
     "retracted_record_ids": [
-      "48089"
+      "48089",
+      "65689"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2343620",
-      "Record ID": "48089",
-      "Title": "Assessing the Nutritional-Value-Based Therapeutic Potentials and Non-Destructive Approaches for Mulberry Fruit Assessment: An Overview",
-      "Subject": [
+      "_id": "687cef4f1f662220d898459c",
+      "recordId": "65689",
+      "title": "Emotion recognition and classification based on audio data using AI",
+      "subject": [
+        "(B/T) Data Science",
+        "(SOC) Psychology"
+      ],
+      "institution": [
+        "Zhangir Khan West Kazakhstan Agrarian-Technical University, Zhangir khan street, 51, 090009 Uralsk, Kazakhstan"
+      ],
+      "journal": "E3S Web of Conferences",
+      "publisher": "EDP Sciences",
+      "country": [
+        "Kazakhstan"
+      ],
+      "author": [
+        "Sandugash Bekenova",
+        "Anargul Bekenova"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "1/6/2025 0:00",
+      "retractiondoi": "10.1051/e3sconf/202342000001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/4/2023 0:00",
+      "originalpaperdoi": "10.1051/e3sconf/202342010040",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Article",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef941f662220d8988a06",
+      "recordId": "48089",
+      "title": "Assessing the Nutritional-Value-Based Therapeutic Potentials and Non-Destructive Approaches for Mulberry Fruit Assessment: An Overview",
+      "subject": [
         "(BLS) Agriculture",
         "(HSC) Nutrition"
       ],
-      "Institution": [
+      "institution": [
         "School of Food and Biological Engineering, Jiangsu University, Zhenjiang, Jiangsu, China",
         "Department of Agriculture and Food Technology, Karakoram International University, Gilgit, Pakistan",
         "Department of Technology and Catering Organization, South Ural State University, Chelyabinsk, Russia",
         "Higher School of Technologies of Food and Processing Productions, Zhangir Khan West Kazakhstan Agrarian Technical University, Uralsk, Kazakhstan",
         "Scientific-Production Center of Livestock and Veterinary Medicine, Nur-Sultan, Kazakhstan"
       ],
-      "Journal": "Computational Intelligence and Neuroscience",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Computational Intelligence and Neuroscience",
+      "publisher": "Hindawi",
+      "country": [
         "China",
         "Kazakhstan",
         "Pakistan",
         "Russia"
       ],
-      "Author": [
+      "author": [
         "Muhammad Faisal Manzoor",
         "Abid Hussain",
         "Diana Tazeddinova",
         "Aizhan Abylgazinova",
         "Bin Xu"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "9/20/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9860875",
-      "RetractionPubMedID": "37771899.0",
-      "OriginalPaperDate": "3/24/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6531483",
-      "OriginalPaperPubMedID": "35371246.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/20/2023 0:00",
+      "retractiondoi": "10.1155/2023/9860875",
+      "retractionpubmedid": "37771899.0",
+      "originalpaperdate": "3/24/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6531483",
+      "originalpaperpubmedid": "35371246.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Referencing/Attributions",
         "+Concerns/Issues with Peer Review",
@@ -58,31 +100,43 @@
         "+Investigation by Third Party",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

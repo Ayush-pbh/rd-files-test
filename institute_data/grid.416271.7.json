@@ -1,60 +1,165 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877e98",
+    "_id": "687ccbab09adbf7aa61b8ab9",
     "grid_id": "grid.416271.7",
     "institute_name": "Ningbo First Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "48733",
+      "45740",
+      "46190",
       "48075",
+      "61263",
+      "48733",
       "30326",
       "46271",
-      "55262",
       "47584",
-      "46190",
-      "44734",
-      "61263",
-      "45740"
+      "55262",
+      "44734"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23433a1",
-      "Record ID": "48733",
-      "Title": "The Clinical Efficacy and Risk Factors after Revision and Reconstruction of Anterior Cruciate Ligament",
-      "Subject": [
+      "_id": "687cef611f662220d89856b9",
+      "recordId": "61263",
+      "title": "Application and Value of Dynamic Volume CT Multiparameter Imaging in the Diagnosis of Traumatic High-Flow Penile Abnormal Erection",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Urology/Nephrology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Radiology, Ningbo First Hospital, Ningbo City 315010, Zhejiang Province, China"
+      ],
+      "journal": "Scientific Programming",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Chengcheng Xu",
+        "Xinzhong Ruan",
+        "Yuning Pan",
+        "Qiuli Huang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "10/18/2023 0:00",
+      "retractiondoi": "10.1155/2023/9760782",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/25/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/4234177",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/E822B698C80252A17068BADD63198E",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef791f662220d8986e23",
+      "recordId": "55262",
+      "title": "Clinical Study of Heart Failure with Left Ventricular Ejection Fraction Regimen Treated with Entresto",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Arrhythmia Center, Ningbo First Hospital, Ningbo 315000, China",
+        "Key Laboratory of Precision Medicine for Atherosclerotic Diseases of Zhejiang Province, China"
+      ],
+      "journal": "Contrast Media & Molecular Imaging",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Mingjun Feng",
+        "Bin He",
+        "Binhao Wang",
+        "Xiaomin Chen",
+        "Huimin Chu"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9803791",
+      "retractionpubmedid": "37502534.0",
+      "originalpaperdate": "8/9/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/4164089",
+      "originalpaperpubmedid": "36034207.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/2831E1E60AD5B590F60649EBED942E",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef921f662220d8988787",
+      "recordId": "48733",
+      "title": "The Clinical Efficacy and Risk Factors after Revision and Reconstruction of Anterior Cruciate Ligament",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Ningbo Haishu No. 2 Hospital Ningbo First Hospital Haishu Branch, Ningbo, Zhejiang, China",
         "Ningbo Municipal Hospital of TCM, Ningbo, Zhejiang, China",
         "Ningbo Beilun Changzheng Orthopaedic Hospital, Ningbo, Zhejiang, China"
       ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Shuai Miao",
         "Shuoda Li",
         "Zhonggao Wu",
         "Hui Wang",
         "Ming Li"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/2/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9824179",
-      "RetractionPubMedID": "37564823.0",
-      "OriginalPaperDate": "12/17/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6606492",
-      "OriginalPaperPubMedID": "34956574.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/2/2023 0:00",
+      "retractiondoi": "10.1155/2023/9824179",
+      "retractionpubmedid": "37564823.0",
+      "originalpaperdate": "12/17/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6606492",
+      "originalpaperpubmedid": "34956574.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -66,48 +171,49 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/3CC40B5D7BFE998073346A5E9BDBDD",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/3CC40B5D7BFE998073346A5E9BDBDD",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234362e",
-      "Record ID": "48075",
-      "Title": "Long noncoding RNA MALAT1 promotes the stemness of esophageal squamous cell carcinoma by enhancing YAP transcriptional activity",
-      "Subject": [
+      "_id": "687cef941f662220d8988a14",
+      "recordId": "48075",
+      "title": "Long noncoding RNA MALAT1 promotes the stemness of esophageal squamous cell carcinoma by enhancing YAP transcriptional activity",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Geriatric Medicine, Ningbo First Hospital, China"
       ],
-      "Journal": "FEBS Open Bio",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "FEBS Open Bio",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Qi Yao",
         "Jun Yang",
         "Ting Liu",
         "Jianjiang Zhang",
         "Yibo Zheng"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/4/2023 0:00",
-      "RetractionDOI": "10.1002/2211-5463.13706",
-      "RetractionPubMedID": "37792303.0",
-      "OriginalPaperDate": "5/22/2019 0:00",
-      "OriginalPaperDOI": "10.1002/2211-5463.12676",
-      "OriginalPaperPubMedID": "31116509.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/4/2023 0:00",
+      "retractiondoi": "10.1002/2211-5463.13706",
+      "retractionpubmedid": "37792303.0",
+      "originalpaperdate": "5/22/2019 0:00",
+      "originalpaperdoi": "10.1002/2211-5463.12676",
+      "originalpaperpubmedid": "31116509.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
@@ -115,197 +221,47 @@
         "+Paper Mill",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/32BB3378CAE262136C61F377152DD2",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/32BB3378CAE262136C61F377152DD2",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2347b33",
-      "Record ID": "30326",
-      "Title": "LINC00342 promotes thyroid carcinoma progression by targeting miR-384/CHMP5 pathway",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Pulmonology, the Affiliated Hospital of Medical School of Ningbo University, Ningbo, 315020, China",
-        "Department of Gastrointestinal Surgery, Ningbo First Hospital, Ningbo, 315010, China",
-        "Department of Neurology, Xiangshan County Red Cross Taiyou Hospital General Hospital of Medical and Health Group, Ningbo, 315731, China"
-      ],
-      "Journal": "Pathology: Research and Practice",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Dan Lv",
-        "Lin Tan",
-        "Hongying Ma",
-        "YUn Zhang",
-        "Jun Lin",
-        "Yiming Yu",
-        "Zhongbo Chen",
-        "Qiaoli Zhang",
-        "Qunli Ding",
-        "Zaichun Deng"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/2/2020 0:00",
-      "RetractionDOI": "10.1016/j.prp.2020.153272",
-      "RetractionPubMedID": "34044217.0",
-      "OriginalPaperDate": "11/2/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.prp.2020.153272",
-      "OriginalPaperPubMedID": "34044217.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "Yes",
-      "Notes": "date of retraciton unknown, html page overwrite;",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2343d3a",
-      "Record ID": "46271",
-      "Title": "Long non-coding RNA MACC1-AS1 promoted pancreatic carcinoma progression through activation of PAX8/ NOTCH1 signaling pathway",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Hepatobiliary & Pancreatic Surgery, Ningbo First Hospital, No. 59 Liuting Street, Haishu District, Ningbo, 315000, Zhejiang Province, China"
-      ],
-      "Journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qi Chen",
-        "Xiaofeng Chen",
-        "Dongen LI",
-        "Liang Yang",
-        "Liping Xu",
-        "Yue Hu",
-        "Jianshuai Jiang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/25/2023 0:00",
-      "RetractionDOI": "10.1186/s13046-023-02772-4",
-      "RetractionPubMedID": "37491294.0",
-      "OriginalPaperDate": "8/7/2019 0:00",
-      "OriginalPaperDOI": "10.1186/s13046-019-1332-7",
-      "OriginalPaperPubMedID": "31391063.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/6A12D08C3B890539A14F2044D59569",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2341a3d",
-      "Record ID": "55262",
-      "Title": "Clinical Study of Heart Failure with Left Ventricular Ejection Fraction Regimen Treated with Entresto",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Arrhythmia Center, Ningbo First Hospital, Ningbo 315000, China",
-        "Key Laboratory of Precision Medicine for Atherosclerotic Diseases of Zhejiang Province, China"
-      ],
-      "Journal": "Contrast Media & Molecular Imaging",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Mingjun Feng",
-        "Bin He",
-        "Binhao Wang",
-        "Xiaomin Chen",
-        "Huimin Chu"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9803791",
-      "RetractionPubMedID": "37502534.0",
-      "OriginalPaperDate": "8/9/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/4164089",
-      "OriginalPaperPubMedID": "36034207.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/2831E1E60AD5B590F60649EBED942E",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343819",
-      "Record ID": "47584",
-      "Title": "Clinical Study on the Differential Diagnosis of High Myopia Astigmatism and Subclinical Keratoconus in Adolescents by Pentacam Anterior Segment Analyzer",
-      "Subject": [
+      "_id": "687cef961f662220d8988bff",
+      "recordId": "47584",
+      "title": "Clinical Study on the Differential Diagnosis of High Myopia Astigmatism and Subclinical Keratoconus in Adolescents by Pentacam Anterior Segment Analyzer",
+      "subject": [
         "(HSC) Medicine - Ophthalmology",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Department of Ophthalmology, Ningbo First Hospital, No. 59, Liuting Street, Ningbo 315010, Zhejiang, China",
         "Department of Ophthalmology, Xiaoshan Hospital Affiliated to Hangzhou Normal University, No. 728, Yucai North Road, Xiaoshan District, Hangzhou 311002, Zhejiang, China"
       ],
-      "Journal": "Contrast Media & Molecular Imaging",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Contrast Media & Molecular Imaging",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Yimeng Ruan",
         "Ying Zhang",
         "Xiaohong Ying"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "9/14/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9867346",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/16/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6370791",
-      "OriginalPaperPubMedID": "35655722.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/14/2023 0:00",
+      "retractiondoi": "10.1155/2023/9867346",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/16/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6370791",
+      "originalpaperpubmedid": "35655722.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Human Subject Welfare",
         "+Concerns/Issues about Referencing/Attributions",
@@ -315,31 +271,79 @@
         "+Lack of IRB/IACUC Approval and/or Compliance",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/37D0DA0F557EB805E91E3418787CFF",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/37D0DA0F557EB805E91E3418787CFF",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343d89",
-      "Record ID": "46190",
-      "Title": "Gastrointestinal Bleeding Secondary to High-Dose Melphalan Pretreatment in Patients with Multiple Myeloma Was Associated with the Mode of Melphalan Administration",
-      "Subject": [
+      "_id": "687cef9c1f662220d8989120",
+      "recordId": "46271",
+      "title": "Long non-coding RNA MACC1-AS1 promoted pancreatic carcinoma progression through activation of PAX8/ NOTCH1 signaling pathway",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Hepatobiliary & Pancreatic Surgery, Ningbo First Hospital, No. 59 Liuting Street, Haishu District, Ningbo, 315000, Zhejiang Province, China"
+      ],
+      "journal": "Journal of Experimental & Clinical Cancer Research: (CR)",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qi Chen",
+        "Xiaofeng Chen",
+        "Dongen LI",
+        "Liang Yang",
+        "Liping Xu",
+        "Yue Hu",
+        "Jianshuai Jiang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/25/2023 0:00",
+      "retractiondoi": "10.1186/s13046-023-02772-4",
+      "retractionpubmedid": "37491294.0",
+      "originalpaperdate": "8/7/2019 0:00",
+      "originalpaperdoi": "10.1186/s13046-019-1332-7",
+      "originalpaperpubmedid": "31391063.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/6A12D08C3B890539A14F2044D59569",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9c1f662220d898916f",
+      "recordId": "46190",
+      "title": "Gastrointestinal Bleeding Secondary to High-Dose Melphalan Pretreatment in Patients with Multiple Myeloma Was Associated with the Mode of Melphalan Administration",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Hematology, Ningbo First Hospital, Ningbo 315000, Zhejiang, China"
       ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Qunfang Ge",
         "Yi Wang",
         "Huiling Zhu",
@@ -348,18 +352,18 @@
         "Xiaoyan Yan",
         "Guifang Ouyang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/21/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9837142",
-      "RetractionPubMedID": "37387961.0",
-      "OriginalPaperDate": "7/1/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/2088217",
-      "OriginalPaperPubMedID": "35860001.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/21/2023 0:00",
+      "retractiondoi": "10.1155/2023/9837142",
+      "retractionpubmedid": "37387961.0",
+      "originalpaperdate": "7/1/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/2088217",
+      "originalpaperpubmedid": "35860001.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Referencing/Attributions",
         "+Concerns/Issues with Peer Review",
@@ -367,128 +371,32 @@
         "+Investigation by Third Party",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/D579CC716933740F5431C7CA919418",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/D579CC716933740F5431C7CA919418",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2344332",
-      "Record ID": "44734",
-      "Title": "The F-box protein FBXO11 restrains hepatocellular carcinoma stemness via promotion of ubiquitin-mediated degradation of Snail",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Emergency, Ningbo First Hospital, Ningbo, China",
-        "Department of Geriatric Medicine, Ningbo First Hospital, Ningbo, China"
-      ],
-      "Journal": "FEBS Open Bio",
-      "Publisher": "Wiley",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Lijiang Shao",
-        "Xuehui Zhang",
-        "Qi Yao"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/23/2023 0:00",
-      "RetractionDOI": "10.1002/2211-5463.13623",
-      "RetractionPubMedID": "37219054.0",
-      "OriginalPaperDate": "7/26/2020 0:00",
-      "OriginalPaperDOI": "10.1002/2211-5463.12933",
-      "OriginalPaperPubMedID": "32657545.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/7D99BEFECC996111159CD69164C3EA",
-      "notice_year": 2023,
-      "year": 2020,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23402d3",
-      "Record ID": "61263",
-      "Title": "Application and Value of Dynamic Volume CT Multiparameter Imaging in the Diagnosis of Traumatic High-Flow Penile Abnormal Erection",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Urology/Nephrology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Radiology, Ningbo First Hospital, Ningbo City 315010, Zhejiang Province, China"
-      ],
-      "Journal": "Scientific Programming",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Chengcheng Xu",
-        "Xinzhong Ruan",
-        "Yuning Pan",
-        "Qiuli Huang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "10/18/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9760782",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/25/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/4234177",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/E822B698C80252A17068BADD63198E",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343f47",
-      "Record ID": "45740",
-      "Title": "Anti-fibrotic mechanism of SPP1 knockdown in atrial fibrosis associates with inhibited mitochondrial DNA damage and TGF-\u03b2/SREBP2/PCSK9 signaling",
-      "Subject": [
+      "_id": "687cef9e1f662220d898932d",
+      "recordId": "45740",
+      "title": "Anti-fibrotic mechanism of SPP1 knockdown in atrial fibrosis associates with inhibited mitochondrial DNA damage and TGF-\u03b2/SREBP2/PCSK9 signaling",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Arrhythmia Center, Department of Cardiology, Ningbo First Hospital, Ningbo, 315010, China",
         "Department of Nephrology, Ningbo Urology and Nephrology Hospital, Ningbo, 315000, China",
         "Ningbo University School of Medicine, Ningbo, 315211, China"
       ],
-      "Journal": "Cell Death Discovery",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Cell Death Discovery",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Xianfeng Du",
         "Ting Liu",
         "Caijie Shen",
@@ -501,78 +409,180 @@
         "Yanyan Xu",
         "Huimin Chu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/30/2023 0:00",
-      "RetractionDOI": "10.1038/s41420-023-01516-9",
-      "RetractionPubMedID": "37391404.0",
-      "OriginalPaperDate": "5/4/2022 0:00",
-      "OriginalPaperDOI": "10.1038/s41420-022-00895-9",
-      "OriginalPaperPubMedID": "35508610.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/30/2023 0:00",
+      "retractiondoi": "10.1038/s41420-023-01516-9",
+      "retractionpubmedid": "37391404.0",
+      "originalpaperdate": "5/4/2022 0:00",
+      "originalpaperdoi": "10.1038/s41420-022-00895-9",
+      "originalpaperpubmedid": "35508610.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa21f662220d8989718",
+      "recordId": "44734",
+      "title": "The F-box protein FBXO11 restrains hepatocellular carcinoma stemness via promotion of ubiquitin-mediated degradation of Snail",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Emergency, Ningbo First Hospital, Ningbo, China",
+        "Department of Geriatric Medicine, Ningbo First Hospital, Ningbo, China"
+      ],
+      "journal": "FEBS Open Bio",
+      "publisher": "Wiley",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Lijiang Shao",
+        "Xuehui Zhang",
+        "Qi Yao"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/23/2023 0:00",
+      "retractiondoi": "10.1002/2211-5463.13623",
+      "retractionpubmedid": "37219054.0",
+      "originalpaperdate": "7/26/2020 0:00",
+      "originalpaperdoi": "10.1002/2211-5463.12933",
+      "originalpaperpubmedid": "32657545.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/7D99BEFECC996111159CD69164C3EA",
+      "year": "2020",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefdc1f662220d898cf19",
+      "recordId": "30326",
+      "title": "LINC00342 promotes thyroid carcinoma progression by targeting miR-384/CHMP5 pathway",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Pulmonology, the Affiliated Hospital of Medical School of Ningbo University, Ningbo, 315020, China",
+        "Department of Gastrointestinal Surgery, Ningbo First Hospital, Ningbo, 315010, China",
+        "Department of Neurology, Xiangshan County Red Cross Taiyou Hospital General Hospital of Medical and Health Group, Ningbo, 315731, China"
+      ],
+      "journal": "Pathology: Research and Practice",
+      "publisher": "Elsevier",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Dan Lv",
+        "Lin Tan",
+        "Hongying Ma",
+        "YUn Zhang",
+        "Jun Lin",
+        "Yiming Yu",
+        "Zhongbo Chen",
+        "Qiaoli Zhang",
+        "Qunli Ding",
+        "Zaichun Deng"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/2/2020 0:00",
+      "retractiondoi": "10.1016/j.prp.2020.153272",
+      "retractionpubmedid": "34044217.0",
+      "originalpaperdate": "11/2/2020 0:00",
+      "originalpaperdoi": "10.1016/j.prp.2020.153272",
+      "originalpaperpubmedid": "34044217.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "Yes",
+      "notes": "date of retraciton unknown, html page overwrite;",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 9,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

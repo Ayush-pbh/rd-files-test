@@ -1,66 +1,23 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068789cc",
+    "_id": "687ccbab09adbf7aa61b95ed",
     "grid_id": "grid.411777.3",
     "institute_name": "Bretonneau Hospital",
     "country": "France",
     "retracted_record_ids": [
-      "19123",
-      "50723"
+      "50723",
+      "19123"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a6cc",
-      "Record ID": "19123",
-      "Title": "Rapid Screening for Frailty and Sarcopenia in Daily Clinical Practice",
-      "Subject": [
-        "(HSC) Medicine - General",
+      "_id": "687cef8b1f662220d8987fc5",
+      "recordId": "50723",
+      "title": "Precision Medicine: The Future Management of Geriatric Conditions",
+      "subject": [
         "(HSC) Medicine - Geriatric"
       ],
-      "Institution": [
-        "Division of Geriatric Medicine, Tours University Hospital, Tours, France",
-        "Inserm UMR1027Universite de Toulouse III Paul Sabatier, Toulouse, France",
-        "Division of Geriatric Medicine, Saint Louis University School of Medicine, St. Louis, USA",
-        "Tours University Hospital \u2013 Division of Geriatric medicine, Bretonneau Hospital, Tours cedex 9, France"
-      ],
-      "Journal": "The Journal of Nutrition, Health & Aging",
-      "Publisher": "Springer",
-      "Country": [
-        "France",
-        "United States"
-      ],
-      "Author": [
-        "Bertrand Fougere",
-        "J E Morley"
-      ],
-      "URLS": "http://retractionwatch.com/2019/01/21/we-were-very-uncomfortable-with-this-situation-french-group-loses-aging-paper-for-overlap/",
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "6/11/2018 0:00",
-      "RetractionDOI": "10.1007/s12603-018-1057-x",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/11/2018 0:00",
-      "OriginalPaperDOI": "10.1007/s12603-018-1057-x",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2018,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342bdf",
-      "Record ID": "50723",
-      "Title": "Precision Medicine: The Future Management of Geriatric Conditions",
-      "Subject": [
-        "(HSC) Medicine - Geriatric"
-      ],
-      "Institution": [
+      "institution": [
         "Tours University Hospital \u2014 Division of Geriatric medicine, Bretonneau Hospital, Building B1A Level 4, 2, boulevard Tonnell\u00e9, 37044, Tours cedex 9, France",
         "Inserm UMR1027, Toulouse University III Paul Sabatier, Toulouse, France",
         "Division of Geriatric Medicine, Saint Louis University School of Medicine, St. Louis, Missouri, USA",
@@ -76,9 +33,9 @@
         "Chinese University of Hong Kong, Hong Kong, China",
         "G\u00e9rontop\u00f4le, Toulouse University Hospital, Toulouse, France"
       ],
-      "Journal": "The Journal of Nutrition, Health & Aging",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "The Journal of Nutrition, Health & Aging",
+      "publisher": "Springer",
+      "country": [
         "Australia",
         "China",
         "France",
@@ -90,7 +47,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Bertrand Foug\u00e8re",
         "J E Morley",
         "H Arai",
@@ -105,35 +62,80 @@
         "J Woo",
         "B Vellas"
       ],
-      "URLS": "https://retractionwatch.com/?s=Bertrand+Foug%C3%A8re",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=Bertrand+Foug%C3%A8re",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "12/27/2023 0:00",
-      "RetractionDOI": "10.1007/s12603-018-1045-1",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/18/2018 0:00",
-      "OriginalPaperDOI": "10.1007/s12603-018-1045-1",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/27/2023 0:00",
+      "retractiondoi": "10.1007/s12603-018-1045-1",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/18/2018 0:00",
+      "originalpaperdoi": "10.1007/s12603-018-1045-1",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2018,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fab2",
+      "recordId": "19123",
+      "title": "Rapid Screening for Frailty and Sarcopenia in Daily Clinical Practice",
+      "subject": [
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Geriatric"
+      ],
+      "institution": [
+        "Division of Geriatric Medicine, Tours University Hospital, Tours, France",
+        "Inserm UMR1027Universite de Toulouse III Paul Sabatier, Toulouse, France",
+        "Division of Geriatric Medicine, Saint Louis University School of Medicine, St. Louis, USA",
+        "Tours University Hospital \u2013 Division of Geriatric medicine, Bretonneau Hospital, Tours cedex 9, France"
+      ],
+      "journal": "The Journal of Nutrition, Health & Aging",
+      "publisher": "Springer",
+      "country": [
+        "France",
+        "United States"
+      ],
+      "author": [
+        "Bertrand Fougere",
+        "J E Morley"
+      ],
+      "urls": "http://retractionwatch.com/2019/01/21/we-were-very-uncomfortable-with-this-situation-french-group-loses-aging-paper-for-overlap/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "6/11/2018 0:00",
+      "retractiondoi": "10.1007/s12603-018-1057-x",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/11/2018 0:00",
+      "originalpaperdoi": "10.1007/s12603-018-1057-x",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -141,10 +143,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

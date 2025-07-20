@@ -1,30 +1,91 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878000",
+    "_id": "687ccbab09adbf7aa61b8c21",
     "grid_id": "grid.442867.b",
     "institute_name": "University of Wah",
     "country": "Pakistan",
     "retracted_record_ids": [
-      "58040",
-      "47862",
-      "51039",
       "58039",
+      "60395",
+      "58040",
       "55400",
-      "60395"
+      "51039",
+      "47862"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2340f66",
-      "Record ID": "58040",
-      "Title": "Sanitation, water, energy use, and traffic volume affect environmental quality: Go-for-green developmental policies",
-      "Subject": [
+      "_id": "687cef651f662220d8985a1d",
+      "recordId": "60395",
+      "title": "An Effective Approach for Human Activity Classification Using Feature Fusion and Machine Learning Methods",
+      "subject": [
+        "(B/T) Business - General",
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Government",
+        "(B/T) Technology",
+        "(B/T) Transportation"
+      ],
+      "institution": [
+        "Department of Computer Science, University of Wah, 47040, Pakistan",
+        "Department of Computer Science, COMSATS University Islamabad, Wah Cantt, Pakistan",
+        "Department of Computer Science, College of Computer and Information Sciences, King Saud University, Riyadh 11543, Saudi Arabia",
+        "Department of Information and Communication Technology, University of Agder (UiA), N-4898 Grimstad, Norway",
+        "Computer Engineering Department, Engineering College, Hadhramout University, Hadhramout, Yemen",
+        "School of Digital Science, Universiti Brunei Darussalam, Jalan Tungku Link, Gadong BE1410, Brunei"
+      ],
+      "journal": "Applied Bionics and Biomechanics",
+      "publisher": "Hindawi",
+      "country": [
+        "Brunei (Brunei Darussalam)",
+        "Norway",
+        "Pakistan",
+        "Saudi Arabia",
+        "Yemen"
+      ],
+      "author": [
+        "Muhammad Junaid Ibrahim",
+        "Jaweria Kainat",
+        "Hussain AlSalman",
+        "Syed Sajid Ullah",
+        "Suheer Al-Hadhrami",
+        "Saddam Hussain"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9794361",
+      "retractionpubmedid": "38075109.0",
+      "originalpaperdate": "2/2/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/7931729",
+      "originalpaperpubmedid": "35154378.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef6f1f662220d898634c",
+      "recordId": "58040",
+      "title": "Sanitation, water, energy use, and traffic volume affect environmental quality: Go-for-green developmental policies",
+      "subject": [
         "(B/T) Technology",
         "(B/T) Transportation",
         "(B/T) Urban Planning",
         "(ENV) Environmental Sciences"
       ],
-      "Institution": [
+      "institution": [
         "Department of Economics, Government Post Graduate College No. 1, Abbottabad, KPK, Pakistan",
         "Graduate School of Economics and Management, Ural Federal University, Yekaterinburg, Russian Federation",
         "Department of Management Sciences, University of Wah, Wah Cantt, Pakistan",
@@ -35,16 +96,16 @@
         "School of Public Administration, Xi\u2019an University of Architecture and Technology, Xi\u2019an, China",
         "Faculty of Business and Management Sciences, The Superior University, Lahore, Pakistan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "China",
         "Indonesia",
         "Malaysia",
         "Pakistan",
         "Russia"
       ],
-      "Author": [
+      "author": [
         "Luqman Khalil",
         "Shujaat Abbas",
         "Kamil Hussain",
@@ -54,17 +115,17 @@
         "Zainudin Bin Hassan",
         "Muhammad Khalid Anser"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/14/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0311784",
-      "RetractionPubMedID": "39437022.0",
-      "OriginalPaperDate": "8/26/2022 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0271017",
-      "OriginalPaperPubMedID": "36026488.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/14/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0311784",
+      "retractionpubmedid": "39437022.0",
+      "originalpaperdate": "8/26/2022 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0271017",
+      "originalpaperpubmedid": "36026488.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
@@ -73,137 +134,22 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343703",
-      "Record ID": "47862",
-      "Title": "Optimization of Correlation Filters Using Extended Particle Swarm Optimization Technique",
-      "Subject": [
-        "(B/T) Data Science",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Wah Engineering College, University of Wah, Wah Cantt, Pakistan",
-        "Department of Electrical Engineering, University of Lahore, Islamabad Campus, Pakistan",
-        "Department of Unmanned Vehicle Engineering, Sejong University, Seoul 05006, Republic of Korea",
-        "Department of Computer Science, HITEC University Taxila, Taxila 47040, Pakistan",
-        "College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Al-Khraj, Saudi Arabia",
-        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Norway",
-        "Pakistan",
-        "Saudi Arabia",
-        "South Korea"
-      ],
-      "Author": [
-        "Haris Masood",
-        "Amad Zafar",
-        "Muhammad Umair Ali",
-        "Muhammad Attique Khan",
-        "Kashif Iqbal",
-        "Usman Tariq",
-        "Seifedine Kadry"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/19/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9793063",
-      "RetractionPubMedID": "37503368.0",
-      "OriginalPaperDate": "7/7/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6321860",
-      "OriginalPaperPubMedID": "34306177.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/E7FF47FFCA56ABAD1A22FE736991B9",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2342aa5",
-      "Record ID": "51039",
-      "Title": "Dual Solution with Heat Transfer through Moving Porous Plate of an Unsteady Incompressible Viscous Fluid",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Engineering - General",
-        "(PHY) Mathematics"
-      ],
-      "Institution": [
-        "Department of Mathematics University of Wah, Wahcantt 47040, Pakistan",
-        "Department of Mathematics, The University of Faisalabad, Sargodha Road, University Town Faisalabad, Punjab 38000, Pakistan",
-        "Department of Mathematics and Statistics, International Islamic University, Islamabad 46000, Pakistan",
-        "Department of Mathematics, Abdul Wali Khan University, Mardan, KP, Pakistan",
-        "Department of Mathematics, Sanna University, Sana\u2019a, Yemen"
-      ],
-      "Journal": "Journal of Chemistry",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Pakistan",
-        "Yemen"
-      ],
-      "Author": [
-        "Tasawar Abbas",
-        "Aaqib Majeed",
-        "Bilal Ahmad",
-        "Muhammad Noveel Sadiq",
-        "Qazi Mahmood Ul Hassan",
-        "Hakeem Ullah",
-        "Seham M Al-Mekhlafi"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/23/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9819246",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/31/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/4898171",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340f67",
-      "Record ID": "58039",
-      "Title": "Controlling air pollution by lowering methane emissions, conserving natural resources, and slowing urbanization in a panel of selected Asian economies",
-      "Subject": [
+      "_id": "687cef6f1f662220d898634d",
+      "recordId": "58039",
+      "title": "Controlling air pollution by lowering methane emissions, conserving natural resources, and slowing urbanization in a panel of selected Asian economies",
+      "subject": [
         "(B/T) Urban Planning",
         "(ENV) Ecology",
         "(ENV) Environmental Sciences"
       ],
-      "Institution": [
+      "institution": [
         "Department of Economics, The University of Haripur, Haripur, Khyber Pakhtunkhwa, Pakistan",
         "College of International Education, Baise University, Baise, Guangxi, China",
         "Department of Management Sciences, University of Wah, Wah Cantt, Pakistan",
@@ -211,13 +157,13 @@
         "School of Management, Forman Christian College (A Chartered University), Lahore, Pakistan",
         "Department of Business Administration, Air University, Multan, Pakistan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "China",
         "Pakistan"
       ],
-      "Author": [
+      "author": [
         "Sadoon Hanif",
         "Majid Lateef",
         "Kamil Hussain",
@@ -226,17 +172,17 @@
         "Khalid Zaman",
         "Muhammad Asif"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/14/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0311785",
-      "RetractionPubMedID": "39437025.0",
-      "OriginalPaperDate": "8/19/2022 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0271387",
-      "OriginalPaperPubMedID": "35984821.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/14/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0311785",
+      "retractionpubmedid": "39437025.0",
+      "originalpaperdate": "8/19/2022 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0271387",
+      "originalpaperpubmedid": "35984821.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
@@ -245,21 +191,22 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23419b3",
-      "Record ID": "55400",
-      "Title": "Arsenic in drinking water: overview of removal strategies and role of chitosan biosorbent for its remediation",
-      "Subject": [
+      "_id": "687cef791f662220d8986d99",
+      "recordId": "55400",
+      "title": "Arsenic in drinking water: overview of removal strategies and role of chitosan biosorbent for its remediation",
+      "subject": [
         "(BLS) Biochemistry",
         "(ENV) Environmental Sciences",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Chemistry, The Islamia University of Bahawalpur, Bahawalpur, 63100, Pakistan",
         "Faculty of Economics and Business Management, National University of Laos, Vientiane, Laos",
         "Department of Chemistry, University of Wah, Quaid Avenue, Wah Cantt, Rawalpindi, 47040, Pakistan",
@@ -267,14 +214,14 @@
         "Department of Chemistry, Government College University Faisalabad, Faisalabad, 38000, Pakistan",
         "National Institute of Food Science and Technology, University of Agriculture Faisalabad, Faisalabad, 38000, Pakistan"
       ],
-      "Journal": "Environmental Science and Pollution Research",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Environmental Science and Pollution Research",
+      "publisher": "Springer",
+      "country": [
         "Laos",
         "Pakistan",
         "Peru"
       ],
-      "Author": [
+      "author": [
         "Asif Ayub",
         "Khaysy Srithilat",
         "Irum Fatima",
@@ -285,17 +232,17 @@
         "Khalil Ahmad",
         "Ali Muhammad"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "7/31/2024 0:00",
-      "RetractionDOI": "10.1007/s11356-024-34522-0",
-      "RetractionPubMedID": "39080176.0",
-      "OriginalPaperDate": "7/18/2022 0:00",
-      "OriginalPaperDOI": "10.1007/s11356-022-21988-z",
-      "OriginalPaperPubMedID": "35849228.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/31/2024 0:00",
+      "retractiondoi": "10.1007/s11356-024-34522-0",
+      "retractionpubmedid": "39080176.0",
+      "originalpaperdate": "7/18/2022 0:00",
+      "originalpaperdoi": "10.1007/s11356-022-21988-z",
+      "originalpaperpubmedid": "35849228.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
         "+Fake Peer Review",
@@ -304,102 +251,161 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2340637",
-      "Record ID": "60395",
-      "Title": "An Effective Approach for Human Activity Classification Using Feature Fusion and Machine Learning Methods",
-      "Subject": [
-        "(B/T) Business - General",
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(B/T) Government",
-        "(B/T) Technology",
-        "(B/T) Transportation"
+      "_id": "687cef8b1f662220d8987e8b",
+      "recordId": "51039",
+      "title": "Dual Solution with Heat Transfer through Moving Porous Plate of an Unsteady Incompressible Viscous Fluid",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Engineering - General",
+        "(PHY) Mathematics"
       ],
-      "Institution": [
-        "Department of Computer Science, University of Wah, 47040, Pakistan",
-        "Department of Computer Science, COMSATS University Islamabad, Wah Cantt, Pakistan",
-        "Department of Computer Science, College of Computer and Information Sciences, King Saud University, Riyadh 11543, Saudi Arabia",
-        "Department of Information and Communication Technology, University of Agder (UiA), N-4898 Grimstad, Norway",
-        "Computer Engineering Department, Engineering College, Hadhramout University, Hadhramout, Yemen",
-        "School of Digital Science, Universiti Brunei Darussalam, Jalan Tungku Link, Gadong BE1410, Brunei"
+      "institution": [
+        "Department of Mathematics University of Wah, Wahcantt 47040, Pakistan",
+        "Department of Mathematics, The University of Faisalabad, Sargodha Road, University Town Faisalabad, Punjab 38000, Pakistan",
+        "Department of Mathematics and Statistics, International Islamic University, Islamabad 46000, Pakistan",
+        "Department of Mathematics, Abdul Wali Khan University, Mardan, KP, Pakistan",
+        "Department of Mathematics, Sanna University, Sana\u2019a, Yemen"
       ],
-      "Journal": "Applied Bionics and Biomechanics",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Brunei (Brunei Darussalam)",
-        "Norway",
+      "journal": "Journal of Chemistry",
+      "publisher": "Hindawi",
+      "country": [
         "Pakistan",
-        "Saudi Arabia",
         "Yemen"
       ],
-      "Author": [
-        "Muhammad Junaid Ibrahim",
-        "Jaweria Kainat",
-        "Hussain AlSalman",
-        "Syed Sajid Ullah",
-        "Suheer Al-Hadhrami",
-        "Saddam Hussain"
+      "author": [
+        "Tasawar Abbas",
+        "Aaqib Majeed",
+        "Bilal Ahmad",
+        "Muhammad Noveel Sadiq",
+        "Qazi Mahmood Ul Hassan",
+        "Hakeem Ullah",
+        "Seham M Al-Mekhlafi"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9794361",
-      "RetractionPubMedID": "38075109.0",
-      "OriginalPaperDate": "2/2/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/7931729",
-      "OriginalPaperPubMedID": "35154378.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
+      "retractiondate": "8/23/2023 0:00",
+      "retractiondoi": "10.1155/2023/9819246",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/31/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/4898171",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef961f662220d8988ae9",
+      "recordId": "47862",
+      "title": "Optimization of Correlation Filters Using Extended Particle Swarm Optimization Technique",
+      "subject": [
+        "(B/T) Data Science",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Wah Engineering College, University of Wah, Wah Cantt, Pakistan",
+        "Department of Electrical Engineering, University of Lahore, Islamabad Campus, Pakistan",
+        "Department of Unmanned Vehicle Engineering, Sejong University, Seoul 05006, Republic of Korea",
+        "Department of Computer Science, HITEC University Taxila, Taxila 47040, Pakistan",
+        "College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Al-Khraj, Saudi Arabia",
+        "Faculty of Applied Computing and Technology, Noroff University College, Kristiansand, Norway"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "Norway",
+        "Pakistan",
+        "Saudi Arabia",
+        "South Korea"
+      ],
+      "author": [
+        "Haris Masood",
+        "Amad Zafar",
+        "Muhammad Umair Ali",
+        "Muhammad Attique Khan",
+        "Kashif Iqbal",
+        "Usman Tariq",
+        "Seifedine Kadry"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/19/2023 0:00",
+      "retractiondoi": "10.1155/2023/9793063",
+      "retractionpubmedid": "37503368.0",
+      "originalpaperdate": "7/7/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6321860",
+      "originalpaperpubmedid": "34306177.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/E7FF47FFCA56ABAD1A22FE736991B9",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 5,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 4
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -407,10 +413,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

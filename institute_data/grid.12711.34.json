@@ -1,37 +1,91 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068794ce",
+    "_id": "687ccbab09adbf7aa61ba0ef",
     "grid_id": "grid.12711.34",
     "institute_name": "University of Urbino",
     "country": "Italy",
     "retracted_record_ids": [
-      "5491",
-      "31786"
+      "31786",
+      "5491"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234dba5",
-      "Record ID": "5491",
-      "Title": "Histone demethylase JARID1C inactivation triggers genomic instability in sporadic renal cancer",
-      "Subject": [
+      "_id": "687cefd21f662220d898c966",
+      "recordId": "31786",
+      "title": "The effect of CELLFOODTM on radiotherapy or combined chemoradiotherapy: preclinical evidence",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Preclinical Models and New Therapeutic Agent Unit, IRCCS Regina Elena National Cancer Institute, Via Chianesi, Rome 00144, Italy",
+        "SAFU Unit, IRCCS Regina Elena National Cancer Institute, Rome, Italy",
+        "Department of Biomolecular Sciences, University of Urbino \u2018Carlo Bo\u2019, Urbino, Italy",
+        "Anatomy Pathology Unit, IRCCS Regina Elena National Cancer Institute, Rome, Italy",
+        "Laboratory of Medical Physics and Expert Systems, IRCCS Regina Elena National Cancer Institute, Rome, Italy",
+        "Anatomy Pathology Unit, IRCCS Regina Elena National Cancer Institute, Rome, Italy"
+      ],
+      "journal": "Therapeutic Advances in Medical Oncology",
+      "publisher": "SAGE Publications",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Barabra Nuvoli",
+        "Bruno Amadio",
+        "Giancarlo Cortese",
+        "Serena Benedetti",
+        "Barbara Antoniani",
+        "Antonella Soriani",
+        "Mariantonia Carosi",
+        "Lidia Strigari",
+        "Rosella Galati"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/24/2021 0:00",
+      "retractiondoi": "10.1177/17588359211029757",
+      "retractionpubmedid": "34422117.0",
+      "originalpaperdate": "10/13/2019 0:00",
+      "originalpaperdoi": "10.1177/1758835919878347",
+      "originalpaperpubmedid": "31662796.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f8b",
+      "recordId": "5491",
+      "title": "Histone demethylase JARID1C inactivation triggers genomic instability in sporadic renal cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Dana Farber Cancer Institute, Harvard Medical School, Cambridge, MA, USA",
         "IEO - Istituto Europeo di Oncologia, Department of Experimental Oncology, Milano, Italy",
         "Universit\u00e0 degli Studi di Urbino Carlo Bo, Department of Biomolecular Science, Urbino, Italy",
         "Ospedale di San Raffaele Istituto di Ricovero e Cura a Carattere Scientifico, Division of Molecular Oncology, Milano, Italy"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society of Clinical Investigation",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society of Clinical Investigation",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Beatrice Rondinelli",
         "Dalia Rosano",
         "Elena Antonini",
@@ -50,108 +104,56 @@
         "Davide Cittaro",
         "Giovanni Tonon"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/1/2016 0:00",
-      "RetractionDOI": "10.1172/JCI91191",
-      "RetractionPubMedID": "27801678.0",
-      "OriginalPaperDate": "12/1/2015 0:00",
-      "OriginalPaperDOI": "10.1172/JCI81040",
-      "OriginalPaperPubMedID": "26551685.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "11/1/2016 0:00",
+      "retractiondoi": "10.1172/JCI91191",
+      "retractionpubmedid": "27801678.0",
+      "originalpaperdate": "12/1/2015 0:00",
+      "originalpaperdoi": "10.1172/JCI81040",
+      "originalpaperpubmedid": "26551685.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2347580",
-      "Record ID": "31786",
-      "Title": "The effect of CELLFOODTM on radiotherapy or combined chemoradiotherapy: preclinical evidence",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Preclinical Models and New Therapeutic Agent Unit, IRCCS Regina Elena National Cancer Institute, Via Chianesi, Rome 00144, Italy",
-        "SAFU Unit, IRCCS Regina Elena National Cancer Institute, Rome, Italy",
-        "Department of Biomolecular Sciences, University of Urbino \u2018Carlo Bo\u2019, Urbino, Italy",
-        "Anatomy Pathology Unit, IRCCS Regina Elena National Cancer Institute, Rome, Italy",
-        "Laboratory of Medical Physics and Expert Systems, IRCCS Regina Elena National Cancer Institute, Rome, Italy",
-        "Anatomy Pathology Unit, IRCCS Regina Elena National Cancer Institute, Rome, Italy"
-      ],
-      "Journal": "Therapeutic Advances in Medical Oncology",
-      "Publisher": "SAGE Publications",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Barabra Nuvoli",
-        "Bruno Amadio",
-        "Giancarlo Cortese",
-        "Serena Benedetti",
-        "Barbara Antoniani",
-        "Antonella Soriani",
-        "Mariantonia Carosi",
-        "Lidia Strigari",
-        "Rosella Galati"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/24/2021 0:00",
-      "RetractionDOI": "10.1177/17588359211029757",
-      "RetractionPubMedID": "34422117.0",
-      "OriginalPaperDate": "10/13/2019 0:00",
-      "OriginalPaperDOI": "10.1177/1758835919878347",
-      "OriginalPaperPubMedID": "31662796.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -159,10 +161,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

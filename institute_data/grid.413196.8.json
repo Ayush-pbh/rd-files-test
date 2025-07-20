@@ -1,36 +1,150 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687920a",
+    "_id": "687ccbab09adbf7aa61b9e2b",
     "grid_id": "grid.413196.8",
     "institute_name": "Ca' Foncello Hospital",
     "country": "Italy",
     "retracted_record_ids": [
+      "35434",
       "35380",
-      "36231",
-      "35434"
+      "36231"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346781",
-      "Record ID": "35380",
-      "Title": "Carcinogenesis in ulcerative colitis: Immunosurveillance mechanisms",
-      "Subject": [
+      "_id": "687cefc01f662220d898b814",
+      "recordId": "36231",
+      "title": "Mucosa-associated microbiota and risk of chronic and/or relapsing pouchitis after restorative proctocolectomy for ulcerative colitis",
+      "subject": [
+        "(BLS) Biology - General",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Dept. of Oncological Surgery, Veneto Oncological Institute (IOV-IRCCS), Padova, Italy",
+        "Dept. of Histology, Microbiology and Medical Biotechnologies, University of Padova, Padova, Italy",
+        "Dept. of Surgical and Gastroenterological Sciences, University of Padova, Padova, Italy",
+        "Dept. of Diagnostic Sciences and Special Therapy, University of Padova, Padova, Italy",
+        "Dept. of Surgery (Chirurgia IV), Ospedale \u201cCa\u2019Foncello\u201d, Treviso, Padova, Italy"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "M Scarpa",
+        "A Grillo",
+        "A Pozza",
+        "D Faggian",
+        "C Ruffolo",
+        "M Zemljc",
+        "R D\u2019Inca`",
+        "M Plebani",
+        "G C Sturniolo",
+        "I Angriman"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb31",
+      "recordId": "35434",
+      "title": "Symptoms related cancer risk in patients undergoing bowel surgery for Crohn\u2019s disease",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Dept. of Surgery (IV Chirurgia), Ospedale \u201cCa\u2019Foncello\u201d, Treviso, Treviso, Italy",
+        "Dept. of Oncological Surgery, Veneto Oncological Institute (IOV-IRCCS), Padova, Padova, Italy",
+        "Dept. of Surgical and Gastroenterological Sciences, University of Padova, Padova, Italy"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "C Ruffolo",
+        "M Scarpa",
+        "L Polese",
+        "F D\u2019Amico Jr",
+        "R Boetto",
+        "A Pozza",
+        "R D\u2019Inca",
+        "D Checchin",
+        "G C Sturniolo",
+        "N Bassi"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1016/S1873-9946(10)00006-1",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1093/ecco-jcc/jjab227",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb67",
+      "recordId": "35380",
+      "title": "Carcinogenesis in ulcerative colitis: Immunosurveillance mechanisms",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Dept. of Oncological Surgery, Veneto Oncological Institute (IOV-IRCCS), Padova, Italy",
         "Dept. of Surgical and Gastroenterological Sciences, University of Padova, Padova, Italy",
         "Dept. of Medical Diagnostic Sciences & Special Therapies, University of Padova, Padova, Italy",
         "IV Surgery Unit, Ospedale Ca\u2019 Foncello, Treviso, Italy"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "M Scarpa",
         "M Bortolami",
         "A Cecchetto",
@@ -43,161 +157,50 @@
         "G C Sturniolo",
         "I Angriman"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234642e",
-      "Record ID": "36231",
-      "Title": "Mucosa-associated microbiota and risk of chronic and/or relapsing pouchitis after restorative proctocolectomy for ulcerative colitis",
-      "Subject": [
-        "(BLS) Biology - General",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "Dept. of Oncological Surgery, Veneto Oncological Institute (IOV-IRCCS), Padova, Italy",
-        "Dept. of Histology, Microbiology and Medical Biotechnologies, University of Padova, Padova, Italy",
-        "Dept. of Surgical and Gastroenterological Sciences, University of Padova, Padova, Italy",
-        "Dept. of Diagnostic Sciences and Special Therapy, University of Padova, Padova, Italy",
-        "Dept. of Surgery (Chirurgia IV), Ospedale \u201cCa\u2019Foncello\u201d, Treviso, Padova, Italy"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "M Scarpa",
-        "A Grillo",
-        "A Pozza",
-        "D Faggian",
-        "C Ruffolo",
-        "M Zemljc",
-        "R D\u2019Inca`",
-        "M Plebani",
-        "G C Sturniolo",
-        "I Angriman"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234674b",
-      "Record ID": "35434",
-      "Title": "Symptoms related cancer risk in patients undergoing bowel surgery for Crohn\u2019s disease",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Dept. of Surgery (IV Chirurgia), Ospedale \u201cCa\u2019Foncello\u201d, Treviso, Treviso, Italy",
-        "Dept. of Oncological Surgery, Veneto Oncological Institute (IOV-IRCCS), Padova, Padova, Italy",
-        "Dept. of Surgical and Gastroenterological Sciences, University of Padova, Padova, Italy"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "C Ruffolo",
-        "M Scarpa",
-        "L Polese",
-        "F D\u2019Amico Jr",
-        "R Boetto",
-        "A Pozza",
-        "R D\u2019Inca",
-        "D Checchin",
-        "G C Sturniolo",
-        "N Bassi"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1016/S1873-9946(10)00006-1",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1093/ecco-jcc/jjab227",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

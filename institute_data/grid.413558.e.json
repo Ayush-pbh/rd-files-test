@@ -1,30 +1,30 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068784ff",
+    "_id": "687ccbab09adbf7aa61b9120",
     "grid_id": "grid.413558.e",
     "institute_name": "Albany Medical Center Hospital",
     "country": "United States",
     "retracted_record_ids": [
-      "56499",
-      "38236",
-      "19905",
       "9198",
+      "56499",
+      "9199",
       "44993",
       "9200",
-      "9199"
+      "19905",
+      "38236"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234156a",
-      "Record ID": "56499",
-      "Title": "In Vivo Clearance of Apoptotic Debris From Tumor Xenografts Exposed to Chemically Modified Tetrac: Is There a Role for Thyroid Hormone Analogues in Efferocytosis?",
-      "Subject": [
+      "_id": "687cef751f662220d8986950",
+      "recordId": "56499",
+      "title": "In Vivo Clearance of Apoptotic Debris From Tumor Xenografts Exposed to Chemically Modified Tetrac: Is There a Role for Thyroid Hormone Analogues in Efferocytosis?",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Pharmaceutical Research Institute, Albany College of Pharmacy and Health Sciences, Rensselaer, NY, United States",
         "Institute of Engineering in Medicine, University of California, San Diego, CA, United States",
         "Ph.D. Program for Cancer Molecular Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan",
@@ -32,104 +32,154 @@
         "Traditional Herbal Medicine Research Center of Taipei Medical University Hospital, Taipei Medical University, Taipei, Taiwan",
         "Department of Medicine, Albany Medical College, Albany, NY, United States"
       ],
-      "Journal": "Frontiers in Endocrinology",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Endocrinology",
+      "publisher": "Frontiers",
+      "country": [
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Kavitha Godugu",
         "Shaker A Mousa",
         "Gennadi V Glinsky",
         "Hung-Yun Lin",
         "Paul J Davis"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/20/2024 0:00",
-      "RetractionDOI": "10.3389/fendo.2024.1480220",
-      "RetractionPubMedID": "39234502.0",
-      "OriginalPaperDate": "3/3/2022 0:00",
-      "OriginalPaperDOI": "10.3389/fendo.2022.745327",
-      "OriginalPaperPubMedID": "35311239.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/20/2024 0:00",
+      "retractiondoi": "10.3389/fendo.2024.1480220",
+      "retractionpubmedid": "39234502.0",
+      "originalpaperdate": "3/3/2022 0:00",
+      "originalpaperdoi": "10.3389/fendo.2022.745327",
+      "originalpaperpubmedid": "35311239.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Investigation by Journal/Publisher",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345c6d",
-      "Record ID": "38236",
-      "Title": "Trends in endovascular interventions for pediatric ischemic stroke at the national level: data from 2000 to 2009",
-      "Subject": [
+      "_id": "687cefa21f662220d8989616",
+      "recordId": "44993",
+      "title": "shRNA Knockdown of Bmi-1 Reveals a Critical Role for p21-Rb Pathway in NSC Self-Renewal during Development",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Molecular Biology, Princeton University, Princeton, NJ 08544, USA",
+        "Center for Neuropharmacology and Neuroscience, Albany Medical College, Albany, NY 12208, USA",
+        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA"
+      ],
+      "journal": "Cell Stem Cell",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Christopher A Fasano",
+        "John T Dimos",
+        "Natalia B Ivanova",
+        "Natalia Lowry",
+        "Ihor R Lemischka",
+        "Sally Temple"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/1/2023 0:00",
+      "retractiondoi": "10.1016/j.stem.2023.05.009",
+      "retractionpubmedid": "37267919.0",
+      "originalpaperdate": "6/5/2007 0:00",
+      "originalpaperdoi": "10.1016/j.stem.2007.04.001",
+      "originalpaperpubmedid": "18371338.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb81f662220d898b053",
+      "recordId": "38236",
+      "title": "Trends in endovascular interventions for pediatric ischemic stroke at the national level: data from 2000 to 2009",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Pediatrics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA",
         "Department of Neurosurgery, Albany Medical Center, Albany, NY, USA"
       ],
-      "Journal": "Child's Nervous System (ChNS): Official Journal of the International Society for Pediatric Neurosurgery",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Child's Nervous System (ChNS): Official Journal of the International Society for Pediatric Neurosurgery",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Faris Shweikeh",
         "Miriam Nuno",
         "Matthew Adamo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/20/2022 0:00",
-      "RetractionDOI": "10.1007/s00381-022-05611-7",
-      "RetractionPubMedID": "35857121.0",
-      "OriginalPaperDate": "6/11/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s00381-020-04714-3",
-      "OriginalPaperPubMedID": "32529548.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/20/2022 0:00",
+      "retractiondoi": "10.1007/s00381-022-05611-7",
+      "retractionpubmedid": "35857121.0",
+      "originalpaperdate": "6/11/2020 0:00",
+      "originalpaperdoi": "10.1007/s00381-020-04714-3",
+      "originalpaperpubmedid": "32529548.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Copyright Claims",
         "+Lack of Approval from Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a3c2",
-      "Record ID": "19905",
-      "Title": "The Cellular Distribution of Serotonin Transporter Is Impeded on Serotonin-Altered Vimentin Network",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f7a8",
+      "recordId": "19905",
+      "title": "The Cellular Distribution of Serotonin Transporter Is Impeded on Serotonin-Altered Vimentin Network",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biochemistry and Molecular Biology, College of Medicine, The University of Arkansas for Medical Sciences, Little Rock, Arkansas, United States of America",
         "Department of Internal Medicine, College of Medicine, The University of Arkansas for Medical Sciences, Little Rock, Arkansas, United States of America",
         "Department of Pharmacology, College of Medicine, The University of Arkansas for Medical Sciences, Little Rock, Arkansas, United States of America",
         "Department of Physiology, College of Medicine, The University of Arkansas for Medical Sciences, Little Rock, Arkansas, United States of America",
         "Center for Cardiovascular Sciences, Albany Medical College, Albany, New York, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Billow A Ahmed",
         "Irfan A Bukhari",
         "BrandonC Jeffus",
@@ -143,176 +193,83 @@
         "Dale Tang",
         "Fusun Kilic"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/1/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0211966",
-      "RetractionPubMedID": "30707744.0",
-      "OriginalPaperDate": "3/9/2009 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0004730",
-      "OriginalPaperPubMedID": "19270731.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0211966",
+      "retractionpubmedid": "30707744.0",
+      "originalpaperdate": "3/9/2009 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0004730",
+      "originalpaperpubmedid": "19270731.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Company/Institution",
         "+Manipulation of Images",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2009,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cd65",
-      "Record ID": "9198",
-      "Title": "The HER-2 Receptor and Breast Cancer: Ten Years of Targeted Anti\u2013HER-2 Therapy and Personalized Medicine",
-      "Subject": [
+      "_id": "687cf0b61f662220d8992149",
+      "recordId": "9200",
+      "title": "The HER-2/neu Oncogene in Breast Cancer: Prognostic Factor, Predictive Factor, and Target for Therapy",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
-        "Department of Pathology and Laboratory Medicine, Albany Medical College, Albany, New York, USA",
-        "Departments of Pathology, Breast Medical Oncology, and Biostatistics and Quantitative Sciences, The University of Texas M. D. Anderson Cancer Center, Houston, Texas, USA"
-      ],
-      "Journal": "The Oncologist",
-      "Publisher": "Society for Translational Oncology",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Jeffrey S Ross",
-        "Elzbieta A Slodkowska",
-        "W Fraser Symmans",
-        "Lajos Pusztai",
-        "Peter M Ravdin",
-        "Gabriel N Hortobagyi"
-      ],
-      "URLS": "http://retractionwatch.com/2016/04/15/three-her2-review-papers-tagged-with-expressions-of-concern/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "3/1/2016 0:00",
-      "RetractionDOI": "10.1634/theoncologist.2016-3001",
-      "RetractionPubMedID": "26966227.0",
-      "OriginalPaperDate": "4/3/2009 0:00",
-      "OriginalPaperDOI": "10.1634/theoncologist.2008-0230",
-      "OriginalPaperPubMedID": "19346299.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Error in Analyses",
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2009,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2344230",
-      "Record ID": "44993",
-      "Title": "shRNA Knockdown of Bmi-1 Reveals a Critical Role for p21-Rb Pathway in NSC Self-Renewal during Development",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Molecular Biology, Princeton University, Princeton, NJ 08544, USA",
-        "Center for Neuropharmacology and Neuroscience, Albany Medical College, Albany, NY 12208, USA",
-        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA"
-      ],
-      "Journal": "Cell Stem Cell",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Christopher A Fasano",
-        "John T Dimos",
-        "Natalia B Ivanova",
-        "Natalia Lowry",
-        "Ihor R Lemischka",
-        "Sally Temple"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/1/2023 0:00",
-      "RetractionDOI": "10.1016/j.stem.2023.05.009",
-      "RetractionPubMedID": "37267919.0",
-      "OriginalPaperDate": "6/5/2007 0:00",
-      "OriginalPaperDOI": "10.1016/j.stem.2007.04.001",
-      "OriginalPaperPubMedID": "18371338.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2007,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234cd63",
-      "Record ID": "9200",
-      "Title": "The HER-2/neu Oncogene in Breast Cancer: Prognostic Factor, Predictive Factor, and Target for Therapy",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
+      "institution": [
         "Department of Pathology and Laboratory Medicine, Albany Medical College, Albany, New York",
         "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts, USA"
       ],
-      "Journal": "The Oncologist",
-      "Publisher": "Society for Translational Oncology",
-      "Country": [
+      "journal": "The Oncologist",
+      "publisher": "Society for Translational Oncology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jeffrey S Ross",
         "Jonathan A Fletcher"
       ],
-      "URLS": "http://retractionwatch.com/2016/04/15/three-her2-review-papers-tagged-with-expressions-of-concern/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/04/15/three-her2-review-papers-tagged-with-expressions-of-concern/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "3/1/2016 0:00",
-      "RetractionDOI": "10.1634/theoncologist.2016-3001",
-      "RetractionPubMedID": "26966227.0",
-      "OriginalPaperDate": "8/1/1998 0:00",
-      "OriginalPaperPubMedID": "10388110.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "3/1/2016 0:00",
+      "retractiondoi": "10.1634/theoncologist.2016-3001",
+      "retractionpubmedid": "26966227.0",
+      "originalpaperdate": "8/1/1998 0:00",
+      "originalpaperpubmedid": "10388110.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Error in Analyses",
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 1998,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "1998",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cd64",
-      "Record ID": "9199",
-      "Title": "The HER-2/neu Gene and Protein in Breast Cancer 2003: Biomarker and Target of Therapy",
-      "Subject": [
+      "_id": "687cf0b61f662220d899214a",
+      "recordId": "9199",
+      "title": "The HER-2/neu Gene and Protein in Breast Cancer 2003: Biomarker and Target of Therapy",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathology and Laboratory Medicine, Albany Medical College, Albany, New York, USA",
         "Division of Molecular Medicine, Millennium Pharmaceuticals, Inc., Cambridge, Massachusetts, USA",
         "Department of Pathology, Brigham Women\u2019s Hospital and Harvard Medical School, Boston, Massachusetts, USA",
@@ -320,12 +277,12 @@
         "Departments of Medicine and Pathology, M.D. Anderson Cancer Center, Houston, Texas, USA",
         "US Labs, Inc., Irvine, California, USA"
       ],
-      "Journal": "The Oncologist",
-      "Publisher": "Society for Translational Oncology",
-      "Country": [
+      "journal": "The Oncologist",
+      "publisher": "Society for Translational Oncology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jeffrey S Ross",
         "Jonathan A Fletcher",
         "Gerald P Linette",
@@ -336,80 +293,130 @@
         "Lajos Pusztai",
         "Kenneth J Bloom"
       ],
-      "URLS": "http://retractionwatch.com/2016/04/15/three-her2-review-papers-tagged-with-expressions-of-concern/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/04/15/three-her2-review-papers-tagged-with-expressions-of-concern/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "3/1/2016 0:00",
-      "RetractionDOI": "10.1634/theoncologist.2016-3001",
-      "RetractionPubMedID": "26966227.0",
-      "OriginalPaperDate": "8/1/2003 0:00",
-      "OriginalPaperDOI": "10.1634/theoncologist.8-4-307",
-      "OriginalPaperPubMedID": "12897328.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "3/1/2016 0:00",
+      "retractiondoi": "10.1634/theoncologist.2016-3001",
+      "retractionpubmedid": "26966227.0",
+      "originalpaperdate": "8/1/2003 0:00",
+      "originalpaperdoi": "10.1634/theoncologist.8-4-307",
+      "originalpaperpubmedid": "12897328.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Error in Analyses",
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2003,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b61f662220d899214b",
+      "recordId": "9198",
+      "title": "The HER-2 Receptor and Breast Cancer: Ten Years of Targeted Anti\u2013HER-2 Therapy and Personalized Medicine",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Pathology and Laboratory Medicine, Albany Medical College, Albany, New York, USA",
+        "Departments of Pathology, Breast Medical Oncology, and Biostatistics and Quantitative Sciences, The University of Texas M. D. Anderson Cancer Center, Houston, Texas, USA"
+      ],
+      "journal": "The Oncologist",
+      "publisher": "Society for Translational Oncology",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Jeffrey S Ross",
+        "Elzbieta A Slodkowska",
+        "W Fraser Symmans",
+        "Lajos Pusztai",
+        "Peter M Ravdin",
+        "Gabriel N Hortobagyi"
+      ],
+      "urls": "http://retractionwatch.com/2016/04/15/three-her2-review-papers-tagged-with-expressions-of-concern/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "3/1/2016 0:00",
+      "retractiondoi": "10.1634/theoncologist.2016-3001",
+      "retractionpubmedid": "26966227.0",
+      "originalpaperdate": "4/3/2009 0:00",
+      "originalpaperdoi": "10.1634/theoncologist.2008-0230",
+      "originalpaperpubmedid": "19346299.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Error in Analyses",
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1998,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -417,43 +424,43 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -461,10 +468,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

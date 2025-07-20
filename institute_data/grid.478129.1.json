@@ -1,6 +1,6 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879fbb",
+    "_id": "687ccbab09adbf7aa61babdc",
     "grid_id": "grid.478129.1",
     "institute_name": "Virginia Clinical Research",
     "country": "United States",
@@ -10,14 +10,14 @@
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234dd93",
-      "Record ID": "4985",
-      "Title": "Experience with ustekinumab in patients with psoriasis enrolled in a large, multicenter, prospective, disease-based registry (Psoriasis Longitudinal Assessment and Registry [PSOLAR])",
-      "Subject": [
+      "_id": "687cf0c51f662220d8993179",
+      "recordId": "4985",
+      "title": "Experience with ustekinumab in patients with psoriasis enrolled in a large, multicenter, prospective, disease-based registry (Psoriasis Longitudinal Assessment and Registry [PSOLAR])",
+      "subject": [
         "(HSC) Medicine - Dermatology",
         "(HSC) Medicine - Drug Design"
       ],
-      "Institution": [
+      "institution": [
         "Probity Medical Research, Waterloo, Ontario, Canada",
         "Tufts Medical Center, Boston, Massachusetts",
         "Centro Studi Gruppo Italiano Studi Epidemiologici in Dermatologia (GISED), Azienda Ospedaliera Papa Giovanni XXIII, Bergamo, Italy",
@@ -27,14 +27,14 @@
         "Janssen Research and Development LLC, Horsham, Pennsylvania",
         "University of Utah Health Sciences Center, Salt Lake City, Utah"
       ],
-      "Journal": "Journal of the American Academy of Dermatology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of the American Academy of Dermatology",
+      "publisher": "Elsevier",
+      "country": [
         "Canada",
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Kim Papp",
         "Alice B Gottlieb",
         "Luigi Naldi",
@@ -47,36 +47,37 @@
         "Wayne Langholff",
         "Gerald Krueger"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/16/2015 0:00",
-      "RetractionDOI": "10.1016/j.jaad.2015.03.011",
-      "RetractionPubMedID": "26287036.0",
-      "OriginalPaperDate": "1/9/2015 0:00",
-      "OriginalPaperDOI": "10.1016/j.jaad.2014.10.025",
-      "OriginalPaperPubMedID": "25582533.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/16/2015 0:00",
+      "retractiondoi": "10.1016/j.jaad.2015.03.011",
+      "retractionpubmedid": "26287036.0",
+      "originalpaperdate": "1/9/2015 0:00",
+      "originalpaperdoi": "10.1016/j.jaad.2014.10.025",
+      "originalpaperpubmedid": "25582533.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

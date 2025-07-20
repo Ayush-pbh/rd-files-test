@@ -1,41 +1,41 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068798ed",
+    "_id": "687ccbab09adbf7aa61ba50e",
     "grid_id": "grid.506934.d",
     "institute_name": "Institute of Biological Chemistry, Academia Sinica",
     "country": "Taiwan",
     "retracted_record_ids": [
-      "23050",
       "20418",
       "21150",
-      "19180"
+      "19180",
+      "23050"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349788",
-      "Record ID": "23050",
-      "Title": "Non-epigenetic function of HDAC8 in regulating breast cancer stem cells by maintaining Notch1 protein stability",
-      "Subject": [
+      "_id": "687cf0121f662220d898eb6e",
+      "recordId": "23050",
+      "title": "Non-epigenetic function of HDAC8 in regulating breast cancer stem cells by maintaining Notch1 protein stability",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Medicinal Chemistry, College of Pharmacy and Comprehensive Cancer Center, Columbus, Ohio, USA",
         "Institute of Pharmacology, College of Medicine, National Taiwan University, Taipei, Taiwan",
         "Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan",
         "Department of Veterinary Biosciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio, USA",
         "Correspondence to:"
       ],
-      "Journal": "Oncotarget",
-      "Publisher": "Impact Journals",
-      "Country": [
+      "journal": "Oncotarget",
+      "publisher": "Impact Journals",
+      "country": [
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Min Wu Chao",
         "Po Chen Chu",
         "Hsiao Ching Chuang",
@@ -48,52 +48,104 @@
         "Che Ming Teng",
         "Ching Shih Chen"
       ],
-      "URLS": "http://retractionwatch.com/?s=Ching-Shih+Chen+",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=Ching-Shih+Chen+",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/24/2020 0:00",
-      "RetractionDOI": "10.18632/oncotarget.27533",
-      "RetractionPubMedID": "32256981.0",
-      "OriginalPaperDate": "11/28/2015 0:00",
-      "OriginalPaperDOI": "10.18632/oncotarget.6427",
-      "OriginalPaperPubMedID": "26625202.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/24/2020 0:00",
+      "retractiondoi": "10.18632/oncotarget.27533",
+      "retractionpubmedid": "32256981.0",
+      "originalpaperdate": "11/28/2015 0:00",
+      "originalpaperdoi": "10.18632/oncotarget.6427",
+      "originalpaperpubmedid": "26625202.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Company/Institution",
         "+Manipulation of Images",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Ching Shih Chen has institutional finding of misconduct;",
-      "notice_year": 2020,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Ching Shih Chen has institutional finding of misconduct;",
+      "year": "2015",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a1c5",
-      "Record ID": "20418",
-      "Title": "AMPK Reverses the Mesenchymal Phenotype of Cancer Cells by Targeting the Akt\u2013MDM2\u2013Foxo3a Signaling Axis",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f2d4",
+      "recordId": "21150",
+      "title": "MIG-7 Controls COX-2/PGE2-Mediated Lung Cancer Metastasis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pulmonology"
+      ],
+      "institution": [
+        "Genomics Research Center, Academia Sinica, Taipei, Taiwan, ROC",
+        "Agricultural Biotechnology Research Center, Academia Sinica, Taipei, Taiwan, ROC",
+        "Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan, ROC"
+      ],
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "Taiwan"
+      ],
+      "author": [
+        "Ming Yi Ho",
+        "Shu Mei Liang",
+        "Shao Wen Hung",
+        "Chi Ming Liang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/3/2019 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-19-2048",
+      "retractionpubmedid": "31481422.0",
+      "originalpaperdate": "11/13/2012 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-12-2220",
+      "originalpaperpubmedid": "23149922.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Duplication of/in Image",
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f5ab",
+      "recordId": "20418",
+      "title": "AMPK Reverses the Mesenchymal Phenotype of Cancer Cells by Targeting the Akt\u2013MDM2\u2013Foxo3a Signaling Axis",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Division of Medicinal Chemistry, College of Pharmacy and Comprehensive Cancer Center, The Ohio State University, Columbus, Ohio",
         "Institute for Cancer Biology and Drug Discovery, Taipei Medical University, Taipei, Taiwan",
         "Center for Biostatistics, Wexner Medical Center and Comprehensive Cancer Center, The Ohio State University, Columbus, Ohio",
         "Division of Medical Oncology, Wexner Medical Center and Comprehensive Cancer Center, The Ohio State University, Columbus, Ohio",
         "Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan"
       ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "Taiwan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Chih Chien Chou",
         "Kuen Haur Lee",
         "I Ur Lai",
@@ -103,179 +155,131 @@
         "Charles L Shapiro",
         "Ching Shih Chen"
       ],
-      "URLS": "http://retractionwatch.com/2020/02/25/researcher-formerly-of-osu-and-taiwans-academia-sinica-gets-10-year-ban/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2020/02/25/researcher-formerly-of-osu-and-taiwans-academia-sinica-gets-10-year-ban/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/14/2018 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-18-0559",
-      "RetractionPubMedID": "29907686.0",
-      "OriginalPaperDate": "7/3/2014 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-14-0135",
-      "OriginalPaperPubMedID": "24994714.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "6/14/2018 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-18-0559",
+      "retractionpubmedid": "29907686.0",
+      "originalpaperdate": "7/3/2014 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-14-0135",
+      "originalpaperpubmedid": "24994714.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Ching Shih Chen has institutional finding of misconduct;",
-      "notice_year": 2018,
-      "year": 2014,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Ching Shih Chen has institutional finding of misconduct;",
+      "year": "2014",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349eee",
-      "Record ID": "21150",
-      "Title": "MIG-7 Controls COX-2/PGE2-Mediated Lung Cancer Metastasis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pulmonology"
-      ],
-      "Institution": [
-        "Genomics Research Center, Academia Sinica, Taipei, Taiwan, ROC",
-        "Agricultural Biotechnology Research Center, Academia Sinica, Taipei, Taiwan, ROC",
-        "Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan, ROC"
-      ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "Taiwan"
-      ],
-      "Author": [
-        "Ming Yi Ho",
-        "Shu Mei Liang",
-        "Shao Wen Hung",
-        "Chi Ming Liang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/3/2019 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-19-2048",
-      "RetractionPubMedID": "31481422.0",
-      "OriginalPaperDate": "11/13/2012 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-12-2220",
-      "OriginalPaperPubMedID": "23149922.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Duplication of/in Image",
-        "+Falsification/Fabrication of Image",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234a694",
-      "Record ID": "19180",
-      "Title": "Immunogenicity of mammary tumor cells can be induced by shikonin via direct binding-interference with hnRNPA1",
-      "Subject": [
+      "_id": "687cf08f1f662220d898fa7a",
+      "recordId": "19180",
+      "title": "Immunogenicity of mammary tumor cells can be induced by shikonin via direct binding-interference with hnRNPA1",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Alternative"
       ],
-      "Institution": [
+      "institution": [
         "Agricultural Biotechnology Research Center, Academia Sinica, Taipei, Taiwan, ROC",
         "Institute of Pharmacy and Biochemistry, University of Mainz, Germany",
         "School of Medical Laboratory Science and Biotechnology, Taipei Medical University, Taipei, Taiwan, ROC",
         "Institute of Biological Chemistry, Academia Sinica, Taipei, Taiwan, ROC"
       ],
-      "Journal": "Oncotarget",
-      "Publisher": "Impact Journals",
-      "Country": [
+      "journal": "Oncotarget",
+      "publisher": "Impact Journals",
+      "country": [
         "Germany",
         "Taiwan"
       ],
-      "Author": [
+      "author": [
         "Shu Yi Yin",
         "Thomas Efferth",
         "Feng Yin Jian",
         "Yung Hsiang Chen",
         "Chia I Liu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/14/2018 0:00",
-      "RetractionDOI": "10.18632/oncotarget.26007",
-      "RetractionPubMedID": "30181816.0",
-      "OriginalPaperDate": "7/12/2016 0:00",
-      "OriginalPaperDOI": "10.18632/oncotarget.9660",
-      "OriginalPaperPubMedID": "27248319.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "8/14/2018 0:00",
+      "retractiondoi": "10.18632/oncotarget.26007",
+      "retractionpubmedid": "30181816.0",
+      "originalpaperdate": "7/12/2016 0:00",
+      "originalpaperdoi": "10.18632/oncotarget.9660",
+      "originalpaperpubmedid": "27248319.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -283,10 +287,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -294,10 +298,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

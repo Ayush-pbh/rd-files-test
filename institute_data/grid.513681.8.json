@@ -1,38 +1,149 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878883",
+    "_id": "687ccbab09adbf7aa61b94a4",
     "grid_id": "grid.513681.8",
     "institute_name": "Charmo University",
     "country": "Iraq",
     "retracted_record_ids": [
-      "45626",
+      "52515",
       "53002",
-      "52515"
+      "45626"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2343fb7",
-      "Record ID": "45626",
-      "Title": "Metabarcoding analysis of eukaryotic microbiota in the gut of HIV-infected patients",
-      "Subject": [
+      "_id": "687cef831f662220d89876e3",
+      "recordId": "53002",
+      "title": "Culturomics and Amplicon-based Metagenomic Approaches for the Study of Fungal Population in Human Gut Microbiota",
+      "subject": [
+        "(BLS) Genetics",
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Gastroenterology"
+      ],
+      "institution": [
+        "Aix Marseille University, CNRS 7278, IRD 198, Inserm 1095, AP-HM, URMITE, IHU M\u00e9diterran\u00e9e Infection, Marseille, France",
+        "Charmo University, Charmo Research Center, 46023, Chamchamal, Sulaimani, Iraq",
+        "Special Infectious Agents Unit, King Fahd Medical Research Centre, King Abdulaziz University, Jeddah, Saudi Arabia",
+        "Department of Medical Laboratory Technology, Faculty of Applied Medical Sciences, King Abdulaziz University, Jeddah, Saudi Arabia",
+        "Department of Medical Microbiology and Parasitology, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
+      ],
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "France",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Ibrahim Hamad",
+        "St\u00e9phane Ranque",
+        "Esam I Azhar",
+        "Muhammad Yasir",
+        "Asif A Jiman-Fatani",
+        "Herv\u00e9 Tissot-Dupont",
+        "Didier Raoult",
+        "Fadi Bittar"
+      ],
+      "urls": "https://retractionwatch.com/?s=Didier+Raoult;https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/2/2024 0:00",
+      "retractiondoi": "10.1038/s41598-024-58471-3",
+      "retractionpubmedid": "38565623.0",
+      "originalpaperdate": "12/1/2017 0:00",
+      "originalpaperdoi": "10.1038/s41598-017-17132-4",
+      "originalpaperpubmedid": "29196717.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Investigation by Journal/Publisher",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Objections by Author(s)"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef851f662220d89878c9",
+      "recordId": "52515",
+      "title": "Genome sequence analysis of SARS-COV-2 isolated from a COVID-19 patient in Erbil, Iraq",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Department of Pharmacognosy, College of Pharmacy, Hawler Medical University, Kurdistan Region, Iraq",
+        "Department of Medical Laboratory Sciences, University Charmo, Kurdistan Region, Iraq",
+        "Medical Research Center, Hawler Medical University, Kurdistan Region, Iraq",
+        "The American University of Kurdistan, Duhok, Iraq",
+        "Department of Biology, College of Education, Salahaddin University, Kurdistan Region, Iraq"
+      ],
+      "journal": "Applied Nanoscience",
+      "publisher": "Springer",
+      "country": [
+        "Iraq"
+      ],
+      "author": [
+        "Bashdar Mahmud Hussen",
+        "Dana Khdr Sabir",
+        "Yasin Karim",
+        "Karzan Khawaraham Karim",
+        "Hazha Jamal Hidayat"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/7/2022 0:00",
+      "retractiondoi": "10.1007/s13204-021-02300-w",
+      "retractionpubmedid": "35155057.0",
+      "originalpaperdate": "2/7/2022 0:00",
+      "originalpaperdoi": "10.1007/s13204-021-02300-w",
+      "originalpaperpubmedid": "35155057.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/DDEE32CB9E8EC76A5C48AED1DF65B8",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d898939d",
+      "recordId": "45626",
+      "title": "Metabarcoding analysis of eukaryotic microbiota in the gut of HIV-infected patients",
+      "subject": [
         "(BLS) Biology - General",
         "(BLS) Biology - Molecular",
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "Aix-Marseille Universit\u00e9, CNRS 7278, IRD 198, Inserm 1095, AP-HM, URMITE, IHU M\u00e9diterran\u00e9e Infection, Marseille, France",
         "Charmo University, Charmo Research Center, Chamchamal/Sulaimani, Iraq",
         "Service de Maladies Infectieuses et tropicales, CHU de la Conception, IHU M\u00e9diterran\u00e9e Infection, Marseille, France",
         "Assistance Publique H\u00f4pitaux de Marseille, CHU Nord, P\u00f4le Infectieux, IHU M\u00e9diterran\u00e9e Infection, Marseille, France"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "France",
         "Iraq"
       ],
-      "Author": [
+      "author": [
         "Ibrahim Hamad",
         "Rita Abou Abdallah",
         "Isabelle Ravaux",
@@ -44,176 +155,68 @@
         "Didier Raoult",
         "Fadi Bittar"
       ],
-      "URLS": "https://retractionwatch.com/2022/12/13/plos-flags-nearly-50-papers-by-controversial-french-covid-researcher-for-ethics-concerns/;https://retractionwatch.com/?s=Didier+Raoult",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/12/13/plos-flags-nearly-50-papers-by-controversial-french-covid-researcher-for-ethics-concerns/;https://retractionwatch.com/?s=Didier+Raoult",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/13/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0278360",
-      "RetractionPubMedID": "36512557.0",
-      "OriginalPaperDate": "1/31/2018 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0191913",
-      "OriginalPaperPubMedID": "29385188.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "12/13/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0278360",
+      "retractionpubmedid": "36512557.0",
+      "originalpaperdate": "1/31/2018 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0191913",
+      "originalpaperpubmedid": "29385188.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2018,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d23422fd",
-      "Record ID": "53002",
-      "Title": "Culturomics and Amplicon-based Metagenomic Approaches for the Study of Fungal Population in Human Gut Microbiota",
-      "Subject": [
-        "(BLS) Genetics",
-        "(BLS) Microbiology",
-        "(HSC) Medicine - Gastroenterology"
-      ],
-      "Institution": [
-        "Aix Marseille University, CNRS 7278, IRD 198, Inserm 1095, AP-HM, URMITE, IHU M\u00e9diterran\u00e9e Infection, Marseille, France",
-        "Charmo University, Charmo Research Center, 46023, Chamchamal, Sulaimani, Iraq",
-        "Special Infectious Agents Unit, King Fahd Medical Research Centre, King Abdulaziz University, Jeddah, Saudi Arabia",
-        "Department of Medical Laboratory Technology, Faculty of Applied Medical Sciences, King Abdulaziz University, Jeddah, Saudi Arabia",
-        "Department of Medical Microbiology and Parasitology, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia"
-      ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "France",
-        "Iraq",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Ibrahim Hamad",
-        "St\u00e9phane Ranque",
-        "Esam I Azhar",
-        "Muhammad Yasir",
-        "Asif A Jiman-Fatani",
-        "Herv\u00e9 Tissot-Dupont",
-        "Didier Raoult",
-        "Fadi Bittar"
-      ],
-      "URLS": "https://retractionwatch.com/?s=Didier+Raoult;https://retractionwatch.com/2024/04/03/embattled-researcher-didier-raoult-earns-dozens-more-expressions-of-concern-and-another-retraction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/2/2024 0:00",
-      "RetractionDOI": "10.1038/s41598-024-58471-3",
-      "RetractionPubMedID": "38565623.0",
-      "OriginalPaperDate": "12/1/2017 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-017-17132-4",
-      "OriginalPaperPubMedID": "29196717.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Investigation by Journal/Publisher",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Objections by Author(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23424e3",
-      "Record ID": "52515",
-      "Title": "Genome sequence analysis of SARS-COV-2 isolated from a COVID-19 patient in Erbil, Iraq",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Department of Pharmacognosy, College of Pharmacy, Hawler Medical University, Kurdistan Region, Iraq",
-        "Department of Medical Laboratory Sciences, University Charmo, Kurdistan Region, Iraq",
-        "Medical Research Center, Hawler Medical University, Kurdistan Region, Iraq",
-        "The American University of Kurdistan, Duhok, Iraq",
-        "Department of Biology, College of Education, Salahaddin University, Kurdistan Region, Iraq"
-      ],
-      "Journal": "Applied Nanoscience",
-      "Publisher": "Springer",
-      "Country": [
-        "Iraq"
-      ],
-      "Author": [
-        "Bashdar Mahmud Hussen",
-        "Dana Khdr Sabir",
-        "Yasin Karim",
-        "Karzan Khawaraham Karim",
-        "Hazha Jamal Hidayat"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/springer-nature-journal-pulls-nearly-three-dozen-papers-from-special-issues/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/7/2022 0:00",
-      "RetractionDOI": "10.1007/s13204-021-02300-w",
-      "RetractionPubMedID": "35155057.0",
-      "OriginalPaperDate": "2/7/2022 0:00",
-      "OriginalPaperDOI": "10.1007/s13204-021-02300-w",
-      "OriginalPaperPubMedID": "35155057.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/DDEE32CB9E8EC76A5C48AED1DF65B8",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

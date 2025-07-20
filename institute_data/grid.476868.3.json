@@ -1,85 +1,41 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687802c",
+    "_id": "687ccbab09adbf7aa61b8c4d",
     "grid_id": "grid.476868.3",
     "institute_name": "Zhongshan People's Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "7001",
       "60294",
-      "16209",
-      "45953",
-      "18114",
-      "58141",
       "52880",
+      "7001",
+      "45953",
+      "16209",
+      "49316",
       "52136",
-      "49316"
+      "58141",
+      "18114"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d5da",
-      "Record ID": "7001",
-      "Title": "The microRNA-1246 promotes metastasis in non-small cell lung cancer by targeting cytoplasmic polyadenylation element-binding protein",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "TCM-Integrated Hospital, Southern Medical University, Cancer Center, NO.13, Shiliugang Road, Haizhu District, Guangzhou, Guangdong 510315, China",
-        "Department of Chemotherapy, Zhongshan People\u2019s Hospital, Zhongshan, Guangdong 528400, China"
-      ],
-      "Journal": "Diagnostic Pathology",
-      "Publisher": "BioMed Central (BMC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Weihua Huang",
-        "Huifen Li",
-        "Rongcheng Luo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/18/2017 0:00",
-      "RetractionDOI": "10.1186/s13000-017-0637-0",
-      "RetractionPubMedID": "28720116.0",
-      "OriginalPaperDate": "7/25/2015 0:00",
-      "OriginalPaperDOI": "10.1186/s13000-015-0366-1",
-      "OriginalPaperPubMedID": "26209100.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Journal/Publisher",
-        "+Plagiarism of Image",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234069c",
-      "Record ID": "60294",
-      "Title": "A Blumgart Anastomosis-Based Half-Invagination Pancreaticoenterostomy with Better Applicability to Laparoscopy and Lower Incidence of Pancreatic Leakage",
-      "Subject": [
+      "_id": "687cef651f662220d8985a82",
+      "recordId": "60294",
+      "title": "A Blumgart Anastomosis-Based Half-Invagination Pancreaticoenterostomy with Better Applicability to Laparoscopy and Lower Incidence of Pancreatic Leakage",
+      "subject": [
         "(HSC) Medicine - Endocrinology",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "General Surgery Department 1, Zhongshan People\u2019s Hospital, Zhongshan Hospital Affiliated to Sun Yat-Sen University, Zhongshan, China"
       ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Qiang Sun",
         "Peng Peng",
         "Xueyi Gong",
@@ -89,39 +45,342 @@
         "Xiaojian Chang",
         "Zemin Hu"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9798485",
-      "RetractionPubMedID": "38077890.0",
-      "OriginalPaperDate": "2/23/2023 0:00",
-      "OriginalPaperDOI": "10.1155/2023/6304047",
-      "OriginalPaperPubMedID": "36873788.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9798485",
+      "retractionpubmedid": "38077890.0",
+      "originalpaperdate": "2/23/2023 0:00",
+      "originalpaperdoi": "10.1155/2023/6304047",
+      "originalpaperpubmedid": "36873788.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Paper Mill",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b215",
-      "Record ID": "16209",
-      "Title": "Decreased KCNE2 Expression Participates in the Development of Cardiac Hypertrophy by Regulation of Calcineurin\u2013NFAT (Nuclear Factor of Activated T Cells) and Mitogen-Activated Protein Kinase Pathways",
-      "Subject": [
+      "_id": "687cef6d1f662220d89862e7",
+      "recordId": "58141",
+      "title": "Identifying a 6-Gene Prognostic Signature for Lung Adenocarcinoma Based on Copy Number Variation and Gene Expression Data",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Pathology"
+      ],
+      "institution": [
+        "Postdoctoral Innovation Center of Zhongshan Chenxinghai Hospital, Jinan University, Guangzhou, China",
+        "Department of Oncology, Maoming People's Hospital, Maoming City, China",
+        "Key Laboratory of Functional Protein Research of Guangdong Higher Education Institutes, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China",
+        "Department of Endocrinology, Zhongshan Hospital of Sun Yat-Sen University, Zhongshan City People's Hospital, Zhongshan City, China",
+        "Translational Medicine Center, Key Laboratory of Molecular Target and Clinical Pharmacology, School of Pharmaceutical Sciences, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+        "Department of Thoracic Surgery, Maoming People's Hospital, Maoming City, China"
+      ],
+      "journal": "Oxidative Medicine and Cellular Longevity",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yisheng Huang",
+        "Liling Qiu",
+        "Xiaoye Liang",
+        "Jing Zhao",
+        "Haoting Chen",
+        "Zhiqiang Luo",
+        "Wanzhen Li",
+        "Xiaohua Lin",
+        "Jingjie Jin",
+        "Jian Huang",
+        "Gong Zhang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9890283",
+      "retractionpubmedid": "38189008.0",
+      "originalpaperdate": "9/28/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6962163",
+      "originalpaperpubmedid": "36211815.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef831f662220d898775c",
+      "recordId": "52880",
+      "title": "Two Cu(II) coordination polymers: treatment activity and cursing values on trachoma by inhibiting the survival of Chlamydia trachomatis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Ophthalmology"
+      ],
+      "institution": [
+        "Department of Ophthalmology, Zhongshan City People's Hospital, Zhongshan Hospital of Sun Yat-Sen University, Zhongshan, China"
+      ],
+      "journal": "Inorganic and Nano-Metal Chemistry",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Zhong-Ting Li",
+        "Xuan Leng"
+      ],
+      "urls": "https://retractionwatch.com/2022/07/26/crystallography-database-flags-nearly-1000-structures-linked-to-a-paper-mill/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/12/2024 0:00",
+      "retractiondoi": "10.1080/24701556.2024.2311624",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/10/2021 0:00",
+      "originalpaperdoi": "10.1080/24701556.2021.1916761",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/8BAB29B3079F3E458583B760ED441B",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef851f662220d8987a42",
+      "recordId": "52136",
+      "title": "Application Analysis of Multidisciplinary Diagnosis and Treatment Nursing Mode Based on Doctor-Nurse-Integration for Stroke Patients Undergoing Emergency Intervention Surgery",
+      "subject": [
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Nursing",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Wuhan University School of Nursing, Wuhan, Hubei 430071, China",
+        "Intervention Operating Room, Zhongshan City People\u2019s Hospital, Zhongshan, Guangdong 528403, China"
+      ],
+      "journal": "Emergency Medicine International",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hai Zhong",
+        "Aiqun Liang",
+        "Huanhuan Luo",
+        "Xiaolong Hu",
+        "Shengxiang Xu",
+        "Ziming Zheng",
+        "Xiaoping Zhu"
+      ],
+      "urls": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2024 0:00",
+      "retractiondoi": "10.1155/2024/9790343",
+      "retractionpubmedid": "38299005.0",
+      "originalpaperdate": "11/11/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6299676",
+      "originalpaperpubmedid": "36406931.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef901f662220d8988542",
+      "recordId": "49316",
+      "title": "Long Non-Coding RNA ZNF667-AS1 Knockdown Curbs Liver Metastasis in Acute Myeloid Leukemia by Regulating the microRNA-206/AKAP13 Axis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Laboratory Diagnosis Center, Zhongshan People\u2019s Hospital, Zhongshan, 528403 Guangdong, People\u2019s Republic of China"
+      ],
+      "journal": "Cancer Management and Research",
+      "publisher": "Taylor and Francis - Dove Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Nan Wang",
+        "Yanping Feng",
+        "Jinye Xie",
+        "Hui Han",
+        "Qian Dong",
+        "Weijia Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/7/2023 0:00",
+      "retractiondoi": "10.2147/CMAR.S448409",
+      "retractionpubmedid": "37953887.0",
+      "originalpaperdate": "12/23/2020 0:00",
+      "originalpaperdoi": "10.2147/CMAR.S269258",
+      "originalpaperpubmedid": "33380835.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill"
+      ],
+      "paywalled": "No",
+      "notes": "see: https://docs.google.com/spreadsheets/d/1nByrktm4HCILKHEcQNMJY9vBHyYyJgTqVwctPGnw4PI/edit?usp=sharing",
+      "year": "2020",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d8989259",
+      "recordId": "45953",
+      "title": "Influence of LncRNA NKILA on Bloodstream Infection of Hypervirulent Klebsiella pneumoniae and Its Ability to Induce Delayed Neutrophil Apoptosis",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Laboratory Medicine Department, Zhongshan People's Hospital, The Affiliated Hospital of Sun Yat-Sen University, Zhongshan 528403, China"
+      ],
+      "journal": "Evidence-Based Complementary and Alternative Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Yang Li",
+        "Weijia Wang",
+        "Kang Chen",
+        "Suzhen Ma",
+        "Juan Wang"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/21/2023 0:00",
+      "retractiondoi": "10.1155/2023/9806874",
+      "retractionpubmedid": "37388033.0",
+      "originalpaperdate": "10/21/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/6101078",
+      "originalpaperpubmedid": "34721638.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/E46766BEAF0B7516BFBE7703E6D3BE",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898fe9e",
+      "recordId": "18114",
+      "title": "The microRNA-325 inhibits hepatocellular carcinoma progression by targeting high mobility group box 1",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Chemotherapy, Zhongshan People\u2019s Hospital, Zhongshan, Guangdong 528400, China TCM-Integrated Hospital, Southern Medical University, Cancer Center, NO.13 Shiliugang Road, Haizhu District, Guangzhou, Guangdong 510315, China"
+      ],
+      "journal": "Diagnostic Pathology",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Huifen Li",
+        "Weihua Huang",
+        "Rongcheng Luo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/2/2018 0:00",
+      "retractiondoi": "10.1186/s13000-018-0701-4",
+      "retractionpubmedid": "29720204.0",
+      "originalpaperdate": "7/22/2015 0:00",
+      "originalpaperdoi": "10.1186/s13000-015-0323-z",
+      "originalpaperpubmedid": "26194496.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0991f662220d89905fb",
+      "recordId": "16209",
+      "title": "Decreased KCNE2 Expression Participates in the Development of Cardiac Hypertrophy by Regulation of Calcineurin\u2013NFAT (Nuclear Factor of Activated T Cells) and Mitogen-Activated Protein Kinase Pathways",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathophysiology, School of Medicine, The First Affiliated Hospital of Shenzhen University",
         "Department of Endocrinology, The First Affiliated Hospital of Shenzhen University Center for Diabetes, Obesity and Metabolism, School of Medicine, Shenzhen University, China",
         "Department of Biomedical Engineering, School of Medicine, Shenzhen University, China",
@@ -129,13 +388,13 @@
         "Zhongshan People\u2019s Hospital, China",
         "Division of Cardiovascular Medicine, Department of Internal Medicine and Fran\u00e7ois M. Abboud Cardiovascular Research Center, Carver College of Medicine, University of Iowa, Iowa City"
       ],
-      "Journal": "Circulation: Heart Failure",
-      "Publisher": "American Heart Association",
-      "Country": [
+      "journal": "Circulation: Heart Failure",
+      "publisher": "American Heart Association",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Wenjuan Liu",
         "Jianxin Deng",
         "Wenwen Ding",
@@ -152,407 +411,157 @@
         "Long-Sheng Song",
         "Jie Liu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/15/2017 0:00",
-      "RetractionDOI": "10.1161/HHF.0000000000000024",
-      "RetractionPubMedID": "29141855.0",
-      "OriginalPaperDate": "6/13/2017 0:00",
-      "OriginalPaperDOI": "10.1161/CIRCHEARTFAILURE.117.003960",
-      "OriginalPaperPubMedID": "28611128.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/15/2017 0:00",
+      "retractiondoi": "10.1161/HHF.0000000000000024",
+      "retractionpubmedid": "29141855.0",
+      "originalpaperdate": "6/13/2017 0:00",
+      "originalpaperdoi": "10.1161/CIRCHEARTFAILURE.117.003960",
+      "originalpaperpubmedid": "28611128.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "Yes",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343e73",
-      "Record ID": "45953",
-      "Title": "Influence of LncRNA NKILA on Bloodstream Infection of Hypervirulent Klebsiella pneumoniae and Its Ability to Induce Delayed Neutrophil Apoptosis",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Laboratory Medicine Department, Zhongshan People's Hospital, The Affiliated Hospital of Sun Yat-Sen University, Zhongshan 528403, China"
-      ],
-      "Journal": "Evidence-Based Complementary and Alternative Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yang Li",
-        "Weijia Wang",
-        "Kang Chen",
-        "Suzhen Ma",
-        "Juan Wang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/21/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9806874",
-      "RetractionPubMedID": "37388033.0",
-      "OriginalPaperDate": "10/21/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/6101078",
-      "OriginalPaperPubMedID": "34721638.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/E46766BEAF0B7516BFBE7703E6D3BE",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234aab8",
-      "Record ID": "18114",
-      "Title": "The microRNA-325 inhibits hepatocellular carcinoma progression by targeting high mobility group box 1",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Chemotherapy, Zhongshan People\u2019s Hospital, Zhongshan, Guangdong 528400, China TCM-Integrated Hospital, Southern Medical University, Cancer Center, NO.13 Shiliugang Road, Haizhu District, Guangzhou, Guangdong 510315, China"
-      ],
-      "Journal": "Diagnostic Pathology",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Huifen Li",
-        "Weihua Huang",
-        "Rongcheng Luo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/2/2018 0:00",
-      "RetractionDOI": "10.1186/s13000-018-0701-4",
-      "RetractionPubMedID": "29720204.0",
-      "OriginalPaperDate": "7/22/2015 0:00",
-      "OriginalPaperDOI": "10.1186/s13000-015-0323-z",
-      "OriginalPaperPubMedID": "26194496.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2340f01",
-      "Record ID": "58141",
-      "Title": "Identifying a 6-Gene Prognostic Signature for Lung Adenocarcinoma Based on Copy Number Variation and Gene Expression Data",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Pathology"
-      ],
-      "Institution": [
-        "Postdoctoral Innovation Center of Zhongshan Chenxinghai Hospital, Jinan University, Guangzhou, China",
-        "Department of Oncology, Maoming People's Hospital, Maoming City, China",
-        "Key Laboratory of Functional Protein Research of Guangdong Higher Education Institutes, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China",
-        "Department of Endocrinology, Zhongshan Hospital of Sun Yat-Sen University, Zhongshan City People's Hospital, Zhongshan City, China",
-        "Translational Medicine Center, Key Laboratory of Molecular Target and Clinical Pharmacology, School of Pharmaceutical Sciences, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
-        "Department of Thoracic Surgery, Maoming People's Hospital, Maoming City, China"
-      ],
-      "Journal": "Oxidative Medicine and Cellular Longevity",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Yisheng Huang",
-        "Liling Qiu",
-        "Xiaoye Liang",
-        "Jing Zhao",
-        "Haoting Chen",
-        "Zhiqiang Luo",
-        "Wanzhen Li",
-        "Xiaohua Lin",
-        "Jingjie Jin",
-        "Jian Huang",
-        "Gong Zhang"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9890283",
-      "RetractionPubMedID": "38189008.0",
-      "OriginalPaperDate": "9/28/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6962163",
-      "OriginalPaperPubMedID": "36211815.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2342376",
-      "Record ID": "52880",
-      "Title": "Two Cu(II) coordination polymers: treatment activity and cursing values on trachoma by inhibiting the survival of Chlamydia trachomatis",
-      "Subject": [
+      "_id": "687cf0bd1f662220d89929c0",
+      "recordId": "7001",
+      "title": "The microRNA-1246 promotes metastasis in non-small cell lung cancer by targeting cytoplasmic polyadenylation element-binding protein",
+      "subject": [
         "(BLS) Biochemistry",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Ophthalmology"
-      ],
-      "Institution": [
-        "Department of Ophthalmology, Zhongshan City People's Hospital, Zhongshan Hospital of Sun Yat-Sen University, Zhongshan, China"
-      ],
-      "Journal": "Inorganic and Nano-Metal Chemistry",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Zhong-Ting Li",
-        "Xuan Leng"
-      ],
-      "URLS": "https://retractionwatch.com/2022/07/26/crystallography-database-flags-nearly-1000-structures-linked-to-a-paper-mill/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/12/2024 0:00",
-      "RetractionDOI": "10.1080/24701556.2024.2311624",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/10/2021 0:00",
-      "OriginalPaperDOI": "10.1080/24701556.2021.1916761",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/8BAB29B3079F3E458583B760ED441B",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234265c",
-      "Record ID": "52136",
-      "Title": "Application Analysis of Multidisciplinary Diagnosis and Treatment Nursing Mode Based on Doctor-Nurse-Integration for Stroke Patients Undergoing Emergency Intervention Surgery",
-      "Subject": [
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Nursing",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Wuhan University School of Nursing, Wuhan, Hubei 430071, China",
-        "Intervention Operating Room, Zhongshan City People\u2019s Hospital, Zhongshan, Guangdong 528403, China"
-      ],
-      "Journal": "Emergency Medicine International",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hai Zhong",
-        "Aiqun Liang",
-        "Huanhuan Luo",
-        "Xiaolong Hu",
-        "Shengxiang Xu",
-        "Ziming Zheng",
-        "Xiaoping Zhu"
-      ],
-      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/;https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2024 0:00",
-      "RetractionDOI": "10.1155/2024/9790343",
-      "RetractionPubMedID": "38299005.0",
-      "OriginalPaperDate": "11/11/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6299676",
-      "OriginalPaperPubMedID": "36406931.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234315c",
-      "Record ID": "49316",
-      "Title": "Long Non-Coding RNA ZNF667-AS1 Knockdown Curbs Liver Metastasis in Acute Myeloid Leukemia by Regulating the microRNA-206/AKAP13 Axis",
-      "Subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
-        "Laboratory Diagnosis Center, Zhongshan People\u2019s Hospital, Zhongshan, 528403 Guangdong, People\u2019s Republic of China"
+      "institution": [
+        "TCM-Integrated Hospital, Southern Medical University, Cancer Center, NO.13, Shiliugang Road, Haizhu District, Guangzhou, Guangdong 510315, China",
+        "Department of Chemotherapy, Zhongshan People\u2019s Hospital, Zhongshan, Guangdong 528400, China"
       ],
-      "Journal": "Cancer Management and Research",
-      "Publisher": "Taylor and Francis - Dove Press",
-      "Country": [
+      "journal": "Diagnostic Pathology",
+      "publisher": "BioMed Central (BMC)",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Nan Wang",
-        "Yanping Feng",
-        "Jinye Xie",
-        "Hui Han",
-        "Qian Dong",
-        "Weijia Wang"
+      "author": [
+        "Weihua Huang",
+        "Huifen Li",
+        "Rongcheng Luo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/7/2023 0:00",
-      "RetractionDOI": "10.2147/CMAR.S448409",
-      "RetractionPubMedID": "37953887.0",
-      "OriginalPaperDate": "12/23/2020 0:00",
-      "OriginalPaperDOI": "10.2147/CMAR.S269258",
-      "OriginalPaperPubMedID": "33380835.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
+      "retractiondate": "7/18/2017 0:00",
+      "retractiondoi": "10.1186/s13000-017-0637-0",
+      "retractionpubmedid": "28720116.0",
+      "originalpaperdate": "7/25/2015 0:00",
+      "originalpaperdoi": "10.1186/s13000-015-0366-1",
+      "originalpaperpubmedid": "26209100.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill"
+        "+Plagiarism of Image",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see: https://docs.google.com/spreadsheets/d/1nByrktm4HCILKHEcQNMJY9vBHyYyJgTqVwctPGnw4PI/edit?usp=sharing",
-      "notice_year": 2023,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

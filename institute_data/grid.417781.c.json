@@ -1,25 +1,80 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687809d",
+    "_id": "687ccbab09adbf7aa61b8cbe",
     "grid_id": "grid.417781.c",
     "institute_name": "Inova Fairfax Hospital",
     "country": "United States",
     "retracted_record_ids": [
+      "53696",
       "60054",
-      "53696"
+      "65799"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234078c",
-      "Record ID": "60054",
-      "Title": "Progesterone induces apoptosis by activation of caspase-8 and calcitriol via activation of caspase-9 pathways in ovarian and endometrial cancer cells in vitro",
-      "Subject": [
+      "_id": "687cef4f1f662220d898452e",
+      "recordId": "65799",
+      "title": "TGF-\u03b2 signaling proteins and CYP24A1 may serve as surrogate markers for progesterone calcitriol treatment in ovarian and endometrial cancers of different histological types",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Obstetrics/Gynecology"
+      ],
+      "institution": [
+        "Department of Obstetrics and Gynecology, Uniformed Services University of the Health Sciences, Bethesda, MD, USA",
+        "Gynecologic Cancer Center of Excellence, John P. Murtha Cancer Center, Department of Obstetrics and Gynecology, Uniformed Services University of the Health Sciences and Walter Reed National Military Medical Center, Bethesda, MD, USA",
+        "John P. Murtha Cancer Center, Department of Obstetrics and Gynecology, Uniformed Services University of the Health Sciences and Walter Reed National Military Medical Center, Bethesda, MD, USA",
+        "Division of Gynecologic Oncology, NorthShore University HealthSystem, University of Chicago, Evanston, IL, USA",
+        "Department of Obstetrics and Gynecology, Inova Fairfax Hospital, Falls Church, VA, USA",
+        "Inova Schar Cancer Institute, Inova Center for Personalized Health, Falls Church, VA, USA",
+        "Department of Molecular and Cell Biology, Uniformed Services University of the Health Sciences, Bethesda, MD, USA"
+      ],
+      "journal": "Translational Cancer Research",
+      "publisher": "AME Publishing Company",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Ana Paucarmayta",
+        "Hannah Taitz",
+        "Yovanni Casabla",
+        "Gustavo C Rodrig",
+        "G Larry Maxwell",
+        "Kathleen M Darcy",
+        "Viqar Syed"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/27/2025 0:00",
+      "retractiondoi": "10.21037/tcr-2025b-5",
+      "retractionpubmedid": "40530127.0",
+      "originalpaperdate": "8/31/2019 0:00",
+      "originalpaperdoi": "10.21037/tcr.2019.07.36",
+      "originalpaperpubmedid": "35116885.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Falsification/Fabrication of Image",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef671f662220d8985b72",
+      "recordId": "60054",
+      "title": "Progesterone induces apoptosis by activation of caspase-8 and calcitriol via activation of caspase-9 pathways in ovarian and endometrial cancer cells in vitro",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Gynecologic Surgery and Obstetrics, Uniformed Services University, Room# A-3080, 4301 Jones Bridge Road, Bethesda, MD, 20814, USA",
         "Department of Obstetrics and Gynecology, Walter Reed National Military Medical Center, 8901 Wisconsin Avenue, Bethesda, MD, 20889, USA",
         "John P. Murtha Cancer Center, Walter Reed National Military Medical Center, 8901 Wisconsin Avenue, Bethesda, MD, 20889, USA",
@@ -27,47 +82,48 @@
         "Department of Obstetrics and Gynecology, Inova Fairfax Hospital, 3300 Gallows Road, Falls Church, VA, 22042, USA",
         "Department of Molecular and Cell Biology, Uniformed Services University, 4301 Jones Bridge Road, Bethesda, MD, 20814, USA"
       ],
-      "Journal": "Apoptosis: An International Journal on Programmed Cell Death",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Apoptosis: An International Journal on Programmed Cell Death",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Latoya McGlorthan",
         "Ana Paucarmayta",
         "Yovanni Casablanca",
         "G Larry Maxwell",
         "Viqar Syed"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/30/2024 0:00",
-      "RetractionDOI": "10.1007/s10495-024-02062-0",
-      "RetractionPubMedID": "39738841.0",
-      "OriginalPaperDate": "1/30/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s10495-021-01657-1",
-      "OriginalPaperPubMedID": "33515314.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/30/2024 0:00",
+      "retractiondoi": "10.1007/s10495-024-02062-0",
+      "retractionpubmedid": "39738841.0",
+      "originalpaperdate": "1/30/2021 0:00",
+      "originalpaperdoi": "10.1007/s10495-021-01657-1",
+      "originalpaperpubmedid": "33515314.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342059",
-      "Record ID": "53696",
-      "Title": "Role of Vena Cava Filter in the Prophylaxis and Treatment of Venous Thromboembolism in Injured Adult Patients: A Systematic Review, Meta-Analysis, and Practice Management Guideline from the Eastern Association for the Surgery of Trauma",
-      "Subject": [
+      "_id": "687cef7f1f662220d898743f",
+      "recordId": "53696",
+      "title": "Role of Vena Cava Filter in the Prophylaxis and Treatment of Venous Thromboembolism in Injured Adult Patients: A Systematic Review, Meta-Analysis, and Practice Management Guideline from the Eastern Association for the Surgery of Trauma",
+      "subject": [
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Surgery, Yale School of Medicine, New Haven, CT",
         "Broward Health, Fort Lauderdale, FL",
         "Conemaugh Physician Group, Johnstown, PA",
@@ -82,13 +138,13 @@
         "Department of Surgery, Legacy Emanuel Medical Center, Portland, OR",
         "Emergency Surgical Services, Executive Director of Research, Department of Surgery, Tufts Medical Center, Tufts University School of Medicine, 800 Washington st, #4488, Boston, MA, 02111"
       ],
-      "Journal": "Journal of Trauma and Acute Care Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Journal of Trauma and Acute Care Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "Canada",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Bishwajit Bhattacharya",
         "Lisa Kodadek",
         "Igor Nichiporenko",
@@ -105,51 +161,74 @@
         "Rishi Rattan",
         "Nikolay Bugaev"
       ],
-      "ArticleType": [
+      "articletype": [
         "Guideline",
         "Meta-Analysis",
         "Review Article"
       ],
-      "RetractionDate": "5/13/2024 0:00",
-      "RetractionDOI": "10.1097/01.ta.0001022956.71099.d3",
-      "RetractionPubMedID": "38754037.0",
-      "OriginalPaperDate": "5/13/2024 0:00",
-      "OriginalPaperDOI": "10.1097/TA.0000000000004289",
-      "OriginalPaperPubMedID": "38454308.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/13/2024 0:00",
+      "retractiondoi": "10.1097/01.ta.0001022956.71099.d3",
+      "retractionpubmedid": "38754037.0",
+      "originalpaperdate": "5/13/2024 0:00",
+      "originalpaperdoi": "10.1097/TA.0000000000004289",
+      "originalpaperpubmedid": "38454308.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Error in Data",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2024,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
-      "year": 2021,
-      "retraction_count": 1,
+      "year": 2019,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2021,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2025,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     }
   ]

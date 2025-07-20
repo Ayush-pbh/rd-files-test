@@ -1,38 +1,96 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068783f5",
+    "_id": "687ccbab09adbf7aa61b9016",
     "grid_id": "grid.449131.a",
     "institute_name": "Iqra National University",
     "country": "Pakistan",
     "retracted_record_ids": [
+      "38742",
       "50214",
-      "57525",
-      "38742"
+      "57525"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2342ddb",
-      "Record ID": "50214",
-      "Title": "Telehealth for COVID-19: A Conceptual Framework",
-      "Subject": [
+      "_id": "687cef711f662220d898654e",
+      "recordId": "57525",
+      "title": "Mining Cryptocurrency-Based Security Using Renewable Energy as Source",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Technology",
+        "(PHY) Energy"
+      ],
+      "institution": [
+        "Department of Computer Science and Engineering, Lovely Professional University, Phagwara, Punjab, India",
+        "School of Computer Science, University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India",
+        "VLSI Centre of Excellence, Chitkara University Institute of Engineering and Technology, Chitkara University, Punjab, India",
+        "Department of Computer Science, IQRA National University, Swat Campus, Peshawar, Pakistan",
+        "Department of Computer Science, University of Central Asia, Naryn, Kyrgyzstan",
+        "Department of Engineering, Kings College London, London, UK"
+      ],
+      "journal": "Security and Communication Networks",
+      "publisher": "Hindawi",
+      "country": [
+        "India",
+        "Kyrgyzstan",
+        "Pakistan",
+        "United Kingdom"
+      ],
+      "author": [
+        "Lokesh Gundaboina",
+        "Sumit Badotra",
+        "Tarandeep Kaur Bhatia",
+        "Kulbhushan Sharma",
+        "Gulzar Mehmood",
+        "Muhammad Fayaz",
+        "Inam Ullah Khan"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/9/2024 0:00",
+      "retractiondoi": "10.1155/2024/9808629",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/29/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/4808703",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8c1f662220d89881c1",
+      "recordId": "50214",
+      "title": "Telehealth for COVID-19: A Conceptual Framework",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Department of CS &IT, Hazara University, Mansehra, Pakistan",
         "Department of Computer Science, University of Central Asia, Naryn, Kyrgyzstan",
         "Department of Software Engineering, University of Science and Technology, Bannu 28100, Pakistan",
         "Department of Computer Science, IQRA National University, Swat Campus 19220, Peshawar, Pakistan"
       ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
         "Kyrgyzstan",
         "Pakistan"
       ],
-      "Author": [
+      "author": [
         "Waqas Yousaf",
         "Arif Iqbal Umar",
         "Syed Hamad Shirazi",
@@ -42,171 +100,116 @@
         "Asad Rasheed",
         "Gulzar Mehmood"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9795327",
-      "RetractionPubMedID": "38078185.0",
-      "OriginalPaperDate": "2/7/2023 0:00",
-      "OriginalPaperDOI": "10.1155/2023/3679829",
-      "OriginalPaperPubMedID": "36818384.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9795327",
+      "retractionpubmedid": "38078185.0",
+      "originalpaperdate": "2/7/2023 0:00",
+      "originalpaperdoi": "10.1155/2023/3679829",
+      "originalpaperpubmedid": "36818384.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2341168",
-      "Record ID": "57525",
-      "Title": "Mining Cryptocurrency-Based Security Using Renewable Energy as Source",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Technology",
-        "(PHY) Energy"
-      ],
-      "Institution": [
-        "Department of Computer Science and Engineering, Lovely Professional University, Phagwara, Punjab, India",
-        "School of Computer Science, University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India",
-        "VLSI Centre of Excellence, Chitkara University Institute of Engineering and Technology, Chitkara University, Punjab, India",
-        "Department of Computer Science, IQRA National University, Swat Campus, Peshawar, Pakistan",
-        "Department of Computer Science, University of Central Asia, Naryn, Kyrgyzstan",
-        "Department of Engineering, Kings College London, London, UK"
-      ],
-      "Journal": "Security and Communication Networks",
-      "Publisher": "Hindawi",
-      "Country": [
-        "India",
-        "Kyrgyzstan",
-        "Pakistan",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Lokesh Gundaboina",
-        "Sumit Badotra",
-        "Tarandeep Kaur Bhatia",
-        "Kulbhushan Sharma",
-        "Gulzar Mehmood",
-        "Muhammad Fayaz",
-        "Inam Ullah Khan"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/9/2024 0:00",
-      "RetractionDOI": "10.1155/2024/9808629",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/29/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/4808703",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345a78",
-      "Record ID": "38742",
-      "Title": "An improved mechanism for flow rule installation in In-band SDN",
-      "Subject": [
+      "_id": "687cefb51f662220d898ae5e",
+      "recordId": "38742",
+      "title": "An improved mechanism for flow rule installation in In-band SDN",
+      "subject": [
         "(BLS) Agriculture",
         "(PHY) Engineering - General"
       ],
-      "Institution": [
+      "institution": [
         "Iqra National University, Peshawar, Pakistan",
         "COMSATS Institute of Information Technology, Wah Cantt 47040, Pakistan",
         "College of Computer and Information Sciences, King Saud University, Saudi Arabia"
       ],
-      "Journal": "Journal of Systems Architecture",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Systems Architecture",
+      "publisher": "Elsevier",
+      "country": [
         "Pakistan",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Israr Iqbal Awan",
         "Nadir Shah",
         "Muhammad Imran",
         "Muhammad Shoaib",
         "Nasir Saeed"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/20/2019 0:00",
-      "RetractionDOI": "10.1016/j.sysarc.2019.06.004",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/26/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.sysarc.2019.03.002",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/20/2019 0:00",
+      "retractiondoi": "10.1016/j.sysarc.2019.06.004",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/26/2019 0:00",
+      "originalpaperdoi": "10.1016/j.sysarc.2019.03.002",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

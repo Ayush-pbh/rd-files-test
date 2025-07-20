@@ -1,86 +1,32 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068789ef",
+    "_id": "687ccbab09adbf7aa61b9610",
     "grid_id": "grid.1055.1",
     "institute_name": "Peter MacCallum Cancer Centre",
     "country": "Australia",
     "retracted_record_ids": [
-      "48078",
-      "50465",
-      "20572",
-      "50464",
-      "3337",
-      "46949",
       "20391",
-      "50466"
+      "3337",
+      "50466",
+      "50465",
+      "50464",
+      "48078",
+      "20572",
+      "46949"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234362b",
-      "Record ID": "48078",
-      "Title": "TRAIL identifies immature natural killer cells in newborn mice and adult mouse liver",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Immunology and Department of Obstetrics and Gynecology, Juntendo University School of Medicine, Hongo, Bunkyo-ku, Tokyo, Japan",
-        "Cancer Immunology Program, Sir Donald and Lady Trescowthick Laboratories, Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia",
-        "Department of Microbiology and Immunology and the Cancer Research Institute, University of California San Francisco, San Francisco, CA"
-      ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
-        "Australia",
-        "Japan",
-        "United States"
-      ],
-      "Author": [
-        "Kazuyoshi Takeda",
-        "Erika Cretney",
-        "Yoshihiro Hayakawa",
-        "Tsuyoshi Ota",
-        "Hisaya Akiba",
-        "Kouetsu Ogasawara",
-        "Hideo Yagita",
-        "Katsuyuki Kinoshita",
-        "Ko Okumura",
-        "Mark J Smyth"
-      ],
-      "URLS": "https://retractionwatch.com/?s=%22Mark+Smyth%22",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/4/2023 0:00",
-      "RetractionDOI": "10.1182/blood.2023022801",
-      "RetractionPubMedID": "37793089.0",
-      "OriginalPaperDate": "11/9/2004 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2004-08-3262",
-      "OriginalPaperPubMedID": "15536146.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/B49F6FF999922A03D3FB00D3AB482C",
-      "notice_year": 2023,
-      "year": 2004,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342ce0",
-      "Record ID": "50465",
-      "Title": "Host immunity contributes to the anti-melanoma activity of BRAF inhibitors",
-      "Subject": [
+      "_id": "687cef8c1f662220d89880c5",
+      "recordId": "50466",
+      "title": "Host immunity contributes to the anti-melanoma activity of BRAF inhibitors",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Cancer Immunology Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
         "Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia",
         "Department of Pathology, University of Melbourne, Parkville, Australia",
@@ -89,14 +35,14 @@
         "Department of Immunology, Juntendo University School of Medicine, Tokyo, Japan",
         "Department of Surgery, Division of Surgical Oncology, and 9Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California, USA"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
         "Australia",
         "Japan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Deborah A Knight",
         "Shin Foong Ngiow",
         "Ming Li",
@@ -112,41 +58,288 @@
         "Grant A McArthur",
         "Mark J Smyth"
       ],
-      "URLS": "https://retractionwatch.com/?s=Mark+Smyth",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=Mark+Smyth",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2013 0:00",
-      "RetractionDOI": "10.1172/JCI70645",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/1/2013 0:00",
-      "OriginalPaperDOI": "10.1172/JCI66236",
-      "OriginalPaperPubMedID": "23454771.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "11/23/2015 0:00",
+      "retractiondoi": "10.1172/JCI84828",
+      "retractionpubmedid": "26595810.0",
+      "originalpaperdate": "2/1/2013 0:00",
+      "originalpaperdoi": "10.1172/JCI66236",
+      "originalpaperpubmedid": "23454771.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image",
+        "+Error in Text",
+        "+Updated to Retraction",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "Mark J Smyth has insitutional finding of misconduct;",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef8c1f662220d89880c6",
+      "recordId": "50465",
+      "title": "Host immunity contributes to the anti-melanoma activity of BRAF inhibitors",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Cancer Immunology Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
+        "Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia",
+        "Department of Pathology, University of Melbourne, Parkville, Australia",
+        "Cancer Therapeutics Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
+        "Department of Molecular and Medical Pharmacology, Crump Institute for Molecular Imaging, UCLA, Los Angeles, California, USA",
+        "Department of Immunology, Juntendo University School of Medicine, Tokyo, Japan",
+        "Department of Surgery, Division of Surgical Oncology, and 9Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California, USA"
+      ],
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
+        "Australia",
+        "Japan",
+        "United States"
+      ],
+      "author": [
+        "Deborah A Knight",
+        "Shin Foong Ngiow",
+        "Ming Li",
+        "Tiffany Parmenter",
+        "Stephen Mok",
+        "Ashley Cass",
+        "Nicole M Haynes",
+        "Kathryn Kinross",
+        "Hideo Yagita",
+        "Richard C Koya",
+        "Thomas G Graeber",
+        "Antoni Ribas",
+        "Grant A McArthur",
+        "Mark J Smyth"
+      ],
+      "urls": "https://retractionwatch.com/?s=Mark+Smyth",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/1/2013 0:00",
+      "retractiondoi": "10.1172/JCI70645",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/1/2013 0:00",
+      "originalpaperdoi": "10.1172/JCI66236",
+      "originalpaperpubmedid": "23454771.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image",
         "+Error in Text",
         "+Updated to Correction",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "Notes": "Mark J Smyth has insitutional finding of misconduct;",
-      "notice_year": 2013,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Mark J Smyth has insitutional finding of misconduct;",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a12d",
-      "Record ID": "20572",
-      "Title": "The E3-ligase E6AP Represses Breast Cancer Metastasis via Regulation of ECT2-Rho Signaling",
-      "Subject": [
+      "_id": "687cef8c1f662220d89880c7",
+      "recordId": "50464",
+      "title": "Host immunity contributes to the anti-melanoma activity of BRAF inhibitors",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Cancer Immunology Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
+        "Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia",
+        "Department of Pathology, University of Melbourne, Parkville, Australia",
+        "Cancer Therapeutics Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
+        "Department of Molecular and Medical Pharmacology, Crump Institute for Molecular Imaging, UCLA, Los Angeles, California, USA",
+        "Department of Immunology, Juntendo University School of Medicine, Tokyo, Japan",
+        "Department of Surgery, Division of Surgical Oncology, and 9Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California, USA"
+      ],
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
+        "Australia",
+        "Japan",
+        "United States"
+      ],
+      "author": [
+        "Deborah A Knight",
+        "Shin Foong Ngiow",
+        "Ming Li",
+        "Tiffany Parmenter",
+        "Stephen Mok",
+        "Ashley Cass",
+        "Nicole M Haynes",
+        "Kathryn Kinross",
+        "Hideo Yagita",
+        "Richard C Koya",
+        "Thomas G Graeber",
+        "Antoni Ribas",
+        "Grant A McArthur",
+        "Mark J Smyth"
+      ],
+      "urls": "https://retractionwatch.com/?s=Mark+Smyth",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/15/2023 0:00",
+      "retractiondoi": "10.1172/JCI177489",
+      "retractionpubmedid": "38099495.0",
+      "originalpaperdate": "2/1/2023 0:00",
+      "originalpaperdoi": "10.1172/JCI66236",
+      "originalpaperpubmedid": "23454771.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "Mark J Smyth has insitutional finding of misconduct;",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef941f662220d8988a11",
+      "recordId": "48078",
+      "title": "TRAIL identifies immature natural killer cells in newborn mice and adult mouse liver",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Immunology and Department of Obstetrics and Gynecology, Juntendo University School of Medicine, Hongo, Bunkyo-ku, Tokyo, Japan",
+        "Cancer Immunology Program, Sir Donald and Lady Trescowthick Laboratories, Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia",
+        "Department of Microbiology and Immunology and the Cancer Research Institute, University of California San Francisco, San Francisco, CA"
+      ],
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
+        "Australia",
+        "Japan",
+        "United States"
+      ],
+      "author": [
+        "Kazuyoshi Takeda",
+        "Erika Cretney",
+        "Yoshihiro Hayakawa",
+        "Tsuyoshi Ota",
+        "Hisaya Akiba",
+        "Kouetsu Ogasawara",
+        "Hideo Yagita",
+        "Katsuyuki Kinoshita",
+        "Ko Okumura",
+        "Mark J Smyth"
+      ],
+      "urls": "https://retractionwatch.com/?s=%22Mark+Smyth%22",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/4/2023 0:00",
+      "retractiondoi": "10.1182/blood.2023022801",
+      "retractionpubmedid": "37793089.0",
+      "originalpaperdate": "11/9/2004 0:00",
+      "originalpaperdoi": "10.1182/blood-2004-08-3262",
+      "originalpaperpubmedid": "15536146.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Data"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/B49F6FF999922A03D3FB00D3AB482C",
+      "year": "2004",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9a1f662220d8988e7a",
+      "recordId": "46949",
+      "title": "Combination Anti-CTLA-4 and Anti-RANKL in Metastatic Melanoma",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Peter MacCallum Cancer Centre, East Melbourne",
+        "University of Melbourne, Parkville, Victoria",
+        "Queensland Institute of Medical Research",
+        "School of Medicine, University of Queensland, Herston, Queensland, Australia",
+        "Juntendo University School of Medicine, Tokyo, Japan",
+        "Peter MacCallum Cancer Centre, East Melbourne",
+        "University of Melbourne, Parkville, Victoria"
+      ],
+      "journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
+      "publisher": "American Society of Clinical Oncology",
+      "country": [
+        "Australia",
+        "Japan"
+      ],
+      "author": [
+        "Mark J Smyth",
+        "Hideo Yagita",
+        "Grant A McArthur"
+      ],
+      "urls": "https://retractionwatch.com/?s=%22Mark+Smyth%22",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/11/2023 0:00",
+      "retractiondoi": "10.1200/JCO.23.01358",
+      "retractionpubmedid": "37566792.0",
+      "originalpaperdate": "10/13/2014 0:00",
+      "originalpaperdoi": "10.1200/JCO.2013.51.3572",
+      "originalpaperpubmedid": "25311221.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Third Party",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "Mark J Smyth has institutional finding of misconduct;",
+      "year": "2014",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf05d1f662220d898f513",
+      "recordId": "20572",
+      "title": "The E3-ligase E6AP Represses Breast Cancer Metastasis via Regulation of ECT2-Rho Signaling",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Research Division, Peter MacCallum Cancer Centre, East Melbourne, Australia",
         "Department of Pathology, Peter MacCallum Cancer Centre, East Melbourne, Australia",
         "Division of Systems Biology and Personalised Medicine, Walter and Eliza Hall Institute of Medical Research, Parkville, Victoria, Australia",
@@ -157,13 +350,13 @@
         "St. Vincent's Institute of Medical Research, Melbourne, Victoria, Australia",
         "Department of Biochemistry and Molecular Biology, Monash University, Clayton, Victoria, Australia"
       ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "Australia",
         "Israel"
       ],
-      "Author": [
+      "author": [
         "Mariam Mansour",
         "Sue Haupt",
         "Ai Leen Chan",
@@ -184,388 +377,203 @@
         "Robin Anderson",
         "Ygal Haupt"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/3/2019 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-19-1133",
-      "RetractionPubMedID": "31160311.0",
-      "OriginalPaperDate": "5/26/2016 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-15-1553",
-      "OriginalPaperPubMedID": "27231202.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/3/2019 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-19-1133",
+      "retractionpubmedid": "31160311.0",
+      "originalpaperdate": "5/26/2016 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-15-1553",
+      "originalpaperpubmedid": "27231202.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342ce1",
-      "Record ID": "50464",
-      "Title": "Host immunity contributes to the anti-melanoma activity of BRAF inhibitors",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
+      "_id": "687cf0721f662220d898f5c6",
+      "recordId": "20391",
+      "title": "Safety Is the Heart of the Matter",
+      "subject": [
+        "(HSC) Public Health and Safety",
+        "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
-        "Cancer Immunology Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
-        "Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia",
-        "Department of Pathology, University of Melbourne, Parkville, Australia",
-        "Cancer Therapeutics Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
-        "Department of Molecular and Medical Pharmacology, Crump Institute for Molecular Imaging, UCLA, Los Angeles, California, USA",
-        "Department of Immunology, Juntendo University School of Medicine, Tokyo, Japan",
-        "Department of Surgery, Division of Surgical Oncology, and 9Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California, USA"
+      "institution": [
+        "Department of Radiation Oncology, Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia",
+        "Department of Clinical Haematology, Peter MacCallum Cancer Centre and Royal Melbourne Hospital, Melbourne, Victoria, Australia"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
-        "Australia",
-        "Japan",
-        "United States"
+      "journal": "International Journal of Radiation Oncology, Biology, Physics",
+      "publisher": "Elsevier",
+      "country": [
+        "Australia"
       ],
-      "Author": [
-        "Deborah A Knight",
-        "Shin Foong Ngiow",
-        "Ming Li",
-        "Tiffany Parmenter",
-        "Stephen Mok",
-        "Ashley Cass",
-        "Nicole M Haynes",
-        "Kathryn Kinross",
-        "Hideo Yagita",
-        "Richard C Koya",
-        "Thomas G Graeber",
-        "Antoni Ribas",
-        "Grant A McArthur",
-        "Mark J Smyth"
+      "author": [
+        "Belinda A Campbell",
+        "John F Seymour"
       ],
-      "URLS": "https://retractionwatch.com/?s=Mark+Smyth",
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Review Article"
       ],
-      "RetractionDate": "12/15/2023 0:00",
-      "RetractionDOI": "10.1172/JCI177489",
-      "RetractionPubMedID": "38099495.0",
-      "OriginalPaperDate": "2/1/2023 0:00",
-      "OriginalPaperDOI": "10.1172/JCI66236",
-      "OriginalPaperPubMedID": "23454771.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
+      "retractiondate": "4/23/2019 0:00",
+      "retractiondoi": "10.1016/j.ijrobp.2019.02.022",
+      "retractionpubmedid": "31027909.0",
+      "originalpaperdate": "4/23/2019 0:00",
+      "originalpaperdoi": "10.1016/j.ijrobp.2019.02.022",
+      "originalpaperpubmedid": "31027909.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Removed",
+        "+Withdrawn to Publish in Different Journal"
       ],
-      "Paywalled": "No",
-      "Notes": "Mark J Smyth has insitutional finding of misconduct;",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e3e8",
-      "Record ID": "3337",
-      "Title": "Antigen-induced tolerance by intrathymic modulation of self-recognizing inhibitory receptors",
-      "Subject": [
+      "_id": "687cf0cb1f662220d89937ce",
+      "recordId": "3337",
+      "title": "Antigen-induced tolerance by intrathymic modulation of self-recognizing inhibitory receptors",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
+      "institution": [
         "Cancer Immunology Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, East Melbourne, Victoria",
         "Department of Microbiology and Immunology, University of Melbourne, Parkville, Victoria"
       ],
-      "Journal": "Nature Immunology",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Immunology",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Australia"
       ],
-      "Author": [
+      "author": [
         "Yoshihiro Hayakawa",
         "Stuart P Berzins",
         "Nadine Y Crowe",
         "Dale I Godfrey",
         "Mark J Smyth"
       ],
-      "URLS": "https://retractionwatch.com/2021/11/22/highly-cited-cancer-immunologist-seriously-breached-research-conduct-code-australia-institute/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2021/11/22/highly-cited-cancer-immunologist-seriously-breached-research-conduct-code-australia-institute/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/1/2006 0:00",
-      "RetractionDOI": "10.1038/ni0806-890",
-      "RetractionPubMedID": "16855608.0",
-      "OriginalPaperDate": "5/2/2004 0:00",
-      "OriginalPaperDOI": "10.1038/ni1069",
-      "OriginalPaperPubMedID": "15122252.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2006 0:00",
+      "retractiondoi": "10.1038/ni0806-890",
+      "retractionpubmedid": "16855608.0",
+      "originalpaperdate": "5/2/2004 0:00",
+      "originalpaperdoi": "10.1038/ni1069",
+      "originalpaperpubmedid": "15122252.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Data",
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2006,
-      "year": 2004,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343a94",
-      "Record ID": "46949",
-      "Title": "Combination Anti-CTLA-4 and Anti-RANKL in Metastatic Melanoma",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Dermatology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Peter MacCallum Cancer Centre, East Melbourne",
-        "University of Melbourne, Parkville, Victoria",
-        "Queensland Institute of Medical Research",
-        "School of Medicine, University of Queensland, Herston, Queensland, Australia",
-        "Juntendo University School of Medicine, Tokyo, Japan",
-        "Peter MacCallum Cancer Centre, East Melbourne",
-        "University of Melbourne, Parkville, Victoria"
-      ],
-      "Journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
-      "Publisher": "American Society of Clinical Oncology",
-      "Country": [
-        "Australia",
-        "Japan"
-      ],
-      "Author": [
-        "Mark J Smyth",
-        "Hideo Yagita",
-        "Grant A McArthur"
-      ],
-      "URLS": "https://retractionwatch.com/?s=%22Mark+Smyth%22",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/11/2023 0:00",
-      "RetractionDOI": "10.1200/JCO.23.01358",
-      "RetractionPubMedID": "37566792.0",
-      "OriginalPaperDate": "10/13/2014 0:00",
-      "OriginalPaperDOI": "10.1200/JCO.2013.51.3572",
-      "OriginalPaperPubMedID": "25311221.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Third Party",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "Mark J Smyth has institutional finding of misconduct;",
-      "notice_year": 2023,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a1e0",
-      "Record ID": "20391",
-      "Title": "Safety Is the Heart of the Matter",
-      "Subject": [
-        "(HSC) Public Health and Safety",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia",
-        "Department of Clinical Haematology, Peter MacCallum Cancer Centre and Royal Melbourne Hospital, Melbourne, Victoria, Australia"
-      ],
-      "Journal": "International Journal of Radiation Oncology, Biology, Physics",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Australia"
-      ],
-      "Author": [
-        "Belinda A Campbell",
-        "John F Seymour"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "4/23/2019 0:00",
-      "RetractionDOI": "10.1016/j.ijrobp.2019.02.022",
-      "RetractionPubMedID": "31027909.0",
-      "OriginalPaperDate": "4/23/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.ijrobp.2019.02.022",
-      "OriginalPaperPubMedID": "31027909.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Removed",
-        "+Withdrawn to Publish in Different Journal"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2342cdf",
-      "Record ID": "50466",
-      "Title": "Host immunity contributes to the anti-melanoma activity of BRAF inhibitors",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Cancer Immunology Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
-        "Sir Peter MacCallum Department of Oncology, University of Melbourne, Parkville, Australia",
-        "Department of Pathology, University of Melbourne, Parkville, Australia",
-        "Cancer Therapeutics Program, Trescowthick Laboratories, Peter MacCallum Cancer Centre, St. Andrews Place, East Melbourne, Victoria, Australia",
-        "Department of Molecular and Medical Pharmacology, Crump Institute for Molecular Imaging, UCLA, Los Angeles, California, USA",
-        "Department of Immunology, Juntendo University School of Medicine, Tokyo, Japan",
-        "Department of Surgery, Division of Surgical Oncology, and 9Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California, USA"
-      ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
-        "Australia",
-        "Japan",
-        "United States"
-      ],
-      "Author": [
-        "Deborah A Knight",
-        "Shin Foong Ngiow",
-        "Ming Li",
-        "Tiffany Parmenter",
-        "Stephen Mok",
-        "Ashley Cass",
-        "Nicole M Haynes",
-        "Kathryn Kinross",
-        "Hideo Yagita",
-        "Richard C Koya",
-        "Thomas G Graeber",
-        "Antoni Ribas",
-        "Grant A McArthur",
-        "Mark J Smyth"
-      ],
-      "URLS": "https://retractionwatch.com/?s=Mark+Smyth",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/23/2015 0:00",
-      "RetractionDOI": "10.1172/JCI84828",
-      "RetractionPubMedID": "26595810.0",
-      "OriginalPaperDate": "2/1/2013 0:00",
-      "OriginalPaperDOI": "10.1172/JCI66236",
-      "OriginalPaperPubMedID": "23454771.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image",
-        "+Error in Text",
-        "+Updated to Retraction",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "Mark J Smyth has insitutional finding of misconduct;",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2006",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

@@ -1,48 +1,434 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878ba9",
+    "_id": "687ccbab09adbf7aa61b97ca",
     "grid_id": "grid.262863.b",
     "institute_name": "SUNY Downstate Medical Center",
     "country": "United States",
     "retracted_record_ids": [
-      "11402",
-      "1141",
-      "17966",
-      "18588",
-      "46264",
-      "4833",
-      "221",
-      "38658",
-      "46262",
-      "4805",
       "38656",
+      "18588",
+      "46262",
       "38657",
-      "19285"
+      "4805",
+      "1141",
+      "46264",
+      "221",
+      "11402",
+      "17966",
+      "38658",
+      "19285",
+      "4833"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234c4d0",
-      "Record ID": "11402",
-      "Title": "Synergy between Paclitaxel and Anti-Cancer Peptide PNC-27 in the Treatment of Ovarian Cancer",
-      "Subject": [
+      "_id": "687cef9c1f662220d8989126",
+      "recordId": "46264",
+      "title": "Brk/Protein Tyrosine Kinase 6 Phosphorylates p27(KIP1), Regulating the Activity of Cyclin D-Cyclin-Dependent Kinase 4",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York, USA",
+        "Institute of Medical Microbiology and Hygiene, University of Regensburg, Regensburg, Germany",
+        "Departments of Pediatrics and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York, USA",
+        "College of Medicine, SUNY Downstate Medical Center, Brooklyn, New York, USA",
+        "Department of Biochemistry and Molecular Genetics, University of Illinois at Chicago, Chicago, Illinois, USA",
+        "Departments of Pediatrics and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York, USA"
+      ],
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Priyank Patel",
+        "Benedikt Asbach",
+        "Elina Shteyn",
+        "Cindy Gomez",
+        "Alexander Coltoff",
+        "Sadia Bhuyan",
+        "Angela L Tyner",
+        "Ralf Wagner",
+        "Stacy W Blain"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/27/2023 0:00",
+      "retractiondoi": "10.1128/mcb.00322-22",
+      "retractionpubmedid": "35993717.0",
+      "originalpaperdate": "1/1/2015 0:00",
+      "originalpaperdoi": "10.1128/MCB.01206-14",
+      "originalpaperpubmedid": "25733683.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Euphemisms for Duplication",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9c1f662220d8989128",
+      "recordId": "46262",
+      "title": "Differential Modification of p27(Kip1) Controls Its Cyclin D-cdk4 Inhibitory Activity",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Pediatrics, SUNY Downstate Medical Center, 450 Clarkson Ave., Box 49, Brooklyn, NY 11203, USA"
+      ],
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Melissa K James",
+        "Arpita Ray",
+        "Dina Leznova",
+        "Stacy W Blain"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/27/2023 0:00",
+      "retractiondoi": "10.1128/mcb.00323-22",
+      "retractionpubmedid": "35993718.0",
+      "originalpaperdate": "1/1/2008 0:00",
+      "originalpaperdoi": "10.1128/MCB.02171-06",
+      "originalpaperpubmedid": "17908796.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Euphemisms for Duplication",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898aeb0",
+      "recordId": "38658",
+      "title": "p27Kip1 Inhibits Cyclin D-Cyclin-Dependent Kinase 4 by Two Independent Modes",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - General"
+      ],
+      "institution": [
+        "Program in Molecular and Cellular Biology, School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York 11203",
+        "Molecular Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York 10065",
+        "Departments of Pediatrics and Anatomy and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York 11203"
+      ],
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "American Society for Microbiology",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Arpita Ray",
+        "Melissa K James",
+        "Stephane Larochelle",
+        "Robert P Fisher",
+        "Stacy W Blain"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/22/2022 0:00",
+      "retractiondoi": "10.1128/mcb.00324-22",
+      "retractionpubmedid": "35993716.0",
+      "originalpaperdate": "2/15/2009 0:00",
+      "originalpaperdoi": "10.1128/MCB.00898-08",
+      "originalpaperpubmedid": "19075005.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Company/Institution",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898aeb1",
+      "recordId": "38657",
+      "title": "Brk/Protein Tyrosine Kinase 6 Phosphorylates p27KIP1, Regulating the Activity of Cyclin D\u2013Cyclin-Dependent Kinase 4",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York, USA",
+        "Institute of Medical Microbiology and Hygiene, University of Regensburg, Regensburg, Germany",
+        "Departments of Pediatrics and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York, USA",
+        "College of Medicine, SUNY Downstate Medical Center, Brooklyn, New York, USA",
+        "Department of Biochemistry and Molecular Genetics, University of Illinois at Chicago, Chicago, Illinois, USA"
+      ],
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "American Society for Microbiology",
+      "country": [
+        "Germany",
+        "United States"
+      ],
+      "author": [
+        "Priyank Patel",
+        "Benedikt Asbach",
+        "Elina Shteyn",
+        "Cindy Gomez",
+        "Alexander Coltoff",
+        "Sadia Bhuyan",
+        "Angela L Tyner",
+        "Ralf Wagner",
+        "Stacy W Blain"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/22/2022 0:00",
+      "retractiondoi": "10.1128/mcb.00322-22",
+      "retractionpubmedid": "35993717.0",
+      "originalpaperdate": "3/2/2015 0:00",
+      "originalpaperdoi": "10.1128/MCB.01206-14",
+      "originalpaperpubmedid": "25733683.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Company/Institution",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898aeb2",
+      "recordId": "38656",
+      "title": "Differential modification of p27Kip1 controls its cyclin D-cdk4 inhibitory activity",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Program in Molecular and Cellular Biology of the School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York 11203",
+        "Departments of Pediatrics and Anatomy and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York 11203"
+      ],
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "American Society for Microbiology",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Milissa K James",
+        "Arpita Ray",
+        "Dina Leznova",
+        "Stacy W Blain"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/22/2022 0:00",
+      "retractiondoi": "10.1128/mcb.00323-22",
+      "retractionpubmedid": "35993718.0",
+      "originalpaperdate": "1/1/2008 0:00",
+      "originalpaperdoi": "10.1128/MCB.02171-06",
+      "originalpaperpubmedid": "17908796.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Company/Institution",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf08f1f662220d898fa11",
+      "recordId": "19285",
+      "title": "Structures of Apolipoprotein A-II and a Lipid\u2013Surrogate Complex Provide Insights into Apolipoprotein\u2013Lipid Interactions",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Center for Biophysical Sciences and Engineering, University of Alabama at Birmingham, 1530 3rd Avenue South, Birmingham, Alabama 35294 Department of Anatomy and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York 11210",
+        "Department of Pediatrics, SUNY Downstate Medical Center, Brooklyn, New York 11210"
+      ],
+      "journal": "Biochemistry",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "M Suresh Kumar",
+        "M Carson",
+        "M Mahmood Hussain",
+        "H M Krishna Murthy"
+      ],
+      "urls": "http://retractionwatch.com/2018/04/10/infamous-case-of-fraud-by-protein-crystallographer-ends-in-10-year-funding-ban/;http://retractionwatch.com/?s=krishna+murthy",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/3/2018 0:00",
+      "retractiondoi": "10.1021/acs.biochem.8b00956",
+      "retractionpubmedid": "30278611.0",
+      "originalpaperdate": "9/7/2002 0:00",
+      "originalpaperdoi": "10.1021/bi026069w",
+      "originalpaperpubmedid": "12269810.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fcc6",
+      "recordId": "18588",
+      "title": "Crystal structure of human apolipoprotein A-I: Insights into its protective effect against cardiovascular disease",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biochemistry",
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "Center for Biophysical Sciences and Engineering, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
+        "Atherosclerosis Research Unit and Departments of Medicine, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
+        "Departments of Anatomy, Cell Biology, and Pediatrics, State University of New York Downstate Medical Center, Brooklyn, NY 11203"
+      ],
+      "journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "publisher": "National Academy of Sciences (NAS)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "A Abdul Ajees",
+        "G M Anantharamaiah",
+        "Vinod K Mishra",
+        "M Mahmood Hussain",
+        "H M Krishna Murthy"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/5/2018 0:00",
+      "retractiondoi": "10.1073/pnas.1806430115",
+      "retractionpubmedid": "29987041.0",
+      "originalpaperdate": "2/14/2006 0:00",
+      "originalpaperdoi": "10.1073/pnas.0506877103",
+      "originalpaperpubmedid": "16452169.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by ORI"
+      ],
+      "paywalled": "No",
+      "notes": "H M Krishna Murthy has NIH finding of misconduct - see https://www.federalregister.gov/documents/2018/04/16/2018-07782/findings-of-research-misconduct;",
+      "year": "2006",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898ff32",
+      "recordId": "17966",
+      "title": "Crystal structure of human apolipoprotein A-I: Insights into its protective effect against cardiovascular disease",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biochemistry",
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "Center for Biophysical Sciences and Engineering, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
+        "Atherosclerosis Research Unit and Departments of Medicine, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
+        "Departments of Anatomy, Cell Biology, and Pediatrics, State University of New York Downstate Medical Center, Brooklyn, NY 11203"
+      ],
+      "journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "publisher": "National Academy of Sciences (NAS)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "A Abdul Ajees",
+        "G M Anantharamaiah",
+        "Vinod K Mishra",
+        "M Mahmood Hussain",
+        "H M Krishna Murthy"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/6/2010 0:00",
+      "retractiondoi": "10.1073/pnas.1003210107",
+      "retractionpubmedid": "28277629.0",
+      "originalpaperdate": "2/14/2006 0:00",
+      "originalpaperdoi": "10.1073/pnas.0506877103",
+      "originalpaperpubmedid": "16452169.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by ORI"
+      ],
+      "paywalled": "No",
+      "notes": "H M Krishna Murthy has NIH finding of misconduct",
+      "year": "2006",
+      "noticeYear": "2010",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b01f662220d89918b6",
+      "recordId": "11402",
+      "title": "Synergy between Paclitaxel and Anti-Cancer Peptide PNC-27 in the Treatment of Ovarian Cancer",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Department of Gynecologic Oncology, SUNY-Downstate Medical Center, Brooklyn, NY, USA",
         "Department of Gynecologic Oncology, SUNY-Downstate Medical Center, Brooklyn, NY, USA",
         "Department of Epidemiology and Biostatistics, SUNY-Downstate Medical Center, Brooklyn, NY, USA"
       ],
-      "Journal": "Annals of Clinical & Laboratory Science",
-      "Publisher": "Association of Clinical Scientists",
-      "Country": [
+      "journal": "Annals of Clinical & Laboratory Science",
+      "publisher": "Association of Clinical Scientists",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ioannis Alagkiozidis",
         "Constantine Gorelick",
         "Tana Shah",
@@ -55,417 +441,79 @@
         "Ehsan Sarafraz-Yazdi",
         "Josef Michl"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2017 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/1/2017 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "28667027.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2017 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/1/2017 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "28667027.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2017,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2017",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ec46",
-      "Record ID": "1141",
-      "Title": "Vitamin D Levels do not Predict Cardiovascular Events in Statin-treated Patients with Stable Coronary Disease",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Nutrition"
-      ],
-      "Institution": [
-        "University of Alabama at Birmingham, Birmingham, AL, USA",
-        "Emory University, Atlanta, GA, USA",
-        "San Francisco General Hospital, San Francisco, CA, USA",
-        "Pfizer Inc, New York, NY, USA",
-        "State University of New York Health Science Center, Brooklyn, NY, USA"
-      ],
-      "Journal": "American Heart Journal",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Vera Bittner",
-        "Nanette K Wenger",
-        "David D Waters",
-        "David A DeMicco",
-        "Michael Messig",
-        "John C LaRosa"
-      ],
-      "URLS": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/1/2013 0:00",
-      "RetractionDOI": "10.1016/j.ahj.2013.06.001",
-      "RetractionPubMedID": "23977712.0",
-      "OriginalPaperDate": "9/1/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.ahj.2012.06.016",
-      "OriginalPaperPubMedID": "22980306.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234ab4c",
-      "Record ID": "17966",
-      "Title": "Crystal structure of human apolipoprotein A-I: Insights into its protective effect against cardiovascular disease",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biochemistry",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "Center for Biophysical Sciences and Engineering, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
-        "Atherosclerosis Research Unit and Departments of Medicine, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
-        "Departments of Anatomy, Cell Biology, and Pediatrics, State University of New York Downstate Medical Center, Brooklyn, NY 11203"
-      ],
-      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
-      "Publisher": "National Academy of Sciences (NAS)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "A Abdul Ajees",
-        "G M Anantharamaiah",
-        "Vinod K Mishra",
-        "M Mahmood Hussain",
-        "H M Krishna Murthy"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/6/2010 0:00",
-      "RetractionDOI": "10.1073/pnas.1003210107",
-      "RetractionPubMedID": "28277629.0",
-      "OriginalPaperDate": "2/14/2006 0:00",
-      "OriginalPaperDOI": "10.1073/pnas.0506877103",
-      "OriginalPaperPubMedID": "16452169.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by ORI"
-      ],
-      "Paywalled": "No",
-      "Notes": "H M Krishna Murthy has NIH finding of misconduct",
-      "notice_year": 2010,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a8e0",
-      "Record ID": "18588",
-      "Title": "Crystal structure of human apolipoprotein A-I: Insights into its protective effect against cardiovascular disease",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biochemistry",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "Center for Biophysical Sciences and Engineering, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
-        "Atherosclerosis Research Unit and Departments of Medicine, Biochemistry, and Molecular Genetics, University of Alabama, 1530 3rd Avenue South, Birmingham, AL 35294",
-        "Departments of Anatomy, Cell Biology, and Pediatrics, State University of New York Downstate Medical Center, Brooklyn, NY 11203"
-      ],
-      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
-      "Publisher": "National Academy of Sciences (NAS)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "A Abdul Ajees",
-        "G M Anantharamaiah",
-        "Vinod K Mishra",
-        "M Mahmood Hussain",
-        "H M Krishna Murthy"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/5/2018 0:00",
-      "RetractionDOI": "10.1073/pnas.1806430115",
-      "RetractionPubMedID": "29987041.0",
-      "OriginalPaperDate": "2/14/2006 0:00",
-      "OriginalPaperDOI": "10.1073/pnas.0506877103",
-      "OriginalPaperPubMedID": "16452169.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by ORI"
-      ],
-      "Paywalled": "No",
-      "Notes": "H M Krishna Murthy has NIH finding of misconduct - see https://www.federalregister.gov/documents/2018/04/16/2018-07782/findings-of-research-misconduct;",
-      "notice_year": 2018,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343d40",
-      "Record ID": "46264",
-      "Title": "Brk/Protein Tyrosine Kinase 6 Phosphorylates p27(KIP1), Regulating the Activity of Cyclin D-Cyclin-Dependent Kinase 4",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York, USA",
-        "Institute of Medical Microbiology and Hygiene, University of Regensburg, Regensburg, Germany",
-        "Departments of Pediatrics and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York, USA",
-        "College of Medicine, SUNY Downstate Medical Center, Brooklyn, New York, USA",
-        "Department of Biochemistry and Molecular Genetics, University of Illinois at Chicago, Chicago, Illinois, USA",
-        "Departments of Pediatrics and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York, USA"
-      ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Priyank Patel",
-        "Benedikt Asbach",
-        "Elina Shteyn",
-        "Cindy Gomez",
-        "Alexander Coltoff",
-        "Sadia Bhuyan",
-        "Angela L Tyner",
-        "Ralf Wagner",
-        "Stacy W Blain"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/27/2023 0:00",
-      "RetractionDOI": "10.1128/mcb.00322-22",
-      "RetractionPubMedID": "35993717.0",
-      "OriginalPaperDate": "1/1/2015 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.01206-14",
-      "OriginalPaperPubMedID": "25733683.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Euphemisms for Duplication",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234de26",
-      "Record ID": "4833",
-      "Title": "Drug-induced Photoallergic and Phototoxic Reactions - An Update",
-      "Subject": [
+      "_id": "687cf0c51f662220d899320c",
+      "recordId": "4833",
+      "title": "Drug-induced Photoallergic and Phototoxic Reactions - An Update",
+      "subject": [
         "(BLS) Microbiology",
         "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
+      "institution": [
         "New York Presbyterian Hospital, Weill Cornell Medical College, Department of Dermatology, New York, NY 10021, USA",
         "Derek Ho SUNY Downstate College of Medicine, Brooklyn, NY 11203, USA"
       ],
-      "Journal": "Expert Opinion on Drug safety",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Expert Opinion on Drug safety",
+      "publisher": "Taylor and Francis",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Noah S Scheinfeld",
         "Karen Chernoff",
         "Man Kin Derek Ho",
         "Yen Chen Liu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/1/2014 0:00",
-      "RetractionDOI": "10.1517/14740338.2014.961268",
-      "RetractionPubMedID": "25213105.0",
-      "OriginalPaperDate": "2/18/2014 0:00",
-      "OriginalPaperDOI": "10.1517/14740338.2014.885948",
-      "OriginalPaperPubMedID": "24547917.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/1/2014 0:00",
+      "retractiondoi": "10.1517/14740338.2014.961268",
+      "retractionpubmedid": "25213105.0",
+      "originalpaperdate": "2/18/2014 0:00",
+      "originalpaperdoi": "10.1517/14740338.2014.885948",
+      "originalpaperpubmedid": "24547917.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Text",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efca",
-      "Record ID": "221",
-      "Title": "Directed Conversion of Alzheimer's Disease Patient Skin Fibroblasts Into Functional Neurons",
-      "Subject": [
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Departments of Pathology, Cell Biology and Neurology, and Taub Institute, Columbia University, Black Building 1208, 650 West 168th Street, New York, NY 10032, USA",
-        "The Robert F. Furchgott Center for Neural and Behavioral Science. Department of Neurology and Pharmacology & Physiology, State University of New York Downstate Medical Center, U.S.A"
-      ],
-      "Journal": "Cell",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Liang Qiang",
-        "Ryousuke Fujita",
-        "Toru Yamashita",
-        "Sergio Angulo",
-        "Herve Rhinn",
-        "David Rhee",
-        "Claudia Doege",
-        "Lily Chau",
-        "William B. Vanti",
-        "Herman Moreno",
-        "Asa Abeliovich"
-      ],
-      "URLS": "http://retractionwatch.com/2014/04/11/fraud-fells-alzheimers-made-to-order-neurons-paper-in-cell/;http://retractionwatch.com/2015/04/07/former-columbia-postdoc-faked-alzheimers-research-in-cell-and-nature/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/10/2014 0:00",
-      "RetractionDOI": "10.1016/j.cell.2014.03.002",
-      "RetractionPubMedID": "24843893.0",
-      "OriginalPaperDate": "8/5/2011 0:00",
-      "OriginalPaperDOI": "10.1016/j.cell.2011.07.007",
-      "OriginalPaperPubMedID": "21816272.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Ethical Violations by Author",
-        "+Falsification/Fabrication of Data",
-        "+Falsification/Fabrication of Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2345aca",
-      "Record ID": "38658",
-      "Title": "p27Kip1 Inhibits Cyclin D-Cyclin-Dependent Kinase 4 by Two Independent Modes",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - General"
-      ],
-      "Institution": [
-        "Program in Molecular and Cellular Biology, School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York 11203",
-        "Molecular Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York 10065",
-        "Departments of Pediatrics and Anatomy and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York 11203"
-      ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Arpita Ray",
-        "Melissa K James",
-        "Stephane Larochelle",
-        "Robert P Fisher",
-        "Stacy W Blain"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/22/2022 0:00",
-      "RetractionDOI": "10.1128/mcb.00324-22",
-      "RetractionPubMedID": "35993716.0",
-      "OriginalPaperDate": "2/15/2009 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.00898-08",
-      "OriginalPaperPubMedID": "19075005.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Company/Institution",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2009,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2343d42",
-      "Record ID": "46262",
-      "Title": "Differential Modification of p27(Kip1) Controls Its Cyclin D-cdk4 Inhibitory Activity",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Pediatrics, SUNY Downstate Medical Center, 450 Clarkson Ave., Box 49, Brooklyn, NY 11203, USA"
-      ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Melissa K James",
-        "Arpita Ray",
-        "Dina Leznova",
-        "Stacy W Blain"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/27/2023 0:00",
-      "RetractionDOI": "10.1128/mcb.00323-22",
-      "RetractionPubMedID": "35993718.0",
-      "OriginalPaperDate": "1/1/2008 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.02171-06",
-      "OriginalPaperPubMedID": "17908796.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Euphemisms for Duplication",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234de41",
-      "Record ID": "4805",
-      "Title": "Prediction of Cardiovascular Events in Statin-Treated Stable Coronary Patients by Lipid and Nonlipid Biomarkers",
-      "Subject": [
+      "_id": "687cf0c71f662220d8993227",
+      "recordId": "4805",
+      "title": "Prediction of Cardiovascular Events in Statin-Treated Stable Coronary Patients by Lipid and Nonlipid Biomarkers",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Vascular Medicine, Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands",
         "The Heart Research Institute, Sydney, Australia",
         "Pfizer, Inc., New York, New York, USA",
@@ -475,15 +523,15 @@
         "School of Medicine, San Francisco, California, USA",
         "Universit\u00e4tsklinikum, Eppendorf, Germany Emory University School of Medicine, Atlanta, Georgia University of Glasgow, Glasgow, United Kingdom San Francisco General Hospital, San Francisco, California, USA"
       ],
-      "Journal": "Journal of the American College of Cardiology (JACC)",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of the American College of Cardiology (JACC)",
+      "publisher": "Elsevier",
+      "country": [
         "Australia",
         "Germany",
         "Netherlands",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Benoit J Arsenault",
         "Philip J Barter",
         "David A DeMicco",
@@ -498,300 +546,265 @@
         "David D Waters",
         "John J P Kastelein"
       ],
-      "URLS": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/4/2011 0:00",
-      "RetractionDOI": "10.1016/j.jacc.2013.03.006",
-      "RetractionPubMedID": "2372903.0",
-      "OriginalPaperDate": "12/22/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.jacc.2010.06.052",
-      "OriginalPaperPubMedID": "21185503.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/4/2011 0:00",
+      "retractiondoi": "10.1016/j.jacc.2013.03.006",
+      "retractionpubmedid": "2372903.0",
+      "originalpaperdate": "12/22/2010 0:00",
+      "originalpaperdoi": "10.1016/j.jacc.2010.06.052",
+      "originalpaperpubmedid": "21185503.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Methods",
         "+Error in Results and/or Conclusions",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345acc",
-      "Record ID": "38656",
-      "Title": "Differential modification of p27Kip1 controls its cyclin D-cdk4 inhibitory activity",
-      "Subject": [
+      "_id": "687cf0d51f662220d899402c",
+      "recordId": "1141",
+      "title": "Vitamin D Levels do not Predict Cardiovascular Events in Statin-treated Patients with Stable Coronary Disease",
+      "subject": [
         "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Nutrition"
       ],
-      "Institution": [
-        "Program in Molecular and Cellular Biology of the School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York 11203",
-        "Departments of Pediatrics and Anatomy and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York 11203"
+      "institution": [
+        "University of Alabama at Birmingham, Birmingham, AL, USA",
+        "Emory University, Atlanta, GA, USA",
+        "San Francisco General Hospital, San Francisco, CA, USA",
+        "Pfizer Inc, New York, NY, USA",
+        "State University of New York Health Science Center, Brooklyn, NY, USA"
       ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "American Heart Journal",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Milissa K James",
-        "Arpita Ray",
-        "Dina Leznova",
-        "Stacy W Blain"
+      "author": [
+        "Vera Bittner",
+        "Nanette K Wenger",
+        "David D Waters",
+        "David A DeMicco",
+        "Michael Messig",
+        "John C LaRosa"
       ],
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/22/2022 0:00",
-      "RetractionDOI": "10.1128/mcb.00323-22",
-      "RetractionPubMedID": "35993718.0",
-      "OriginalPaperDate": "1/1/2008 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.02171-06",
-      "OriginalPaperPubMedID": "17908796.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Company/Institution",
-        "+Legal Reasons and/or Threats"
+      "retractiondate": "7/1/2013 0:00",
+      "retractiondoi": "10.1016/j.ahj.2013.06.001",
+      "retractionpubmedid": "23977712.0",
+      "originalpaperdate": "9/1/2012 0:00",
+      "originalpaperdoi": "10.1016/j.ahj.2012.06.016",
+      "originalpaperpubmedid": "22980306.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2008,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345acb",
-      "Record ID": "38657",
-      "Title": "Brk/Protein Tyrosine Kinase 6 Phosphorylates p27KIP1, Regulating the Activity of Cyclin D\u2013Cyclin-Dependent Kinase 4",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
+      "_id": "687cf0d71f662220d89943b0",
+      "recordId": "221",
+      "title": "Directed Conversion of Alzheimer's Disease Patient Skin Fibroblasts Into Functional Neurons",
+      "subject": [
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience"
       ],
-      "Institution": [
-        "School of Graduate Studies, SUNY Downstate Medical Center, Brooklyn, New York, USA",
-        "Institute of Medical Microbiology and Hygiene, University of Regensburg, Regensburg, Germany",
-        "Departments of Pediatrics and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York, USA",
-        "College of Medicine, SUNY Downstate Medical Center, Brooklyn, New York, USA",
-        "Department of Biochemistry and Molecular Genetics, University of Illinois at Chicago, Chicago, Illinois, USA"
+      "institution": [
+        "Departments of Pathology, Cell Biology and Neurology, and Taub Institute, Columbia University, Black Building 1208, 650 West 168th Street, New York, NY 10032, USA",
+        "The Robert F. Furchgott Center for Neural and Behavioral Science. Department of Neurology and Pharmacology & Physiology, State University of New York Downstate Medical Center, U.S.A"
       ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
-        "Germany",
+      "journal": "Cell",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Priyank Patel",
-        "Benedikt Asbach",
-        "Elina Shteyn",
-        "Cindy Gomez",
-        "Alexander Coltoff",
-        "Sadia Bhuyan",
-        "Angela L Tyner",
-        "Ralf Wagner",
-        "Stacy W Blain"
+      "author": [
+        "Liang Qiang",
+        "Ryousuke Fujita",
+        "Toru Yamashita",
+        "Sergio Angulo",
+        "Herve Rhinn",
+        "David Rhee",
+        "Claudia Doege",
+        "Lily Chau",
+        "William B. Vanti",
+        "Herman Moreno",
+        "Asa Abeliovich"
       ],
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/04/11/fraud-fells-alzheimers-made-to-order-neurons-paper-in-cell/;http://retractionwatch.com/2015/04/07/former-columbia-postdoc-faked-alzheimers-research-in-cell-and-nature/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/22/2022 0:00",
-      "RetractionDOI": "10.1128/mcb.00322-22",
-      "RetractionPubMedID": "35993717.0",
-      "OriginalPaperDate": "3/2/2015 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.01206-14",
-      "OriginalPaperPubMedID": "25733683.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Company/Institution",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a62b",
-      "Record ID": "19285",
-      "Title": "Structures of Apolipoprotein A-II and a Lipid\u2013Surrogate Complex Provide Insights into Apolipoprotein\u2013Lipid Interactions",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Center for Biophysical Sciences and Engineering, University of Alabama at Birmingham, 1530 3rd Avenue South, Birmingham, Alabama 35294 Department of Anatomy and Cell Biology, SUNY Downstate Medical Center, Brooklyn, New York 11210",
-        "Department of Pediatrics, SUNY Downstate Medical Center, Brooklyn, New York 11210"
-      ],
-      "Journal": "Biochemistry",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "M Suresh Kumar",
-        "M Carson",
-        "M Mahmood Hussain",
-        "H M Krishna Murthy"
-      ],
-      "URLS": "http://retractionwatch.com/2018/04/10/infamous-case-of-fraud-by-protein-crystallographer-ends-in-10-year-funding-ban/;http://retractionwatch.com/?s=krishna+murthy",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/3/2018 0:00",
-      "RetractionDOI": "10.1021/acs.biochem.8b00956",
-      "RetractionPubMedID": "30278611.0",
-      "OriginalPaperDate": "9/7/2002 0:00",
-      "OriginalPaperDOI": "10.1021/bi026069w",
-      "OriginalPaperPubMedID": "12269810.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/10/2014 0:00",
+      "retractiondoi": "10.1016/j.cell.2014.03.002",
+      "retractionpubmedid": "24843893.0",
+      "originalpaperdate": "8/5/2011 0:00",
+      "originalpaperdoi": "10.1016/j.cell.2011.07.007",
+      "originalpaperpubmedid": "21816272.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Ethical Violations by Author",
         "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by ORI",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
+        "+Falsification/Fabrication of Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -799,10 +812,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -810,10 +823,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

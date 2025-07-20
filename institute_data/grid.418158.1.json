@@ -1,115 +1,56 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068789fa",
+    "_id": "687ccbab09adbf7aa61b961b",
     "grid_id": "grid.418158.1",
     "institute_name": "Roche (United States)",
     "country": "United States",
     "retracted_record_ids": [
-      "4400",
       "50356",
-      "20193",
       "19410",
-      "11629",
-      "21342"
+      "20193",
+      "4400",
+      "21342",
+      "11629"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234dfd3",
-      "Record ID": "4400",
-      "Title": "Characterizing monoclonal antibody structure by carbodiimide/GEE footprinting",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology",
-        "(HSC) Medicine - Drug Design"
-      ],
-      "Institution": [
-        "Center for Proteomics and Bioinformatics",
-        "Case Western Reserve University",
-        "Cleveland, OH USA",
-        "NeoProteomics, Inc.",
-        "Cleveland, OH USA",
-        "Center for Synchrotron Biosciences,School of Medicine",
-        "Case Western Reserve University",
-        "Cleveland, OH USA",
-        "Protein Analytical Chemistry",
-        "Genentech, Inc.",
-        "South San Francisco, CA USA"
-      ],
-      "Journal": "mAbs",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Parminder Kaur",
-        "Sara Tomechko",
-        "Janna Kiselar",
-        "Wuxian Shi",
-        "Galahad Deperalta",
-        "Aaron T Wecksler",
-        "Giridharan Gokulrangan",
-        "Victor Ling",
-        "Mark R Chance"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2015 0:00",
-      "RetractionDOI": "10.1080/19420862.2015.1038200",
-      "RetractionPubMedID": "25933351.0",
-      "OriginalPaperDate": "11/14/2014 0:00",
-      "OriginalPaperDOI": "10.4161/19420862.2014.975096",
-      "OriginalPaperPubMedID": "25484052.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Retract and Replace"
-      ],
-      "Paywalled": "No",
-      "Notes": "see:https://www.tandfonline.com/doi/full/10.1080/19420862.2015.1023683?src=recsys",
-      "notice_year": 2015,
-      "year": 2014,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2342d4d",
-      "Record ID": "50356",
-      "Title": "APP binds DR6 to trigger axon pruning and neuron death via distinct caspases",
-      "Subject": [
+      "_id": "687cef8c1f662220d8988133",
+      "recordId": "50356",
+      "title": "APP binds DR6 to trigger axon pruning and neuron death via distinct caspases",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Division of Research, Genentech, Inc., 1 DNA Way, South San Francisco, California 94080, USA",
         "Molecular Neurobiology Laboratory, The Salk Institute, 10010 North Torrey Pines Road, La Jolla, California 92037, USA"
       ],
-      "Journal": "Nature",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Anatoly Nikolaev",
         "Todd McLaughlin",
         "Dennis D M O\u2019Leary",
         "Marc Tessier-Lavigne"
       ],
-      "URLS": "https://retractionwatch.com/2023/12/18/former-stanford-president-retracts-nature-paper-as-another-gets-expression-of-concern/;https://retractionwatch.com/?s=Marc+Tessier-Lavigne",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2023/12/18/former-stanford-president-retracts-nature-paper-as-another-gets-expression-of-concern/;https://retractionwatch.com/?s=Marc+Tessier-Lavigne",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/18/2023 0:00",
-      "RetractionDOI": "10.1038/s41586-023-06943-3",
-      "RetractionPubMedID": "38110576.0",
-      "OriginalPaperDate": "2/19/2009 0:00",
-      "OriginalPaperDOI": "10.1038/nature07767",
-      "OriginalPaperPubMedID": "19225519.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/18/2023 0:00",
+      "retractiondoi": "10.1038/s41586-023-06943-3",
+      "retractionpubmedid": "38110576.0",
+      "originalpaperdate": "2/19/2009 0:00",
+      "originalpaperdoi": "10.1038/nature07767",
+      "originalpaperpubmedid": "19225519.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
@@ -118,17 +59,69 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/B6410F2AF1398E6F379B244E7520A1",
-      "notice_year": 2023,
-      "year": 2009,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/B6410F2AF1398E6F379B244E7520A1",
+      "year": "2009",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a2a3",
-      "Record ID": "20193",
-      "Title": "Using the Healthy Days Measure to Assess Factors Associated with Poor Health-Related Quality of Life for Patients with Metastatic Breast, Lung, or Colorectal Cancer Enrolled in a Medicare Advantage Health Plan",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f214",
+      "recordId": "21342",
+      "title": "LOX-Mediated Collagen Cross-linking Is Responsible for Fibrosis-Enhanced Metastasis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen, Denmark",
+        "Hypoxia and Metastasis Team, Division of Cancer Biology, The Institute of Cancer Research, London, United Kingdom",
+        "Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, United Kingdom",
+        "Inflammation Discovery, Hoffmann La Roche, Nutley, New Jersey"
+      ],
+      "journal": "Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "Denmark",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Thomas R Cox",
+        "Demelza Bird",
+        "Ann Marie Baker",
+        "Holly E Barker",
+        "Melisa W Y Ho",
+        "Georgina Lang",
+        "Janine T Erler"
+      ],
+      "urls": "http://retractionwatch.com/2018/03/22/figures-in-cancer-paper-at-root-of-newly-failed-compound-called-into-question/;http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/1/2019 0:00",
+      "retractiondoi": "10.1158/0008-5472.CAN-19-2419",
+      "retractionpubmedid": "31575632.0",
+      "originalpaperdate": "1/23/2013 0:00",
+      "originalpaperdoi": "10.1158/0008-5472.CAN-12-2233",
+      "originalpaperpubmedid": "23345161.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f689",
+      "recordId": "20193",
+      "title": "Using the Healthy Days Measure to Assess Factors Associated with Poor Health-Related Quality of Life for Patients with Metastatic Breast, Lung, or Colorectal Cancer Enrolled in a Medicare Advantage Health Plan",
+      "subject": [
         "(B/T) Government",
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Gastroenterology",
@@ -137,17 +130,17 @@
         "(HSC) Medicine - Pulmonology",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Comprehensive Health Insights, Humana, Inc., Louisville, Kentucky",
         "Genentech, Inc., South San Francisco, California",
         "Humana, Inc., Louisville, Kentucky"
       ],
-      "Journal": "Population Health Management",
-      "Publisher": "Mary Ann Liebert",
-      "Country": [
+      "journal": "Population Health Management",
+      "publisher": "Mary Ann Liebert",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Adrianne Waldman Casebeer",
         "Dana Drzayich Antol",
         "Sari Hopson",
@@ -159,49 +152,50 @@
         "Stephen Stemkowski",
         "Mikele Bunce"
       ],
-      "URLS": "https://retractionwatch.com/?s=%22MMAS+%22",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=%22MMAS+%22",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/27/2019 0:00",
-      "RetractionDOI": "10.1089/pop.2018.0024.retract",
-      "RetractionPubMedID": "30917095.0",
-      "OriginalPaperDate": "11/28/2018 0:00",
-      "OriginalPaperDOI": "10.1089/pop.2018.0024",
-      "OriginalPaperPubMedID": "30562143.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/27/2019 0:00",
+      "retractiondoi": "10.1089/pop.2018.0024.retract",
+      "retractionpubmedid": "30917095.0",
+      "originalpaperdate": "11/28/2018 0:00",
+      "originalpaperdoi": "10.1089/pop.2018.0024",
+      "originalpaperpubmedid": "30562143.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Copyright Claims",
         "+Lack of Approval from Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a5ae",
-      "Record ID": "19410",
-      "Title": "A First-in-Human Phase I Study of the ATP-Competitive AKT Inhibitor Ipatasertib Demonstrates Robust and Safe Targeting of AKT in Patients with Solid Tumors",
-      "Subject": [
+      "_id": "687cf08f1f662220d898f994",
+      "recordId": "19410",
+      "title": "A First-in-Human Phase I Study of the ATP-Competitive AKT Inhibitor Ipatasertib Demonstrates Robust and Safe Targeting of AKT in Patients with Solid Tumors",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Medical Oncology Department, Vall d'Hebron University Hospital, Vall d'Hebron Institute of Oncology (VHIO), Universitat Aut\u00f2noma de Barcelona, Barcelona, Spain",
         "Hematology and Medical Oncology Department, Biomedical Research Institute INCLIVA, University of Valencia, Valencia, Spain",
         "Radiology Department, Biomedical Research Institute INCLIVA, University of Valencia, Valencia, Spain",
         "Genentech, Inc., South San Francisco, California"
       ],
-      "Journal": "Cancer Discovery",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Cancer Discovery",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "Spain",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Cristina Saura",
         "Desamparados Roda",
         "Susana Rosello",
@@ -224,36 +218,37 @@
         "Josep Tabernero",
         "Andres Cervantes"
       ],
-      "URLS": "http://retractionwatch.com/2018/10/12/more-than-a-dozen-papers-by-sloan-kettering-researchers-have-now-been-updated-with-financial-disclosures/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2018/10/12/more-than-a-dozen-papers-by-sloan-kettering-researchers-have-now-been-updated-with-financial-disclosures/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/1/2018 0:00",
-      "RetractionDOI": "10.1158/2159-8290.CD-18-1114",
-      "RetractionPubMedID": "30385525.0",
-      "OriginalPaperDate": "11/21/2016 0:00",
-      "OriginalPaperDOI": "10.1158/2159-8290.CD-16-0512",
-      "OriginalPaperPubMedID": "27872130.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "11/1/2018 0:00",
+      "retractiondoi": "10.1158/2159-8290.CD-18-1114",
+      "retractionpubmedid": "30385525.0",
+      "originalpaperdate": "11/21/2016 0:00",
+      "originalpaperdoi": "10.1158/2159-8290.CD-16-0512",
+      "originalpaperpubmedid": "27872130.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Conflict of Interest"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2016,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c3ed",
-      "Record ID": "11629",
-      "Title": "Inactivation of PI(3)K p110delta breaks regulatory T-cell-mediated immune tolerance to cancer",
-      "Subject": [
+      "_id": "687cf0b01f662220d89917d3",
+      "recordId": "11629",
+      "title": "Inactivation of PI(3)K p110delta breaks regulatory T-cell-mediated immune tolerance to cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "UCL Cancer Institute, Paul O\u2019Gorman Building, University College London, London",
         "Laboratory of Lymphocyte Signalling and Development, The Babraham Institute, Babraham Research Campus, Cambridge",
         "Centre for Cancer and Inflammation, Barts Cancer Institute, Queen Mary University of London, London",
@@ -261,13 +256,13 @@
         "Piramed Pharma, Slough, Berkshire",
         "Cancer Signaling and Translational Oncology, Genentech Inc, South San Francisco, California"
       ],
-      "Journal": "Nature",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Nature Publishing Group",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Khaled Ali",
         "Dalya R Soond",
         "Roberto Pi\u00f1eiro",
@@ -283,18 +278,18 @@
         "Claus Okkenhaug",
         "Bart Vanhaesebroeck"
       ],
-      "URLS": "http://retractionwatch.com/2016/06/27/investigation-raises-questions-about-top-cancer-researchers-work/;http://retractionwatch.com/2016/08/08/uk-doctor-banned-from-practice-after-fabricating-data-in-grant-applications/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/06/27/investigation-raises-questions-about-top-cancer-researchers-work/;http://retractionwatch.com/2016/08/08/uk-doctor-banned-from-practice-after-fabricating-data-in-grant-applications/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/6/2016 0:00",
-      "RetractionDOI": "10.1038/nature17641",
-      "RetractionPubMedID": "27049952.0",
-      "OriginalPaperDate": "6/11/2014 0:00",
-      "OriginalPaperDOI": "10.1038/nature13444",
-      "OriginalPaperPubMedID": "24919154.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "4/6/2016 0:00",
+      "retractiondoi": "10.1038/nature17641",
+      "retractionpubmedid": "27049952.0",
+      "originalpaperdate": "6/11/2014 0:00",
+      "originalpaperdoi": "10.1038/nature13444",
+      "originalpaperpubmedid": "24919154.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Falsification/Fabrication of Image",
         "+Investigation by Company/Institution",
@@ -302,137 +297,148 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Queen Mary University of London and General Medical Council investigated Thorsten Hagemann",
-      "notice_year": 2016,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Queen Mary University of London and General Medical Council investigated Thorsten Hagemann",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349e2e",
-      "Record ID": "21342",
-      "Title": "LOX-Mediated Collagen Cross-linking Is Responsible for Fibrosis-Enhanced Metastasis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular"
+      "_id": "687cf0c71f662220d89933b9",
+      "recordId": "4400",
+      "title": "Characterizing monoclonal antibody structure by carbodiimide/GEE footprinting",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Drug Design"
       ],
-      "Institution": [
-        "Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen, Denmark",
-        "Hypoxia and Metastasis Team, Division of Cancer Biology, The Institute of Cancer Research, London, United Kingdom",
-        "Cancer Research UK Tumour Cell Signalling Unit, The Institute of Cancer Research, London, United Kingdom",
-        "Inflammation Discovery, Hoffmann La Roche, Nutley, New Jersey"
+      "institution": [
+        "Center for Proteomics and Bioinformatics",
+        "Case Western Reserve University",
+        "Cleveland, OH USA",
+        "NeoProteomics, Inc.",
+        "Cleveland, OH USA",
+        "Center for Synchrotron Biosciences,School of Medicine",
+        "Case Western Reserve University",
+        "Cleveland, OH USA",
+        "Protein Analytical Chemistry",
+        "Genentech, Inc.",
+        "South San Francisco, CA USA"
       ],
-      "Journal": "Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "Denmark",
-        "United Kingdom",
+      "journal": "mAbs",
+      "publisher": "Taylor and Francis",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Thomas R Cox",
-        "Demelza Bird",
-        "Ann Marie Baker",
-        "Holly E Barker",
-        "Melisa W Y Ho",
-        "Georgina Lang",
-        "Janine T Erler"
+      "author": [
+        "Parminder Kaur",
+        "Sara Tomechko",
+        "Janna Kiselar",
+        "Wuxian Shi",
+        "Galahad Deperalta",
+        "Aaron T Wecksler",
+        "Giridharan Gokulrangan",
+        "Victor Ling",
+        "Mark R Chance"
       ],
-      "URLS": "http://retractionwatch.com/2018/03/22/figures-in-cancer-paper-at-root-of-newly-failed-compound-called-into-question/;http://retractionwatch.com/2020/03/23/nature-paper-on-cancer-retracted-after-years-of-scrutiny/",
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/1/2019 0:00",
-      "RetractionDOI": "10.1158/0008-5472.CAN-19-2419",
-      "RetractionPubMedID": "31575632.0",
-      "OriginalPaperDate": "1/23/2013 0:00",
-      "OriginalPaperDOI": "10.1158/0008-5472.CAN-12-2233",
-      "OriginalPaperPubMedID": "23345161.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Investigation by Journal/Publisher"
+      "retractiondate": "5/1/2015 0:00",
+      "retractiondoi": "10.1080/19420862.2015.1038200",
+      "retractionpubmedid": "25933351.0",
+      "originalpaperdate": "11/14/2014 0:00",
+      "originalpaperdoi": "10.4161/19420862.2014.975096",
+      "originalpaperpubmedid": "25484052.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see:https://www.tandfonline.com/doi/full/10.1080/19420862.2015.1023683?src=recsys",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -440,10 +446,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

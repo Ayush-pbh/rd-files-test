@@ -1,36 +1,83 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879f71",
+    "_id": "687ccbab09adbf7aa61bab92",
     "grid_id": "grid.419172.8",
     "institute_name": "Instituto Nacional de Cardiolog\u00eda",
     "country": "Mexico",
     "retracted_record_ids": [
-      "3038",
-      "5730"
+      "5730",
+      "3038"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e505",
-      "Record ID": "3038",
-      "Title": "Spirolactone prevents renal dysfunction and fibrosis induced by tacrolimus",
-      "Subject": [
+      "_id": "687cf0c31f662220d8992ea1",
+      "recordId": "5730",
+      "title": "Vestibular Function Interferes in Cardiovascular Reflexes. (corrected from Autonomic function interferes in cardiovascular reflexes)",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Unidad de Investigaci\u00f3n M\u00e9dica (UIM), Hospital General (HG), Centro M\u00e9dico Nacional La Raza (CMN La Raza), Instituto Mexicano del Seguro Social (IMSS), Mexico City, Mexico",
+        "Departamento de Electrofisiologi\u00b4a, Instituto Nacional de Cardiologi\u00b4a Ignacio Ch\u00e1vez (INC), Secretari\u00b4a de Salud (SSA), Mexico City, Mexico",
+        "Departamento de Audiologi\u00b4a y Otoneurologi\u00b4a, Hospital General, CMN La Raza, IMSS, Mexico City, Mexico",
+        "Academic Department of Neuro-otology, Division of Neurosciences, Imperial College, Charing Cross Hospital, London, UK"
+      ],
+      "journal": "Archives of Medical Research",
+      "publisher": "Elsevier",
+      "country": [
+        "Mexico",
+        "United Kingdom"
+      ],
+      "author": [
+        "Kathrine J\u00e1uregui-Renaud",
+        "Antonio G Hermosillo",
+        "Ang\u00e9lica G\u00f3mez",
+        "Manlio F M\u00e1rquez",
+        "Manuel C\u00e1rdenas",
+        "Adolfo M Bronstein"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/30/2003 0:00",
+      "retractiondoi": "10.1016/j.arcmed.2003.08.002",
+      "retractionpubmedid": "14567399.0",
+      "originalpaperdate": "6/30/2003 0:00",
+      "originalpaperdoi": "10.1016/S0188-4409(03)00023-7",
+      "originalpaperpubmedid": "14567399.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "notes": "correction to title;",
+      "year": "2003",
+      "noticeYear": "2003",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d89938eb",
+      "recordId": "3038",
+      "title": "Spirolactone prevents renal dysfunction and fibrosis induced by tacrolimus",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Endocrinology",
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "Molecular Physiology Unit, Instituto de Investigaciones Biom\u00e9dicas, Universidad Nacional Aut\u00f3noma de M\u00e9xico",
         "Instituto Nacional de Ciencias M\u00e9dicas y Nutrici\u00f3n Salvador Zubir\u00e1n",
         "Departamento de Nefrolog\u00eda, Instituto Nacional de Cardiolog\u00eda Ignacio Ch\u00e1vez"
       ],
-      "Journal": "American Journal of Physiology - Renal Physiology",
-      "Publisher": "APS: American Physiological Society",
-      "Country": [
+      "journal": "American Journal of Physiology - Renal Physiology",
+      "publisher": "APS: American Physiological Society",
+      "country": [
         "Mexico"
       ],
-      "Author": [
+      "author": [
         "Joyce Trujillo",
         "Victoria Ramirez",
         "Itandehui Bautista",
@@ -39,93 +86,48 @@
         "Gerardo Gamba",
         "Norma A Bobadilla"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/1/2011 0:00",
-      "RetractionDOI": "10.1152/ajprenal.00155.2011",
-      "RetractionPubMedID": "21715472.0",
-      "OriginalPaperDate": "6/29/2011 0:00",
-      "OriginalPaperDOI": "10.1152/ajprenal.00155.2011",
-      "OriginalPaperPubMedID": "21715472.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2011 0:00",
+      "retractiondoi": "10.1152/ajprenal.00155.2011",
+      "retractionpubmedid": "21715472.0",
+      "originalpaperdate": "6/29/2011 0:00",
+      "originalpaperdoi": "10.1152/ajprenal.00155.2011",
+      "originalpaperpubmedid": "21715472.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234dabb",
-      "Record ID": "5730",
-      "Title": "Vestibular Function Interferes in Cardiovascular Reflexes. (corrected from Autonomic function interferes in cardiovascular reflexes)",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "Unidad de Investigaci\u00f3n M\u00e9dica (UIM), Hospital General (HG), Centro M\u00e9dico Nacional La Raza (CMN La Raza), Instituto Mexicano del Seguro Social (IMSS), Mexico City, Mexico",
-        "Departamento de Electrofisiologi\u00b4a, Instituto Nacional de Cardiologi\u00b4a Ignacio Ch\u00e1vez (INC), Secretari\u00b4a de Salud (SSA), Mexico City, Mexico",
-        "Departamento de Audiologi\u00b4a y Otoneurologi\u00b4a, Hospital General, CMN La Raza, IMSS, Mexico City, Mexico",
-        "Academic Department of Neuro-otology, Division of Neurosciences, Imperial College, Charing Cross Hospital, London, UK"
-      ],
-      "Journal": "Archives of Medical Research",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Mexico",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Kathrine J\u00e1uregui-Renaud",
-        "Antonio G Hermosillo",
-        "Ang\u00e9lica G\u00f3mez",
-        "Manlio F M\u00e1rquez",
-        "Manuel C\u00e1rdenas",
-        "Adolfo M Bronstein"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/30/2003 0:00",
-      "RetractionDOI": "10.1016/j.arcmed.2003.08.002",
-      "RetractionPubMedID": "14567399.0",
-      "OriginalPaperDate": "6/30/2003 0:00",
-      "OriginalPaperDOI": "10.1016/S0188-4409(03)00023-7",
-      "OriginalPaperPubMedID": "14567399.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "Notes": "correction to title;",
-      "notice_year": 2003,
-      "year": 2003,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

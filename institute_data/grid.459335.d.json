@@ -1,32 +1,530 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687840c",
+    "_id": "687ccbab09adbf7aa61b902d",
     "grid_id": "grid.459335.d",
     "institute_name": "Affiliated Hospital of Shandong Academy of Medical Sciences",
     "country": "China",
     "retracted_record_ids": [
-      "5592",
-      "7353",
-      "7235",
-      "12942",
-      "7298",
-      "7351",
-      "7299",
       "57447",
+      "7299",
+      "7298",
       "5597",
-      "5598"
+      "7351",
+      "7235",
+      "5598",
+      "5592",
+      "12942",
+      "7353"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234db43",
-      "Record ID": "5592",
-      "Title": "CXCR4 Signaling Induced Epithelial-Mesenchymal Transition by PI3K/AKT and ERK Pathways in Glioblastoma",
-      "Subject": [
+      "_id": "687cef711f662220d898659c",
+      "recordId": "57447",
+      "title": "Ligustrazine inhibits the proliferation and migration of ovarian cancer cells via regulating miR-211",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Department of Obstetrics and Gynecology, Shandong Provincial Third Hospital, Cheeloo College of Medicine, Shandong University, Jinan 250031, China",
+        "Department of Internal Medicine, The Third Affiliated Hospital of Shandong First Medical University, Jinan 250031, China",
+        "Department of Internal Medicine, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan 250031, China",
+        "Department of Pathology, Shandong University of Traditional Chinese Medicine, Jinan 250355, China"
+      ],
+      "journal": "Bioscience Reports",
+      "publisher": "Portland Press",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hairong Zhang",
+        "Shichao Ding",
+        "Lei Xia"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/7/2024 0:00",
+      "retractiondoi": "10.1042/BSR-2020-0199_RET",
+      "retractionpubmedid": "39373337.0",
+      "originalpaperdate": "1/5/2021 0:00",
+      "originalpaperdoi": "10.1042/BSR20200199",
+      "originalpaperpubmedid": "33245099.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Euphemisms for Plagiarism",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Objections by Author(s)",
+        "+Paper Mill",
+        "+Plagiarism of Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/D4DBD6DEC469ECEAC988F1D70E3A8F",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0a81f662220d89912b6",
+      "recordId": "12942",
+      "title": "BMP2-Smad-Mediated SH-SY5Y Neuroblastoma Cell Proliferation and Neurite Outgrowth Are Regulated Through Dynamin-Dependent Endocytosis",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Shandong University School of Medicine, Jinan, China",
+        "Department of Neurosurgery, Peking Union Medical College Hospital, Beijing, China",
+        "Department of Thoracic Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of Tumor Medicine, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "6.Department of General Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
+      ],
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiangshan Yang",
+        "Shunzeng Lv",
+        "Daotang Li",
+        "Wenyuan Lv",
+        "Kaixi Fan",
+        "Lijun Sheng",
+        "Ranran Shi",
+        "Jing Zhang",
+        "Man Feng",
+        "Zhongfa Xu"
+      ],
+      "urls": "http://retractionwatch.com/2016/05/26/cancer-researchers-we-took-data-from-another-lab/;http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/1/2016 0:00",
+      "retractiondoi": "10.1007/s12035-014-8896-1",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/14/2014 0:00",
+      "originalpaperdoi": "10.1007/s12035-014-8896-1",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Data",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d8992865",
+      "recordId": "7353",
+      "title": "The Clinical Implications of Human Telomerase Reverse Transcriptase Expression in Grade and Prognosis of Gliomas: a Systematic Review and Meta-analysis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Dean\u2019s Office, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of Special Inspection, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "The Sixth Department of Intern Medicine, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of Nursing, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of Gynecology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
+      ],
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Jing Li",
+        "Huiying Li",
+        "Jihong Liu",
+        "Bin Feng",
+        "Man Feng",
+        "Baoyu Lv",
+        "Shaomei Cheng",
+        "Xiangshan Yang"
+      ],
+      "urls": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
+      "articletype": [
+        "Meta-Analysis",
+        "Review Article"
+      ],
+      "retractiondate": "5/12/2017 0:00",
+      "retractiondoi": "10.1007/s12035-017-0603-6",
+      "retractionpubmedid": "28497203.0",
+      "originalpaperdate": "4/21/2015 0:00",
+      "originalpaperdoi": "10.1007/s12035-015-9170-x",
+      "originalpaperpubmedid": "25895660.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "notes": "See also: http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/;",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d8992867",
+      "recordId": "7351",
+      "title": "SDF-1/CXCR4 Axis Regulates Cell Cycle Progression and Epithelial-Mesenchymal Transition via Up-regulation of Survivin in Glioblastoma",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, Peking University 3rd Hospital, Beijing, China",
+        "Department of General Surgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, China",
+        "Shandong University School of Medicine, Qilu Hospital of Shandong University, Jinan, China",
+        "Department of Pathology, Qilu Hospital of Shandong University, Jinan, China",
+        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
+      ],
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Anyan Liao",
+        "Ranran Shi",
+        "Yuliang Jiang",
+        "Suqing Tian",
+        "Panpan Li",
+        "Fuxi Song",
+        "Yalan Qu",
+        "Jinna Li",
+        "Haiqin Yun",
+        "Xiangshan Yang"
+      ],
+      "urls": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/18/2017 0:00",
+      "retractiondoi": "10.1007/s12035-017-0508-4",
+      "retractionpubmedid": "28421531.0",
+      "originalpaperdate": "11/25/2014 0:00",
+      "originalpaperdoi": "10.1007/s12035-014-9006-0",
+      "originalpaperpubmedid": "25421212.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Duplication of/in Article",
+        "+Euphemisms for Duplication",
+        "+Fake Peer Review"
+      ],
+      "paywalled": "No",
+      "notes": "See also: http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d899289b",
+      "recordId": "7299",
+      "title": "The clinical utility of image-guided iodine-125 seed in patients with unresectable pancreatic cancer",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Minimally Invasive Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan"
+      ],
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Hongxin Niu",
+        "Xikun Zhang",
+        "Bin Wang",
+        "Zhao Zhou",
+        "Jian Wang",
+        "Zhongfa Xu"
+      ],
+      "urls": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "4/20/2017 0:00",
+      "retractiondoi": "10.1007/s13277-017-5487-6",
+      "retractionpubmedid": "28792236.0",
+      "originalpaperdate": "9/10/2015 0:00",
+      "originalpaperdoi": "10.1007/s13277-015-4045-3",
+      "originalpaperpubmedid": "26353858.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Journal published by SAGE starting in 2017",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d899289c",
+      "recordId": "7298",
+      "title": "The critical role of HMGA2 in regulation of EMT in epithelial ovarian carcinomas",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology"
+      ],
+      "institution": [
+        "Department of Gynaecology and Obstetrics, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, Shandong",
+        "Department of Gynaecology and Obstetrics, The Third People's Hospital of Jinan City, Jinan, Shandong"
+      ],
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Junyuan Yan",
+        "Yanling Zhang",
+        "Wenshuang Shi",
+        "Cuili Ren",
+        "Yan Liu",
+        "Yunyan Pan"
+      ],
+      "urls": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/20/2017 0:00",
+      "retractiondoi": "10.1007/s13277-017-5487-6",
+      "retractionpubmedid": "28792236.0",
+      "originalpaperdate": "8/7/2015 0:00",
+      "originalpaperdoi": "10.1007/s13277-015-3852-x",
+      "originalpaperpubmedid": "26250458.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Journal published by SAGE starting in 2017",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bd1f662220d89928db",
+      "recordId": "7235",
+      "title": "Bone morphogenetic protein 2 mediates epithelial-mesenchymal transition via AKT and ERK signaling pathways in gastric cancer",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, Peking University 3rd Hospital, Beijing",
+        "Department of Emergency Surgery, Qilu Hospital of Shandong University, Jinan, Shandong",
+        "Department of Hepatobiliary and Pancreatic Surgery, The First Hospital of Jilin University, Changchun, Jilin",
+        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, Shandong",
+        "Department of General Surgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, Shandong"
+      ],
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Anyan Liao",
+        "Weijie Wang",
+        "Dawei Sun",
+        "Yuliang Jiang",
+        "Suqing Tian",
+        "Jinna Li",
+        "Xiangshan Yang",
+        "Ranran Shi"
+      ],
+      "urls": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/20/2017 0:00",
+      "retractiondoi": "10.1007/s13277-017-5487-6",
+      "retractionpubmedid": "28792236.0",
+      "originalpaperdate": "12/3/2014 0:00",
+      "originalpaperdoi": "10.1007/s13277-014-2901-1",
+      "originalpaperpubmedid": "25448881.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Journal published by SAGE starting in 2017",
+      "year": "2014",
+      "noticeYear": "2017",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f24",
+      "recordId": "5598",
+      "title": "The Clinical Utility of Matrix Metalloproteinase 9 in Evaluating Pathological Grade and Prognosis of Glioma Patients: A Meta-Analysis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Shandong University School of Medicine, Jinan, China",
+        "Department of Obstetrics and Gynecology, Peking Union Medical College Hospita, lChinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
+        "Department of Thoracic Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of General Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
+      ],
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiangshan Yang",
+        "Shunzeng Lv",
+        "Yuting Liu",
+        "Daotang Li",
+        "Ranran Shi",
+        "Zhenyu Tang",
+        "Jianzhen Fan",
+        "Zhongfa Xu"
+      ],
+      "urls": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "4/1/2017 0:00",
+      "retractiondoi": "10.1007/s12035-017-0408-7",
+      "retractionpubmedid": "28108858.0",
+      "originalpaperdate": "8/1/2015 0:00",
+      "originalpaperdoi": "10.1007/s12035-014-8850-2",
+      "originalpaperpubmedid": "25108671.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Ethical Violations by Author",
+        "+Fake Peer Review",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f25",
+      "recordId": "5597",
+      "title": "The Clinical Implications of Transforming Growth Factor Beta in Pathological Grade and Prognosis of Glioma Patients: A Meta-Analysis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Pathology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Shandong University School of Medicine, Jinan, China",
+        "Department of Breast Surgery, Peking Union Medical College Hospital, Beijing, China",
+        "Department of Obstetrics and Gynecology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China",
+        "Department of Thoracic Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
+        "Department of General Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
+      ],
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xiangshan Yang",
+        "Shunzeng Lv",
+        "Xingtong Zhou",
+        "Yuting Liu",
+        "Daotang Li",
+        "Ranran Shi",
+        "Huihui Kang",
+        "Jing Zhang",
+        "Zhongfa Xu"
+      ],
+      "urls": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
+      "articletype": [
+        "Meta-Analysis"
+      ],
+      "retractiondate": "4/1/2017 0:00",
+      "retractiondoi": "10.1007/s12035-017-0411-z",
+      "retractionpubmedid": "28127695.0",
+      "originalpaperdate": "8/1/2015 0:00",
+      "originalpaperdoi": "10.1007/s12035-014-8872-9",
+      "originalpaperpubmedid": "25148935.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f29",
+      "recordId": "5592",
+      "title": "CXCR4 Signaling Induced Epithelial-Mesenchymal Transition by PI3K/AKT and ERK Pathways in Glioblastoma",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology, Shandong Cancer Hospital and Institute, Jinan, China",
         "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
         "Shandong University School of Medicine, Jinan, China",
@@ -34,12 +532,12 @@
         "Department of Oncology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
         "Department of Gynecologic Oncology, Shandong Cancer Hospital and Institute, Jinan, China"
       ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Molecular Neurobiology",
+      "publisher": "Springer",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Baoyu Lv",
         "Xiangshan Yang",
         "Shunzeng Lv",
@@ -56,547 +554,59 @@
         "Man Feng",
         "Li Zhang"
       ],
-      "URLS": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2017 0:00",
-      "RetractionDOI": "10.1007/s12035-017-0464-z",
-      "RetractionPubMedID": "28244004.0",
-      "OriginalPaperDate": "12/1/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-014-8935-y",
-      "OriginalPaperPubMedID": "25326893.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2017 0:00",
+      "retractiondoi": "10.1007/s12035-017-0464-z",
+      "retractionpubmedid": "28244004.0",
+      "originalpaperdate": "12/1/2015 0:00",
+      "originalpaperdoi": "10.1007/s12035-014-8935-y",
+      "originalpaperpubmedid": "25326893.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Duplication",
         "+False/Forged Authorship",
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d47f",
-      "Record ID": "7353",
-      "Title": "The Clinical Implications of Human Telomerase Reverse Transcriptase Expression in Grade and Prognosis of Gliomas: a Systematic Review and Meta-analysis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Dean\u2019s Office, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of Special Inspection, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "The Sixth Department of Intern Medicine, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of Nursing, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of Gynecology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
-      ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Jing Li",
-        "Huiying Li",
-        "Jihong Liu",
-        "Bin Feng",
-        "Man Feng",
-        "Baoyu Lv",
-        "Shaomei Cheng",
-        "Xiangshan Yang"
-      ],
-      "URLS": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
-      "ArticleType": [
-        "Meta-Analysis",
-        "Review Article"
-      ],
-      "RetractionDate": "5/12/2017 0:00",
-      "RetractionDOI": "10.1007/s12035-017-0603-6",
-      "RetractionPubMedID": "28497203.0",
-      "OriginalPaperDate": "4/21/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-015-9170-x",
-      "OriginalPaperPubMedID": "25895660.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/;",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d4f5",
-      "Record ID": "7235",
-      "Title": "Bone morphogenetic protein 2 mediates epithelial-mesenchymal transition via AKT and ERK signaling pathways in gastric cancer",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pathology"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, Peking University 3rd Hospital, Beijing",
-        "Department of Emergency Surgery, Qilu Hospital of Shandong University, Jinan, Shandong",
-        "Department of Hepatobiliary and Pancreatic Surgery, The First Hospital of Jilin University, Changchun, Jilin",
-        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, Shandong",
-        "Department of General Surgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, Shandong"
-      ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Anyan Liao",
-        "Weijie Wang",
-        "Dawei Sun",
-        "Yuliang Jiang",
-        "Suqing Tian",
-        "Jinna Li",
-        "Xiangshan Yang",
-        "Ranran Shi"
-      ],
-      "URLS": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/20/2017 0:00",
-      "RetractionDOI": "10.1007/s13277-017-5487-6",
-      "RetractionPubMedID": "28792236.0",
-      "OriginalPaperDate": "12/3/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-014-2901-1",
-      "OriginalPaperPubMedID": "25448881.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Journal published by SAGE starting in 2017",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234bed0",
-      "Record ID": "12942",
-      "Title": "BMP2-Smad-Mediated SH-SY5Y Neuroblastoma Cell Proliferation and Neurite Outgrowth Are Regulated Through Dynamin-Dependent Endocytosis",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Shandong University School of Medicine, Jinan, China",
-        "Department of Neurosurgery, Peking Union Medical College Hospital, Beijing, China",
-        "Department of Thoracic Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of Tumor Medicine, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "6.Department of General Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
-      ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiangshan Yang",
-        "Shunzeng Lv",
-        "Daotang Li",
-        "Wenyuan Lv",
-        "Kaixi Fan",
-        "Lijun Sheng",
-        "Ranran Shi",
-        "Jing Zhang",
-        "Man Feng",
-        "Zhongfa Xu"
-      ],
-      "URLS": "http://retractionwatch.com/2016/05/26/cancer-researchers-we-took-data-from-another-lab/;http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/1/2016 0:00",
-      "RetractionDOI": "10.1007/s12035-014-8896-1",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/14/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-014-8896-1",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Data",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2014,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d4b6",
-      "Record ID": "7298",
-      "Title": "The critical role of HMGA2 in regulation of EMT in epithelial ovarian carcinomas",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pathology"
-      ],
-      "Institution": [
-        "Department of Gynaecology and Obstetrics, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, Shandong",
-        "Department of Gynaecology and Obstetrics, The Third People's Hospital of Jinan City, Jinan, Shandong"
-      ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Junyuan Yan",
-        "Yanling Zhang",
-        "Wenshuang Shi",
-        "Cuili Ren",
-        "Yan Liu",
-        "Yunyan Pan"
-      ],
-      "URLS": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/20/2017 0:00",
-      "RetractionDOI": "10.1007/s13277-017-5487-6",
-      "RetractionPubMedID": "28792236.0",
-      "OriginalPaperDate": "8/7/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-015-3852-x",
-      "OriginalPaperPubMedID": "26250458.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Journal published by SAGE starting in 2017",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234d481",
-      "Record ID": "7351",
-      "Title": "SDF-1/CXCR4 Axis Regulates Cell Cycle Progression and Epithelial-Mesenchymal Transition via Up-regulation of Survivin in Glioblastoma",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, Peking University 3rd Hospital, Beijing, China",
-        "Department of General Surgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, China",
-        "Shandong University School of Medicine, Qilu Hospital of Shandong University, Jinan, China",
-        "Department of Pathology, Qilu Hospital of Shandong University, Jinan, China",
-        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
-      ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Anyan Liao",
-        "Ranran Shi",
-        "Yuliang Jiang",
-        "Suqing Tian",
-        "Panpan Li",
-        "Fuxi Song",
-        "Yalan Qu",
-        "Jinna Li",
-        "Haiqin Yun",
-        "Xiangshan Yang"
-      ],
-      "URLS": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/18/2017 0:00",
-      "RetractionDOI": "10.1007/s12035-017-0508-4",
-      "RetractionPubMedID": "28421531.0",
-      "OriginalPaperDate": "11/25/2014 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-014-9006-0",
-      "OriginalPaperPubMedID": "25421212.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Duplication of/in Article",
-        "+Euphemisms for Duplication",
-        "+Fake Peer Review"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "notice_year": 2017,
-      "year": 2014,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234d4b5",
-      "Record ID": "7299",
-      "Title": "The clinical utility of image-guided iodine-125 seed in patients with unresectable pancreatic cancer",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Minimally Invasive Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan"
-      ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hongxin Niu",
-        "Xikun Zhang",
-        "Bin Wang",
-        "Zhao Zhou",
-        "Jian Wang",
-        "Zhongfa Xu"
-      ],
-      "URLS": "http://retractionwatch.com/2017/04/20/new-record-major-publisher-retracting-100-studies-cancer-journal-fake-peer-reviews/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "4/20/2017 0:00",
-      "RetractionDOI": "10.1007/s13277-017-5487-6",
-      "RetractionPubMedID": "28792236.0",
-      "OriginalPaperDate": "9/10/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-015-4045-3",
-      "OriginalPaperPubMedID": "26353858.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Journal published by SAGE starting in 2017",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23411b6",
-      "Record ID": "57447",
-      "Title": "Ligustrazine inhibits the proliferation and migration of ovarian cancer cells via regulating miR-211",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Department of Obstetrics and Gynecology, Shandong Provincial Third Hospital, Cheeloo College of Medicine, Shandong University, Jinan 250031, China",
-        "Department of Internal Medicine, The Third Affiliated Hospital of Shandong First Medical University, Jinan 250031, China",
-        "Department of Internal Medicine, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan 250031, China",
-        "Department of Pathology, Shandong University of Traditional Chinese Medicine, Jinan 250355, China"
-      ],
-      "Journal": "Bioscience Reports",
-      "Publisher": "Portland Press",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Hairong Zhang",
-        "Shichao Ding",
-        "Lei Xia"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/7/2024 0:00",
-      "RetractionDOI": "10.1042/BSR-2020-0199_RET",
-      "RetractionPubMedID": "39373337.0",
-      "OriginalPaperDate": "1/5/2021 0:00",
-      "OriginalPaperDOI": "10.1042/BSR20200199",
-      "OriginalPaperPubMedID": "33245099.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Euphemisms for Plagiarism",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Objections by Author(s)",
-        "+Paper Mill",
-        "+Plagiarism of Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/D4DBD6DEC469ECEAC988F1D70E3A8F",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234db3f",
-      "Record ID": "5597",
-      "Title": "The Clinical Implications of Transforming Growth Factor Beta in Pathological Grade and Prognosis of Glioma Patients: A Meta-Analysis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Pathology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Shandong University School of Medicine, Jinan, China",
-        "Department of Breast Surgery, Peking Union Medical College Hospital, Beijing, China",
-        "Department of Obstetrics and Gynecology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China",
-        "Department of Thoracic Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of General Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
-      ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiangshan Yang",
-        "Shunzeng Lv",
-        "Xingtong Zhou",
-        "Yuting Liu",
-        "Daotang Li",
-        "Ranran Shi",
-        "Huihui Kang",
-        "Jing Zhang",
-        "Zhongfa Xu"
-      ],
-      "URLS": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "4/1/2017 0:00",
-      "RetractionDOI": "10.1007/s12035-017-0411-z",
-      "RetractionPubMedID": "28127695.0",
-      "OriginalPaperDate": "8/1/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-014-8872-9",
-      "OriginalPaperPubMedID": "25148935.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234db3e",
-      "Record ID": "5598",
-      "Title": "The Clinical Utility of Matrix Metalloproteinase 9 in Evaluating Pathological Grade and Prognosis of Glioma Patients: A Meta-Analysis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pathology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Pathology, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Shandong University School of Medicine, Jinan, China",
-        "Department of Obstetrics and Gynecology, Peking Union Medical College Hospita, lChinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
-        "Department of Thoracic Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China",
-        "Department of General Surgery, Affiliated Hospital of Shandong Academy of Medical Sciences, Jinan, China"
-      ],
-      "Journal": "Molecular Neurobiology",
-      "Publisher": "Springer",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xiangshan Yang",
-        "Shunzeng Lv",
-        "Yuting Liu",
-        "Daotang Li",
-        "Ranran Shi",
-        "Zhenyu Tang",
-        "Jianzhen Fan",
-        "Zhongfa Xu"
-      ],
-      "URLS": "http://retractionwatch.com/2017/06/14/springer-purge-fake-reviews-takes-10-neuroscience-papers/",
-      "ArticleType": [
-        "Meta-Analysis"
-      ],
-      "RetractionDate": "4/1/2017 0:00",
-      "RetractionDOI": "10.1007/s12035-017-0408-7",
-      "RetractionPubMedID": "28108858.0",
-      "OriginalPaperDate": "8/1/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s12035-014-8850-2",
-      "OriginalPaperPubMedID": "25108671.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Ethical Violations by Author",
-        "+Fake Peer Review",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2014,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 6,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 4,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -604,21 +614,21 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 8,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -626,10 +636,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,6 +1,6 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a177",
+    "_id": "687ccbab09adbf7aa61bad98",
     "grid_id": "grid.415176.0",
     "institute_name": "Ospedale Santa Chiara",
     "country": "Italy",
@@ -10,15 +10,15 @@
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234eb3a",
-      "Record ID": "1412",
-      "Title": "Long-term survival results of a randomized trial comparing gemcitabine/cisplatin and methotrexate/vinblastine/doxorubicin/cisplatin in patients with locally advanced and metastatic bladder cancer",
-      "Subject": [
+      "_id": "687cf0d31f662220d8993f20",
+      "recordId": "1412",
+      "title": "Long-term survival results of a randomized trial comparing gemcitabine/cisplatin and methotrexate/vinblastine/doxorubicin/cisplatin in patients with locally advanced and metastatic bladder cancer",
+      "subject": [
         "(HSC) Medicine - Drug Design",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology, Aarhus University Hospital, Denmark",
         "Department of Oncology, Herlev University Hospital, Denmark",
         "Northern Centre for Cancer Treatment, Newcastle General Hospital, UK",
@@ -28,16 +28,16 @@
         "The Princess Margaret Hospital, Canada",
         "Eli Lilly and Company, IN, USA"
       ],
-      "Journal": "Annals of Oncology",
-      "Publisher": "Oxford University Press",
-      "Country": [
+      "journal": "Annals of Oncology",
+      "publisher": "Oxford University Press",
+      "country": [
         "Canada",
         "Denmark",
         "Italy",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "James T Roberts",
         "Hans von der Masse",
         "Lisa Sengel\u00f8v",
@@ -48,32 +48,34 @@
         "Annamaria Zimmermann",
         "Michael Arning"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/1/2011 0:00",
-      "RetractionDOI": "10.1093/annonc/mdr479",
-      "RetractionPubMedID": "22024726.0",
-      "OriginalPaperDate": "5/1/2006 0:00",
-      "OriginalPaperDOI": "10.1093/annonc/mdj965",
-      "OriginalPaperPubMedID": "16807438.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/1/2011 0:00",
+      "retractiondoi": "10.1093/annonc/mdr479",
+      "retractionpubmedid": "22024726.0",
+      "originalpaperdate": "5/1/2006 0:00",
+      "originalpaperdoi": "10.1093/annonc/mdj965",
+      "originalpaperpubmedid": "16807438.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2006
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -81,10 +83,10 @@
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

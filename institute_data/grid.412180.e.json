@@ -1,75 +1,26 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879c8d",
+    "_id": "687ccbab09adbf7aa61ba8ae",
     "grid_id": "grid.412180.e",
     "institute_name": "H\u00f4pital \u00c9douard-Herriot",
     "country": "France",
     "retracted_record_ids": [
-      "2525",
       "17700",
+      "2525",
       "1213",
       "322"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e6fc",
-      "Record ID": "2525",
-      "Title": "Nitrogen utilization and bone mineralization in very low birth weight infants fed partially hydrolyzed preterm formula",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Pediatrics",
-        "(HSC) Nutrition"
-      ],
-      "Institution": [
-        "Neonatology and Human Nutrition Research Center, Edouard Herriot Hospital, Claude Bernard University, Lyon, France",
-        "Neonatology Department, Hopital de la Citadelle, University of Liege, Belgium"
-      ],
-      "Journal": "Seminars in Perinatology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Belgium",
-        "France"
-      ],
-      "Author": [
-        "Jean-Charles Picaud",
-        "Alexandre Lapilonne",
-        "Jacques Rigo",
-        "Sylvie Normand",
-        "Bernadette Reygrobellet",
-        "Oliver Claris",
-        "Bernard L Salle"
-      ],
-      "URLS": "http://retractionwatch.com/2013/05/31/infant-formula-paper-smells-like-salami-retracted/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/1/2013 0:00",
-      "RetractionDOI": "10.1053/j.semperi.2013.03.001",
-      "RetractionPubMedID": "23713143.0",
-      "OriginalPaperDate": "12/1/2002 0:00",
-      "OriginalPaperDOI": "10.1053/sper.2002.37317",
-      "OriginalPaperPubMedID": "12537316.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Duplication of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2002,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ac53",
-      "Record ID": "17700",
-      "Title": "Long-term outcomes of per-oral endoscopic myotomy in patients with achalasia with a minimum follow-up of 2 years: an international multicenter study",
-      "Subject": [
+      "_id": "687cf0931f662220d8990039",
+      "recordId": "17700",
+      "title": "Long-term outcomes of per-oral endoscopic myotomy in patients with achalasia with a minimum follow-up of 2 years: an international multicenter study",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Division of Gastroenterology, Johns Hopkins Hospital, Baltimore, Maryland, USA",
         "Digestive Diseases Center, Showa University Koto-Toyosu Hospital, Tokyo, Japan",
         "Prince of Wales Hospital, The Chinese University of Hong Kong, Hong Kong",
@@ -83,9 +34,9 @@
         "INSERM U1032, Lyon, France",
         "Digestive Endoscopy Unit, Division of Gastroenterology, Humanitas Research Hospital, Milan, Italy"
       ],
-      "Journal": "Gastrointestinal Endoscopy",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Gastrointestinal Endoscopy",
+      "publisher": "Elsevier",
+      "country": [
         "France",
         "Hong Kong",
         "India",
@@ -94,7 +45,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Saowanee Ngamruengphong",
         "Haruhiro Inoue",
         "Philip Wai-Yan Chiu",
@@ -128,89 +79,141 @@
         "Alessandro Repici",
         "Mouen A Khashab"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/20/2018 0:00",
-      "RetractionDOI": "10.1016/j.gie.2018.02.005",
-      "RetractionPubMedID": "29571778.0",
-      "OriginalPaperDate": "9/20/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.gie.2016.09.017",
-      "OriginalPaperPubMedID": "27663714.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/20/2018 0:00",
+      "retractiondoi": "10.1016/j.gie.2018.02.005",
+      "retractionpubmedid": "29571778.0",
+      "originalpaperdate": "9/20/2016 0:00",
+      "originalpaperdoi": "10.1016/j.gie.2016.09.017",
+      "originalpaperpubmedid": "27663714.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ebff",
-      "Record ID": "1213",
-      "Title": "Assessment of the interest of using confirmatory test in ELISA with use of high concentration of heparin-induced thrombocytopenia",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993ae2",
+      "recordId": "2525",
+      "title": "Nitrogen utilization and bone mineralization in very low birth weight infants fed partially hydrolyzed preterm formula",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Pediatrics",
+        "(HSC) Nutrition"
+      ],
+      "institution": [
+        "Neonatology and Human Nutrition Research Center, Edouard Herriot Hospital, Claude Bernard University, Lyon, France",
+        "Neonatology Department, Hopital de la Citadelle, University of Liege, Belgium"
+      ],
+      "journal": "Seminars in Perinatology",
+      "publisher": "Elsevier",
+      "country": [
+        "Belgium",
+        "France"
+      ],
+      "author": [
+        "Jean-Charles Picaud",
+        "Alexandre Lapilonne",
+        "Jacques Rigo",
+        "Sylvie Normand",
+        "Bernadette Reygrobellet",
+        "Oliver Claris",
+        "Bernard L Salle"
+      ],
+      "urls": "http://retractionwatch.com/2013/05/31/infant-formula-paper-smells-like-salami-retracted/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/1/2013 0:00",
+      "retractiondoi": "10.1053/j.semperi.2013.03.001",
+      "retractionpubmedid": "23713143.0",
+      "originalpaperdate": "12/1/2002 0:00",
+      "originalpaperdoi": "10.1053/sper.2002.37317",
+      "originalpaperpubmedid": "12537316.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Duplication of Text"
+      ],
+      "paywalled": "No",
+      "year": "2002",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d51f662220d8993fe5",
+      "recordId": "1213",
+      "title": "Assessment of the interest of using confirmatory test in ELISA with use of high concentration of heparin-induced thrombocytopenia",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Laboratoire d'h\u00e9mostase, H\u00f4pital Edouard Herriot, Lyon, France"
       ],
-      "Journal": "Annales de Biologie Clinique",
-      "Publisher": "John Libbey Eurotext",
-      "Country": [
+      "journal": "Annales de Biologie Clinique",
+      "publisher": "John Libbey Eurotext",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Karima Rissoul",
         "Mouhcine Madani",
         "Christophe Nougier",
         "Lucia Rugeri",
         "Claude Negrier"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/1/2010 0:00",
-      "RetractionPubMedID": "21972456.0",
-      "OriginalPaperDate": "9/1/2010 0:00",
-      "OriginalPaperDOI": "10.1684/abc.2010.0465",
-      "OriginalPaperPubMedID": "20870577.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/1/2010 0:00",
+      "retractionpubmedid": "21972456.0",
+      "originalpaperdate": "9/1/2010 0:00",
+      "originalpaperdoi": "10.1684/abc.2010.0465",
+      "originalpaperpubmedid": "20870577.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "Article is in French JME 02/21/2017",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "Article is in French JME 02/21/2017",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ef68",
-      "Record ID": "322",
-      "Title": "MDA-9/syntenin is Essential for Factor VIIa-induced Signaling, Migration, and Metastasis in Melanoma Cells",
-      "Subject": [
+      "_id": "687cf0d71f662220d899434e",
+      "recordId": "322",
+      "title": "MDA-9/syntenin is Essential for Factor VIIa-induced Signaling, Migration, and Metastasis in Melanoma Cells",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "EA 4174, Onco-Hematology Unit, University Claude Bernard, INSERM, Lyon 1, 69372 Lyon, France",
         "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne, CH-1015 Lausanne, Switzerland",
         "Transplantation and Clinical Immunology Department, Edouart Herriot Hospital, Lyon, France"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "France",
         "Switzerland"
       ],
-      "Author": [
+      "author": [
         "Hanaa Aissaoui",
         "C\u00e9lia Pr\u00e9vost",
         "Ahmed Boucharaba",
@@ -219,78 +222,79 @@
         "Claude N\u00e9grier",
         "Habib Boukerche"
       ],
-      "URLS": "http://retractionwatch.com/2015/11/06/authors-withdraw-two-papers-from-jbc-and-thats-all-we-know/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/11/06/authors-withdraw-two-papers-from-jbc-and-thats-all-we-know/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/23/2015 0:00",
-      "RetractionDOI": "10.1074/jbc.A114.606913",
-      "RetractionPubMedID": "26500291.0",
-      "OriginalPaperDate": "2/6/2015 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M114.606913",
-      "OriginalPaperPubMedID": "25505176.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/23/2015 0:00",
+      "retractiondoi": "10.1074/jbc.A114.606913",
+      "retractionpubmedid": "26500291.0",
+      "originalpaperdate": "2/6/2015 0:00",
+      "originalpaperdoi": "10.1074/jbc.M114.606913",
+      "originalpaperpubmedid": "25505176.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -298,10 +302,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

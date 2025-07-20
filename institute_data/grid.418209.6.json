@@ -1,39 +1,86 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879b30",
+    "_id": "687ccbab09adbf7aa61ba751",
     "grid_id": "grid.418209.6",
     "institute_name": "Deutsches Herzzentrum Berlin",
     "country": "Germany",
     "retracted_record_ids": [
-      "1739",
       "19835",
-      "474"
+      "474",
+      "1739"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e9fc",
-      "Record ID": "1739",
-      "Title": "Real-time Three-dimensional Echocardiography Integrated with Diagnostic Catheterization to Derive Left Ventricular Pressure-volume Relations: A Feasibility Study",
-      "Subject": [
+      "_id": "687cf08c1f662220d898f7ee",
+      "recordId": "19835",
+      "title": "Transcatheter Decellularized Tissue-Engineered Heart Valve (dTEHV) Grown on Polyglycolic Acid (PGA) Scaffold Coated with P4HB Shows Improved Functionality over 52 Weeks due to Polyether-Ether-Ketone (PEEK)",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Rehabilitation/Therapy",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Deutsches Herzzentrum Berlin, Department of Congenital Heart Disease, 13353 Berlin, Germany",
+        "Universit\u00e4tsmedizin G\u00f6ttingen, Herzzentrum G\u00f6ttingen, Department of Pediatric Cardiology, 37075 G\u00f6ttingen, Germany"
+      ],
+      "journal": "Journal of Functional Biomaterials",
+      "publisher": "MDPI",
+      "country": [
+        "Germany"
+      ],
+      "author": [
+        "Leon Bruder",
+        "Kerstin Brakmann",
+        "Valentin Stegner",
+        "Matthias Sigler",
+        "Felix Berger",
+        "Boris Schmitt"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/20/2019 0:00",
+      "retractiondoi": "10.3390/jfb10010008",
+      "retractionpubmedid": "30669502.0",
+      "originalpaperdate": "11/13/2018 0:00",
+      "originalpaperdoi": "10.3390/jfb9040064",
+      "originalpaperpubmedid": "30428602.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Lack of Approval from Third Party"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d31f662220d8993de2",
+      "recordId": "1739",
+      "title": "Real-time Three-dimensional Echocardiography Integrated with Diagnostic Catheterization to Derive Left Ventricular Pressure-volume Relations: A Feasibility Study",
+      "subject": [
         "(BLS) Biology - General",
         "(BLS) Anatomy/Physiology",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Division of Pediatric Cardiology, University of Nebraska Medical Center and Children's Hospital and Medical Center, Omaha, NE, USA",
         "Department of Congenital Heart Disease/Pediatric Cardiology, German Heart Institute Berlin, Augustenburger Platz 1, Berlin 13353, Germany",
         "Department of Internal Medicine, Section of Cardiology, University of Nebraska Medical Center, Omaha, NE, USA",
         "Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Center, Omaha, NE, USA"
       ],
-      "Journal": "European Heart Journal Cardiovascular Imaging (formerly known as European Journal of Echocardiography)",
-      "Publisher": "Oxford University Press",
-      "Country": [
+      "journal": "European Heart Journal Cardiovascular Imaging (formerly known as European Journal of Echocardiography)",
+      "publisher": "Oxford University Press",
+      "country": [
         "United States",
         "Germany"
       ],
-      "Author": [
+      "author": [
         "Shelby Kutty",
         "Ling Li",
         "Asif Padiyath",
@@ -46,117 +93,75 @@
         "David A Danford",
         "Titus Kuehne"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/1/2013 0:00",
-      "RetractionDOI": "10.1093/ehjci/jet078",
-      "RetractionPubMedID": "23671233.0",
-      "OriginalPaperDate": "3/1/2013 0:00",
-      "OriginalPaperDOI": "10.1093/ehjci/jes308",
-      "OriginalPaperPubMedID": "23288888.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/1/2013 0:00",
+      "retractiondoi": "10.1093/ehjci/jet078",
+      "retractionpubmedid": "23671233.0",
+      "originalpaperdate": "3/1/2013 0:00",
+      "originalpaperdoi": "10.1093/ehjci/jes308",
+      "originalpaperpubmedid": "23288888.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2013
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a408",
-      "Record ID": "19835",
-      "Title": "Transcatheter Decellularized Tissue-Engineered Heart Valve (dTEHV) Grown on Polyglycolic Acid (PGA) Scaffold Coated with P4HB Shows Improved Functionality over 52 Weeks due to Polyether-Ether-Ketone (PEEK)",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Rehabilitation/Therapy",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Deutsches Herzzentrum Berlin, Department of Congenital Heart Disease, 13353 Berlin, Germany",
-        "Universit\u00e4tsmedizin G\u00f6ttingen, Herzzentrum G\u00f6ttingen, Department of Pediatric Cardiology, 37075 G\u00f6ttingen, Germany"
-      ],
-      "Journal": "Journal of Functional Biomaterials",
-      "Publisher": "MDPI",
-      "Country": [
-        "Germany"
-      ],
-      "Author": [
-        "Leon Bruder",
-        "Kerstin Brakmann",
-        "Valentin Stegner",
-        "Matthias Sigler",
-        "Felix Berger",
-        "Boris Schmitt"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/20/2019 0:00",
-      "RetractionDOI": "10.3390/jfb10010008",
-      "RetractionPubMedID": "30669502.0",
-      "OriginalPaperDate": "11/13/2018 0:00",
-      "OriginalPaperDOI": "10.3390/jfb9040064",
-      "OriginalPaperPubMedID": "30428602.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Lack of Approval from Third Party"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234eed1",
-      "Record ID": "474",
-      "Title": "Balloon Dilatational Tracheostomy: Initial Experience with the Ciaglia Blue Dolphin Method",
-      "Subject": [
+      "_id": "687cf0d71f662220d89942b7",
+      "recordId": "474",
+      "title": "Balloon Dilatational Tracheostomy: Initial Experience with the Ciaglia Blue Dolphin Method",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cardiothoracic and Vascular Surgery, Deutsches Herzzentrum Berlin, Augustenburger Platz 1, D-13353 Berlin, Germany"
       ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "Germany"
       ],
-      "Author": [
+      "author": [
         "Tom W Gromann",
         "Oliver Birkelbach",
         "Roland Hetzer"
       ],
-      "URLS": "http://retractionwatch.com/2010/11/24/plagiarists-plagiarized-a-daisy-chain-of-retractions-at-anesthesia-analgesia/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/11/24/plagiarists-plagiarized-a-daisy-chain-of-retractions-at-anesthesia-analgesia/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "12/1/2010 0:00",
-      "RetractionDOI": "10.1213/ANE.0b013e31820099da",
-      "RetractionPubMedID": "21106973.0",
-      "OriginalPaperDate": "6/1/2009 0:00",
-      "OriginalPaperDOI": "10.1213/ane.0b013e3181a1a494",
-      "OriginalPaperPubMedID": "19448213.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2010 0:00",
+      "retractiondoi": "10.1213/ANE.0b013e31820099da",
+      "retractionpubmedid": "21106973.0",
+      "originalpaperdate": "6/1/2009 0:00",
+      "originalpaperdoi": "10.1213/ane.0b013e3181a1a494",
+      "originalpaperpubmedid": "19448213.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2009
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -164,32 +169,32 @@
     {
       "year": 2010,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -197,10 +202,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

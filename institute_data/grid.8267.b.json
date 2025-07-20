@@ -1,31 +1,448 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687895a",
+    "_id": "687ccbab09adbf7aa61b957b",
     "grid_id": "grid.8267.b",
     "institute_name": "Medical University of Lodz",
     "country": "Poland",
     "retracted_record_ids": [
-      "44538",
-      "51539",
-      "23424",
       "51633",
+      "44538",
+      "23424",
+      "51540",
+      "51549",
       "51550",
       "21511",
-      "51549",
       "51634",
-      "51540"
+      "51539"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23443f6",
-      "Record ID": "44538",
-      "Title": "Therapeutic effect of nanoliposomal PCSK9 vaccine in a mouse model of atherosclerosis",
-      "Subject": [
+      "_id": "687cef871f662220d8987c38",
+      "recordId": "51634",
+      "title": "Intracranial Osteoma: Unusual Etiology of Chronic Daily Headaches",
+      "subject": [
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Medicine, King Faisal University, Hofuf, SAU",
+        "Medicine, Qassim University, Al-Qassim, SAU",
+        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "Medicine, King Khalid University, Abha, SAU",
+        "Medicine, Medical University of Lodz, \u0141\u00f3d\u017a, POL",
+        "Medicine, University of Debrecen, Debrecen, HUN",
+        "Medicine, Taif University, Ta'if, SAU",
+        "Medicine, Umm Al-Qura University, Mecca, SAU",
+        "Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "Medicine, Dar Al Uloom University, Riyadh, SAU",
+        "Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
+        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Hungary",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Nasser S Aldandan",
+        "Amal N Al Mutairi",
+        "Talal H Almutairi",
+        "Ayman M Aboalam",
+        "Turki A Saad",
+        "Abdullah K Alshebili",
+        "Mohammad K Almihmadi",
+        "Abdullah E Alzeer",
+        "Mohammed A Alhamyani",
+        "Alya M Alhazmi",
+        "Mariam H Fardous",
+        "Ghada A Alharbi",
+        "Maryam F Oraif",
+        "Bashaer O Abdu",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "4/7/2022 0:00",
+      "retractiondoi": "10.7759/cureus.x55",
+      "retractionpubmedid": "35463608.0",
+      "originalpaperdate": "1/22/2022 0:00",
+      "originalpaperdoi": "10.7759/cureus.21488",
+      "originalpaperpubmedid": "35223266.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef871f662220d8987c39",
+      "recordId": "51633",
+      "title": "Intracranial Osteoma: Unusual Etiology of Chronic Daily Headaches",
+      "subject": [
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Medicine, King Faisal University, Hofuf, SAU",
+        "Medicine, Qassim University, Al-Qassim, SAU",
+        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "Medicine, King Khalid University, Abha, SAU",
+        "Medicine, Medical University of Lodz, \u0141\u00f3d\u017a, POL",
+        "Medicine, University of Debrecen, Debrecen, HUN",
+        "Medicine, Taif University, Ta'if, SAU",
+        "Medicine, Umm Al-Qura University, Mecca, SAU",
+        "Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "Medicine, Dar Al Uloom University, Riyadh, SAU",
+        "Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
+        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Hungary",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Nasser S Aldandan",
+        "Amal N Al Mutairi",
+        "Talal H Almutairi",
+        "Ayman M Aboalam",
+        "Turki A Saad",
+        "Abdullah K Alshebili",
+        "Mohammad K Almihmadi",
+        "Abdullah E Alzeer",
+        "Mohammed A Alhamyani",
+        "Alya M Alhazmi",
+        "Mariam H Fardous",
+        "Ghada A Alharbi",
+        "Maryam F Oraif",
+        "Bashaer O Abdu",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/25/2024 0:00",
+      "retractiondoi": "10.7759/cureus.r133",
+      "retractionpubmedid": "38274604.0",
+      "originalpaperdate": "1/22/2022 0:00",
+      "originalpaperdoi": "10.7759/cureus.21488",
+      "originalpaperpubmedid": "35223266.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Investigation by Journal/Publisher",
+        "+Lack of Approval from Author",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987c8c",
+      "recordId": "51550",
+      "title": "Giant Unruptured Internal Carotid Artery Aneurysm",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "College of Medicine, Batterjee Medical College, Jeddah, SAU",
+        "Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht, NLD",
+        "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
+        "College of Medicine, King Faisal University, Hofuf, SAU",
+        "College of Medicine, Medical University of Lodz, Lodz, POL",
+        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+        "College of Medicine, Al-Baha University, Al-Baha, SAU",
+        "College of Medicine, Qassim University, Qassim, SAU",
+        "College of Medicine, Vision Colleges, Riyadh, SAU",
+        "College of Medicine, King Khalid University, Abha, SAU",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Netherlands",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Sultan O Gohal",
+        "Abrar A Alally",
+        "Abdulaziz I Alhonaizil",
+        "Abdulelah A Alabdulwahab",
+        "Khalid S Alzahrany",
+        "Mohammed A Alomari",
+        "Faisal A Alshunaibir",
+        "Mohammed A Alsalman",
+        "Naif M Alhamyani",
+        "Hamzah M Alamri",
+        "Ali A Alharbi",
+        "Abdulmohsen J Alabood",
+        "Fahad S Alshahrani",
+        "Adam M Al Amer",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "4/7/2022 0:00",
+      "retractiondoi": "10.7759/cureus.x38",
+      "retractionpubmedid": "35463615.0",
+      "originalpaperdate": "12/15/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.20423",
+      "originalpaperpubmedid": "35047262.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987c8d",
+      "recordId": "51549",
+      "title": "Giant Unruptured Internal Carotid Artery Aneurysm",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "College of Medicine, Batterjee Medical College, Jeddah, SAU",
+        "Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht, NLD",
+        "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
+        "College of Medicine, King Faisal University, Hofuf, SAU",
+        "College of Medicine, Medical University of Lodz, Lodz, POL",
+        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+        "College of Medicine, Al-Baha University, Al-Baha, SAU",
+        "College of Medicine, Qassim University, Qassim, SAU",
+        "College of Medicine, Vision Colleges, Riyadh, SAU",
+        "College of Medicine, King Khalid University, Abha, SAU",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Netherlands",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Sultan O Gohal",
+        "Abrar A Alally",
+        "Abdulaziz I Alhonaizil",
+        "Abdulelah A Alabdulwahab",
+        "Khalid S Alzahrany",
+        "Mohammed A Alomari",
+        "Faisal A Alshunaibir",
+        "Mohammed A Alsalman",
+        "Naif M Alhamyani",
+        "Hamzah M Alamri",
+        "Ali A Alharbi",
+        "Abdulmohsen J Alabood",
+        "Fahad S Alshahrani",
+        "Adam M Al Amer",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/25/2024 0:00",
+      "retractiondoi": "10.7759/cureus.r116",
+      "retractionpubmedid": "38274633.0",
+      "originalpaperdate": "12/15/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.20423",
+      "originalpaperpubmedid": "35047262.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Investigation by Journal/Publisher",
+        "+Lack of Approval from Author",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987c96",
+      "recordId": "51540",
+      "title": "Emphysematous Cystitis: A Radiological Diagnosis of Potentially Life-Threatening Infection",
+      "subject": [
+        "(HSC) Medicine - Urology/Nephrology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "College of Medicine, University of Hail, Hail, SAU",
+        "College of Medicine, Taif University, Taif, SAU",
+        "Family Medicine, Prince Sultan Military Medical City, Riyadh, SAU",
+        "College of Medicine, Northern Border University, Arar, SAU",
+        "College of Medicine, Medical University of Lodz, Lodz, POL",
+        "College of Medicine, Majmaah University, Al Majma'ah, SAU",
+        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
+        "College of Medicine, Arabian Gulf University, Manama, BHR",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Bahrain",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Shouq A Alhusayni",
+        "Thekra H Alshammari",
+        "Abdullah A Althomali",
+        "Mishari M Alqahtani",
+        "Waad A Alanazi",
+        "Mohammed A Alghamdi",
+        "Faisal M AlDawsari",
+        "Elan M Homoud",
+        "Abdulrahman A Alharbi",
+        "Khalid E Althobaiti",
+        "Abdulrahman A Alsubaihi",
+        "Abdullah M Alsayed",
+        "Abdalmohsen M Albaqami",
+        "Ahmad M Alamer",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "4/7/2022 0:00",
+      "retractiondoi": "10.7759/cureus.x32",
+      "retractionpubmedid": "35463584.0",
+      "originalpaperdate": "12/6/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.20201",
+      "originalpaperpubmedid": "35004022.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Concerns/Issues about Third Party Involvement",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef891f662220d8987c97",
+      "recordId": "51539",
+      "title": "Emphysematous Cystitis: A Radiological Diagnosis of Potentially Life-Threatening Infection",
+      "subject": [
+        "(HSC) Medicine - Urology/Nephrology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "College of Medicine, University of Hail, Hail, SAU",
+        "College of Medicine, Taif University, Taif, SAU",
+        "Family Medicine, Prince Sultan Military Medical City, Riyadh, SAU",
+        "College of Medicine, Northern Border University, Arar, SAU",
+        "College of Medicine, Medical University of Lodz, Lodz, POL",
+        "College of Medicine, Majmaah University, Al Majma'ah, SAU",
+        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
+        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
+        "College of Medicine, Arabian Gulf University, Manama, BHR",
+        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
+      ],
+      "journal": "Cureus",
+      "publisher": "Cureus (Part of Springer Nature as of December 2022)",
+      "country": [
+        "Bahrain",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "author": [
+        "Shouq A Alhusayni",
+        "Thekra H Alshammari",
+        "Abdullah A Althomali",
+        "Mishari M Alqahtani",
+        "Waad A Alanazi",
+        "Mohammed A Alghamdi",
+        "Faisal M AlDawsari",
+        "Elan M Homoud",
+        "Abdulrahman A Alharbi",
+        "Khalid E Althobaiti",
+        "Abdulrahman A Alsubaihi",
+        "Abdullah M Alsayed",
+        "Abdalmohsen M Albaqami",
+        "Ahmad M Alamer",
+        "Faisal Al-Hawaj"
+      ],
+      "urls": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "1/25/2024 0:00",
+      "retractiondoi": "10.7759/cureus.r110",
+      "retractionpubmedid": "38274612.0",
+      "originalpaperdate": "12/6/2021 0:00",
+      "originalpaperdoi": "10.7759/cureus.20201",
+      "originalpaperpubmedid": "35004022.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+False/Forged Authorship",
+        "+Investigation by Journal/Publisher",
+        "+Lack of Approval from Author",
+        "+Unreliable Results and/or Conclusions",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "notes": "eoc overwritten by retraction and doi no longer found;",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa41f662220d89897dc",
+      "recordId": "44538",
+      "title": "Therapeutic effect of nanoliposomal PCSK9 vaccine in a mouse model of atherosclerosis",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Nanotechnology Research Center, Bu-Ali Research Institute, Mashhad University of Medical Sciences, Mashhad, Iran",
         "Department of Medical Biotechnology, Student Research Committee, Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran",
         "Nanotechnology Research Center, Pharmaceutical Technology Institute, Mashhad University of Medical Sciences, Mashhad, Iran",
@@ -36,315 +453,110 @@
         "Neurogenic Inflammation Research Center, Mashhad University of Medical Sciences, Mashhad, Iran",
         "School of Pharmacy, Mashhad University of Medical Sciences, Mashhad, Iran"
       ],
-      "Journal": "BMC Medicine",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "BMC Medicine",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "Iran",
         "Poland"
       ],
-      "Author": [
+      "author": [
         "Amir Abbas Momtazi-Borojeni",
         "Mahmoud Reza Jaafari",
         "Ali Badiee",
         "Maciej Banach",
         "Amirhossein Sahebkar"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/4/2023 0:00",
-      "RetractionDOI": "10.1186/s12916-023-02884-w",
-      "RetractionPubMedID": "37143044.0",
-      "OriginalPaperDate": "12/10/2019 0:00",
-      "OriginalPaperDOI": "10.1186/s12916-019-1457-8",
-      "OriginalPaperPubMedID": "31818299.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/4/2023 0:00",
+      "retractiondoi": "10.1186/s12916-023-02884-w",
+      "retractionpubmedid": "37143044.0",
+      "originalpaperdate": "12/10/2019 0:00",
+      "originalpaperdoi": "10.1186/s12916-019-1457-8",
+      "originalpaperpubmedid": "31818299.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Manipulation of Images",
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23428b1",
-      "Record ID": "51539",
-      "Title": "Emphysematous Cystitis: A Radiological Diagnosis of Potentially Life-Threatening Infection",
-      "Subject": [
-        "(HSC) Medicine - Urology/Nephrology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "College of Medicine, University of Hail, Hail, SAU",
-        "College of Medicine, Taif University, Taif, SAU",
-        "Family Medicine, Prince Sultan Military Medical City, Riyadh, SAU",
-        "College of Medicine, Northern Border University, Arar, SAU",
-        "College of Medicine, Medical University of Lodz, Lodz, POL",
-        "College of Medicine, Majmaah University, Al Majma'ah, SAU",
-        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
-        "College of Medicine, Arabian Gulf University, Manama, BHR",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Bahrain",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Shouq A Alhusayni",
-        "Thekra H Alshammari",
-        "Abdullah A Althomali",
-        "Mishari M Alqahtani",
-        "Waad A Alanazi",
-        "Mohammed A Alghamdi",
-        "Faisal M AlDawsari",
-        "Elan M Homoud",
-        "Abdulrahman A Alharbi",
-        "Khalid E Althobaiti",
-        "Abdulrahman A Alsubaihi",
-        "Abdullah M Alsayed",
-        "Abdalmohsen M Albaqami",
-        "Ahmad M Alamer",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/25/2024 0:00",
-      "RetractionDOI": "10.7759/cureus.r110",
-      "RetractionPubMedID": "38274612.0",
-      "OriginalPaperDate": "12/6/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.20201",
-      "OriginalPaperPubMedID": "35004022.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+False/Forged Authorship",
-        "+Investigation by Journal/Publisher",
-        "+Lack of Approval from Author",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349613",
-      "Record ID": "23424",
-      "Title": "A higher ratio of serum uric acid to serum creatinine could predict the risk of total and cause specific mortality - Insight from a US national survey",
-      "Subject": [
+      "_id": "687cf0121f662220d898e9f9",
+      "recordId": "23424",
+      "title": "A higher ratio of serum uric acid to serum creatinine could predict the risk of total and cause specific mortality - Insight from a US national survey",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - General",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Department of Twin Research and Genetic Epidemiology, King's College London, London, UK",
         "First Department of Internal Medicine, Division of Endocrinology and Metabolism, Diabetes Center, Medical School, Aristotle University of Thessaloniki, AHEPA Hospital, Thessaloniki, Greece",
         "Department of Hypertension, Chair of Nephrology and Hypertension, Medical University of Lodz, Poland",
         "Polish Mother's Memorial Hospital Research Institute (PMMHRI), Lodz, Poland",
         "Cardiovascular Research Centre, University of Zielona Gora, Zielona Gora, Poland"
       ],
-      "Journal": "International Journal of Cardiology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "International Journal of Cardiology",
+      "publisher": "Elsevier",
+      "country": [
         "Greece",
         "Poland",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Mohsen Mazidi",
         "Niki Katsiki",
         "Maciej Banach"
       ],
-      "ArticleType": [
+      "articletype": [
         "Article in Press",
         "Research Article"
       ],
-      "RetractionDate": "12/17/2019 0:00",
-      "RetractionDOI": "10.1016/j.ijcard.2019.12.029",
-      "RetractionPubMedID": "32417191.0",
-      "OriginalPaperDate": "12/17/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.ijcard.2019.12.029",
-      "OriginalPaperPubMedID": "32417191.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/17/2019 0:00",
+      "retractiondoi": "10.1016/j.ijcard.2019.12.029",
+      "retractionpubmedid": "32417191.0",
+      "originalpaperdate": "12/17/2019 0:00",
+      "originalpaperdoi": "10.1016/j.ijcard.2019.12.029",
+      "originalpaperpubmedid": "32417191.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2342853",
-      "Record ID": "51633",
-      "Title": "Intracranial Osteoma: Unusual Etiology of Chronic Daily Headaches",
-      "Subject": [
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Medicine, King Faisal University, Hofuf, SAU",
-        "Medicine, Qassim University, Al-Qassim, SAU",
-        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "Medicine, King Khalid University, Abha, SAU",
-        "Medicine, Medical University of Lodz, \u0141\u00f3d\u017a, POL",
-        "Medicine, University of Debrecen, Debrecen, HUN",
-        "Medicine, Taif University, Ta'if, SAU",
-        "Medicine, Umm Al-Qura University, Mecca, SAU",
-        "Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "Medicine, Dar Al Uloom University, Riyadh, SAU",
-        "Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
-        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Hungary",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Nasser S Aldandan",
-        "Amal N Al Mutairi",
-        "Talal H Almutairi",
-        "Ayman M Aboalam",
-        "Turki A Saad",
-        "Abdullah K Alshebili",
-        "Mohammad K Almihmadi",
-        "Abdullah E Alzeer",
-        "Mohammed A Alhamyani",
-        "Alya M Alhazmi",
-        "Mariam H Fardous",
-        "Ghada A Alharbi",
-        "Maryam F Oraif",
-        "Bashaer O Abdu",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/25/2024 0:00",
-      "RetractionDOI": "10.7759/cureus.r133",
-      "RetractionPubMedID": "38274604.0",
-      "OriginalPaperDate": "1/22/2022 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.21488",
-      "OriginalPaperPubMedID": "35223266.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+False/Forged Authorship",
-        "+Investigation by Journal/Publisher",
-        "+Lack of Approval from Author",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23428a6",
-      "Record ID": "51550",
-      "Title": "Giant Unruptured Internal Carotid Artery Aneurysm",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "College of Medicine, Batterjee Medical College, Jeddah, SAU",
-        "Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht, NLD",
-        "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
-        "College of Medicine, King Faisal University, Hofuf, SAU",
-        "College of Medicine, Medical University of Lodz, Lodz, POL",
-        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
-        "College of Medicine, Al-Baha University, Al-Baha, SAU",
-        "College of Medicine, Qassim University, Qassim, SAU",
-        "College of Medicine, Vision Colleges, Riyadh, SAU",
-        "College of Medicine, King Khalid University, Abha, SAU",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Netherlands",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Sultan O Gohal",
-        "Abrar A Alally",
-        "Abdulaziz I Alhonaizil",
-        "Abdulelah A Alabdulwahab",
-        "Khalid S Alzahrany",
-        "Mohammed A Alomari",
-        "Faisal A Alshunaibir",
-        "Mohammed A Alsalman",
-        "Naif M Alhamyani",
-        "Hamzah M Alamri",
-        "Ali A Alharbi",
-        "Abdulmohsen J Alabood",
-        "Fahad S Alshahrani",
-        "Adam M Al Amer",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "4/7/2022 0:00",
-      "RetractionDOI": "10.7759/cureus.x38",
-      "RetractionPubMedID": "35463615.0",
-      "OriginalPaperDate": "12/15/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.20423",
-      "OriginalPaperPubMedID": "35047262.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Concerns/Issues about Third Party Involvement",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2349d85",
-      "Record ID": "21511",
-      "Title": "An evaluation of the potential consequences of drilling titanium and tantalum implants during surgery - a pilot study",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f16b",
+      "recordId": "21511",
+      "title": "An evaluation of the potential consequences of drilling titanium and tantalum implants during surgery - a pilot study",
+      "subject": [
         "(BLS) Biochemistry",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Clinic of Orthopedic and Traumatology, Regional Hospital and Kochanowski Medical University, Kielce, Poland",
         "Faculty of Materials Science and Engineering, Warsaw University of Technology, Warsaw, Poland",
         "Clinic of Orthopedics and Pediatric Orthopedics, Medical University of Lodz, Lodz, Poland",
         "Department of Angiology, Medical University of L\u00f3dz, ul. Narutowicza 60, 90-136 L\u00f3dz, Poland"
       ],
-      "Journal": "BMC Musculoskeletal Disorders",
-      "Publisher": "Springer - Biomed Central (BMC)",
-      "Country": [
+      "journal": "BMC Musculoskeletal Disorders",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "country": [
         "Poland"
       ],
-      "Author": [
+      "author": [
         "Pawel Skowronek",
         "Pawel Olszewski",
         "Wojciech Swieszkowski",
@@ -352,280 +564,78 @@
         "Marek Synder",
         "Michal Polguj"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/24/2019 0:00",
-      "RetractionDOI": "10.1186/s12891-019-2824-5",
-      "RetractionPubMedID": "31651295.0",
-      "OriginalPaperDate": "11/3/2017 0:00",
-      "OriginalPaperDOI": "10.1186/s12891-017-1784-x",
-      "OriginalPaperPubMedID": "29100511.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/24/2019 0:00",
+      "retractiondoi": "10.1186/s12891-019-2824-5",
+      "retractionpubmedid": "31651295.0",
+      "originalpaperdate": "11/3/2017 0:00",
+      "originalpaperdoi": "10.1186/s12891-017-1784-x",
+      "originalpaperpubmedid": "29100511.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2017
-    },
-    {
-      "_id": "6855d574b14f7811d23428a7",
-      "Record ID": "51549",
-      "Title": "Giant Unruptured Internal Carotid Artery Aneurysm",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "College of Medicine, Batterjee Medical College, Jeddah, SAU",
-        "Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht, NLD",
-        "College of Medicine, AlMaarefa University, Ad Diriyah, SAU",
-        "College of Medicine, King Faisal University, Hofuf, SAU",
-        "College of Medicine, Medical University of Lodz, Lodz, POL",
-        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
-        "College of Medicine, Al-Baha University, Al-Baha, SAU",
-        "College of Medicine, Qassim University, Qassim, SAU",
-        "College of Medicine, Vision Colleges, Riyadh, SAU",
-        "College of Medicine, King Khalid University, Abha, SAU",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Netherlands",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Sultan O Gohal",
-        "Abrar A Alally",
-        "Abdulaziz I Alhonaizil",
-        "Abdulelah A Alabdulwahab",
-        "Khalid S Alzahrany",
-        "Mohammed A Alomari",
-        "Faisal A Alshunaibir",
-        "Mohammed A Alsalman",
-        "Naif M Alhamyani",
-        "Hamzah M Alamri",
-        "Ali A Alharbi",
-        "Abdulmohsen J Alabood",
-        "Fahad S Alshahrani",
-        "Adam M Al Amer",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/25/2024 0:00",
-      "RetractionDOI": "10.7759/cureus.r116",
-      "RetractionPubMedID": "38274633.0",
-      "OriginalPaperDate": "12/15/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.20423",
-      "OriginalPaperPubMedID": "35047262.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+False/Forged Authorship",
-        "+Investigation by Journal/Publisher",
-        "+Lack of Approval from Author",
-        "+Unreliable Results and/or Conclusions",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2342852",
-      "Record ID": "51634",
-      "Title": "Intracranial Osteoma: Unusual Etiology of Chronic Daily Headaches",
-      "Subject": [
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Medicine, King Faisal University, Hofuf, SAU",
-        "Medicine, Qassim University, Al-Qassim, SAU",
-        "Medicine, King Saud bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "Medicine, King Khalid University, Abha, SAU",
-        "Medicine, Medical University of Lodz, \u0141\u00f3d\u017a, POL",
-        "Medicine, University of Debrecen, Debrecen, HUN",
-        "Medicine, Taif University, Ta'if, SAU",
-        "Medicine, Umm Al-Qura University, Mecca, SAU",
-        "Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "Medicine, Dar Al Uloom University, Riyadh, SAU",
-        "Medicine, Ibn Sina National College for Medical Studies, Jeddah, SAU",
-        "Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Hungary",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Nasser S Aldandan",
-        "Amal N Al Mutairi",
-        "Talal H Almutairi",
-        "Ayman M Aboalam",
-        "Turki A Saad",
-        "Abdullah K Alshebili",
-        "Mohammad K Almihmadi",
-        "Abdullah E Alzeer",
-        "Mohammed A Alhamyani",
-        "Alya M Alhazmi",
-        "Mariam H Fardous",
-        "Ghada A Alharbi",
-        "Maryam F Oraif",
-        "Bashaer O Abdu",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/;https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "4/7/2022 0:00",
-      "RetractionDOI": "10.7759/cureus.x55",
-      "RetractionPubMedID": "35463608.0",
-      "OriginalPaperDate": "1/22/2022 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.21488",
-      "OriginalPaperPubMedID": "35223266.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Concerns/Issues about Third Party Involvement",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23428b0",
-      "Record ID": "51540",
-      "Title": "Emphysematous Cystitis: A Radiological Diagnosis of Potentially Life-Threatening Infection",
-      "Subject": [
-        "(HSC) Medicine - Urology/Nephrology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "College of Medicine, University of Hail, Hail, SAU",
-        "College of Medicine, Taif University, Taif, SAU",
-        "Family Medicine, Prince Sultan Military Medical City, Riyadh, SAU",
-        "College of Medicine, Northern Border University, Arar, SAU",
-        "College of Medicine, Medical University of Lodz, Lodz, POL",
-        "College of Medicine, Majmaah University, Al Majma'ah, SAU",
-        "College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, SAU",
-        "College of Medicine, King Abdulaziz University, Jeddah, SAU",
-        "College of Medicine, Arabian Gulf University, Manama, BHR",
-        "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU"
-      ],
-      "Journal": "Cureus",
-      "Publisher": "Cureus (Part of Springer Nature as of December 2022)",
-      "Country": [
-        "Bahrain",
-        "Poland",
-        "Saudi Arabia"
-      ],
-      "Author": [
-        "Shouq A Alhusayni",
-        "Thekra H Alshammari",
-        "Abdullah A Althomali",
-        "Mishari M Alqahtani",
-        "Waad A Alanazi",
-        "Mohammed A Alghamdi",
-        "Faisal M AlDawsari",
-        "Elan M Homoud",
-        "Abdulrahman A Alharbi",
-        "Khalid E Althobaiti",
-        "Abdulrahman A Alsubaihi",
-        "Abdullah M Alsayed",
-        "Abdalmohsen M Albaqami",
-        "Ahmad M Alamer",
-        "Faisal Al-Hawaj"
-      ],
-      "URLS": "https://retractionwatch.com/2024/01/26/journal-retracts-more-than-50-studies-from-saudi-arabia-for-faked-authorship/;https://retractionwatch.com/2022/04/29/journal-issues-55-expressions-of-concern-at-once/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "4/7/2022 0:00",
-      "RetractionDOI": "10.7759/cureus.x32",
-      "RetractionPubMedID": "35463584.0",
-      "OriginalPaperDate": "12/6/2021 0:00",
-      "OriginalPaperDOI": "10.7759/cureus.20201",
-      "OriginalPaperPubMedID": "35004022.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Concerns/Issues about Third Party Involvement",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "Notes": "eoc overwritten by retraction and doi no longer found;",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 4,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 4
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 2
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -633,10 +643,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,338 +1,216 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878ac9",
+    "_id": "687ccbab09adbf7aa61b96ea",
     "grid_id": "grid.255414.3",
     "institute_name": "Eastern Virginia Medical School",
     "country": "United States",
     "retracted_record_ids": [
-      "8968",
-      "33862",
       "48501",
-      "3071",
+      "8968",
       "4762",
-      "3104",
       "15230",
+      "33862",
       "26401",
       "4195",
+      "3104",
+      "3071",
       "35388",
       "32788"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ce49",
-      "Record ID": "8968",
-      "Title": "Diabetic Sensory and Motor Neuropathy",
-      "Subject": [
+      "_id": "687cef941f662220d898886c",
+      "recordId": "48501",
+      "title": "Diabetic Sensory and Motor Neuropathy",
+      "subject": [
         "(HSC) Medicine - Diabetes"
       ],
-      "Institution": [
+      "institution": [
         "Strelitz Diabetes Center, Eastern Virginia Medical School, 855 W. Brambleton Ave., Norfolk, VA 23510"
       ],
-      "Journal": "NEJM: The New England Journal of Medicine",
-      "Publisher": "Massachusetts Medical Society",
-      "Country": [
+      "journal": "NEJM: The New England Journal of Medicine",
+      "publisher": "Massachusetts Medical Society",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Aaron I Vinik"
       ],
-      "URLS": "http://retractionwatch.com/2016/04/19/nejm-quickly-corrects-disclosure-statement-errors-in-diabetes-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/04/19/nejm-quickly-corrects-disclosure-statement-errors-in-diabetes-paper/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "5/5/2016 0:00",
-      "RetractionDOI": "10.1056/NEJMx160009",
-      "RetractionPubMedID": "27073979.0",
-      "OriginalPaperDate": "4/14/2016 0:00",
-      "OriginalPaperDOI": "10.1056/NEJMcp1503948",
-      "OriginalPaperPubMedID": "27074068.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Conflict of Interest",
-        "+Error in Data",
+      "retractiondate": "10/6/2016 0:00",
+      "retractiondoi": "10.1056/NEJMx160032",
+      "retractionpubmedid": "27705261.0",
+      "originalpaperdate": "4/14/2016 0:00",
+      "originalpaperdoi": "10.1056/NEJMcp1503948",
+      "originalpaperpubmedid": "27074068.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346d6c",
-      "Record ID": "33862",
-      "Title": "Clinical and Scientific Rationale for the \u201cMATH+\u201d Hospital Treatment Protocol for COVID-19",
-      "Subject": [
+      "_id": "687cefc41f662220d898bb5f",
+      "recordId": "35388",
+      "title": "Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Front-Line Covid-19 Critical Care Alliance, Madison, WI",
+        "Memphis VA Medical Center\u2014University of Tennessee Health Science Center, Pulmonary, Critical Care, and Research Services, Memphis, TN",
+        "University of Texas Health Science Center, Critical Care Service, Houston, TX",
+        "Department of Medicine, Hackensack School of Medicine, Seton Hall, NJ",
+        "Eastern Virginia Medical School, Division of Pulmonary and Critical Care, Norfolk, VA"
+      ],
+      "journal": "American Journal of Therapeutics",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Pierre Kory",
+        "Gianfranco Umberto Meduri",
+        "Joseph Varon",
+        "Jose Iglesias",
+        "Paul E Marik"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2022/02/11/ivermectin-papers-slapped-with-expressions-of-concern/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "2/7/2022 0:00",
+      "retractiondoi": "10.1097/MJT.0000000000001481",
+      "retractionpubmedid": "35142703.0",
+      "originalpaperdate": "4/22/2021 0:00",
+      "originalpaperdoi": "10.1097/MJT.0000000000001377",
+      "originalpaperpubmedid": "34375047.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefca1f662220d898c152",
+      "recordId": "33862",
+      "title": "Clinical and Scientific Rationale for the \u201cMATH+\u201d Hospital Treatment Protocol for COVID-19",
+      "subject": [
         "(B/T) Business - Management",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Aurora St. Luke\u2019s Medical Center, Milwaukee, WI, USA",
         "Memphis VA Medical Center, University of Tennessee Health Science Center, Memphis, TN, USA",
         "Jersey Shore University Medical Center, Hackensack School of Medicine at Seton Hall, NJ, USA",
         "University of Texas Health Science Center, Houston, TX, USA",
         "Eastern Virginia Medical School, Norfolk, VA, USA"
       ],
-      "Journal": "Journal of Intensive Care Medicine",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "Journal of Intensive Care Medicine",
+      "publisher": "SAGE Publications",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pierre Kory",
         "G Umberto Meduri",
         "Jose Iglesias",
         "Joseph Varon",
         "Paul E Marik"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "11/9/2021 0:00",
-      "RetractionDOI": "10.1177/08850666211049062",
-      "RetractionPubMedID": "34749558.0",
-      "OriginalPaperDate": "12/15/2020 0:00",
-      "OriginalPaperDOI": "10.1177/0885066620973585",
-      "OriginalPaperPubMedID": "33317385.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/9/2021 0:00",
+      "retractiondoi": "10.1177/08850666211049062",
+      "retractionpubmedid": "34749558.0",
+      "originalpaperdate": "12/15/2020 0:00",
+      "originalpaperdoi": "10.1177/0885066620973585",
+      "originalpaperpubmedid": "33317385.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343486",
-      "Record ID": "48501",
-      "Title": "Diabetic Sensory and Motor Neuropathy",
-      "Subject": [
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Strelitz Diabetes Center, Eastern Virginia Medical School, 855 W. Brambleton Ave., Norfolk, VA 23510"
-      ],
-      "Journal": "NEJM: The New England Journal of Medicine",
-      "Publisher": "Massachusetts Medical Society",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Aaron I Vinik"
-      ],
-      "URLS": "http://retractionwatch.com/2016/04/19/nejm-quickly-corrects-disclosure-statement-errors-in-diabetes-paper/",
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "10/6/2016 0:00",
-      "RetractionDOI": "10.1056/NEJMx160032",
-      "RetractionPubMedID": "27705261.0",
-      "OriginalPaperDate": "4/14/2016 0:00",
-      "OriginalPaperDOI": "10.1056/NEJMcp1503948",
-      "OriginalPaperPubMedID": "27074068.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e4e4",
-      "Record ID": "3071",
-      "Title": "The Malignant Obesity Hypoventilation Syndrome (MOHS)",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - General",
-        "(HSC) Medicine - Cardiovascular",
+      "_id": "687cefce1f662220d898c583",
+      "recordId": "32788",
+      "title": "Supplemental perioperative steroids for surgical patients with adrenal insufficiency (Pub 2)",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Dentistry",
+        "(HSC) Medicine - Endocrinology",
+        "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Division of Pulmonary and Critical Care Medicine, Eastern Virginia Medical School, Norfolk, VA, USA"
+      "institution": [
+        "Oral and Maxillofacial Surgery, School of Dentistry, The University of Manchester, Manchester, UK",
+        "Department of Pulmonary and Critical Care Medicine, Eastern Virginia Medical School, Norfolk, USA"
       ],
-      "Journal": "Obesity Reviews : An Official Journal of the International Association for the Study of Obesity",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "United Kingdom",
         "United States"
       ],
-      "Author": [
-        "Paul E Marik"
+      "author": [
+        "Sin Leong Yong",
+        "Paul E Marik",
+        "Marco Esposito",
+        "Paul Coulthard"
       ],
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Review Article",
+        "Revision"
       ],
-      "RetractionDate": "3/13/2014 0:00",
-      "RetractionDOI": "10.1111/obr.12168",
-      "RetractionPubMedID": "24757740.0",
-      "OriginalPaperDate": "6/19/2012 0:00",
-      "OriginalPaperDOI": "10.1111/j.1467-789X.2012.01014.x",
-      "OriginalPaperPubMedID": "22708580.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Euphemisms for Duplication"
+      "retractiondate": "10/17/2013 0:00",
+      "retractiondoi": "10.1002/14651858.CD005367.pub4",
+      "retractionpubmedid": "24135986.0",
+      "originalpaperdate": "10/7/2009 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD005367.pub2",
+      "originalpaperpubmedid": "19821345.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Temporary Removal"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234de6c",
-      "Record ID": "4762",
-      "Title": "Colonic flora, probiotics, obesity and diabetes",
-      "Subject": [
-        "(HSC) Medicine - Diabetes",
-        "(HSC) Medicine - Endocrinology"
-      ],
-      "Institution": [
-        "Division of Pulmonary and Critical Care Medicine, Department of Medicine, Eastern Virginia Medical School, Norfolk, VA, USA"
-      ],
-      "Journal": "Frontiers in Endocrinology",
-      "Publisher": "Frontiers",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Paul E Marik"
-      ],
-      "URLS": "http://retractionwatch.com/2013/08/30/frontiers-papers-on-gmo-debate-diabetes-retracted-for-improperly-cited-text/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/20/2013 0:00",
-      "RetractionDOI": "10.3389/fendo.2013.00110",
-      "RetractionPubMedID": "23986747.0",
-      "OriginalPaperDate": "7/11/2012 0:00",
-      "OriginalPaperDOI": "10.3389/fendo.2012.00087",
-      "OriginalPaperPubMedID": "22798958.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "Unknown",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e4c3",
-      "Record ID": "3104",
-      "Title": "Doxycycline alters the expression of inflammatory and immune-related cytokines and chemokines in human endometrial cells: implication in irregular uterine bleeding",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Obstetrics/Gynecology"
-      ],
-      "Institution": [
-        "Department of Obstetrics & Gynecology, Department of Pharmacy Practice, University of Florida, Gainesville, FL",
-        "Department of Obstetrics and Gynecology, Eastern Virginia Medical School, Norfolk, VA, USA"
-      ],
-      "Journal": "Human Reproduction",
-      "Publisher": "Oxford University Press",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Rongxiu Li",
-        "Xiaoping Luo",
-        "Qun Pan",
-        "Issam Zineh",
-        "David F Archer",
-        "R Stan Williams",
-        "Nasser Chegini"
-      ],
-      "URLS": "http://retractionwatch.com/2014/12/03/three-retractions-appear-florida-ob-gyn-investigation/;http://retractionwatch.com/2012/10/29/ori-investigating-university-of-florida-ob-gyn-researcher-accused-of-misconduct/;http://retractionwatch.com/2017/08/01/investigation-started-least-5-years-ago-retired-ob-gyn-prof-agrees-5-years-supervision/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/4/2014 0:00",
-      "RetractionDOI": "10.1093/humrep/deu306",
-      "RetractionPubMedID": "25376462.0",
-      "OriginalPaperDate": "8/4/2006 0:00",
-      "OriginalPaperDOI": "10.1093/humrep/del206",
-      "OriginalPaperPubMedID": "16891626.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Ethical Violations by Author",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by ORI",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)"
-      ],
-      "Paywalled": "No",
-      "Notes": "Nasser Chegini has finding of misconduct: https://ori.hhs.gov/content/case-summary-chegini-nasser",
-      "notice_year": 2014,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234b5e4",
-      "Record ID": "15230",
-      "Title": "Doxycycline alters the expression of matrix metalloproteases in the endometrial cells exposed to ovarian steroids and pro-inflammatory cytokine",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of OB/GYN, University of Florida, Gainesville, FL, USA",
-        "Eastern Virginia Medical School, Norfolk, VA, USA"
-      ],
-      "Journal": "Journal of Reproductive Immunology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Rongxiu Li",
-        "Xiaoping Luo",
-        "David F Archer",
-        "Nasser Chegini"
-      ],
-      "URLS": "http://retractionwatch.com/2017/08/01/investigation-started-least-5-years-ago-retired-ob-gyn-prof-agrees-5-years-supervision/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/1/2017 0:00",
-      "RetractionDOI": "10.1016/j.jri.2006.08.082",
-      "RetractionPubMedID": "29406209.0",
-      "OriginalPaperDate": "9/27/2007 0:00",
-      "OriginalPaperDOI": "10.1016/j.jri.2006.08.082",
-      "OriginalPaperPubMedID": "17010446.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by ORI",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2007,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2348a7e",
-      "Record ID": "26401",
-      "Title": "Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",
-      "Subject": [
+      "_id": "687ceffc1f662220d898de64",
+      "recordId": "26401",
+      "title": "Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Front-Line Covid-19 Critical Care Alliance",
         "Memphis VA Medical Center, Univ. of Tennessee Health Science Center, Memphis, TN",
         "Hackensack School of Medicine, Seton Hall, NJ",
@@ -344,14 +222,14 @@
         "Lung Center of America, Dayton, Ohio",
         "Eastern Virginia Medical School"
       ],
-      "Journal": "Frontiers in Pharmacology",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Pharmacology",
+      "publisher": "Frontiers",
+      "country": [
         "Norway",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pierre Kory",
         "G U Meduri",
         "Jose Iglesias",
@@ -362,217 +240,350 @@
         "Scott Mitchell",
         "Fred Wagshul"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2022/02/11/ivermectin-papers-slapped-with-expressions-of-concern/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2022/02/11/ivermectin-papers-slapped-with-expressions-of-concern/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "3/1/2021 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/1/2021 0:00",
-      "OriginalPaperDOI": "10.3389/fphar.2021.643369",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2021 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/1/2021 0:00",
+      "originalpaperdoi": "10.3389/fphar.2021.643369",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Bias Issues or Lack of Balance",
         "+Conflict of Interest",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://blog.frontiersin.org/2021/03/02/2-march-2021-media-statement/; see also: https://www.the-scientist.com/news-opinion/frontiers-removes-controversial-ivermectin-paper-pre-publication-68505",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "see also: https://blog.frontiersin.org/2021/03/02/2-march-2021-media-statement/; see also: https://www.the-scientist.com/news-opinion/frontiers-removes-controversial-ivermectin-paper-pre-publication-68505",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e09b",
-      "Record ID": "4195",
-      "Title": "Corneal Neurotization: A Novel Technique for the Anesthetic Cornea",
-      "Subject": [
+      "_id": "687cf09d1f662220d89909ca",
+      "recordId": "15230",
+      "title": "Doxycycline alters the expression of matrix metalloproteases in the endometrial cells exposed to ovarian steroids and pro-inflammatory cytokine",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of OB/GYN, University of Florida, Gainesville, FL, USA",
+        "Eastern Virginia Medical School, Norfolk, VA, USA"
+      ],
+      "journal": "Journal of Reproductive Immunology",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Rongxiu Li",
+        "Xiaoping Luo",
+        "David F Archer",
+        "Nasser Chegini"
+      ],
+      "urls": "http://retractionwatch.com/2017/08/01/investigation-started-least-5-years-ago-retired-ob-gyn-prof-agrees-5-years-supervision/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/1/2017 0:00",
+      "retractiondoi": "10.1016/j.jri.2006.08.082",
+      "retractionpubmedid": "29406209.0",
+      "originalpaperdate": "9/27/2007 0:00",
+      "originalpaperdoi": "10.1016/j.jri.2006.08.082",
+      "originalpaperpubmedid": "17010446.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b61f662220d899222f",
+      "recordId": "8968",
+      "title": "Diabetic Sensory and Motor Neuropathy",
+      "subject": [
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Strelitz Diabetes Center, Eastern Virginia Medical School, 855 W. Brambleton Ave., Norfolk, VA 23510"
+      ],
+      "journal": "NEJM: The New England Journal of Medicine",
+      "publisher": "Massachusetts Medical Society",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Aaron I Vinik"
+      ],
+      "urls": "http://retractionwatch.com/2016/04/19/nejm-quickly-corrects-disclosure-statement-errors-in-diabetes-paper/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "5/5/2016 0:00",
+      "retractiondoi": "10.1056/NEJMx160009",
+      "retractionpubmedid": "27073979.0",
+      "originalpaperdate": "4/14/2016 0:00",
+      "originalpaperdoi": "10.1056/NEJMcp1503948",
+      "originalpaperpubmedid": "27074068.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Conflict of Interest",
+        "+Error in Data",
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d8993252",
+      "recordId": "4762",
+      "title": "Colonic flora, probiotics, obesity and diabetes",
+      "subject": [
+        "(HSC) Medicine - Diabetes",
+        "(HSC) Medicine - Endocrinology"
+      ],
+      "institution": [
+        "Division of Pulmonary and Critical Care Medicine, Department of Medicine, Eastern Virginia Medical School, Norfolk, VA, USA"
+      ],
+      "journal": "Frontiers in Endocrinology",
+      "publisher": "Frontiers",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Paul E Marik"
+      ],
+      "urls": "http://retractionwatch.com/2013/08/30/frontiers-papers-on-gmo-debate-diabetes-retracted-for-improperly-cited-text/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/20/2013 0:00",
+      "retractiondoi": "10.3389/fendo.2013.00110",
+      "retractionpubmedid": "23986747.0",
+      "originalpaperdate": "7/11/2012 0:00",
+      "originalpaperdoi": "10.3389/fendo.2012.00087",
+      "originalpaperpubmedid": "22798958.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "Unknown",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d8993481",
+      "recordId": "4195",
+      "title": "Corneal Neurotization: A Novel Technique for the Anesthetic Cornea",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Ophthalmology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Microsurgical Research Center, International Institute of Reconstructive Microsurgery, Division of Plastic and Reconstructive Surgery, Department of Surgery, Eastern Virginia Medical School, Norfolk, VA 23501, USA"
       ],
-      "Journal": "Cornea",
-      "Publisher": "Wolters Kluwer",
-      "Country": [
+      "journal": "Cornea",
+      "publisher": "Wolters Kluwer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Julia K Terzis",
         "Marylou M Dryer",
         "Bruce I Bodner"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/1/2010 0:00",
-      "RetractionDOI": "10.1097/ICO.0b013e3181febf6d",
-      "RetractionPubMedID": "20966679.0",
-      "OriginalPaperDate": "7/1/2010 0:00",
-      "OriginalPaperDOI": "10.1097/ICO.0b013e3181ca2984",
-      "OriginalPaperPubMedID": "20489582.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/1/2010 0:00",
+      "retractiondoi": "10.1097/ICO.0b013e3181febf6d",
+      "retractionpubmedid": "20966679.0",
+      "originalpaperdate": "7/1/2010 0:00",
+      "originalpaperdoi": "10.1097/ICO.0b013e3181ca2984",
+      "originalpaperpubmedid": "20489582.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Breach of Policy by Author",
         "+Duplication of Text",
         "+Ethical Violations by Author",
         "+Euphemisms for Plagiarism"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346779",
-      "Record ID": "35388",
-      "Title": "Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Pharmacology"
+      "_id": "687cf0cd1f662220d89938a9",
+      "recordId": "3104",
+      "title": "Doxycycline alters the expression of inflammatory and immune-related cytokines and chemokines in human endometrial cells: implication in irregular uterine bleeding",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Obstetrics/Gynecology"
       ],
-      "Institution": [
-        "Front-Line Covid-19 Critical Care Alliance, Madison, WI",
-        "Memphis VA Medical Center\u2014University of Tennessee Health Science Center, Pulmonary, Critical Care, and Research Services, Memphis, TN",
-        "University of Texas Health Science Center, Critical Care Service, Houston, TX",
-        "Department of Medicine, Hackensack School of Medicine, Seton Hall, NJ",
-        "Eastern Virginia Medical School, Division of Pulmonary and Critical Care, Norfolk, VA"
+      "institution": [
+        "Department of Obstetrics & Gynecology, Department of Pharmacy Practice, University of Florida, Gainesville, FL",
+        "Department of Obstetrics and Gynecology, Eastern Virginia Medical School, Norfolk, VA, USA"
       ],
-      "Journal": "American Journal of Therapeutics",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Human Reproduction",
+      "publisher": "Oxford University Press",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Pierre Kory",
-        "Gianfranco Umberto Meduri",
-        "Joseph Varon",
-        "Jose Iglesias",
-        "Paul E Marik"
+      "author": [
+        "Rongxiu Li",
+        "Xiaoping Luo",
+        "Qun Pan",
+        "Issam Zineh",
+        "David F Archer",
+        "R Stan Williams",
+        "Nasser Chegini"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2022/02/11/ivermectin-papers-slapped-with-expressions-of-concern/",
-      "ArticleType": [
-        "Review Article"
+      "urls": "http://retractionwatch.com/2014/12/03/three-retractions-appear-florida-ob-gyn-investigation/;http://retractionwatch.com/2012/10/29/ori-investigating-university-of-florida-ob-gyn-researcher-accused-of-misconduct/;http://retractionwatch.com/2017/08/01/investigation-started-least-5-years-ago-retired-ob-gyn-prof-agrees-5-years-supervision/",
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "2/7/2022 0:00",
-      "RetractionDOI": "10.1097/MJT.0000000000001481",
-      "RetractionPubMedID": "35142703.0",
-      "OriginalPaperDate": "4/22/2021 0:00",
-      "OriginalPaperDOI": "10.1097/MJT.0000000000001377",
-      "OriginalPaperPubMedID": "34375047.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data"
+      "retractiondate": "11/4/2014 0:00",
+      "retractiondoi": "10.1093/humrep/deu306",
+      "retractionpubmedid": "25376462.0",
+      "originalpaperdate": "8/4/2006 0:00",
+      "originalpaperdoi": "10.1093/humrep/del206",
+      "originalpaperpubmedid": "16891626.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Ethical Violations by Author",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Nasser Chegini has finding of misconduct: https://ori.hhs.gov/content/case-summary-chegini-nasser",
+      "year": "2006",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234719d",
-      "Record ID": "32788",
-      "Title": "Supplemental perioperative steroids for surgical patients with adrenal insufficiency (Pub 2)",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Dentistry",
-        "(HSC) Medicine - Endocrinology",
-        "(HSC) Medicine - Pharmacology",
+      "_id": "687cf0cd1f662220d89938ca",
+      "recordId": "3071",
+      "title": "The Malignant Obesity Hypoventilation Syndrome (MOHS)",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - General",
+        "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Oral and Maxillofacial Surgery, School of Dentistry, The University of Manchester, Manchester, UK",
-        "Department of Pulmonary and Critical Care Medicine, Eastern Virginia Medical School, Norfolk, USA"
+      "institution": [
+        "Division of Pulmonary and Critical Care Medicine, Eastern Virginia Medical School, Norfolk, VA, USA"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "United Kingdom",
+      "journal": "Obesity Reviews : An Official Journal of the International Association for the Study of Obesity",
+      "publisher": "Wiley",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Sin Leong Yong",
-        "Paul E Marik",
-        "Marco Esposito",
-        "Paul Coulthard"
+      "author": [
+        "Paul E Marik"
       ],
-      "ArticleType": [
-        "Review Article",
-        "Revision"
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "10/17/2013 0:00",
-      "RetractionDOI": "10.1002/14651858.CD005367.pub4",
-      "RetractionPubMedID": "24135986.0",
-      "OriginalPaperDate": "10/7/2009 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD005367.pub2",
-      "OriginalPaperPubMedID": "19821345.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Temporary Removal"
+      "retractiondate": "3/13/2014 0:00",
+      "retractiondoi": "10.1111/obr.12168",
+      "retractionpubmedid": "24757740.0",
+      "originalpaperdate": "6/19/2012 0:00",
+      "originalpaperdoi": "10.1111/j.1467-789X.2012.01014.x",
+      "originalpaperpubmedid": "22708580.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2009,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -580,10 +591,10 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -591,65 +602,65 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

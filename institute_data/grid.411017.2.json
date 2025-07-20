@@ -1,81 +1,82 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879cc6",
+    "_id": "687ccbab09adbf7aa61ba8e7",
     "grid_id": "grid.411017.2",
     "institute_name": "University of Arkansas at Fayetteville",
     "country": "United States",
     "retracted_record_ids": [
-      "17415",
-      "5402"
+      "5402",
+      "17415"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ad69",
-      "Record ID": "17415",
-      "Title": "Protein adsorption on low temperature alpha alumina films for surgical instruments",
-      "Subject": [
+      "_id": "687cf0931f662220d899014f",
+      "recordId": "17415",
+      "title": "Protein adsorption on low temperature alpha alumina films for surgical instruments",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Surgery",
         "(HSC) Occupational Health and Safety",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "University of Arkansas, Fayetteville, AR 72701, USA",
         "Ian Wark Research Institute, University of South Australia, Mawson Lakes, Adelaide, SA 5095, Australia"
       ],
-      "Journal": "Thin Solid Films",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Thin Solid Films",
+      "publisher": "Elsevier",
+      "country": [
         "Australia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Andrew N Cloud",
         "Shashi V Abinesh Kumar",
         "Mahendra Kavdia",
         "Husam Hamza Abu-Safe",
         "Matt H Gordon"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/13/2010 0:00",
-      "RetractionDOI": "10.1016/j.tsf.2010.06.001",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "9/16/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.tsf.2008.08.002",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/13/2010 0:00",
+      "retractiondoi": "10.1016/j.tsf.2010.06.001",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "9/16/2008 0:00",
+      "originalpaperdoi": "10.1016/j.tsf.2008.08.002",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2008,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2010",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dbfc",
-      "Record ID": "5402",
-      "Title": "Nonresonant Tunneling Carrier Transfer in Bilayer Asymmetric InAs/GaAs Quantum Dots",
-      "Subject": [
+      "_id": "687cf0c31f662220d8992fe2",
+      "recordId": "5402",
+      "title": "Nonresonant Tunneling Carrier Transfer in Bilayer Asymmetric InAs/GaAs Quantum Dots",
+      "subject": [
         "(PHY) Engineering - Electrical",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Physics, University of Arkansas, Fayetteville, Arkansas 72701, USA",
         "Max-Born-Institut f\u00fcr Nichtlineare Optik und Kurzzeitspektroskopie, Max-Born-Strasse 2A, 12489 Berlin, Germany",
         "Ferdinand-Braun-Institut f\u00fcr H\u00f6chstfrequenztechnik, Gustav-Kirchhoff-Strasse 4, 12489 Berlin, Germany"
       ],
-      "Journal": "Physical Review B",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review B",
+      "publisher": "American Physical Society",
+      "country": [
         "Germany",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Yu I Mazur",
         "Zh M Wang",
         "G G Tarasov",
@@ -84,32 +85,33 @@
         "V Talalaev",
         "H Kissel"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/27/2006 0:00",
-      "RetractionDOI": "10.1103/PhysRevB.73.039904",
-      "OriginalPaperDate": "6/13/2005 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevB.71.235313",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/27/2006 0:00",
+      "retractiondoi": "10.1103/PhysRevB.73.039904",
+      "originalpaperdate": "6/13/2005 0:00",
+      "originalpaperdoi": "10.1103/PhysRevB.71.235313",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Text",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2006,
-      "year": 2005,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2006",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -117,21 +119,21 @@
     {
       "year": 2006,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -139,10 +141,10 @@
     {
       "year": 2010,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

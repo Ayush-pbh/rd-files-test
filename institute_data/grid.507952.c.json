@@ -1,30 +1,186 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877dcb",
+    "_id": "687ccbab09adbf7aa61b89ec",
     "grid_id": "grid.507952.c",
     "institute_name": "Jinyintan Hospital",
     "country": "China",
     "retracted_record_ids": [
       "45273",
-      "44173",
-      "46517",
       "38756",
       "61747",
       "47439",
+      "40845",
+      "44173",
       "26695",
-      "40845"
+      "46517"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2344118",
-      "Record ID": "45273",
-      "Title": "6-month consequences of COVID-19 in patients discharged from hospital: a cohort study",
-      "Subject": [
+      "_id": "687cef5f1f662220d89854d5",
+      "recordId": "61747",
+      "title": "Clinical Application of Artificial Intelligence: Auto-Discerning the Effectiveness of Lidocaine Concentration Levels in Osteosarcoma Femoral Tumor Segment Resection",
+      "subject": [
+        "(B/T) Computer Science",
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Anesthesiology, Yantaishan Hospital, Yantai 264003, Shandong, China",
+        "Department of Surgery, Jinyintan Hospital, Wuhan, Hubei 430022, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Shuqin Ni",
+        "Xin Li",
+        "Xiuna Yi"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/11/2023 0:00",
+      "retractiondoi": "10.1155/2023/9816857",
+      "retractionpubmedid": "37860374.0",
+      "originalpaperdate": "3/28/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/7069348",
+      "originalpaperpubmedid": "35388316.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Informed/Patient Consent - None/Withdrawn",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef981f662220d8988c90",
+      "recordId": "47439",
+      "title": "The Effect of Routine Management Combined with Case Management Model on Social Support, Self-Efficacy, Self-Management Ability, and Psychological Flexibility of AIDS Patients",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Nursing",
+        "(SOC) Psychology"
+      ],
+      "institution": [
+        "Department of Infectious Diseases, Jinyintan Hospital, Wuhan, China 430000",
+        "Department of Dermatology, Huangshi Central Hospital, Affiliated Hospital of Hubei Polytechnic University, Edong Healthcare Group, Hubei Key Laboratory of Kidney Disease Pathogenesis and Intervention, China"
+      ],
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Li Liu",
+        "Jing Zhou",
+        "Huan Xiao",
+        "Yanhe Luo",
+        "Yan Zeng",
+        "Li Fan",
+        "Chen Zheng"
+      ],
+      "urls": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "6/28/2023 0:00",
+      "retractiondoi": "10.1155/2023/9820253",
+      "retractionpubmedid": "37416130.0",
+      "originalpaperdate": "8/4/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/9213877",
+      "originalpaperpubmedid": "35966241.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Human Subject Welfare",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9c1f662220d898902a",
+      "recordId": "46517",
+      "title": "A Case-Control Study of Photodynamic Therapy Combined with Thymosin in the Treatment of Condyloma Acuminatum in Anal Canal",
+      "subject": [
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "institution": [
+        "Department of Dermatology and Venereology, The Eighth Hospital of Wuhan, Wuhan 43000, China",
+        "Department of Infectious Diseases, Wuhan Jinyintan Hospital, Wuhan 43000, China"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xia Qing Wang",
+        "Yi Hu",
+        "Ke Hong"
+      ],
+      "urls": "https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/28/2023 0:00",
+      "retractiondoi": "10.1155/2023/9810793",
+      "retractionpubmedid": "37415894.0",
+      "originalpaperdate": "3/12/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/3019379",
+      "originalpaperpubmedid": "35313515.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefa01f662220d89894fe",
+      "recordId": "45273",
+      "title": "6-month consequences of COVID-19 in patients discharged from hospital: a cohort study",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Medical Department, Jin Yin-tan Hospital, Wuhan, Hubei, China",
         "Department of COVID-19 Re-examination Clinic, Jin Yin-tan Hospital, Wuhan, Hubei, China",
         "Wuhan Research Center for Communicable Disease Diagnosis and Treatment, Chinese Academy of Medical Sciences, Wuhan, Hubei, China",
@@ -42,12 +198,12 @@
         "Department of Respiratory and Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China",
         "Tsinghua University-Peking University Joint Center for Life Sciences, Beijing, China"
       ],
-      "Journal": "Lancet",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Lancet",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Chaolin Huang",
         "Lixue Huang",
         "Yeming Wang",
@@ -81,18 +237,18 @@
         "Dingyu Zhang",
         "Bin Cao"
       ],
-      "URLS": "https://retractionwatch.com/2022/12/01/buzzy-lancet-long-covid-paper-under-investigation-for-data-errors/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2023/06/13/highly-cited-lancet-long-covid-study-retracted-and-republished/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/12/01/buzzy-lancet-long-covid-paper-under-investigation-for-data-errors/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2023/06/13/highly-cited-lancet-long-covid-study-retracted-and-republished/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/9/2023 0:00",
-      "RetractionDOI": "10.1016/S0140-6736(23)01175-3",
-      "RetractionPubMedID": "37307841.0",
-      "OriginalPaperDate": "1/8/2021 0:00",
-      "OriginalPaperDOI": "10.1016/S0140-6736(20)32656-8",
-      "OriginalPaperPubMedID": "33428867.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/9/2023 0:00",
+      "retractiondoi": "10.1016/S0140-6736(23)01175-3",
+      "retractionpubmedid": "37307841.0",
+      "originalpaperdate": "1/8/2021 0:00",
+      "originalpaperdoi": "10.1016/S0140-6736(20)32656-8",
+      "originalpaperpubmedid": "33428867.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Journal/Publisher",
@@ -100,30 +256,31 @@
         "+Retract and Replace",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "see: https://www.sciencedirect.com/science/article/pii/S0140673623008103",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see: https://www.sciencedirect.com/science/article/pii/S0140673623008103",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2344562",
-      "Record ID": "44173",
-      "Title": "Human H9N2 Avian Influenza Infection: Epidemiological and Clinical Characterization of 16 Cases in China",
-      "Subject": [
+      "_id": "687cefa41f662220d8989948",
+      "recordId": "44173",
+      "title": "Human H9N2 Avian Influenza Infection: Epidemiological and Clinical Characterization of 16 Cases in China",
+      "subject": [
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Wuhan JinYinTan Hospital, Wuhan, 430023, China",
         "CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of Virology, Joint Laboratory of Infectious Diseases and Health, Wuhan Institute of Virology and Wuhan Jinyintan Hospital, Center for Biosafety Mega-Science, CAS Center for Influenza Research and Early Warning, Chinese Academy of Sciences, Wuhan, 430071, China",
         "University of Chinese Academy of Sciences, Beijing, 100049, China"
       ],
-      "Journal": "Virologica Sinica",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Virologica Sinica",
+      "publisher": "Springer",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Xuan Dong",
         "Jiasong Xiong",
         "Chaolin Huang",
@@ -138,80 +295,125 @@
         "Dingyu Zhang",
         "Quanjiao Chen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/6/2020 0:00",
-      "RetractionDOI": "10.1007/s12250-020-00248-9",
-      "RetractionPubMedID": "32632816.0",
-      "OriginalPaperDate": "7/6/2020 0:00",
-      "OriginalPaperDOI": "10.1007/s12250-020-00248-9",
-      "OriginalPaperPubMedID": "32632816.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/6/2020 0:00",
+      "retractiondoi": "10.1007/s12250-020-00248-9",
+      "retractionpubmedid": "32632816.0",
+      "originalpaperdate": "7/6/2020 0:00",
+      "originalpaperdoi": "10.1007/s12250-020-00248-9",
+      "originalpaperpubmedid": "32632816.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown"
       ],
-      "Paywalled": "No",
-      "Notes": "Date of retraction unknown; webpage has been overwritten with retraction notice.",
-      "notice_year": 2020,
-      "year": 2020
+      "paywalled": "No",
+      "notes": "Date of retraction unknown; webpage has been overwritten with retraction notice.",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343c44",
-      "Record ID": "46517",
-      "Title": "A Case-Control Study of Photodynamic Therapy Combined with Thymosin in the Treatment of Condyloma Acuminatum in Anal Canal",
-      "Subject": [
-        "(HSC) Medicine - Dermatology",
+      "_id": "687cefb11f662220d898a637",
+      "recordId": "40845",
+      "title": "6-month consequences of COVID-19 in patients discharged from hospital: a cohort study",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
-        "Department of Dermatology and Venereology, The Eighth Hospital of Wuhan, Wuhan 43000, China",
-        "Department of Infectious Diseases, Wuhan Jinyintan Hospital, Wuhan 43000, China"
+      "institution": [
+        "Medical Department, Jin Yin-tan Hospital, Wuhan, Hubei, China",
+        "Department of COVID-19 Re-examination Clinic, Jin Yin-tan Hospital, Wuhan, Hubei, China",
+        "Wuhan Research Center for Communicable Disease Diagnosis and Treatment, Chinese Academy of Medical Sciences, Wuhan, Hubei, China",
+        "Department of Pulmonary and Critical Care Medicine, National Center for Respiratory Medicine, Center of Respiratory Medicine, National Clinical Research Center for Respiratory Diseases, Beijing, China",
+        "Institute of Clinical Medical Sciences, China-Japan Friendship Hospital, Beijing, China",
+        "Department of Radiology, China-Japan Friendship Hospital, Beijing, China",
+        "Institute of Respiratory Medicine, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
+        "NHC Key Laboratory of Systems Biology of Pathogens and Christophe Merieux Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
+        "Key Laboratory of Respiratory Disease Pathogenomics, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
+        "Department of Pulmonary and Critical Care Medicine, Capital Medical University, Beijing, China",
+        "Peking University Clinical Research Institute, Beijing, China",
+        "Harbin Medical University, Harbin, Heilongjiang, China",
+        "Beijing University of Chinese Medicine, Beijing, China",
+        "Tsinghua University School of Medicine, Beijing, China",
+        "Department of Respiratory and Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China",
+        "Tsinghua University-Peking University Joint Center for Life Sciences, Beijing, China"
       ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Lancet",
+      "publisher": "Elsevier",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Xia Qing Wang",
-        "Yi Hu",
-        "Ke Hong"
+      "author": [
+        "Chaolin Huang",
+        "Lixue Huang",
+        "Yeming Wang",
+        "Xia Li",
+        "Lili Ren",
+        "Xiaoying Gu",
+        "Liang Kang",
+        "Li Guo",
+        "Min Liu",
+        "Xing Zhou",
+        "Jianfeng Luo",
+        "Zhenghui Huang",
+        "Shengjin Tu",
+        "Yue Zhao",
+        "Li Chen",
+        "Decui Xu",
+        "Yanping Li",
+        "Caihong Li",
+        "Lu Peng",
+        "Yong Li",
+        "Wuxiang Xie",
+        "Dan Cui",
+        "Lainhan Shang",
+        "Guohui Fan",
+        "Jiuyang Xu",
+        "Geng Wang",
+        "Ying Wang",
+        "Jingchuan Zhong",
+        "Chen Wang",
+        "Jianwei Wang",
+        "Dingyu Zhang",
+        "Bin Cao"
       ],
-      "URLS": "https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/12/01/buzzy-lancet-long-covid-paper-under-investigation-for-data-errors/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/28/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9810793",
-      "RetractionPubMedID": "37415894.0",
-      "OriginalPaperDate": "3/12/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/3019379",
-      "OriginalPaperPubMedID": "35313515.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/24/2022 0:00",
+      "retractiondoi": "10.1016/S0140-6736(22)02370-4",
+      "retractionpubmedid": "36436530.0",
+      "originalpaperdate": "1/8/2021 0:00",
+      "originalpaperdoi": "10.1016/S0140-6736(20)32656-8",
+      "originalpaperpubmedid": "33428867.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Concerns/Issues About Data",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
+        "+Concerns/Issues about Results and/or Conclusions",
         "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Unreliable Results and/or Conclusions"
+        "+Objections by Third Party",
+        "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345a6a",
-      "Record ID": "38756",
-      "Title": "Comprehensive Analysis of the Expression and Prognosis for E2Fs in Human Breast Cancer",
-      "Subject": [
+      "_id": "687cefb51f662220d898ae50",
+      "recordId": "38756",
+      "title": "Comprehensive Analysis of the Expression and Prognosis for E2Fs in Human Breast Cancer",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Occupational and Environmental Health, School of Health Sciences, Wuhan University, Wuhan 430071, Hubei, China",
         "Department of Molecular and Cellular Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA. Electronic address: chengcaosun@whu.edu.cn",
         "Wuhan Hospital for the Prevention and Treatment of Occupational Diseases, Wuhan 430022, Hubei, China",
@@ -226,13 +428,13 @@
         "Department of Occupational and Environmental Health, School of Health Sciences, Wuhan University, Wuhan 430071, Hubei, China. Electronic address: heqiqiang@gmail.com",
         "Department of Occupational and Environmental Health, School of Health Sciences, Wuhan University, Wuhan 430071, Hubei, China. Electronic address: lodjlwhu@sina.com"
       ],
-      "Journal": "Molecular Therapy",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Molecular Therapy",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Cheng Cao Sun",
         "Shu Jun Li",
         "Wei Hu",
@@ -255,156 +457,50 @@
         "Qi Qiang He",
         "De Jia Li"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/23/2022 0:00",
-      "RetractionDOI": "10.1016/j.ymthe.2022.03.018",
-      "RetractionPubMedID": "35797981.0",
-      "OriginalPaperDate": "4/6/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.ymthe.2019.03.019",
-      "OriginalPaperPubMedID": "31010740.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/23/2022 0:00",
+      "retractiondoi": "10.1016/j.ymthe.2022.03.018",
+      "retractionpubmedid": "35797981.0",
+      "originalpaperdate": "4/6/2019 0:00",
+      "originalpaperdoi": "10.1016/j.ymthe.2019.03.019",
+      "originalpaperpubmedid": "31010740.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23400ef",
-      "Record ID": "61747",
-      "Title": "Clinical Application of Artificial Intelligence: Auto-Discerning the Effectiveness of Lidocaine Concentration Levels in Osteosarcoma Femoral Tumor Segment Resection",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Anesthesiology, Yantaishan Hospital, Yantai 264003, Shandong, China",
-        "Department of Surgery, Jinyintan Hospital, Wuhan, Hubei 430022, China"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Shuqin Ni",
-        "Xin Li",
-        "Xiuna Yi"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/11/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9816857",
-      "RetractionPubMedID": "37860374.0",
-      "OriginalPaperDate": "3/28/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/7069348",
-      "OriginalPaperPubMedID": "35388316.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Informed/Patient Consent - None/Withdrawn",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23438aa",
-      "Record ID": "47439",
-      "Title": "The Effect of Routine Management Combined with Case Management Model on Social Support, Self-Efficacy, Self-Management Ability, and Psychological Flexibility of AIDS Patients",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Nursing",
-        "(SOC) Psychology"
-      ],
-      "Institution": [
-        "Department of Infectious Diseases, Jinyintan Hospital, Wuhan, China 430000",
-        "Department of Dermatology, Huangshi Central Hospital, Affiliated Hospital of Hubei Polytechnic University, Edong Healthcare Group, Hubei Key Laboratory of Kidney Disease Pathogenesis and Intervention, China"
-      ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Li Liu",
-        "Jing Zhou",
-        "Huan Xiao",
-        "Yanhe Luo",
-        "Yan Zeng",
-        "Li Fan",
-        "Chen Zheng"
-      ],
-      "URLS": "https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "6/28/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9820253",
-      "RetractionPubMedID": "37416130.0",
-      "OriginalPaperDate": "8/4/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/9213877",
-      "OriginalPaperPubMedID": "35966241.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Human Subject Welfare",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2348958",
-      "Record ID": "26695",
-      "Title": "Autopsy and Histologic Findings of Patients with New Coronavirus Pneumonia: The Pathologic Associations with Hypoxemia",
-      "Subject": [
+      "_id": "687ceff81f662220d898dd3e",
+      "recordId": "26695",
+      "title": "Autopsy and Histologic Findings of Patients with New Coronavirus Pneumonia: The Pathologic Associations with Hypoxemia",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pathology, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, P.R. China",
         "Department of Pathology, Jin Yin-tan Hospital, Wuhan, Hubei, P.R. China",
         "Department of Pathology, General Hospital of Central Theater Command, People\u2019s Liberation Army (PLA), Wuhan, Hubei, P.R. China",
         "Department of Pathology, Shanghai Jiaotong University School of Medicine, Shanghai, P.R. China",
         "Department of Ultrasound, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, P.R. China"
       ],
-      "Journal": "Medical Science Monitor: International Medical Journal of Experimental and Clinical Research",
-      "Publisher": "International Scientific Information, Inc",
-      "Country": [
+      "journal": "Medical Science Monitor: International Medical Journal of Experimental and Clinical Research",
+      "publisher": "International Scientific Information, Inc",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Heng Zhang",
         "Jun Zhou",
         "Rong Chen",
@@ -417,165 +513,79 @@
         "Ling Yuan",
         "Chaofu Wang"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/17/2021 0:00",
-      "RetractionDOI": "10.12659/MSM.932092",
-      "RetractionPubMedID": "33727524.0",
-      "OriginalPaperDate": "2/13/2021 0:00",
-      "OriginalPaperDOI": "10.12659/MSM.928837",
-      "OriginalPaperPubMedID": "33580949.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/17/2021 0:00",
+      "retractiondoi": "10.12659/MSM.932092",
+      "retractionpubmedid": "33727524.0",
+      "originalpaperdate": "2/13/2021 0:00",
+      "originalpaperdoi": "10.12659/MSM.928837",
+      "originalpaperpubmedid": "33580949.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021
-    },
-    {
-      "_id": "6855d574b14f7811d2345251",
-      "Record ID": "40845",
-      "Title": "6-month consequences of COVID-19 in patients discharged from hospital: a cohort study",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Infectious Disease"
-      ],
-      "Institution": [
-        "Medical Department, Jin Yin-tan Hospital, Wuhan, Hubei, China",
-        "Department of COVID-19 Re-examination Clinic, Jin Yin-tan Hospital, Wuhan, Hubei, China",
-        "Wuhan Research Center for Communicable Disease Diagnosis and Treatment, Chinese Academy of Medical Sciences, Wuhan, Hubei, China",
-        "Department of Pulmonary and Critical Care Medicine, National Center for Respiratory Medicine, Center of Respiratory Medicine, National Clinical Research Center for Respiratory Diseases, Beijing, China",
-        "Institute of Clinical Medical Sciences, China-Japan Friendship Hospital, Beijing, China",
-        "Department of Radiology, China-Japan Friendship Hospital, Beijing, China",
-        "Institute of Respiratory Medicine, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
-        "NHC Key Laboratory of Systems Biology of Pathogens and Christophe Merieux Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
-        "Key Laboratory of Respiratory Disease Pathogenomics, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
-        "Department of Pulmonary and Critical Care Medicine, Capital Medical University, Beijing, China",
-        "Peking University Clinical Research Institute, Beijing, China",
-        "Harbin Medical University, Harbin, Heilongjiang, China",
-        "Beijing University of Chinese Medicine, Beijing, China",
-        "Tsinghua University School of Medicine, Beijing, China",
-        "Department of Respiratory and Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China",
-        "Tsinghua University-Peking University Joint Center for Life Sciences, Beijing, China"
-      ],
-      "Journal": "Lancet",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Chaolin Huang",
-        "Lixue Huang",
-        "Yeming Wang",
-        "Xia Li",
-        "Lili Ren",
-        "Xiaoying Gu",
-        "Liang Kang",
-        "Li Guo",
-        "Min Liu",
-        "Xing Zhou",
-        "Jianfeng Luo",
-        "Zhenghui Huang",
-        "Shengjin Tu",
-        "Yue Zhao",
-        "Li Chen",
-        "Decui Xu",
-        "Yanping Li",
-        "Caihong Li",
-        "Lu Peng",
-        "Yong Li",
-        "Wuxiang Xie",
-        "Dan Cui",
-        "Lainhan Shang",
-        "Guohui Fan",
-        "Jiuyang Xu",
-        "Geng Wang",
-        "Ying Wang",
-        "Jingchuan Zhong",
-        "Chen Wang",
-        "Jianwei Wang",
-        "Dingyu Zhang",
-        "Bin Cao"
-      ],
-      "URLS": "https://retractionwatch.com/2022/12/01/buzzy-lancet-long-covid-paper-under-investigation-for-data-errors/;https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/24/2022 0:00",
-      "RetractionDOI": "10.1016/S0140-6736(22)02370-4",
-      "RetractionPubMedID": "36436530.0",
-      "OriginalPaperDate": "1/8/2021 0:00",
-      "OriginalPaperDOI": "10.1016/S0140-6736(20)32656-8",
-      "OriginalPaperPubMedID": "33428867.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Third Party",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 3,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 2
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

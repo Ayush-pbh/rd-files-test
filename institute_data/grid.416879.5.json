@@ -1,71 +1,134 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068799bb",
+    "_id": "687ccbab09adbf7aa61ba5dc",
     "grid_id": "grid.416879.5",
     "institute_name": "Virginia Mason Medical Center",
     "country": "United States",
     "retracted_record_ids": [
+      "21658",
       "6455",
-      "5471",
-      "21658"
+      "5471"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d7f3",
-      "Record ID": "6455",
-      "Title": "The role of estrogen on the pathology of cerebral aneurysms",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f0d9",
+      "recordId": "21658",
+      "title": "Sedation and anesthesia in GI endoscopy",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Gastroenterology"
+      ],
+      "institution": [
+        "Boston University School of Medicine",
+        "Mercy Medical Center Baltimore",
+        "UNC School of Medicine",
+        "University of Michigan, Ann Arbor",
+        "Stanford University School of Medicine",
+        "Mayo Clinic Scottsdale-Phoenix, Arizona",
+        "Virginia Mason Medical Center",
+        "Guthrie",
+        "University of Washington School of Medicine",
+        "Cleveland Clinic Foundation",
+        "Georgetown University",
+        "Cleveland Clinic Lerner College of Medicine"
+      ],
+      "journal": "Gastrointestinal Endoscopy",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "David R Lichtenstein",
+        "Sanjay B Jagannath",
+        "Todd H Baron",
+        "Michelle A Anderson",
+        "Subhas Banerjee",
+        "Jason A Dominitz",
+        "Robert D Fanelli",
+        "Sengian Gan",
+        "Melanie Edwyn Harrison",
+        "Steven O Ikenberry",
+        "Bo Shen",
+        "Leslie E Stewart",
+        "Khalid Mahmood Khan",
+        "John J Vargo"
+      ],
+      "articletype": [
+        "Guideline"
+      ],
+      "retractiondate": "8/1/2008 0:00",
+      "retractiondoi": "10.1016/j.gie.2008.06.002",
+      "retractionpubmedid": "18656591.0",
+      "originalpaperdate": "7/24/2008 0:00",
+      "originalpaperdoi": "10.1016/j.gie.2008.06.002",
+      "originalpaperpubmedid": "18656591.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2008",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bf1f662220d8992bd9",
+      "recordId": "6455",
+      "title": "The role of estrogen on the pathology of cerebral aneurysms",
+      "subject": [
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurosurgery, Helsinki University Central Hospital, Helsinki, Finland",
         "Department of Neurosurgery, Institute of Biomedical Sciences, Tokushima University Graduate School , Tokushima , Japan",
         "Neuroscience Institute, Virginia Mason Medical Center, Seattle, WA, USA",
         "Department of Neurosurgery, Mitra Keluarga Group Hospital, Jakarta, Indonesia"
       ],
-      "Journal": "Expert Review of Neurotherapeutics",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Expert Review of Neurotherapeutics",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Finland",
         "Indonesia",
         "Japan",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hidetsugu Maekawa",
         "Joseph C Serrone",
         "Mardjono Tjahjadi",
         "Juha Hernesniemi"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "8/3/2016 0:00",
-      "RetractionDOI": "10.1080/14737175.2016.1219125",
-      "RetractionPubMedID": "27487417.0",
-      "OriginalPaperDate": "5/27/2016 0:00",
-      "OriginalPaperDOI": "10.1080/14737175.2016.1189827",
-      "OriginalPaperPubMedID": "27177293.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/3/2016 0:00",
+      "retractiondoi": "10.1080/14737175.2016.1219125",
+      "retractionpubmedid": "27487417.0",
+      "originalpaperdate": "5/27/2016 0:00",
+      "originalpaperdoi": "10.1080/14737175.2016.1189827",
+      "originalpaperpubmedid": "27177293.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Copyright Claims"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "system"
+      "paywalled": "Yes",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dbb7",
-      "Record ID": "5471",
-      "Title": "Novel APC-like properties of human NK cells directly regulate T cell activation",
-      "Subject": [
+      "_id": "687cf0c31f662220d8992f9d",
+      "recordId": "5471",
+      "title": "Novel APC-like properties of human NK cells directly regulate T cell activation",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
+      "institution": [
         "The Lautenberg Center for General and Tumor Immunology, Hebrew University\u2013Hadassah Medical School, Jerusalem, Israel",
         "Biogen Idec Inc., San Diego, California, USA",
         "Institute of Immunology, University of Oslo, Oslo, Norway",
@@ -74,15 +137,15 @@
         "The Laboratory for Cellular and Molecular Immunology, Department of Medicine, and Department of Obstetrics and Gynecology, Hadassah Hospital, Jerusalem, Israel",
         "Benaroya Research Institute, Seattle, Washington, USA"
       ],
-      "Journal": "The Journal of Clinical Investigation (JCI)",
-      "Publisher": "American Society for Clinical Investigation",
-      "Country": [
+      "journal": "The Journal of Clinical Investigation (JCI)",
+      "publisher": "American Society for Clinical Investigation",
+      "country": [
         "Germany",
         "Israel",
         "Norway",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jacob Hanna",
         "Tsufit Gonen-Gross",
         "Jonathan Fitchett",
@@ -101,18 +164,18 @@
         "Jane H Buckner",
         "Ofer Mandelboim"
       ],
-      "URLS": "http://retractionwatch.com/2015/04/08/jci-retracts-stem-cell-paper-by-jacob-hanna-citing-figure-irregularities/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/04/08/jci-retracts-stem-cell-paper-by-jacob-hanna-citing-figure-irregularities/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2015 0:00",
-      "RetractionDOI": "10.1172/JCI81527",
-      "RetractionPubMedID": "25831444.0",
-      "OriginalPaperDate": "12/1/2004 0:00",
-      "OriginalPaperDOI": "10.1172/JCI22787",
-      "OriginalPaperPubMedID": "15578093.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2015 0:00",
+      "retractiondoi": "10.1172/JCI81527",
+      "retractionpubmedid": "25831444.0",
+      "originalpaperdate": "12/1/2004 0:00",
+      "originalpaperdoi": "10.1172/JCI22787",
+      "originalpaperpubmedid": "15578093.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Error in Data",
@@ -120,91 +183,32 @@
         "+Objections by Author(s)",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2004,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2349cf3",
-      "Record ID": "21658",
-      "Title": "Sedation and anesthesia in GI endoscopy",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Gastroenterology"
-      ],
-      "Institution": [
-        "Boston University School of Medicine",
-        "Mercy Medical Center Baltimore",
-        "UNC School of Medicine",
-        "University of Michigan, Ann Arbor",
-        "Stanford University School of Medicine",
-        "Mayo Clinic Scottsdale-Phoenix, Arizona",
-        "Virginia Mason Medical Center",
-        "Guthrie",
-        "University of Washington School of Medicine",
-        "Cleveland Clinic Foundation",
-        "Georgetown University",
-        "Cleveland Clinic Lerner College of Medicine"
-      ],
-      "Journal": "Gastrointestinal Endoscopy",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "David R Lichtenstein",
-        "Sanjay B Jagannath",
-        "Todd H Baron",
-        "Michelle A Anderson",
-        "Subhas Banerjee",
-        "Jason A Dominitz",
-        "Robert D Fanelli",
-        "Sengian Gan",
-        "Melanie Edwyn Harrison",
-        "Steven O Ikenberry",
-        "Bo Shen",
-        "Leslie E Stewart",
-        "Khalid Mahmood Khan",
-        "John J Vargo"
-      ],
-      "ArticleType": [
-        "Guideline"
-      ],
-      "RetractionDate": "8/1/2008 0:00",
-      "RetractionDOI": "10.1016/j.gie.2008.06.002",
-      "RetractionPubMedID": "18656591.0",
-      "OriginalPaperDate": "7/24/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.gie.2008.06.002",
-      "OriginalPaperPubMedID": "18656591.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2008,
-      "year": 2008
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -212,21 +216,21 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

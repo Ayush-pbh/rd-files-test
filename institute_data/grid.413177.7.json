@@ -1,25 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879e55",
+    "_id": "687ccbab09adbf7aa61baa76",
     "grid_id": "grid.413177.7",
     "institute_name": "C. S. Mott Children's Hospital",
     "country": "United States",
     "retracted_record_ids": [
-      "9506",
-      "7973"
+      "7973",
+      "9506"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234cc32",
-      "Record ID": "9506",
-      "Title": "Inpatient pediatric psychology consultation-liaison practice survey",
-      "Subject": [
+      "_id": "687cf0b51f662220d8992018",
+      "recordId": "9506",
+      "title": "Inpatient pediatric psychology consultation-liaison practice survey",
+      "subject": [
         "(HSC) Medicine - Pediatrics",
         "(HSC) Medicine - Psychiatry",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pediatrics & Communicable Diseases, University of Michigan/C.S. Mott Children\u2019s Hospital",
         "Division of Child & Adolescent Psychiatry, The Institute of Living/ Hartford Hospital, Hartford, Connecticut",
         "Division of Behavioral Medicine & Clinical Psychology, Cincinnati Children\u2019s Hospital Medical Center, University of Cincinnati",
@@ -27,12 +27,12 @@
         "Department of Psychiatry, Riley Children\u2019s Hospital, Indiana University School of Medicine",
         "Department of Psychology, Kalamazoo College"
       ],
-      "Journal": "Clinical Practice in Pediatric Psychology",
-      "Publisher": "American Psychological Association (APA)",
-      "Country": [
+      "journal": "Clinical Practice in Pediatric Psychology",
+      "publisher": "American Psychological Association (APA)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Kristin A Kullgren",
         "Kevin K Tsang",
         "Michelle M Ernst",
@@ -40,85 +40,87 @@
         "Eric L Scott",
         "Sarah K Sullivan"
       ],
-      "URLS": "http://retractionwatch.com/2016/01/27/authors-reveal-lessons-learned-from-a-pediatric-psych-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/01/27/authors-reveal-lessons-learned-from-a-pediatric-psych-retraction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/13/2015 0:00",
-      "RetractionDOI": "10.1037/cpp0000094",
-      "OriginalPaperDate": "2/2/2015 0:00",
-      "OriginalPaperDOI": "10.1037/cpp0000089",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/13/2015 0:00",
+      "retractiondoi": "10.1037/cpp0000094",
+      "originalpaperdate": "2/2/2015 0:00",
+      "originalpaperdoi": "10.1037/cpp0000089",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Doing the Right Thing",
         "+Error in Analyses",
         "+Error in Data",
         "+Error in Methods",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d21a",
-      "Record ID": "7973",
-      "Title": "Poor Feeding, Weight Loss, and Electrolyte Abnormalities in a Term Infant",
-      "Subject": [
+      "_id": "687cf0b91f662220d8992600",
+      "recordId": "7973",
+      "title": "Poor Feeding, Weight Loss, and Electrolyte Abnormalities in a Term Infant",
+      "subject": [
         "(HSC) Medicine - Pediatrics"
       ],
-      "Institution": [
+      "institution": [
         "University of Michigan Health System, C.S. Mott Children\u2019s Hospital, Ann Arbor, MI, USA"
       ],
-      "Journal": "Clinical Pediatrics",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "Clinical Pediatrics",
+      "publisher": "SAGE Publications",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Prashanthi Kandavel",
         "David Selewski",
         "Meera Shah"
       ],
-      "ArticleType": [
+      "articletype": [
         "Case Report"
       ],
-      "RetractionDate": "12/22/2016 0:00",
-      "RetractionDOI": "10.1177/0009922816684617",
-      "RetractionPubMedID": "28006987.0",
-      "OriginalPaperDate": "5/15/2016 0:00",
-      "OriginalPaperDOI": "10.1177/0009922816649591",
-      "OriginalPaperPubMedID": "27184398.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/22/2016 0:00",
+      "retractiondoi": "10.1177/0009922816684617",
+      "retractionpubmedid": "28006987.0",
+      "originalpaperdate": "5/15/2016 0:00",
+      "originalpaperdoi": "10.1177/0009922816649591",
+      "originalpaperpubmedid": "27184398.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

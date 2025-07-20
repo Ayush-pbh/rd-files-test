@@ -1,83 +1,38 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878946",
+    "_id": "687ccbab09adbf7aa61b9567",
     "grid_id": "grid.412925.9",
     "institute_name": "Glenfield Hospital",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "3478",
-      "51857"
+      "51857",
+      "3478"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e35c",
-      "Record ID": "3478",
-      "Title": "The complications of repeat median sternotomy in paediatrics: six-months follow-up of consecutive cases",
-      "Subject": [
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Pediatrics",
-        "(HSC) Medicine - Surgery",
-        "(PHY) Statistics"
-      ],
-      "Institution": [
-        "Department of Cardiothoracic Surgery, Glenfield Hospital, Groby Road, Leicester LE3 9QP, UK"
-      ],
-      "Journal": "Interactive Cardiovascular and Thoracic Surgery",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Maqsood M Elahi",
-        "Rathy Kirke",
-        "Darren Lee",
-        "Ramana Rao V Dhannapuneni",
-        "Mark St J Hickey"
-      ],
-      "URLS": "http://retractionwatch.com/2014/11/12/significant-copying-forces-retraction-of-sternotomy-paper/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/1/2014 0:00",
-      "RetractionDOI": "10.1093/icvts/ivu349",
-      "RetractionPubMedID": "25344572.0",
-      "OriginalPaperDate": "8/1/2005 0:00",
-      "OriginalPaperDOI": "10.1510/icvts.2005.107755",
-      "OriginalPaperPubMedID": "17670430.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2005,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2342773",
-      "Record ID": "51857",
-      "Title": "Exosome-Mediated miR-155 Transfer from Smooth Muscle Cells to Endothelial Cells Induces Endothelial Injury and Promotes Atherosclerosis",
-      "Subject": [
+      "_id": "687cef871f662220d8987b59",
+      "recordId": "51857",
+      "title": "Exosome-Mediated miR-155 Transfer from Smooth Muscle Cells to Endothelial Cells Induces Endothelial Injury and Promotes Atherosclerosis",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biochemistry and Molecular Biology, Key Laboratory of Neural and Vascular Biology, Ministry of Education, Hebei Medical University, Shijiazhuang 050017, China",
         "Paediatric Department, Handan First Hospital, Handan 056000, China",
         "Department of Cardiovascular Sciences and NIHR Leicester Cardiovascular Biomedical Research Unit, Glenfield Hospital, Groby Road, Leicester LE3 9QP, UK",
         "Department of Cardiovascular Sciences, Jichi Medical University, 3311-1 Yakushiji, Shimotsuke-shi, Tochigi-ken 329-0498, Japan"
       ],
-      "Journal": "Molecular Therapy",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Molecular Therapy",
+      "publisher": "Elsevier",
+      "country": [
         "China",
         "Japan",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Bin Zheng",
         "Wei-na Yin",
         "Toru Suzuki",
@@ -90,37 +45,84 @@
         "Jin-shui Li",
         "Jin-kun Wen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/9/2024 0:00",
-      "RetractionDOI": "10.1016/j.ymthe.2024.02.007",
-      "RetractionPubMedID": "38340734.0",
-      "OriginalPaperDate": "6/9/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.ymthe.2017.03.031",
-      "OriginalPaperPubMedID": "28408180.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/9/2024 0:00",
+      "retractiondoi": "10.1016/j.ymthe.2024.02.007",
+      "retractionpubmedid": "38340734.0",
+      "originalpaperdate": "6/9/2017 0:00",
+      "originalpaperdoi": "10.1016/j.ymthe.2017.03.031",
+      "originalpaperpubmedid": "28408180.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party"
       ],
-      "Paywalled": "No",
-      "Notes": "see also https://pubpeer.com/publications/27DB27049037B0035A83F35E244A8B",
-      "notice_year": 2024,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also https://pubpeer.com/publications/27DB27049037B0035A83F35E244A8B",
+      "year": "2017",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d8993742",
+      "recordId": "3478",
+      "title": "The complications of repeat median sternotomy in paediatrics: six-months follow-up of consecutive cases",
+      "subject": [
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Pediatrics",
+        "(HSC) Medicine - Surgery",
+        "(PHY) Statistics"
+      ],
+      "institution": [
+        "Department of Cardiothoracic Surgery, Glenfield Hospital, Groby Road, Leicester LE3 9QP, UK"
+      ],
+      "journal": "Interactive Cardiovascular and Thoracic Surgery",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Maqsood M Elahi",
+        "Rathy Kirke",
+        "Darren Lee",
+        "Ramana Rao V Dhannapuneni",
+        "Mark St J Hickey"
+      ],
+      "urls": "http://retractionwatch.com/2014/11/12/significant-copying-forces-retraction-of-sternotomy-paper/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/1/2014 0:00",
+      "retractiondoi": "10.1093/icvts/ivu349",
+      "retractionpubmedid": "25344572.0",
+      "originalpaperdate": "8/1/2005 0:00",
+      "originalpaperdoi": "10.1510/icvts.2005.107755",
+      "originalpaperpubmedid": "17670430.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article"
+      ],
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -128,32 +130,32 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

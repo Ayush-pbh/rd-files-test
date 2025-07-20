@@ -1,6 +1,6 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878a5a",
+    "_id": "687ccbab09adbf7aa61b967b",
     "grid_id": "grid.411492.b",
     "institute_name": "Ospedale Santa Maria della Misericordia di Udine",
     "country": "Italy",
@@ -10,16 +10,16 @@
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2343003",
-      "Record ID": "49661",
-      "Title": "An Innovative Tool for Evidence-Based, Personalized Treatment Trials in Mucopolysaccharidosis",
-      "Subject": [
+      "_id": "687cef8d1f662220d89883e9",
+      "recordId": "49661",
+      "title": "An Innovative Tool for Evidence-Based, Personalized Treatment Trials in Mucopolysaccharidosis",
+      "subject": [
         "(B/T) Data Science",
         "(BLS) Biochemistry",
         "(BLS) Genetics",
         "(HSC) Medicine - Endocrinology"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Congenital Metabolic Diseases, Paracelsus Medical University, 5020 Salzburg, Austria",
         "European Reference Network for Hereditary Metabolic Diseases, MetabERN, 33100 Udine, Italy",
         "Stem Cell and Neurotherapies, Division of Cell Matrix Biology and Regenerative Medicine, Faculty of Biology, Medicine and Health, University of Manchester, Manchester M13 9PL, UK",
@@ -31,16 +31,16 @@
         "Team Biostatistics and Big Medical Data, IDA Lab Salzburg, Paracelsus Medical University, 5020 Salzburg, Austria",
         "Research and Innovation Management, Paracelsus Medical University, 5020 Salzburg, Austria"
       ],
-      "Journal": "Pharmaceutics",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "Pharmaceutics",
+      "publisher": "MDPI",
+      "country": [
         "Austria",
         "Brazil",
         "Germany",
         "Italy",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Anna-Maria Wiesinger",
         "Brian Bigger",
         "Roberto Giugliani",
@@ -51,17 +51,17 @@
         "Georg Zimmermann",
         "Florian B Lagler"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/7/2023 0:00",
-      "RetractionDOI": "10.3390/pharmaceutics15112596",
-      "RetractionPubMedID": "38004626.0",
-      "OriginalPaperDate": "5/22/2023 0:00",
-      "OriginalPaperDOI": "10.3390/pharmaceutics15051565",
-      "OriginalPaperPubMedID": "37242808.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/7/2023 0:00",
+      "retractiondoi": "10.3390/pharmaceutics15112596",
+      "retractionpubmedid": "38004626.0",
+      "originalpaperdate": "5/22/2023 0:00",
+      "originalpaperdoi": "10.3390/pharmaceutics15051565",
+      "originalpaperpubmedid": "37242808.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Error in Analyses",
         "+Error in Results and/or Conclusions",
@@ -69,23 +69,24 @@
         "+Lack of Approval from Company/Institution",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2023,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

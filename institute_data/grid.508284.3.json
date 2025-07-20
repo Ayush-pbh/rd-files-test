@@ -1,37 +1,37 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878357",
+    "_id": "687ccbab09adbf7aa61b8f78",
     "grid_id": "grid.508284.3",
     "institute_name": "Huanggang Central Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "57956",
       "45834",
-      "55674"
+      "55674",
+      "57956"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2340fba",
-      "Record ID": "57956",
-      "Title": "Computational Biology Predicts the Efficacy of Tumor Immune Checkpoint Blockade",
-      "Subject": [
+      "_id": "687cef6f1f662220d89863a0",
+      "recordId": "57956",
+      "title": "Computational Biology Predicts the Efficacy of Tumor Immune Checkpoint Blockade",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology, The First Affiliated Hospital of Yangtze University, Jingzhou, 434000 Hubei, China",
         "School of Medicine, Wuhan University of Science and Technology, Wuhan 430061, China",
         "Department of Laboratory Medicine, Chuzhou Maternal and Child Health Care and Family Planning Service Center, Chuzhou 239000, China",
         "Huanggang Central Hospital of Yangtze University, Huanggang 43800, China"
       ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Wenyi Kang",
         "Yao Tong",
         "Weijia Zhang",
@@ -41,105 +41,63 @@
         "Hao Fan",
         "Jiyuan Yang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/29/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9842538",
-      "RetractionPubMedID": "38188737.0",
-      "OriginalPaperDate": "9/28/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/6087751",
-      "OriginalPaperPubMedID": "36212709.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/29/2023 0:00",
+      "retractiondoi": "10.1155/2023/9842538",
+      "retractionpubmedid": "38188737.0",
+      "originalpaperdate": "9/28/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/6087751",
+      "originalpaperpubmedid": "36212709.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review",
         "+Investigation by Journal/Publisher",
         "+Investigation by Third Party",
         "+Paper Mill",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2343ee9",
-      "Record ID": "45834",
-      "Title": "Prognostic value of programmed cell death ligand 1 expression in patients with head and neck cancer: A systematic review and meta-analysis",
-      "Subject": [
-        "(B/T) Data Science",
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Stomatology, Huanggang Central Hospital, Huanggang, Hubei, China",
-        "Department of Oncology, Huanggang Central Hospital, Huanggang, Hubei, China",
-        "Department of Stomatology, The People's Hospital of Tuanfeng, Huanggang, Hubei, China"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ji Li",
-        "Ping Wang",
-        "Youliang Xu"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/28/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0278502",
-      "RetractionPubMedID": "36441744.0",
-      "OriginalPaperDate": "6/12/2017 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0179536",
-      "OriginalPaperPubMedID": "28604812.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Concerns/Issues about Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23418a1",
-      "Record ID": "55674",
-      "Title": "Inhibition of TLR4 Suppresses the Inflammatory Response in Inflammatory Bowel Disease (IBD) by Modulating the PDK1-Induced Metabolism Reprogramming via a m6A-Denpendent Manner",
-      "Subject": [
+      "_id": "687cef761f662220d8986c87",
+      "recordId": "55674",
+      "title": "Inhibition of TLR4 Suppresses the Inflammatory Response in Inflammatory Bowel Disease (IBD) by Modulating the PDK1-Induced Metabolism Reprogramming via a m6A-Denpendent Manner",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Gastroenterology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Digestive Medicine, Huanggang Central Hospital, Hubei Province Huanggang City 438000, China"
       ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Jing Wang",
         "Jing Huang",
         "Liang Fang"
       ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/27/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9872016",
-      "RetractionPubMedID": "37811274.0",
-      "OriginalPaperDate": "7/4/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/1335562",
-      "OriginalPaperPubMedID": "35832126.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/27/2023 0:00",
+      "retractiondoi": "10.1155/2023/9872016",
+      "retractionpubmedid": "37811274.0",
+      "originalpaperdate": "7/4/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/1335562",
+      "originalpaperpubmedid": "35832126.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Concerns/Issues about Referencing/Attributions",
@@ -150,43 +108,88 @@
         "+Computer-Aided Content or Computer-Generated Content",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://pubpeer.com/publications/DEDDD5C6A103DEBB3DA42329C66AA9",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://pubpeer.com/publications/DEDDD5C6A103DEBB3DA42329C66AA9",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef9e1f662220d89892cf",
+      "recordId": "45834",
+      "title": "Prognostic value of programmed cell death ligand 1 expression in patients with head and neck cancer: A systematic review and meta-analysis",
+      "subject": [
+        "(B/T) Data Science",
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Stomatology, Huanggang Central Hospital, Huanggang, Hubei, China",
+        "Department of Oncology, Huanggang Central Hospital, Huanggang, Hubei, China",
+        "Department of Stomatology, The People's Hospital of Tuanfeng, Huanggang, Hubei, China"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Ji Li",
+        "Ping Wang",
+        "Youliang Xu"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/28/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0278502",
+      "retractionpubmedid": "36441744.0",
+      "originalpaperdate": "6/12/2017 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0179536",
+      "originalpaperpubmedid": "28604812.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Author Unresponsive",
+        "+Concerns/Issues about Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

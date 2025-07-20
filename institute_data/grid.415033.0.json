@@ -1,6 +1,6 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a1be",
+    "_id": "687ccbab09adbf7aa61baddf",
     "grid_id": "grid.415033.0",
     "institute_name": "Francis Hospital",
     "country": "Germany",
@@ -10,14 +10,14 @@
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ed2c",
-      "Record ID": "902",
-      "Title": "Radiotherapy for Giant Cell Tumors of the Bone: A Safe and Effective Treatment Modality",
-      "Subject": [
+      "_id": "687cf0d51f662220d8994112",
+      "recordId": "902",
+      "title": "Radiotherapy for Giant Cell Tumors of the Bone: A Safe and Effective Treatment Modality",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
+      "institution": [
         "Department of Radiation Oncology, University of Cologne, Cologne, Germany",
         "Department of Radiation Oncology, University Hospital Muenster, Muenster, Germany",
         "Department of Radiotherapy, Lippe Hospital, Lemgo, Germany",
@@ -27,12 +27,12 @@
         "Department of Orthopedics, University Hospital Muenster, Muenster, Germany",
         "Department of Radiotherapy and Radiation Oncology, Franziskus Hospital, Bielefeld, Germany"
       ],
-      "Journal": "Anticancer Research",
-      "Publisher": "The International Institute of Anticancer Research",
-      "Country": [
+      "journal": "Anticancer Research",
+      "publisher": "The International Institute of Anticancer Research",
+      "country": [
         "Germany"
       ],
-      "Author": [
+      "author": [
         "Jan Kriz",
         "Hans Theodor Eich",
         "Ralph Mucke",
@@ -43,32 +43,33 @@
         "Georg Gosheger",
         "Oliver Micke"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/1/2012 0:00",
-      "RetractionPubMedID": "22843954.0",
-      "OriginalPaperDate": "5/1/2012 0:00",
-      "OriginalPaperPubMedID": "22593490.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2012 0:00",
+      "retractionpubmedid": "22843954.0",
+      "originalpaperdate": "5/1/2012 0:00",
+      "originalpaperpubmedid": "22593490.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     }

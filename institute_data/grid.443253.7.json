@@ -1,136 +1,104 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068778d9",
+    "_id": "687ccbab09adbf7aa61b84fa",
     "grid_id": "grid.443253.7",
     "institute_name": "Beijing Institute of Graphic Communication",
     "country": "China",
     "retracted_record_ids": [
       "10852",
       "10501",
-      "63134",
-      "11147",
-      "12651",
-      "11061",
       "36809",
+      "63134",
+      "11061",
+      "12651",
+      "11147",
       "63425"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234c6f5",
-      "Record ID": "10852",
-      "Title": "A curve reconstruction method to high-speed cam on printing press",
-      "Subject": [
-        "(B/T) Technology",
-        "(PHY) Mathematics"
+      "_id": "687cef591f662220d8984e56",
+      "recordId": "63425",
+      "title": "GTLP: A graph transformer based link prediction framework with unified feature pre-processing",
+      "subject": [
+        "(B/T) Data Science",
+        "(B/T) Technology"
       ],
-      "Institution": [
-        "College of Information & Mechanical Engineering, Beijing Institute of Graphic Communication, 102600, China"
+      "institution": [
+        "School of Information Engineering, Beijing Institute of Graphic Communication, Beijing, China",
+        "School of Information Science and Engineering, Beijing City University, Beijing, China"
       ],
-      "Journal": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "Journal of Intelligent & Fuzzy Systems",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Fang Rui-Ming",
-        "Chen Hong"
+      "author": [
+        "Man Hu",
+        "Dezhi Sun",
+        "Yihan Bai",
+        "Han Xiao",
+        "Fucheng You"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
+      "urls": "https://retractionwatch.com/2024/08/23/exclusive-publisher-retracts-more-than-450-papers-from-journal-it-acquired-last-year/",
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "11/4/2010 0:00",
-      "RetractionDOI": "10.1109/ICCASM.2010.5620809",
-      "OriginalPaperDate": "10/22/2010 0:00",
-      "OriginalPaperDOI": "10.1109/ICCASM.2010.5620809",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Investigation by Journal/Publisher"
+      "retractiondate": "8/23/2024 0:00",
+      "retractiondoi": "10.3233/JIFS-219433",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/23/2024 0:00",
+      "originalpaperdoi": "10.3233/jifs-237506",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Removed"
       ],
-      "Paywalled": "Yes",
-      "Notes": "http://ieeexplore.ieee.org/document/5620809/",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "As of 4/3/2025, the URL https://doi.org/10.3233/jifs-237506 is unavailable. Publication date of the original article is derived from https://www.semanticscholar.org/paper/GTLP%3A-A-graph-transformer-based-link-prediction-Hu-Sun/be5088aa8a2ca0e9e1ac6ad59372289d9f84ffc8 Author affiliation derived from: http://globalauthorid.com/WebPortal/ArticleView?wd=99650DDA0778E9ED3C513D5DD8699FFF362E06D9616AEF4C",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c854",
-      "Record ID": "10501",
-      "Title": "The application of semantic expression in tableware designs",
-      "Subject": [
-        "(B/T) Business - General",
-        "(B/T) Computer Science"
-      ],
-      "Institution": [
-        "The Information Engineering and the Electromechanical Engineering School, Beijing Institute of Graphic Communication, Beijing, China, 100102"
-      ],
-      "Journal": "2011 International Conference on Product Innovation Management (ICPIM 2011)",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Ling Liu"
-      ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "8/15/2011 0:00",
-      "RetractionDOI": "10.1109/ICPIM.2011.5983628",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/16/2011 0:00",
-      "OriginalPaperDOI": "10.1109/ICPIM.2011.5983628",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "Notes": "Date of retraction unknown, estimated from conference date.",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d233fb91",
-      "Record ID": "63134",
-      "Title": "Research on Feature Extraction and Diagnosis Method of Gearbox Vibration Signal Based on VMD and ResNeXt",
-      "Subject": [
+      "_id": "687cef591f662220d8984f77",
+      "recordId": "63134",
+      "title": "Research on Feature Extraction and Diagnosis Method of Gearbox Vibration Signal Based on VMD and ResNeXt",
+      "subject": [
         "(B/T) Computer Science",
         "(PHY) Engineering - Electrical",
         "(PHY) Engineering - Mechanical"
       ],
-      "Institution": [
+      "institution": [
         "Department of Mechanical and Electrical Engineering, Beijing Institute of Graphic Communication, Beijing, 102600, China"
       ],
-      "Journal": "International Journal of Computational Intelligence Systems",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "International Journal of Computational Intelligence Systems",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Shuihai Dou",
         "Yanlin Liu",
         "Yanping Du",
         "Zhaohua Wang",
         "Xiaomei Jia"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/27/2024 0:00",
-      "RetractionDOI": "10.1007/s44196-024-00469-w",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/26/2023 0:00",
-      "OriginalPaperDOI": "10.1007/s44196-023-00301-x",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/27/2024 0:00",
+      "retractiondoi": "10.1007/s44196-024-00469-w",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/26/2023 0:00",
+      "originalpaperdoi": "10.1007/s44196-023-00301-x",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues about Article",
         "+Concerns/Issues about Referencing/Attributions",
@@ -140,207 +108,247 @@
         "+Rogue Editor",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c5ce",
-      "Record ID": "11147",
-      "Title": "The Research of the Anisotropy in Amorphous Ferrimagnetic Alloys",
-      "Subject": [
-        "(PHY) Engineering - Chemical",
-        "(PHY) Mathematics"
+      "_id": "687cefbe1f662220d898b5e1",
+      "recordId": "36809",
+      "title": "Talent Cultivation Strategy in Publishing Industry for Convergence Development",
+      "subject": [
+        "(B/T) Business - Management",
+        "(SOC) Communications"
       ],
-      "Institution": [
-        "Science Education Department, Beijing Institute of Graphic Communication, China"
+      "institution": [
+        "Beijing Institute of Graphic Communication, China"
       ],
-      "Journal": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "ICIMTECH 21: The Sixth International Conference on Information Management and Technology",
+      "publisher": "Association for Computing Machinery (ACM)",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Zhang Ao",
-        "Tian Yi-Min"
+      "author": [
+        "Fengpeng Yi"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/04/20/more-than-300-at-once-publisher-retracts-entire-conference-proceedings/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "11/4/2010 0:00",
-      "RetractionDOI": "10.1109/ICCASM.2010.5622244",
-      "OriginalPaperDate": "10/22/2010 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
+      "retractiondate": "2/24/2022 0:00",
+      "retractiondoi": "10.1145/3465631.3465721",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/19/2021 0:00",
+      "originalpaperdoi": "10.1145/3465631.3465721",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234bff2",
-      "Record ID": "12651",
-      "Title": "Personnel Training of Digital Publishing for Undergraduate Computer Courses Curriculum Recommendation",
-      "Subject": [
+      "_id": "687cf0ac1f662220d89913d8",
+      "recordId": "12651",
+      "title": "Personnel Training of Digital Publishing for Undergraduate Computer Courses Curriculum Recommendation",
+      "subject": [
         "(B/T) Business - Management",
         "(B/T) Computer Science",
         "(B/T) Technology",
         "(PHY) Mathematics",
         "(SOC) Education"
       ],
-      "Institution": [
+      "institution": [
         "Department of Publishing and Management, Beijing Institute of Graphic Communication, DaXing HuangCun, China"
       ],
-      "Journal": "2010 International Conference on E-Health Networking Digital Ecosystems and Technologies (EDT)",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2010 International Conference on E-Health Networking Digital Ecosystems and Technologies (EDT)",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Chen Hejie",
         "Qin Biyu"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "6/28/2010 0:00",
-      "RetractionDOI": "10.1109/EDT.2010.5496351",
-      "OriginalPaperDate": "4/17/2010 0:00",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/28/2010 0:00",
+      "retractiondoi": "10.1109/EDT.2010.5496351",
+      "originalpaperdate": "4/17/2010 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c624",
-      "Record ID": "11061",
-      "Title": "On simulation of BEC by structure preserving algorithm",
-      "Subject": [
+      "_id": "687cf0b21f662220d89919b4",
+      "recordId": "11147",
+      "title": "The Research of the Anisotropy in Amorphous Ferrimagnetic Alloys",
+      "subject": [
+        "(PHY) Engineering - Chemical",
         "(PHY) Mathematics"
       ],
-      "Institution": [
-        "Mathematics and Physics Division, Beijing Institute of Graphic Communication, 102600, China"
+      "institution": [
+        "Science Education Department, Beijing Institute of Graphic Communication, China"
       ],
-      "Journal": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
-        "YiMin Tian"
+      "author": [
+        "Zhang Ao",
+        "Tian Yi-Min"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "11/4/2010 0:00",
-      "RetractionDOI": "10.1109/ICCASM.2010.5623267",
-      "OriginalPaperDate": "10/22/2010 0:00",
-      "OriginalPaperDOI": "10.1109/ICCASM.2010.5623267",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/4/2010 0:00",
+      "retractiondoi": "10.1109/ICCASM.2010.5622244",
+      "originalpaperdate": "10/22/2010 0:00",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b21f662220d8991a0a",
+      "recordId": "11061",
+      "title": "On simulation of BEC by structure preserving algorithm",
+      "subject": [
+        "(PHY) Mathematics"
+      ],
+      "institution": [
+        "Mathematics and Physics Division, Beijing Institute of Graphic Communication, 102600, China"
+      ],
+      "journal": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "YiMin Tian"
+      ],
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "11/4/2010 0:00",
+      "retractiondoi": "10.1109/ICCASM.2010.5623267",
+      "originalpaperdate": "10/22/2010 0:00",
+      "originalpaperdoi": "10.1109/ICCASM.2010.5623267",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Journal/Publisher",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23461fb",
-      "Record ID": "36809",
-      "Title": "Talent Cultivation Strategy in Publishing Industry for Convergence Development",
-      "Subject": [
-        "(B/T) Business - Management",
-        "(SOC) Communications"
+      "_id": "687cf0b31f662220d8991adb",
+      "recordId": "10852",
+      "title": "A curve reconstruction method to high-speed cam on printing press",
+      "subject": [
+        "(B/T) Technology",
+        "(PHY) Mathematics"
       ],
-      "Institution": [
-        "Beijing Institute of Graphic Communication, China"
+      "institution": [
+        "College of Information & Mechanical Engineering, Beijing Institute of Graphic Communication, 102600, China"
       ],
-      "Journal": "ICIMTECH 21: The Sixth International Conference on Information Management and Technology",
-      "Publisher": "Association for Computing Machinery (ACM)",
-      "Country": [
+      "journal": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Fengpeng Yi"
+      "author": [
+        "Fang Rui-Ming",
+        "Chen Hong"
       ],
-      "URLS": "https://retractionwatch.com/2022/04/20/more-than-300-at-once-publisher-retracts-entire-conference-proceedings/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "2/24/2022 0:00",
-      "RetractionDOI": "10.1145/3465631.3465721",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/19/2021 0:00",
-      "OriginalPaperDOI": "10.1145/3465631.3465721",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
+      "retractiondate": "11/4/2010 0:00",
+      "retractiondoi": "10.1109/ICCASM.2010.5620809",
+      "originalpaperdate": "10/22/2010 0:00",
+      "originalpaperdoi": "10.1109/ICCASM.2010.5620809",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "integrity"
+      "paywalled": "Yes",
+      "notes": "http://ieeexplore.ieee.org/document/5620809/",
+      "year": "2010",
+      "noticeYear": "2010",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d233fa70",
-      "Record ID": "63425",
-      "Title": "GTLP: A graph transformer based link prediction framework with unified feature pre-processing",
-      "Subject": [
-        "(B/T) Data Science",
-        "(B/T) Technology"
+      "_id": "687cf0b31f662220d8991c3a",
+      "recordId": "10501",
+      "title": "The application of semantic expression in tableware designs",
+      "subject": [
+        "(B/T) Business - General",
+        "(B/T) Computer Science"
       ],
-      "Institution": [
-        "School of Information Engineering, Beijing Institute of Graphic Communication, Beijing, China",
-        "School of Information Science and Engineering, Beijing City University, Beijing, China"
+      "institution": [
+        "The Information Engineering and the Electromechanical Engineering School, Beijing Institute of Graphic Communication, Beijing, China, 100102"
       ],
-      "Journal": "Journal of Intelligent & Fuzzy Systems",
-      "Publisher": "IOS Press (bought by Sage November 2023)",
-      "Country": [
+      "journal": "2011 International Conference on Product Innovation Management (ICPIM 2011)",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
-        "Man Hu",
-        "Dezhi Sun",
-        "Yihan Bai",
-        "Han Xiao",
-        "Fucheng You"
+      "author": [
+        "Ling Liu"
       ],
-      "URLS": "https://retractionwatch.com/2024/08/23/exclusive-publisher-retracts-more-than-450-papers-from-journal-it-acquired-last-year/",
-      "ArticleType": [
-        "Research Article"
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
+        "Conference Abstract/Paper"
       ],
-      "RetractionDate": "8/23/2024 0:00",
-      "RetractionDOI": "10.3233/JIFS-219433",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/23/2024 0:00",
-      "OriginalPaperDOI": "10.3233/jifs-237506",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Removed"
+      "retractiondate": "8/15/2011 0:00",
+      "retractiondoi": "10.1109/ICPIM.2011.5983628",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/16/2011 0:00",
+      "originalpaperdoi": "10.1109/ICPIM.2011.5983628",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "As of 4/3/2025, the URL https://doi.org/10.3233/jifs-237506 is unavailable. Publication date of the original article is derived from https://www.semanticscholar.org/paper/GTLP%3A-A-graph-transformer-based-link-prediction-Hu-Sun/be5088aa8a2ca0e9e1ac6ad59372289d9f84ffc8 Author affiliation derived from: http://globalauthorid.com/WebPortal/ArticleView?wd=99650DDA0778E9ED3C513D5DD8699FFF362E06D9616AEF4C",
-      "notice_year": 2024,
-      "year": 2024,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "Date of retraction unknown, estimated from conference date.",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
@@ -350,7 +358,7 @@
       "retraction_notice_count": 0,
       "publication_count": 1,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -361,7 +369,7 @@
       "retraction_notice_count": 0,
       "publication_count": 2,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -372,7 +380,7 @@
       "retraction_notice_count": 0,
       "publication_count": 10,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -383,7 +391,7 @@
       "retraction_notice_count": 0,
       "publication_count": 14,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -394,7 +402,7 @@
       "retraction_notice_count": 0,
       "publication_count": 36,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -405,7 +413,7 @@
       "retraction_notice_count": 0,
       "publication_count": 49,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -416,32 +424,54 @@
       "retraction_notice_count": 0,
       "publication_count": 76,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 4,
-      "retraction_notice_count": 4,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 143,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 3,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2010,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 143,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 248,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2011,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 248,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2012,
@@ -449,7 +479,7 @@
       "retraction_notice_count": 0,
       "publication_count": 179,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -460,7 +490,7 @@
       "retraction_notice_count": 0,
       "publication_count": 207,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -471,7 +501,7 @@
       "retraction_notice_count": 0,
       "publication_count": 134,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -482,7 +512,7 @@
       "retraction_notice_count": 0,
       "publication_count": 189,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -493,7 +523,7 @@
       "retraction_notice_count": 0,
       "publication_count": 80,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -504,7 +534,7 @@
       "retraction_notice_count": 0,
       "publication_count": 131,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -515,7 +545,7 @@
       "retraction_notice_count": 0,
       "publication_count": 136,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -526,7 +556,7 @@
       "retraction_notice_count": 0,
       "publication_count": 166,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -537,54 +567,98 @@
       "retraction_notice_count": 0,
       "publication_count": 172,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 198,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2021,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 198,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 260,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2022,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 260,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 279,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2023,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 279,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 293,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
+    },
+    {
+      "year": 2024,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 293,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2025,
@@ -592,7 +666,7 @@
       "retraction_notice_count": 0,
       "publication_count": 152,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

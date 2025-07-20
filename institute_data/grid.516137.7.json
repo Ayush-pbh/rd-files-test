@@ -1,83 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878701",
+    "_id": "687ccbab09adbf7aa61b9322",
     "grid_id": "grid.516137.7",
     "institute_name": "UNC Lineberger Comprehensive Cancer Center",
     "country": "United States",
     "retracted_record_ids": [
       "20681",
+      "6503",
       "54079",
       "20332",
-      "20680",
-      "6503"
+      "20680"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a0c0",
-      "Record ID": "20681",
-      "Title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
-        "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
-        "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
-        "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
-        "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
-      ],
-      "Journal": "Current Biology (CB)",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Pat P Ongusaha",
-        "Hyung Gu Kim",
-        "Sarah A Boswell",
-        "Anne J Ridley",
-        "Channing J Der",
-        "G Paolo Dotto",
-        "Young Bum Kim",
-        "Stuart A Aaronson",
-        "Sam W Lee"
-      ],
-      "URLS": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/22/2016 0:00",
-      "RetractionDOI": "10.1016/j.cub.2012.11.007",
-      "RetractionPubMedID": "17174923.0",
-      "OriginalPaperDate": "12/19/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.cub.2006.10.056",
-      "OriginalPaperPubMedID": "17174923.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2006,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2341eda",
-      "Record ID": "54079",
-      "Title": "Impact of nutrient warning labels on choice of ultra-processed food and drinks high in sugar, sodium, and saturated fat in Colombia: A randomized controlled trial",
-      "Subject": [
+      "_id": "687cef7f1f662220d89872c0",
+      "recordId": "54079",
+      "title": "Impact of nutrient warning labels on choice of ultra-processed food and drinks high in sugar, sodium, and saturated fat in Colombia: A randomized controlled trial",
+      "subject": [
         "(HSC) Public Health and Safety",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Departamento de Nutricio\u00b4n Humana, Universidad Nacional de Colombia, Bogota, Colombia",
         "Carolina Population Center, University of North Carolina, Chapel Hill, North Carolina, United States of America",
         "Department of Health Behavior, University of North Carolina, Chapel Hill, North Carolina, United States of America",
@@ -86,13 +30,13 @@
         "Vital Strategies, New York, New York, United States of America",
         "Department of Nutrition, Gillings School of Global Public Health, University of North Carolina, Chapel Hill, North Carolina, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Colombia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Mercedes Mora-Plazas",
         "Isabella Carolyn Aida Higgins",
         "Luis Fernando Gomez",
@@ -102,51 +46,52 @@
         "Nandita Murukutla",
         "Lindsey Smith Taillie"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/10/2024 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0303781",
-      "RetractionPubMedID": "38857281.0",
-      "OriginalPaperDate": "2/10/2022 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0263324",
-      "OriginalPaperPubMedID": "35143553.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/10/2024 0:00",
+      "retractiondoi": "10.1371/journal.pone.0303781",
+      "retractionpubmedid": "38857281.0",
+      "originalpaperdate": "2/10/2022 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0263324",
+      "originalpaperpubmedid": "35143553.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Results and/or Conclusions",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "Notes": "see : https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303514",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see : https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303514",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a218",
-      "Record ID": "20332",
-      "Title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f4a6",
+      "recordId": "20681",
+      "title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
         "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
         "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
         "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
         "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
       ],
-      "Journal": "Current Biology (CB)",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Current Biology (CB)",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pat P Ongusaha",
         "Hyung Gu Kim",
         "Sarah A Boswell",
@@ -157,51 +102,53 @@
         "Stuart A Aaronson",
         "Sam W Lee"
       ],
-      "URLS": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/20/2012 0:00",
-      "RetractionDOI": "10.1016/j.cub.2012.11.007",
-      "RetractionPubMedID": "17174923.0",
-      "OriginalPaperDate": "12/19/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.cub.2006.10.056",
-      "OriginalPaperPubMedID": "17174923.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "8/22/2016 0:00",
+      "retractiondoi": "10.1016/j.cub.2012.11.007",
+      "retractionpubmedid": "17174923.0",
+      "originalpaperdate": "12/19/2006 0:00",
+      "originalpaperdoi": "10.1016/j.cub.2006.10.056",
+      "originalpaperpubmedid": "17174923.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image",
+        "+Original Data and/or Images not Provided and/or not Available",
         "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2006,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a0c1",
-      "Record ID": "20680",
-      "Title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f4a7",
+      "recordId": "20680",
+      "title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
         "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
         "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
         "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
         "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
       ],
-      "Journal": "Current Biology (CB)",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Current Biology (CB)",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Pat P Ongusaha",
         "Hyung Gu Kim",
         "Sarah A Boswell",
@@ -212,39 +159,96 @@
         "Stuart A Aaronson",
         "Sam W Lee"
       ],
-      "URLS": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/2019/04/19/harvard-cancer-lab-subject-to-federal-misconduct-probe/;http://retractionwatch.com/?s=sam+w+lee",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/2019/04/19/harvard-cancer-lab-subject-to-federal-misconduct-probe/;http://retractionwatch.com/?s=sam+w+lee",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/17/2019 0:00",
-      "RetractionDOI": "10.1016/j.cub.2019.05.065",
-      "RetractionPubMedID": "31211968.0",
-      "OriginalPaperDate": "12/19/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.cub.2006.10.056",
-      "OriginalPaperPubMedID": "17174923.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/17/2019 0:00",
+      "retractiondoi": "10.1016/j.cub.2019.05.065",
+      "retractionpubmedid": "31211968.0",
+      "originalpaperdate": "12/19/2006 0:00",
+      "originalpaperdoi": "10.1016/j.cub.2006.10.056",
+      "originalpaperpubmedid": "17174923.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Investigation by Company/Institution",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2006,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d7c3",
-      "Record ID": "6503",
-      "Title": "GRM1 is An Androgen-Regulated Gene and its Expression Correlates with Prostate Cancer Progression in Pre-Clinical Models",
-      "Subject": [
+      "_id": "687cf0721f662220d898f5fe",
+      "recordId": "20332",
+      "title": "RhoE Is a Pro-Survival p53 Target Gene that Inhibits ROCK I-Mediated Apoptosis in Response to Genotoxic Stress",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Cutaneous Biology Research Center Massachusetts General Hospital and Harvard Medical School Charlestown, Massachusetts 02129",
+        "Ludwig Institute for Cancer Research Royal Free and University College School of Medicine 91 Riding House Street London W1W 7BS United Kingdom",
+        "Lineberger Comprehensive Cancer Center University of North Carolina at Chapel Hill Chapel Hill, North Carolina 27599",
+        "Department of Medicine Beth Israel Deaconess Medical Center and Harvard Medical School Boston, Massachusetts 02215",
+        "Department of Oncological Sciences Mount Sinai School of Medicine New York, New York 10029"
+      ],
+      "journal": "Current Biology (CB)",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Pat P Ongusaha",
+        "Hyung Gu Kim",
+        "Sarah A Boswell",
+        "Anne J Ridley",
+        "Channing J Der",
+        "G Paolo Dotto",
+        "Young Bum Kim",
+        "Stuart A Aaronson",
+        "Sam W Lee"
+      ],
+      "urls": "http://retractionwatch.com/2012/11/20/image-correction-in-current-biology-for-harvards-sam-lee/;http://retractionwatch.com/?s=sam+w+lee",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/20/2012 0:00",
+      "retractiondoi": "10.1016/j.cub.2012.11.007",
+      "retractionpubmedid": "17174923.0",
+      "originalpaperdate": "12/19/2006 0:00",
+      "originalpaperdoi": "10.1016/j.cub.2006.10.056",
+      "originalpaperpubmedid": "17174923.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0bf1f662220d8992ba9",
+      "recordId": "6503",
+      "title": "GRM1 is An Androgen-Regulated Gene and its Expression Correlates with Prostate Cancer Progression in Pre-Clinical Models",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Drug Design"
       ],
-      "Institution": [
+      "institution": [
         "Department of Cancer Genetics, Center for Genetics and Pharmacology, Roswell Park Cancer Institute, Buffalo, New York, USA",
         "Department of Pathology, Roswell Park Cancer Institute, Buffalo, New York, USA",
         "Department of Biostatistics, Roswell Park Cancer Institute, Buffalo, New York, USA",
@@ -262,12 +266,12 @@
         "Department of Surgery (Division of Urology), University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA",
         "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA"
       ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Mojgan Shourideh",
         "Gissou Azabdaftari",
         "Kristopher Attwood",
@@ -283,60 +287,61 @@
         "James L Mohler",
         "Shahriar Koochekpour"
       ],
-      "URLS": "http://retractionwatch.com/2017/08/07/article-must-retracted-journal-pulls-prostate-cancer-study/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2017/08/07/article-must-retracted-journal-pulls-prostate-cancer-study/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/13/2017 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-17-0954",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/25/2016 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-16-0137",
-      "OriginalPaperPubMedID": "27458247.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/13/2017 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-17-0954",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/25/2016 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-16-0137",
+      "originalpaperpubmedid": "27458247.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Investigation by Company/Institution",
         "+Investigation by Journal/Publisher",
         "+Manipulation of Images",
         "+Objections by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2006,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -344,10 +349,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -355,32 +360,32 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,6 +1,6 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a0c5",
+    "_id": "687ccbab09adbf7aa61bace6",
     "grid_id": "grid.489411.1",
     "institute_name": "Australian and New Zealand Intensive Care Society",
     "country": "Australia",
@@ -10,23 +10,23 @@
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e564",
-      "Record ID": "2941",
-      "Title": "The SAFE study: saline vs. albumin for fluid resuscitation in the critically ill",
-      "Subject": [
+      "_id": "687cf0cd1f662220d899394a",
+      "recordId": "2941",
+      "title": "The SAFE study: saline vs. albumin for fluid resuscitation in the critically ill",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - General"
       ],
-      "Institution": [
+      "institution": [
         "The Australian and New Zealand Intensive Care Society (ANZICS) Clinical Trials Group, Australian Red Cross Blood Service and The George Institute for International Health SAFE Study Investigators"
       ],
-      "Journal": "Vox Sanguinis",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Vox Sanguinis",
+      "publisher": "Wiley",
+      "country": [
         "Australia",
         "New Zealand"
       ],
-      "Author": [
+      "author": [
         "S Finfer",
         "R Norton",
         "R Bellomo",
@@ -34,39 +34,40 @@
         "J French",
         "J Myburgh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "8/1/2004 0:00",
-      "RetractionDOI": "10.1111/j.1423-0410.2004.00547.x",
-      "RetractionPubMedID": "15355508.0",
-      "OriginalPaperDate": "6/22/2004 0:00",
-      "OriginalPaperDOI": "10.1111/j.1741-6892.2004.00468.x",
-      "OriginalPaperPubMedID": "15209896.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/1/2004 0:00",
+      "retractiondoi": "10.1111/j.1423-0410.2004.00547.x",
+      "retractionpubmedid": "15355508.0",
+      "originalpaperdate": "6/22/2004 0:00",
+      "originalpaperdoi": "10.1111/j.1741-6892.2004.00468.x",
+      "originalpaperpubmedid": "15209896.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Lack of Approval from Author",
         "+Miscommunication with/by Author"
       ],
-      "Paywalled": "Yes",
-      "Notes": "Authors listed as on behalf of the SAFE Study Investigators",
-      "notice_year": 2004,
-      "year": 2004,
-      "mark": "integrity"
+      "paywalled": "Yes",
+      "notes": "Authors listed as on behalf of the SAFE Study Investigators",
+      "year": "2004",
+      "noticeYear": "2004",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

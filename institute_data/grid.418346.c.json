@@ -1,28 +1,71 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879a8f",
+    "_id": "687ccbab09adbf7aa61ba6b0",
     "grid_id": "grid.418346.c",
     "institute_name": "Instituto Gulbenkian de Ci\u00eancia",
     "country": "Portugal",
     "retracted_record_ids": [
-      "18613",
       "1324",
-      "17871",
+      "18614",
+      "18613",
       "20797",
-      "18614"
+      "17871"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a8c7",
-      "Record ID": "18613",
-      "Title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f433",
+      "recordId": "20797",
+      "title": "Integrin expression patterns during early limb muscle development in the mouse",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(BLS) Zoology"
+      ],
+      "institution": [
+        "Department of Zoology, Centre for Environmental Biology, Faculty of Sciences, University of Lisbon, 1749-016 Lisbon, Portugal",
+        "Gulbenkian Institute of Science, 2780-156 Oeiras, Portugal"
+      ],
+      "journal": "Gene Expression Patterns",
+      "publisher": "Elsevier",
+      "country": [
+        "Portugal"
+      ],
+      "author": [
+        "Fernanda Bajanca",
+        "Solveig Thorsteinsdottir"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/1/2002 0:00",
+      "retractiondoi": "10.1016/S0925-4773(03)00085-6",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/1/2002 0:00",
+      "originalpaperdoi": "10.1016/S0925-4773(02)00303-9",
+      "originalpaperpubmedid": "12617852.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Withdrawn to Publish in Different Journal"
+      ],
+      "paywalled": "No",
+      "notes": "see https://www.sciencedirect.com/science/article/pii/S0925477303001059;",
+      "year": "2002",
+      "noticeYear": "2002",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fcac",
+      "recordId": "18614",
+      "title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "The Kimmel Center for Biology and Medicine of the Skirball Institute, New York University School of Medicine, New York, New York 10016, USA",
         "Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE, UK",
         "Center for Personal Dynamic Regulomes, Stanford University, Stanford, California 94305, USA",
@@ -36,14 +79,14 @@
         "Division of Cancer Research, University of Dundee, Dundee DD1 9SY, UK",
         "Howard Hughes Medical Institute, New York University School of Medicine, New York, New York 10016, USA"
       ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Portugal",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Wendy Huang",
         "Benjamin Thomas",
         "Ryan A Flynn",
@@ -66,88 +109,121 @@
         "Oreste Acuto",
         "Dan R Littman"
       ],
-      "URLS": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/4/2018 0:00",
-      "RetractionDOI": "10.1038/s41586-018-0311-z",
-      "RetractionPubMedID": "29973715.0",
-      "OriginalPaperDate": "12/24/2015 0:00",
-      "OriginalPaperDOI": "10.1038/nature16193",
-      "OriginalPaperPubMedID": "26675721.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/5/2016 0:00",
+      "retractiondoi": "10.1038/s41586-018-0311-z",
+      "retractionpubmedid": "29973715.0",
+      "originalpaperdate": "12/24/2015 0:00",
+      "originalpaperdoi": "10.1038/nature16193",
+      "originalpaperpubmedid": "26675721.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fcad",
+      "recordId": "18613",
+      "title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "The Kimmel Center for Biology and Medicine of the Skirball Institute, New York University School of Medicine, New York, New York 10016, USA",
+        "Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE, UK",
+        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, California 94305, USA",
+        "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York 10003, USA",
+        "Courant Institute of Mathematical Sciences, Computer Science Department, New York University, New York, New York 10012, USA",
+        "Simons Center for Data Analysis, Simons Foundation, New York, New York 10010, USA",
+        "Isis Pharmaceuticals, Carlsbad, California 92010, USA",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, Alabama 35806, USA",
+        "Instituto Gulbenkian de Ciencia, Oeiras 2780-156, Portugal",
+        "Integrative Metabolism Program, Sanford Burnham Prebys Medical Discovery Institute, Orlando, Florida 32827, USA",
+        "Division of Cancer Research, University of Dundee, Dundee DD1 9SY, UK",
+        "Howard Hughes Medical Institute, New York University School of Medicine, New York, New York 10016, USA"
+      ],
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Portugal",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Wendy Huang",
+        "Benjamin Thomas",
+        "Ryan A Flynn",
+        "Samuel J Gavzy",
+        "Lin Wu",
+        "Sangwon V Kim",
+        "Jason A Hall",
+        "Emily R Miraldi",
+        "Charles P Ng",
+        "Frank Rigo",
+        "Sarah Meadows",
+        "Nina R Montoya",
+        "Natalia G Herrera",
+        "Ana I Domingos",
+        "Fraydoon Rastinejad",
+        "Richard M Myers",
+        "Frances V Fuller-Pace",
+        "Richard Bonneau",
+        "Howard Y Chang",
+        "Oreste Acuto",
+        "Dan R Littman"
+      ],
+      "urls": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/4/2018 0:00",
+      "retractiondoi": "10.1038/s41586-018-0311-z",
+      "retractionpubmedid": "29973715.0",
+      "originalpaperdate": "12/24/2015 0:00",
+      "originalpaperdoi": "10.1038/nature16193",
+      "originalpaperpubmedid": "26675721.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Objections by Author(s)",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234eb91",
-      "Record ID": "1324",
-      "Title": "State and spectral properties of chloride oscillations in pollen",
-      "Subject": [
-        "(BLS) Biology - Molecular",
-        "(BLS) Plant Biology/Botany"
-      ],
-      "Institution": [
-        "Institute of Experimental Botany, Academy of Sciences of the Czech Republic, Prague, Czech Republic",
-        "Instituto Gulbenkian Ciencia, Oeiras, Portugal"
-      ],
-      "Journal": "Biophysical Journal",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
-        "Czech Republic",
-        "Portugal"
-      ],
-      "Author": [
-        "Laura Zonia",
-        "Jose A Feijo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/1/2003 0:00",
-      "RetractionDOI": "10.1016/S0006-3495(03)74762-6",
-      "RetractionPubMedID": "14645037.0",
-      "OriginalPaperDate": "2/1/2003 0:00",
-      "OriginalPaperDOI": "10.1016/S0006-3495(03)74953-4",
-      "OriginalPaperPubMedID": "12547818.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Miscommunication with/by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2003,
-      "year": 2003,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234abaa",
-      "Record ID": "17871",
-      "Title": "CREM variant rs17583959 conferred susceptibility to T1D risk in the Tunisian families",
-      "Subject": [
+      "_id": "687cf0931f662220d898ff90",
+      "recordId": "17871",
+      "title": "CREM variant rs17583959 conferred susceptibility to T1D risk in the Tunisian families",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Immunology Department, Habib Bourguiba Hospital, University of Sfax, Tunisia",
         "Pediatric Department, Hedi Chaker Hospital, Sfax, Tunisia",
         "Instituto Gulbenkian de Ci\u00eancia, Oeiras, Portugal"
       ],
-      "Journal": "Gene Reports",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Gene Reports",
+      "publisher": "Elsevier",
+      "country": [
         "Portugal",
         "Tunisia"
       ],
-      "Author": [
+      "author": [
         "Zouidi Ferjani",
         "D Bouzid",
         "H Fourati",
@@ -157,180 +233,109 @@
         "C Penha-Goncalves",
         "H Masmoudi"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/1/2017 0:00",
-      "RetractionDOI": "10.1016/j.genrep.2016.11.007",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/28/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.genrep.2016.11.007",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2017 0:00",
+      "retractiondoi": "10.1016/j.genrep.2016.11.007",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/28/2016 0:00",
+      "originalpaperdoi": "10.1016/j.genrep.2016.11.007",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2016,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2017",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a04d",
-      "Record ID": "20797",
-      "Title": "Integrin expression patterns during early limb muscle development in the mouse",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(BLS) Zoology"
+      "_id": "687cf0d31f662220d8993f77",
+      "recordId": "1324",
+      "title": "State and spectral properties of chloride oscillations in pollen",
+      "subject": [
+        "(BLS) Biology - Molecular",
+        "(BLS) Plant Biology/Botany"
       ],
-      "Institution": [
-        "Department of Zoology, Centre for Environmental Biology, Faculty of Sciences, University of Lisbon, 1749-016 Lisbon, Portugal",
-        "Gulbenkian Institute of Science, 2780-156 Oeiras, Portugal"
+      "institution": [
+        "Institute of Experimental Botany, Academy of Sciences of the Czech Republic, Prague, Czech Republic",
+        "Instituto Gulbenkian Ciencia, Oeiras, Portugal"
       ],
-      "Journal": "Gene Expression Patterns",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Biophysical Journal",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
+        "Czech Republic",
         "Portugal"
       ],
-      "Author": [
-        "Fernanda Bajanca",
-        "Solveig Thorsteinsdottir"
+      "author": [
+        "Laura Zonia",
+        "Jose A Feijo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/1/2002 0:00",
-      "RetractionDOI": "10.1016/S0925-4773(03)00085-6",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/1/2002 0:00",
-      "OriginalPaperDOI": "10.1016/S0925-4773(02)00303-9",
-      "OriginalPaperPubMedID": "12617852.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Withdrawn to Publish in Different Journal"
+      "retractiondate": "12/1/2003 0:00",
+      "retractiondoi": "10.1016/S0006-3495(03)74762-6",
+      "retractionpubmedid": "14645037.0",
+      "originalpaperdate": "2/1/2003 0:00",
+      "originalpaperdoi": "10.1016/S0006-3495(03)74953-4",
+      "originalpaperpubmedid": "12547818.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Miscommunication with/by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "see https://www.sciencedirect.com/science/article/pii/S0925477303001059;",
-      "notice_year": 2002,
-      "year": 2002,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d234a8c6",
-      "Record ID": "18614",
-      "Title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "The Kimmel Center for Biology and Medicine of the Skirball Institute, New York University School of Medicine, New York, New York 10016, USA",
-        "Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE, UK",
-        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, California 94305, USA",
-        "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York 10003, USA",
-        "Courant Institute of Mathematical Sciences, Computer Science Department, New York University, New York, New York 10012, USA",
-        "Simons Center for Data Analysis, Simons Foundation, New York, New York 10010, USA",
-        "Isis Pharmaceuticals, Carlsbad, California 92010, USA",
-        "HudsonAlpha Institute for Biotechnology, Huntsville, Alabama 35806, USA",
-        "Instituto Gulbenkian de Ciencia, Oeiras 2780-156, Portugal",
-        "Integrative Metabolism Program, Sanford Burnham Prebys Medical Discovery Institute, Orlando, Florida 32827, USA",
-        "Division of Cancer Research, University of Dundee, Dundee DD1 9SY, UK",
-        "Howard Hughes Medical Institute, New York University School of Medicine, New York, New York 10016, USA"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Portugal",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Wendy Huang",
-        "Benjamin Thomas",
-        "Ryan A Flynn",
-        "Samuel J Gavzy",
-        "Lin Wu",
-        "Sangwon V Kim",
-        "Jason A Hall",
-        "Emily R Miraldi",
-        "Charles P Ng",
-        "Frank Rigo",
-        "Sarah Meadows",
-        "Nina R Montoya",
-        "Natalia G Herrera",
-        "Ana I Domingos",
-        "Fraydoon Rastinejad",
-        "Richard M Myers",
-        "Frances V Fuller-Pace",
-        "Richard Bonneau",
-        "Howard Y Chang",
-        "Oreste Acuto",
-        "Dan R Littman"
-      ],
-      "URLS": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/5/2016 0:00",
-      "RetractionDOI": "10.1038/s41586-018-0311-z",
-      "RetractionPubMedID": "29973715.0",
-      "OriginalPaperDate": "12/24/2015 0:00",
-      "OriginalPaperDOI": "10.1038/nature16193",
-      "OriginalPaperPubMedID": "26675721.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2003",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2002,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -338,10 +343,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -349,10 +354,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,46 +1,46 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878c0b",
+    "_id": "687ccbab09adbf7aa61b982c",
     "grid_id": "grid.440842.e",
     "institute_name": "University of Al-Qadisiyah",
     "country": "Iraq",
     "retracted_record_ids": [
-      "45500",
-      "38726"
+      "38726",
+      "45500"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2344035",
-      "Record ID": "45500",
-      "Title": "Neural networks in business applications",
-      "Subject": [
+      "_id": "687cefa01f662220d898941b",
+      "recordId": "45500",
+      "title": "Neural networks in business applications",
+      "subject": [
         "(B/T) Business - General",
         "(B/T) Computer Science"
       ],
-      "Institution": [
+      "institution": [
         "Departement of Information System, University of Al-Qadisiyah"
       ],
-      "Journal": "Journal of Physics: Conference Series",
-      "Publisher": "IOP Publishing",
-      "Country": [
+      "journal": "Journal of Physics: Conference Series",
+      "publisher": "IOP Publishing",
+      "country": [
         "Iraq"
       ],
-      "Author": [
+      "author": [
         "Atheer Hadi Issa Alrammahi",
         "Mustafa Jawad Radif"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "5/18/2023 0:00",
-      "RetractionDOI": "10.1088/1742-6596/1294/4/042015",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/25/2019 0:00",
-      "OriginalPaperDOI": "10.1088/1742-6596/1294/4/042007",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/18/2023 0:00",
+      "retractiondoi": "10.1088/1742-6596/1294/4/042015",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/25/2019 0:00",
+      "originalpaperdoi": "10.1088/1742-6596/1294/4/042007",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Concerns/Issues About Authorship/Affiliation",
         "+Concerns/Issues About Data",
@@ -49,72 +49,74 @@
         "+Investigation by Third Party",
         "+Computer-Aided Content or Computer-Generated Content"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/049BD59CC865CB8F51ECB8CC3C0B0A",
-      "notice_year": 2023,
-      "year": 2019,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/049BD59CC865CB8F51ECB8CC3C0B0A",
+      "year": "2019",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345a88",
-      "Record ID": "38726",
-      "Title": "A Comparison Between Functions of Carbon Nanotube and Reduced Graphene Oxide and Respective Ameliorated Derivatives in Perovskite Solar Cells",
-      "Subject": [
+      "_id": "687cefb51f662220d898ae6e",
+      "recordId": "38726",
+      "title": "A Comparison Between Functions of Carbon Nanotube and Reduced Graphene Oxide and Respective Ameliorated Derivatives in Perovskite Solar Cells",
+      "subject": [
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Chemistry, University of Al-Qadisiyah, College of Science, Al-Qadisiyah, Republic of Iraq",
         "Chemical Engineering Department, Faculty of Engineering, Azarbaijan Shahid Madani University, P.O. BOX: 5375171379, Tabriz, Iran"
       ],
-      "Journal": "Macromolecular Research",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Macromolecular Research",
+      "publisher": "Springer",
+      "country": [
         "Iran",
         "Iraq"
       ],
-      "Author": [
+      "author": [
         "Qahtan. A Yousif",
         "Samira Agbolaghi"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/27/2022 0:00",
-      "RetractionDOI": "10.1007/s13233-022-0203-9",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/28/2019 0:00",
-      "OriginalPaperDOI": "10.1007/s13233-020-8054-8",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/27/2022 0:00",
+      "retractiondoi": "10.1007/s13233-022-0203-9",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/28/2019 0:00",
+      "originalpaperdoi": "10.1007/s13233-020-8054-8",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2019,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2019,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -122,10 +124,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

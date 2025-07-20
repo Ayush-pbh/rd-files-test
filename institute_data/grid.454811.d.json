@@ -1,38 +1,143 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687868c",
+    "_id": "687ccbab09adbf7aa61b92ad",
     "grid_id": "grid.454811.d",
     "institute_name": "Hefei Institutes of Physical Science",
     "country": "China",
     "retracted_record_ids": [
-      "47260",
-      "28206",
-      "22284",
       "54515",
+      "47260",
+      "22284",
+      "28206",
       "53949"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234395d",
-      "Record ID": "47260",
-      "Title": "Effect of Laparoscopy Combined with Choledochoscope for the Treatment of Cholecystolithiasis and Choledocholithiasis",
-      "Subject": [
+      "_id": "687cef7d1f662220d898710d",
+      "recordId": "54515",
+      "title": "Preliminary risk assessment of in-vessel leakage accident in ITER",
+      "subject": [
+        "(PHY) Energy",
+        "(PHY) Engineering - General",
+        "(PHY) Physics"
+      ],
+      "institution": [
+        "State Key Laboratory of Nuclear Power Safety Monitoring Technology and Equipment, China Nuclear Power Engineering Co., Ltd., Shenzhen, 518172, China",
+        "Anhui Jianzhu University, Hefei, 230601, Anhui, China",
+        "Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, 230031, Anhui, China"
+      ],
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Qizhi Duan",
+        "Xingchen Fang",
+        "Shuai Chen",
+        "Hongyun Xie",
+        "Chunbing Wang",
+        "Dagui Wang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/1/2024 0:00",
+      "retractiondoi": "10.1038/s41598-024-65933-1",
+      "retractionpubmedid": "38951664.0",
+      "originalpaperdate": "2/12/2024 0:00",
+      "originalpaperdoi": "10.1038/s41598-024-53304-9",
+      "originalpaperpubmedid": "38347006.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Error in Results and/or Conclusions",
+        "+Lack of Approval from Company/Institution",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2024",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef7f1f662220d8987342",
+      "recordId": "53949",
+      "title": "Non-thermal plasma inhibits human cervical cancer HeLa cells invasiveness by suppressing the MAPK pathway and decreasing matrix metalloproteinase-9 expression",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Center of Medical Physics and Technology, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences, 350 Shushanhu Road, Hefei, Anhui Province, 230031, P.R. China",
+        "Institute of Plasma Physics, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences, 350 Shushanhu Road, Hefei, Anhui Province, 230031, P.R. China",
+        "Department of Physics and Materials Science, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong, Hong Kong",
+        "Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions and School for Radiological and Interdisciplinary Sciences (RAD-X), Soochow University, Suzhou, Jiangsu, China"
+      ],
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China",
+        "Hong Kong"
+      ],
+      "author": [
+        "Wei Li",
+        "K N Yu",
+        "Lingzhi Bao",
+        "Jie Shen",
+        "Cheng Cheng",
+        "Wei Han"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/4/2024 0:00",
+      "retractiondoi": "10.1038/s41598-024-63655-y",
+      "retractionpubmedid": "38834769.0",
+      "originalpaperdate": "1/28/2016 0:00",
+      "originalpaperdoi": "10.1038/srep19720",
+      "originalpaperpubmedid": "26818472.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Euphemisms for Duplication",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Objections by Author(s)",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also:https://pubpeer.com/publications/93338DC43BC885BD2D161221CC22F1",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef981f662220d8988d43",
+      "recordId": "47260",
+      "title": "Effect of Laparoscopy Combined with Choledochoscope for the Treatment of Cholecystolithiasis and Choledocholithiasis",
+      "subject": [
         "(HSC) Medicine - Internal",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "The First Department of General Surgery, Suzhou First People's Hospital, Anhui Province, Suzhou, Anhui 234000, China",
         "Hefei Cancer Hospital, Chinese Academy of Sciences, Hefei, Anhui 230000, China",
         "Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui 230000, China",
         "University of Science and Technology of China, Hefei, Anhui 230000, China"
       ],
-      "Journal": "Computational and Mathematical Methods in Medicine",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Computational and Mathematical Methods in Medicine",
+      "publisher": "Hindawi",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Chengxin Zhang",
         "Qingmei Deng",
         "Jian Zhang",
@@ -40,18 +145,18 @@
         "Bin Fan",
         "Jinman Fang"
       ],
-      "URLS": "https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2023/05/02/hindawi-shuttering-four-journals-overrun-by-paper-mills/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/28/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9871264",
-      "RetractionPubMedID": "37416215.0",
-      "OriginalPaperDate": "6/3/2022 0:00",
-      "OriginalPaperDOI": "10.1155/2022/9110676",
-      "OriginalPaperPubMedID": "35693272.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/28/2023 0:00",
+      "retractiondoi": "10.1155/2023/9871264",
+      "retractionpubmedid": "37416215.0",
+      "originalpaperdate": "6/3/2022 0:00",
+      "originalpaperdoi": "10.1155/2022/9110676",
+      "originalpaperpubmedid": "35693272.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Referencing/Attributions",
         "+Concerns/Issues with Peer Review",
@@ -59,28 +164,29 @@
         "+Investigation by Third Party",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2348374",
-      "Record ID": "28206",
-      "Title": "Reproductive Toxicity of Anatase TiO2 Nanoparticles in Caenorhabditis elegans",
-      "Subject": [
+      "_id": "687cefeb1f662220d898d75a",
+      "recordId": "28206",
+      "title": "Reproductive Toxicity of Anatase TiO2 Nanoparticles in Caenorhabditis elegans",
+      "subject": [
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Chinese Academy of Sciences, Beijing, Beijing, CN",
         "Key Laboratory of Ion Beam Bioengineering, Hefei Institutes of Physical Science, CAS Hefei, Anhui, People's Republic of China"
       ],
-      "Journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "W W Zhang",
         "L P Tong",
         "X Y Guo",
@@ -92,242 +198,141 @@
         "L J Wu",
         "A Xu"
       ],
-      "URLS": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/06/25/one-publisher-appears-to-have-retracted-thousands-of-meeting-abstracts-yes-thousands/",
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "5/31/2011 0:00",
-      "RetractionDOI": "10.1109/icbbe.2011.5781429",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/10/2011 0:00",
-      "OriginalPaperDOI": "10.1109/icbbe.2011.5781429",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/31/2011 0:00",
+      "retractiondoi": "10.1109/icbbe.2011.5781429",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/10/2011 0:00",
+      "originalpaperdoi": "10.1109/icbbe.2011.5781429",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Breach of Policy by Author",
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349a81",
-      "Record ID": "22284",
-      "Title": "Bioaccumulation and transformation of U(VI) by sporangiospores of Mucor circinelloides",
-      "Subject": [
+      "_id": "687cf01a1f662220d898ee67",
+      "recordId": "22284",
+      "title": "Bioaccumulation and transformation of U(VI) by sporangiospores of Mucor circinelloides",
+      "subject": [
         "(BLS) Microbiology"
       ],
-      "Institution": [
+      "institution": [
         "MOE Key Laboratory of Resources and Environmental System Optimization, College of Environmental Science and Engineering, North China Electric Power University, Beijing 102206, PR China",
         "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei 230031, PR China",
         "Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions and School for Radiological and Interdisciplinary Sciences, Soochow University, 215123 Suzhou, PR China",
         "NAAM Research Group, Faculty of Science, King Abdulaziz University, Jeddah 21589, Saudi Arabia"
       ],
-      "Journal": "Chemical Engineering Journal",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Chemical Engineering Journal",
+      "publisher": "Elsevier",
+      "country": [
         "China",
         "Saudi Arabia"
       ],
-      "Author": [
+      "author": [
         "Wencheng Song",
         "Xiangxue Wang",
         "Yubing Sun",
         "Tasawar Hayat",
         "Xiangke Wang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/22/2019 0:00",
-      "RetractionDOI": "10.1016/j.cej.2019.123498",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/5/2019 0:00",
-      "OriginalPaperDOI": "10.1016/j.cej.2019.01.020",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "11/22/2019 0:00",
+      "retractiondoi": "10.1016/j.cej.2019.123498",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/5/2019 0:00",
+      "originalpaperdoi": "10.1016/j.cej.2019.01.020",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Image",
         "+Ethical Violations by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2341d27",
-      "Record ID": "54515",
-      "Title": "Preliminary risk assessment of in-vessel leakage accident in ITER",
-      "Subject": [
-        "(PHY) Energy",
-        "(PHY) Engineering - General",
-        "(PHY) Physics"
-      ],
-      "Institution": [
-        "State Key Laboratory of Nuclear Power Safety Monitoring Technology and Equipment, China Nuclear Power Engineering Co., Ltd., Shenzhen, 518172, China",
-        "Anhui Jianzhu University, Hefei, 230601, Anhui, China",
-        "Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, 230031, Anhui, China"
-      ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Qizhi Duan",
-        "Xingchen Fang",
-        "Shuai Chen",
-        "Hongyun Xie",
-        "Chunbing Wang",
-        "Dagui Wang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/1/2024 0:00",
-      "RetractionDOI": "10.1038/s41598-024-65933-1",
-      "RetractionPubMedID": "38951664.0",
-      "OriginalPaperDate": "2/12/2024 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-024-53304-9",
-      "OriginalPaperPubMedID": "38347006.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Error in Results and/or Conclusions",
-        "+Lack of Approval from Company/Institution",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2024,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2341f5c",
-      "Record ID": "53949",
-      "Title": "Non-thermal plasma inhibits human cervical cancer HeLa cells invasiveness by suppressing the MAPK pathway and decreasing matrix metalloproteinase-9 expression",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Center of Medical Physics and Technology, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences, 350 Shushanhu Road, Hefei, Anhui Province, 230031, P.R. China",
-        "Institute of Plasma Physics, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences, 350 Shushanhu Road, Hefei, Anhui Province, 230031, P.R. China",
-        "Department of Physics and Materials Science, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong, Hong Kong",
-        "Collaborative Innovation Center of Radiation Medicine of Jiangsu Higher Education Institutions and School for Radiological and Interdisciplinary Sciences (RAD-X), Soochow University, Suzhou, Jiangsu, China"
-      ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China",
-        "Hong Kong"
-      ],
-      "Author": [
-        "Wei Li",
-        "K N Yu",
-        "Lingzhi Bao",
-        "Jie Shen",
-        "Cheng Cheng",
-        "Wei Han"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/4/2024 0:00",
-      "RetractionDOI": "10.1038/s41598-024-63655-y",
-      "RetractionPubMedID": "38834769.0",
-      "OriginalPaperDate": "1/28/2016 0:00",
-      "OriginalPaperDOI": "10.1038/srep19720",
-      "OriginalPaperPubMedID": "26818472.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Euphemisms for Duplication",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Objections by Author(s)",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also:https://pubpeer.com/publications/93338DC43BC885BD2D161221CC22F1",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2016,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2022,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     }
   ]
 }

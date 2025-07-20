@@ -1,78 +1,142 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068781e0",
+    "_id": "687ccbab09adbf7aa61b8e01",
     "grid_id": "grid.5329.d",
     "institute_name": "TU Wien",
     "country": "Austria",
     "retracted_record_ids": [
-      "6817",
-      "8526",
-      "18481",
       "59028",
       "2692",
-      "1837"
+      "8526",
+      "1837",
+      "6817",
+      "18481"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d68f",
-      "Record ID": "6817",
-      "Title": "Losing games for your winning plays",
-      "Subject": [
-        "(PHY) Mathematics",
-        "(PHY) Physics"
+      "_id": "687cef6b1f662220d8985f74",
+      "recordId": "59028",
+      "title": "Secured Wireless Energy Transfer for the Internet of Everything in Ambient Intelligent Environments",
+      "subject": [
+        "(B/T) Computer Science",
+        "(PHY) Engineering - Electrical"
       ],
-      "Institution": [
-        "Technical University of Vienna, Vienna, Austria",
-        "Sante Fe Institute, Sante Fe, New Mexico"
+      "institution": [
+        "Indian Institute of Technology (Indian School of Mines), India",
+        "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar",
+        "TU Wien, Austria",
+        "Trakya University, Turkey",
+        "Jouf University Sakaka, KSA",
+        "University of Bradford, United Kingdom"
       ],
-      "Journal": "Complexity",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "IEEE Internet of Things Magazine",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "Austria",
-        "United States"
+        "India",
+        "Qatar",
+        "Saudi Arabia",
+        "Turkey",
+        "United Kingdom"
       ],
-      "Author": [
-        "John L Casti"
+      "author": [
+        "Dinesh Kumar Sah",
+        "M Poongodi",
+        "Praveen Kumar Donta",
+        "Mounir Hamdi",
+        "Korhan Cengiz",
+        "M M Kamruzzaman",
+        "Hafiz Tayyab Rauf"
       ],
-      "ArticleType": [
-        "Commentary/Editorial"
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "9/1/2004 0:00",
-      "RetractionDOI": "10.1002/cplx.20050",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/1/2001 0:00",
-      "OriginalPaperDOI": "10.1002/cplx.10000",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Article",
-        "+Plagiarism of Text"
+      "retractiondate": "11/23/2024 0:00",
+      "retractiondoi": "10.1109/IOTM.001.2100116",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/11/2022 0:00",
+      "originalpaperdoi": "10.1109/IOTM.001.2100116",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2001,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "date of retraction unknown, date estimated from notifications;",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cfff",
-      "Record ID": "8526",
-      "Title": "Itinerant electron metamagnetism in LaCo9Si4",
-      "Subject": [
+      "_id": "687cf0911f662220d898fd30",
+      "recordId": "18481",
+      "title": "Epitaxial growth of NaxCoO2 thin films by pulsed-laser deposition",
+      "subject": [
+        "(PHY) Chemistry",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
+        "Max-Planck-Institut f\u00fcr Festk\u00f6rperforschung, Heisenbergstra\u00dfe 1, D-70569 Stuttgart, Germany",
+        "Vienna University of Technology, Gusshausstr. 27, A-1040 Vienna, Austria"
+      ],
+      "journal": "Applied Physics Letters",
+      "publisher": "AIP Publishing",
+      "country": [
+        "Austria",
+        "Germany"
+      ],
+      "author": [
+        "Yoshiharu Krockenberger",
+        "I Fritsch",
+        "G Cristiani",
+        "A Matveev",
+        "A Alff",
+        "Hanns Ulrich Habermeier",
+        "B Keimer"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/4/2006 0:00",
+      "retractiondoi": "10.1063/1.2161402",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/5/2005 0:00",
+      "originalpaperdoi": "10.1063/1.1927272",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Lack of Approval from Author"
+      ],
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2006",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b81f662220d89923e5",
+      "recordId": "8526",
+      "title": "Itinerant electron metamagnetism in LaCo9Si4",
+      "subject": [
+        "(PHY) Physics"
+      ],
+      "institution": [
         "Institut f\u00fcr Festk\u00f6rperphysik, T.U. Wien, Wiedner Hauptstrasse 8\u201310, A-1040 Wien, Austria",
         "Center for Computational Material Science, T.U. Wien, A-1040 Wien, Austria",
         "Institut f\u00fcr Mineralogie und Kristallographie, Universit\u00e4t Wien, A-1090 Wien, Austria",
         "Institut f\u00fcr Physikalische Chemie, Universit\u00e4t Wien, W\u00e4hringerstrasse 42, A-1090 Wien, Austria"
       ],
-      "Journal": "Physical Review B",
-      "Publisher": "American Physical Society",
-      "Country": [
+      "journal": "Physical Review B",
+      "publisher": "American Physical Society",
+      "country": [
         "Austria"
       ],
-      "Author": [
+      "author": [
         "H Michor",
         "M El-Hagary",
         "M Della Mea",
@@ -85,264 +149,206 @@
         "G Giester",
         "P Rogl"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/27/2004 0:00",
-      "RetractionDOI": "10.1103/PhysRevB.69.069903",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/18/2004 0:00",
-      "OriginalPaperDOI": "10.1103/PhysRevB.69.081404",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "2/27/2004 0:00",
+      "retractiondoi": "10.1103/PhysRevB.69.069903",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/18/2004 0:00",
+      "originalpaperdoi": "10.1103/PhysRevB.69.081404",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "Article published in wrong section of journal.",
-      "notice_year": 2004,
-      "year": 2004,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "Article published in wrong section of journal.",
+      "year": "2004",
+      "noticeYear": "2004",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a94a",
-      "Record ID": "18481",
-      "Title": "Epitaxial growth of NaxCoO2 thin films by pulsed-laser deposition",
-      "Subject": [
-        "(PHY) Chemistry",
+      "_id": "687cf0bf1f662220d8992a75",
+      "recordId": "6817",
+      "title": "Losing games for your winning plays",
+      "subject": [
+        "(PHY) Mathematics",
         "(PHY) Physics"
       ],
-      "Institution": [
-        "Max-Planck-Institut f\u00fcr Festk\u00f6rperforschung, Heisenbergstra\u00dfe 1, D-70569 Stuttgart, Germany",
-        "Vienna University of Technology, Gusshausstr. 27, A-1040 Vienna, Austria"
+      "institution": [
+        "Technical University of Vienna, Vienna, Austria",
+        "Sante Fe Institute, Sante Fe, New Mexico"
       ],
-      "Journal": "Applied Physics Letters",
-      "Publisher": "AIP Publishing",
-      "Country": [
+      "journal": "Complexity",
+      "publisher": "Wiley",
+      "country": [
         "Austria",
-        "Germany"
+        "United States"
       ],
-      "Author": [
-        "Yoshiharu Krockenberger",
-        "I Fritsch",
-        "G Cristiani",
-        "A Matveev",
-        "A Alff",
-        "Hanns Ulrich Habermeier",
-        "B Keimer"
+      "author": [
+        "John L Casti"
       ],
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Commentary/Editorial"
       ],
-      "RetractionDate": "1/4/2006 0:00",
-      "RetractionDOI": "10.1063/1.2161402",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/5/2005 0:00",
-      "OriginalPaperDOI": "10.1063/1.1927272",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Lack of Approval from Author"
+      "retractiondate": "9/1/2004 0:00",
+      "retractiondoi": "10.1002/cplx.20050",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/1/2001 0:00",
+      "originalpaperdoi": "10.1002/cplx.10000",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Article",
+        "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2006,
-      "year": 2005,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2001",
+      "noticeYear": "2004",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2340b8e",
-      "Record ID": "59028",
-      "Title": "Secured Wireless Energy Transfer for the Internet of Everything in Ambient Intelligent Environments",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(PHY) Engineering - Electrical"
-      ],
-      "Institution": [
-        "Indian Institute of Technology (Indian School of Mines), India",
-        "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar",
-        "TU Wien, Austria",
-        "Trakya University, Turkey",
-        "Jouf University Sakaka, KSA",
-        "University of Bradford, United Kingdom"
-      ],
-      "Journal": "IEEE Internet of Things Magazine",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
-        "Austria",
-        "India",
-        "Qatar",
-        "Saudi Arabia",
-        "Turkey",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Dinesh Kumar Sah",
-        "M Poongodi",
-        "Praveen Kumar Donta",
-        "Mounir Hamdi",
-        "Korhan Cengiz",
-        "M M Kamruzzaman",
-        "Hafiz Tayyab Rauf"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/23/2024 0:00",
-      "RetractionDOI": "10.1109/IOTM.001.2100116",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/11/2022 0:00",
-      "OriginalPaperDOI": "10.1109/IOTM.001.2100116",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, date estimated from notifications;",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e65a",
-      "Record ID": "2692",
-      "Title": "From single neuron-firing to consciousness--towards the true solution of the binding problem",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993a40",
+      "recordId": "2692",
+      "title": "From single neuron-firing to consciousness--towards the true solution of the binding problem",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Tecnalia \u2013 Fatronik, Biorobotics, Paseo Mikeletegi 7 - Parque Tecnol\u00f3gico, E-20009 Donostia-San Sebasti\u00e1n, Spain",
         "Vienna University of Technology, Institute of Computer Technology, Gusshausstrasse 27-29, A-1040 Vienna, Austria"
       ],
-      "Journal": "Neuroscience and Biobehavioral Reviews",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "publisher": "Elsevier",
+      "country": [
         "Austria",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Rosemarie Velik"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/1/2012 0:00",
-      "RetractionDOI": "10.1016/j.neubiorev.2011.08.001",
-      "RetractionPubMedID": "22206101.0",
-      "OriginalPaperDate": "6/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.neubiorev.2009.11.014",
-      "OriginalPaperPubMedID": "19932130.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2012 0:00",
+      "retractiondoi": "10.1016/j.neubiorev.2011.08.001",
+      "retractionpubmedid": "22206101.0",
+      "originalpaperdate": "6/1/2010 0:00",
+      "originalpaperdoi": "10.1016/j.neubiorev.2009.11.014",
+      "originalpaperpubmedid": "19932130.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Misconduct by Author",
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e99d",
-      "Record ID": "1837",
-      "Title": "The Post-peak Spectra in Electron Energy Loss Near Edge Structure",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993d83",
+      "recordId": "1837",
+      "title": "The Post-peak Spectra in Electron Energy Loss Near Edge Structure",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "School of Materials Science and Engineering, Shanghai University for Science and Technology, 200093 Shanghai, China",
         "Institute for Solid State Physics, Vienna University of Technology, A-1040 WIEN, Austria",
         "Service Center for Electron Microscopy, Vienna University of Technology, A-1040 WIEN, Austria"
       ],
-      "Journal": "Ultramicroscopy",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Ultramicroscopy",
+      "publisher": "Elsevier",
+      "country": [
         "Austria",
         "China"
       ],
-      "Author": [
+      "author": [
         "Feng Tian",
         "Peter Schattschneider",
         "Micheal Stoger-Pollach"
       ],
-      "URLS": "http://retractionwatch.com/2014/12/08/phantom-authorship-forces-retraction-electron-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/12/08/phantom-authorship-forces-retraction-electron-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/1/2014 0:00",
-      "RetractionDOI": "10.1016/j.ultramic.2013.10.008",
-      "RetractionPubMedID": "25414916.0",
-      "OriginalPaperDate": "1/1/2014 0:00",
-      "OriginalPaperDOI": "10.1016/j.ultramic.2013.10.008",
-      "OriginalPaperPubMedID": "24184390.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2014 0:00",
+      "retractiondoi": "10.1016/j.ultramic.2013.10.008",
+      "retractionpubmedid": "25414916.0",
+      "originalpaperdate": "1/1/2014 0:00",
+      "originalpaperdoi": "10.1016/j.ultramic.2013.10.008",
+      "originalpaperpubmedid": "24184390.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2001,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2006,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -350,32 +356,32 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 0,
-      "integrity": 1
-    },
-    {
-      "year": 2022,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2022,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -383,10 +389,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

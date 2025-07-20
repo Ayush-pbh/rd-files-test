@@ -1,27 +1,136 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879097",
+    "_id": "687ccbab09adbf7aa61b9cb8",
     "grid_id": "grid.415967.8",
     "institute_name": "Leeds Teaching Hospitals NHS Trust",
     "country": "United Kingdom",
     "retracted_record_ids": [
       "32779",
       "3225",
-      "33472",
-      "38652"
+      "38652",
+      "33472"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23471a6",
-      "Record ID": "32779",
-      "Title": "Comparative efficacy of epidural, subarachnoid, and intracerebroventricular opioids in patients with pain due to cancer",
-      "Subject": [
+      "_id": "687cefb51f662220d898aeb6",
+      "recordId": "38652",
+      "title": "A Multicentre Randomized Controlled Trial Comparing Plating with Intramedullary Nailing for Extra-articular Distal Tibial Fractures",
+      "subject": [
+        "(HSC) Medicine - Orthopedics"
+      ],
+      "institution": [
+        "Department of Orthopaedics, Jinnah Postgraduate Medical Centre, Karachi, Pakistan",
+        "Department of Orthopaedics, Ghurki Trust and Teaching Hospital, Lahore, Pakistan",
+        "Department of Orthopaedics, National Institute of Rehabilitation Medicine, Islamabad, Pakistan",
+        "Department of Orthopaedics, Jinnah Postgraduate Medical Centre, Karachi, Pakistan",
+        "Department of Orthopaedics, Leeds Teaching Hospital Trust, United Kingdom",
+        "Department of Orthopaedics, Sir Syed Medical College for Girls and Trust Hospital, Karachi, Pakistan"
+      ],
+      "journal": "Injury",
+      "publisher": "Elsevier",
+      "country": [
+        "Pakistan",
+        "United Kingdom"
+      ],
+      "author": [
+        "Muhammad Tahir",
+        "Noman Khan",
+        "Ejaz Ali Chaudhry",
+        "Faridullah Khan Zimri",
+        "Nadeem Ahmed",
+        "Katherine Rose Watson",
+        "Allah Rakhio Jamali",
+        "Ahmad Faraz",
+        "Amer Aziz",
+        "Ghulam Mehboob"
+      ],
+      "articletype": [
+        "Clinical Study",
+        "Research Article"
+      ],
+      "retractiondate": "5/25/2022 0:00",
+      "retractiondoi": "10.1016/j.injury.2022.04.023",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/16/2020 0:00",
+      "originalpaperdoi": "10.1016/j.injury.2020.11.046",
+      "originalpaperpubmedid": "33276959.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Ethical Violations by Author",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2022",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefcc1f662220d898c2d8",
+      "recordId": "33472",
+      "title": "Interventions for dysphagia in oesophageal cancer",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Gastroenterology, Leeds General Infirmary, Leeds, UK",
+        "Systematic Reviews and Healthcare Assessment, NHMRC Clinical Trials Centre, The University of Sydney, Camperdown, Australia",
+        "Department of Gastroenterology, Leeds General Infirmary, Leeds, UK",
+        "Department of Radiology, Leeds General Infirmary, Leeds, UK",
+        "Department of Oncology, Leeds Teaching Hospital, Leeds, UK",
+        "University of Leeds, Leeds, UK",
+        "Centre for Epidemiology and Biostatistics, University of Leeds, Leeds, UK"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "Australia",
+        "United Kingdom"
+      ],
+      "author": [
+        "Aravamuthan Sreedharan",
+        "Sally Wortley",
+        "Simon M Everett",
+        "Keith Harris",
+        "Adrian Crellin",
+        "Jan Lilleyman",
+        "David Forman"
+      ],
+      "urls": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "2/16/2012 0:00",
+      "retractiondoi": "10.1002/14651858.CD005048.pub3",
+      "retractionpubmedid": "21328271.0",
+      "originalpaperdate": "7/8/2009 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD005048",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Temporary Removal",
+        "+Withdrawn as Out of Date"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2012",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefce1f662220d898c58c",
+      "recordId": "32779",
+      "title": "Comparative efficacy of epidural, subarachnoid, and intracerebroventricular opioids in patients with pain due to cancer",
+      "subject": [
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology and Pain Medicine, University of Washington, Seattle, USA",
         "Department of Anesthesia and Critical Care, Massachusetts General Hospital, Boston, USA",
         "Anesthesiology and Critical Care, University of Pennsylvania, Philadelphia, USA",
@@ -31,13 +140,13 @@
         "Pain Clinic, Seacroft Hospital, Leeds Teaching Hospitals, Leeds, UK",
         "Anaesthesia and Pain Medicine, Leeds Teaching Hospitals NHS Trust, Leeds, UK"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jane C Ballantyne",
         "Caroline Carwood",
         "Anita Gupta",
@@ -47,35 +156,37 @@
         "Louise Lynch",
         "Ganesan Baranidharan"
       ],
-      "URLS": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "10/25/2013 0:00",
-      "RetractionDOI": "10.1002/14651858.CD005178.pub2",
-      "RetractionPubMedID": "24163272.0",
-      "OriginalPaperDate": "4/20/2005 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD005178",
-      "OriginalPaperPubMedID": "15654707.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/25/2013 0:00",
+      "retractiondoi": "10.1002/14651858.CD005178.pub2",
+      "retractionpubmedid": "24163272.0",
+      "originalpaperdate": "4/20/2005 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD005178",
+      "originalpaperpubmedid": "15654707.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Removed",
         "+Withdrawn as Out of Date"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2013,
-      "year": 2005
+      "paywalled": "Yes",
+      "year": "2005",
+      "noticeYear": "2013",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e44f",
-      "Record ID": "3225",
-      "Title": "Consensus Guidelines for CSF and Blood Biobanking for CNS Biomarker Studies",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993835",
+      "recordId": "3225",
+      "title": "Consensus Guidelines for CSF and Blood Biobanking for CNS Biomarker Studies",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical Chemistry, Neurological Laboratory and Biobank, VU University Medical Center, FdG, P.O. Box 7057, 1007 MB Amsterdam, The Netherlands",
         "Clinical Neuroimmunology Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, 20132 Milan, Italy",
         "Neurology, Erasmus MC, Rotterdam, The Netherlands",
@@ -106,9 +217,9 @@
         "Neurology, Glostrup Hospital, University of Copenhagen, Glostrup 2600, Denmark",
         "Department of Neurology, University of Wisconsin, Madison 53705, WI, USA"
       ],
-      "Journal": "Multiple Sclerosis International",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Multiple Sclerosis International",
+      "publisher": "Hindawi",
+      "country": [
         "Austria",
         "Belgium",
         "Czech Republic",
@@ -125,7 +236,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Charlotte E Teunissen",
         "Hayrettin Tumani",
         "Jeffrey L Bennett",
@@ -155,174 +266,68 @@
         "Gavin Giovannoni",
         "Bernhard Hemmer"
       ],
-      "ArticleType": [
+      "articletype": [
         "Guideline"
       ],
-      "RetractionDate": "7/25/2016 0:00",
-      "RetractionDOI": "10.1155/2016/8304273",
-      "RetractionPubMedID": "27529034.0",
-      "OriginalPaperDate": "7/18/2011 0:00",
-      "OriginalPaperDOI": "10.1155/2011/246412",
-      "OriginalPaperPubMedID": "22096631.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/25/2016 0:00",
+      "retractiondoi": "10.1155/2016/8304273",
+      "retractionpubmedid": "27529034.0",
+      "originalpaperdate": "7/18/2011 0:00",
+      "originalpaperdoi": "10.1155/2011/246412",
+      "originalpaperpubmedid": "22096631.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Lack of Approval from Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2011,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2346ef2",
-      "Record ID": "33472",
-      "Title": "Interventions for dysphagia in oesophageal cancer",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "Gastroenterology, Leeds General Infirmary, Leeds, UK",
-        "Systematic Reviews and Healthcare Assessment, NHMRC Clinical Trials Centre, The University of Sydney, Camperdown, Australia",
-        "Department of Gastroenterology, Leeds General Infirmary, Leeds, UK",
-        "Department of Radiology, Leeds General Infirmary, Leeds, UK",
-        "Department of Oncology, Leeds Teaching Hospital, Leeds, UK",
-        "University of Leeds, Leeds, UK",
-        "Centre for Epidemiology and Biostatistics, University of Leeds, Leeds, UK"
-      ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "Australia",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Aravamuthan Sreedharan",
-        "Sally Wortley",
-        "Simon M Everett",
-        "Keith Harris",
-        "Adrian Crellin",
-        "Jan Lilleyman",
-        "David Forman"
-      ],
-      "URLS": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "2/16/2012 0:00",
-      "RetractionDOI": "10.1002/14651858.CD005048.pub3",
-      "RetractionPubMedID": "21328271.0",
-      "OriginalPaperDate": "7/8/2009 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD005048",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Temporary Removal",
-        "+Withdrawn as Out of Date"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2009,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2345ad0",
-      "Record ID": "38652",
-      "Title": "A Multicentre Randomized Controlled Trial Comparing Plating with Intramedullary Nailing for Extra-articular Distal Tibial Fractures",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics"
-      ],
-      "Institution": [
-        "Department of Orthopaedics, Jinnah Postgraduate Medical Centre, Karachi, Pakistan",
-        "Department of Orthopaedics, Ghurki Trust and Teaching Hospital, Lahore, Pakistan",
-        "Department of Orthopaedics, National Institute of Rehabilitation Medicine, Islamabad, Pakistan",
-        "Department of Orthopaedics, Jinnah Postgraduate Medical Centre, Karachi, Pakistan",
-        "Department of Orthopaedics, Leeds Teaching Hospital Trust, United Kingdom",
-        "Department of Orthopaedics, Sir Syed Medical College for Girls and Trust Hospital, Karachi, Pakistan"
-      ],
-      "Journal": "Injury",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Pakistan",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Muhammad Tahir",
-        "Noman Khan",
-        "Ejaz Ali Chaudhry",
-        "Faridullah Khan Zimri",
-        "Nadeem Ahmed",
-        "Katherine Rose Watson",
-        "Allah Rakhio Jamali",
-        "Ahmad Faraz",
-        "Amer Aziz",
-        "Ghulam Mehboob"
-      ],
-      "ArticleType": [
-        "Clinical Study",
-        "Research Article"
-      ],
-      "RetractionDate": "5/25/2022 0:00",
-      "RetractionDOI": "10.1016/j.injury.2022.04.023",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/16/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.injury.2020.11.046",
-      "OriginalPaperPubMedID": "33276959.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Ethical Violations by Author",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -330,10 +335,10 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -341,32 +346,32 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

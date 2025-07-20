@@ -1,24 +1,80 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068799b9",
+    "_id": "687ccbab09adbf7aa61ba5da",
     "grid_id": "grid.17866.3e",
     "institute_name": "California Pacific Medical Center",
     "country": "United States",
     "retracted_record_ids": [
-      "4823",
-      "21665"
+      "21665",
+      "4823"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234de2f",
-      "Record ID": "4823",
-      "Title": "Impact of Rotor Ablation in Nonparoxysmal Atrial Fibrillation Patients Results From the Randomized OASIS Trial",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f0d2",
+      "recordId": "21665",
+      "title": "Pathological Roles of Interleukin-22 in the Development of Recurrent Hepatitis C after Liver Transplantation",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Surgery",
+        "(HSC) Medicine - Transplantation"
+      ],
+      "institution": [
+        "Liver Transplantation and Research Center, 302 Military Hospital, Beijing, China, Department of Infectious Diseases, Medical School of Chinese PLA, Beijing, China",
+        "Liver Cirrhosis and Research Center, 302 Military Hospital, Beijing, China",
+        "California Pacific Medical Center, San Francisco, California, United States of America",
+        "University of California at Davis school of medicine, Sacramento, California, United States of America",
+        "Department of Pathology and Hepatology, 302 Military Hospital, Beijing, China"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Yinjie Gao",
+        "Hui Ren",
+        "Jin Li",
+        "Eddie Cheung",
+        "Hanwei Li",
+        "Jingmin Zhao",
+        "Hongling Liu",
+        "Zhenwen Liu",
+        "Min Zhang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/26/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0225971",
+      "retractionpubmedid": "31770426.0",
+      "originalpaperdate": "4/28/2016 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0154419",
+      "originalpaperpubmedid": "27123854.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Ethical Violations by Author",
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c51f662220d8993215",
+      "recordId": "4823",
+      "title": "Impact of Rotor Ablation in Nonparoxysmal Atrial Fibrillation Patients Results From the Randomized OASIS Trial",
+      "subject": [
         "(BLS) Biology - General",
         "(HSC) Medicine - Cardiology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Electrophysiology, Texas Cardiac Arrhythmia Institute, St. David's Medical Center, Austin, Texas, USA",
         "Department of Cardiology, Cardiovascular Center, Bad Neustadt, Germany",
         "Department of Cardiology, Lexington Cardiology at Central Baptist, Lexington, Kentucky, USA",
@@ -29,14 +85,14 @@
         "Division of Cardiology, Stanford University, Stanford, California, USA",
         "Department of Internal Medicine, Dell Medical School, University of Texas, Austin, Texas, USA"
       ],
-      "Journal": "Journal of the American College of Cardiology (JACC)",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of the American College of Cardiology (JACC)",
+      "publisher": "Elsevier",
+      "country": [
         "China",
         "Germany",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Sanghamitra Mohanty",
         "Carola Gianni",
         "Prasant Mohanty",
@@ -56,102 +112,48 @@
         "Luigi Di Biase",
         "Andrea Natale"
       ],
-      "URLS": "http://retractionwatch.com/2016/09/07/author-claims-industry-influenced-retraction-of-heart-study/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/09/07/author-claims-industry-influenced-retraction-of-heart-study/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "7/19/2016 0:00",
-      "RetractionDOI": "10.1016/j.jacc.2016.08.037",
-      "RetractionPubMedID": "27893970.0",
-      "OriginalPaperDate": "7/19/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.jacc.2016.04.015",
-      "OriginalPaperPubMedID": "27163758.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/19/2016 0:00",
+      "retractiondoi": "10.1016/j.jacc.2016.08.037",
+      "retractionpubmedid": "27893970.0",
+      "originalpaperdate": "7/19/2016 0:00",
+      "originalpaperdoi": "10.1016/j.jacc.2016.04.015",
+      "originalpaperpubmedid": "27163758.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Methods",
         "+Error in Text",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349cec",
-      "Record ID": "21665",
-      "Title": "Pathological Roles of Interleukin-22 in the Development of Recurrent Hepatitis C after Liver Transplantation",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Surgery",
-        "(HSC) Medicine - Transplantation"
-      ],
-      "Institution": [
-        "Liver Transplantation and Research Center, 302 Military Hospital, Beijing, China, Department of Infectious Diseases, Medical School of Chinese PLA, Beijing, China",
-        "Liver Cirrhosis and Research Center, 302 Military Hospital, Beijing, China",
-        "California Pacific Medical Center, San Francisco, California, United States of America",
-        "University of California at Davis school of medicine, Sacramento, California, United States of America",
-        "Department of Pathology and Hepatology, 302 Military Hospital, Beijing, China"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Yinjie Gao",
-        "Hui Ren",
-        "Jin Li",
-        "Eddie Cheung",
-        "Hanwei Li",
-        "Jingmin Zhao",
-        "Hongling Liu",
-        "Zhenwen Liu",
-        "Min Zhang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/26/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0225971",
-      "RetractionPubMedID": "31770426.0",
-      "OriginalPaperDate": "4/28/2016 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0154419",
-      "OriginalPaperPubMedID": "27123854.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Ethical Violations by Author",
-        "+Lack of IRB/IACUC Approval and/or Compliance"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2016,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2016,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

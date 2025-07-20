@@ -1,82 +1,39 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687821f",
+    "_id": "687ccbab09adbf7aa61b8e40",
     "grid_id": "grid.239281.3",
     "institute_name": "Alfred I. duPont Hospital for Children",
     "country": "United States",
     "retracted_record_ids": [
       "6812",
-      "58880",
       "58704",
-      "2599"
+      "2599",
+      "58880"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d694",
-      "Record ID": "6812",
-      "Title": "Catheter Facilitated Completion of Fontan Procedure",
-      "Subject": [
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Nemours Cardiac Center, A.I. duPont Hospital for Children, Thomas Jefferson University, Wilmington, Delaware"
-      ],
-      "Journal": "Circulation",
-      "Publisher": "American Heart Association",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "John D Murphy",
-        "Kenneth A Murdison",
-        "Rodrigo A Nehgme",
-        "Christian Pizarro",
-        "William I Norwood Jr"
-      ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "2/28/2005 0:00",
-      "RetractionDOI": "10.1161/01.CIR.0000159206.04070.21",
-      "RetractionPubMedID": "15738363.0",
-      "OriginalPaperDate": "10/28/2003 0:00",
-      "OriginalPaperDOI": "10.1161/01.CIR.0000159206.04070.21",
-      "OriginalPaperPubMedID": "16080255.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Lack of Approval from Third Party",
-        "+Lack of IRB/IACUC Approval and/or Compliance"
-      ],
-      "Paywalled": "No",
-      "Notes": "Affiliation taken from related article by authors",
-      "notice_year": 2005,
-      "year": 2003,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2340c21",
-      "Record ID": "58880",
-      "Title": "Integrating mechanisms of response and resistance against the tubulin binding agent Eribulin in preclinical models of osteosarcoma",
-      "Subject": [
+      "_id": "687cef6b1f662220d8986007",
+      "recordId": "58880",
+      "title": "Integrating mechanisms of response and resistance against the tubulin binding agent Eribulin in preclinical models of osteosarcoma",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Cancer Therapeutics Laboratory, Nemours Center for Cancer and Blood Disorders, Nemours/A.I. duPont Hospital for Children, Wilmington, DE, USA",
         "Department of Pediatrics - Hematology and Oncology, The Children's Hospital at Montefiore, The Albert Einstein College of Medicine, Bronx, NY, USA",
         "Nemours Center for Childhood Cancer Research, Alfred I. duPont Hospital for Children, Wilmington, DE, USA",
         "Department of Biological Sciences, University of Delaware, Newark, DE, USA"
       ],
-      "Journal": "Oncotarget",
-      "Publisher": "Impact Journals",
-      "Country": [
+      "journal": "Oncotarget",
+      "publisher": "Impact Journals",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Valerie B Sampson",
         "Nancy S Vetter",
         "Wendong Zhang",
@@ -86,50 +43,51 @@
         "Richard Gorlick",
         "Edward A Kolb"
       ],
-      "URLS": "https://retractionwatch.com/2024/11/27/cancer-researcher-admitted-faking-data/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/11/27/cancer-researcher-admitted-faking-data/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/11/2024 0:00",
-      "RetractionDOI": "10.18632/oncotarget.28663",
-      "RetractionPubMedID": "39392376.0",
-      "OriginalPaperDate": "11/15/2016 0:00",
-      "OriginalPaperDOI": "10.18632/oncotarget.13358",
-      "OriginalPaperPubMedID": "27863409.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/11/2024 0:00",
+      "retractiondoi": "10.18632/oncotarget.28663",
+      "retractionpubmedid": "39392376.0",
+      "originalpaperdate": "11/15/2016 0:00",
+      "originalpaperdoi": "10.18632/oncotarget.13358",
+      "originalpaperpubmedid": "27863409.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Text",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "Notes": "Valerie B Sampson admitted falsification of data;",
-      "notice_year": 2024,
-      "year": 2016,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Valerie B Sampson admitted falsification of data;",
+      "year": "2016",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2340cd1",
-      "Record ID": "58704",
-      "Title": "Neointimal hyperplasia after carotid transection and anastomosis surgery is associated with degradation of decorin and platelet-derived growth factor signaling",
-      "Subject": [
+      "_id": "687cef6b1f662220d89860b7",
+      "recordId": "58704",
+      "title": "Neointimal hyperplasia after carotid transection and anastomosis surgery is associated with degradation of decorin and platelet-derived growth factor signaling",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Nemours\u2014Alfred I. duPont Hospital for Children, Wilmington, Del",
         "Tulane University School of Medicine, New Orleans, La",
         "Department of Materials Science & Engineering, University of Delaware, Newark, Del",
         "Department of Biomedical Engineering, University of Delaware, Newark, Del"
       ],
-      "Journal": "JVS-Vascular Science",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "JVS-Vascular Science",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Roshan J D'Cruz",
         "Valerie B Sampson",
         "Carly A Askinas",
@@ -139,101 +97,147 @@
         "Anne M Hesek",
         "Robert E Akins"
       ],
-      "URLS": "https://retractionwatch.com/2024/11/27/cancer-researcher-admitted-faking-data/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2024/11/27/cancer-researcher-admitted-faking-data/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/23/2024 0:00",
-      "RetractionDOI": "10.1016/j.jvssci.2024.100216",
-      "RetractionPubMedID": "39544907.0",
-      "OriginalPaperDate": "2/25/2021 0:00",
-      "OriginalPaperDOI": "10.1016/j.jvssci.2020.09.002",
-      "OriginalPaperPubMedID": "33842897.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/23/2024 0:00",
+      "retractiondoi": "10.1016/j.jvssci.2024.100216",
+      "retractionpubmedid": "39544907.0",
+      "originalpaperdate": "2/25/2021 0:00",
+      "originalpaperdoi": "10.1016/j.jvssci.2020.09.002",
+      "originalpaperpubmedid": "33842897.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
         "+Falsification/Fabrication of Data",
         "+Manipulation of Images",
         "+Manipulation of Results"
       ],
-      "Paywalled": "No",
-      "Notes": "Valerie Sampson admits responsibility of data and image issues;",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Valerie Sampson admits responsibility of data and image issues;",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e6b3",
-      "Record ID": "2599",
-      "Title": "Thrombocytopenia in infants and children",
-      "Subject": [
+      "_id": "687cf0bf1f662220d8992a7a",
+      "recordId": "6812",
+      "title": "Catheter Facilitated Completion of Fontan Procedure",
+      "subject": [
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Nemours Cardiac Center, A.I. duPont Hospital for Children, Thomas Jefferson University, Wilmington, Delaware"
+      ],
+      "journal": "Circulation",
+      "publisher": "American Heart Association",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "John D Murphy",
+        "Kenneth A Murdison",
+        "Rodrigo A Nehgme",
+        "Christian Pizarro",
+        "William I Norwood Jr"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "2/28/2005 0:00",
+      "retractiondoi": "10.1161/01.CIR.0000159206.04070.21",
+      "retractionpubmedid": "15738363.0",
+      "originalpaperdate": "10/28/2003 0:00",
+      "originalpaperdoi": "10.1161/01.CIR.0000159206.04070.21",
+      "originalpaperpubmedid": "16080255.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Lack of Approval from Third Party",
+        "+Lack of IRB/IACUC Approval and/or Compliance"
+      ],
+      "paywalled": "No",
+      "notes": "Affiliation taken from related article by authors",
+      "year": "2003",
+      "noticeYear": "2005",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993a99",
+      "recordId": "2599",
+      "title": "Thrombocytopenia in infants and children",
+      "subject": [
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Pathology",
         "(HSC) Medicine - Pediatrics"
       ],
-      "Institution": [
+      "institution": [
         "Thomas Jefferson University, Philadelphia, PA",
         "Diagnostic Referral Division, A.I. duPont Hospital for Children, Wilmington, DE"
       ],
-      "Journal": "Pediatrics in Review: American Academy of Pediatrics",
-      "Publisher": "American Academy of Pediatrics",
-      "Country": [
+      "journal": "Pediatrics in Review: American Academy of Pediatrics",
+      "publisher": "American Academy of Pediatrics",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Deborah M Consolini"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "1/1/2015 0:00",
-      "RetractionDOI": "10.1542/pir.36-1-42",
-      "RetractionPubMedID": "25554114.0",
-      "OriginalPaperDate": "4/1/2011 0:00",
-      "OriginalPaperDOI": "10.1542/pir.32-4-135",
-      "OriginalPaperPubMedID": "21460090.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/1/2015 0:00",
+      "retractiondoi": "10.1542/pir.36-1-42",
+      "retractionpubmedid": "25554114.0",
+      "originalpaperdate": "4/1/2011 0:00",
+      "originalpaperdoi": "10.1542/pir.32-4-135",
+      "originalpaperpubmedid": "21460090.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2005,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -241,32 +245,32 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -274,10 +278,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

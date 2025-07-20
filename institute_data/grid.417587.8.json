@@ -1,71 +1,72 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878d78",
+    "_id": "687ccbab09adbf7aa61b9999",
     "grid_id": "grid.417587.8",
     "institute_name": "United States Food and Drug Administration",
     "country": "United States",
     "retracted_record_ids": [
-      "43989",
       "39840",
-      "18891",
       "5331",
+      "43989",
+      "18891",
       "18009"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2344619",
-      "Record ID": "43989",
-      "Title": "The Complete Mitochondrial Genome of the Foodborne Parasitic Pathogen Cyclospora cayetanensis",
-      "Subject": [
+      "_id": "687cefa61f662220d89899ff",
+      "recordId": "43989",
+      "title": "The Complete Mitochondrial Genome of the Foodborne Parasitic Pathogen Cyclospora cayetanensis",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Genetics",
         "(BLS) Parasitology"
       ],
-      "Institution": [
+      "institution": [
         "Food and Drug Administration, Center for Food Safety and Nutrition, Office of Applied Research, Division of Virulence Assessment, Laurel, Maryland, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hediye Nese Cinar",
         "Gopal Gopinath",
         "Karen Jarvis",
         "Helen R Murphy"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/21/2023 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0282228",
-      "RetractionPubMedID": "36809444.0",
-      "OriginalPaperDate": "6/4/2015 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0128645",
-      "OriginalPaperPubMedID": "26042787.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "2/21/2023 0:00",
+      "retractiondoi": "10.1371/journal.pone.0282228",
+      "retractionpubmedid": "36809444.0",
+      "originalpaperdate": "6/4/2015 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0128645",
+      "originalpaperpubmedid": "26042787.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Investigation by Third Party",
         "+Lack of IRB/IACUC Approval and/or Compliance"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2015,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2023",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345636",
-      "Record ID": "39840",
-      "Title": "Changes in Tobacco Dependence and Association With Onset and Progression of Use by Product Type From Wave 1 to Wave 3 of the Population Assessment of Tobacco and Health (PATH) Study",
-      "Subject": [
+      "_id": "687cefb31f662220d898aa1c",
+      "recordId": "39840",
+      "title": "Changes in Tobacco Dependence and Association With Onset and Progression of Use by Product Type From Wave 1 to Wave 3 of the Population Assessment of Tobacco and Health (PATH) Study",
+      "subject": [
         "(BLS) Toxicology",
         "(HSC) Medicine - General",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Cancer Prevention & Control Program, Moores Cancer Center University of California, San Diego, CA",
         "Department of Family Medicine and Public Health, University of California, San Diego, CA",
         "School of Global Public Health, New York University",
@@ -77,12 +78,12 @@
         "Kelly Government Solutions, Rockville, MD",
         "Center for Tobacco Products, FDA, Silver Spring, MD"
       ],
-      "Journal": "Nicotine & Tobacco Research",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Nicotine & Tobacco Research",
+      "publisher": "Oxford Academic",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "David R Strong",
         "John P Pierce",
         "Martha White",
@@ -101,87 +102,131 @@
         "Lynn C Hull",
         "Raymond Niaura"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/10/2022 0:00",
-      "RetractionDOI": "10.1093/ntr/ntac223",
-      "RetractionPubMedID": "36214604.0",
-      "OriginalPaperDate": "7/8/2022 0:00",
-      "OriginalPaperDOI": "10.1093/ntr/ntac167",
-      "OriginalPaperPubMedID": "35801819.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/10/2022 0:00",
+      "retractiondoi": "10.1093/ntr/ntac223",
+      "retractionpubmedid": "36214604.0",
+      "originalpaperdate": "7/8/2022 0:00",
+      "originalpaperdoi": "10.1093/ntr/ntac167",
+      "originalpaperpubmedid": "35801819.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Methods"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a7b2",
-      "Record ID": "18891",
-      "Title": "Micropatterning Different Cell Types with Microarray Amplification of Natural Directional Persistence",
-      "Subject": [
+      "_id": "687cf0911f662220d898fb98",
+      "recordId": "18891",
+      "title": "Micropatterning Different Cell Types with Microarray Amplification of Natural Directional Persistence",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Chemical & Materials Engineering Program, University of Cincinnati, Cincinnati, OH 45221-0012, USA",
         "Division of Biology, Center for Devices and Radiological Health, US Food & Drug Administration, Silver Spring, MD 20993, USA"
       ],
-      "Journal": "Advanced Healthcare Matters",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Advanced Healthcare Matters",
+      "publisher": "Wiley",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Kyu Shik Mun",
         "Girish Kumar",
         "Carlos C Co",
         "Chia Chi Ho"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/30/2017 0:00",
-      "RetractionDOI": "10.1002/adhm.201701227",
-      "RetractionPubMedID": "29265743.0",
-      "OriginalPaperDate": "9/5/2012 0:00",
-      "OriginalPaperDOI": "10.1002/adhm.201200141",
-      "OriginalPaperPubMedID": "23184681.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/30/2017 0:00",
+      "retractiondoi": "10.1002/adhm.201701227",
+      "retractionpubmedid": "29265743.0",
+      "originalpaperdate": "9/5/2012 0:00",
+      "originalpaperdoi": "10.1002/adhm.201200141",
+      "originalpaperpubmedid": "23184681.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2017",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234dc43",
-      "Record ID": "5331",
-      "Title": "Influence of the RF Excitation of the Catalyst System on the Morphology of Multiwalled Carbon Nanotubes",
-      "Subject": [
+      "_id": "687cf0921f662220d898ff07",
+      "recordId": "18009",
+      "title": "Motility-Based Cell Sorting by Planar Cell Chromatography",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "Chemical Engineering Program, University of Cincinnati, Cincinnati, Ohio 45221-0012, United States",
+        "Division of Biology, Center for Devices and Radiological Health, U.S. Food & Drug Administration, Silver Spring, Maryland 20993, United States"
+      ],
+      "journal": "Analytical Chemistry",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Carlos C Co",
+        "Chia Chi Ho",
+        "Girish Kumar"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/18/2018 0:00",
+      "retractiondoi": "10.1021/acs.analchem.8b01500",
+      "retractionpubmedid": "29665680.0",
+      "originalpaperdate": "11/9/2012 0:00",
+      "originalpaperdoi": "10.1021/ac302855m",
+      "originalpaperpubmedid": "23140541.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Image",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8993029",
+      "recordId": "5331",
+      "title": "Influence of the RF Excitation of the Catalyst System on the Morphology of Multiwalled Carbon Nanotubes",
+      "subject": [
         "(PHY) Chemistry",
         "(PHY) Physics"
       ],
-      "Institution": [
+      "institution": [
         "Nanotechnology Center and Applied Science Department, University of Arkansas at Little Rock, Little Rock, Arkansas 72204, USA",
         "Food and Drug Administration, National Center for Toxicology Research, Jefferson, Arkansas 72079, USA",
         "Department of Chemistry, Elizabeth City State University, Elizabeth City, North Carolina 27909, USA",
         "National Institute for Research and Development of Isotopic and Molecular Technologies, P.O. Box 700, R-400293, Cluj-Napoca, Romania, NASA, Electrostatics and Surface Physics Laboratory, Kennedy Space Center, Mail Code:? YA-C2-T, Florida 32899, and Advanced Materials Processing and Analysis Center, University of Central Florida, Orlando, Florida 32826, USA"
       ],
-      "Journal": "The Journal of Physical Chemistry C",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
+      "journal": "The Journal of Physical Chemistry C",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Alexandru S Biris",
         "Thomas C Schmitt",
         "Reginald B Little",
@@ -194,108 +239,68 @@
         "Dwight W Miller",
         "Zia Rahman"
       ],
-      "URLS": "http://retractionwatch.com/2012/09/26/reused-figures-lead-to-two-chemistry-retractions-one-correction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/09/26/reused-figures-lead-to-two-chemistry-retractions-one-correction/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/20/2012 0:00",
-      "RetractionDOI": "10.1021/jp306088h",
-      "OriginalPaperDate": "10/16/2007 0:00",
-      "OriginalPaperDOI": "10.1021/jp0740346",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/20/2012 0:00",
+      "retractiondoi": "10.1021/jp306088h",
+      "originalpaperdate": "10/16/2007 0:00",
+      "originalpaperdoi": "10.1021/jp0740346",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data",
         "+Duplication of/in Image",
         "+Ethical Violations by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2007,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ab21",
-      "Record ID": "18009",
-      "Title": "Motility-Based Cell Sorting by Planar Cell Chromatography",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "Chemical Engineering Program, University of Cincinnati, Cincinnati, Ohio 45221-0012, United States",
-        "Division of Biology, Center for Devices and Radiological Health, U.S. Food & Drug Administration, Silver Spring, Maryland 20993, United States"
-      ],
-      "Journal": "Analytical Chemistry",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Carlos C Co",
-        "Chia Chi Ho",
-        "Girish Kumar"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/18/2018 0:00",
-      "RetractionDOI": "10.1021/acs.analchem.8b01500",
-      "RetractionPubMedID": "29665680.0",
-      "OriginalPaperDate": "11/9/2012 0:00",
-      "OriginalPaperDOI": "10.1021/ac302855m",
-      "OriginalPaperPubMedID": "23140541.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2012",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2007,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -303,32 +308,32 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

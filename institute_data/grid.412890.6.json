@@ -1,69 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878504",
+    "_id": "687ccbab09adbf7aa61b9125",
     "grid_id": "grid.412890.6",
     "institute_name": "University of Guadalajara",
     "country": "Mexico",
     "retracted_record_ids": [
-      "34155",
+      "22962",
       "56484",
-      "22962"
+      "34155"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346c48",
-      "Record ID": "34155",
-      "Title": "Vegetation change cover in the coastal region of Bahia de Banderas, Mexico (Cambio de cobertura vegetal en la regi\u00f3n de Bah\u00eda de Banderas, M\u00e9xico)",
-      "Subject": [
-        "(BLS) Plant Biology/Botany",
-        "(ENV) Environmental Sciences"
-      ],
-      "Institution": [
-        "Centro de Estudios Meteorol\u00f3gicos de la Costa CEMCO, Centro Universitario de la Costa, Universidad de Guadalajara",
-        "Centro de Investigaci\u00f3n Cient\u00edfica y de Educaci\u00f3n Superior de Ensenada, Baja California, CICESE, Unidad La Paz, Unidad de Meteorolog\u00eda",
-        "Centro Universitario de la Costa, Unidad de Meteorolog\u00eda"
-      ],
-      "Journal": "Caldasia",
-      "Publisher": "Instituto de Ciencias Naturales",
-      "Country": [
-        "Mexico"
-      ],
-      "Author": [
-        "Julio Cesar Morales-Hern\u00e1ndez",
-        "F\u00e1tima Maciel Carrillo-Gonz\u00e1lez",
-        "Luis Manuel Farf\u00e1n-Molina",
-        "V\u00edctor Manuel Cornejo-L\u00f3pez"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/30/2016 0:00",
-      "RetractionDOI": "10.15446/rev.colomb.biote.v18n1.57709",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/30/2016 0:00",
-      "OriginalPaperDOI": "10.15446/rev.colomb.biote.v18n1.57709",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2016
-    },
-    {
-      "_id": "6855d574b14f7811d2341579",
-      "Record ID": "56484",
-      "Title": "Anti-inflammatory role of leptin in glial cells through p38 MAPK pathway inhibition",
-      "Subject": [
+      "_id": "687cef751f662220d898695f",
+      "recordId": "56484",
+      "title": "Anti-inflammatory role of leptin in glial cells through p38 MAPK pathway inhibition",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(BLS) Neuroscience"
       ],
-      "Institution": [
+      "institution": [
         "Unitats de Bioqu\u00edmica i Farmacologia, Facultat de Medicina i Ci\u00e8ncies de la Salut, Universitat Rovira i Virgili, Reus, (Tarragona), Spain",
         "Unitat de Farmacologia i Farmacogn\u00f2sia, Institut de Neurociencias, Facultat de Farm\u00e0cia, Universitat de Barcelona, Barcelona, Spain",
         "Biomedical Research Networking Center in Neurodegenerative Diseases (CIBERNED), Madrid, Spain",
@@ -72,14 +30,14 @@
         "Instituto Mexicano del Seguro Social (IMSS), Centro de Investigaci\u00f3n Biom\u00e9dica de Occidente (CIBO), Guadalajara, Jalisco, Mexico",
         "Centro de Biotecnolog\u00eda, Universidad Nacional de Loja, La Argelia, Loja, Ecuador"
       ],
-      "Journal": "Pharmacological Reports",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Pharmacological Reports",
+      "publisher": "Springer",
+      "country": [
         "Ecuador",
         "Mexico",
         "Spain"
       ],
-      "Author": [
+      "author": [
         "Iv\u00e1n Patraca",
         "Nohora Mart\u00ednez",
         "Oriol Busquets",
@@ -93,17 +51,17 @@
         "Antoni Camins",
         "Jaume Folch"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/5/2024 0:00",
-      "RetractionDOI": "10.1007/s43440-024-00645-x",
-      "RetractionPubMedID": "39235663.0",
-      "OriginalPaperDate": "3/6/2017 0:00",
-      "OriginalPaperDOI": "10.1016/j.pharep.2016.12.005",
-      "OriginalPaperPubMedID": "28273500.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/5/2024 0:00",
+      "retractiondoi": "10.1007/s43440-024-00645-x",
+      "retractionpubmedid": "39235663.0",
+      "originalpaperdate": "3/6/2017 0:00",
+      "originalpaperdoi": "10.1016/j.pharep.2016.12.005",
+      "originalpaperpubmedid": "28273500.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Image",
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
@@ -111,34 +69,79 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "Journal published under Elsevier until 2020;",
-      "notice_year": 2024,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Journal published under Elsevier until 2020;",
+      "year": "2017",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23497df",
-      "Record ID": "22962",
-      "Title": "Effects of once-daily versus twice daily dosing of calcium fructoborate on knee discomfort. A 90 day, double-blind, placebo controlled randomized clinical study",
-      "Subject": [
+      "_id": "687cefc81f662220d898c02e",
+      "recordId": "34155",
+      "title": "Vegetation change cover in the coastal region of Bahia de Banderas, Mexico (Cambio de cobertura vegetal en la regi\u00f3n de Bah\u00eda de Banderas, M\u00e9xico)",
+      "subject": [
+        "(BLS) Plant Biology/Botany",
+        "(ENV) Environmental Sciences"
+      ],
+      "institution": [
+        "Centro de Estudios Meteorol\u00f3gicos de la Costa CEMCO, Centro Universitario de la Costa, Universidad de Guadalajara",
+        "Centro de Investigaci\u00f3n Cient\u00edfica y de Educaci\u00f3n Superior de Ensenada, Baja California, CICESE, Unidad La Paz, Unidad de Meteorolog\u00eda",
+        "Centro Universitario de la Costa, Unidad de Meteorolog\u00eda"
+      ],
+      "journal": "Caldasia",
+      "publisher": "Instituto de Ciencias Naturales",
+      "country": [
+        "Mexico"
+      ],
+      "author": [
+        "Julio Cesar Morales-Hern\u00e1ndez",
+        "F\u00e1tima Maciel Carrillo-Gonz\u00e1lez",
+        "Luis Manuel Farf\u00e1n-Molina",
+        "V\u00edctor Manuel Cornejo-L\u00f3pez"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/30/2016 0:00",
+      "retractiondoi": "10.15446/rev.colomb.biote.v18n1.57709",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/30/2016 0:00",
+      "originalpaperdoi": "10.15446/rev.colomb.biote.v18n1.57709",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0121f662220d898ebc5",
+      "recordId": "22962",
+      "title": "Effects of once-daily versus twice daily dosing of calcium fructoborate on knee discomfort. A 90 day, double-blind, placebo controlled randomized clinical study",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Bioresearch Lab, VDF Futureceuticals Inc.",
         "23 Peters Canyon Rd, Irvine, CA USA 92606",
         "VDF Futureceuticals Inc.",
         "2692 N. State Rt. 1-17., Momence, IL, USA 60954",
         "Departamento de Salud-Enfermedad, Centro Universitario de Tonal\u00e1, Universidad de Guadalajara. Av. Nuevo Perif\u00e9rico No. 555 Ejido San Jos\u00e9 Tatepozco, C.P. 45425, Tonal\u00e1 Jalisco, M\u00e9xico"
       ],
-      "Journal": "Journal of Aging Research & Clinical Practice",
-      "Publisher": "Serdi Publishing",
-      "Country": [
+      "journal": "Journal of Aging Research & Clinical Practice",
+      "publisher": "Serdi Publishing",
+      "country": [
         "Mexico",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Zbigniew Pietrzkowski",
         "Arieh Roldan Mercado-Sesma",
         "Ruby Argumedo",
@@ -146,67 +149,68 @@
         "Boris Nemzer",
         "Tania Reyes-Izquierdo"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/1/2020 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/1/2018 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2020 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/1/2018 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -214,10 +218,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

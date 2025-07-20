@@ -1,38 +1,245 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878309",
+    "_id": "687ccbab09adbf7aa61b8f2a",
     "grid_id": "grid.415550.0",
     "institute_name": "Queen Mary Hospital",
     "country": "China",
     "retracted_record_ids": [
       "2918",
+      "4343",
       "9473",
       "2581",
-      "4343",
-      "32488",
-      "58205"
+      "58205",
+      "32488"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e57b",
-      "Record ID": "2918",
-      "Title": "outcome and immune reconstitution of HBV-specific immunity in patients with reactivation of occult HBV infection after alemtuzumab-containing chemotherapy regimen",
-      "Subject": [
+      "_id": "687cef6d1f662220d89862a7",
+      "recordId": "58205",
+      "title": "Case Report: Coronavirus disease 2019 (COVID-19) modified RNA vaccination-induced adult-onset still's disease with fulminant myocarditis as initial presentation",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "institution": [
+        "Cardiology Division, Department of Medicine, The University of Hong Kong, Hong Kong, Hong Kong SAR, China",
+        "Rheumatology Division, Department of Medicine, Queen Mary Hospital, Hong Kong, Hong Kong SAR, China",
+        "Cardiovascular Ultrasound and Non-Invasive Cardiology Department, Sichuan Provincial People's Hospital, Chengdu, China"
+      ],
+      "journal": "Frontiers in Cardiovascular Medicine",
+      "publisher": "Frontiers",
+      "country": [
+        "China",
+        "Hong Kong"
+      ],
+      "author": [
+        "Mi Zhou",
+        "Chun Ka Wong",
+        "Wan Yin Winnie Yeung",
+        "Chung Wah Siu",
+        "Lixue Yin"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "10/15/2024 0:00",
+      "retractiondoi": "10.3389/fcvm.2024.1504298",
+      "retractionpubmedid": "39473891.0",
+      "originalpaperdate": "3/15/2023 0:00",
+      "originalpaperdoi": "10.3389/fcvm.2023.1066699",
+      "originalpaperpubmedid": "37008321.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefce1f662220d898c6ad",
+      "recordId": "32488",
+      "title": "Impacts of social distancing on cancer care during the COVID-19 pandemic: Hong Kong experience",
+      "subject": [
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Department of Clinical Oncology, LKS Faculty of Medicine The University of Hong Kong",
+        "Department of Clinical Oncology, Queen Mary Hospital, Hong Kong"
+      ],
+      "journal": "Palliative & Supportive Care",
+      "publisher": "Cambridge University Press",
+      "country": [
+        "Hong Kong"
+      ],
+      "author": [
+        "Wing Lok Chan",
+        "Patty Ho",
+        "Kwok Keung Yuen"
+      ],
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Article in Press",
+        "Case Report"
+      ],
+      "retractiondate": "8/20/2021 0:00",
+      "retractiondoi": "10.1017/S1478951521001309",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/29/2020 0:00",
+      "originalpaperdoi": "10.1017/S1478951520000541",
+      "originalpaperpubmedid": "32594942.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Copyright Claims",
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8992039",
+      "recordId": "9473",
+      "title": "APPL1 Counteracts Obesity-Induced Vascular Insulin Resistance and Endothelial Dysfunction by Modulating the Endothelial Production of Nitric Oxide and Endothelin-1 in Mice",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Department of Medicine, Division of Endocrinology and Metabolism, Huashan Hospital, Shanghai Medical College, Fudan University, Shanghai, China",
+        "Department of Medicine, the University of Hong Kong, Hong Kong",
+        "Key Laboratory of Regenerative Biology, Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China",
+        "Department of Pharmacology and Pharmacy, the University of Hong Kong, Hong Kong",
+        "Institute of Vascular Medicine, Li Ka Shing Institute of Health Sciences and School Of Biomedical Sciences, Chinese University of Hong Kong, Hong Kong",
+        "Department of Biology, York University, Toronto, Ontario, Canada"
+      ],
+      "journal": "Diabetes",
+      "publisher": "American Diabetes Association",
+      "country": [
+        "Canada",
+        "China",
+        "Hong Kong"
+      ],
+      "author": [
+        "Yi Wang",
+        "Kenneth KY Cheng",
+        "Karen SL Lam",
+        "Donghai Wu",
+        "Yu Wang",
+        "Yu Huang",
+        "Paul M Vanhoutte",
+        "Gary Sweeney",
+        "Yiming Li",
+        "Aimin Xu"
+      ],
+      "urls": "http://retractionwatch.com/2016/10/17/authors-fix-three-diabetes-papers-flagged-for-image-issues/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/26/2016 0:00",
+      "retractiondoi": "10.2337/db16-er10c",
+      "retractionpubmedid": "27659231.0",
+      "originalpaperdate": "9/16/2011 0:00",
+      "originalpaperdoi": "10.2337/db11-0666",
+      "originalpaperpubmedid": "21926268.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d89933f1",
+      "recordId": "4343",
+      "title": "Microstructural brain abnormalities of children of idiopathic generalized epilepsy with generalized tonic-clonic seizure: a voxel-based diffusional kurtosis imaging study",
+      "subject": [
+        "(HSC) Medicine - Neurology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Medicine, The University of Hong Kong, Hong Kong",
+        "Department of Radiology, First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, China",
+        "Department of Industrial Engineering, Hong Kong University of Science and Technology, Hong Kong",
+        "Department of Radiology, Stanford University, Stanford, California, USA",
+        "Department of Biomedical Engineering, Shenzhen University, Guangdong, P.R, China",
+        "Medical Physics and Research Department, Hong Kong Sanatorium & Hospital, Hong Kong",
+        "Applied Science Lab, GE Healthcare, Shanghai, P.R, China",
+        "Department of Neurology, Xiangyang Central Hospital/Affiliated Hospital of Hubei University of Arts and Science, Hubei, P.R, China"
+      ],
+      "journal": "Journal of Magnetic Resonance Imaging (JMRI)",
+      "publisher": "Wiley",
+      "country": [
+        "China",
+        "United States"
+      ],
+      "author": [
+        "Junling Gao",
+        "Shi-Ting Feng",
+        "Bangxian Wu",
+        "Nanjie Gong",
+        "Minhua Lu",
+        "Po-Man Wu",
+        "He Wang",
+        "Xiaoming He",
+        "Bingsheng Huang"
+      ],
+      "urls": "http://retractionwatch.com/2014/09/04/tonic-clonic-stats-error-sinks-epilepsy-paper/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/13/2014 0:00",
+      "retractiondoi": "10.1002/jmri.24721",
+      "retractionpubmedid": "25275140.0",
+      "originalpaperdate": "5/3/2014 0:00",
+      "originalpaperdoi": "10.1002/jmri.24647",
+      "originalpaperpubmedid": "24797060.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cd1f662220d8993961",
+      "recordId": "2918",
+      "title": "outcome and immune reconstitution of HBV-specific immunity in patients with reactivation of occult HBV infection after alemtuzumab-containing chemotherapy regimen",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Departments of Microbiology, Medicine, and Surgery, University of Hong Kong, Queen Mary Hospital, Hong Kong (Special Administrative Region), China",
         "Research Centre of Infection and Immunology, State Key Laboratory of Emerging Infectious Diseases, University of Hong Kong, Hong Kong (Special Adminstrative Region), China"
       ],
-      "Journal": "Hepatology: Official Journal of the American Association for the Study of Liver Diseases",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Hepatology",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Chee Kin Hui",
         "Winnie W Cheung",
         "Kar Wai Leung",
@@ -47,340 +254,139 @@
         "George K Lau",
         "Raymond Liang"
       ],
-      "URLS": "https://retractionwatch.com/?s=Kwok-Yung+Yuen",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/?s=Kwok-Yung+Yuen",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/14/2008 0:00",
-      "RetractionDOI": "10.1002/hep.22213",
-      "RetractionPubMedID": "18452145.0",
-      "OriginalPaperDate": "1/14/2008 0:00",
-      "OriginalPaperDOI": "10.1002/hep.22213",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/14/2008 0:00",
+      "retractiondoi": "10.1002/hep.22213",
+      "retractionpubmedid": "18452145.0",
+      "originalpaperdate": "1/14/2008 0:00",
+      "originalpaperdoi": "10.1002/hep.22213",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Date of Article and/or Notice Unknown",
         "+Error in Methods"
       ],
-      "Paywalled": "Unknown",
-      "Notes": "date of retraction unknown, html page overwrite;",
-      "notice_year": 2008,
-      "year": 2008,
-      "mark": "research"
+      "paywalled": "Unknown",
+      "notes": "date of retraction unknown, html page overwrite;",
+      "year": "2008",
+      "noticeYear": "2008",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cc53",
-      "Record ID": "9473",
-      "Title": "APPL1 Counteracts Obesity-Induced Vascular Insulin Resistance and Endothelial Dysfunction by Modulating the Endothelial Production of Nitric Oxide and Endothelin-1 in Mice",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Department of Medicine, Division of Endocrinology and Metabolism, Huashan Hospital, Shanghai Medical College, Fudan University, Shanghai, China",
-        "Department of Medicine, the University of Hong Kong, Hong Kong",
-        "Key Laboratory of Regenerative Biology, Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China",
-        "Department of Pharmacology and Pharmacy, the University of Hong Kong, Hong Kong",
-        "Institute of Vascular Medicine, Li Ka Shing Institute of Health Sciences and School Of Biomedical Sciences, Chinese University of Hong Kong, Hong Kong",
-        "Department of Biology, York University, Toronto, Ontario, Canada"
-      ],
-      "Journal": "Diabetes",
-      "Publisher": "American Diabetes Association",
-      "Country": [
-        "Canada",
-        "China",
-        "Hong Kong"
-      ],
-      "Author": [
-        "Yi Wang",
-        "Kenneth KY Cheng",
-        "Karen SL Lam",
-        "Donghai Wu",
-        "Yu Wang",
-        "Yu Huang",
-        "Paul M Vanhoutte",
-        "Gary Sweeney",
-        "Yiming Li",
-        "Aimin Xu"
-      ],
-      "URLS": "http://retractionwatch.com/2016/10/17/authors-fix-three-diabetes-papers-flagged-for-image-issues/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/26/2016 0:00",
-      "RetractionDOI": "10.2337/db16-er10c",
-      "RetractionPubMedID": "27659231.0",
-      "OriginalPaperDate": "9/16/2011 0:00",
-      "OriginalPaperDOI": "10.2337/db11-0666",
-      "OriginalPaperPubMedID": "21926268.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e6c5",
-      "Record ID": "2581",
-      "Title": "Environmental mercury exposure in children: South China's experience",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993aab",
+      "recordId": "2581",
+      "title": "Environmental mercury exposure in children: South China's experience",
+      "subject": [
         "(BLS) Nutrition",
         "(BLS) Toxicology",
         "(ENV) Environmental Sciences",
         "(HSC) Medicine - Pediatrics",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Division of Neurodevelopmental Paediatrics, The University of Hong Kong",
         "Division of Clinical Biochemistry, Queen Mary Hospital, Hong Kong, China"
       ],
-      "Journal": "Pediatrics International: Official Journal of the Japan Pediatric Society",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Pediatrics International: Official Journal of the Japan Pediatric Society",
+      "publisher": "Wiley",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Patrick Ip",
         "Virginia Wong",
         "Marco Ho",
         "Joseph Lee",
         "Wilfred Wong"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/25/2008 0:00",
-      "RetractionDOI": "10.1111/j.1442-200X.2008.02709.x",
-      "RetractionPubMedID": "18937768.0",
-      "OriginalPaperDate": "12/22/2004 0:00",
-      "OriginalPaperDOI": "10.1111/j.1442-200x.2004.01972.x",
-      "OriginalPaperPubMedID": "15660873.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/25/2008 0:00",
+      "retractiondoi": "10.1111/j.1442-200X.2008.02709.x",
+      "retractionpubmedid": "18937768.0",
+      "originalpaperdate": "12/22/2004 0:00",
+      "originalpaperdoi": "10.1111/j.1442-200x.2004.01972.x",
+      "originalpaperpubmedid": "15660873.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Methods",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2008,
-      "year": 2004,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e00b",
-      "Record ID": "4343",
-      "Title": "Microstructural brain abnormalities of children of idiopathic generalized epilepsy with generalized tonic-clonic seizure: a voxel-based diffusional kurtosis imaging study",
-      "Subject": [
-        "(HSC) Medicine - Neurology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Medicine, The University of Hong Kong, Hong Kong",
-        "Department of Radiology, First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, China",
-        "Department of Industrial Engineering, Hong Kong University of Science and Technology, Hong Kong",
-        "Department of Radiology, Stanford University, Stanford, California, USA",
-        "Department of Biomedical Engineering, Shenzhen University, Guangdong, P.R, China",
-        "Medical Physics and Research Department, Hong Kong Sanatorium & Hospital, Hong Kong",
-        "Applied Science Lab, GE Healthcare, Shanghai, P.R, China",
-        "Department of Neurology, Xiangyang Central Hospital/Affiliated Hospital of Hubei University of Arts and Science, Hubei, P.R, China"
-      ],
-      "Journal": "Journal of Magnetic Resonance Imaging (JMRI)",
-      "Publisher": "Wiley",
-      "Country": [
-        "China",
-        "United States"
-      ],
-      "Author": [
-        "Junling Gao",
-        "Shi-Ting Feng",
-        "Bangxian Wu",
-        "Nanjie Gong",
-        "Minhua Lu",
-        "Po-Man Wu",
-        "He Wang",
-        "Xiaoming He",
-        "Bingsheng Huang"
-      ],
-      "URLS": "http://retractionwatch.com/2014/09/04/tonic-clonic-stats-error-sinks-epilepsy-paper/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/13/2014 0:00",
-      "RetractionDOI": "10.1002/jmri.24721",
-      "RetractionPubMedID": "25275140.0",
-      "OriginalPaperDate": "5/3/2014 0:00",
-      "OriginalPaperDOI": "10.1002/jmri.24647",
-      "OriginalPaperPubMedID": "24797060.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23472c7",
-      "Record ID": "32488",
-      "Title": "Impacts of social distancing on cancer care during the COVID-19 pandemic: Hong Kong experience",
-      "Subject": [
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Department of Clinical Oncology, LKS Faculty of Medicine The University of Hong Kong",
-        "Department of Clinical Oncology, Queen Mary Hospital, Hong Kong"
-      ],
-      "Journal": "Palliative & Supportive Care",
-      "Publisher": "Cambridge University Press",
-      "Country": [
-        "Hong Kong"
-      ],
-      "Author": [
-        "Wing Lok Chan",
-        "Patty Ho",
-        "Kwok Keung Yuen"
-      ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Article in Press",
-        "Case Report"
-      ],
-      "RetractionDate": "8/20/2021 0:00",
-      "RetractionDOI": "10.1017/S1478951521001309",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/29/2020 0:00",
-      "OriginalPaperDOI": "10.1017/S1478951520000541",
-      "OriginalPaperPubMedID": "32594942.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Copyright Claims",
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d2340ec1",
-      "Record ID": "58205",
-      "Title": "Case Report: Coronavirus disease 2019 (COVID-19) modified RNA vaccination-induced adult-onset still's disease with fulminant myocarditis as initial presentation",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Infectious Disease"
-      ],
-      "Institution": [
-        "Cardiology Division, Department of Medicine, The University of Hong Kong, Hong Kong, Hong Kong SAR, China",
-        "Rheumatology Division, Department of Medicine, Queen Mary Hospital, Hong Kong, Hong Kong SAR, China",
-        "Cardiovascular Ultrasound and Non-Invasive Cardiology Department, Sichuan Provincial People's Hospital, Chengdu, China"
-      ],
-      "Journal": "Frontiers in Cardiovascular Medicine",
-      "Publisher": "Frontiers",
-      "Country": [
-        "China",
-        "Hong Kong"
-      ],
-      "Author": [
-        "Mi Zhou",
-        "Chun Ka Wong",
-        "Wan Yin Winnie Yeung",
-        "Chung Wah Siu",
-        "Lixue Yin"
-      ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "10/15/2024 0:00",
-      "RetractionDOI": "10.3389/fcvm.2024.1504298",
-      "RetractionPubMedID": "39473891.0",
-      "OriginalPaperDate": "3/15/2023 0:00",
-      "OriginalPaperDOI": "10.3389/fcvm.2023.1066699",
-      "OriginalPaperPubMedID": "37008321.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2008",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -388,32 +394,32 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

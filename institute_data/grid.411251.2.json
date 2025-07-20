@@ -1,51 +1,147 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878d18",
+    "_id": "687ccbab09adbf7aa61b9939",
     "grid_id": "grid.411251.2",
     "institute_name": "Hospital Universitario de la Princesa",
     "country": "Spain",
     "retracted_record_ids": [
-      "35724",
-      "35609",
-      "35417",
-      "35397",
-      "24218",
-      "35542",
-      "35524",
-      "35614",
       "35507",
-      "35720",
       "36024",
-      "35721",
-      "35539",
+      "35720",
       "22852",
       "35718",
-      "35712",
       "35613",
+      "35524",
+      "35724",
+      "35614",
       "35653",
-      "44244"
+      "44244",
+      "24218",
+      "35712",
+      "35417",
+      "35721",
+      "35609",
+      "35397",
+      "35539",
+      "35542"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346629",
-      "Record ID": "35724",
-      "Title": "Efficacy of oral iron treatment in iron deficiency anemia in inflammatory bowel disease patients",
-      "Subject": [
+      "_id": "687cefa41f662220d8989901",
+      "recordId": "44244",
+      "title": "Changes in depression and suicidal ideation under severe lockdown restrictions during the first wave of the COVID-19 pandemic in Spain: a longitudinal study in the general population",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Medicine - Psychiatry"
+      ],
+      "institution": [
+        "Department of Psychiatry, Hospital Universitario de La Princesa, Instituto de Investigaci\u00f3n Sanitaria Princesa (IISPrincesa), Madrid, Spain",
+        "Instituto de Salud Carlos III, Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Salud Mental, CIBERSAM, Madrid, Spain",
+        "Department of Psychiatry, Universidad Aut\u00f3noma de Madrid, Madrid, Spain",
+        "Parc Sanitari Sant Joan de D\u00e9u, Universitat de Barcelona, Sant Boi de Llobregat, Barcelona, Spain"
+      ],
+      "journal": "Epidemiology and Psychiatric Sciences",
+      "publisher": "Cambridge University Press",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "Jose L Ayuso-Mateos",
+        "Daniel Morillo",
+        "Josep M Haro",
+        "Beatriz Olaya",
+        "Elvira Lara",
+        "Marta Miret"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/13/2023 0:00",
+      "retractiondoi": "10.1017/S2045796023000082",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/13/2021 0:00",
+      "originalpaperdoi": "10.1017/S2045796021000408",
+      "originalpaperpubmedid": "34074355.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Data",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc01f662220d898b8e3",
+      "recordId": "36024",
+      "title": "Percutaneous drainage for intraabdominal abscess in Crohn\u2019s disease",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "University Hospital La Princesa, Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "M Chaparro",
+        "J Mate",
+        "J P Gisbert"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898ba0f",
+      "recordId": "35724",
+      "title": "Efficacy of oral iron treatment in iron deficiency anemia in inflammatory bowel disease patients",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "Fuenlabrada Universitary Hospital, Madrid, Spain",
         "La Princesa Universitary Hospital, Madrid, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "I Guerra",
         "A Algaba",
         "J P Gisbert",
@@ -56,623 +152,40 @@
         "A Bermejo",
         "J L Rodr\u00edguez-Agullo"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234669c",
-      "Record ID": "35609",
-      "Title": "Patient undergoing colectomy because of ulcerative colitis had a very high rate of surgical complications in clinical practice conditions",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba12",
+      "recordId": "35721",
+      "title": "Safety of thiopurine therapy in inflammatory bowel disease (IBD): Long-term follow-up study of 3,900 patients",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
-        "Hospital Clinico, Madrid, Spain",
-        "Hospital Parc Tauli, Sabadell, Spain",
-        "Hospital La Princesa, Madrid, Spain",
-        "Hospital Central Asturias, Oviedo, Spain",
-        "Hospital Donostia, San Sebastian, Spain",
-        "Hospital Virgen Blanca, Leon, Spain",
-        "Hospital La Fe, Valencia, Spain",
-        "Hospital Reina Sof\u00eda, Cordoba, Spain",
-        "Pharmacoeconomics & Outcomes Research Iberia, Madrid, Spain",
-        "Schering-Plough S.A., Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "C Taxonera",
-        "X Calvet",
-        "J P Gisbert",
-        "L Rodrigo",
-        "L Bujanda",
-        "F Munoz",
-        "M Ponce",
-        "F Gomez-Camacho",
-        "J L Mendoza",
-        "I Oyaguez",
-        "J L Lopez-Belmonte"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234675c",
-      "Record ID": "35417",
-      "Title": "Immunohistochemical evaluation of blood and lymphatic microvessels in colon of patients with ulcerative colitis (UC)",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Pathology"
-      ],
-      "Institution": [
-        "Hospital Universitario de La Princesa, Madrid, Spain",
-        "Hospital Universitario de Fuenlabrada, Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "P Munoz Linares",
-        "M E Fernandez-Contreras",
-        "A Algaba",
-        "M Guijarro Rojas",
-        "F Bermejo",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346770",
-      "Record ID": "35397",
-      "Title": "The effect of infliximab and adalimumab treatment on angiogenic factors levels in patients with inflammatory bowel disease (IBD)",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Fuenlabrada University Hospital, Fuenlabrada, Spain",
-        "La Princesa University Hospital, Madrid, Spain",
-        "Parc Taul\u00ed Hospital, Sabadell, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "A Algaba",
-        "P M Linares",
-        "M E Fernandez-Contreras",
-        "A Figuerola",
-        "I Guerra",
-        "X Calvet",
-        "J L Rodriguez-Agullo",
-        "J P Gisbert",
-        "F Bermejo"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23492fd",
-      "Record ID": "24218",
-      "Title": "G Protein-Coupled Receptor Kinase 2 Plays a Relevant Role in Insulin Resistance and Obesity",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Department of Biochemistry and Molecular Biology II, Faculty of Pharmacy, Complutense University, Madrid, Spain",
-        "CIBER de Diabetes y Enfermedades Metab\u00f3licas (CIBERDEM), Madrid, Spain",
-        "Departamento de Biolog\u00eda Molecular and Centro de Biolog\u00eda Molecular Severo Ochoa (CSIC-UAM) and Instituto de Investigaci\u00f3n Sanitaria Princesa, Madrid, Spain",
-        "Division of Cardiovascular Sciences, Center for Applied Medical Research, University of Navarra, Pamplona, Spain"
-      ],
-      "Journal": "Diabetes",
-      "Publisher": "American Diabetes Association",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "Lucia Garcia-Guerra",
-        "Iria Nieto-Vazquez",
-        "Rocio Vila-Bedmar",
-        "Mar\u00eda Jurado-Pueyo",
-        "Guillermo Zalba",
-        "Javier Diez",
-        "Cristina Murga",
-        "Sonia Fernandez-Veledo",
-        "Federico Mayor Jr",
-        "Margarita Lorenzo"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/10/2020 0:00",
-      "RetractionDOI": "10.2337/db20-rt10d",
-      "RetractionPubMedID": "32912863.0",
-      "OriginalPaperDate": "7/13/2010 0:00",
-      "OriginalPaperDOI": "10.2337/db10-0771",
-      "OriginalPaperPubMedID": "20627936.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Manipulation of Images"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2010,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23466df",
-      "Record ID": "35542",
-      "Title": "Efficacy of adalimumab in the treatment of ulcerative colitis",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Hospital Clinic in Barcelona, Barcelona, Spain",
-        "Hospital de la Princesa, Madrid, Spain",
-        "Hospital del Mar, Barcelona, Spain",
-        "Hospital de Cruces, Bizkaia, Spain",
-        "Hospital de Galdakano, Bizkaia, Spain",
-        "Hospital Reina Sof\u00eda, Cordoba, Spain",
-        "Hospital General de Alicante, Alicante, Spain",
-        "Hospital la Fe, Valencia, Spain",
-        "Hospital Universitari de Bellvitge, Barcelona, Spain",
-        "Hospital de Manises, Mallorca, Spain",
-        "Hospital de la Santa Creu i Sant Pau, Barcelona, Spain",
-        "Complejo Hospitalario de Leon, Leon, Spain",
-        "Hospital de Sabadell, Barcelona, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "O Garc\u00eda-Bosch",
-        "M Aceituno",
-        "J Perez",
-        "M Andreu",
-        "O Merino",
-        "J Cabriada",
-        "V Garc\u00eda",
-        "A Gutierrez",
-        "P Nos",
-        "M Penalva",
-        "J Hinojosa",
-        "E Garc\u00eda",
-        "F Munoz",
-        "L Moreno"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23466f1",
-      "Record ID": "35524",
-      "Title": "Efficacy and safety of infliximab rescue therapy after cyclosporine failure in patients with steroid-refractory ulcerative colitis: A multicenter study",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "La Princesa, Madrid, Spain",
-        "Reina Sof\u00eda, Madrid, Spain",
-        "Cl\u00ednic, Barcelona, Spain",
-        "Leon, Leon, Spain",
-        "La Fe, Valencia, Spain",
-        "Cl\u00ednico, Madrid, Spain",
-        "Virgen del Camino, Navarra, Spain",
-        "Virgen Macarena, Sevilla, Spain",
-        "Parc Taul\u00ed, Barcelona, Spain",
-        "Santiago, Santiago, Spain",
-        "La Paz, Madrid, Spain",
-        "del Mar, Barcelona, Spain",
-        "Germans Trias i Pujol, Badalona, Spain",
-        "Virgen de las Nieves, Granada, Spain",
-        "Lozano Blesa, Zaragoza, Spain",
-        "Manises, Valencia, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "M Chaparro",
-        "P Burgueno",
-        "E Iglesias",
-        "J Panes",
-        "F Munoz",
-        "P Nos",
-        "J L Mendoza",
-        "C Jimenez",
-        "L Castro",
-        "X Calvet",
-        "M Barreiro",
-        "S Gomez Senent",
-        "M Andreu",
-        "M Manosa",
-        "M Gomez",
-        "F Gomollon",
-        "J Hinojosa",
-        "O Perez-Nyssen",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346697",
-      "Record ID": "35614",
-      "Title": "Effectiveness of infliximab after adalimumab failure in Crohn\u2019s disease",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "La Princesa, Madrid, Spain",
-        "del Mar, Barcelona, Spain",
-        "Santiago, Santiago, Spain",
-        "Santa Creu i Sant Pau, Barcelona, Spain",
-        "Cl\u00ednic, Barcelona, Spain",
-        "Germans Trias i Pujol, Badalona, Spain",
-        "Mutua de Terrassa, Terrassa, Spain",
-        "Cruces, Vizcaya, Spain",
-        "La Fe, Valencia, Spain",
-        "Bellvitge",
-        ", Barcelona, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "M Chaparro",
-        "M Andreu",
-        "M Barreiro",
-        "E Garc\u00eda-Planella",
-        "E Ricart",
-        "E Domenech",
-        "M Esteve",
-        "O Merino",
-        "P Nos",
-        "M Penalva",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346702",
-      "Record ID": "35507",
-      "Title": "Accuracy of Magnetic Resonance Imaging (MRI) for the diagnosis of Crohn\u2019s disease (CD): A systematic review and meta-analysis",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "La Princesa, Madrid, Spain",
-        "Osatek, Alava, Spain",
-        "Cl\u00ednic, Barcelona, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "M Chaparro",
-        "B Mart\u00ednez de Guerenu",
-        "J Rimola",
-        "J Panes",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234662d",
-      "Record ID": "35720",
-      "Title": "Adalimumab for ulcerative colitis patients previously treated with Infliximab: Short and long-term outcomes",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Hospital Clinico, Madrid, Spain",
-        "Fundacion Jimenez D\u00edaz, Madrid, Spain",
-        "Hospital La Paz, Madrid, Spain",
-        "Hospital de Cruces, Bilbao, Spain",
-        "Hospital Gregorio Maranon, Madrid, Spain",
-        "Hospital Cl\u00ednico, Santiago, Spain",
-        "Hospital de Cabuenes, Gijon, Spain",
-        "Hospital Reina Sof\u00eda, Cordoba, Spain",
-        "Hospital General Yague, Burgos, Spain",
-        "Hospital La Fe, Valencia, Spain",
-        "Hospital La Princesa, Madrid, Spain",
-        "Hospital Puerta de Hierro, Madrid, Spain",
-        "Hospital XII de Octubre, Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "C Taxonera",
-        "J Estelles",
-        "I Fernandez-Blanco",
-        "O Merino",
-        "I Mar\u00edn-Jimenez",
-        "M Barreiro",
-        "C Saro",
-        "V Garc\u00eda",
-        "S Garc\u00eda-Moran",
-        "G Bastida",
-        "J P Gisbert",
-        "M P Martinez",
-        "J L Mendoza"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23464fd",
-      "Record ID": "36024",
-      "Title": "Percutaneous drainage for intraabdominal abscess in Crohn\u2019s disease",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "University Hospital La Princesa, Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "M Chaparro",
-        "J Mate",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234662c",
-      "Record ID": "35721",
-      "Title": "Safety of thiopurine therapy in inflammatory bowel disease (IBD): Long-term follow-up study of 3,900 patients",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
+      "institution": [
         "La Princesa, Madrid, Spain",
         "Cl\u00ednic, Barcelona, Spain",
         "Germans Trias i Pujol, Badalona, Spain",
@@ -698,12 +211,12 @@
         "Doctor Josep Trueta, Girona, Spain",
         "R\u00edo Hortega, Valladolid, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "M Chaparro",
         "I Ordas",
         "E Cabre",
@@ -730,216 +243,156 @@
         "J Barrio",
         "J P Gisbert"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23466e2",
-      "Record ID": "35539",
-      "Title": "Genetic mutations of thiopurine-methyltransferase (TPMT) in inflammatory bowel disease patients with normal TPMT phenotype and thiopurine-induced myelotoxicity",
-      "Subject": [
-        "(BLS) Genetics",
+      "_id": "687cefc21f662220d898ba13",
+      "recordId": "35720",
+      "title": "Adalimumab for ulcerative colitis patients previously treated with Infliximab: Short and long-term outcomes",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "La Princesa, Madrid, Spain",
-        "Cl\u00ednico, Madrid,Spain",
-        "Ramon y Cajal, Madrid, Spain",
-        "Alcorcon, Madrid, Spain",
-        "Fuenlabrada, Madrid, Spain",
-        "Doce de Octubre,Madrid, Spain",
-        "Puerta de Hierro, Madrid, Spain",
-        "Gregorio Maranon, Madrid, Spain",
-        "Infanta Leonor, Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "M Chaparro",
-        "P Vazquez",
-        "M Van Domselaar",
-        "R Garc\u00eda",
-        "A Algaba",
-        "P Mart\u00ednez-Montiel",
-        "M I Vera",
-        "I Mar\u00edn",
-        "A Ponferrada",
-        "M Roman",
-        "C Taxonera",
-        "A Lopez San Roman",
-        "P Lopez Serrano",
-        "F Bermejo",
-        "B Casis",
-        "Y GonzalezLama",
-        "F Abad-Santos",
-        "A Rodr\u00edguez-Nogueiras",
-        "J Mate",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234984c",
-      "Record ID": "22852",
-      "Title": "An interim analysis of real-world safety data from an ongoing, non-interventional, observational study of patients with inflammatory bowel disease treated with CT-P13, an infliximab biosimilar, in the context of usual care with reference infliximab",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
-        "Gastroenterology Practice Minden, Minden, Germany",
-        "University Hospital Bratislava and Comenius University, Bratislava, Slovakia",
-        "AP-HP - H\u00f4pitaux Univ Saint-Louis-Lariboisi\u00e8re-Fernand-Widal, Paris, France",
-        "Pfizer Inc., New York City, USA",
-        "Pfizer Inc., Manila, Philippines",
-        "Pfizer Inc., Maidenhead, UK",
-        "IBD Clinical and Research Centre, ISCARE IVF and 1st Medical Faculty, Charles University, Prague, Czech Republic",
-        "Hospital Universitario de La Princesa, IIS-IP, CIBEREHD, Madrid, Spain"
+      "institution": [
+        "Hospital Clinico, Madrid, Spain",
+        "Fundacion Jimenez D\u00edaz, Madrid, Spain",
+        "Hospital La Paz, Madrid, Spain",
+        "Hospital de Cruces, Bilbao, Spain",
+        "Hospital Gregorio Maranon, Madrid, Spain",
+        "Hospital Cl\u00ednico, Santiago, Spain",
+        "Hospital de Cabuenes, Gijon, Spain",
+        "Hospital Reina Sof\u00eda, Cordoba, Spain",
+        "Hospital General Yague, Burgos, Spain",
+        "Hospital La Fe, Valencia, Spain",
+        "Hospital La Princesa, Madrid, Spain",
+        "Hospital Puerta de Hierro, Madrid, Spain",
+        "Hospital XII de Octubre, Madrid, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Czech Republic",
-        "France",
-        "Germany",
-        "Philippines",
-        "Slovakia",
-        "Spain",
-        "United Kingdom",
-        "United States"
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
       ],
-      "Author": [
-        "B Bokemeyer",
-        "T Hlavaty",
-        "M Allez",
-        "P Selema",
-        "S Moosavi",
-        "M J Cadatal",
-        "H Fowler",
-        "R Cheung",
-        "M Lukas",
-        "J P Gisbert"
+      "author": [
+        "C Taxonera",
+        "J Estelles",
+        "I Fernandez-Blanco",
+        "O Merino",
+        "I Mar\u00edn-Jimenez",
+        "M Barreiro",
+        "C Saro",
+        "V Garc\u00eda",
+        "S Garc\u00eda-Moran",
+        "G Bastida",
+        "J P Gisbert",
+        "M P Martinez",
+        "J L Mendoza"
       ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
       ],
-      "RetractionDate": "3/13/2020 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjz127",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/25/2019 0:00",
-      "OriginalPaperDOI": "10.1093/ecco-jcc/jjy222.714",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Methods"
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234662f",
-      "Record ID": "35718",
-      "Title": "Immune response to hepatitis B vaccination in patients with inflammatory bowel disease",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba15",
+      "recordId": "35718",
+      "title": "Immune response to hepatitis B vaccination in patients with inflammatory bowel disease",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "University Hospital La Princesa, Madrid, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "M Chaparro",
         "J Villagrasa",
         "A Rodr\u00edguez-Nogueiras",
         "J P Gisbert"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346635",
-      "Record ID": "35712",
-      "Title": "Usefulness of oral beclometasone dipropionate to induce remission in active ulcerative colitis patients: Results from the RECLICU study",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba1b",
+      "recordId": "35712",
+      "title": "Usefulness of oral beclometasone dipropionate to induce remission in active ulcerative colitis patients: Results from the RECLICU study",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "Hospital Clinic, Barcelona, Spain",
         "HU Clinico Santiago, A Coruna, Spain",
         "H Gregorio Maranon, Madrid, Spain",
@@ -964,12 +417,12 @@
         "CH Pontevedra, Pontevedra, Spain",
         "H de D\u00eda Quiron, Zaragoza, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "T Nunes",
         "M Barreiro",
         "I Marin",
@@ -996,107 +449,41 @@
         "R Aramendiz",
         "M Sans"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346698",
-      "Record ID": "35613",
-      "Title": "Thiopurine-induced myelotoxicity in inflammatory bowel disease (IBD): A multicenter study",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "University Hospital La Princesa, Madrid, Spain",
-        "Cl\u00ednico, Madrid, Spain",
-        "Ramon y Cajal, Madrid, Spain",
-        "Alcorcon, Madrid, Spain",
-        "Fuenlabrada, Madrid, Spain",
-        "Doce de Octubre, Madrid, Spain",
-        "Puerta de Hierro, Madrid, Spain",
-        "Gregorio Maranon, Madrid, Spain",
-        "Infanta Leonor, Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Spain"
-      ],
-      "Author": [
-        "M Chaparro",
-        "P Vazquez",
-        "M Van Domselaar",
-        "R Garc\u00eda",
-        "A Algaba",
-        "P Mart\u00ednez-Montiel",
-        "M I Vera",
-        "I Mar\u00edn",
-        "A Ponferrada",
-        "C Taxonera",
-        "A Lopez San Roman",
-        "P Lopez Serrano",
-        "F Bermejo",
-        "B Casis",
-        "Y Gonzalez-Lama",
-        "J Mate \u0301",
-        "J P Gisbert"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346670",
-      "Record ID": "35653",
-      "Title": "Long-term durability of response to adalimumab treatment in Crohn\u2019s disease",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba56",
+      "recordId": "35653",
+      "title": "Long-term durability of response to adalimumab treatment in Crohn\u2019s disease",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "La Princesa, Madrid, Spain",
         "Cl\u00ednic, Barcelona, Spain",
         "Reina Sof\u00eda, Cordoba, Spain",
@@ -1120,12 +507,12 @@
         "Doctor Josep Trueta, Girona, Spain",
         "Cabuenes, Gijon, Spain"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
+      "author": [
         "M Chaparro",
         "J Panes",
         "V Garc\u00eda",
@@ -1151,132 +538,764 @@
         "J Mate",
         "J P Gisbert"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234451b",
-      "Record ID": "44244",
-      "Title": "Changes in depression and suicidal ideation under severe lockdown restrictions during the first wave of the COVID-19 pandemic in Spain: a longitudinal study in the general population",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Medicine - Psychiatry"
+      "_id": "687cefc21f662220d898ba7d",
+      "recordId": "35614",
+      "title": "Effectiveness of infliximab after adalimumab failure in Crohn\u2019s disease",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
-        "Department of Psychiatry, Hospital Universitario de La Princesa, Instituto de Investigaci\u00f3n Sanitaria Princesa (IISPrincesa), Madrid, Spain",
-        "Instituto de Salud Carlos III, Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Salud Mental, CIBERSAM, Madrid, Spain",
-        "Department of Psychiatry, Universidad Aut\u00f3noma de Madrid, Madrid, Spain",
-        "Parc Sanitari Sant Joan de D\u00e9u, Universitat de Barcelona, Sant Boi de Llobregat, Barcelona, Spain"
+      "institution": [
+        "La Princesa, Madrid, Spain",
+        "del Mar, Barcelona, Spain",
+        "Santiago, Santiago, Spain",
+        "Santa Creu i Sant Pau, Barcelona, Spain",
+        "Cl\u00ednic, Barcelona, Spain",
+        "Germans Trias i Pujol, Badalona, Spain",
+        "Mutua de Terrassa, Terrassa, Spain",
+        "Cruces, Vizcaya, Spain",
+        "La Fe, Valencia, Spain",
+        "Bellvitge",
+        ", Barcelona, Spain"
       ],
-      "Journal": "Epidemiology and Psychiatric Sciences",
-      "Publisher": "Cambridge University Press",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Spain"
       ],
-      "Author": [
-        "Jose L Ayuso-Mateos",
-        "Daniel Morillo",
-        "Josep M Haro",
-        "Beatriz Olaya",
-        "Elvira Lara",
-        "Marta Miret"
+      "author": [
+        "M Chaparro",
+        "M Andreu",
+        "M Barreiro",
+        "E Garc\u00eda-Planella",
+        "E Ricart",
+        "E Domenech",
+        "M Esteve",
+        "O Merino",
+        "P Nos",
+        "M Penalva",
+        "J P Gisbert"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898ba7e",
+      "recordId": "35613",
+      "title": "Thiopurine-induced myelotoxicity in inflammatory bowel disease (IBD): A multicenter study",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "University Hospital La Princesa, Madrid, Spain",
+        "Cl\u00ednico, Madrid, Spain",
+        "Ramon y Cajal, Madrid, Spain",
+        "Alcorcon, Madrid, Spain",
+        "Fuenlabrada, Madrid, Spain",
+        "Doce de Octubre, Madrid, Spain",
+        "Puerta de Hierro, Madrid, Spain",
+        "Gregorio Maranon, Madrid, Spain",
+        "Infanta Leonor, Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "M Chaparro",
+        "P Vazquez",
+        "M Van Domselaar",
+        "R Garc\u00eda",
+        "A Algaba",
+        "P Mart\u00ednez-Montiel",
+        "M I Vera",
+        "I Mar\u00edn",
+        "A Ponferrada",
+        "C Taxonera",
+        "A Lopez San Roman",
+        "P Lopez Serrano",
+        "F Bermejo",
+        "B Casis",
+        "Y Gonzalez-Lama",
+        "J Mate \u0301",
+        "J P Gisbert"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/13/2023 0:00",
-      "RetractionDOI": "10.1017/S2045796023000082",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/13/2021 0:00",
-      "OriginalPaperDOI": "10.1017/S2045796021000408",
-      "OriginalPaperPubMedID": "34074355.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Data",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions"
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898ba82",
+      "recordId": "35609",
+      "title": "Patient undergoing colectomy because of ulcerative colitis had a very high rate of surgical complications in clinical practice conditions",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Hospital Clinico, Madrid, Spain",
+        "Hospital Parc Tauli, Sabadell, Spain",
+        "Hospital La Princesa, Madrid, Spain",
+        "Hospital Central Asturias, Oviedo, Spain",
+        "Hospital Donostia, San Sebastian, Spain",
+        "Hospital Virgen Blanca, Leon, Spain",
+        "Hospital La Fe, Valencia, Spain",
+        "Hospital Reina Sof\u00eda, Cordoba, Spain",
+        "Pharmacoeconomics & Outcomes Research Iberia, Madrid, Spain",
+        "Schering-Plough S.A., Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "C Taxonera",
+        "X Calvet",
+        "J P Gisbert",
+        "L Rodrigo",
+        "L Bujanda",
+        "F Munoz",
+        "M Ponce",
+        "F Gomez-Camacho",
+        "J L Mendoza",
+        "I Oyaguez",
+        "J L Lopez-Belmonte"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898bac5",
+      "recordId": "35542",
+      "title": "Efficacy of adalimumab in the treatment of ulcerative colitis",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Hospital Clinic in Barcelona, Barcelona, Spain",
+        "Hospital de la Princesa, Madrid, Spain",
+        "Hospital del Mar, Barcelona, Spain",
+        "Hospital de Cruces, Bizkaia, Spain",
+        "Hospital de Galdakano, Bizkaia, Spain",
+        "Hospital Reina Sof\u00eda, Cordoba, Spain",
+        "Hospital General de Alicante, Alicante, Spain",
+        "Hospital la Fe, Valencia, Spain",
+        "Hospital Universitari de Bellvitge, Barcelona, Spain",
+        "Hospital de Manises, Mallorca, Spain",
+        "Hospital de la Santa Creu i Sant Pau, Barcelona, Spain",
+        "Complejo Hospitalario de Leon, Leon, Spain",
+        "Hospital de Sabadell, Barcelona, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "O Garc\u00eda-Bosch",
+        "M Aceituno",
+        "J Perez",
+        "M Andreu",
+        "O Merino",
+        "J Cabriada",
+        "V Garc\u00eda",
+        "A Gutierrez",
+        "P Nos",
+        "M Penalva",
+        "J Hinojosa",
+        "E Garc\u00eda",
+        "F Munoz",
+        "L Moreno"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898bac8",
+      "recordId": "35539",
+      "title": "Genetic mutations of thiopurine-methyltransferase (TPMT) in inflammatory bowel disease patients with normal TPMT phenotype and thiopurine-induced myelotoxicity",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "La Princesa, Madrid, Spain",
+        "Cl\u00ednico, Madrid,Spain",
+        "Ramon y Cajal, Madrid, Spain",
+        "Alcorcon, Madrid, Spain",
+        "Fuenlabrada, Madrid, Spain",
+        "Doce de Octubre,Madrid, Spain",
+        "Puerta de Hierro, Madrid, Spain",
+        "Gregorio Maranon, Madrid, Spain",
+        "Infanta Leonor, Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "M Chaparro",
+        "P Vazquez",
+        "M Van Domselaar",
+        "R Garc\u00eda",
+        "A Algaba",
+        "P Mart\u00ednez-Montiel",
+        "M I Vera",
+        "I Mar\u00edn",
+        "A Ponferrada",
+        "M Roman",
+        "C Taxonera",
+        "A Lopez San Roman",
+        "P Lopez Serrano",
+        "F Bermejo",
+        "B Casis",
+        "Y GonzalezLama",
+        "F Abad-Santos",
+        "A Rodr\u00edguez-Nogueiras",
+        "J Mate",
+        "J P Gisbert"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898bad7",
+      "recordId": "35524",
+      "title": "Efficacy and safety of infliximab rescue therapy after cyclosporine failure in patients with steroid-refractory ulcerative colitis: A multicenter study",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "La Princesa, Madrid, Spain",
+        "Reina Sof\u00eda, Madrid, Spain",
+        "Cl\u00ednic, Barcelona, Spain",
+        "Leon, Leon, Spain",
+        "La Fe, Valencia, Spain",
+        "Cl\u00ednico, Madrid, Spain",
+        "Virgen del Camino, Navarra, Spain",
+        "Virgen Macarena, Sevilla, Spain",
+        "Parc Taul\u00ed, Barcelona, Spain",
+        "Santiago, Santiago, Spain",
+        "La Paz, Madrid, Spain",
+        "del Mar, Barcelona, Spain",
+        "Germans Trias i Pujol, Badalona, Spain",
+        "Virgen de las Nieves, Granada, Spain",
+        "Lozano Blesa, Zaragoza, Spain",
+        "Manises, Valencia, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "M Chaparro",
+        "P Burgueno",
+        "E Iglesias",
+        "J Panes",
+        "F Munoz",
+        "P Nos",
+        "J L Mendoza",
+        "C Jimenez",
+        "L Castro",
+        "X Calvet",
+        "M Barreiro",
+        "S Gomez Senent",
+        "M Andreu",
+        "M Manosa",
+        "M Gomez",
+        "F Gomollon",
+        "J Hinojosa",
+        "O Perez-Nyssen",
+        "J P Gisbert"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898bae8",
+      "recordId": "35507",
+      "title": "Accuracy of Magnetic Resonance Imaging (MRI) for the diagnosis of Crohn\u2019s disease (CD): A systematic review and meta-analysis",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "La Princesa, Madrid, Spain",
+        "Osatek, Alava, Spain",
+        "Cl\u00ednic, Barcelona, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "M Chaparro",
+        "B Mart\u00ednez de Guerenu",
+        "J Rimola",
+        "J Panes",
+        "J P Gisbert"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb42",
+      "recordId": "35417",
+      "title": "Immunohistochemical evaluation of blood and lymphatic microvessels in colon of patients with ulcerative colitis (UC)",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Pathology"
+      ],
+      "institution": [
+        "Hospital Universitario de La Princesa, Madrid, Spain",
+        "Hospital Universitario de Fuenlabrada, Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "P Munoz Linares",
+        "M E Fernandez-Contreras",
+        "A Algaba",
+        "M Guijarro Rojas",
+        "F Bermejo",
+        "J P Gisbert"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb56",
+      "recordId": "35397",
+      "title": "The effect of infliximab and adalimumab treatment on angiogenic factors levels in patients with inflammatory bowel disease (IBD)",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Fuenlabrada University Hospital, Fuenlabrada, Spain",
+        "La Princesa University Hospital, Madrid, Spain",
+        "Parc Taul\u00ed Hospital, Sabadell, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "A Algaba",
+        "P M Linares",
+        "M E Fernandez-Contreras",
+        "A Figuerola",
+        "I Guerra",
+        "X Calvet",
+        "J L Rodriguez-Agullo",
+        "J P Gisbert",
+        "F Bermejo"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00a1f662220d898e6e3",
+      "recordId": "24218",
+      "title": "G Protein-Coupled Receptor Kinase 2 Plays a Relevant Role in Insulin Resistance and Obesity",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Department of Biochemistry and Molecular Biology II, Faculty of Pharmacy, Complutense University, Madrid, Spain",
+        "CIBER de Diabetes y Enfermedades Metab\u00f3licas (CIBERDEM), Madrid, Spain",
+        "Departamento de Biolog\u00eda Molecular and Centro de Biolog\u00eda Molecular Severo Ochoa (CSIC-UAM) and Instituto de Investigaci\u00f3n Sanitaria Princesa, Madrid, Spain",
+        "Division of Cardiovascular Sciences, Center for Applied Medical Research, University of Navarra, Pamplona, Spain"
+      ],
+      "journal": "Diabetes",
+      "publisher": "American Diabetes Association",
+      "country": [
+        "Spain"
+      ],
+      "author": [
+        "Lucia Garcia-Guerra",
+        "Iria Nieto-Vazquez",
+        "Rocio Vila-Bedmar",
+        "Mar\u00eda Jurado-Pueyo",
+        "Guillermo Zalba",
+        "Javier Diez",
+        "Cristina Murga",
+        "Sonia Fernandez-Veledo",
+        "Federico Mayor Jr",
+        "Margarita Lorenzo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/10/2020 0:00",
+      "retractiondoi": "10.2337/db20-rt10d",
+      "retractionpubmedid": "32912863.0",
+      "originalpaperdate": "7/13/2010 0:00",
+      "originalpaperdoi": "10.2337/db10-0771",
+      "originalpaperpubmedid": "20627936.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0151f662220d898ec32",
+      "recordId": "22852",
+      "title": "An interim analysis of real-world safety data from an ongoing, non-interventional, observational study of patients with inflammatory bowel disease treated with CT-P13, an infliximab biosimilar, in the context of usual care with reference infliximab",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Gastroenterology Practice Minden, Minden, Germany",
+        "University Hospital Bratislava and Comenius University, Bratislava, Slovakia",
+        "AP-HP - H\u00f4pitaux Univ Saint-Louis-Lariboisi\u00e8re-Fernand-Widal, Paris, France",
+        "Pfizer Inc., New York City, USA",
+        "Pfizer Inc., Manila, Philippines",
+        "Pfizer Inc., Maidenhead, UK",
+        "IBD Clinical and Research Centre, ISCARE IVF and 1st Medical Faculty, Charles University, Prague, Czech Republic",
+        "Hospital Universitario de La Princesa, IIS-IP, CIBEREHD, Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Czech Republic",
+        "France",
+        "Germany",
+        "Philippines",
+        "Slovakia",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "B Bokemeyer",
+        "T Hlavaty",
+        "M Allez",
+        "P Selema",
+        "S Moosavi",
+        "M J Cadatal",
+        "H Fowler",
+        "R Cheung",
+        "M Lukas",
+        "J P Gisbert"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "3/13/2020 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjz127",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/25/2019 0:00",
+      "originalpaperdoi": "10.1093/ecco-jcc/jjy222.714",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 17,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 16,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 16,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1284,10 +1303,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

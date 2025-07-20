@@ -1,40 +1,149 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879c63",
+    "_id": "687ccbab09adbf7aa61ba884",
     "grid_id": "grid.418600.b",
     "institute_name": "Cancer Institute",
     "country": "India",
     "retracted_record_ids": [
-      "10977",
+      "4732",
+      "17860",
       "10980",
       "9002",
-      "17860",
-      "4732"
+      "10977"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234c678",
-      "Record ID": "10977",
-      "Title": "Anatomical grades of nerve sparing: a risk-stratified approach to neural-hammock sparing during robot-assisted radical prostatectomy (RARP)",
-      "Subject": [
+      "_id": "687cf0931f662220d898ff9b",
+      "recordId": "17860",
+      "title": "Tumor B7-H3 (CD276) expression and smoking history in relation to lung adenocarcinoma prognosis",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Division of Pathology, The Cancer Institute",
+        "Department of Pathology, The Cancer Institute Hospital, Japanese Foundation for Cancer Research, 3-8-31 Ariake, Koto-ku, Tokyo 135-8550, Japan",
+        "Translational Medicine & Clinical Pharmacology Department, Daiichi Sankyo Co., Ltd., 1-2-58, Hiromachi, Shinagawa-ku, Tokyo 140-0005, Japan",
+        "Department of Integrated Pulmonology, Tokyo Medical and Dental University, 1-5-45, Yushima, Bunkyo-ku, Tokyo 113-8519, Japan",
+        "Thoracic Oncology Center, The Cancer Institute Hospital, Japanese Foundation for Cancer Research, 3-8-31 Ariake, Koto-ku, Tokyo 135-8550, Japan"
+      ],
+      "journal": "Journal of Controlled Release: Official Journal of the Controlled Release Society",
+      "publisher": "Elsevier",
+      "country": [
+        "Japan"
+      ],
+      "author": [
+        "Kentaro Inamura",
+        "Yusuke Yokouchi",
+        "Maki Kobayashi",
+        "Rie Sakakibara",
+        "Hironori Ninomiya",
+        "Sophia Subat",
+        "Hiroko Nagano",
+        "Kimie Nomura",
+        "Sakae Okumura",
+        "Tomoko Shibutani",
+        "Yuichi Ishikawa"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/10/2016 0:00",
+      "retractiondoi": "10.1016/j.lungcan.2016.09.016",
+      "retractionpubmedid": "27721121.0",
+      "originalpaperdate": "10/1/2016 0:00",
+      "originalpaperdoi": "10.1016/j.lungcan.2016.09.016",
+      "originalpaperpubmedid": "27721121.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Content through Error by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "exact date of retraction unknown",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b21f662220d8991a5b",
+      "recordId": "10980",
+      "title": "Nerve sparing can preserve orgasmic function in most men after robotic-assisted laparoscopic radical prostatectomy",
+      "subject": [
+        "(B/T) Technology",
+        "(HSC) Medicine - Surgery",
+        "(HSC) Medicine - Urology/Nephrology"
+      ],
+      "institution": [
+        "Prostate Cancer Institute and LeFrak Center of Robotic Surgery",
+        "Center for Male Reproductive Medicine and Microsurgery, James Buchanan Brady Foundation, Department of Urology, Weill Medical College of Cornell University, New York, NY, USA"
+      ],
+      "journal": "BJU International",
+      "publisher": "Wiley",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Ashutosh K Tewari",
+        "Sonal Grover",
+        "Prasanna Sooriakumaran",
+        "Abhishek Srivastava",
+        "Sandhya Rao",
+        "Amit Gupta",
+        "Robert Gray",
+        "Robert A Leung",
+        "Darius A Paduch"
+      ],
+      "urls": "http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/8/2015 0:00",
+      "retractiondoi": "10.1111/bju.13251",
+      "retractionpubmedid": "26350579.0",
+      "originalpaperdate": "8/18/2011 0:00",
+      "originalpaperdoi": "10.1111/j.1464-410X.2011.10402.x",
+      "originalpaperpubmedid": "21851544.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Error in Data",
+        "+Error in Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Notice covers 5 articles;",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b21f662220d8991a5e",
+      "recordId": "10977",
+      "title": "Anatomical grades of nerve sparing: a risk-stratified approach to neural-hammock sparing during robot-assisted radical prostatectomy (RARP)",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "LeFrak Institute of Robotic Surgery and Prostate Cancer Institute",
         "James Buchanan Brady Foundation Department of Urology",
         "Department of Pathology and Laboratory Medicine, Weill Medical College of Cornell University, New York, NY, USA"
       ],
-      "Journal": "BJU International",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "BJU International",
+      "publisher": "Wiley",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ashutosh K Tewari",
         "Abhishek Srivastava",
         "Michael W Huang",
@@ -51,99 +160,48 @@
         "Abhinav Khanna",
         "Robert A Leung"
       ],
-      "URLS": "http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/8/2015 0:00",
-      "RetractionDOI": "10.1111/bju.13251",
-      "RetractionPubMedID": "26350579.0",
-      "OriginalPaperDate": "9/14/2011 0:00",
-      "OriginalPaperDOI": "10.1111/j.1464-410X.2011.10565.x",
-      "OriginalPaperPubMedID": "21917101.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "9/8/2015 0:00",
+      "retractiondoi": "10.1111/bju.13251",
+      "retractionpubmedid": "26350579.0",
+      "originalpaperdate": "9/14/2011 0:00",
+      "originalpaperdoi": "10.1111/j.1464-410X.2011.10565.x",
+      "originalpaperpubmedid": "21917101.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Data",
         "+Error in Image",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "Notice covers 5 articles;",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Notice covers 5 articles;",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234c675",
-      "Record ID": "10980",
-      "Title": "Nerve sparing can preserve orgasmic function in most men after robotic-assisted laparoscopic radical prostatectomy",
-      "Subject": [
-        "(B/T) Technology",
-        "(HSC) Medicine - Surgery",
-        "(HSC) Medicine - Urology/Nephrology"
-      ],
-      "Institution": [
-        "Prostate Cancer Institute and LeFrak Center of Robotic Surgery",
-        "Center for Male Reproductive Medicine and Microsurgery, James Buchanan Brady Foundation, Department of Urology, Weill Medical College of Cornell University, New York, NY, USA"
-      ],
-      "Journal": "BJU International",
-      "Publisher": "Wiley",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Ashutosh K Tewari",
-        "Sonal Grover",
-        "Prasanna Sooriakumaran",
-        "Abhishek Srivastava",
-        "Sandhya Rao",
-        "Amit Gupta",
-        "Robert Gray",
-        "Robert A Leung",
-        "Darius A Paduch"
-      ],
-      "URLS": "http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/8/2015 0:00",
-      "RetractionDOI": "10.1111/bju.13251",
-      "RetractionPubMedID": "26350579.0",
-      "OriginalPaperDate": "8/18/2011 0:00",
-      "OriginalPaperDOI": "10.1111/j.1464-410X.2011.10402.x",
-      "OriginalPaperPubMedID": "21851544.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Error in Data",
-        "+Error in Image",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Notice covers 5 articles;",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234ce28",
-      "Record ID": "9002",
-      "Title": "Effect of a Risk-stratified Grade of Nerve-sparing Technique on Early Return of Continence After Robot-assisted Laparoscopic Radical Prostatectomy",
-      "Subject": [
+      "_id": "687cf0b61f662220d899220e",
+      "recordId": "9002",
+      "title": "Effect of a Risk-stratified Grade of Nerve-sparing Technique on Early Return of Continence After Robot-assisted Laparoscopic Radical Prostatectomy",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "LeFrak Institute of Robotic Surgery and Prostate Cancer Institute",
         "James Buchanan Brady Foundation Department of Urology",
         "Weill Medical College of Cornell University, New York Presbyterian Hospital, New York, NY 10065, USA"
       ],
-      "Journal": "European Urology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "European Urology",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Abhishek Srivastava",
         "Sameer Chopra",
         "Anthony Pham",
@@ -160,104 +218,50 @@
         "Maria M Shevchuk",
         "Ashutosh K Tewari"
       ],
-      "URLS": "http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/;http://retractionwatch.com/2014/08/26/our-jaws-hit-the-floor-researchers-say-authors-doctored-images-for-rebuttal-letter/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/;http://retractionwatch.com/2014/08/26/our-jaws-hit-the-floor-researchers-say-authors-doctored-images-for-rebuttal-letter/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/11/2015 0:00",
-      "RetractionDOI": "10.1016/j.eururo.2015.04.041",
-      "RetractionPubMedID": "26334125.0",
-      "OriginalPaperDate": "7/20/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.eururo.2012.07.009",
-      "OriginalPaperPubMedID": "22901982.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "5/11/2015 0:00",
+      "retractiondoi": "10.1016/j.eururo.2015.04.041",
+      "retractionpubmedid": "26334125.0",
+      "originalpaperdate": "7/20/2012 0:00",
+      "originalpaperdoi": "10.1016/j.eururo.2012.07.009",
+      "originalpaperpubmedid": "22901982.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Data",
         "+Error in Text",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "Article also had an editorial, was rebutted, the rebuttal was retracted;",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Article also had an editorial, was rebutted, the rebuttal was retracted;",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234abb5",
-      "Record ID": "17860",
-      "Title": "Tumor B7-H3 (CD276) expression and smoking history in relation to lung adenocarcinoma prognosis",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Division of Pathology, The Cancer Institute",
-        "Department of Pathology, The Cancer Institute Hospital, Japanese Foundation for Cancer Research, 3-8-31 Ariake, Koto-ku, Tokyo 135-8550, Japan",
-        "Translational Medicine & Clinical Pharmacology Department, Daiichi Sankyo Co., Ltd., 1-2-58, Hiromachi, Shinagawa-ku, Tokyo 140-0005, Japan",
-        "Department of Integrated Pulmonology, Tokyo Medical and Dental University, 1-5-45, Yushima, Bunkyo-ku, Tokyo 113-8519, Japan",
-        "Thoracic Oncology Center, The Cancer Institute Hospital, Japanese Foundation for Cancer Research, 3-8-31 Ariake, Koto-ku, Tokyo 135-8550, Japan"
-      ],
-      "Journal": "Journal of Controlled Release: Official Journal of the Controlled Release Society",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Japan"
-      ],
-      "Author": [
-        "Kentaro Inamura",
-        "Yusuke Yokouchi",
-        "Maki Kobayashi",
-        "Rie Sakakibara",
-        "Hironori Ninomiya",
-        "Sophia Subat",
-        "Hiroko Nagano",
-        "Kimie Nomura",
-        "Sakae Okumura",
-        "Tomoko Shibutani",
-        "Yuichi Ishikawa"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/10/2016 0:00",
-      "RetractionDOI": "10.1016/j.lungcan.2016.09.016",
-      "RetractionPubMedID": "27721121.0",
-      "OriginalPaperDate": "10/1/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.lungcan.2016.09.016",
-      "OriginalPaperPubMedID": "27721121.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Content through Error by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "exact date of retraction unknown",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d234de8a",
-      "Record ID": "4732",
-      "Title": "Reply from authors re: Declan G. Murphy, Anthony J. Costello. How Can the Autonomic Nervous System Contribute to Urinary Continence Following radical Prostatectomy? A \u2018\u2018Boson-like\u2019\u2019 conundrum. Eur urol 2013;63:445\u20137: Sparing of the Neurovascular Bundle Leads to Improved Rates of Continence",
-      "Subject": [
+      "_id": "687cf0c71f662220d8993270",
+      "recordId": "4732",
+      "title": "Reply from authors re: Declan G. Murphy, Anthony J. Costello. How Can the Autonomic Nervous System Contribute to Urinary Continence Following radical Prostatectomy? A \u2018\u2018Boson-like\u2019\u2019 conundrum. Eur urol 2013;63:445\u20137: Sparing of the Neurovascular Bundle Leads to Improved Rates of Continence",
+      "subject": [
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Surgery",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "LeFrak Institute of Robotic Surgery and Prostate Cancer Institute",
         "James Buchanan Brady Foundation Department of Urology",
         "Weill Medical College of Cornell University, New York Presbyterian Hospital, New York, NY, USA"
       ],
-      "Journal": "European Urology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "European Urology",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ashutosh K Tewari",
         "Wesley Ludwig",
         "Atsushi Takenaka",
@@ -276,59 +280,60 @@
         "Brian Robinson",
         "Maria M Shevchuk"
       ],
-      "URLS": "http://retractionwatch.com/2014/08/26/our-jaws-hit-the-floor-researchers-say-authors-doctored-images-for-rebuttal-letter/;http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/08/26/our-jaws-hit-the-floor-researchers-say-authors-doctored-images-for-rebuttal-letter/;http://retractionwatch.com/2015/10/07/urologist-corrects-paper-with-a-retracted-rebuttal-letter-among-others/",
+      "articletype": [
         "Commentary/Editorial",
         "Research Article"
       ],
-      "RetractionDate": "12/1/2014 0:00",
-      "RetractionDOI": "10.1016/j.eururo.2014.07.015",
-      "RetractionPubMedID": "25587596.0",
-      "OriginalPaperDate": "9/26/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.eururo.2012.09.021",
-      "OriginalPaperPubMedID": "23079055.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/1/2014 0:00",
+      "retractiondoi": "10.1016/j.eururo.2014.07.015",
+      "retractionpubmedid": "25587596.0",
+      "originalpaperdate": "9/26/2012 0:00",
+      "originalpaperdoi": "10.1016/j.eururo.2012.09.021",
+      "originalpaperpubmedid": "23079055.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Objections by Author(s)",
         "+Plagiarism of Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -336,21 +341,21 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

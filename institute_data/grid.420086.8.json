@@ -1,28 +1,122 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879cb4",
+    "_id": "687ccbab09adbf7aa61ba8d5",
     "grid_id": "grid.420086.8",
     "institute_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
     "country": "United States",
     "retracted_record_ids": [
-      "831",
+      "17473",
       "17472",
-      "17473"
+      "831"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ed6f",
-      "Record ID": "831",
-      "Title": "Follistatin Induction by Nitric Oxide Through Cyclic GMP: A Tightly Regulated Signaling Pathway That Controls Myoblast Fusion",
-      "Subject": [
+      "_id": "687cf0931f662220d8990116",
+      "recordId": "17473",
+      "title": "Crystal Structure of Transglutaminase 3 in Complex with GMP STRUCTURAL BASIS FOR NUCLEOTIDE SPECIFICITY",
+      "subject": [
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "X-ray Crystallography Facility, Office of Science and Technology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023",
+        "Laboratory of Skin Biology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023"
+      ],
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Bijan Ahvazi",
+        "Karen M Boeshans",
+        "Peter M Steinert"
+      ],
+      "urls": "http://retractionwatch.com/2014/10/31/former-nih-lab-director-faked-findings-in-three-papers-ori/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/18/2007 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "15084592.0",
+      "originalpaperdate": "4/14/2004 0:00",
+      "originalpaperdoi": "10.1074/jbc.M403481200",
+      "originalpaperpubmedid": "15084592.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2007",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d8990117",
+      "recordId": "17472",
+      "title": "Structural Basis for the Coordinated Regulation of Transglutaminase 3 by Guanine Nucleotides and Calcium/Magnesium",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "X-ray Crystallography Facility/Office of Science and Technology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023",
+        "Laboratory of Skin Biology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023",
+        "Laboratory of Structural Biology Research, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023 Department of Pharmacology, and Biochemistry & Molecular Genetics, University of Virginia Health Systems, Charlottesville, Virginia 22908-0735"
+      ],
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Bijan Ahvazi",
+        "Karen M Boeshans",
+        "William Idler",
+        "Ulrich Baxa",
+        "Peter M Steinert",
+        "Fraydoon Rastinejad"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/27/2007 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "14645372.0",
+      "originalpaperdate": "11/28/2003 0:00",
+      "originalpaperdoi": "10.1074/jbc.M312310200",
+      "originalpaperpubmedid": "14645372.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by ORI",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "notes": "Bijan Ahvazi has NIH finding of misconduct: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5019548/",
+      "year": "2003",
+      "noticeYear": "2007",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d51f662220d8994155",
+      "recordId": "831",
+      "title": "Follistatin Induction by Nitric Oxide Through Cyclic GMP: A Tightly Regulated Signaling Pathway That Controls Myoblast Fusion",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - General",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Stem Cell Research Institute, Hospital San Raffaele, 20132 Milan, Italy",
         "Department of Experimental Environmental Medicine and Medical Biotechnology, University of Milano-Bicocca, 20052 Monza, Italy",
         "Muscle Gene Expression Group, Laboratory of Muscle Biology, National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, MD 20892",
@@ -31,12 +125,12 @@
         "Department of Biology, University of Milano, 20130 Milan, Italy",
         "Department of Preclinical Sciences, University of Milano, 20157 Milan, Italy"
       ],
-      "Journal": "The Journal of Cell Biology",
-      "Publisher": "Rockefeller University Press",
-      "Country": [
+      "journal": "The Journal of Cell Biology",
+      "publisher": "Rockefeller University Press",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Addolorata Pisconti",
         "Silvia Brunelli",
         "Monica Di Padova",
@@ -47,151 +141,60 @@
         "Giulio Cossu",
         "Emilio Clementi"
       ],
-      "URLS": "http://retractionwatch.com/2013/01/22/clare-francis-scores-a-bullseye-journal-of-cell-biology-paper-retracted-for-image-manipulation/;http://retractionwatch.com/2013/05/09/ucl-finds-errors-in-work-by-biologist-cossu-but-no-deliberate-intention-to-mislead/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/01/22/clare-francis-scores-a-bullseye-journal-of-cell-biology-paper-retracted-for-image-manipulation/;http://retractionwatch.com/2013/05/09/ucl-finds-errors-in-work-by-biologist-cossu-but-no-deliberate-intention-to-mislead/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/4/2013 0:00",
-      "RetractionDOI": "10.1083/jcb.2005070832003r",
-      "RetractionPubMedID": "23341472.0",
-      "OriginalPaperDate": "1/16/2006 0:00",
-      "OriginalPaperDOI": "10.1083/jcb.200507083",
-      "OriginalPaperPubMedID": "16401724.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/4/2013 0:00",
+      "retractiondoi": "10.1083/jcb.2005070832003r",
+      "retractionpubmedid": "23341472.0",
+      "originalpaperdate": "1/16/2006 0:00",
+      "originalpaperdoi": "10.1083/jcb.200507083",
+      "originalpaperpubmedid": "16401724.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Journal/Publisher",
         "+Manipulation of Images",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ad31",
-      "Record ID": "17472",
-      "Title": "Structural Basis for the Coordinated Regulation of Transglutaminase 3 by Guanine Nucleotides and Calcium/Magnesium",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "X-ray Crystallography Facility/Office of Science and Technology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023",
-        "Laboratory of Skin Biology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023",
-        "Laboratory of Structural Biology Research, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023 Department of Pharmacology, and Biochemistry & Molecular Genetics, University of Virginia Health Systems, Charlottesville, Virginia 22908-0735"
-      ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Bijan Ahvazi",
-        "Karen M Boeshans",
-        "William Idler",
-        "Ulrich Baxa",
-        "Peter M Steinert",
-        "Fraydoon Rastinejad"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/27/2007 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "14645372.0",
-      "OriginalPaperDate": "11/28/2003 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M312310200",
-      "OriginalPaperPubMedID": "14645372.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by ORI",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "Notes": "Bijan Ahvazi has NIH finding of misconduct: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5019548/",
-      "notice_year": 2007,
-      "year": 2003,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234ad30",
-      "Record ID": "17473",
-      "Title": "Crystal Structure of Transglutaminase 3 in Complex with GMP STRUCTURAL BASIS FOR NUCLEOTIDE SPECIFICITY",
-      "Subject": [
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "X-ray Crystallography Facility, Office of Science and Technology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023",
-        "Laboratory of Skin Biology, NIAMS, National Institutes of Health, Bethesda, Maryland 20892-8023"
-      ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Bijan Ahvazi",
-        "Karen M Boeshans",
-        "Peter M Steinert"
-      ],
-      "URLS": "http://retractionwatch.com/2014/10/31/former-nih-lab-director-faked-findings-in-three-papers-ori/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/18/2007 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "15084592.0",
-      "OriginalPaperDate": "4/14/2004 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M403481200",
-      "OriginalPaperPubMedID": "15084592.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by ORI",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2007,
-      "year": 2004,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2013",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -199,10 +202,10 @@
     {
       "year": 2007,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -210,10 +213,10 @@
     {
       "year": 2013,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

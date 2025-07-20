@@ -1,27 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068779d2",
+    "_id": "687ccbab09adbf7aa61b85f3",
     "grid_id": "grid.10346.30",
     "institute_name": "Leeds Beckett University",
     "country": "United Kingdom",
     "retracted_record_ids": [
+      "31157",
       "63141",
-      "17440",
-      "31157"
+      "17440"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d233fb8a",
-      "Record ID": "63141",
-      "Title": "Obstacles Uncovering System for Slender Pathways Using Unmanned Aerial Vehicles with Automatic Image Localization Technique",
-      "Subject": [
+      "_id": "687cef591f662220d8984f70",
+      "recordId": "63141",
+      "title": "Obstacles Uncovering System for Slender Pathways Using Unmanned Aerial Vehicles with Automatic Image Localization Technique",
+      "subject": [
         "(B/T) Computer Science",
         "(B/T) Data Science",
         "(B/T) Technology",
         "(B/T) Transportation"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Science, Kebri Dehar University, Kebri Dehar, Ethiopia",
         "School of Built Environment, Engineering and Computing, Leeds Beckett University, LS1 3HE, Leeds, UK",
         "Department of Electronics and Communication Engineering, Panimalar Engineering College, Poonamallee, Chennai, Tamil Nadu, 600 123, India",
@@ -32,16 +32,16 @@
         "Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia",
         "Mathematics and Computer Science, Coal City University, Enugu, Nigeria"
       ],
-      "Journal": "International Journal of Computational Intelligence Systems",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "International Journal of Computational Intelligence Systems",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Ethiopia",
         "India",
         "Nigeria",
         "Saudi Arabia",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Shitharth Selvarajan",
         "Hariprasath Manoharan",
         "Alaa O Khadidos",
@@ -49,17 +49,17 @@
         "Adil O Khadidos",
         "Edeh Michael Onyema"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/27/2024 0:00",
-      "RetractionDOI": "10.1007/s44196-024-00468-x",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/16/2023 0:00",
-      "OriginalPaperDOI": "10.1007/s44196-023-00344-0",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/27/2024 0:00",
+      "retractiondoi": "10.1007/s44196-024-00468-x",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/16/2023 0:00",
+      "originalpaperdoi": "10.1007/s44196-023-00344-0",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Author Unresponsive",
         "+Breach of Policy by Author",
         "+Concerns/Issues about Article",
@@ -72,20 +72,67 @@
         "+Rogue Editor",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ad50",
-      "Record ID": "17440",
-      "Title": "Football and physical health: what do we know",
-      "Subject": [
+      "_id": "687cefd41f662220d898cbda",
+      "recordId": "31157",
+      "title": "Risperidone versus other atypical antipsychotic medication for schizophrenia",
+      "subject": [
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Psychiatry"
+      ],
+      "institution": [
+        "Department of Health Sciences, University of York, York, UK",
+        "Faculty of Health, Leeds Metropolitan University, Leeds, UK",
+        "Care Principles Ltd, Newmarket, UK",
+        "Department of Psychiatry, University of Helsinki, Hus, Finland"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "Finland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Simon Gilbody",
+        "Anne Marie Bagnall",
+        "Lorna Duggan",
+        "Arja Tuunainen"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "9/20/2016 0:00",
+      "retractiondoi": "10.1002/14651858.CD002306.pub2",
+      "retractionpubmedid": "27648956.0",
+      "originalpaperdate": "7/24/2000 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD002306",
+      "originalpaperpubmedid": "10908551.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Retract and Replace",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2000",
+      "noticeYear": "2016",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d8990136",
+      "recordId": "17440",
+      "title": "Football and physical health: what do we know",
+      "subject": [
         "(HSC) Medicine - Sports",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Business School, Manchester Metropolitan University, Manchester, UK",
         "Department of Sport, Health and Exercise Science, University of Hull, Hull, UK",
         "Council of Sport Science and Physical Education, Berlin, Germany",
@@ -93,100 +140,57 @@
         "Sport and Health Sciences, College of Life and Environmental Sciences, University of Exeter, Exeter, UK",
         "Carnegie Faculty, Centre for Active Lifestyles, Leeds Beckett University, Leeds, UK"
       ],
-      "Journal": "Sport in Society",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Sport in Society",
+      "publisher": "Taylor and Francis",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Daniel Parnell",
         "Ed Cope",
         "Richard Bailey",
         "Peter Krustrup",
         "Kathryn Curran"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "2/1/2018 0:00",
-      "RetractionDOI": "10.1080/17430437.2016.1207787",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/25/2016 0:00",
-      "OriginalPaperDOI": "10.1080/17430437.2016.1207787",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2018 0:00",
+      "retractiondoi": "10.1080/17430437.2016.1207787",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/25/2016 0:00",
+      "originalpaperdoi": "10.1080/17430437.2016.1207787",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2016
-    },
-    {
-      "_id": "6855d574b14f7811d23477f4",
-      "Record ID": "31157",
-      "Title": "Risperidone versus other atypical antipsychotic medication for schizophrenia",
-      "Subject": [
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Psychiatry"
-      ],
-      "Institution": [
-        "Department of Health Sciences, University of York, York, UK",
-        "Faculty of Health, Leeds Metropolitan University, Leeds, UK",
-        "Care Principles Ltd, Newmarket, UK",
-        "Department of Psychiatry, University of Helsinki, Hus, Finland"
-      ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
-        "Finland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Simon Gilbody",
-        "Anne Marie Bagnall",
-        "Lorna Duggan",
-        "Arja Tuunainen"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "9/20/2016 0:00",
-      "RetractionDOI": "10.1002/14651858.CD002306.pub2",
-      "RetractionPubMedID": "27648956.0",
-      "OriginalPaperDate": "7/24/2000 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD002306",
-      "OriginalPaperPubMedID": "10908551.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Retract and Replace",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2000,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2000,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -194,32 +198,32 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

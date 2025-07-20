@@ -1,107 +1,85 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878f30",
+    "_id": "687ccbab09adbf7aa61b9b51",
     "grid_id": "grid.413328.f",
     "institute_name": "H\u00f4pital Saint-Louis",
     "country": "France",
     "retracted_record_ids": [
-      "1251",
-      "3988",
       "9149",
-      "1250",
-      "41411"
+      "1251",
+      "41411",
+      "3988",
+      "1250"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ebd9",
-      "Record ID": "1251",
-      "Title": "Major points of the scientific communications from the congress on psoriasis",
-      "Subject": [
-        "(HSC) Medicine - Dermatology",
-        "(SOC) Communications"
+      "_id": "687cefb01f662220d898a406",
+      "recordId": "41411",
+      "title": "Peripheral arterial disease: A growing problem for the internist",
+      "subject": [
+        "(HSC) Medicine - Cardiovascular",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
       ],
-      "Institution": [
-        "Anatomie pathologique, H\u00f4pital Saint Louis, Assistance Publique H\u00f4pitaux de Paris, 1, avenue Claude-Vellefaux, 75010 Paris, France"
+      "institution": [
+        "St. Franciscus Gasthuis Rotterdam, Department of Internal Medicine, The Netherlands",
+        "Maastricht University Medical Centre, Maastricht, the Netherlands",
+        "University Hospital, Ghent, Belgium",
+        "Royal Sussex County Hospital, Brighton, UK",
+        "Klinikum Karlsbad-Langensteinbach, Karlsbad, Germany",
+        "University Hospital of Lille, Lille, France",
+        "H\u00f4pital Saint-Louis, Paris, France"
       ],
-      "Journal": "Annales de Dermatologie et de V\u00e9n\u00e9r\u00e9ologie",
-      "Publisher": "Elsevier",
-      "Country": [
-        "France"
+      "journal": "European Journal of Internal Medicine",
+      "publisher": "Elsevier",
+      "country": [
+        "Belgium",
+        "France",
+        "Germany",
+        "Netherlands",
+        "United Kingdom"
       ],
-      "Author": [
-        "Maxime Battistella"
+      "author": [
+        "Coen D A Stehouwer",
+        "Denis Clement",
+        "Christopher Davidson",
+        "Curt Diehm",
+        "Jan Willem F Elte",
+        "Marc Lambert",
+        "Daniel Sereni"
       ],
-      "ArticleType": [
-        "Article in Press"
+      "articletype": [
+        "Article in Press",
+        "Review Article"
       ],
-      "RetractionDate": "2/1/2011 0:00",
-      "RetractionDOI": "10.1016/S0151-9638(11)70055-2",
-      "RetractionPubMedID": "21396517.0",
-      "OriginalPaperDate": "2/1/2011 0:00",
-      "OriginalPaperDOI": "10.1016/S0151-9638(11)70055-2",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Legal Reasons and/or Threats",
+      "retractiondate": "8/15/2011 0:00",
+      "retractiondoi": "10.1016/j.ejim.2011.08.004",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/15/2011 0:00",
+      "originalpaperdoi": "10.1016/j.ejim.2011.08.004",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information",
         "+Removed"
       ],
-      "Paywalled": "Yes",
-      "Notes": "Article in French",
-      "notice_year": 2011,
-      "year": 2011
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e167",
-      "Record ID": "3988",
-      "Title": "Ethylene glycol ethers as hemopoietic toxins--in vitro studies of acute exposure",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "INSERM U301, CNRS SDI 15954 I, Institute of Hematology, H\u00f4pital Saint-Louis, Paris, France"
-      ],
-      "Journal": "Leukemia",
-      "Publisher": "Nature Publishing Group",
-      "Country": [
-        "France"
-      ],
-      "Author": [
-        "S Ruchaud",
-        "O Boiron",
-        "A Cicolella",
-        "M Lanotte"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/1/1994 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "8207972.0",
-      "OriginalPaperDate": "4/1/1992 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "1588795.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Unable to Access via current resources",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 1994,
-      "year": 1992,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234cd95",
-      "Record ID": "9149",
-      "Title": "Primary immunodeficiency diseases: an update on the classification from the International Union of Immunological Societies Expert Committee for Primary Immunodeficiency",
-      "Subject": [
+      "_id": "687cf0b61f662220d899217b",
+      "recordId": "9149",
+      "title": "Primary immunodeficiency diseases: an update on the classification from the International Union of Immunological Societies Expert Committee for Primary Immunodeficiency",
+      "subject": [
         "(BLS) Genetics",
         "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pediatrics, Kuwait University, Kuwait City, Kuwait",
         "Allergy and Clinical Immunology Unit, Department of Pediatrics, Al-Sabah Hospital, Kuwait City, Kuwait Clinical Immunology Unit, Casablanca Children\u2019s Hospital, Ibn Rochd Medical School, King Hassan II University, Casablanca, Morocco",
         "St. Giles Laboratory of Human Genetics of Infectious Diseases, Rockefeller Branch, The Rockefeller University, New York, NY, USA",
@@ -124,9 +102,9 @@
         "Department of Paediatrics, University of Melbourne, Melbourne, VIC, Australia",
         "Department of Allergy and Immunology, Royal Children\u2019s Hospital, Melbourne, VIC, Australia"
       ],
-      "Journal": "Frontiers in Immunology",
-      "Publisher": "Frontiers",
-      "Country": [
+      "journal": "Frontiers in Immunology",
+      "publisher": "Frontiers",
+      "country": [
         "Australia",
         "Colombia",
         "France",
@@ -138,7 +116,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Waleed Al-Herz",
         "Aziz Bousfiha",
         "Jean-Laurent Casanova",
@@ -158,167 +136,195 @@
         "Kate Sullivan",
         "Mimi L K Tang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Commentary/Editorial"
       ],
-      "RetractionDate": "9/24/2014 0:00",
-      "RetractionDOI": "10.3389/fimmu.2014.00460",
-      "OriginalPaperDate": "4/22/2014 0:00",
-      "OriginalPaperDOI": "10.3389/fimmu.2014.00162",
-      "OriginalPaperPubMedID": "24795713.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "9/24/2014 0:00",
+      "retractiondoi": "10.3389/fimmu.2014.00460",
+      "originalpaperdate": "4/22/2014 0:00",
+      "originalpaperdoi": "10.3389/fimmu.2014.00162",
+      "originalpaperpubmedid": "24795713.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Error in Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2014,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ebda",
-      "Record ID": "1250",
-      "Title": "Les recommandations europ\u00e9ennes et anglaises sur la place des bioth\u00e9rapies dans le psoriasis mod\u00e9r\u00e9 \u00e0 s\u00e9v\u00e8re [The European and English recommendation on the role of biotherapies in moderate to severe psoriasis]",
-      "Subject": [
+      "_id": "687cf0c91f662220d899354d",
+      "recordId": "3988",
+      "title": "Ethylene glycol ethers as hemopoietic toxins--in vitro studies of acute exposure",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "INSERM U301, CNRS SDI 15954 I, Institute of Hematology, H\u00f4pital Saint-Louis, Paris, France"
+      ],
+      "journal": "Leukemia",
+      "publisher": "Nature Publishing Group",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "S Ruchaud",
+        "O Boiron",
+        "A Cicolella",
+        "M Lanotte"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/1/1994 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "8207972.0",
+      "originalpaperdate": "4/1/1992 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "1588795.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Unable to Access via current resources",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "1992",
+      "noticeYear": "1994",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d31f662220d8993fbf",
+      "recordId": "1251",
+      "title": "Major points of the scientific communications from the congress on psoriasis",
+      "subject": [
+        "(HSC) Medicine - Dermatology",
+        "(SOC) Communications"
+      ],
+      "institution": [
+        "Anatomie pathologique, H\u00f4pital Saint Louis, Assistance Publique H\u00f4pitaux de Paris, 1, avenue Claude-Vellefaux, 75010 Paris, France"
+      ],
+      "journal": "Annales de Dermatologie et de V\u00e9n\u00e9r\u00e9ologie",
+      "publisher": "Elsevier",
+      "country": [
+        "France"
+      ],
+      "author": [
+        "Maxime Battistella"
+      ],
+      "articletype": [
+        "Article in Press"
+      ],
+      "retractiondate": "2/1/2011 0:00",
+      "retractiondoi": "10.1016/S0151-9638(11)70055-2",
+      "retractionpubmedid": "21396517.0",
+      "originalpaperdate": "2/1/2011 0:00",
+      "originalpaperdoi": "10.1016/S0151-9638(11)70055-2",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Legal Reasons and/or Threats",
+        "+Removed"
+      ],
+      "paywalled": "Yes",
+      "notes": "Article in French",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d31f662220d8993fc0",
+      "recordId": "1250",
+      "title": "Les recommandations europ\u00e9ennes et anglaises sur la place des bioth\u00e9rapies dans le psoriasis mod\u00e9r\u00e9 \u00e0 s\u00e9v\u00e8re [The European and English recommendation on the role of biotherapies in moderate to severe psoriasis]",
+      "subject": [
         "(HSC) Medicine - Dermatology",
         "(HSC) Medicine - Drug Design",
         "(HSC) Medicine - Pathology"
       ],
-      "Institution": [
+      "institution": [
         "Service de Dermatologie, Service d\u2019Anatomie Pathologique, H\u00f4pital Saint Louis, Assistance Publique-H\u00f4pitaux de Paris, 1 avenue Claude Vellefaux, 75010 Paris, France"
       ],
-      "Journal": "Annales de Dermatologie et de V\u00e9n\u00e9r\u00e9ologie",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Annales de Dermatologie et de V\u00e9n\u00e9r\u00e9ologie",
+      "publisher": "Elsevier",
+      "country": [
         "France"
       ],
-      "Author": [
+      "author": [
         "Herve Bachelez",
         "Maxime Battistella"
       ],
-      "ArticleType": [
+      "articletype": [
         "Article in Press",
         "Review Article"
       ],
-      "RetractionDate": "2/1/2011 0:00",
-      "RetractionDOI": "10.1016/S0151-9638(11)70057-6",
-      "RetractionPubMedID": "21396518.0",
-      "OriginalPaperDate": "2/1/2011 0:00",
-      "OriginalPaperDOI": "10.1016/S0151-9638(11)70057-6",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/1/2011 0:00",
+      "retractiondoi": "10.1016/S0151-9638(11)70057-6",
+      "retractionpubmedid": "21396518.0",
+      "originalpaperdate": "2/1/2011 0:00",
+      "originalpaperdoi": "10.1016/S0151-9638(11)70057-6",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Legal Reasons and/or Threats",
         "+Notice - Limited or No Information",
         "+Retract and Replace",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "Article in French",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2345020",
-      "Record ID": "41411",
-      "Title": "Peripheral arterial disease: A growing problem for the internist",
-      "Subject": [
-        "(HSC) Medicine - Cardiovascular",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "St. Franciscus Gasthuis Rotterdam, Department of Internal Medicine, The Netherlands",
-        "Maastricht University Medical Centre, Maastricht, the Netherlands",
-        "University Hospital, Ghent, Belgium",
-        "Royal Sussex County Hospital, Brighton, UK",
-        "Klinikum Karlsbad-Langensteinbach, Karlsbad, Germany",
-        "University Hospital of Lille, Lille, France",
-        "H\u00f4pital Saint-Louis, Paris, France"
-      ],
-      "Journal": "European Journal of Internal Medicine",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Belgium",
-        "France",
-        "Germany",
-        "Netherlands",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Coen D A Stehouwer",
-        "Denis Clement",
-        "Christopher Davidson",
-        "Curt Diehm",
-        "Jan Willem F Elte",
-        "Marc Lambert",
-        "Daniel Sereni"
-      ],
-      "ArticleType": [
-        "Article in Press",
-        "Review Article"
-      ],
-      "RetractionDate": "8/15/2011 0:00",
-      "RetractionDOI": "10.1016/j.ejim.2011.08.004",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/15/2011 0:00",
-      "OriginalPaperDOI": "10.1016/j.ejim.2011.08.004",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "notes": "Article in French",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1992,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 1994,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 3,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 2,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     }
   ]

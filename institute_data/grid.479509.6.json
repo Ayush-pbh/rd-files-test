@@ -1,82 +1,36 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878740",
+    "_id": "687ccbab09adbf7aa61b9361",
     "grid_id": "grid.479509.6",
     "institute_name": "Sanford Burnham Prebys Medical Discovery Institute",
     "country": "United States",
     "retracted_record_ids": [
-      "38911",
-      "53937",
       "34806",
-      "18613",
-      "37419",
-      "7880",
       "21350",
       "16997",
+      "38911",
+      "18613",
+      "7880",
       "37531",
-      "38915",
+      "37419",
       "18614",
+      "38915",
+      "53937",
       "16996"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23459cf",
-      "Record ID": "38911",
-      "Title": "Inducible dimerization and inducible cleavage reveal a requirement for both processes in caspase-8 activation",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, Tennessee 38105",
-        "Burnham Institute for Medical Research, La Jolla, California 92037",
-        "Universit\u00e9 de Sherbrooke, Sherbrooke, Qu\u00e9bec J1H 5N4, Canada"
-      ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "Andrew Oberst",
-        "Cristina Pop",
-        "Alexandre G Tremblay",
-        "V\u00e9ronique Blais",
-        "Jean-Bernard Denault",
-        "Guy S Salvesen",
-        "Douglas R Green"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/7/2014 0:00",
-      "RetractionDOI": "10.1074/jbc.M109.095083",
-      "RetractionPubMedID": "20308068.0",
-      "OriginalPaperDate": "3/22/2010 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M109.095083",
-      "OriginalPaperPubMedID": "20308068.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2341f68",
-      "Record ID": "53937",
-      "Title": "A FBXO7/EYA2-SCFFBXW7 axis promotes AXL-mediated maintenance of mesenchymal and immune evasion phenotypes of cancer cells",
-      "Subject": [
+      "_id": "687cef7f1f662220d898734e",
+      "recordId": "53937",
+      "title": "A FBXO7/EYA2-SCFFBXW7 axis promotes AXL-mediated maintenance of mesenchymal and immune evasion phenotypes of cancer cells",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Tumor Initiation and Maintenance Program, NCI-Designated Cancer Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA 92037, USA",
         "University of Pittsburgh Medical Center Hillman Cancer Center, Pittsburgh, PA 15213, USA",
         "Division of Regenerative Medicine, Department of Medicine, University of California, San Diego, CA 92037, USA",
@@ -87,15 +41,15 @@
         "Department of Cell and Molecular Biology, Karolinska Institute, Stockholm 171 77, Sweden",
         "Department of Neurology, University of Pittsburgh, Pittsburgh, PA 15213, USA"
       ],
-      "Journal": "Molecular Cell",
-      "Publisher": "Elsevier - Cell Press",
-      "Country": [
+      "journal": "Molecular Cell",
+      "publisher": "Elsevier - Cell Press",
+      "country": [
         "Finland",
         "Sweden",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Jia Z Shen",
         "Zhixin Qiu",
         "Qiulian Wu",
@@ -113,35 +67,222 @@
         "Jeremy N Rich",
         "Charles Spruck"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/20/2024 0:00",
-      "RetractionDOI": "10.1016/j.molcel.2024.05.022",
-      "RetractionPubMedID": "38823387.0",
-      "OriginalPaperDate": "3/17/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.molcel.2022.01.022",
-      "OriginalPaperPubMedID": "35182481.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/20/2024 0:00",
+      "retractiondoi": "10.1016/j.molcel.2024.05.022",
+      "retractionpubmedid": "38823387.0",
+      "originalpaperdate": "3/17/2022 0:00",
+      "originalpaperdoi": "10.1016/j.molcel.2022.01.022",
+      "originalpaperpubmedid": "35182481.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2022,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23469bd",
-      "Record ID": "34806",
-      "Title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
-      "Subject": [
+      "_id": "687cefb51f662220d898adb1",
+      "recordId": "38915",
+      "title": "Is BID required for NOD signalling",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Medicine, McGill University, Montreal, Quebec H3G 0B1, Canada",
+        "Sanford-Burnham Medical Research Institute, La Jolla, California 92037, USA",
+        "St. Jude Children\u2019s Research Hospital, Memphis, 38105, Tennessee, USA"
+      ],
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Canada",
+        "United States"
+      ],
+      "author": [
+        "Garabet Yeretssian",
+        "Ricardo G Correa",
+        "Karine Doiron",
+        "Patrick Fitzgerald",
+        "Christopher P Dillon",
+        "Douglas R Green",
+        "John C Reed",
+        "Maya Saleh"
+      ],
+      "articletype": [
+        "Letter"
+      ],
+      "retractiondate": "11/14/2012 0:00",
+      "retractiondoi": "10.1038/nature11668",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/22/2012 0:00",
+      "originalpaperdoi": "10.1038/nature11367",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2012",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb51f662220d898adb5",
+      "recordId": "38911",
+      "title": "Inducible dimerization and inducible cleavage reveal a requirement for both processes in caspase-8 activation",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Immunology, St. Jude Children's Research Hospital, Memphis, Tennessee 38105",
+        "Burnham Institute for Medical Research, La Jolla, California 92037",
+        "Universit\u00e9 de Sherbrooke, Sherbrooke, Qu\u00e9bec J1H 5N4, Canada"
+      ],
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "Elsevier",
+      "country": [
+        "Canada",
+        "United States"
+      ],
+      "author": [
+        "Andrew Oberst",
+        "Cristina Pop",
+        "Alexandre G Tremblay",
+        "V\u00e9ronique Blais",
+        "Jean-Bernard Denault",
+        "Guy S Salvesen",
+        "Douglas R Green"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/7/2014 0:00",
+      "retractiondoi": "10.1074/jbc.M109.095083",
+      "retractionpubmedid": "20308068.0",
+      "originalpaperdate": "3/22/2010 0:00",
+      "originalpaperdoi": "10.1074/jbc.M109.095083",
+      "originalpaperpubmedid": "20308068.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefba1f662220d898b313",
+      "recordId": "37531",
+      "title": "Distinct Interactions with Cellular E-Cadherin of the Two Virulent Metalloproteinases Encoded by a Bacteroides fragilis Pathogenicity Island",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology"
+      ],
+      "institution": [
+        "Infectious and Inflammatory Disease Center, Sanford-Burnham Medical Research Institute, La Jolla, California, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Albert G Remacle",
+        "Sergey A Shiryaev",
+        "Alex Y Strongin"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/6/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0269292",
+      "retractionpubmedid": "35666733.0",
+      "originalpaperdate": "11/20/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0113896",
+      "originalpaperpubmedid": "25411788.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Image",
+        "+Duplication of/in Image",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefbc1f662220d898b383",
+      "recordId": "37419",
+      "title": "A Femtomol Range FRET Biosensor Reports Exceedingly Low Levels of Cell Surface Furin: Implications for the Processing of Anthrax Protective Antigen",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Infectious and Inflammatory Disease Center, Sanford-Burnham Medical Research Institute, La Jolla, California, United States of America",
+        "Department of Bioengineering and the Beckman Institute for Advanced Science and Technology, University of Illinois, Urbana-Champaign, Illinois, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Katarzyna Gawlik",
+        "Albert G Remacle",
+        "Sergey A Shiryaev",
+        "Vladislav S Golubkov",
+        "Mingxing Ouyang",
+        "Yingxiao Wang",
+        "Alex Y Strongin"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/26/2022 0:00",
+      "retractiondoi": "10.1371/journal.pone.0269294",
+      "retractionpubmedid": "35617259.0",
+      "originalpaperdate": "6/24/2010 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0011305",
+      "originalpaperpubmedid": "20585585.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Manipulation of Images",
+        "+Original Data and/or Images not Provided and/or not Available"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc61f662220d898bda3",
+      "recordId": "34806",
+      "title": "Tumor necrosis factor overcomes immune evasion in p53-mutant medulloblastoma",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Tumor Initiation & Maintenance Program, NCI-Designated Cancer Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA Developmental and Stem Cell Biology Program, The Hospital for Sick Children, Toronto, Canada",
         "Tumor Microenvironment and Cancer Immunology Program, NCI-Designated Cancer Center and the Infectious and Inflammatory Disease Center, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA",
         "Department of Pediatrics, Northwestern University, Chicago, IL, USA",
@@ -156,15 +297,15 @@
         "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA",
         "Division of Molecular Internal Medicine, Department of Internal Medicine II, University Hospital W\u00fcrzburg, W\u00fcrzburg, Germany"
       ],
-      "Journal": "Nature Neuroscience",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Canada",
         "Germany",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Alexandra Garancher",
         "Hiromichi Suzuki",
         "Svasti Haricharan",
@@ -206,37 +347,84 @@
         "Michael D Taylor",
         "Robert J Wechsler-Reya"
       ],
-      "URLS": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2021/12/21/researchers-devastated-after-finding-manipulated-data-in-study-of-pediatric-brain-tumors/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/14/2021 0:00",
-      "RetractionDOI": "10.1038/s41593-021-00994-3",
-      "RetractionPubMedID": "34907396.0",
-      "OriginalPaperDate": "5/18/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41593-020-0628-4",
-      "OriginalPaperPubMedID": "32424282.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/14/2021 0:00",
+      "retractiondoi": "10.1038/s41593-021-00994-3",
+      "retractionpubmedid": "34907396.0",
+      "originalpaperdate": "5/18/2020 0:00",
+      "originalpaperdoi": "10.1038/s41593-020-0628-4",
+      "originalpaperpubmedid": "32424282.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Results Not Reproducible",
         "+Unreliable Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a8c7",
-      "Record ID": "18613",
-      "Title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f20c",
+      "recordId": "21350",
+      "title": "Cyclin B1/Cdk1 Phosphorylation of Mitochondrial p53 Induces Anti-Apoptotic Response",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular"
+      ],
+      "institution": [
+        "Department of Radiation Oncology, University of California Davis, Sacramento, California, United States of America",
+        "Program of Cell Death and Apoptosis, Sanford-Burnham Medical Research Institute, La Jolla, California, United States of America",
+        "Cancer Center, University of California Davis, Sacramento, California, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Danupon Nantajit",
+        "Ming Fan",
+        "Nadire Duru",
+        "Yunfei Wen",
+        "John C Reed",
+        "Jian JIan Li"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/25/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0220519",
+      "retractionpubmedid": "31344130.0",
+      "originalpaperdate": "8/23/2010 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0012341",
+      "originalpaperpubmedid": "20808790.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Duplication of/in Image"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/1C38A7EFB6C0AF9303551AF3B4F18F",
+      "year": "2010",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fcac",
+      "recordId": "18614",
+      "title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "The Kimmel Center for Biology and Medicine of the Skirball Institute, New York University School of Medicine, New York, New York 10016, USA",
         "Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE, UK",
         "Center for Personal Dynamic Regulomes, Stanford University, Stanford, California 94305, USA",
@@ -250,14 +438,14 @@
         "Division of Cancer Research, University of Dundee, Dundee DD1 9SY, UK",
         "Howard Hughes Medical Institute, New York University School of Medicine, New York, New York 10016, USA"
       ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Portugal",
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Wendy Huang",
         "Benjamin Thomas",
         "Ryan A Flynn",
@@ -280,96 +468,219 @@
         "Oreste Acuto",
         "Dan R Littman"
       ],
-      "URLS": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/4/2018 0:00",
-      "RetractionDOI": "10.1038/s41586-018-0311-z",
-      "RetractionPubMedID": "29973715.0",
-      "OriginalPaperDate": "12/24/2015 0:00",
-      "OriginalPaperDOI": "10.1038/nature16193",
-      "OriginalPaperPubMedID": "26675721.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/5/2016 0:00",
+      "retractiondoi": "10.1038/s41586-018-0311-z",
+      "retractionpubmedid": "29973715.0",
+      "originalpaperdate": "12/24/2015 0:00",
+      "originalpaperdoi": "10.1038/nature16193",
+      "originalpaperpubmedid": "26675721.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2016",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0911f662220d898fcad",
+      "recordId": "18613",
+      "title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "The Kimmel Center for Biology and Medicine of the Skirball Institute, New York University School of Medicine, New York, New York 10016, USA",
+        "Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE, UK",
+        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, California 94305, USA",
+        "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York 10003, USA",
+        "Courant Institute of Mathematical Sciences, Computer Science Department, New York University, New York, New York 10012, USA",
+        "Simons Center for Data Analysis, Simons Foundation, New York, New York 10010, USA",
+        "Isis Pharmaceuticals, Carlsbad, California 92010, USA",
+        "HudsonAlpha Institute for Biotechnology, Huntsville, Alabama 35806, USA",
+        "Instituto Gulbenkian de Ciencia, Oeiras 2780-156, Portugal",
+        "Integrative Metabolism Program, Sanford Burnham Prebys Medical Discovery Institute, Orlando, Florida 32827, USA",
+        "Division of Cancer Research, University of Dundee, Dundee DD1 9SY, UK",
+        "Howard Hughes Medical Institute, New York University School of Medicine, New York, New York 10016, USA"
+      ],
+      "journal": "Nature",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "Portugal",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Wendy Huang",
+        "Benjamin Thomas",
+        "Ryan A Flynn",
+        "Samuel J Gavzy",
+        "Lin Wu",
+        "Sangwon V Kim",
+        "Jason A Hall",
+        "Emily R Miraldi",
+        "Charles P Ng",
+        "Frank Rigo",
+        "Sarah Meadows",
+        "Nina R Montoya",
+        "Natalia G Herrera",
+        "Ana I Domingos",
+        "Fraydoon Rastinejad",
+        "Richard M Myers",
+        "Frances V Fuller-Pace",
+        "Richard Bonneau",
+        "Howard Y Chang",
+        "Oreste Acuto",
+        "Dan R Littman"
+      ],
+      "urls": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/4/2018 0:00",
+      "retractiondoi": "10.1038/s41586-018-0311-z",
+      "retractionpubmedid": "29973715.0",
+      "originalpaperdate": "12/24/2015 0:00",
+      "originalpaperdoi": "10.1038/nature16193",
+      "originalpaperpubmedid": "26675721.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Objections by Author(s)",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345f9d",
-      "Record ID": "37419",
-      "Title": "A Femtomol Range FRET Biosensor Reports Exceedingly Low Levels of Cell Surface Furin: Implications for the Processing of Anthrax Protective Antigen",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
+      "_id": "687cf0941f662220d89902ed",
+      "recordId": "16997",
+      "title": "Site-specific recombination of nitrogen-fixation genes in cyanobacteria by XisF\u2013XisH\u2013XisI complex: Structures and models",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(PHY) Crystallography/Spectroscopy"
       ],
-      "Institution": [
-        "Infectious and Inflammatory Disease Center, Sanford-Burnham Medical Research Institute, La Jolla, California, United States of America",
-        "Department of Bioengineering and the Beckman Institute for Advanced Science and Technology, University of Illinois, Urbana-Champaign, Illinois, United States of America"
+      "institution": [
+        "Joint Center for Structural Genomics, http://www.jcsg.org, USA",
+        "Bioinformatics and Systems Biology Program, Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
+        "Division of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA",
+        "Department of Molecular and Experimental Medicine, The Scripps Research Institute, La Jolla, CA 92037, USA",
+        "Center for Research in Biological Systems, University of California, San Diego, La Jolla, CA 92093\u20130446, USA"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "Proteins: Structure, Function, and Bioinformatics",
+      "publisher": "Wiley",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Katarzyna Gawlik",
-        "Albert G Remacle",
-        "Sergey A Shiryaev",
-        "Vladislav S Golubkov",
-        "Mingxing Ouyang",
-        "Yingxiao Wang",
-        "Alex Y Strongin"
+      "author": [
+        "William C Hwang",
+        "James W Golden",
+        "Jaime Pascual",
+        "Dong Xu",
+        "Anton Cheltsov",
+        "Adam Godzik"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/26/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0269294",
-      "RetractionPubMedID": "35617259.0",
-      "OriginalPaperDate": "6/24/2010 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0011305",
-      "OriginalPaperPubMedID": "20585585.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Manipulation of Images",
-        "+Original Data and/or Images not Provided and/or not Available"
+      "retractiondate": "1/11/2018 0:00",
+      "retractiondoi": "10.1002/prot.24679",
+      "retractionpubmedid": "30338965.0",
+      "originalpaperdate": "9/1/2014 0:00",
+      "originalpaperdoi": "10.1002/prot.24679",
+      "originalpaperpubmedid": "25179344.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+False/Forged Authorship",
+        "+Lack of Approval from Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "Yes",
+      "year": "2014",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234d271",
-      "Record ID": "7880",
-      "Title": "The triterpenoid CDDO-Imidazolide induces apoptosis and enhances fludarabine-induced apoptosis of CLL B-cells",
-      "Subject": [
+      "_id": "687cf0941f662220d89902ee",
+      "recordId": "16996",
+      "title": "Crystal structure of a Baeyer-Villiger flavin-containing monooxygenase from Staphylococcus aureus MRSA strain MU50",
+      "subject": [
+        "(BLS) Microbiology",
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "Joint Center for Structural Genomics, http://www.jcsg.org, USA",
+        "Bioinformatics and Systems Biology Program, Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
+        "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA",
+        "Infectious and Inflammatory Disease Center, Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
+        "Center for Research in Biological Systems, University of California, San Diego, La Jolla, CA 92093-0446, USA"
+      ],
+      "journal": "Proteins: Structure, Function, and Bioinformatics",
+      "publisher": "Wiley",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "William C Hwang",
+        "Qingping Xu",
+        "Bainan Wu",
+        "Adam Godzik"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/11/2018 0:00",
+      "retractiondoi": "10.1002/prot.24661",
+      "retractionpubmedid": "30338968.0",
+      "originalpaperdate": "8/5/2014 0:00",
+      "originalpaperdoi": "10.1002/prot.24661",
+      "originalpaperpubmedid": "25092800.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+False/Forged Authorship",
+        "+Lack of Approval from Author",
+        "+Removed"
+      ],
+      "paywalled": "Yes",
+      "year": "2014",
+      "noticeYear": "2018",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d8992657",
+      "recordId": "7880",
+      "title": "The triterpenoid CDDO-Imidazolide induces apoptosis and enhances fludarabine-induced apoptosis of CLL B-cells",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "The Burnham Institute, LaJolla, California",
         "Dartmouth College, Hanover, NH",
         "Dartmouth Medical School, Hanover, NH",
         "University of California at San Diego, La Jolla, California"
       ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Irene M Pedersen",
         "Juan M Zapata",
         "Temesgen Samuel",
@@ -382,389 +693,91 @@
         "Thomas J Kipps",
         "John C Reed"
       ],
-      "ArticleType": [
+      "articletype": [
         "Article in Press",
         "Research Article"
       ],
-      "RetractionDate": "8/15/2004 0:00",
-      "RetractionDOI": "10.1182/blood-2003-11-3774",
-      "RetractionPubMedID": "14739219.0",
-      "OriginalPaperDate": "1/22/2004 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2003-11-3774",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/15/2004 0:00",
+      "retractiondoi": "10.1182/blood-2003-11-3774",
+      "retractionpubmedid": "14739219.0",
+      "originalpaperdate": "1/22/2004 0:00",
+      "originalpaperdoi": "10.1182/blood-2003-11-3774",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Results Not Reproducible",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2004,
-      "year": 2004,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349e26",
-      "Record ID": "21350",
-      "Title": "Cyclin B1/Cdk1 Phosphorylation of Mitochondrial p53 Induces Anti-Apoptotic Response",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Radiation Oncology, University of California Davis, Sacramento, California, United States of America",
-        "Program of Cell Death and Apoptosis, Sanford-Burnham Medical Research Institute, La Jolla, California, United States of America",
-        "Cancer Center, University of California Davis, Sacramento, California, United States of America"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Danupon Nantajit",
-        "Ming Fan",
-        "Nadire Duru",
-        "Yunfei Wen",
-        "John C Reed",
-        "Jian JIan Li"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/25/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0220519",
-      "RetractionPubMedID": "31344130.0",
-      "OriginalPaperDate": "8/23/2010 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0012341",
-      "OriginalPaperPubMedID": "20808790.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Duplication of/in Image"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/1C38A7EFB6C0AF9303551AF3B4F18F",
-      "notice_year": 2019,
-      "year": 2010
-    },
-    {
-      "_id": "6855d574b14f7811d234af07",
-      "Record ID": "16997",
-      "Title": "Site-specific recombination of nitrogen-fixation genes in cyanobacteria by XisF\u2013XisH\u2013XisI complex: Structures and models",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "Joint Center for Structural Genomics, http://www.jcsg.org, USA",
-        "Bioinformatics and Systems Biology Program, Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
-        "Division of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA",
-        "Department of Molecular and Experimental Medicine, The Scripps Research Institute, La Jolla, CA 92037, USA",
-        "Center for Research in Biological Systems, University of California, San Diego, La Jolla, CA 92093\u20130446, USA"
-      ],
-      "Journal": "Proteins: Structure, Function, and Bioinformatics",
-      "Publisher": "Wiley",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "William C Hwang",
-        "James W Golden",
-        "Jaime Pascual",
-        "Dong Xu",
-        "Anton Cheltsov",
-        "Adam Godzik"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/11/2018 0:00",
-      "RetractionDOI": "10.1002/prot.24679",
-      "RetractionPubMedID": "30338965.0",
-      "OriginalPaperDate": "9/1/2014 0:00",
-      "OriginalPaperDOI": "10.1002/prot.24679",
-      "OriginalPaperPubMedID": "25179344.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+False/Forged Authorship",
-        "+Lack of Approval from Author"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2018,
-      "year": 2014,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345f2d",
-      "Record ID": "37531",
-      "Title": "Distinct Interactions with Cellular E-Cadherin of the Two Virulent Metalloproteinases Encoded by a Bacteroides fragilis Pathogenicity Island",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology"
-      ],
-      "Institution": [
-        "Infectious and Inflammatory Disease Center, Sanford-Burnham Medical Research Institute, La Jolla, California, United States of America"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Albert G Remacle",
-        "Sergey A Shiryaev",
-        "Alex Y Strongin"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/6/2022 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0269292",
-      "RetractionPubMedID": "35666733.0",
-      "OriginalPaperDate": "11/20/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0113896",
-      "OriginalPaperPubMedID": "25411788.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Image",
-        "+Duplication of/in Image",
-        "+Original Data and/or Images not Provided and/or not Available"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23459cb",
-      "Record ID": "38915",
-      "Title": "Is BID required for NOD signalling",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
-      ],
-      "Institution": [
-        "Department of Medicine, McGill University, Montreal, Quebec H3G 0B1, Canada",
-        "Sanford-Burnham Medical Research Institute, La Jolla, California 92037, USA",
-        "St. Jude Children\u2019s Research Hospital, Memphis, 38105, Tennessee, USA"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "Garabet Yeretssian",
-        "Ricardo G Correa",
-        "Karine Doiron",
-        "Patrick Fitzgerald",
-        "Christopher P Dillon",
-        "Douglas R Green",
-        "John C Reed",
-        "Maya Saleh"
-      ],
-      "ArticleType": [
-        "Letter"
-      ],
-      "RetractionDate": "11/14/2012 0:00",
-      "RetractionDOI": "10.1038/nature11668",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/22/2012 0:00",
-      "OriginalPaperDOI": "10.1038/nature11367",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a8c6",
-      "Record ID": "18614",
-      "Title": "DDX5 and its associated lncRNA Rmrp modulate TH17 cell effector functions",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "The Kimmel Center for Biology and Medicine of the Skirball Institute, New York University School of Medicine, New York, New York 10016, USA",
-        "Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE, UK",
-        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, California 94305, USA",
-        "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York 10003, USA",
-        "Courant Institute of Mathematical Sciences, Computer Science Department, New York University, New York, New York 10012, USA",
-        "Simons Center for Data Analysis, Simons Foundation, New York, New York 10010, USA",
-        "Isis Pharmaceuticals, Carlsbad, California 92010, USA",
-        "HudsonAlpha Institute for Biotechnology, Huntsville, Alabama 35806, USA",
-        "Instituto Gulbenkian de Ciencia, Oeiras 2780-156, Portugal",
-        "Integrative Metabolism Program, Sanford Burnham Prebys Medical Discovery Institute, Orlando, Florida 32827, USA",
-        "Division of Cancer Research, University of Dundee, Dundee DD1 9SY, UK",
-        "Howard Hughes Medical Institute, New York University School of Medicine, New York, New York 10016, USA"
-      ],
-      "Journal": "Nature",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "Portugal",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Wendy Huang",
-        "Benjamin Thomas",
-        "Ryan A Flynn",
-        "Samuel J Gavzy",
-        "Lin Wu",
-        "Sangwon V Kim",
-        "Jason A Hall",
-        "Emily R Miraldi",
-        "Charles P Ng",
-        "Frank Rigo",
-        "Sarah Meadows",
-        "Nina R Montoya",
-        "Natalia G Herrera",
-        "Ana I Domingos",
-        "Fraydoon Rastinejad",
-        "Richard M Myers",
-        "Frances V Fuller-Pace",
-        "Richard Bonneau",
-        "Howard Y Chang",
-        "Oreste Acuto",
-        "Dan R Littman"
-      ],
-      "URLS": "http://retractionwatch.com/2018/07/09/researchers-pull-nature-paper-over-first-authors-objections/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/5/2016 0:00",
-      "RetractionDOI": "10.1038/s41586-018-0311-z",
-      "RetractionPubMedID": "29973715.0",
-      "OriginalPaperDate": "12/24/2015 0:00",
-      "OriginalPaperDOI": "10.1038/nature16193",
-      "OriginalPaperPubMedID": "26675721.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2015,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234af08",
-      "Record ID": "16996",
-      "Title": "Crystal structure of a Baeyer-Villiger flavin-containing monooxygenase from Staphylococcus aureus MRSA strain MU50",
-      "Subject": [
-        "(BLS) Microbiology",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "Joint Center for Structural Genomics, http://www.jcsg.org, USA",
-        "Bioinformatics and Systems Biology Program, Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
-        "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA",
-        "Infectious and Inflammatory Disease Center, Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA",
-        "Center for Research in Biological Systems, University of California, San Diego, La Jolla, CA 92093-0446, USA"
-      ],
-      "Journal": "Proteins: Structure, Function, and Bioinformatics",
-      "Publisher": "Wiley",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "William C Hwang",
-        "Qingping Xu",
-        "Bainan Wu",
-        "Adam Godzik"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/11/2018 0:00",
-      "RetractionDOI": "10.1002/prot.24661",
-      "RetractionPubMedID": "30338968.0",
-      "OriginalPaperDate": "8/5/2014 0:00",
-      "OriginalPaperDOI": "10.1002/prot.24661",
-      "OriginalPaperPubMedID": "25092800.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+False/Forged Authorship",
-        "+Lack of Approval from Author",
-        "+Removed"
-      ],
-      "Paywalled": "Yes",
-      "notice_year": 2018,
-      "year": 2014,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2004",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2004,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 1,
-      "integrity": 2
-    },
-    {
-      "year": 2015,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2015,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -772,10 +785,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -783,54 +796,54 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

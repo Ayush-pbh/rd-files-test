@@ -1,84 +1,46 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877bb4",
+    "_id": "687ccbab09adbf7aa61b87d5",
     "grid_id": "grid.449840.5",
     "institute_name": "Yalova University",
     "country": "Turkey",
     "retracted_record_ids": [
-      "8139",
-      "62561"
+      "62561",
+      "8139"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d176",
-      "Record ID": "8139",
-      "Title": "Classification of Asthmatic Breath Sounds by Using Wavelet Transforms and Neural Networks",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Cardiovascular"
-      ],
-      "Institution": [
-        "Department of Computer Engineering, Selcuk University, 42075 Konya, Turkey",
-        "Department of Computer Engineering, Yalova University, 77100 Yalova, Turkey"
-      ],
-      "Journal": "International Journal of Signal Processing Systems",
-      "Publisher": "International Journal of Signal Processing Systems",
-      "Country": [
-        "Turkey"
-      ],
-      "Author": [
-        "Fatma Z Gogus",
-        "Bekir Karlik",
-        "Gunes Harman"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/1/2015 0:00",
-      "OriginalPaperDate": "12/1/2015 0:00",
-      "OriginalPaperDOI": "10.12720/ijsps.3.2.106-111",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Lack of"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d233fdc2",
-      "Record ID": "62561",
-      "Title": "The economic case for blend fuels: A cost-benefit analysis in the European context",
-      "Subject": [
+      "_id": "687cef5d1f662220d89851a8",
+      "recordId": "62561",
+      "title": "The economic case for blend fuels: A cost-benefit analysis in the European context",
+      "subject": [
         "(B/T) Business - Economics",
         "(B/T) Business - Manufacturing",
         "(PHY) Energy"
       ],
-      "Institution": [
+      "institution": [
         "Energy Systems Engineering Department, Engineering Faculty, Cinarcik Road 5th km, Central Campus, Yalova University, 77200, Yalova, Turkey"
       ],
-      "Journal": "Sustainable Technology and Entrepreneurship",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Sustainable Technology and Entrepreneurship",
+      "publisher": "Elsevier",
+      "country": [
         "Turkey"
       ],
-      "Author": [
+      "author": [
         "Cemil Koyun\u014fglu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/11/2025 0:00",
-      "RetractionDOI": "10.1016/j.stae.2024.100093",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/9/2023 0:00",
-      "OriginalPaperDOI": "10.1016/j.stae.2023.100060",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/11/2025 0:00",
+      "retractiondoi": "10.1016/j.stae.2024.100093",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/9/2023 0:00",
+      "originalpaperdoi": "10.1016/j.stae.2023.100060",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Computer-Aided Content or Computer-Generated Content",
         "+Concerns/Issues About Data",
         "+Concerns/Issues About Image",
@@ -86,43 +48,83 @@
         "+Objections by Author(s)",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/80DA33E23C3638EC6CDB6E0389C3B2",
-      "notice_year": 2025,
-      "year": 2023,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/80DA33E23C3638EC6CDB6E0389C3B2",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d899255c",
+      "recordId": "8139",
+      "title": "Classification of Asthmatic Breath Sounds by Using Wavelet Transforms and Neural Networks",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Cardiovascular"
+      ],
+      "institution": [
+        "Department of Computer Engineering, Selcuk University, 42075 Konya, Turkey",
+        "Department of Computer Engineering, Yalova University, 77100 Yalova, Turkey"
+      ],
+      "journal": "International Journal of Signal Processing Systems",
+      "publisher": "International Journal of Signal Processing Systems",
+      "country": [
+        "Turkey"
+      ],
+      "author": [
+        "Fatma Z Gogus",
+        "Bekir Karlik",
+        "Gunes Harman"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/1/2015 0:00",
+      "originalpaperdate": "12/1/2015 0:00",
+      "originalpaperdoi": "10.12720/ijsps.3.2.106-111",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Lack of"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

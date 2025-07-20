@@ -1,57 +1,20 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068793d0",
+    "_id": "687ccbab09adbf7aa61b9ff1",
     "grid_id": "grid.417162.7",
     "institute_name": "Park Centre for Mental Health",
     "country": "Australia",
     "retracted_record_ids": [
-      "4254",
-      "33073"
+      "33073",
+      "4254"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e061",
-      "Record ID": "4254",
-      "Title": "DNA evidence in jury trials: the CSI effect",
-      "Subject": [
-        "(BLS) Forensic Sciences",
-        "(BLS) Genetics",
-        "(SOC) Law/Legal Issues"
-      ],
-      "Institution": [
-        "High Security Inpatient Services, The Park--Centre for Mental Health, Sumner Park, Brisbane, Queensland"
-      ],
-      "Journal": "Journal of Law and Medicine",
-      "Publisher": "Thomson Reuters",
-      "Country": [
-        "Australia"
-      ],
-      "Author": [
-        "Russ Scott",
-        "Catherine Skellern"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "3/1/2011 0:00",
-      "RetractionPubMedID": "21542215.0",
-      "OriginalPaperDate": "12/1/2010 0:00",
-      "OriginalPaperPubMedID": "21355427.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Unable to Access via current resources"
-      ],
-      "Paywalled": "Unknown",
-      "notice_year": 2011,
-      "year": 2010,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2347081",
-      "Record ID": "33073",
-      "Title": "Managements for people with disorders of sexual preference and for convicted sexual offenders",
-      "Subject": [
+      "_id": "687cefcc1f662220d898c467",
+      "recordId": "33073",
+      "title": "Managements for people with disorders of sexual preference and for convicted sexual offenders",
+      "subject": [
         "(HSC) Medicine - Psychiatry",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Public Health and Safety",
@@ -60,75 +23,114 @@
         "(SOC) Sexual And Marital Studies",
         "(SOC) Sociology"
       ],
-      "Institution": [
+      "institution": [
         "Queensland Centre for Schizophrenia Research, Wolston Park Hospital, Wacol, Australia",
         "Reaside Clinic, Birmingham, UK",
         "Literature and Evidence Research Unit (LERU), Institute of Mental Health, Nottinghamshire Healthcare NHS Trust, Woodbeck, UK",
         "Queensland Centre for Schizophrenia Research, Wacol, Australia"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "Australia",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Paul White",
         "Caroline Bradley",
         "Michael Ferriter",
         "Luke Hatzipetrou"
       ],
-      "URLS": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "9/12/2012 0:00",
-      "RetractionDOI": "10.1002/14651858.CD000251.pub2",
-      "RetractionPubMedID": "22972042.0",
-      "OriginalPaperDate": "10/26/1998 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD000251",
-      "OriginalPaperPubMedID": "10796706.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/12/2012 0:00",
+      "retractiondoi": "10.1002/14651858.CD000251.pub2",
+      "retractionpubmedid": "22972042.0",
+      "originalpaperdate": "10/26/1998 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD000251",
+      "originalpaperpubmedid": "10796706.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Retract and Replace",
         "+Withdrawn as Out of Date"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 1998,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "1998",
+      "noticeYear": "2012",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d8993447",
+      "recordId": "4254",
+      "title": "DNA evidence in jury trials: the CSI effect",
+      "subject": [
+        "(BLS) Forensic Sciences",
+        "(BLS) Genetics",
+        "(SOC) Law/Legal Issues"
+      ],
+      "institution": [
+        "High Security Inpatient Services, The Park--Centre for Mental Health, Sumner Park, Brisbane, Queensland"
+      ],
+      "journal": "Journal of Law and Medicine",
+      "publisher": "Thomson Reuters",
+      "country": [
+        "Australia"
+      ],
+      "author": [
+        "Russ Scott",
+        "Catherine Skellern"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "3/1/2011 0:00",
+      "retractionpubmedid": "21542215.0",
+      "originalpaperdate": "12/1/2010 0:00",
+      "originalpaperpubmedid": "21355427.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Unable to Access via current resources"
+      ],
+      "paywalled": "Unknown",
+      "year": "2010",
+      "noticeYear": "2011",
+      "mark": "supplemental",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1998,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -136,10 +138,10 @@
     {
       "year": 2012,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

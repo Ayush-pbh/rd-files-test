@@ -1,68 +1,112 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c068798f1",
+    "_id": "687ccbab09adbf7aa61ba512",
     "grid_id": "grid.281162.e",
     "institute_name": "Baystate Medical Center",
     "country": "United States",
     "retracted_record_ids": [
+      "2503",
+      "2180",
+      "2158",
       "17986",
+      "2398",
+      "2493",
       "255",
-      "23001",
-      "16214",
+      "2296",
+      "251",
+      "249",
+      "253",
+      "2444",
       "16211",
       "16201",
-      "251",
-      "4722",
-      "2398",
-      "2296",
-      "257",
       "1696",
-      "2180",
+      "16214",
+      "4722",
       "9564",
-      "249",
-      "2503",
-      "2493",
-      "2158",
-      "2444",
-      "253"
+      "257",
+      "23001"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234ab38",
-      "Record ID": "17986",
-      "Title": "Analgesic efficacy of celecoxib, pregabalin, and their combination for spinal fusion surgery",
-      "Subject": [
+      "_id": "687cf0121f662220d898eb9e",
+      "recordId": "23001",
+      "title": "Perioperative Perineural Infusion of Bupivacaine and Clonidine Following Lower Extremity Amputation",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Baystate Medical Center, Springfield, MA"
+      ],
+      "journal": "The Journal of Pain : Official Journal of the American Pain Society",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben",
+        "Sung Hwang"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "4/1/2010 0:00",
+      "retractiondoi": "10.1016/j.jpain.2009.12.012",
+      "retractionpubmedid": "20369409.0",
+      "originalpaperdate": "4/1/2006 0:00",
+      "originalpaperdoi": "10.1016/j.jpain.2006.01.142",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Scott S reuben has official finding of research misconduct;",
+      "year": "2006",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0921f662220d898ff1e",
+      "recordId": "17986",
+      "title": "Analgesic efficacy of celecoxib, pregabalin, and their combination for spinal fusion surgery",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts 01199, USA."
       ],
-      "Journal": "Anesthesiology",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Anesthesiology",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Asokumar Buvanendran",
         "Jeffrey S Kroin"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
         "Clinical Study",
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "3/1/2009 0:00",
-      "RetractionDOI": "10.1097/ALN.0b013e31819e9cdd",
-      "RetractionPubMedID": "19218855.0",
-      "OriginalPaperDate": "10/1/2006 0:00",
-      "OriginalPaperDOI": "unavailable",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2009 0:00",
+      "retractiondoi": "10.1097/ALN.0b013e31819e9cdd",
+      "retractionpubmedid": "19218855.0",
+      "originalpaperdate": "10/1/2006 0:00",
+      "originalpaperdoi": "unavailable",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -70,140 +114,54 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct; sentenced 6 months prison. (Note - unable to locate original abstract online)",
-      "notice_year": 2009,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct; sentenced 6 months prison. (Note - unable to locate original abstract online)",
+      "year": "2006",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efaa",
-      "Record ID": "255",
-      "Title": "Postarthroscopic meniscus repair analgesia with intraarticular ketorolac or morphine",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Anesthesiology, Baystate Medical Center, Tufts University School of Medicine, Springfield, Massachusetts 01199, USA"
-      ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben",
-        "Neil Roy Connelly"
-      ],
-      "URLS": "http://retractionwatch.com/?s=scott+reuben",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.1213/01.ane.0000346785.39457.f4",
-      "RetractionPubMedID": "19299812.0",
-      "OriginalPaperDate": "5/1/1996 0:00",
-      "OriginalPaperDOI": "10.1097/00000539-199605000-00027",
-      "OriginalPaperPubMedID": "8610863.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 1996,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23497b8",
-      "Record ID": "23001",
-      "Title": "Perioperative Perineural Infusion of Bupivacaine and Clonidine Following Lower Extremity Amputation",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Baystate Medical Center, Springfield, MA"
-      ],
-      "Journal": "The Journal of Pain : Official Journal of the American Pain Society",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben",
-        "Sung Hwang"
-      ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "4/1/2010 0:00",
-      "RetractionDOI": "10.1016/j.jpain.2009.12.012",
-      "RetractionPubMedID": "20369409.0",
-      "OriginalPaperDate": "4/1/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.jpain.2006.01.142",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Scott S reuben has official finding of research misconduct;",
-      "notice_year": 2010,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234b211",
-      "Record ID": "16214",
-      "Title": "Effect of initiating a preventative multimodal analgesic regimen upon longterm patient outcomes after anterior cruciate ligament reconstruction for same-day surgery: A 1200-patient case series",
-      "Subject": [
+      "_id": "687cf0991f662220d89905f7",
+      "recordId": "16214",
+      "title": "Effect of initiating a preventative multimodal analgesic regimen upon longterm patient outcomes after anterior cruciate ligament reconstruction for same-day surgery: A 1200-patient case series",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Rehabilitation/Therapy",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Acute Pain Service, Department of Anesthesiology, Baystate Medical Center and the Tufts University School of Medicine, 759 Chestnut Street Springfield, MA 01199, USA",
         "Department of Anesthesiology, Baystate Medical Center, USA",
         "Acute Pain Service, Department of Anesthesiology, Baystate Medical Center, USA",
         "Baystate Medical Center and the Tufts University School of Medicine, USA",
         "Performance Rehabilitation of Western New England, USA"
       ],
-      "Journal": "Acute Pain",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Acute Pain",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Srinivasa B Gutta",
         "Holly Maciolek",
         "Joseph Sklar",
         "James Redford"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "11/25/2009 0:00",
-      "RetractionDOI": "10.1016/S1366-0071(09)00094-1",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/29/2005 0:00",
-      "OriginalPaperDOI": "10.1016/j.acpain.2005.05.002",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/25/2009 0:00",
+      "retractiondoi": "10.1016/S1366-0071(09)00094-1",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/29/2005 0:00",
+      "originalpaperdoi": "10.1016/j.acpain.2005.05.002",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -211,50 +169,51 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct",
-      "notice_year": 2009,
-      "year": 2005,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct",
+      "year": "2005",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b213",
-      "Record ID": "16211",
-      "Title": "Postoperative modulation of central nervous system prostaglandin E2by cyclooxygenase inhibitors after vascular surgery",
-      "Subject": [
+      "_id": "687cf0991f662220d89905f9",
+      "recordId": "16211",
+      "title": "Postoperative modulation of central nervous system prostaglandin E2by cyclooxygenase inhibitors after vascular surgery",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts",
         "Department of Anesthesiology, Rush Medical College, Chicago, Illinois"
       ],
-      "Journal": "Anesthesiology",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Anesthesiology",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Asokumar Buvanendran",
         "Jeffrey S Kroin",
         "Robert B Steinberg"
       ],
-      "URLS": "http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/1/2009 0:00",
-      "RetractionDOI": "10.1097/ALN.0b013e31819e9cdd",
-      "RetractionPubMedID": "19218855.0",
-      "OriginalPaperDate": "3/1/2006 0:00",
-      "OriginalPaperDOI": "10.1097/00000542-200603000-00006",
-      "OriginalPaperPubMedID": "16508386.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2009 0:00",
+      "retractiondoi": "10.1097/ALN.0b013e31819e9cdd",
+      "retractionpubmedid": "19218855.0",
+      "originalpaperdate": "3/1/2006 0:00",
+      "originalpaperdoi": "10.1097/00000542-200603000-00006",
+      "originalpaperpubmedid": "16508386.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -262,48 +221,49 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named responsible for misconduct: sentenced 6 months prison",
-      "notice_year": 2009,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named responsible for misconduct: sentenced 6 months prison",
+      "year": "2006",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b21d",
-      "Record ID": "16201",
-      "Title": "The Analgesic Efficacy of Celecoxib, Pregabalin, and Their Combination for Spinal Fusion Surgery",
-      "Subject": [
+      "_id": "687cf0991f662220d8990603",
+      "recordId": "16201",
+      "title": "The Analgesic Efficacy of Celecoxib, Pregabalin, and Their Combination for Spinal Fusion Surgery",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts",
         "and \u2020Department of Anesthesiology, Rush Medical College, Chicago, Illinois"
       ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "International Academic Publishing House",
-      "Country": [
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "International Academic Publishing House",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Asokumar Buvanendran",
         "Jeffrey S Kroin",
         "Karthik Raghunathan"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.1213/01.ane.0000346785.39457.f4",
-      "RetractionPubMedID": "19299812.0",
-      "OriginalPaperDate": "11/1/2006 0:00",
-      "OriginalPaperDOI": "10.1213/01.ane.0000237279.08847.2d",
-      "OriginalPaperPubMedID": "17056968.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.1213/01.ane.0000346785.39457.f4",
+      "retractionpubmedid": "19299812.0",
+      "originalpaperdate": "11/1/2006 0:00",
+      "originalpaperdoi": "10.1213/01.ane.0000237279.08847.2d",
+      "originalpaperpubmedid": "17056968.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -311,67 +271,68 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct; sentenced 6 months in prison",
-      "notice_year": 2009,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct; sentenced 6 months in prison",
+      "year": "2006",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efae",
-      "Record ID": "251",
-      "Title": "The effect of initiating a preventive multimodal analgesic regimen on long-term patient outcomes for outpatient anterior cruciate ligament reconstruction surgery",
-      "Subject": [
+      "_id": "687cf0b51f662220d8991fde",
+      "recordId": "9564",
+      "title": "Ambulatory Anesthesia for Knee Arthroscopy",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Surgery",
-        "(HSC) Medicine - Pharmacology"
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts",
-        "Department of Anesthesiology and Pain Medicine, Tufts University School of Medicine, Boston, Massachusetts",
-        "Southern Orthopaedic Sports Medicine, Parkridge Surgery Center, Columbia, South Carolina"
+      "institution": [
+        "Baystate Medical Center Tufts University School of Medicine Springfield, MA"
       ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Scott S Reuben",
-        "Evan F Ekman"
+      "author": [
+        "Scott S Reuben"
       ],
-      "URLS": "http://retractionwatch.com/?s=scott+reuben",
-      "ArticleType": [
-        "Clinical Study"
+      "urls": "http://retractionwatch.com/2015/11/23/scott-reuben-notches-25th-retraction-for-a-letter-to-the-editor/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
+        "Letter"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.1213/01.ane.0000346785.39457.f4",
-      "RetractionPubMedID": "1929981.0",
-      "OriginalPaperDate": "7/1/2007 0:00",
-      "OriginalPaperDOI": "10.1213/01.ane.0000265443.20919.c8",
-      "OriginalPaperPubMedID": "17578979.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/1/2015 0:00",
+      "retractiondoi": "10.1213/ANE.0000000000001014",
+      "retractionpubmedid": "21350225.0",
+      "originalpaperdate": "2/1/2001 0:00",
+      "originalpaperdoi": "10.1213/00000539-200102000-00051",
+      "originalpaperpubmedid": "11159269.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Cites Retracted Work",
         "+Criminal Proceedings",
-        "+Ethical Violations by Author",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution"
+        "+Investigation by Company/Institution",
+        "+Investigation by Third Party",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "1/30/2017",
-      "notice_year": 2009,
-      "year": 2007,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct",
+      "year": "2001",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234de94",
-      "Record ID": "4722",
-      "Title": "Surgery on the affected upper extremity of patients with a history of complex regional pain syndrome: the use of intravenous regional anesthesia with clonidine",
-      "Subject": [
+      "_id": "687cf0c71f662220d899327a",
+      "recordId": "4722",
+      "title": "Surgery on the affected upper extremity of patients with a history of complex regional pain syndrome: the use of intravenous regional anesthesia with clonidine",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Tufts University School of Medicine",
         "Acute Pain Service, Department of Anesthesiology, Baystate Medical Center",
         "Orthopedic Surgery, Tufts University School of Medicine",
@@ -379,30 +340,30 @@
         "Anesthesiology, Tufts University School of Medicine",
         "Pain Management Services, Department of Anesthesiology, Baystate Medical Center"
       ],
-      "Journal": "Journal of Clinical Anesthesia",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Clinical Anesthesia",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Erik A Rosenthal",
         "Robert B Steinberg",
         "Shameema Faruqi",
         "Prasad A Kilaru"
       ],
-      "URLS": "http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/29/2009 0:00",
-      "RetractionDOI": "10.1016/j.jclinane.2009.04.001",
-      "RetractionPubMedID": "19475772.0",
-      "OriginalPaperDate": "11/1/2004 0:00",
-      "OriginalPaperDOI": "10.1016/j.jclinane.2004.02.001",
-      "OriginalPaperPubMedID": "15590255.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/29/2009 0:00",
+      "retractiondoi": "10.1016/j.jclinane.2009.04.001",
+      "retractionpubmedid": "19475772.0",
+      "originalpaperdate": "11/1/2004 0:00",
+      "originalpaperdoi": "10.1016/j.jclinane.2004.02.001",
+      "originalpaperpubmedid": "15590255.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -411,47 +372,184 @@
         "+Misconduct by Author",
         "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct - sentenced 6 months prison",
-      "notice_year": 2009,
-      "year": 2004,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct - sentenced 6 months prison",
+      "year": "2004",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e77a",
-      "Record ID": "2398",
-      "Title": "Preventing the development of chronic pain after orthopaedic surgery with preventive multimodal analgesic techniques",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993af8",
+      "recordId": "2503",
+      "title": "Assessing risk factors for the development of CRPS following fasciectomy for Dupuytren's contracture",
+      "subject": [
+        "(HSC) Medicine - Dermatology"
+      ],
+      "institution": [
+        "Baystate Medical Center, Springfield, Massachusetts"
+      ],
+      "journal": "The Journal of Pain : Official Journal of the American Pain Society",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben",
+        "Sung Hwang"
+      ],
+      "urls": "http://retractionwatch.com/2015/11/23/scott-reuben-notches-25th-retraction-for-a-letter-to-the-editor/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "4/1/2010 0:00",
+      "retractiondoi": "10.1016/j.jpain.2009.12.011",
+      "retractionpubmedid": "20369408.0",
+      "originalpaperdate": "4/1/2006 0:00",
+      "originalpaperdoi": "10.1016/j.jpain.2006.01.109",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "notes": "Scott S Reuben named for data fabrication.",
+      "year": "2006",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993b02",
+      "recordId": "2493",
+      "title": "The effect of intraoperative valdecoxib administration on PGE2 levels in the CSF",
+      "subject": [
+        "(HSC) Medicine - Neurology"
+      ],
+      "institution": [
+        "Baystate Medical Center, Springfield, Massachusetts"
+      ],
+      "journal": "The Journal of Pain : Official Journal of the American Pain Society",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben"
+      ],
+      "urls": "http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "3/27/2010 0:00",
+      "retractiondoi": "10.1016/j.jpain.2009.12.005",
+      "retractionpubmedid": "20369407.0",
+      "originalpaperdate": "3/1/2005 0:00",
+      "originalpaperdoi": "10.1016/j.jpain.2005.01.079",
+      "originalpaperpubmedid": "15902754.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Criminal Proceedings",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Third Party",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct",
+      "year": "2005",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993b33",
+      "recordId": "2444",
+      "title": "Evaluation of efficacy of the perioperative administration of venlafaxine XR in the prevention of postmastectomy pain syndrome",
+      "subject": [
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Baystate Medical Center (S.S.R., G.M.-J.), Springfield, Massachussetts",
+        "Tufts University School of Medicine (S.S.R., G.M.-J.), Boston, Massachussetts",
+        "and Caritas-Norwood Hospital (S.D.L.), Norwood, Massachusetts, USA"
+      ],
+      "journal": "Journal of Pain and Symptom Management",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben",
+        "Grace Makari-Judson",
+        "Shari D Lurie"
+      ],
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "5/1/2009 0:00",
+      "retractiondoi": "10.1016/j.jpainsymman.2009.04.001",
+      "retractionpubmedid": "19422087.0",
+      "originalpaperdate": "2/6/2004 0:00",
+      "originalpaperdoi": "10.1016/j.jpainsymman.2003.06.004",
+      "originalpaperpubmedid": "15157037.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Criminal Proceedings",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Investigation by Third Party",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2004",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993b60",
+      "recordId": "2398",
+      "title": "Preventing the development of chronic pain after orthopaedic surgery with preventive multimodal analgesic techniques",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, Baystate Medical Center, 759 Chestnut Street, Springfield, MA 01199, USA",
         "Department of Anesthesiology, Rush University Medical Center, 1653 West Congress Parkway, Suite 739, Jelke Building, Chicago, IL 60612, USA"
       ],
-      "Journal": "The Journal of Bone and Joint Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "The Journal of Bone and Joint Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Asokumar Buvanendran"
       ],
-      "URLS": "http://retractionwatch.com/?s=Scott+Reuben;http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=Scott+Reuben;http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/",
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "unavailable",
-      "RetractionPubMedID": "19339584.0",
-      "OriginalPaperDate": "6/1/2007 0:00",
-      "OriginalPaperDOI": "10.2106/JBJS.F.00906",
-      "OriginalPaperPubMedID": "17545440.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "unavailable",
+      "retractionpubmedid": "19339584.0",
+      "originalpaperdate": "6/1/2007 0:00",
+      "originalpaperdoi": "10.2106/JBJS.F.00906",
+      "originalpaperpubmedid": "17545440.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -459,46 +557,47 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott S Reuben named in NIH finding of misconduct",
-      "notice_year": 2009,
-      "year": 2007,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott S Reuben named in NIH finding of misconduct",
+      "year": "2007",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e7dc",
-      "Record ID": "2296",
-      "Title": "The effect of cyclooxygenase-2 inhibition on analgesia and spinal fusion",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993bc2",
+      "recordId": "2296",
+      "title": "The effect of cyclooxygenase-2 inhibition on analgesia and spinal fusion",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Baystate Medical Center and Tufts University School of Medicine, 759 Chestnut Street, Springfield, MA 01199, USA",
         "Southern Orthopaedic Sports Medicine and Parkridge Surgery Center, 1718 St. Julian Place, Columbia, SC 29204, USA"
       ],
-      "Journal": "The Journal of Bone and Joint Surgery",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "The Journal of Bone and Joint Surgery",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Evan F Ekman"
       ],
-      "URLS": "http://retractionwatch.com/?s=scott+reuben",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=scott+reuben",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionPubMedID": "19339584.0",
-      "OriginalPaperDate": "3/1/2005 0:00",
-      "OriginalPaperDOI": "10.2106/JBJS.D.02283",
-      "OriginalPaperPubMedID": "15741619.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2009 0:00",
+      "retractionpubmedid": "19339584.0",
+      "originalpaperdate": "3/1/2005 0:00",
+      "originalpaperdoi": "10.2106/JBJS.D.02283",
+      "originalpaperpubmedid": "15741619.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -506,124 +605,32 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott S Reuben named in NIH finding of misconduct",
-      "notice_year": 2009,
-      "year": 2005,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott S Reuben named in NIH finding of misconduct",
+      "year": "2005",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efa8",
-      "Record ID": "257",
-      "Title": "Evaluating the analgesic efficacy of administering celecoxib as a component of multimodal analgesia for outpatient anterior cruciate ligament reconstruction surgery",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Anesthesiology, Baystate Medical Center, Springfield, MA 01199, USA"
-      ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Western History Association",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben",
-        "Evan F Ekman",
-        "Derek Charron"
-      ],
-      "URLS": "http://retractionwatch.com/?s=scott+reuben",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.1213/01.ane.0000346785.39457.f4",
-      "RetractionPubMedID": "1929981.0",
-      "OriginalPaperDate": "7/1/2007 0:00",
-      "OriginalPaperDOI": "10.1213/01.ane.0000265440.98491.e2",
-      "OriginalPaperPubMedID": "17578978.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2007,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234ea25",
-      "Record ID": "1696",
-      "Title": "Local administration of morphine for analgesia after iliac bone graft harvest",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Anesthesiology, Baystate Medical Center, The Tufts University School of Medicine, Springfield, Massachusetts 01199, USA"
-      ],
-      "Journal": "Anesthesiology",
-      "Publisher": "Lippincott Williams and Wilkins",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben",
-        "Peter Vieira",
-        "Shameema Faruqi",
-        "Arul Verghis",
-        "Prasad A Kilaru",
-        "Holly Maciolek"
-      ],
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "3/1/2009 0:00",
-      "RetractionDOI": "10.1097/ALN.0b013e31819e9cdd",
-      "RetractionPubMedID": "19218855.0",
-      "OriginalPaperDate": "8/1/2001 0:00",
-      "OriginalPaperDOI": "10.1097/00000542-200108000-00021",
-      "OriginalPaperPubMedID": "11506111.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Criminal Proceedings",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Lack of Approval from Third Party",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named responsible for misconduct: sentenced 6 months prison",
-      "notice_year": 2009,
-      "year": 2001,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e84f",
-      "Record ID": "2180",
-      "Title": "The effect of cyclooxygenase-2 inhibition on acute and chronic donor-site pain after spinal-fusion surgery",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993c35",
+      "recordId": "2180",
+      "title": "The effect of cyclooxygenase-2 inhibition on acute and chronic donor-site pain after spinal-fusion surgery",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Rehabilitation/Therapy"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology and Pain Medicine, Baystate Medical Center and the Tufts University School of Medicine, Springfield, MA, USA",
         "Parkridge Surgery Center, Columbia, SC, USA",
         "Department of Anesthesiology, Baystate Medical Center, Springfield, MA, USA"
       ],
-      "Journal": "Regional Anesthesia and Pain Medicine",
-      "Publisher": "Wolters Kluwer",
-      "Country": [
+      "journal": "Regional Anesthesia and Pain Medicine",
+      "publisher": "Wolters Kluwer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Evan F Ekman",
         "Karthik Raghunathan",
@@ -631,18 +638,18 @@
         "Jordan L Blinder",
         "John Adesioye"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/1/2009 0:00",
-      "RetractionDOI": "10.1097/AAP.0b013e31819f1617",
-      "RetractionPubMedID": "19288610.0",
-      "OriginalPaperDate": "1/1/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.rapm.2005.10.014",
-      "OriginalPaperPubMedID": "16418018.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2009 0:00",
+      "retractiondoi": "10.1097/AAP.0b013e31819f1617",
+      "retractionpubmedid": "19288610.0",
+      "originalpaperdate": "1/1/2006 0:00",
+      "originalpaperdoi": "10.1016/j.rapm.2005.10.014",
+      "originalpaperpubmedid": "16418018.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
@@ -650,301 +657,220 @@
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct; sentenced 6 months prison",
-      "notice_year": 2009,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct; sentenced 6 months prison",
+      "year": "2006",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cbf8",
-      "Record ID": "9564",
-      "Title": "Ambulatory Anesthesia for Knee Arthroscopy",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
+      "_id": "687cf0d11f662220d8993c4a",
+      "recordId": "2158",
+      "title": "Evaluation of the safety and efficacy of the perioperative administration of rofecoxib for total knee arthroplasty.",
+      "subject": [
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Baystate Medical Center Tufts University School of Medicine Springfield, MA"
-      ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben"
-      ],
-      "URLS": "http://retractionwatch.com/2015/11/23/scott-reuben-notches-25th-retraction-for-a-letter-to-the-editor/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
-        "Letter"
-      ],
-      "RetractionDate": "11/1/2015 0:00",
-      "RetractionDOI": "10.1213/ANE.0000000000001014",
-      "RetractionPubMedID": "21350225.0",
-      "OriginalPaperDate": "2/1/2001 0:00",
-      "OriginalPaperDOI": "10.1213/00000539-200102000-00051",
-      "OriginalPaperPubMedID": "11159269.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Cites Retracted Work",
-        "+Criminal Proceedings",
-        "+Investigation by Company/Institution",
-        "+Investigation by Third Party",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct",
-      "notice_year": 2015,
-      "year": 2001,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234efb0",
-      "Record ID": "249",
-      "Title": "Postoperative analgesic effects of celecoxib or rofecoxib after spinal fusion surgery",
-      "Subject": [
-        "(HSC) Medicine - Anesthesia/Anaesthesia",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts 01199, USA"
-      ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben",
-        "Neil Roy Connelly"
-      ],
-      "URLS": "http://retractionwatch.com/?s=scott+reuben",
-      "ArticleType": [
-        "Clinical Study"
-      ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.1213/01.ane.0000346785.39457.f4",
-      "RetractionPubMedID": "19299814.0",
-      "OriginalPaperDate": "11/1/2000 0:00",
-      "OriginalPaperDOI": "10.1213/00000539-200011000-00032",
-      "OriginalPaperPubMedID": "11049912.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Criminal Proceedings",
-        "+Ethical Violations by Author",
-        "+Falsification/Fabrication of Data",
-        "+Lack of Approval from Company/Institution"
-      ],
-      "Paywalled": "No",
-      "Notes": "1/30/2017",
-      "notice_year": 2009,
-      "year": 2000,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e712",
-      "Record ID": "2503",
-      "Title": "Assessing risk factors for the development of CRPS following fasciectomy for Dupuytren's contracture",
-      "Subject": [
-        "(HSC) Medicine - Dermatology"
-      ],
-      "Institution": [
-        "Baystate Medical Center, Springfield, Massachusetts"
-      ],
-      "Journal": "The Journal of Pain : Official Journal of the American Pain Society",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben",
-        "Sung Hwang"
-      ],
-      "URLS": "http://retractionwatch.com/2015/11/23/scott-reuben-notches-25th-retraction-for-a-letter-to-the-editor/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "4/1/2010 0:00",
-      "RetractionDOI": "10.1016/j.jpain.2009.12.011",
-      "RetractionPubMedID": "20369408.0",
-      "OriginalPaperDate": "4/1/2006 0:00",
-      "OriginalPaperDOI": "10.1016/j.jpain.2006.01.109",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher"
-      ],
-      "Paywalled": "No",
-      "Notes": "Scott S Reuben named for data fabrication.",
-      "notice_year": 2010,
-      "year": 2006,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e71c",
-      "Record ID": "2493",
-      "Title": "The effect of intraoperative valdecoxib administration on PGE2 levels in the CSF",
-      "Subject": [
-        "(HSC) Medicine - Neurology"
-      ],
-      "Institution": [
-        "Baystate Medical Center, Springfield, Massachusetts"
-      ],
-      "Journal": "The Journal of Pain : Official Journal of the American Pain Society",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Scott S Reuben"
-      ],
-      "URLS": "http://retractionwatch.com/category/by-author/scott-reuben-retractions/;http://retractionwatch.com/the-retraction-watch-leaderboard/",
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "3/27/2010 0:00",
-      "RetractionDOI": "10.1016/j.jpain.2009.12.005",
-      "RetractionPubMedID": "20369407.0",
-      "OriginalPaperDate": "3/1/2005 0:00",
-      "OriginalPaperDOI": "10.1016/j.jpain.2005.01.079",
-      "OriginalPaperPubMedID": "15902754.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Criminal Proceedings",
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Investigation by Third Party",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct",
-      "notice_year": 2010,
-      "year": 2005,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e864",
-      "Record ID": "2158",
-      "Title": "Evaluation of the safety and efficacy of the perioperative administration of rofecoxib for total knee arthroplasty.",
-      "Subject": [
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
+      "institution": [
         "Department of Anesthesiology, Baystate Medical Center and the Tufts University School of Medicine",
         "Acute Pain Service, Baystate Medical Center",
         "New England Orthopedic Surgery, Baystate Medical Center, Springfield, Massachusetts."
       ],
-      "Journal": "The Journal of Arthroplasty",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "The Journal of Arthroplasty",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
         "Richard Fingeroth",
         "Robert Krushell",
         "Holly Maciolek"
       ],
-      "URLS": "http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/07/14/half-of-anesthesiology-fraudsters-papers-continue-to-be-cited-years-after-retractions/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/25/2010 0:00",
-      "RetractionDOI": "10.1016/j.arth.2009.12.001",
-      "RetractionPubMedID": "20117681.0",
-      "OriginalPaperDate": "1/1/2002 0:00",
-      "OriginalPaperDOI": "10.1054/arth.2002.27677",
-      "OriginalPaperPubMedID": "1180592.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/25/2010 0:00",
+      "retractiondoi": "10.1016/j.arth.2009.12.001",
+      "retractionpubmedid": "20117681.0",
+      "originalpaperdate": "1/1/2002 0:00",
+      "originalpaperdoi": "10.1054/arth.2002.27677",
+      "originalpaperpubmedid": "1180592.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Investigation by Third Party",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Third Party"
       ],
-      "Paywalled": "No",
-      "Notes": "Scott Reuben named as responsible for misconduct; sentenced to 6 months prison",
-      "notice_year": 2010,
-      "year": 2002,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named as responsible for misconduct; sentenced to 6 months prison",
+      "year": "2002",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e74d",
-      "Record ID": "2444",
-      "Title": "Evaluation of efficacy of the perioperative administration of venlafaxine XR in the prevention of postmastectomy pain syndrome",
-      "Subject": [
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Medicine - Surgery"
+      "_id": "687cf0d31f662220d8993e0b",
+      "recordId": "1696",
+      "title": "Local administration of morphine for analgesia after iliac bone graft harvest",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
-        "Baystate Medical Center (S.S.R., G.M.-J.), Springfield, Massachussetts",
-        "Tufts University School of Medicine (S.S.R., G.M.-J.), Boston, Massachussetts",
-        "and Caritas-Norwood Hospital (S.D.L.), Norwood, Massachusetts, USA"
+      "institution": [
+        "Department of Anesthesiology, Baystate Medical Center, The Tufts University School of Medicine, Springfield, Massachusetts 01199, USA"
       ],
-      "Journal": "Journal of Pain and Symptom Management",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Anesthesiology",
+      "publisher": "Lippincott Williams and Wilkins",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Scott S Reuben",
-        "Grace Makari-Judson",
-        "Shari D Lurie"
+        "Peter Vieira",
+        "Shameema Faruqi",
+        "Arul Verghis",
+        "Prasad A Kilaru",
+        "Holly Maciolek"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/category/by-author/scott-reuben-retractions/",
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "5/1/2009 0:00",
-      "RetractionDOI": "10.1016/j.jpainsymman.2009.04.001",
-      "RetractionPubMedID": "19422087.0",
-      "OriginalPaperDate": "2/6/2004 0:00",
-      "OriginalPaperDOI": "10.1016/j.jpainsymman.2003.06.004",
-      "OriginalPaperPubMedID": "15157037.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2009 0:00",
+      "retractiondoi": "10.1097/ALN.0b013e31819e9cdd",
+      "retractionpubmedid": "19218855.0",
+      "originalpaperdate": "8/1/2001 0:00",
+      "originalpaperdoi": "10.1097/00000542-200108000-00021",
+      "originalpaperpubmedid": "11506111.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Criminal Proceedings",
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
-        "+Investigation by Third Party",
+        "+Lack of Approval from Third Party",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2004,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Scott Reuben named responsible for misconduct: sentenced 6 months prison",
+      "year": "2001",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efac",
-      "Record ID": "253",
-      "Title": "The incidence of complex regional pain syndrome after fasciectomy for Dupuytren's contracture: a prospective observational study of four anesthetic techniques",
-      "Subject": [
+      "_id": "687cf0d71f662220d899438e",
+      "recordId": "257",
+      "title": "Evaluating the analgesic efficacy of administering celecoxib as a component of multimodal analgesia for outpatient anterior cruciate ligament reconstruction surgery",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Orthopedics",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts 01199, USA"
+      "institution": [
+        "Department of Anesthesiology, Baystate Medical Center, Springfield, MA 01199, USA"
       ],
-      "Journal": "Anesthesia & Analgesia",
-      "Publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
-      "Country": [
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Western History Association",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
+        "Scott S Reuben",
+        "Evan F Ekman",
+        "Derek Charron"
+      ],
+      "urls": "http://retractionwatch.com/?s=scott+reuben",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.1213/01.ane.0000346785.39457.f4",
+      "retractionpubmedid": "1929981.0",
+      "originalpaperdate": "7/1/2007 0:00",
+      "originalpaperdoi": "10.1213/01.ane.0000265440.98491.e2",
+      "originalpaperpubmedid": "17578978.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "2007",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994390",
+      "recordId": "255",
+      "title": "Postarthroscopic meniscus repair analgesia with intraarticular ketorolac or morphine",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Anesthesiology, Baystate Medical Center, Tufts University School of Medicine, Springfield, Massachusetts 01199, USA"
+      ],
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben",
+        "Neil Roy Connelly"
+      ],
+      "urls": "http://retractionwatch.com/?s=scott+reuben",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.1213/01.ane.0000346785.39457.f4",
+      "retractionpubmedid": "19299812.0",
+      "originalpaperdate": "5/1/1996 0:00",
+      "originalpaperdoi": "10.1097/00000539-199605000-00027",
+      "originalpaperpubmedid": "8610863.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "year": "1996",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994392",
+      "recordId": "253",
+      "title": "The incidence of complex regional pain syndrome after fasciectomy for Dupuytren's contracture: a prospective observational study of four anesthetic techniques",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts 01199, USA"
+      ],
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "United States"
+      ],
+      "author": [
         "Scott S Reuben",
         "Rene Pristas",
         "Duane Dixon",
@@ -952,114 +878,208 @@
         "Lakshmi Madabhushi",
         "Steven Wenner"
       ],
-      "URLS": "http://retractionwatch.com/?s=scott+reuben",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=scott+reuben",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/1/2009 0:00",
-      "RetractionDOI": "10.1213/01.ane.0000346785.39457.f4",
-      "RetractionPubMedID": "1929981.0",
-      "OriginalPaperDate": "2/1/2006 0:00",
-      "OriginalPaperDOI": "10.1213/01.ane.0000194879.85643.ff",
-      "OriginalPaperPubMedID": "16428550.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.1213/01.ane.0000346785.39457.f4",
+      "retractionpubmedid": "1929981.0",
+      "originalpaperdate": "2/1/2006 0:00",
+      "originalpaperdoi": "10.1213/01.ane.0000194879.85643.ff",
+      "originalpaperpubmedid": "16428550.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2006,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994394",
+      "recordId": "251",
+      "title": "The effect of initiating a preventive multimodal analgesic regimen on long-term patient outcomes for outpatient anterior cruciate ligament reconstruction surgery",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Surgery",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts",
+        "Department of Anesthesiology and Pain Medicine, Tufts University School of Medicine, Boston, Massachusetts",
+        "Southern Orthopaedic Sports Medicine, Parkridge Surgery Center, Columbia, South Carolina"
+      ],
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben",
+        "Evan F Ekman"
+      ],
+      "urls": "http://retractionwatch.com/?s=scott+reuben",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.1213/01.ane.0000346785.39457.f4",
+      "retractionpubmedid": "1929981.0",
+      "originalpaperdate": "7/1/2007 0:00",
+      "originalpaperdoi": "10.1213/01.ane.0000265443.20919.c8",
+      "originalpaperpubmedid": "17578979.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Criminal Proceedings",
+        "+Ethical Violations by Author",
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "notes": "1/30/2017",
+      "year": "2007",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994396",
+      "recordId": "249",
+      "title": "Postoperative analgesic effects of celecoxib or rofecoxib after spinal fusion surgery",
+      "subject": [
+        "(HSC) Medicine - Anesthesia/Anaesthesia",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Department of Anesthesiology, Baystate Medical Center, Springfield, Massachusetts 01199, USA"
+      ],
+      "journal": "Anesthesia & Analgesia",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Scott S Reuben",
+        "Neil Roy Connelly"
+      ],
+      "urls": "http://retractionwatch.com/?s=scott+reuben",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "4/1/2009 0:00",
+      "retractiondoi": "10.1213/01.ane.0000346785.39457.f4",
+      "retractionpubmedid": "19299814.0",
+      "originalpaperdate": "11/1/2000 0:00",
+      "originalpaperdoi": "10.1213/00000539-200011000-00032",
+      "originalpaperpubmedid": "11049912.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Criminal Proceedings",
+        "+Ethical Violations by Author",
+        "+Falsification/Fabrication of Data",
+        "+Lack of Approval from Company/Institution"
+      ],
+      "paywalled": "No",
+      "notes": "1/30/2017",
+      "year": "2000",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1996,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2000,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2001,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2004,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 3,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 7,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 7,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2007,
-      "retraction_count": 3,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 3,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1067,10 +1087,10 @@
     {
       "year": 2009,
       "retraction_count": 0,
-      "retraction_notice_count": 15,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1078,10 +1098,10 @@
     {
       "year": 2010,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1089,10 +1109,10 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,74 +1,25 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878da3",
+    "_id": "687ccbab09adbf7aa61b99c4",
     "grid_id": "grid.509979.b",
     "institute_name": "California NanoSystems Institute",
     "country": "United States",
     "retracted_record_ids": [
-      "28843",
-      "43774"
+      "43774",
+      "28843"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23480f8",
-      "Record ID": "28843",
-      "Title": "Breast Cancer Chemo-immunotherapy through Liposomal Delivery of an Immunogenic Cell Death Stimulus Plus Interference in the IDO-1 Pathway",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "Division of NanoMedicine, Department of Medicine, David Geffen School of Medicine, Center for Environmental Implications of Nanotechnology, California NanoSystems Institute, University of California, Los Angeles, Los Angeles, California 90095, United States",
-        "Center for Environmental Implications of Nanotechnology, California NanoSystems Institute, University of California, Los Angeles, Los Angeles, California 90095, United States"
-      ],
-      "Journal": "ACS Nano",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Jianqin Lu",
-        "Xiangsheng Liu",
-        "Yu Pei Liao",
-        "Xiang Wang",
-        "Ayman Ahmed",
-        "Wen Jiang",
-        "Ying Ji",
-        "Huan Meng",
-        "Andre E Nel"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/21/2021 0:00",
-      "RetractionDOI": "10.1021/acsnano.0c08653",
-      "RetractionPubMedID": "34018715.0",
-      "OriginalPaperDate": "10/16/2018 0:00",
-      "OriginalPaperDOI": "10.1021/acsnano.8b05189",
-      "OriginalPaperPubMedID": "30481959.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/6AB70F25CC4B63B12127A16DA625BB;",
-      "notice_year": 2021,
-      "year": 2018,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23446ef",
-      "Record ID": "43774",
-      "Title": "Precision-Guided Nanospears for Targeted and High-Throughput Intracellular Gene Delivery",
-      "Subject": [
+      "_id": "687cefa61f662220d8989ad5",
+      "recordId": "43774",
+      "title": "Precision-Guided Nanospears for Targeted and High-Throughput Intracellular Gene Delivery",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "California NanoSystems Institute, University of California, Los Angeles, Los Angeles, California 90095, United States",
         "Department of Chemistry and Biochemistry, University of California, Los Angeles, Los Angeles, California 90095, United States",
         "Department of Materials Science and Engineering, University of California, Los Angeles, Los Angeles, California 90095, United States",
@@ -78,13 +29,13 @@
         "Children\u2019s Discovery and Innovation Institute, University of California, Los Angeles, Los Angeles, California 90095, United States",
         "State Key Laboratory of Molecular Engineering of Polymers and Department of Macromolecular Science, Fudan University, Shanghai 200433, China"
       ],
-      "Journal": "ACS Nano",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
+      "journal": "ACS Nano",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Xiaobin Xu",
         "Shuang Hou",
         "Natcha Wattanatorn",
@@ -96,48 +47,99 @@
         "Steven J Jonas",
         "Paul S Weiss"
       ],
-      "URLS": "https://retractionwatch.com/2023/05/09/prominent-nanoscientist-has-paper-retracted-after-phd-students-flagged-error/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2023/05/09/prominent-nanoscientist-has-paper-retracted-after-phd-students-flagged-error/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/5/2023 0:00",
-      "RetractionDOI": "10.1021/acsnano.3c02453",
-      "RetractionPubMedID": "37017310.0",
-      "OriginalPaperDate": "3/14/2018 0:00",
-      "OriginalPaperDOI": "10.1021/acsnano.8b00763",
-      "OriginalPaperPubMedID": "29536729.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/5/2023 0:00",
+      "retractiondoi": "10.1021/acsnano.3c02453",
+      "retractionpubmedid": "37017310.0",
+      "originalpaperdate": "3/14/2018 0:00",
+      "originalpaperdoi": "10.1021/acsnano.8b00763",
+      "originalpaperpubmedid": "29536729.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Results and/or Conclusions",
         "+Investigation by Third Party",
         "+Original Data and/or Images not Provided and/or not Available"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2018,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefe71f662220d898d4de",
+      "recordId": "28843",
+      "title": "Breast Cancer Chemo-immunotherapy through Liposomal Delivery of an Immunogenic Cell Death Stimulus Plus Interference in the IDO-1 Pathway",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "Division of NanoMedicine, Department of Medicine, David Geffen School of Medicine, Center for Environmental Implications of Nanotechnology, California NanoSystems Institute, University of California, Los Angeles, Los Angeles, California 90095, United States",
+        "Center for Environmental Implications of Nanotechnology, California NanoSystems Institute, University of California, Los Angeles, Los Angeles, California 90095, United States"
+      ],
+      "journal": "ACS Nano",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Jianqin Lu",
+        "Xiangsheng Liu",
+        "Yu Pei Liao",
+        "Xiang Wang",
+        "Ayman Ahmed",
+        "Wen Jiang",
+        "Ying Ji",
+        "Huan Meng",
+        "Andre E Nel"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/21/2021 0:00",
+      "retractiondoi": "10.1021/acsnano.0c08653",
+      "retractionpubmedid": "34018715.0",
+      "originalpaperdate": "10/16/2018 0:00",
+      "originalpaperdoi": "10.1021/acsnano.8b05189",
+      "originalpaperpubmedid": "30481959.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Results Not Reproducible"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/6AB70F25CC4B63B12127A16DA625BB;",
+      "year": "2018",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2018,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -145,10 +147,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

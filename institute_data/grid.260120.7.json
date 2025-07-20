@@ -1,72 +1,35 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879abc",
+    "_id": "687ccbab09adbf7aa61ba6dd",
     "grid_id": "grid.260120.7",
     "institute_name": "Mississippi State University",
     "country": "United States",
     "retracted_record_ids": [
-      "6886",
       "20443",
-      "5572"
+      "5572",
+      "6886"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d64c",
-      "Record ID": "6886",
-      "Title": "Effects of Feeding Diets with and without Fish Meal on the Production of Channel Catfish, Ictalurus punctatus, Stocked at Varying Densities",
-      "Subject": [
-        "(BLS) Agriculture",
-        "(BLS) Nutrition",
-        "(BLS) Zoology",
-        "(ENV) Food Science"
-      ],
-      "Institution": [
-        "Thad Cochran National Warmwater Aquaculture Center, Mississippi State University, Stoneville, Mississippi, USA"
-      ],
-      "Journal": "Journal of Applied Aquaculture",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Edwin H Robinson",
-        "Menghe H Li"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/6/2009 0:00",
-      "RetractionDOI": "10.1080/10454430902895910",
-      "OriginalPaperDate": "3/5/2009 0:00",
-      "OriginalPaperDOI": "10.1080/10454430802694405",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2009
-    },
-    {
-      "_id": "6855d574b14f7811d234a1ac",
-      "Record ID": "20443",
-      "Title": "The Influence of Texture on Co/SBA\u201315 Catalyst Performance for Fischer-Tropsch Synthesis",
-      "Subject": [
+      "_id": "687cf05d1f662220d898f592",
+      "recordId": "20443",
+      "title": "The Influence of Texture on Co/SBA\u201315 Catalyst Performance for Fischer-Tropsch Synthesis",
+      "subject": [
         "(PHY) Crystallography/Spectroscopy",
         "(PHY) Materials Science"
       ],
-      "Institution": [
+      "institution": [
         "Hubei Key Laboratory for Efficient Utilization and Agglomeration of Metallurgic Mineral Resources, Wuhan University of Science and Technology, Wuhan 430081, China",
         "Industrial Safety Engineering Technology Research Center of Hubei Province, Wuhan University of Science and Technology, Wuhan 430081, China",
         "Department of Agricultural and Biological Engineering, Mississippi State University, Mississippi State, MS 39762, USA"
       ],
-      "Journal": "Catalysts",
-      "Publisher": "MDPI",
-      "Country": [
+      "journal": "Catalysts",
+      "publisher": "MDPI",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Jun Han",
         "Zijiang Xiong",
         "Zelin Zhang",
@@ -74,47 +37,87 @@
         "Peng Zhou",
         "Fei Yu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/13/2019 0:00",
-      "RetractionDOI": "10.3390/catal9050444",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/16/2018 0:00",
-      "OriginalPaperDOI": "10.3390/catal8120661",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/13/2019 0:00",
+      "retractiondoi": "10.3390/catal9050444",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/16/2018 0:00",
+      "originalpaperdoi": "10.3390/catal8120661",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data",
         "+Duplication of/in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234db57",
-      "Record ID": "5572",
-      "Title": "Characterization of Different Biomasses Based on Their Sugar Profile with Focus on Their Utilization for Microbial Biodiesel Production",
-      "Subject": [
+      "_id": "687cf0bd1f662220d8992a32",
+      "recordId": "6886",
+      "title": "Effects of Feeding Diets with and without Fish Meal on the Production of Channel Catfish, Ictalurus punctatus, Stocked at Varying Densities",
+      "subject": [
+        "(BLS) Agriculture",
+        "(BLS) Nutrition",
+        "(BLS) Zoology",
+        "(ENV) Food Science"
+      ],
+      "institution": [
+        "Thad Cochran National Warmwater Aquaculture Center, Mississippi State University, Stoneville, Mississippi, USA"
+      ],
+      "journal": "Journal of Applied Aquaculture",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Edwin H Robinson",
+        "Menghe H Li"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/6/2009 0:00",
+      "retractiondoi": "10.1080/10454430902895910",
+      "originalpaperdate": "3/5/2009 0:00",
+      "originalpaperdoi": "10.1080/10454430802694405",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f3d",
+      "recordId": "5572",
+      "title": "Characterization of Different Biomasses Based on Their Sugar Profile with Focus on Their Utilization for Microbial Biodiesel Production",
+      "subject": [
         "(BLS) Biochemistry",
         "(ENV) Ecology",
         "(ENV) Environmental Sciences",
         "(PHY) Engineering - Chemical"
       ],
-      "Institution": [
+      "institution": [
         "Institute of Crop Science, Universit\u00e4t Hohenheim, Stuttgart, Germany",
         "Dave C. Swalm School of Chemical Engineering, Mississippi State University, Starkville, Mississippi, USA",
         "Department of Chemical Engineering, University of Louisiana at Lafayette, Lafayette, Louisiana, USA"
       ],
-      "Journal": "International Journal of Green Energy",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "International Journal of Green Energy",
+      "publisher": "Taylor and Francis",
+      "country": [
         "Germany",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Benjamin Mast",
         "Nikolaus Merkt",
         "Rafael Hernandez",
@@ -122,64 +125,65 @@
         "Wilhelm Claupein",
         "Simone Graeff-H\u00f6nninger"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/11/2015 0:00",
-      "RetractionDOI": "10.1080/15435075.2014.884500",
-      "OriginalPaperDate": "4/1/2014 0:00",
-      "OriginalPaperDOI": "10.1080/15435075.2014.888661",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/11/2015 0:00",
+      "retractiondoi": "10.1080/15435075.2014.884500",
+      "originalpaperdate": "4/1/2014 0:00",
+      "originalpaperdoi": "10.1080/15435075.2014.888661",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2014,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2015",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -187,10 +191,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

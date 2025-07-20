@@ -1,124 +1,27 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687927b",
+    "_id": "687ccbab09adbf7aa61b9e9c",
     "grid_id": "grid.415593.f",
     "institute_name": "Shaare Zedek Medical Center",
     "country": "Israel",
     "retracted_record_ids": [
-      "20105",
       "12246",
-      "35648"
+      "35648",
+      "20105"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a2fa",
-      "Record ID": "20105",
-      "Title": "The Devil Is in the Details",
-      "Subject": [
-        "(HSC) Medicine - Geriatric",
-        "(HSC) Medicine - Immunology"
-      ],
-      "Institution": [
-        "Infectious Diseases Unit, Shaare Zedek Medical Center, Hebrew University\u2013Hadassah School of Medicine, Jerusalem",
-        "Adult Nephrology Unit, Shaare Zedek Medical Center, Hebrew University\u2013Hadassah School of Medicine, Jerusalem",
-        "Department of Hematology, Shaare Zedek Medical Center, Hebrew University\u2013Hadassah School of Medicine, Jerusalem",
-        "Department of Clinical Microbiology and Infectious Diseases, Hadassah\u2013Hebrew University Medical Center, Jerusalem"
-      ],
-      "Journal": "NEJM: The New England Journal of Medicine",
-      "Publisher": "Massachusetts Medical Society",
-      "Country": [
-        "Israel"
-      ],
-      "Author": [
-        "Eli ben-Chetrit",
-        "Linda Shavit",
-        "Ariella Tvito",
-        "Maya Korem",
-        "Alon Bnaya"
-      ],
-      "URLS": "http://retractionwatch.com/2019/03/02/weekend-reads-the-fake-sex-doctor-and-his-bizarre-research-prof-alleged-to-have-stolen-students-work-worst-scientific-scandal-of-all-time/",
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "2/28/2019 0:00",
-      "RetractionDOI": "10.1056/NEJMx190011",
-      "RetractionPubMedID": "30817865.0",
-      "OriginalPaperDate": "2/7/2019 0:00",
-      "OriginalPaperDOI": "10.1056/NEJMcps1808400",
-      "OriginalPaperPubMedID": "30726690.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c186",
-      "Record ID": "12246",
-      "Title": "Functional aberrant expression of CCR2 receptor on chronically activated NK cells in patients with TAP-2 deficiency",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Immunology"
-      ],
-      "Institution": [
-        "Lautenberg Center for General and Tumor Immunology, Hebrew University\u2013Hadassah Medical School, Jerusalem, Israel",
-        "Pulmonary Unit, Schneider Children\u2019s Medical Center of Israel, Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel",
-        "Department of Pediatrics, Assaf Harofe Hospital, Zrifin, Israel",
-        "Department of Pediatrics, Rambam Medical Center, B. Rappaport School of Medicine, Technion, Haifa, Israel",
-        "Department of Cardiothoracic Surgery, Shaare Zedek Medical Center, Jerusalem, Israel"
-      ],
-      "Journal": "Blood",
-      "Publisher": "American Society of Hematology",
-      "Country": [
-        "Israel"
-      ],
-      "Author": [
-        "Jacob Hanna",
-        "Huda Mussaffi",
-        "Guy Steuer",
-        "Suhair Hanna",
-        "Maher Deeb",
-        "Hannah Blau",
-        "Tal I Arnon",
-        "Noam Weizman",
-        "Ofer Mandelboim"
-      ],
-      "URLS": "http://retractionwatch.com/2015/07/23/cell-biologist-hanna-issues-two-errata-images-mysteriously-disappear-from-imgur/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/16/2015 0:00",
-      "RetractionDOI": "10.1182/blood-2015-02-631515",
-      "OriginalPaperDate": "7/21/2005 0:00",
-      "OriginalPaperDOI": "10.1182/blood-2005-03-0855",
-      "OriginalPaperPubMedID": "16037391.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Data",
-        "+Error in Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2005,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346675",
-      "Record ID": "35648",
-      "Title": "Infliximab in steroid-refractory pediatric ulcerative colitis: Predictors of response in a prospective multicenter study",
-      "Subject": [
+      "_id": "687cefc21f662220d898ba5b",
+      "recordId": "35648",
+      "title": "Infliximab in steroid-refractory pediatric ulcerative colitis: Predictors of response in a prospective multicenter study",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - General",
         "(HSC) Medicine - Internal",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "SZMC, Jerusalem, Israel",
         "CHEO, Ottawa, ON, Canada",
         "Alberta, Edmonton, AB, Canada",
@@ -130,14 +33,14 @@
         "Brown, Providnce, RI, United States",
         "HSC, Toronto, ON, Canada"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Canada",
         "Israel",
         "United States"
       ],
-      "Author": [
+      "author": [
         "D Turner",
         "D Mack",
         "E Wine",
@@ -149,82 +52,182 @@
         "N Leleiko",
         "A Griffiths"
       ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f6e0",
+      "recordId": "20105",
+      "title": "The Devil Is in the Details",
+      "subject": [
+        "(HSC) Medicine - Geriatric",
+        "(HSC) Medicine - Immunology"
+      ],
+      "institution": [
+        "Infectious Diseases Unit, Shaare Zedek Medical Center, Hebrew University\u2013Hadassah School of Medicine, Jerusalem",
+        "Adult Nephrology Unit, Shaare Zedek Medical Center, Hebrew University\u2013Hadassah School of Medicine, Jerusalem",
+        "Department of Hematology, Shaare Zedek Medical Center, Hebrew University\u2013Hadassah School of Medicine, Jerusalem",
+        "Department of Clinical Microbiology and Infectious Diseases, Hadassah\u2013Hebrew University Medical Center, Jerusalem"
+      ],
+      "journal": "NEJM: The New England Journal of Medicine",
+      "publisher": "Massachusetts Medical Society",
+      "country": [
+        "Israel"
+      ],
+      "author": [
+        "Eli ben-Chetrit",
+        "Linda Shavit",
+        "Ariella Tvito",
+        "Maya Korem",
+        "Alon Bnaya"
+      ],
+      "urls": "http://retractionwatch.com/2019/03/02/weekend-reads-the-fake-sex-doctor-and-his-bizarre-research-prof-alleged-to-have-stolen-students-work-worst-scientific-scandal-of-all-time/",
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "2/28/2019 0:00",
+      "retractiondoi": "10.1056/NEJMx190011",
+      "retractionpubmedid": "30817865.0",
+      "originalpaperdate": "2/7/2019 0:00",
+      "originalpaperdoi": "10.1056/NEJMcps1808400",
+      "originalpaperpubmedid": "30726690.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0ae1f662220d899156c",
+      "recordId": "12246",
+      "title": "Functional aberrant expression of CCR2 receptor on chronically activated NK cells in patients with TAP-2 deficiency",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Immunology"
+      ],
+      "institution": [
+        "Lautenberg Center for General and Tumor Immunology, Hebrew University\u2013Hadassah Medical School, Jerusalem, Israel",
+        "Pulmonary Unit, Schneider Children\u2019s Medical Center of Israel, Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel",
+        "Department of Pediatrics, Assaf Harofe Hospital, Zrifin, Israel",
+        "Department of Pediatrics, Rambam Medical Center, B. Rappaport School of Medicine, Technion, Haifa, Israel",
+        "Department of Cardiothoracic Surgery, Shaare Zedek Medical Center, Jerusalem, Israel"
+      ],
+      "journal": "Blood",
+      "publisher": "American Society of Hematology",
+      "country": [
+        "Israel"
+      ],
+      "author": [
+        "Jacob Hanna",
+        "Huda Mussaffi",
+        "Guy Steuer",
+        "Suhair Hanna",
+        "Maher Deeb",
+        "Hannah Blau",
+        "Tal I Arnon",
+        "Noam Weizman",
+        "Ofer Mandelboim"
+      ],
+      "urls": "http://retractionwatch.com/2015/07/23/cell-biologist-hanna-issues-two-errata-images-mysteriously-disappear-from-imgur/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/16/2015 0:00",
+      "retractiondoi": "10.1182/blood-2015-02-631515",
+      "originalpaperdate": "7/21/2005 0:00",
+      "originalpaperdoi": "10.1182/blood-2005-03-0855",
+      "originalpaperpubmedid": "16037391.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Data",
+        "+Error in Image"
+      ],
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

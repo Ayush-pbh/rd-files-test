@@ -1,29 +1,127 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879218",
+    "_id": "687ccbab09adbf7aa61b9e39",
     "grid_id": "grid.439369.2",
     "institute_name": "Chelsea and Westminster Hospital",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "31468",
       "16684",
-      "35421",
+      "31468",
       "787",
       "36172",
-      "35165",
-      "35394"
+      "35394",
+      "35421",
+      "35165"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23476be",
-      "Record ID": "31468",
-      "Title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
-      "Subject": [
+      "_id": "687cefc01f662220d898b84f",
+      "recordId": "36172",
+      "title": "Disease phenotype, surgery and medical therapy in monozygotic British twins with inflammatory bowel disease",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Chelsea and Westminster Hospital, London, United Kingdom",
+        "Basildon Hospital, Essex, United Kingdom"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "S C Ng",
+        "S Woodrow",
+        "N Patel",
+        "J Subhani",
+        "M Harbord"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb3e",
+      "recordId": "35421",
+      "title": "Environmental risk factors for inflammatory bowel disease in a British co-twin control study",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General"
+      ],
+      "institution": [
+        "Chelsea and Westminster Hospital, London, United Kingdom",
+        "Basildon Hospital, Essex, United Kingdom"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "S C Ng",
+        "N Patel",
+        "S Woodrow",
+        "J Subhani",
+        "M Harbord"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb59",
+      "recordId": "35394",
+      "title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, L7 3NY, UK",
         "Department of Infectious Diseases, University Hospital of Wales, Cardiff and Vale University Health Board, UK",
         "Department of Intensive Care, University College London Hospital, ULCH NHS Trust, London, UK",
@@ -31,12 +129,12 @@
         "Faculty of Medicine, Imperial College London, UK",
         "Oxford University Clinical Academic Graduate School, University of Oxford, UK"
       ],
-      "Journal": "Open Forum Infectious Diseases",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Open Forum Infectious Diseases",
+      "publisher": "Oxford Academic",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Andrew Hill",
         "Anna Garratt",
         "Jacob Levi",
@@ -48,233 +146,39 @@
         "Junzheng Wang",
         "Hannah Wentzel"
       ],
-      "URLS": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Meta-Analysis"
       ],
-      "RetractionDate": "8/9/2021 0:00",
-      "RetractionDOI": "10.1093/ofid/ofab394",
-      "RetractionPubMedID": "34410284.0",
-      "OriginalPaperDate": "7/6/2021 0:00",
-      "OriginalPaperDOI": "10.1093/ofid/ofab358",
-      "OriginalPaperPubMedID": "34796244.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "2/5/2022 0:00",
+      "retractiondoi": "10.1093/ofid/ofac056",
+      "retractionpubmedid": "35146053.0",
+      "originalpaperdate": "7/6/2021 0:00",
+      "originalpaperdoi": "10.1093/ofid/ofab358",
+      "originalpaperpubmedid": "34796244.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Cites Retracted Work",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234b03e",
-      "Record ID": "16684",
-      "Title": "Activation of Capsaicin-sensitive Primary Sensory Neurones Induces Anandamide Production and Release",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Anaesthetics and Intensive Care, Imperial College, Faculty of Medicine, Chelsea and Westminster Hospital, London, UK",
-        "Novartis Institute of Medical Sciences, London, UK",
-        "The Drug Discovery Center, Novartis Pharma AG, Basel, Switzerland"
-      ],
-      "Journal": "Journal of Neurochemistry (JNC)",
-      "Publisher": "Wiley",
-      "Country": [
-        "Switzerland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Jatinder Ahluwalia",
-        "Mohammed Yaqoob",
-        "Laszlo Urban",
-        "Stuart Bevan",
-        "Istvan Nagy"
-      ],
-      "URLS": "http://retractionwatch.com/2011/08/24/another-retraction-for-jatinder-ahluwalia-in-journal-of-neurochemistry/;http://retractionwatch.com/2011/08/26/imperial-committee-to-weigh-validity-of-ahluwalias-phd-following-second-retraction/;http://retractionwatch.com/category/by-author/jatinder-ahluwalia/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "6/2/2010 0:00",
-      "RetractionDOI": "10.1111/j.1471-4159.2010.06787.x",
-      "RetractionPubMedID": "12558978.0",
-      "OriginalPaperDate": "2/1/2003 0:00",
-      "OriginalPaperDOI": "10.1046/j.1471-4159.2003.01550.x",
-      "OriginalPaperPubMedID": "12558978.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "Notes": "Jatinder Ahluwalia has misconduct finding: http://www.ucl.ac.uk/srs/governance-and-committees/resgov/UCL-Statement-26-November-2010.pdf",
-      "notice_year": 2010,
-      "year": 2003,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346758",
-      "Record ID": "35421",
-      "Title": "Environmental risk factors for inflammatory bowel disease in a British co-twin control study",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General"
-      ],
-      "Institution": [
-        "Chelsea and Westminster Hospital, London, United Kingdom",
-        "Basildon Hospital, Essex, United Kingdom"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "S C Ng",
-        "N Patel",
-        "S Woodrow",
-        "J Subhani",
-        "M Harbord"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
         "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
+        "+Retract and Replace",
+        "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see https://academic.oup.com/ofid/article/9/2/ofab645/6509922;",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ed9b",
-      "Record ID": "787",
-      "Title": "Activation of Capsaicin-sensitive Primary Sensory Neurones Induces Anandamide Production and Release",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - General",
-        "(BLS) Biology - Molecular",
-        "(BLS) Neuroscience",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Anaesthetics and Intensive Care, Imperial College, Faculty of Medicine, Chelsea and Westminster Hospital, London, UK",
-        "Novartis Institute of Medical Sciences, London, UK",
-        "The Drug Discovery Center, Novartis Pharma AG, Basel, Switzerland"
-      ],
-      "Journal": "Journal of Neurochemistry (JNC)",
-      "Publisher": "Wiley",
-      "Country": [
-        "Switzerland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Jatinder Ahluwalia",
-        "Mohammed Yaqoob",
-        "Laszlo Urban",
-        "Stuart Bevan",
-        "Istvan Nagy"
-      ],
-      "URLS": "http://retractionwatch.com/2011/08/24/another-retraction-for-jatinder-ahluwalia-in-journal-of-neurochemistry/;http://retractionwatch.com/2011/08/26/imperial-committee-to-weigh-validity-of-ahluwalias-phd-following-second-retraction/;http://retractionwatch.com/category/by-author/jatinder-ahluwalia/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/21/2011 0:00",
-      "RetractionDOI": "10.1111/j.1471-4159.2011.07482.x",
-      "RetractionPubMedID": "22125797.0",
-      "OriginalPaperDate": "2/1/2003 0:00",
-      "OriginalPaperDOI": "10.1046/j.1471-4159.2003.01550.x",
-      "OriginalPaperPubMedID": "12558978.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Jatinder Ahluwalia has misconduct finding: http://www.ucl.ac.uk/srs/governance-and-committees/resgov/UCL-Statement-26-November-2010.pdf",
-      "notice_year": 2011,
-      "year": 2003,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2346469",
-      "Record ID": "36172",
-      "Title": "Disease phenotype, surgery and medical therapy in monozygotic British twins with inflammatory bowel disease",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "Chelsea and Westminster Hospital, London, United Kingdom",
-        "Basildon Hospital, Essex, United Kingdom"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "S C Ng",
-        "S Woodrow",
-        "N Patel",
-        "J Subhani",
-        "M Harbord"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346858",
-      "Record ID": "35165",
-      "Title": "Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 1: Definitions, Diagnosis, Extra-intestinal Manifestations, Pregnancy, Cancer Surveillance, Surgery, and Ileo-anal Pouch Disorders",
-      "Subject": [
+      "_id": "687cefc41f662220d898bc3e",
+      "recordId": "35165",
+      "title": "Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 1: Definitions, Diagnosis, Extra-intestinal Manifestations, Pregnancy, Cancer Surveillance, Surgery, and Ileo-anal Pouch Disorders",
+      "subject": [
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Internal"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pharmacology and Therapeutics, University of Porto",
         "MedInUP, Centre for Drug Discovery and Innovative Medicines",
         "Centro Hospitalar Sao Joao, Porto, Portugal",
@@ -298,9 +202,9 @@
         "Department of Pathobiology NC22, Lerner Research Institute",
         "Department of Gastroenterology, Hepatology and Nutrition/A3, Digestive Disease and Surgery Institute, Cleveland Clinic Foundation, Cleveland, OH, USA"
       ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
         "Austria",
         "Belgium",
         "Denmark",
@@ -313,7 +217,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Fernando Magro",
         "Paolo Gionchetti",
         "Rami Eliakim",
@@ -332,38 +236,39 @@
         "Marcus Harbord",
         "Florian Rieder"
       ],
-      "URLS": "https://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
         "Guideline"
       ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/2/2017 0:00",
-      "OriginalPaperDOI": "10.1093/ecco-jcc/jjx008",
-      "OriginalPaperPubMedID": "28158501.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/2/2017 0:00",
+      "originalpaperdoi": "10.1093/ecco-jcc/jjx008",
+      "originalpaperpubmedid": "28158501.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Civil Proceedings",
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Legal Reasons and/or Threats"
       ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346773",
-      "Record ID": "35394",
-      "Title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
-      "Subject": [
+      "_id": "687cefd41f662220d898caa4",
+      "recordId": "31468",
+      "title": "Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, L7 3NY, UK",
         "Department of Infectious Diseases, University Hospital of Wales, Cardiff and Vale University Health Board, UK",
         "Department of Intensive Care, University College London Hospital, ULCH NHS Trust, London, UK",
@@ -371,12 +276,12 @@
         "Faculty of Medicine, Imperial College London, UK",
         "Oxford University Clinical Academic Graduate School, University of Oxford, UK"
       ],
-      "Journal": "Open Forum Infectious Diseases",
-      "Publisher": "Oxford Academic",
-      "Country": [
+      "journal": "Open Forum Infectious Diseases",
+      "publisher": "Oxford Academic",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Andrew Hill",
         "Anna Garratt",
         "Jacob Levi",
@@ -388,93 +293,195 @@
         "Junzheng Wang",
         "Hannah Wentzel"
       ],
-      "URLS": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2021/08/10/ivermectin-meta-analysis-to-be-retracted-revised-say-authors/;http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Meta-Analysis"
       ],
-      "RetractionDate": "2/5/2022 0:00",
-      "RetractionDOI": "10.1093/ofid/ofac056",
-      "RetractionPubMedID": "35146053.0",
-      "OriginalPaperDate": "7/6/2021 0:00",
-      "OriginalPaperDOI": "10.1093/ofid/ofab358",
-      "OriginalPaperPubMedID": "34796244.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/9/2021 0:00",
+      "retractiondoi": "10.1093/ofid/ofab394",
+      "retractionpubmedid": "34410284.0",
+      "originalpaperdate": "7/6/2021 0:00",
+      "originalpaperdoi": "10.1093/ofid/ofab358",
+      "originalpaperpubmedid": "34796244.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
         "+Cites Retracted Work",
-        "+Concerns/Issues About Data",
-        "+Retract and Replace",
-        "+Upgrade/Update of Prior Notice(s)"
+        "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "Notes": "see https://academic.oup.com/ofid/article/9/2/ofab645/6509922;",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2021",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0971f662220d8990424",
+      "recordId": "16684",
+      "title": "Activation of Capsaicin-sensitive Primary Sensory Neurones Induces Anandamide Production and Release",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Anaesthetics and Intensive Care, Imperial College, Faculty of Medicine, Chelsea and Westminster Hospital, London, UK",
+        "Novartis Institute of Medical Sciences, London, UK",
+        "The Drug Discovery Center, Novartis Pharma AG, Basel, Switzerland"
+      ],
+      "journal": "Journal of Neurochemistry (JNC)",
+      "publisher": "Wiley",
+      "country": [
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Jatinder Ahluwalia",
+        "Mohammed Yaqoob",
+        "Laszlo Urban",
+        "Stuart Bevan",
+        "Istvan Nagy"
+      ],
+      "urls": "http://retractionwatch.com/2011/08/24/another-retraction-for-jatinder-ahluwalia-in-journal-of-neurochemistry/;http://retractionwatch.com/2011/08/26/imperial-committee-to-weigh-validity-of-ahluwalias-phd-following-second-retraction/;http://retractionwatch.com/category/by-author/jatinder-ahluwalia/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/2/2010 0:00",
+      "retractiondoi": "10.1111/j.1471-4159.2010.06787.x",
+      "retractionpubmedid": "12558978.0",
+      "originalpaperdate": "2/1/2003 0:00",
+      "originalpaperdoi": "10.1046/j.1471-4159.2003.01550.x",
+      "originalpaperpubmedid": "12558978.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "notes": "Jatinder Ahluwalia has misconduct finding: http://www.ucl.ac.uk/srs/governance-and-committees/resgov/UCL-Statement-26-November-2010.pdf",
+      "year": "2003",
+      "noticeYear": "2010",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d51f662220d8994181",
+      "recordId": "787",
+      "title": "Activation of Capsaicin-sensitive Primary Sensory Neurones Induces Anandamide Production and Release",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - General",
+        "(BLS) Biology - Molecular",
+        "(BLS) Neuroscience",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Anaesthetics and Intensive Care, Imperial College, Faculty of Medicine, Chelsea and Westminster Hospital, London, UK",
+        "Novartis Institute of Medical Sciences, London, UK",
+        "The Drug Discovery Center, Novartis Pharma AG, Basel, Switzerland"
+      ],
+      "journal": "Journal of Neurochemistry (JNC)",
+      "publisher": "Wiley",
+      "country": [
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Jatinder Ahluwalia",
+        "Mohammed Yaqoob",
+        "Laszlo Urban",
+        "Stuart Bevan",
+        "Istvan Nagy"
+      ],
+      "urls": "http://retractionwatch.com/2011/08/24/another-retraction-for-jatinder-ahluwalia-in-journal-of-neurochemistry/;http://retractionwatch.com/2011/08/26/imperial-committee-to-weigh-validity-of-ahluwalias-phd-following-second-retraction/;http://retractionwatch.com/category/by-author/jatinder-ahluwalia/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/21/2011 0:00",
+      "retractiondoi": "10.1111/j.1471-4159.2011.07482.x",
+      "retractionpubmedid": "22125797.0",
+      "originalpaperdate": "2/1/2003 0:00",
+      "originalpaperdoi": "10.1046/j.1471-4159.2003.01550.x",
+      "originalpaperpubmedid": "12558978.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
+      ],
+      "paywalled": "No",
+      "notes": "Jatinder Ahluwalia has misconduct finding: http://www.ucl.ac.uk/srs/governance-and-committees/resgov/UCL-Statement-26-November-2010.pdf",
+      "year": "2003",
+      "noticeYear": "2011",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 2,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

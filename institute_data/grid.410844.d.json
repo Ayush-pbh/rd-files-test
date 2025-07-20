@@ -1,41 +1,131 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879861",
+    "_id": "687ccbab09adbf7aa61ba482",
     "grid_id": "grid.410844.d",
     "institute_name": "Daiichi-Sankyo (Japan)",
     "country": "Japan",
     "retracted_record_ids": [
+      "3372",
       "17860",
-      "23826",
       "22794",
-      "3372"
+      "23826"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234abb5",
-      "Record ID": "17860",
-      "Title": "Tumor B7-H3 (CD276) expression and smoking history in relation to lung adenocarcinoma prognosis",
-      "Subject": [
+      "_id": "687cf00e1f662220d898e86a",
+      "recordId": "23826",
+      "title": "Hepatic Branch Vagus Nerve Plays a Critical Role in the Recovery of Post-Ischemic Glucose Intolerance and Mediates a Neuroprotective Effect by Hypothalamic Orexin-A",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Neuroscience"
+      ],
+      "institution": [
+        "Department of Clinical Pharmacy, School of Pharmaceutical Sciences, Kobe Gakuin University, Kobe, Japan",
+        "Asubio Pharma Co., Ltd., Kobe, Japan"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "Japan"
+      ],
+      "author": [
+        "Shinichi Harada",
+        "Yui Yamazaki",
+        "Shuichi Koda",
+        "Shogo Tokuyama"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/22/2020 0:00",
+      "retractiondoi": "10.1371/journal.pone.0236818",
+      "retractionpubmedid": "32697787.0",
+      "originalpaperdate": "4/23/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0095433",
+      "originalpaperpubmedid": "24759941.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0151f662220d898ec6c",
+      "recordId": "22794",
+      "title": "Noninvasive Evaluation of GPR119 Agonist Effects on \u00df-Cell Mass in Diabetic Male Mice Using 111In-Exendin-4 SPECT/CT",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics",
+        "(HSC) Medicine - Diabetes"
+      ],
+      "institution": [
+        "Department of Diabetes, Endocrinology, and Nutrition, Graduate School of Medicine, Kyoto University, Kyoto, Japan",
+        "Radioisotope Research Center, Agency of Health, Safety, and Environment, Kyoto University, Kyoto, Japan",
+        "End-Organ Disease Laboratories, Daiichi Sankyo Co., Ltd., Tokyo, Japan"
+      ],
+      "journal": "Endocrinology",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Japan"
+      ],
+      "author": [
+        "Takaaki Muakami",
+        "Hiroyuki Fujimoto",
+        "Naotaka Fujita",
+        "Keita Hamamatsu",
+        "Koji Matsumoto",
+        "Nobuya Inagaki"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/14/2020 0:00",
+      "retractiondoi": "10.1210/endocr/bqz003",
+      "retractionpubmedid": "32639011.0",
+      "originalpaperdate": "10/15/2019 0:00",
+      "originalpaperdoi": "10.1210/en.2019-00556",
+      "originalpaperpubmedid": "31613319.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0931f662220d898ff9b",
+      "recordId": "17860",
+      "title": "Tumor B7-H3 (CD276) expression and smoking history in relation to lung adenocarcinoma prognosis",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "Division of Pathology, The Cancer Institute",
         "Department of Pathology, The Cancer Institute Hospital, Japanese Foundation for Cancer Research, 3-8-31 Ariake, Koto-ku, Tokyo 135-8550, Japan",
         "Translational Medicine & Clinical Pharmacology Department, Daiichi Sankyo Co., Ltd., 1-2-58, Hiromachi, Shinagawa-ku, Tokyo 140-0005, Japan",
         "Department of Integrated Pulmonology, Tokyo Medical and Dental University, 1-5-45, Yushima, Bunkyo-ku, Tokyo 113-8519, Japan",
         "Thoracic Oncology Center, The Cancer Institute Hospital, Japanese Foundation for Cancer Research, 3-8-31 Ariake, Koto-ku, Tokyo 135-8550, Japan"
       ],
-      "Journal": "Journal of Controlled Release: Official Journal of the Controlled Release Society",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Controlled Release: Official Journal of the Controlled Release Society",
+      "publisher": "Elsevier",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Kentaro Inamura",
         "Yusuke Yokouchi",
         "Maki Kobayashi",
@@ -48,132 +138,46 @@
         "Tomoko Shibutani",
         "Yuichi Ishikawa"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/10/2016 0:00",
-      "RetractionDOI": "10.1016/j.lungcan.2016.09.016",
-      "RetractionPubMedID": "27721121.0",
-      "OriginalPaperDate": "10/1/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.lungcan.2016.09.016",
-      "OriginalPaperPubMedID": "27721121.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/10/2016 0:00",
+      "retractiondoi": "10.1016/j.lungcan.2016.09.016",
+      "retractionpubmedid": "27721121.0",
+      "originalpaperdate": "10/1/2016 0:00",
+      "originalpaperdoi": "10.1016/j.lungcan.2016.09.016",
+      "originalpaperpubmedid": "27721121.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Content through Error by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "Notes": "exact date of retraction unknown",
-      "notice_year": 2016,
-      "year": 2016,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "exact date of retraction unknown",
+      "year": "2016",
+      "noticeYear": "2016",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349484",
-      "Record ID": "23826",
-      "Title": "Hepatic Branch Vagus Nerve Plays a Critical Role in the Recovery of Post-Ischemic Glucose Intolerance and Mediates a Neuroprotective Effect by Hypothalamic Orexin-A",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Neuroscience"
-      ],
-      "Institution": [
-        "Department of Clinical Pharmacy, School of Pharmaceutical Sciences, Kobe Gakuin University, Kobe, Japan",
-        "Asubio Pharma Co., Ltd., Kobe, Japan"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "Japan"
-      ],
-      "Author": [
-        "Shinichi Harada",
-        "Yui Yamazaki",
-        "Shuichi Koda",
-        "Shogo Tokuyama"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/22/2020 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0236818",
-      "RetractionPubMedID": "32697787.0",
-      "OriginalPaperDate": "4/23/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0095433",
-      "OriginalPaperPubMedID": "24759941.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349886",
-      "Record ID": "22794",
-      "Title": "Noninvasive Evaluation of GPR119 Agonist Effects on \u00df-Cell Mass in Diabetic Male Mice Using 111In-Exendin-4 SPECT/CT",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics",
-        "(HSC) Medicine - Diabetes"
-      ],
-      "Institution": [
-        "Department of Diabetes, Endocrinology, and Nutrition, Graduate School of Medicine, Kyoto University, Kyoto, Japan",
-        "Radioisotope Research Center, Agency of Health, Safety, and Environment, Kyoto University, Kyoto, Japan",
-        "End-Organ Disease Laboratories, Daiichi Sankyo Co., Ltd., Tokyo, Japan"
-      ],
-      "Journal": "Endocrinology",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Japan"
-      ],
-      "Author": [
-        "Takaaki Muakami",
-        "Hiroyuki Fujimoto",
-        "Naotaka Fujita",
-        "Keita Hamamatsu",
-        "Koji Matsumoto",
-        "Nobuya Inagaki"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/14/2020 0:00",
-      "RetractionDOI": "10.1210/endocr/bqz003",
-      "RetractionPubMedID": "32639011.0",
-      "OriginalPaperDate": "10/15/2019 0:00",
-      "OriginalPaperDOI": "10.1210/en.2019-00556",
-      "OriginalPaperPubMedID": "31613319.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019
-    },
-    {
-      "_id": "6855d574b14f7811d234e3c6",
-      "Record ID": "3372",
-      "Title": "SADS: A new component of Fas-DISC is the accelerator for cell death signaling and is downregulated in patients with colon carcinoma",
-      "Subject": [
+      "_id": "687cf0cb1f662220d89937ac",
+      "recordId": "3372",
+      "title": "SADS: A new component of Fas-DISC is the accelerator for cell death signaling and is downregulated in patients with colon carcinoma",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Project for the Cell Death Research, Basic Technology Research Laboratory, Daiichi Pharmaceutical Co., Ltd., Tokyo R&D Center, Edogawa-ku, Tokyo",
         "Biochemical Laboratory, Research & Development Group, Kishida Chemical Co., Ltd., Sanda Factory, Sanda",
         "The First Department of Internal Medicine, Mie University School of Medicine, Tsu, Mie"
       ],
-      "Journal": "Nature Medicine",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Nature Medicine",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Atsushi Suzuki",
         "Shigehiro Obata",
         "Midori Hayashida",
@@ -181,67 +185,68 @@
         "Takeshi Nakano",
         "Katsuya Shiraki"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "6/1/2001 0:00",
-      "RetractionDOI": "10.1038/89136",
-      "RetractionPubMedID": "11385516.0",
-      "OriginalPaperDate": "1/1/2001 0:00",
-      "OriginalPaperDOI": "10.1038/83401",
-      "OriginalPaperPubMedID": "11135621.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/1/2001 0:00",
+      "retractiondoi": "10.1038/89136",
+      "retractionpubmedid": "11385516.0",
+      "originalpaperdate": "1/1/2001 0:00",
+      "originalpaperdoi": "10.1038/83401",
+      "originalpaperpubmedid": "11135621.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Investigation by Company/Institution",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2001,
-      "year": 2001,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2001",
+      "noticeYear": "2001",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2001,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -249,10 +254,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

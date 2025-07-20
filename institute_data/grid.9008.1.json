@@ -1,77 +1,502 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879224",
+    "_id": "687ccbab09adbf7aa61b9e45",
     "grid_id": "grid.9008.1",
     "institute_name": "University of Szeged",
     "country": "Hungary",
     "retracted_record_ids": [
-      "4517",
+      "2968",
+      "28643",
       "3225",
       "35748",
-      "35164",
-      "28643",
-      "2968",
-      "35663",
+      "4517",
+      "35431",
       "35713",
-      "36095",
-      "35431"
+      "35663",
+      "35164",
+      "36095"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234df5e",
-      "Record ID": "4517",
-      "Title": "Minimally Invasive Peroral Endoscopic Removal of a Regurgitated Giant Polysegmented Fibrovascular Polyp of the Esophagus",
-      "Subject": [
+      "_id": "687cefc01f662220d898b89c",
+      "recordId": "36095",
+      "title": "NKX2 3 rs10883365 is associated with disease susceptibility to IBD while IRGM rs13361189 is associated to Crohn\u2019s disease in Eastern European patients",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Hungarian National Blood Transfusion Service, Budapest, Hungary",
+        "Semmelweis University, Budapest, Hungary",
+        "Charles University, Prague, Czech Republic",
+        "Csolnoky F. County Hospital, Veszprem, Hungary",
+        "University of Szeged, Szeged, Hungary",
+        "University of Debrecen, Debrecen, Hungary"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Czech Republic",
+        "Hungary"
+      ],
+      "author": [
+        "N Meggyesi",
+        "L S Kiss",
+        "M Koszarska",
+        "M Bortlik",
+        "D Duricova",
+        "L Lakatos",
+        "T Molnar",
+        "M Lenicek",
+        "L Vitek",
+        "I Altorjay",
+        "M Papp",
+        "P Miheller",
+        "A Tordai",
+        "H Andrikovics",
+        "M Lukas",
+        "Hungarian IBD Study Group",
+        "P L Lakatos"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898b9f7",
+      "recordId": "35748",
+      "title": "Medium term efficacy and safety of adalimumab therapy in patients with Crohn\u2019s disease. National data from Hungary",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "State Health Centre, Budapest, Hungary",
+        "Semmelweis University, Budapest, Hungary",
+        "University of Szeged, Szeged, Hungary",
+        "Csolnoky F. County Hospital, Veszprem, Hungary",
+        "University of Pecs, Pecs, Hungary",
+        "University of Debrecen, Debrecen, Hungary",
+        "County Hospital of Zala, Zalaegerszeg, Hungary",
+        "Szekszard County Hospital, Szekszard, Hungary",
+        "Miskolc County Hospital, Miskolc, Hungary"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Hungary"
+      ],
+      "author": [
+        "Z Czegledi",
+        "P Miheller",
+        "T Molnar",
+        "L Lakatos",
+        "A Vincze",
+        "K Palatka",
+        "B Gasztonyi",
+        "A Salamon",
+        "G Horvath",
+        "K Farkas",
+        "T Szamosi",
+        "J Banai",
+        "Z Tulassay",
+        "M Papp",
+        "I Altorjay",
+        "M Szenes",
+        "J Czimmer",
+        "L S Kiss",
+        "F Nagy",
+        "J Papp",
+        "P L Lakatos"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898ba1a",
+      "recordId": "35713",
+      "title": "Ask the doctor about inflammatory bowel disease on the Internet: Experiences after more than one thousand questions",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "University of Szeged, Szeged, Hungary"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Hungary"
+      ],
+      "author": [
+        "T Molnar",
+        "K Farkas",
+        "Z Szepes",
+        "F Nagy",
+        "T Wittmann"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc21f662220d898ba4c",
+      "recordId": "35663",
+      "title": "Endoscopic outcome of medium term adalimumab therapy in patients with Crohn\u2019s disease. National data from Hungary",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - General",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "State Health Centre, Budapest, Hungary",
+        "Semmelweis University, Budapest, Hungary",
+        "University of Szeged, Szeged, Hungary",
+        "Csolnoky F. County Hospital, Veszprem, Hungary",
+        "University of Debrecen, Debrecen, Hungary"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Hungary"
+      ],
+      "author": [
+        "Z Czegledi",
+        "P Miheller",
+        "T Molnar",
+        "L Lakatos",
+        "K Palatka",
+        "K Farkas",
+        "T Szamosi",
+        "J Banai",
+        "Z Tulassay",
+        "M Papp",
+        "I Altorjay",
+        "L S Kiss",
+        "F Nagy",
+        "J Papp",
+        "P L Lakatos"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1016/S1873-9946(10)00006-1",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bb34",
+      "recordId": "35431",
+      "title": "Pregnancy outcome in women with inflammatory bowel disease according to the activity of the disease and the drug treatment",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Internal",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "University Of Szeged, Szeged, Hungary",
+        "Semmelweis University, Budapest, Hungary"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Hungary"
+      ],
+      "author": [
+        "Z Szepes",
+        "T Molnar",
+        "K Farkas",
+        "F Nagy",
+        "P Lakatos",
+        "P Miheller",
+        "T Nyari",
+        "T Wittmann"
+      ],
+      "urls": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1016/S1873-9946(10)00006-1",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "2/1/2010 0:00",
+      "originalpaperdoi": "10.1093/ecco-jcc/jjab227",
+      "originalpaperpubmedid": "35073579.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2010",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefc41f662220d898bc3f",
+      "recordId": "35164",
+      "title": "Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 2: Current Management",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Internal"
+      ],
+      "institution": [
+        "Imperial College London, and Chelsea and Westminster Hospital, London, UK",
+        "Department of Gastroenterology and Hepatology, Chaim Sheba Medical Center, Tel Hashomer, Israel",
+        "Department of Medicine B, University Hospital M\u00fcnster,M\u00fcnster, Germany",
+        "Department of Gastroenterology, Venizeleio General Hospital, Heraklion, Crete, Greece",
+        "Department of Gastroenterology and Hepatology, University and Medical School of Ioannina, Ioannina, Greece",
+        "Department of Gastroenterology, Tel-Hashomer Sheba Medical Center, and Sackler School of Medicine, Tel Aviv University, Israel",
+        "Department of Internal Medicine and Gastroenterology, Hospital L\u00fcneburg, L\u00fcneburg, Germany",
+        "First Department of Medicine, University of Szeged, Szeged, Hungary",
+        "Department of Medicine, University of Cambridge, Cambridge, UK",
+        "IBD Unit, Hull & East Yorkshire NHS Trust, Hull, UK",
+        "Gastroenterology Department, Algarve Hospital Center",
+        "Biomedical Sciences & Medicine Department, University of Algarve, Faro, Portugal",
+        "Department of Medicine I, Agaplesion Markus Hospital, Frankfurt/Main, Germany",
+        "Department of Gastroenterology, CHU Bic\u00eatre, Universit\u00e9 Paris Sud, Paris, France"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "France",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Israel",
+        "Portugal",
+        "United Kingdom"
+      ],
+      "author": [
+        "Marcus Harbord",
+        "Rami Eliakim",
+        "Dominik Bettenworth",
+        "Konstantinos Karmiris",
+        "Konstantinos Katsanos",
+        "Uri Kopylov",
+        "Torsten Kucharzik",
+        "Tam\u00e1s Moln\u00e1r",
+        "Tim Raine",
+        "Shaji Sebastian",
+        "Helena Tavares de Sousa",
+        "Axel Dignass",
+        "Franck Carbonnel",
+        "European Crohn\u2019s and Colitis Organisation [ECCO]"
+      ],
+      "urls": "https://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
+      "articletype": [
+        "Guideline"
+      ],
+      "retractiondate": "1/24/2022 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjab227",
+      "retractionpubmedid": "35073579.0",
+      "originalpaperdate": "1/28/2017 0:00",
+      "originalpaperdoi": "10.1093/ecco-jcc/jjx009",
+      "originalpaperpubmedid": "28513805.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Civil Proceedings",
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Legal Reasons and/or Threats"
+      ],
+      "paywalled": "No",
+      "notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
+      "year": "2017",
+      "noticeYear": "2022",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefe71f662220d898d5a5",
+      "recordId": "28643",
+      "title": "Thermal lensing measurements of Ti: Sapphire crystal pumped at 80 MHz picosecond pulses by Shack-Hartmann wavefront sensor",
+      "subject": [
+        "(PHY) Chemistry",
+        "(PHY) Crystallography/Spectroscopy"
+      ],
+      "institution": [
+        "GoLP, Instituto de Plasmas e Fus\u00e3o Nuclear, Instituto Superior T\u00e9cnico, Universidade de Lisboa, Av. Rovisco Pais, 1049-001 Lisbon, Portugal",
+        "Group of Laser Development (GoLD), Department of Physics, COMSATS University Islamabad, Park Road, 44000, Islamabad, Pakistan",
+        "ELI-HU Non-Profit Ltd., Dugonics t\u00e9r 13, Szeged, Hungary",
+        "Department of Optics and Quantum Electronics, University of Szeged, P.O. Box 406, H-6701 Szeged, Hungary"
+      ],
+      "journal": "Optics & Laser Technology",
+      "publisher": "Elsevier",
+      "country": [
+        "Hungary",
+        "Pakistan",
+        "Portugal"
+      ],
+      "author": [
+        "Mukhtar Hussain",
+        "Tayyab Imran",
+        "Adam Borzsonyi"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/28/2019 0:00",
+      "retractiondoi": "10.1016/j.optlastec.2019.01.031",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/28/2018 0:00",
+      "originalpaperdoi": "10.1016/j.optlastec.2018.11.040",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error by Journal/Publisher",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d8993344",
+      "recordId": "4517",
+      "title": "Minimally Invasive Peroral Endoscopic Removal of a Regurgitated Giant Polysegmented Fibrovascular Polyp of the Esophagus",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Otorhinolaryngology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oto-Rhino-Laryngology and Head and Neck Surgery, University of Szeged, Szeged, Hungary",
         "Department of Surgery, University of Szeged, Szeged, Hungary"
       ],
-      "Journal": "Dysphagia",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Dysphagia",
+      "publisher": "Springer",
+      "country": [
         "Hungary"
       ],
-      "Author": [
+      "author": [
         "Laszlo Ivan",
         "Attila Torkos",
         "Robert Paczona",
         "Karoly Szentpali",
         "Jozsef Jori"
       ],
-      "ArticleType": [
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "3/10/2010 0:00",
-      "RetractionDOI": "10.1007/s00455-010-9277-1",
-      "RetractionPubMedID": "20217143.0",
-      "OriginalPaperDate": "8/8/2008 0:00",
-      "OriginalPaperDOI": "10.1007/s00455-008-9165-0",
-      "OriginalPaperPubMedID": "18688676.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/10/2010 0:00",
+      "retractiondoi": "10.1007/s00455-010-9277-1",
+      "retractionpubmedid": "20217143.0",
+      "originalpaperdate": "8/8/2008 0:00",
+      "originalpaperdoi": "10.1007/s00455-008-9165-0",
+      "originalpaperpubmedid": "18688676.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Copyright Claims"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2008,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2010",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e44f",
-      "Record ID": "3225",
-      "Title": "Consensus Guidelines for CSF and Blood Biobanking for CNS Biomarker Studies",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993835",
+      "recordId": "3225",
+      "title": "Consensus Guidelines for CSF and Blood Biobanking for CNS Biomarker Studies",
+      "subject": [
         "(BLS) Genetics",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical Chemistry, Neurological Laboratory and Biobank, VU University Medical Center, FdG, P.O. Box 7057, 1007 MB Amsterdam, The Netherlands",
         "Clinical Neuroimmunology Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, 20132 Milan, Italy",
         "Neurology, Erasmus MC, Rotterdam, The Netherlands",
@@ -102,9 +527,9 @@
         "Neurology, Glostrup Hospital, University of Copenhagen, Glostrup 2600, Denmark",
         "Department of Neurology, University of Wisconsin, Madison 53705, WI, USA"
       ],
-      "Journal": "Multiple Sclerosis International",
-      "Publisher": "Hindawi",
-      "Country": [
+      "journal": "Multiple Sclerosis International",
+      "publisher": "Hindawi",
+      "country": [
         "Austria",
         "Belgium",
         "Czech Republic",
@@ -121,7 +546,7 @@
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Charlotte E Teunissen",
         "Hayrettin Tumani",
         "Jeffrey L Bennett",
@@ -151,235 +576,46 @@
         "Gavin Giovannoni",
         "Bernhard Hemmer"
       ],
-      "ArticleType": [
+      "articletype": [
         "Guideline"
       ],
-      "RetractionDate": "7/25/2016 0:00",
-      "RetractionDOI": "10.1155/2016/8304273",
-      "RetractionPubMedID": "27529034.0",
-      "OriginalPaperDate": "7/18/2011 0:00",
-      "OriginalPaperDOI": "10.1155/2011/246412",
-      "OriginalPaperPubMedID": "22096631.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/25/2016 0:00",
+      "retractiondoi": "10.1155/2016/8304273",
+      "retractionpubmedid": "27529034.0",
+      "originalpaperdate": "7/18/2011 0:00",
+      "originalpaperdoi": "10.1155/2011/246412",
+      "originalpaperpubmedid": "22096631.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Lack of Approval from Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2011,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346611",
-      "Record ID": "35748",
-      "Title": "Medium term efficacy and safety of adalimumab therapy in patients with Crohn\u2019s disease. National data from Hungary",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "State Health Centre, Budapest, Hungary",
-        "Semmelweis University, Budapest, Hungary",
-        "University of Szeged, Szeged, Hungary",
-        "Csolnoky F. County Hospital, Veszprem, Hungary",
-        "University of Pecs, Pecs, Hungary",
-        "University of Debrecen, Debrecen, Hungary",
-        "County Hospital of Zala, Zalaegerszeg, Hungary",
-        "Szekszard County Hospital, Szekszard, Hungary",
-        "Miskolc County Hospital, Miskolc, Hungary"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Hungary"
-      ],
-      "Author": [
-        "Z Czegledi",
-        "P Miheller",
-        "T Molnar",
-        "L Lakatos",
-        "A Vincze",
-        "K Palatka",
-        "B Gasztonyi",
-        "A Salamon",
-        "G Horvath",
-        "K Farkas",
-        "T Szamosi",
-        "J Banai",
-        "Z Tulassay",
-        "M Papp",
-        "I Altorjay",
-        "M Szenes",
-        "J Czimmer",
-        "L S Kiss",
-        "F Nagy",
-        "J Papp",
-        "P L Lakatos"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346859",
-      "Record ID": "35164",
-      "Title": "Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 2: Current Management",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "Imperial College London, and Chelsea and Westminster Hospital, London, UK",
-        "Department of Gastroenterology and Hepatology, Chaim Sheba Medical Center, Tel Hashomer, Israel",
-        "Department of Medicine B, University Hospital M\u00fcnster,M\u00fcnster, Germany",
-        "Department of Gastroenterology, Venizeleio General Hospital, Heraklion, Crete, Greece",
-        "Department of Gastroenterology and Hepatology, University and Medical School of Ioannina, Ioannina, Greece",
-        "Department of Gastroenterology, Tel-Hashomer Sheba Medical Center, and Sackler School of Medicine, Tel Aviv University, Israel",
-        "Department of Internal Medicine and Gastroenterology, Hospital L\u00fcneburg, L\u00fcneburg, Germany",
-        "First Department of Medicine, University of Szeged, Szeged, Hungary",
-        "Department of Medicine, University of Cambridge, Cambridge, UK",
-        "IBD Unit, Hull & East Yorkshire NHS Trust, Hull, UK",
-        "Gastroenterology Department, Algarve Hospital Center",
-        "Biomedical Sciences & Medicine Department, University of Algarve, Faro, Portugal",
-        "Department of Medicine I, Agaplesion Markus Hospital, Frankfurt/Main, Germany",
-        "Department of Gastroenterology, CHU Bic\u00eatre, Universit\u00e9 Paris Sud, Paris, France"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "France",
-        "Germany",
-        "Greece",
-        "Hungary",
-        "Israel",
-        "Portugal",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Marcus Harbord",
-        "Rami Eliakim",
-        "Dominik Bettenworth",
-        "Konstantinos Karmiris",
-        "Konstantinos Katsanos",
-        "Uri Kopylov",
-        "Torsten Kucharzik",
-        "Tam\u00e1s Moln\u00e1r",
-        "Tim Raine",
-        "Shaji Sebastian",
-        "Helena Tavares de Sousa",
-        "Axel Dignass",
-        "Franck Carbonnel",
-        "European Crohn\u2019s and Colitis Organisation [ECCO]"
-      ],
-      "URLS": "https://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Guideline"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "1/28/2017 0:00",
-      "OriginalPaperDOI": "10.1093/ecco-jcc/jjx009",
-      "OriginalPaperPubMedID": "28513805.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23481bf",
-      "Record ID": "28643",
-      "Title": "Thermal lensing measurements of Ti: Sapphire crystal pumped at 80 MHz picosecond pulses by Shack-Hartmann wavefront sensor",
-      "Subject": [
-        "(PHY) Chemistry",
-        "(PHY) Crystallography/Spectroscopy"
-      ],
-      "Institution": [
-        "GoLP, Instituto de Plasmas e Fus\u00e3o Nuclear, Instituto Superior T\u00e9cnico, Universidade de Lisboa, Av. Rovisco Pais, 1049-001 Lisbon, Portugal",
-        "Group of Laser Development (GoLD), Department of Physics, COMSATS University Islamabad, Park Road, 44000, Islamabad, Pakistan",
-        "ELI-HU Non-Profit Ltd., Dugonics t\u00e9r 13, Szeged, Hungary",
-        "Department of Optics and Quantum Electronics, University of Szeged, P.O. Box 406, H-6701 Szeged, Hungary"
-      ],
-      "Journal": "Optics & Laser Technology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Hungary",
-        "Pakistan",
-        "Portugal"
-      ],
-      "Author": [
-        "Mukhtar Hussain",
-        "Tayyab Imran",
-        "Adam Borzsonyi"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/28/2019 0:00",
-      "RetractionDOI": "10.1016/j.optlastec.2019.01.031",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/28/2018 0:00",
-      "OriginalPaperDOI": "10.1016/j.optlastec.2018.11.040",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error by Journal/Publisher",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d234e549",
-      "Record ID": "2968",
-      "Title": "Peroral Endoscopic Removal: As a Minimally Invasive Long-term Surgical Treatment of a Regurgitated Giant Polisegmented Fibrovascular Polyp of the Esophagus",
-      "Subject": [
+      "_id": "687cf0cd1f662220d899392f",
+      "recordId": "2968",
+      "title": "Peroral Endoscopic Removal: As a Minimally Invasive Long-term Surgical Treatment of a Regurgitated Giant Polisegmented Fibrovascular Polyp of the Esophagus",
+      "subject": [
         "(BLS) Anatomy/Physiology",
         "(BLS) Biology - General",
         "(HSC) Medicine - Gastroenterology",
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oto-Rhino-Laryngology and Head and Neck Surgery, University of Szeged, Szeged, Hungary",
         "Department of Surgery, University of Szeged, Szeged, Hungary"
       ],
-      "Journal": "European Archives of Otorhinolaryngology: Official Journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS)",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "European Archives of Otorhinolaryngology: Official Journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS)",
+      "publisher": "Springer",
+      "country": [
         "Hungary"
       ],
-      "Author": [
+      "author": [
         "Laszlo Ivan",
         "Robert Paczona",
         "Karoly Szentpali",
@@ -387,314 +623,89 @@
         "Kai Ai",
         "Mai Sun"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/26/2010 0:00",
-      "RetractionDOI": "10.1007/s00405-010-1389-6",
-      "RetractionPubMedID": "20872267.0",
-      "OriginalPaperDate": "8/8/2008 0:00",
-      "OriginalPaperDOI": "10.1007/s00405-008-0766-x",
-      "OriginalPaperPubMedID": "18688632.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/26/2010 0:00",
+      "retractiondoi": "10.1007/s00405-010-1389-6",
+      "retractionpubmedid": "20872267.0",
+      "originalpaperdate": "8/8/2008 0:00",
+      "originalpaperdoi": "10.1007/s00405-008-0766-x",
+      "originalpaperpubmedid": "18688632.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2008
-    },
-    {
-      "_id": "6855d574b14f7811d2346666",
-      "Record ID": "35663",
-      "Title": "Endoscopic outcome of medium term adalimumab therapy in patients with Crohn\u2019s disease. National data from Hungary",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "State Health Centre, Budapest, Hungary",
-        "Semmelweis University, Budapest, Hungary",
-        "University of Szeged, Szeged, Hungary",
-        "Csolnoky F. County Hospital, Veszprem, Hungary",
-        "University of Debrecen, Debrecen, Hungary"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Hungary"
-      ],
-      "Author": [
-        "Z Czegledi",
-        "P Miheller",
-        "T Molnar",
-        "L Lakatos",
-        "K Palatka",
-        "K Farkas",
-        "T Szamosi",
-        "J Banai",
-        "Z Tulassay",
-        "M Papp",
-        "I Altorjay",
-        "L S Kiss",
-        "F Nagy",
-        "J Papp",
-        "P L Lakatos"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2346634",
-      "Record ID": "35713",
-      "Title": "Ask the doctor about inflammatory bowel disease on the Internet: Experiences after more than one thousand questions",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "University of Szeged, Szeged, Hungary"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Hungary"
-      ],
-      "Author": [
-        "T Molnar",
-        "K Farkas",
-        "Z Szepes",
-        "F Nagy",
-        "T Wittmann"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23464b6",
-      "Record ID": "36095",
-      "Title": "NKX2 3 rs10883365 is associated with disease susceptibility to IBD while IRGM rs13361189 is associated to Crohn\u2019s disease in Eastern European patients",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - General",
-        "(HSC) Medicine - Internal"
-      ],
-      "Institution": [
-        "Hungarian National Blood Transfusion Service, Budapest, Hungary",
-        "Semmelweis University, Budapest, Hungary",
-        "Charles University, Prague, Czech Republic",
-        "Csolnoky F. County Hospital, Veszprem, Hungary",
-        "University of Szeged, Szeged, Hungary",
-        "University of Debrecen, Debrecen, Hungary"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Czech Republic",
-        "Hungary"
-      ],
-      "Author": [
-        "N Meggyesi",
-        "L S Kiss",
-        "M Koszarska",
-        "M Bortlik",
-        "D Duricova",
-        "L Lakatos",
-        "T Molnar",
-        "M Lenicek",
-        "L Vitek",
-        "I Altorjay",
-        "M Papp",
-        "P Miheller",
-        "A Tordai",
-        "H Andrikovics",
-        "M Lukas",
-        "Hungarian IBD Study Group",
-        "P L Lakatos"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjab227",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1016/S1873-9946(10)00006-1",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234674e",
-      "Record ID": "35431",
-      "Title": "Pregnancy outcome in women with inflammatory bowel disease according to the activity of the disease and the drug treatment",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Internal",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "University Of Szeged, Szeged, Hungary",
-        "Semmelweis University, Budapest, Hungary"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Hungary"
-      ],
-      "Author": [
-        "Z Szepes",
-        "T Molnar",
-        "K Farkas",
-        "F Nagy",
-        "P Lakatos",
-        "P Miheller",
-        "T Nyari",
-        "T Wittmann"
-      ],
-      "URLS": "http://retractionwatch.com/2022/01/25/court-injunction-forces-gastro-journal-to-slap-expressions-of-concern-on-40-articles-about-probiotics/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/24/2022 0:00",
-      "RetractionDOI": "10.1016/S1873-9946(10)00006-1",
-      "RetractionPubMedID": "35073579.0",
-      "OriginalPaperDate": "2/1/2010 0:00",
-      "OriginalPaperDOI": "10.1093/ecco-jcc/jjab227",
-      "OriginalPaperPubMedID": "35073579.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Civil Proceedings",
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Legal Reasons and/or Threats"
-      ],
-      "Paywalled": "No",
-      "Notes": "See also: https://doi.org/10.1093/ecco-jcc/jjab225 Journal was previously published by Elsevier until 2015.",
-      "notice_year": 2022,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 5,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 5,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -702,10 +713,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -713,10 +724,10 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 6,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

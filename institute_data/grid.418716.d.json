@@ -1,141 +1,128 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687957f",
+    "_id": "687ccbab09adbf7aa61ba1a0",
     "grid_id": "grid.418716.d",
     "institute_name": "Edinburgh Royal Infirmary",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "24435",
-      "30912",
-      "19344",
-      "3844",
       "23420",
-      "30872"
+      "3844",
+      "19344",
+      "24435",
+      "30872",
+      "30912"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2349224",
-      "Record ID": "24435",
-      "Title": "Molecular forms of HMGB1 and Keratin-18 as mechanistic biomarkers for mode of cell death and prognosis during clinical acetaminophen hepatotoxicity",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
-        "(BLS) Toxicology"
-      ],
-      "Institution": [
-        "MRC Centre for Drug Safety Science, Department of Molecular & Clinical Pharmacology, University of Liverpool, Liverpool, UK",
-        "University/BHF Centre for Cardiovascular Science, Edinburgh University & NPIS Edinburgh, Scottish Poisons Information Bureau, Edinburgh, UK",
-        "Department of Pharmacology, Toxicology & Therapeutics, University of Kansas Medical Center, Kansas City, KS 66160, USA",
-        "Department of Pulmonary and Critical Care Medicine, University of Kansas Medical Center, Kansas City, KS 66160, USA",
-        "Scottish Liver Transplantation Unit, Royal Infirmary of Edinburgh, Edinburgh, UK"
-      ],
-      "Journal": "Journal of Hepatology",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "Daniel J Antoine",
-        "Rosalind E Jenkins",
-        "James W Dear",
-        "Dominic P Williams",
-        "Mitchell R McGill",
-        "Matthew R Sharpe",
-        "Darren G Craig",
-        "Kenneth J Simpson",
-        "Hartmut Jaeschke",
-        "B Kevin Park"
-      ],
-      "URLS": "http://retractionwatch.com/2018/10/27/weekend-reads-our-database-of-18000-plus-retractions-is-launched-inside-a-trial-gone-wrong-scholarly-publishers-bow-to-censorship/;http://retractionwatch.com/?s=%22Daniel+Antoine%22",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/15/2020 0:00",
-      "RetractionDOI": "10.1016/j.jhep.2020.08.022",
-      "RetractionPubMedID": "33070867.0",
-      "OriginalPaperDate": "1/17/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.jhep.2011.12.019",
-      "OriginalPaperPubMedID": "22266604.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Investigation by Company/Institution",
-        "+Results Not Reproducible"
-      ],
-      "Paywalled": "No",
-      "Notes": "Daniel Antoine has institutional finding of misconduct;",
-      "notice_year": 2020,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23478e9",
-      "Record ID": "30912",
-      "Title": "Electrical cardioversion for atrial fibrillation and flutter (Pub 2)",
-      "Subject": [
+      "_id": "687cefd61f662220d898cccf",
+      "recordId": "30912",
+      "title": "Electrical cardioversion for atrial fibrillation and flutter (Pub 2)",
+      "subject": [
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "School of Clinical Sciences and Community Health, University of Edinburgh, Edinburgh, UK",
         "Royal Victoria Hospital, Edinburgh, UK",
         "Department of Cardiology, Royal Infirmary of Edinburgh, Edinburgh, UK",
         "Ward 11, Victoria Hospital, Kirkcaldy, UK"
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Gillian E Mead",
         "Andrew Elder",
         "Andrew D Flapan",
         "John Cordina"
       ],
-      "URLS": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
+      "articletype": [
         "Review Article",
         "Revision"
       ],
-      "RetractionDate": "11/15/2017 0:00",
-      "RetractionDOI": "10.1002/14651858.CD002903.pub3",
-      "RetractionPubMedID": "29140555.0",
-      "OriginalPaperDate": "7/20/2005 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD002903.pub2",
-      "OriginalPaperPubMedID": "16034878.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/15/2017 0:00",
+      "retractiondoi": "10.1002/14651858.CD002903.pub3",
+      "retractionpubmedid": "29140555.0",
+      "originalpaperdate": "7/20/2005 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD002903.pub2",
+      "originalpaperpubmedid": "16034878.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2005,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2005",
+      "noticeYear": "2017",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a5f0",
-      "Record ID": "19344",
-      "Title": "Molecular forms of HMGB1 and Keratin-18 as mechanistic biomarkers for mode of cell death and prognosis during clinical acetaminophen hepatotoxicity",
-      "Subject": [
+      "_id": "687cefd61f662220d898ccf7",
+      "recordId": "30872",
+      "title": "Angioplasty (versus non surgical management) for intermittent claudication",
+      "subject": [
+        "(HSC) Medicine - Otorhinolaryngology",
+        "(HSC) Medicine - Surgery"
+      ],
+      "institution": [
+        "Wolfson Unit for Prevention of Peripheral Vascular Diseases, The University of Edinburgh, Edinburgh, UK",
+        "Department of Radiology, New Royal Infirmary of Edinburgh, EDINBURGH, UK"
+      ],
+      "journal": "Cochrane Database of Systematic Reviews",
+      "publisher": "Wiley",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Gerry Fowkes",
+        "Ian N Gillespie"
+      ],
+      "urls": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "3/9/2018 0:00",
+      "retractiondoi": "10.1002/14651858.CD000017.pub2",
+      "retractionpubmedid": "29521415.0",
+      "originalpaperdate": "4/27/1998 0:00",
+      "originalpaperdoi": "10.1002/14651858.CD000017",
+      "originalpaperpubmedid": "10796469.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Withdrawn as Out of Date"
+      ],
+      "paywalled": "No",
+      "year": "1998",
+      "noticeYear": "2018",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00a1f662220d898e60a",
+      "recordId": "24435",
+      "title": "Molecular forms of HMGB1 and Keratin-18 as mechanistic biomarkers for mode of cell death and prognosis during clinical acetaminophen hepatotoxicity",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular",
         "(BLS) Toxicology"
       ],
-      "Institution": [
+      "institution": [
         "MRC Centre for Drug Safety Science, Department of Molecular & Clinical Pharmacology, University of Liverpool, Liverpool, UK",
         "University/BHF Centre for Cardiovascular Science, Edinburgh University & NPIS Edinburgh, Scottish Poisons Information Bureau, Edinburgh, UK",
         "Department of Pharmacology, Toxicology & Therapeutics, University of Kansas Medical Center, Kansas City, KS 66160, USA",
         "Department of Pulmonary and Critical Care Medicine, University of Kansas Medical Center, Kansas City, KS 66160, USA",
         "Scottish Liver Transplantation Unit, Royal Infirmary of Edinburgh, Edinburgh, UK"
       ],
-      "Journal": "Journal of Hepatology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Journal of Hepatology",
+      "publisher": "Elsevier",
+      "country": [
         "United Kingdom",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Daniel J Antoine",
         "Rosalind E Jenkins",
         "James W Dear",
@@ -147,193 +134,214 @@
         "Hartmut Jaeschke",
         "B Kevin Park"
       ],
-      "URLS": "http://retractionwatch.com/2018/10/27/weekend-reads-our-database-of-18000-plus-retractions-is-launched-inside-a-trial-gone-wrong-scholarly-publishers-bow-to-censorship/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2018/10/27/weekend-reads-our-database-of-18000-plus-retractions-is-launched-inside-a-trial-gone-wrong-scholarly-publishers-bow-to-censorship/;http://retractionwatch.com/?s=%22Daniel+Antoine%22",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/16/2018 0:00",
-      "RetractionDOI": "10.1016/j.jhep.2018.09.020",
-      "RetractionPubMedID": "30340775.0",
-      "OriginalPaperDate": "1/17/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.jhep.2011.12.019",
-      "OriginalPaperPubMedID": "22266604.0",
-      "RetractionNature": "Expression of concern",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Updated to Retraction"
+      "retractiondate": "10/15/2020 0:00",
+      "retractiondoi": "10.1016/j.jhep.2020.08.022",
+      "retractionpubmedid": "33070867.0",
+      "originalpaperdate": "1/17/2012 0:00",
+      "originalpaperdoi": "10.1016/j.jhep.2011.12.019",
+      "originalpaperpubmedid": "22266604.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Investigation by Company/Institution",
+        "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Daniel Antoine has institutional finding of misconduct;",
+      "year": "2012",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e1f6",
-      "Record ID": "3844",
-      "Title": "The quality of surgical information on the Internet.",
-      "Subject": [
-        "(HSC) Medicine - Surgery"
-      ],
-      "Institution": [
-        "Edinburgh Orthopaedic Trauma Unit, Royal Infirmary of Edinburgh, U.K."
-      ],
-      "Journal": "Journal of the Royal College of Surgeons of Edinburgh",
-      "Publisher": "Royal College of Surgeons of England",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "J McKinley",
-        "H Cattermole",
-        "Christopher W Oliver"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/1/1999 0:00",
-      "RetractionPubMedID": "11023382.0",
-      "OriginalPaperDate": "8/1/1999 0:00",
-      "OriginalPaperPubMedID": "10453151.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "Unknown",
-      "notice_year": 1999,
-      "year": 1999,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2349617",
-      "Record ID": "23420",
-      "Title": "Shaken not stirred: Homogeneity of phenylephrine following drug dispersion in solution",
-      "Subject": [
+      "_id": "687cf0121f662220d898e9fd",
+      "recordId": "23420",
+      "title": "Shaken not stirred: Homogeneity of phenylephrine following drug dispersion in solution",
+      "subject": [
         "(HSC) Medicine - Anesthesia/Anaesthesia",
         "(HSC) Medicine - Obstetrics/Gynecology",
         "(HSC) Medicine - Pharmacology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Anaesthesia, Royal Infirmary of Edinburgh, Edinburgh, UK"
       ],
-      "Journal": "International Journal of Obstetric Anesthesia",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "International Journal of Obstetric Anesthesia",
+      "publisher": "Elsevier",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Sebastian Bourn",
         "A Simpson",
         "K Darragh"
       ],
-      "ArticleType": [
+      "articletype": [
         "Conference Abstract/Paper"
       ],
-      "RetractionDate": "9/8/2015 0:00",
-      "RetractionDOI": "10.1016/j.ijoa.2015.08.010",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "5/21/2015 0:00",
-      "OriginalPaperDOI": "10.1016/j.ijoa.2015.02.006",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/8/2015 0:00",
+      "retractiondoi": "10.1016/j.ijoa.2015.08.010",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "5/21/2015 0:00",
+      "originalpaperdoi": "10.1016/j.ijoa.2015.02.006",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2347911",
-      "Record ID": "30872",
-      "Title": "Angioplasty (versus non surgical management) for intermittent claudication",
-      "Subject": [
-        "(HSC) Medicine - Otorhinolaryngology",
+      "_id": "687cf08f1f662220d898f9d6",
+      "recordId": "19344",
+      "title": "Molecular forms of HMGB1 and Keratin-18 as mechanistic biomarkers for mode of cell death and prognosis during clinical acetaminophen hepatotoxicity",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Toxicology"
+      ],
+      "institution": [
+        "MRC Centre for Drug Safety Science, Department of Molecular & Clinical Pharmacology, University of Liverpool, Liverpool, UK",
+        "University/BHF Centre for Cardiovascular Science, Edinburgh University & NPIS Edinburgh, Scottish Poisons Information Bureau, Edinburgh, UK",
+        "Department of Pharmacology, Toxicology & Therapeutics, University of Kansas Medical Center, Kansas City, KS 66160, USA",
+        "Department of Pulmonary and Critical Care Medicine, University of Kansas Medical Center, Kansas City, KS 66160, USA",
+        "Scottish Liver Transplantation Unit, Royal Infirmary of Edinburgh, Edinburgh, UK"
+      ],
+      "journal": "Journal of Hepatology",
+      "publisher": "Elsevier",
+      "country": [
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "Daniel J Antoine",
+        "Rosalind E Jenkins",
+        "James W Dear",
+        "Dominic P Williams",
+        "Mitchell R McGill",
+        "Matthew R Sharpe",
+        "Darren G Craig",
+        "Kenneth J Simpson",
+        "Hartmut Jaeschke",
+        "B Kevin Park"
+      ],
+      "urls": "http://retractionwatch.com/2018/10/27/weekend-reads-our-database-of-18000-plus-retractions-is-launched-inside-a-trial-gone-wrong-scholarly-publishers-bow-to-censorship/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/16/2018 0:00",
+      "retractiondoi": "10.1016/j.jhep.2018.09.020",
+      "retractionpubmedid": "30340775.0",
+      "originalpaperdate": "1/17/2012 0:00",
+      "originalpaperdoi": "10.1016/j.jhep.2011.12.019",
+      "originalpaperpubmedid": "22266604.0",
+      "retractionnature": "Expression of concern",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Updated to Retraction"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2018",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d89935dc",
+      "recordId": "3844",
+      "title": "The quality of surgical information on the Internet.",
+      "subject": [
         "(HSC) Medicine - Surgery"
       ],
-      "Institution": [
-        "Wolfson Unit for Prevention of Peripheral Vascular Diseases, The University of Edinburgh, Edinburgh, UK",
-        "Department of Radiology, New Royal Infirmary of Edinburgh, EDINBURGH, UK"
+      "institution": [
+        "Edinburgh Orthopaedic Trauma Unit, Royal Infirmary of Edinburgh, U.K."
       ],
-      "Journal": "Cochrane Database of Systematic Reviews",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Journal of the Royal College of Surgeons of Edinburgh",
+      "publisher": "Royal College of Surgeons of England",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
-        "Gerry Fowkes",
-        "Ian N Gillespie"
+      "author": [
+        "J McKinley",
+        "H Cattermole",
+        "Christopher W Oliver"
       ],
-      "URLS": "http://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/",
-      "ArticleType": [
-        "Review Article"
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "3/9/2018 0:00",
-      "RetractionDOI": "10.1002/14651858.CD000017.pub2",
-      "RetractionPubMedID": "29521415.0",
-      "OriginalPaperDate": "4/27/1998 0:00",
-      "OriginalPaperDOI": "10.1002/14651858.CD000017",
-      "OriginalPaperPubMedID": "10796469.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Withdrawn as Out of Date"
+      "retractiondate": "12/1/1999 0:00",
+      "retractionpubmedid": "11023382.0",
+      "originalpaperdate": "8/1/1999 0:00",
+      "originalpaperpubmedid": "10453151.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2018,
-      "year": 1998
+      "paywalled": "Unknown",
+      "year": "1999",
+      "noticeYear": "1999",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1998,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 1999,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -341,10 +349,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -352,10 +360,10 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -363,10 +371,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

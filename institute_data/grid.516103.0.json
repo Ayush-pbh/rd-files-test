@@ -1,31 +1,31 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878d2e",
+    "_id": "687ccbab09adbf7aa61b994f",
     "grid_id": "grid.516103.0",
     "institute_name": "UM Greenebaum Comprehensive Cancer Center",
     "country": "United States",
     "retracted_record_ids": [
-      "44217",
-      "23741",
       "22710",
-      "22845",
-      "22963",
       "21288",
-      "463",
-      "30866"
+      "23741",
+      "30866",
+      "22963",
+      "22845",
+      "44217",
+      "463"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2344536",
-      "Record ID": "44217",
-      "Title": "Overcoming Ovarian Cancer Drug Resistance with a Cold Responsive Nanomaterial",
-      "Subject": [
+      "_id": "687cefa41f662220d898991c",
+      "recordId": "44217",
+      "title": "Overcoming Ovarian Cancer Drug Resistance with a Cold Responsive Nanomaterial",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Toxicology",
         "(PHY) Nanotechnology"
       ],
-      "Institution": [
+      "institution": [
         "Fischell Department of Bioengineering, University of Maryland, College Park, Maryland 20742, United States",
         "Robert E. Fischell Institute for Biomedical Devices, University of Maryland, College Park, Maryland 20742, United States",
         "Department of Biomedical Engineering and Comprehensive Cancer Center, The Ohio State University, Columbus, Ohio 43210, United States",
@@ -36,13 +36,13 @@
         "United States Department of Veterans Affairs, Maryland VA Health Care System, Baltimore, Maryland 21201, United States",
         "Department of Medical and Molecular Genetics and Melvin and Bren Simon Cancer Center, Indiana University School of Medicine, Indianapolis, Indiana 46202, United States"
       ],
-      "Journal": "ACS Central Science",
-      "Publisher": "American Chemical Society (ACS)",
-      "Country": [
+      "journal": "ACS Central Science",
+      "publisher": "American Chemical Society (ACS)",
+      "country": [
         "China",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hai Wang",
         "Pranay Agarwal",
         "Gang Zhao",
@@ -52,35 +52,90 @@
         "Xiongbin Lu",
         "Xiaoming He"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/11/2023 0:00",
-      "RetractionDOI": "10.1021/acscentsci.3c00335",
-      "RetractionPubMedID": "37122466.0",
-      "OriginalPaperDate": "4/17/2018 0:00",
-      "OriginalPaperDOI": "10.1021/acscentsci.8b00050",
-      "OriginalPaperPubMedID": "29806003.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/11/2023 0:00",
+      "retractiondoi": "10.1021/acscentsci.3c00335",
+      "retractionpubmedid": "37122466.0",
+      "originalpaperdate": "4/17/2018 0:00",
+      "originalpaperdoi": "10.1021/acscentsci.8b00050",
+      "originalpaperpubmedid": "29806003.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Manipulation of Images",
         "+Upgrade/Update of Prior Notice(s)"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2018,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23494d9",
-      "Record ID": "23741",
-      "Title": "Plexin-B1 and Semaphorin 4D Cooperate to Promote Perineural Invasion in a RhoA/ROK-Dependent Manner",
-      "Subject": [
+      "_id": "687cefd61f662220d898ccfd",
+      "recordId": "30866",
+      "title": "Recruitment of Tiam1 to Semaphorin 4D activates Rac and enhances proliferation, invasion and metastasis in oral squamous cell carcinoma",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular"
+      ],
+      "institution": [
+        "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, 650 W. Baltimore Street, 7-North, Baltimore, MD 21201, USA",
+        "Dept of Biological Sciences, University of Maryland Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA",
+        "Biomedical Informatics Training Program, Stanford University, 1265 Welch Road, Stanford, CA 94305, USA",
+        "Department of Oral Basic & Clinical Sciences, King Abdulaziz University, Jeddah 21589, Saudi Arabia",
+        "Greenebaum Cancer Center, 22 S. Greene Street, Baltimore, MD 21201, USA"
+      ],
+      "journal": "Neoplasia",
+      "publisher": "Elsevier",
+      "country": [
+        "Saudi Arabia",
+        "United States"
+      ],
+      "author": [
+        "HUa Zhou",
+        "Maricel G Kann",
+        "Emily K Mallory",
+        "Ying Hua Yang",
+        "Amr Bugshan",
+        "Nada O Binmadi",
+        "John R Basile"
+      ],
+      "urls": "http://retractionwatch.com/?s=John+R+Basile",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/16/2021 0:00",
+      "retractiondoi": "10.1016/j.neo.2021.07.003",
+      "retractionpubmedid": "34281687.0",
+      "originalpaperdate": "12/27/2016 0:00",
+      "originalpaperdoi": "10.1016/j.neo.2016.12.004",
+      "originalpaperpubmedid": "28038319.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Data",
+        "+Error in Image",
+        "+Investigation by Company/Institution"
+      ],
+      "paywalled": "No",
+      "year": "2016",
+      "noticeYear": "2021",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00e1f662220d898e8bf",
+      "recordId": "23741",
+      "title": "Plexin-B1 and Semaphorin 4D Cooperate to Promote Perineural Invasion in a RhoA/ROK-Dependent Manner",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, Baltimore, Maryland",
         "Department of Oral, Basic, and Clinical Sciences, King Abdulaziz University, Jeddah, Saudi Arabia",
         "Department of Sports Science, University of Palermo, Palermo, Italy",
@@ -90,15 +145,15 @@
         "Department of Oral and Maxillofacial Pathology, Boston University Goldman School of Dental Medicine, Boston, Massachusetts",
         "Marlene and Stuart Greenebaum Cancer Center, Baltimore, Maryland"
       ],
-      "Journal": "The American Journal of Pathology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "The American Journal of Pathology",
+      "publisher": "Elsevier",
+      "country": [
         "Brazil",
         "Italy",
         "Saudi Arabia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Nada O Binmadi",
         "Ying Hua Yang",
         "Hua Zhou",
@@ -110,229 +165,234 @@
         "Devaki Sundararajan,",
         "John R Basile"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/19/2020 0:00",
-      "RetractionDOI": "10.1016/j.ajpath.2020.05.004",
-      "RetractionPubMedID": "32571495.0",
-      "OriginalPaperDate": "1/14/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.ajpath.2011.12.009",
-      "OriginalPaperPubMedID": "22252234.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/19/2020 0:00",
+      "retractiondoi": "10.1016/j.ajpath.2020.05.004",
+      "retractionpubmedid": "32571495.0",
+      "originalpaperdate": "1/14/2012 0:00",
+      "originalpaperdoi": "10.1016/j.ajpath.2011.12.009",
+      "originalpaperpubmedid": "22252234.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Investigation by Journal/Publisher"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23498d8",
-      "Record ID": "22710",
-      "Title": "The Semaphorin 4D-Plexin-B1-RhoA signaling axis recruits pericytes and regulates vascular permeability through endothelial production of PDGF-B and ANGPTL4",
-      "Subject": [
+      "_id": "687cf0121f662220d898ebc4",
+      "recordId": "22963",
+      "title": "Rho-mediated activation of PI(4)P5K and lipid second messengers is necessary for promotion of angiogenesis by Semaphorin 4D",
+      "subject": [
         "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular"
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, 650 West Baltimore Street, 7-North, Baltimore, MD, 21201, USA",
-        "Greenebaum Cancer Center, 22 S. Greene Street, Baltimore, MD, 21201, USA"
+        "Department of Sports Science (DISMOT), University of Palermo, Via M. Toselli, 87/B, 90143, Palermo, Italy",
+        "Marlene and Stuart Greenebaum Cancer Center, 22 South Greene Street, Baltimore, MD, 21201, USA"
       ],
-      "Journal": "Angiogenesis",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Angiogenesis",
+      "publisher": "Springer",
+      "country": [
+        "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
+        "Nada O Binmadi",
+        "Patrizia Proia",
         "Hua Zhou",
         "Ying Hua Yang",
         "John R Basile"
       ],
-      "URLS": "http://retractionwatch.com/2020/03/24/u-maryland-group-up-to-three-retractions-following-investigation/",
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/26/2020 0:00",
-      "RetractionDOI": "10.1007/s10456-020-09710-4",
-      "RetractionPubMedID": "32103388.0",
-      "OriginalPaperDate": "10/10/2013 0:00",
-      "OriginalPaperDOI": "10.1007/s10456-013-9395-0",
-      "OriginalPaperPubMedID": "24114199.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Data",
-        "+Error in Image",
-        "+Unreliable Results and/or Conclusions"
+      "retractiondate": "2/25/2020 0:00",
+      "retractiondoi": "10.1007/s10456-020-09711-3",
+      "retractionpubmedid": "32100176.0",
+      "originalpaperdate": "5/3/2011 0:00",
+      "originalpaperdoi": "10.1007/s10456-011-9214-4",
+      "originalpaperpubmedid": "21538148.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349853",
-      "Record ID": "22845",
-      "Title": "Semaphorin 4D cooperates with VEGF to promote angiogenesis and tumor progression",
-      "Subject": [
+      "_id": "687cf0151f662220d898ec39",
+      "recordId": "22845",
+      "title": "Semaphorin 4D cooperates with VEGF to promote angiogenesis and tumor progression",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, 650 West Baltimore Street, 7-North, Baltimore, MD, 21201, USA",
         "Department of Oral Basic and Clinical Sciences, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
         "Department of Sports Science (DISMOT), University of Palermo, Via M. Toselli, 87/B, 90143, Palermo, Italy",
         "Greenebaum Cancer Center, 22 S. Greene Street, Baltimore, MD, 21201, USA"
       ],
-      "Journal": "Angiogenesis",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Angiogenesis",
+      "publisher": "Springer",
+      "country": [
         "Italy",
         "Saudi Arabia",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hua Zhou",
         "Nada O Binmadi",
         "Ying Hua Yang",
         "Patrizia Proia",
         "John R Basile"
       ],
-      "URLS": "http://retractionwatch.com/2020/03/24/u-maryland-group-up-to-three-retractions-following-investigation/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2020/03/24/u-maryland-group-up-to-three-retractions-following-investigation/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/10/2020 0:00",
-      "RetractionDOI": "10.1007/s10456-020-09709-x",
-      "RetractionPubMedID": "32157473.0",
-      "OriginalPaperDate": "4/3/2012 0:00",
-      "OriginalPaperDOI": "10.1007/s10456-012-9268-y",
-      "OriginalPaperPubMedID": "22476930.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/10/2020 0:00",
+      "retractiondoi": "10.1007/s10456-020-09709-x",
+      "retractionpubmedid": "32157473.0",
+      "originalpaperdate": "4/3/2012 0:00",
+      "originalpaperdoi": "10.1007/s10456-012-9268-y",
+      "originalpaperpubmedid": "22476930.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Data",
         "+Error in Image",
         "+Investigation by Company/Institution",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23497de",
-      "Record ID": "22963",
-      "Title": "Rho-mediated activation of PI(4)P5K and lipid second messengers is necessary for promotion of angiogenesis by Semaphorin 4D",
-      "Subject": [
+      "_id": "687cf0151f662220d898ecbe",
+      "recordId": "22710",
+      "title": "The Semaphorin 4D-Plexin-B1-RhoA signaling axis recruits pericytes and regulates vascular permeability through endothelial production of PDGF-B and ANGPTL4",
+      "subject": [
         "(BLS) Biochemistry",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Cardiovascular"
+        "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, 650 West Baltimore Street, 7-North, Baltimore, MD, 21201, USA",
-        "Department of Sports Science (DISMOT), University of Palermo, Via M. Toselli, 87/B, 90143, Palermo, Italy",
-        "Marlene and Stuart Greenebaum Cancer Center, 22 South Greene Street, Baltimore, MD, 21201, USA"
+        "Greenebaum Cancer Center, 22 S. Greene Street, Baltimore, MD, 21201, USA"
       ],
-      "Journal": "Angiogenesis",
-      "Publisher": "Springer",
-      "Country": [
-        "Italy",
+      "journal": "Angiogenesis",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Nada O Binmadi",
-        "Patrizia Proia",
+      "author": [
         "Hua Zhou",
         "Ying Hua Yang",
         "John R Basile"
       ],
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2020/03/24/u-maryland-group-up-to-three-retractions-following-investigation/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/25/2020 0:00",
-      "RetractionDOI": "10.1007/s10456-020-09711-3",
-      "RetractionPubMedID": "32100176.0",
-      "OriginalPaperDate": "5/3/2011 0:00",
-      "OriginalPaperDOI": "10.1007/s10456-011-9214-4",
-      "OriginalPaperPubMedID": "21538148.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image"
+      "retractiondate": "2/26/2020 0:00",
+      "retractiondoi": "10.1007/s10456-020-09710-4",
+      "retractionpubmedid": "32103388.0",
+      "originalpaperdate": "10/10/2013 0:00",
+      "originalpaperdoi": "10.1007/s10456-013-9395-0",
+      "originalpaperpubmedid": "24114199.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Data",
+        "+Error in Image",
+        "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2011,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349e64",
-      "Record ID": "21288",
-      "Title": "Plexin-B1 Activates NF-kappaB and IL-8 to Promote a Pro-Angiogenic Response in Endothelial Cells",
-      "Subject": [
+      "_id": "687cf03f1f662220d898f24a",
+      "recordId": "21288",
+      "title": "Plexin-B1 Activates NF-kappaB and IL-8 to Promote a Pro-Angiogenic Response in Endothelial Cells",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Biology - Cellular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, Baltimore, Maryland, United States of America",
         "Department of Sports Science (DISMOT), University of Palermo, Palermo, Italy",
         "Marlene and Stuart Greenebaum Cancer Center, Baltimore, Maryland, United States of America"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Italy",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ying Hua Yang",
         "Hua Zhou",
         "Nada O Binmadi",
         "Patrizia Proia",
         "John R Basile"
       ],
-      "URLS": "http://retractionwatch.com/wp-content/uploads/2019/12/Maryland-letter.pdf;http://retractionwatch.com/2020/03/24/u-maryland-group-up-to-three-retractions-following-investigation/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/wp-content/uploads/2019/12/Maryland-letter.pdf;http://retractionwatch.com/2020/03/24/u-maryland-group-up-to-three-retractions-following-investigation/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/26/2019 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0223295",
-      "RetractionPubMedID": "31557271.0",
-      "OriginalPaperDate": "10/18/2011 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0025826",
-      "OriginalPaperPubMedID": "22028792.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/26/2019 0:00",
+      "retractiondoi": "10.1371/journal.pone.0223295",
+      "retractionpubmedid": "31557271.0",
+      "originalpaperdate": "10/18/2011 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0025826",
+      "originalpaperpubmedid": "22028792.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Image",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2011,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234eedc",
-      "Record ID": "463",
-      "Title": "Pro-survival function of Akt/protein kinase B in prostate cancer cells. Relationship with TRAIL resistance",
-      "Subject": [
+      "_id": "687cf0d71f662220d89942c2",
+      "recordId": "463",
+      "title": "Pro-survival function of Akt/protein kinase B in prostate cancer cells. Relationship with TRAIL resistance",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Pharmaceutical Sciences, University of Maryland School of Pharmacy, Greenebaum Cancer Center, Baltimore, Maryland 21201-1180 and the Laboratories of Clinical Investigation, NIA, National Institutes of Health, Baltimore, Maryland 21224-6825"
       ],
-      "Journal": "The Journal of Biological Chemistry",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "The Journal of Biological Chemistry",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Hitesh Thakkar",
         "Xufeng Chen",
         "Frazier Tyan",
@@ -344,87 +404,35 @@
         "Nneka Onwudiwe",
         "Rakesh K Srivastava"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "8/16/2002 0:00",
-      "RetractionDOI": "10.1016/s0021-9258(18)75715-3",
-      "RetractionPubMedID": "12243194.0",
-      "OriginalPaperDate": "10/19/2001 0:00",
-      "OriginalPaperDOI": "10.1074/jbc.M103321200",
-      "OriginalPaperPubMedID": "11461904.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "8/16/2002 0:00",
+      "retractiondoi": "10.1016/s0021-9258(18)75715-3",
+      "retractionpubmedid": "12243194.0",
+      "originalpaperdate": "10/19/2001 0:00",
+      "originalpaperdoi": "10.1074/jbc.M103321200",
+      "originalpaperpubmedid": "11461904.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article",
         "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2002,
-      "year": 2001,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2347917",
-      "Record ID": "30866",
-      "Title": "Recruitment of Tiam1 to Semaphorin 4D activates Rac and enhances proliferation, invasion and metastasis in oral squamous cell carcinoma",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular"
-      ],
-      "Institution": [
-        "Department of Oncology and Diagnostic Sciences, University of Maryland Dental School, 650 W. Baltimore Street, 7-North, Baltimore, MD 21201, USA",
-        "Dept of Biological Sciences, University of Maryland Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA",
-        "Biomedical Informatics Training Program, Stanford University, 1265 Welch Road, Stanford, CA 94305, USA",
-        "Department of Oral Basic & Clinical Sciences, King Abdulaziz University, Jeddah 21589, Saudi Arabia",
-        "Greenebaum Cancer Center, 22 S. Greene Street, Baltimore, MD 21201, USA"
-      ],
-      "Journal": "Neoplasia",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Saudi Arabia",
-        "United States"
-      ],
-      "Author": [
-        "HUa Zhou",
-        "Maricel G Kann",
-        "Emily K Mallory",
-        "Ying Hua Yang",
-        "Amr Bugshan",
-        "Nada O Binmadi",
-        "John R Basile"
-      ],
-      "URLS": "http://retractionwatch.com/?s=John+R+Basile",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/16/2021 0:00",
-      "RetractionDOI": "10.1016/j.neo.2021.07.003",
-      "RetractionPubMedID": "34281687.0",
-      "OriginalPaperDate": "12/27/2016 0:00",
-      "OriginalPaperDOI": "10.1016/j.neo.2016.12.004",
-      "OriginalPaperPubMedID": "28038319.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Data",
-        "+Error in Image",
-        "+Investigation by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2021,
-      "year": 2016,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2001",
+      "noticeYear": "2002",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2001,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -432,65 +440,65 @@
     {
       "year": 2002,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 2,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -498,10 +506,10 @@
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -509,10 +517,10 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 4,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -520,10 +528,10 @@
     {
       "year": 2021,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -531,10 +539,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

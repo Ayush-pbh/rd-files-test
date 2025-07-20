@@ -1,58 +1,161 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687990b",
+    "_id": "687ccbab09adbf7aa61ba52c",
     "grid_id": "grid.410513.2",
     "institute_name": "Pfizer (United States)",
     "country": "United States",
     "retracted_record_ids": [
-      "20531",
-      "9802",
-      "3367",
-      "3656",
-      "14410",
-      "20219",
-      "13290",
-      "3175",
-      "21128",
-      "9170",
-      "5590",
+      "8779",
       "4807",
-      "1700",
       "2637",
-      "4805",
-      "20218",
+      "13290",
       "1141",
-      "7927",
+      "9802",
+      "3175",
       "22852",
+      "14410",
       "1779",
       "4218",
+      "5590",
+      "20531",
+      "21128",
+      "20218",
       "11033",
-      "8779"
+      "3656",
+      "9170",
+      "4805",
+      "20219",
+      "1700",
+      "3367",
+      "7927"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234a156",
-      "Record ID": "20531",
-      "Title": "Content validity and psychometric evaluation of functional assessment of chronic illness therapy-fatigue in patients with psoriatic arthritis",
-      "Subject": [
+      "_id": "687cf0151f662220d898ec32",
+      "recordId": "22852",
+      "title": "An interim analysis of real-world safety data from an ongoing, non-interventional, observational study of patients with inflammatory bowel disease treated with CT-P13, an infliximab biosimilar, in the context of usual care with reference infliximab",
+      "subject": [
+        "(HSC) Medicine - Gastroenterology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Gastroenterology Practice Minden, Minden, Germany",
+        "University Hospital Bratislava and Comenius University, Bratislava, Slovakia",
+        "AP-HP - H\u00f4pitaux Univ Saint-Louis-Lariboisi\u00e8re-Fernand-Widal, Paris, France",
+        "Pfizer Inc., New York City, USA",
+        "Pfizer Inc., Manila, Philippines",
+        "Pfizer Inc., Maidenhead, UK",
+        "IBD Clinical and Research Centre, ISCARE IVF and 1st Medical Faculty, Charles University, Prague, Czech Republic",
+        "Hospital Universitario de La Princesa, IIS-IP, CIBEREHD, Madrid, Spain"
+      ],
+      "journal": "Journal of Crohn's and Colitis",
+      "publisher": "Oxford Academic",
+      "country": [
+        "Czech Republic",
+        "France",
+        "Germany",
+        "Philippines",
+        "Slovakia",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ],
+      "author": [
+        "B Bokemeyer",
+        "T Hlavaty",
+        "M Allez",
+        "P Selema",
+        "S Moosavi",
+        "M J Cadatal",
+        "H Fowler",
+        "R Cheung",
+        "M Lukas",
+        "J P Gisbert"
+      ],
+      "articletype": [
+        "Conference Abstract/Paper"
+      ],
+      "retractiondate": "3/13/2020 0:00",
+      "retractiondoi": "10.1093/ecco-jcc/jjz127",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/25/2019 0:00",
+      "originalpaperdoi": "10.1093/ecco-jcc/jjy222.714",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Analyses",
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f2ea",
+      "recordId": "21128",
+      "title": "Effects of Sodium Lighting on Circadian Rhythms in Rats",
+      "subject": [
+        "(BLS) Zoology"
+      ],
+      "institution": [
+        "Comparative Medicine, Pfizer Worldwide Research and Development, Cambridge, Massachusetts",
+        "Comparative Medicine, Pfizer Worldwide Research and Development, Groton, Connecticut"
+      ],
+      "journal": "Journal of the American Association for Laboratory Animal Science",
+      "publisher": "American Association for Laboratory Animal Science",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Xian Chen",
+        "Chang Ning Liu",
+        "Judith E Fenyk-Melody"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/26/2019 0:00",
+      "retractiondoi": "10.30802/AALAS-JAALAS-19-000111",
+      "retractionpubmedid": "31451133.0",
+      "originalpaperdate": "4/10/2019 0:00",
+      "originalpaperdoi": "10.30802/AALAS-JAALAS-18-000079",
+      "originalpaperpubmedid": "30971327.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Authorship/Affiliation",
+        "+Error in Methods"
+      ],
+      "paywalled": "No",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf05d1f662220d898f53c",
+      "recordId": "20531",
+      "title": "Content validity and psychometric evaluation of functional assessment of chronic illness therapy-fatigue in patients with psoriatic arthritis",
+      "subject": [
         "(HSC) Medicine - Immunology",
         "(HSC) Medicine - Orthopedics",
         "(HSC) Public Health and Safety",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Medical Social Sciences, Northwestern University, 633 N St, Clair Suite 1900, Chicago, IL 60611, USA",
         "Evidera, Bethesda, MD, USA",
         "Evidera, Waltham, MA, USA",
         "Pfizer Inc, Groton, CT, USA"
       ],
-      "Journal": "Journal of Patient-Reported Outcomes",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Journal of Patient-Reported Outcomes",
+      "publisher": "Springer",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "David Cella",
         "Hilary Wilson",
         "Huda Shalhoub",
@@ -62,46 +165,281 @@
         "Elizabeth Kudlacz",
         "Ming Ann Hsu"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/28/2019 0:00",
-      "RetractionDOI": "10.1186/s41687-019-0125-2",
-      "RetractionPubMedID": "31139969.0",
-      "OriginalPaperDate": "1/24/2019 0:00",
-      "OriginalPaperDOI": "10.1186/s41687-019-0094-5",
-      "OriginalPaperPubMedID": "30680661.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/28/2019 0:00",
+      "retractiondoi": "10.1186/s41687-019-0125-2",
+      "retractionpubmedid": "31139969.0",
+      "originalpaperdate": "1/24/2019 0:00",
+      "originalpaperdoi": "10.1186/s41687-019-0094-5",
+      "originalpaperpubmedid": "30680661.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error by Journal/Publisher",
         "+Retract and Replace"
       ],
-      "Paywalled": "No",
-      "Notes": "see: https://jpro.springeropen.com/articles/10.1186/s41687-019-0115-4",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "system"
+      "paywalled": "No",
+      "notes": "see: https://jpro.springeropen.com/articles/10.1186/s41687-019-0115-4",
+      "year": "2019",
+      "noticeYear": "2019",
+      "mark": "system",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cb0c",
-      "Record ID": "9802",
-      "Title": "Suppression of heat shock protein 27 using OGX-427 induces endoplasmic reticulum stress and potentiates heat shock protein 90 inhibitors to delay castrate-resistant prostate cancer",
-      "Subject": [
+      "_id": "687cf0721f662220d898f66f",
+      "recordId": "20219",
+      "title": "Pharmacokinetic\u2013pharmacodynamic relationship of bosutinib in patients with chronic-phase chronic myeloid leukemia",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Pfizer Inc, La Jolla, USA",
+        "Projections Research Inc, Phoenixville, USA"
+      ],
+      "journal": "Cancer Chemotherapy and Pharmacology",
+      "publisher": "Springer",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Poe Hirr Hsyu",
+        "Diane R Mould",
+        "Richard N Upton",
+        "Michael Amantea"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/27/2013 0:00",
+      "retractiondoi": "10.1007/s00280-013-2105-1",
+      "retractionpubmedid": "23070145.0",
+      "originalpaperdate": "10/16/2012 0:00",
+      "originalpaperdoi": "10.1007/s00280-012-1998-4",
+      "originalpaperpubmedid": "23070145.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Text"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0721f662220d898f670",
+      "recordId": "20218",
+      "title": "Population pharmacokinetic and pharmacodynamic analysis of bosutinib",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Pharmacology",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Pfizer Inc, La Jolla, CA, USA",
+        "Projections Research Inc, Phoenixville, PA, USA",
+        "Pfizer Inc, Collegeville, PA, USA"
+      ],
+      "journal": "Drug Metabolism and Pharmacokinetics",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Poe Hirr Hsyu",
+        "Diane R Mould",
+        "Richat Abbas",
+        "Michael Amantea"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/10/2019 0:00",
+      "retractiondoi": "10.1016/j.dmpk.2019.01.003",
+      "retractionpubmedid": "30922682.0",
+      "originalpaperdate": "6/10/2014 0:00",
+      "originalpaperdoi": "10.2133/dmpk.DMPK-13-RG-126",
+      "originalpaperpubmedid": "24919837.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2019",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf09f1f662220d8990cfc",
+      "recordId": "14410",
+      "title": "Targeting 3-Phosphoinoside-Dependent Kinase-1 to Inhibit Insulin-Like Growth Factor-I Induced AKT and p70 S6 Kinase Activation in Breast Cancer Cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California, United States of America",
+        "Medicinal Chemistry, Pfizer Worldwide Research and Development, San Diego, California, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Sangita M Baxi",
+        "Wei Tan",
+        "Sean T Murphy",
+        "Tod Smeal",
+        "Min-Jean Yin"
+      ],
+      "urls": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/;http://retractionwatch.com/2017/03/03/3rd-retraction-appears-fired-pfizer-breast-cancer-researcher/;http://retractionwatch.com/2017/04/17/fired-pfizer-cancer-researcher-loses-final-two-five-papers-pegged-retraction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/10/2017 0:00",
+      "retractiondoi": "10.1371/journal.pone.0175772",
+      "retractionpubmedid": "28394928.0",
+      "originalpaperdate": "10/31/2012 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0048402",
+      "originalpaperpubmedid": "23119004.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Author Unresponsive",
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution",
+        "+Investigation by Journal/Publisher",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "M-J Yin investigated/fired;",
+      "year": "2012",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0a81f662220d899115a",
+      "recordId": "13290",
+      "title": "miR-221 Promotes Tumorigenesis in Human Triple Negative Breast Cancer Cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Rounak Nassirpour",
+        "Pramod P Mehta",
+        "Sangita M Baxi",
+        "Min-Jean Yin"
+      ],
+      "urls": "http://retractionwatch.com/2017/04/17/fired-pfizer-cancer-researcher-loses-final-two-five-papers-pegged-retraction/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "4/10/2017 0:00",
+      "retractiondoi": "10.1371/journal.pone.0175869",
+      "retractionpubmedid": "28394920.0",
+      "originalpaperdate": "4/24/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0062170",
+      "originalpaperpubmedid": "23637992.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of Data",
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b21f662220d8991a26",
+      "recordId": "11033",
+      "title": "miR-122 Regulates Tumorigenesis in Hepatocellular Carcinoma by Targeting AKT3",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California, United States of America"
+      ],
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Rounak Nassirpour",
+        "Pramod P Mehta",
+        "Min-Jean Yin"
+      ],
+      "urls": "http://retractionwatch.com/2017/08/28/case-closed-fired-pfizer-researcher-slated-seven-retractions/;http://retractionwatch.com/?s=min-jean+yin",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "9/8/2017 0:00",
+      "retractiondoi": "10.1371/journal.pone.0184778",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "11/7/2013 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0079655",
+      "originalpaperpubmedid": "24244539.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution",
+        "+Unreliable Image"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b51f662220d8991ef2",
+      "recordId": "9802",
+      "title": "Suppression of heat shock protein 27 using OGX-427 induces endoplasmic reticulum stress and potentiates heat shock protein 90 inhibitors to delay castrate-resistant prostate cancer",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Urology/Nephrology"
       ],
-      "Institution": [
+      "institution": [
         "The Vancouver Prostate Centre, University of British Columbia, Vancouver, BC, Canada",
         "Oncology Research, Pfizer Worldwide Research & Development, San Diego, CA, USA"
       ],
-      "Journal": "European Urology",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "European Urology",
+      "publisher": "Elsevier",
+      "country": [
         "Canada",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Fran\u00e7ois Lamoureux",
         "Christian Thomas",
         "Min-Jean Yin",
@@ -109,83 +447,420 @@
         "Amina Zoubeidi",
         "Martin E Gleave"
       ],
-      "URLS": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/31/2016 0:00",
-      "RetractionDOI": "10.1016/j.eururo.2016.03.014",
-      "RetractionPubMedID": "27302299.0",
-      "OriginalPaperDate": "12/29/2013 0:00",
-      "OriginalPaperDOI": "10.1016/j.eururo.2013.12.019",
-      "OriginalPaperPubMedID": "24411988.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "3/31/2016 0:00",
+      "retractiondoi": "10.1016/j.eururo.2016.03.014",
+      "retractionpubmedid": "27302299.0",
+      "originalpaperdate": "12/29/2013 0:00",
+      "originalpaperdoi": "10.1016/j.eururo.2013.12.019",
+      "originalpaperpubmedid": "24411988.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Duplication of/in Image",
         "+Error in Image"
       ],
-      "Paywalled": "No",
-      "Notes": "Error by Fran\u00e7ois Lamaroux;",
-      "notice_year": 2016,
-      "year": 2013,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "Error by Fran\u00e7ois Lamaroux;",
+      "year": "2013",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e3cb",
-      "Record ID": "3367",
-      "Title": "Interaction of discoidin domain receptor 1 isoform b (DDR1b) with collagen activates p38 mitogen-activated protein kinase and promotes differentiation of macrophages",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular"
+      "_id": "687cf0b61f662220d8992167",
+      "recordId": "9170",
+      "title": "Effective Targeting of Triple-Negative Breast Cancer Cells by PF-4942847, a Novel Oral Inhibitor of Hsp 90",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
-        "Laboratory of Molecular Immunoregulation, National Cancer Institute at Frederick, Frederick, MD 21702",
-        "SUGEN, Inc., 230 East Grand Avenue, South San Francisco, CA 94080"
+      "institution": [
+        "Oncology Research, Medicinal Chemistry, Pharmacokinetics, Dynamics and Metabolism, Pfizer Worldwide Research and Development, San Diego, California, USA"
       ],
-      "Journal": "FASEB Journal",
-      "Publisher": "Federation of American Societies for Experimental Biology",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Wataru Matsuyama",
-        "Hidenobu Kamohara",
-        "Carole Galligan",
-        "Michel Faure",
-        "Teizo Yoshimura"
+      "author": [
+        "Pramod P Mehta",
+        "Pamela Whalen",
+        "Sangita M Baxi",
+        "Pei-Pei Kung",
+        "Shinji Yamazaki",
+        "Min-Jean Yin"
       ],
-      "URLS": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/2013/12/16/do-we-need-a-science-retraction-shame-list/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/;http://retractionwatch.com/2017/01/17/breast-cancer-studies-fired-pfizer-employee-retracted/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2009 0:00",
-      "RetractionDOI": "10.1096/fj.02-0320fjeRET",
-      "RetractionPubMedID": "19720626.0",
-      "OriginalPaperDate": "5/8/2003 0:00",
-      "OriginalPaperDOI": "10.1096/fj.02-0320fje",
-      "OriginalPaperPubMedID": "12738814.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
+      "retractiondate": "1/15/2017 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-16-2872",
+      "retractionpubmedid": "28093490.0",
+      "originalpaperdate": "6/29/2011 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-11-0592",
+      "originalpaperpubmedid": "21715568.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
         "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
+        "+Manipulation of Images",
+        "+Objections by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2009,
-      "year": 2003,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e2ae",
-      "Record ID": "3656",
-      "Title": "Phase II study of the anti-insulin-like growth factor type 1 receptor antibody CP-751,871 in combination with paclitaxel and carboplatin in previously untreated, locally advanced, or metastatic non-small-cell lung cancer",
-      "Subject": [
+      "_id": "687cf0b81f662220d89922eb",
+      "recordId": "8779",
+      "title": "A novel class of specific Hsp90 small molecule inhibitors demonstrate in vitro and in vivo anti-tumor activity in human melanoma cells",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Dermatology",
+        "(HSC) Medicine - Drug Design",
+        "(HSC) Medicine - Oncology"
+      ],
+      "institution": [
+        "Pfizer Worldwide Research and Development, Oncology Research, 10724 Science Center Drive, San Diego, CA 92121, United States"
+      ],
+      "journal": "Cancer Letters",
+      "publisher": "Elsevier",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Pramod P Mehta",
+        "Pei-Pei Kung",
+        "Shinji Yamazaki",
+        "Marlena Walls",
+        "Andrea Shen",
+        "Leslie Nguyen",
+        "Michael R Gehring",
+        "Gerrit Los",
+        "Tod Smeal",
+        "Min-Jean Yin"
+      ],
+      "urls": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/;http://retractionwatch.com/2017/01/17/breast-cancer-studies-fired-pfizer-employee-retracted/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/21/2018 0:00",
+      "retractiondoi": "10.1016/j.canlet.2018.03.019",
+      "retractionpubmedid": "29579439.0",
+      "originalpaperdate": "10/5/2010 0:00",
+      "originalpaperdoi": "10.1016/j.canlet.2010.09.002",
+      "originalpaperpubmedid": "20926183.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "Min Jean YIn fired as result of investigation.",
+      "year": "2010",
+      "noticeYear": "2018",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b91f662220d899262b",
+      "recordId": "7927",
+      "title": "Targeting Small Cell Lung Cancer Harboring PIK3CA Mutation with a Selective Oral PI3K Inhibitor PF-4989216",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Biology - Molecular",
+        "(BLS) Toxicology",
+        "(HSC) Medicine - Drug Design"
+      ],
+      "institution": [
+        "Oncology Research Unit, Pfizer Worldwide Research and Development, San Diego, California, USA",
+        "Medicinal Chemistry, Pfizer Worldwide Research and Development, San Diego, California, USA",
+        "Computational Biology, Pfizer Worldwide Research and Development, San Diego, California, USA",
+        "Pharmacokinetics, Dynamics, and Metabolism, Pfizer Worldwide Research and Development, San Diego, California, USA",
+        "Drug Safety, Pfizer Worldwide Research and Development, San Diego, California, USA"
+      ],
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Marlena Walls",
+        "Sangita M Baxi",
+        "Pramod P Mehta",
+        "Kevin K C Liu",
+        "JinJiang Zhu",
+        "Heather Estrella",
+        "Chunze Li",
+        "Michael Zientek",
+        "Qing Zong",
+        "Tod Smeal",
+        "Min-Jean Yin"
+      ],
+      "urls": "http://retractionwatch.com/?s=min-jean+yin;http://retractionwatch.com/2017/08/28/case-closed-fired-pfizer-researcher-slated-seven-retractions/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "8/1/2017 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-17-1502",
+      "retractionpubmedid": "28765399.0",
+      "originalpaperdate": "11/15/2013 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-13-1663",
+      "originalpaperpubmedid": "24240111.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Error in Image",
+        "+Unreliable Image"
+      ],
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992f2b",
+      "recordId": "5590",
+      "title": "Nek6 Mediates Human Cancer Cell Transformation and Is a Potential Cancer Therapeutic Target",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Oncology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "Pfizer Global Research and Development, La Jolla Laboratories, San Diego, California"
+      ],
+      "journal": "Molecular Cancer Research (MCR)",
+      "publisher": "American Association for Cancer Research",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Rounak Nassirpour",
+        "Lihua Shao",
+        "Peter Flanagan",
+        "Tinya Abrams",
+        "Bahija Jallal",
+        "Tod Smeal",
+        "Min-Jean Yin"
+      ],
+      "urls": "http://retractionwatch.com/2017/03/03/3rd-retraction-appears-fired-pfizer-breast-cancer-researcher/;http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/1/2017 0:00",
+      "retractiondoi": "10.1158/1541-7786.MCR-16-0440",
+      "retractionpubmedid": "28250205.0",
+      "originalpaperdate": "5/1/2010 0:00",
+      "originalpaperdoi": "10.1158/1541-7786.MCR-09-0291",
+      "originalpaperpubmedid": "20407017.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Investigation by Journal/Publisher"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2017",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c51f662220d8993225",
+      "recordId": "4807",
+      "title": "Plasma PCSK9 Levels and Clinical Outcomes in the TNT (Treating to New Targets) Trial: A Nested Case-Control Study",
+      "subject": [
+        "(BLS) Biology - Cellular",
+        "(HSC) Medicine - Cardiology"
+      ],
+      "institution": [
+        "Department of Vascular Medicine, Academic Medical Center, Amsterdam, the Netherlands",
+        "Department of Cardiology, Academic Medical Center, Amsterdam, the Netherlands",
+        "Pfizer Inc., New York, New York, USA",
+        "Laboratoire Inserm U957, Facult\u00e9 de M\u00e9decine, Universit\u00e9 de Nantes, Nantes, France",
+        "The Heart Research Institute, Sydney, New South Wales, Australia",
+        "Faculty of Medicine, University of Sydney, New South Wales, Australia"
+      ],
+      "journal": "Journal of the American College of Cardiology (JACC)",
+      "publisher": "Elsevier",
+      "country": [
+        "Australia",
+        "France",
+        "Netherlands",
+        "United States"
+      ],
+      "author": [
+        "Roeland Huijgen",
+        "S Matthijs Boekholdt",
+        "Benoit J Arsenault",
+        "Weihang Bao",
+        "Jean-Michel Davaine",
+        "Fatiha Tabet",
+        "Francine Petrides",
+        "Kerry-Anne Rye",
+        "David A DeMicco",
+        "Philip J Barter",
+        "John J P Kastelein",
+        "Gilles Lambert"
+      ],
+      "urls": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
+      "articletype": [
+        "Clinical Study"
+      ],
+      "retractiondate": "4/23/2013 0:00",
+      "retractiondoi": "10.1016/j.jacc.2013.04.002",
+      "retractionpubmedid": "23729038.0",
+      "originalpaperdate": "5/15/2012 0:00",
+      "originalpaperdoi": "10.1016/j.jacc.2011.12.043",
+      "originalpaperpubmedid": "22575316.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d8993227",
+      "recordId": "4805",
+      "title": "Prediction of Cardiovascular Events in Statin-Treated Stable Coronary Patients by Lipid and Nonlipid Biomarkers",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular",
+        "(HSC) Medicine - Cardiology"
+      ],
+      "institution": [
+        "Department of Vascular Medicine, Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands",
+        "The Heart Research Institute, Sydney, Australia",
+        "Pfizer, Inc., New York, New York, USA",
+        "State University of New York Health Science Center, Brooklyn, New York, USA",
+        "University of Texas Southwestern Medical Center, Dallas, Texas, USA",
+        "Veterans Affairs Central California Healthcare System and University of California San Francisco, USA",
+        "School of Medicine, San Francisco, California, USA",
+        "Universit\u00e4tsklinikum, Eppendorf, Germany Emory University School of Medicine, Atlanta, Georgia University of Glasgow, Glasgow, United Kingdom San Francisco General Hospital, San Francisco, California, USA"
+      ],
+      "journal": "Journal of the American College of Cardiology (JACC)",
+      "publisher": "Elsevier",
+      "country": [
+        "Australia",
+        "Germany",
+        "Netherlands",
+        "United States"
+      ],
+      "author": [
+        "Benoit J Arsenault",
+        "Philip J Barter",
+        "David A DeMicco",
+        "Weihang Bao",
+        "Gregory M Preston",
+        "John C LaRosa",
+        "Scott M Grundy",
+        "Prakash Deedwania",
+        "Heiner Greten",
+        "Nanette K Wenger",
+        "James Shepherd",
+        "David D Waters",
+        "John J P Kastelein"
+      ],
+      "urls": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/4/2011 0:00",
+      "retractiondoi": "10.1016/j.jacc.2013.03.006",
+      "retractionpubmedid": "2372903.0",
+      "originalpaperdate": "12/22/2010 0:00",
+      "originalpaperdoi": "10.1016/j.jacc.2010.06.052",
+      "originalpaperpubmedid": "21185503.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Error in Methods",
+        "+Error in Results and/or Conclusions",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2011",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c91f662220d899346b",
+      "recordId": "4218",
+      "title": "Estrogen receptor-interacting protein that modulates its nongenomic activity-crosstalk with Src/Erk phosphorylation cascade",
+      "subject": [
+        "(BLS) Anatomy/Physiology",
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
+        "Department of Cell Biology, Women's Health Research Institute, Wyeth Pharmaceuticals, 500 Arcolla Road, Collegeville, PA 19426"
+      ],
+      "journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
+      "publisher": "National Academy of Sciences (NAS)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Chi-Wai Wong",
+        "Christopher McNally",
+        "Elliot Nickbarg",
+        "Barry S Komm",
+        "Boris J Cheskis"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "7/29/2009 0:00",
+      "retractiondoi": "10.1073/pnas.0907607106",
+      "retractionpubmedid": "19666546.0",
+      "originalpaperdate": "11/1/2002 0:00",
+      "originalpaperdoi": "10.1073/pnas.192569699",
+      "originalpaperpubmedid": "12415108.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "BA 6/7/17",
+      "year": "2002",
+      "noticeYear": "2009",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cb1f662220d8993694",
+      "recordId": "3656",
+      "title": "Phase II study of the anti-insulin-like growth factor type 1 receptor antibody CP-751,871 in combination with paclitaxel and carboplatin in previously untreated, locally advanced, or metastatic non-small-cell lung cancer",
+      "subject": [
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pharmacology",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "The University of Texas M. D. Anderson Cancer Center, Houston, TX",
         "University Hospital Doce de Octubre, Madrid",
         "Institut Catal\u00e0 d'Oncologia, L'Hospitalet, Barcelona",
@@ -197,14 +872,14 @@
         "Fox Chase Cancer Center, Philadelphia, PA",
         "Pfizer Global Research and Development, New London, CT"
       ],
-      "Journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
-      "Publisher": "American Society of Clinical Oncology",
-      "Country": [
+      "journal": "Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology",
+      "publisher": "American Society of Clinical Oncology",
+      "country": [
         "Italy",
         "Spain",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Daniel D Karp",
         "Luis G Paz-Ares",
         "Silvia Novello",
@@ -219,187 +894,95 @@
         "Stephanie Green",
         "Antonio Gualberto"
       ],
-      "URLS": "http://retractionwatch.com/2012/11/02/pfizer-retracts-study-of-experimental-cancer-treatment-figitumumab-for-incorrect-analyses/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2012/11/02/pfizer-retracts-study-of-experimental-cancer-treatment-figitumumab-for-incorrect-analyses/",
+      "articletype": [
         "Clinical Study"
       ],
-      "RetractionDate": "11/20/2012 0:00",
-      "RetractionDOI": "10.1200/JCO.2012.47.3447",
-      "RetractionPubMedID": "23304713.0",
-      "OriginalPaperDate": "5/20/2009 0:00",
-      "OriginalPaperDOI": "10.1200/JCO.2008.19.9331",
-      "OriginalPaperPubMedID": "19380445.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "11/20/2012 0:00",
+      "retractiondoi": "10.1200/JCO.2012.47.3447",
+      "retractionpubmedid": "23304713.0",
+      "originalpaperdate": "5/20/2009 0:00",
+      "originalpaperdoi": "10.1200/JCO.2008.19.9331",
+      "originalpaperpubmedid": "19380445.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Doing the Right Thing",
         "+Error in Analyses",
         "+Error in Results and/or Conclusions",
         "+Investigation by Company/Institution"
       ],
-      "Paywalled": "No",
-      "notice_year": 2012,
-      "year": 2009,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2009",
+      "noticeYear": "2012",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b916",
-      "Record ID": "14410",
-      "Title": "Targeting 3-Phosphoinoside-Dependent Kinase-1 to Inhibit Insulin-Like Growth Factor-I Induced AKT and p70 S6 Kinase Activation in Breast Cancer Cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology"
+      "_id": "687cf0cb1f662220d89937b1",
+      "recordId": "3367",
+      "title": "Interaction of discoidin domain receptor 1 isoform b (DDR1b) with collagen activates p38 mitogen-activated protein kinase and promotes differentiation of macrophages",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Molecular"
       ],
-      "Institution": [
-        "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California, United States of America",
-        "Medicinal Chemistry, Pfizer Worldwide Research and Development, San Diego, California, United States of America"
+      "institution": [
+        "Laboratory of Molecular Immunoregulation, National Cancer Institute at Frederick, Frederick, MD 21702",
+        "SUGEN, Inc., 230 East Grand Avenue, South San Francisco, CA 94080"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "FASEB Journal",
+      "publisher": "Federation of American Societies for Experimental Biology",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Sangita M Baxi",
-        "Wei Tan",
-        "Sean T Murphy",
-        "Tod Smeal",
-        "Min-Jean Yin"
+      "author": [
+        "Wataru Matsuyama",
+        "Hidenobu Kamohara",
+        "Carole Galligan",
+        "Michel Faure",
+        "Teizo Yoshimura"
       ],
-      "URLS": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/;http://retractionwatch.com/2017/03/03/3rd-retraction-appears-fired-pfizer-breast-cancer-researcher/;http://retractionwatch.com/2017/04/17/fired-pfizer-cancer-researcher-loses-final-two-five-papers-pegged-retraction/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/the-retraction-watch-leaderboard/;http://retractionwatch.com/2013/12/16/do-we-need-a-science-retraction-shame-list/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/10/2017 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0175772",
-      "RetractionPubMedID": "28394928.0",
-      "OriginalPaperDate": "10/31/2012 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0048402",
-      "OriginalPaperPubMedID": "23119004.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Author Unresponsive",
-        "+Duplication of/in Image",
+      "retractiondate": "9/1/2009 0:00",
+      "retractiondoi": "10.1096/fj.02-0320fjeRET",
+      "retractionpubmedid": "19720626.0",
+      "originalpaperdate": "5/8/2003 0:00",
+      "originalpaperdoi": "10.1096/fj.02-0320fje",
+      "originalpaperpubmedid": "12738814.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
-        "+Investigation by Journal/Publisher",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "M-J Yin investigated/fired;",
-      "notice_year": 2017,
-      "year": 2012,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2009",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234a289",
-      "Record ID": "20219",
-      "Title": "Pharmacokinetic\u2013pharmacodynamic relationship of bosutinib in patients with chronic-phase chronic myeloid leukemia",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Pfizer Inc, La Jolla, USA",
-        "Projections Research Inc, Phoenixville, USA"
-      ],
-      "Journal": "Cancer Chemotherapy and Pharmacology",
-      "Publisher": "Springer",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Poe Hirr Hsyu",
-        "Diane R Mould",
-        "Richard N Upton",
-        "Michael Amantea"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/27/2013 0:00",
-      "RetractionDOI": "10.1007/s00280-013-2105-1",
-      "RetractionPubMedID": "23070145.0",
-      "OriginalPaperDate": "10/16/2012 0:00",
-      "OriginalPaperDOI": "10.1007/s00280-012-1998-4",
-      "OriginalPaperPubMedID": "23070145.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234bd74",
-      "Record ID": "13290",
-      "Title": "miR-221 Promotes Tumorigenesis in Human Triple Negative Breast Cancer Cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Rounak Nassirpour",
-        "Pramod P Mehta",
-        "Sangita M Baxi",
-        "Min-Jean Yin"
-      ],
-      "URLS": "http://retractionwatch.com/2017/04/17/fired-pfizer-cancer-researcher-loses-final-two-five-papers-pegged-retraction/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "4/10/2017 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0175869",
-      "RetractionPubMedID": "28394920.0",
-      "OriginalPaperDate": "4/24/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0062170",
-      "OriginalPaperPubMedID": "23637992.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of Data",
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2013,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e481",
-      "Record ID": "3175",
-      "Title": "Phosphorylation of MNAR Promotes Estrogen Activation of Phosphatidylinositol 3-Kinase",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993867",
+      "recordId": "3175",
+      "title": "Phosphorylation of MNAR Promotes Estrogen Activation of Phosphatidylinositol 3-Kinase",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Women's Health and Musculoskeletal Biology, Wyeth Research, 500 Arcola Road, Collegeville, Pennsylvania 19426",
         "Department of Molecular and Cell Biology, Baylor College of Medicine, Houston, Texas 77030"
       ],
-      "Journal": "Molecular and Cellular Biology",
-      "Publisher": "American Society for Microbiology",
-      "Country": [
+      "journal": "Molecular and Cellular Biology",
+      "publisher": "American Society for Microbiology",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "James G Greger",
         "Natalie Fursov",
         "Neil Cooch",
@@ -408,229 +991,129 @@
         "Dean P Edwards",
         "Boris J Cheskis"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/1/2010 0:00",
-      "RetractionDOI": "10.1128/MCB.00090-10",
-      "RetractionPubMedID": "20194629.0",
-      "OriginalPaperDate": "12/28/2006 0:00",
-      "OriginalPaperDOI": "10.1128/MCB.01732-06",
-      "OriginalPaperPubMedID": "17194752.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/1/2010 0:00",
+      "retractiondoi": "10.1128/MCB.00090-10",
+      "retractionpubmedid": "20194629.0",
+      "originalpaperdate": "12/28/2006 0:00",
+      "originalpaperdoi": "10.1128/MCB.01732-06",
+      "originalpaperpubmedid": "17194752.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2006,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2006",
+      "noticeYear": "2010",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349f04",
-      "Record ID": "21128",
-      "Title": "Effects of Sodium Lighting on Circadian Rhythms in Rats",
-      "Subject": [
-        "(BLS) Zoology"
-      ],
-      "Institution": [
-        "Comparative Medicine, Pfizer Worldwide Research and Development, Cambridge, Massachusetts",
-        "Comparative Medicine, Pfizer Worldwide Research and Development, Groton, Connecticut"
-      ],
-      "Journal": "Journal of the American Association for Laboratory Animal Science",
-      "Publisher": "American Association for Laboratory Animal Science",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Xian Chen",
-        "Chang Ning Liu",
-        "Judith E Fenyk-Melody"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/26/2019 0:00",
-      "RetractionDOI": "10.30802/AALAS-JAALAS-19-000111",
-      "RetractionPubMedID": "31451133.0",
-      "OriginalPaperDate": "4/10/2019 0:00",
-      "OriginalPaperDOI": "10.30802/AALAS-JAALAS-18-000079",
-      "OriginalPaperPubMedID": "30971327.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Authorship/Affiliation",
-        "+Error in Methods"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2019,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d234cd81",
-      "Record ID": "9170",
-      "Title": "Effective Targeting of Triple-Negative Breast Cancer Cells by PF-4942847, a Novel Oral Inhibitor of Hsp 90",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Oncology Research, Medicinal Chemistry, Pharmacokinetics, Dynamics and Metabolism, Pfizer Worldwide Research and Development, San Diego, California, USA"
-      ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Pramod P Mehta",
-        "Pamela Whalen",
-        "Sangita M Baxi",
-        "Pei-Pei Kung",
-        "Shinji Yamazaki",
-        "Min-Jean Yin"
-      ],
-      "URLS": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/;http://retractionwatch.com/2017/01/17/breast-cancer-studies-fired-pfizer-employee-retracted/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/15/2017 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-16-2872",
-      "RetractionPubMedID": "28093490.0",
-      "OriginalPaperDate": "6/29/2011 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-11-0592",
-      "OriginalPaperPubMedID": "21715568.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Manipulation of Images",
-        "+Objections by Company/Institution"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234db45",
-      "Record ID": "5590",
-      "Title": "Nek6 Mediates Human Cancer Cell Transformation and Is a Potential Cancer Therapeutic Target",
-      "Subject": [
-        "(BLS) Biology - Cancer",
+      "_id": "687cf0cf1f662220d8993a75",
+      "recordId": "2637",
+      "title": "Activation of Discoidin Domain Receptor 1 Facilitates the Maturation of Human Monocyte-Derived Dendritic Cells Through the TNF Receptor Associated Factor 6/TGF-\u00df-Activated Protein Kinase 1 Binding Protein 1\u00df/p38a Mitogen-Activated Protein Kinase Signaling Cascade",
+      "subject": [
         "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Oncology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
+        "(BLS) Biology - Molecular",
+        "(BLS) Microbiology",
+        "(HSC) Medicine - Immunology"
       ],
-      "Institution": [
-        "Pfizer Global Research and Development, La Jolla Laboratories, San Diego, California"
+      "institution": [
+        "Laboratory of Molecular Immunoregulation, National Cancer Institute, Frederick, MD 21702, USA",
+        "SUGEN, Inc., South San Francisco, CA 94080, USA"
       ],
-      "Journal": "Molecular Cancer Research (MCR)",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "The Journal of Immunology : Official Journal of the American Association of Immunologists",
+      "publisher": "American Association of Immunologists",
+      "country": [
         "United States"
       ],
-      "Author": [
-        "Rounak Nassirpour",
-        "Lihua Shao",
-        "Peter Flanagan",
-        "Tinya Abrams",
-        "Bahija Jallal",
-        "Tod Smeal",
-        "Min-Jean Yin"
+      "author": [
+        "Wataru Matsuyama",
+        "Michel Faure",
+        "Teizo Yoshimura"
       ],
-      "URLS": "http://retractionwatch.com/2017/03/03/3rd-retraction-appears-fired-pfizer-breast-cancer-researcher/;http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/",
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/1/2017 0:00",
-      "RetractionDOI": "10.1158/1541-7786.MCR-16-0440",
-      "RetractionPubMedID": "28250205.0",
-      "OriginalPaperDate": "5/1/2010 0:00",
-      "OriginalPaperDOI": "10.1158/1541-7786.MCR-09-0291",
-      "OriginalPaperPubMedID": "20407017.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Journal/Publisher"
+      "retractiondate": "8/1/2010 0:00",
+      "retractiondoi": "10.4049/jimmunol.1090057",
+      "retractionpubmedid": "20660362.0",
+      "originalpaperdate": "10/1/2003 0:00",
+      "originalpaperdoi": "10.4049/jimmunol.171.7.3520",
+      "originalpaperpubmedid": "14500648.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Image",
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Image",
+        "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2010,
-      "mark": "supplemental"
+      "paywalled": "No",
+      "year": "2003",
+      "noticeYear": "2010",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234de3f",
-      "Record ID": "4807",
-      "Title": "Plasma PCSK9 Levels and Clinical Outcomes in the TNT (Treating to New Targets) Trial: A Nested Case-Control Study",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Cardiology"
+      "_id": "687cf0d11f662220d8993dbb",
+      "recordId": "1779",
+      "title": "Amino Acid Sequence of a 12-kDa Inhibitor of Protein Kinase C. Mistaken Identity of a Protein Kinase C Inhibitor",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics"
       ],
-      "Institution": [
-        "Department of Vascular Medicine, Academic Medical Center, Amsterdam, the Netherlands",
-        "Department of Cardiology, Academic Medical Center, Amsterdam, the Netherlands",
-        "Pfizer Inc., New York, New York, USA",
-        "Laboratoire Inserm U957, Facult\u00e9 de M\u00e9decine, Universit\u00e9 de Nantes, Nantes, France",
-        "The Heart Research Institute, Sydney, New South Wales, Australia",
-        "Faculty of Medicine, University of Sydney, New South Wales, Australia"
+      "institution": [
+        "Biochemistry Department, Upjohn Laboratories, Kalamazoo, USA",
+        "Department of Medical Biochemistry, University of Calgary, Calgary, Alberta, Canada"
       ],
-      "Journal": "Journal of the American College of Cardiology (JACC)",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Australia",
-        "France",
-        "Netherlands",
+      "journal": "European Journal of Biochemistry",
+      "publisher": "Wiley",
+      "country": [
+        "Canada",
         "United States"
       ],
-      "Author": [
-        "Roeland Huijgen",
-        "S Matthijs Boekholdt",
-        "Benoit J Arsenault",
-        "Weihang Bao",
-        "Jean-Michel Davaine",
-        "Fatiha Tabet",
-        "Francine Petrides",
-        "Kerry-Anne Rye",
-        "David A DeMicco",
-        "Philip J Barter",
-        "John J P Kastelein",
-        "Gilles Lambert"
+      "author": [
+        "Ned M Mozier",
+        "Heidi A Zurcher-Neely",
+        "David M Guido",
+        "W Rodney Matthews",
+        "Robert L Heinrikson",
+        "Elaine D Fraser",
+        "Michael P Walsh",
+        "James D Pearson"
       ],
-      "URLS": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
-      "ArticleType": [
-        "Clinical Study"
+      "articletype": [
+        "Research Article"
       ],
-      "RetractionDate": "4/23/2013 0:00",
-      "RetractionDOI": "10.1016/j.jacc.2013.04.002",
-      "RetractionPubMedID": "23729038.0",
-      "OriginalPaperDate": "5/15/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.jacc.2011.12.043",
-      "OriginalPaperPubMedID": "22575316.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
+      "retractiondate": "9/15/1991 0:00",
+      "retractiondoi": "10.1111/j.1432-1033.1991.tb16249.x",
+      "retractionpubmedid": "1915353.0",
+      "originalpaperdate": "11/26/1990 0:00",
+      "originalpaperdoi": "10.1111/j.1432-1033.1990.tb19421.x",
+      "originalpaperpubmedid": "2253615.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Notice - Limited or No Information"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "1990",
+      "noticeYear": "1991",
+      "mark": "supplemental",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ea21",
-      "Record ID": "1700",
-      "Title": "Molecular Analysis of Non-small cell Lung Cancer Identifies Subsets with Different Sensitivity to Insulin-like Growth Factor i Receptor Inhibition",
-      "Subject": [
+      "_id": "687cf0d31f662220d8993e07",
+      "recordId": "1700",
+      "title": "Molecular Analysis of Non-small cell Lung Cancer Identifies Subsets with Different Sensitivity to Insulin-like Growth Factor i Receptor Inhibition",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
+      "institution": [
         "Department of Clinical Development and Medical Affairs, Pfizer Oncology, New London, CT, USA",
         "Department of Pathology and Laboratory Medicine, The Warren Alpert Medical School of Brown University, Providence, RI, USA",
         "HistoRx, Inc., New Haven, CT, USA",
@@ -644,13 +1127,13 @@
         "Department of Medical Oncology, Virgen del Rocio University Hospital, Seville, Spain",
         "Department of Thoracic Oncology, MD Anderson Cancer Center, Houston, TX, USA"
       ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
+      "journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+      "publisher": "American Association for Cancer Research",
+      "country": [
         "Spain",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Antonio Gualberto",
         "Marisa Dolled-Filhart",
         "Mark Gustavson",
@@ -668,205 +1151,51 @@
         "Daniel D Karp",
         "Adrian V Lee"
       ],
-      "URLS": "http://retractionwatch.com/2014/06/13/pfizer-retracts-another-experimental-cancer-drug-study/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2014/06/13/pfizer-retracts-another-experimental-cancer-drug-study/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/15/2014 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-14-1118",
-      "RetractionPubMedID": "24928947.0",
-      "OriginalPaperDate": "9/15/2010 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-10-0089",
-      "OriginalPaperPubMedID": "20670944.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/15/2014 0:00",
+      "retractiondoi": "10.1158/1078-0432.CCR-14-1118",
+      "retractionpubmedid": "24928947.0",
+      "originalpaperdate": "9/15/2010 0:00",
+      "originalpaperdoi": "10.1158/1078-0432.CCR-10-0089",
+      "originalpaperpubmedid": "20670944.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Investigation by Company/Institution",
         "+Unreliable Data"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2010,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2010",
+      "noticeYear": "2014",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e68f",
-      "Record ID": "2637",
-      "Title": "Activation of Discoidin Domain Receptor 1 Facilitates the Maturation of Human Monocyte-Derived Dendritic Cells Through the TNF Receptor Associated Factor 6/TGF-\u00df-Activated Protein Kinase 1 Binding Protein 1\u00df/p38a Mitogen-Activated Protein Kinase Signaling Cascade",
-      "Subject": [
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Microbiology",
-        "(HSC) Medicine - Immunology"
-      ],
-      "Institution": [
-        "Laboratory of Molecular Immunoregulation, National Cancer Institute, Frederick, MD 21702, USA",
-        "SUGEN, Inc., South San Francisco, CA 94080, USA"
-      ],
-      "Journal": "The Journal of Immunology : Official Journal of the American Association of Immunologists",
-      "Publisher": "American Association of Immunologists",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Wataru Matsuyama",
-        "Michel Faure",
-        "Teizo Yoshimura"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/1/2010 0:00",
-      "RetractionDOI": "10.4049/jimmunol.1090057",
-      "RetractionPubMedID": "20660362.0",
-      "OriginalPaperDate": "10/1/2003 0:00",
-      "OriginalPaperDOI": "10.4049/jimmunol.171.7.3520",
-      "OriginalPaperPubMedID": "14500648.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Image",
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Image",
-        "+Unreliable Data"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2010,
-      "year": 2003,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234de41",
-      "Record ID": "4805",
-      "Title": "Prediction of Cardiovascular Events in Statin-Treated Stable Coronary Patients by Lipid and Nonlipid Biomarkers",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Biology - Molecular",
-        "(HSC) Medicine - Cardiology"
-      ],
-      "Institution": [
-        "Department of Vascular Medicine, Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands",
-        "The Heart Research Institute, Sydney, Australia",
-        "Pfizer, Inc., New York, New York, USA",
-        "State University of New York Health Science Center, Brooklyn, New York, USA",
-        "University of Texas Southwestern Medical Center, Dallas, Texas, USA",
-        "Veterans Affairs Central California Healthcare System and University of California San Francisco, USA",
-        "School of Medicine, San Francisco, California, USA",
-        "Universit\u00e4tsklinikum, Eppendorf, Germany Emory University School of Medicine, Atlanta, Georgia University of Glasgow, Glasgow, United Kingdom San Francisco General Hospital, San Francisco, California, USA"
-      ],
-      "Journal": "Journal of the American College of Cardiology (JACC)",
-      "Publisher": "Elsevier",
-      "Country": [
-        "Australia",
-        "Germany",
-        "Netherlands",
-        "United States"
-      ],
-      "Author": [
-        "Benoit J Arsenault",
-        "Philip J Barter",
-        "David A DeMicco",
-        "Weihang Bao",
-        "Gregory M Preston",
-        "John C LaRosa",
-        "Scott M Grundy",
-        "Prakash Deedwania",
-        "Heiner Greten",
-        "Nanette K Wenger",
-        "James Shepherd",
-        "David D Waters",
-        "John J P Kastelein"
-      ],
-      "URLS": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "1/4/2011 0:00",
-      "RetractionDOI": "10.1016/j.jacc.2013.03.006",
-      "RetractionPubMedID": "2372903.0",
-      "OriginalPaperDate": "12/22/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.jacc.2010.06.052",
-      "OriginalPaperPubMedID": "21185503.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2010,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234a28a",
-      "Record ID": "20218",
-      "Title": "Population pharmacokinetic and pharmacodynamic analysis of bosutinib",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Pharmacology",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Pfizer Inc, La Jolla, CA, USA",
-        "Projections Research Inc, Phoenixville, PA, USA",
-        "Pfizer Inc, Collegeville, PA, USA"
-      ],
-      "Journal": "Drug Metabolism and Pharmacokinetics",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Poe Hirr Hsyu",
-        "Diane R Mould",
-        "Richat Abbas",
-        "Michael Amantea"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/10/2019 0:00",
-      "RetractionDOI": "10.1016/j.dmpk.2019.01.003",
-      "RetractionPubMedID": "30922682.0",
-      "OriginalPaperDate": "6/10/2014 0:00",
-      "OriginalPaperDOI": "10.2133/dmpk.DMPK-13-RG-126",
-      "OriginalPaperPubMedID": "24919837.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Error in Methods",
-        "+Error in Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2014,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234ec46",
-      "Record ID": "1141",
-      "Title": "Vitamin D Levels do not Predict Cardiovascular Events in Statin-treated Patients with Stable Coronary Disease",
-      "Subject": [
+      "_id": "687cf0d51f662220d899402c",
+      "recordId": "1141",
+      "title": "Vitamin D Levels do not Predict Cardiovascular Events in Statin-treated Patients with Stable Coronary Disease",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(HSC) Medicine - Cardiovascular",
         "(HSC) Nutrition"
       ],
-      "Institution": [
+      "institution": [
         "University of Alabama at Birmingham, Birmingham, AL, USA",
         "Emory University, Atlanta, GA, USA",
         "San Francisco General Hospital, San Francisco, CA, USA",
         "Pfizer Inc, New York, NY, USA",
         "State University of New York Health Science Center, Brooklyn, NY, USA"
       ],
-      "Journal": "American Heart Journal",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "American Heart Journal",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Vera Bittner",
         "Nanette K Wenger",
         "David D Waters",
@@ -874,464 +1203,158 @@
         "Michael Messig",
         "John C LaRosa"
       ],
-      "URLS": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2013/04/16/pfizer-database-errors-cause-two-voluminous-retractions-for-jacc-statin-biomarker-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2013 0:00",
-      "RetractionDOI": "10.1016/j.ahj.2013.06.001",
-      "RetractionPubMedID": "23977712.0",
-      "OriginalPaperDate": "9/1/2012 0:00",
-      "OriginalPaperDOI": "10.1016/j.ahj.2012.06.016",
-      "OriginalPaperPubMedID": "22980306.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2013 0:00",
+      "retractiondoi": "10.1016/j.ahj.2013.06.001",
+      "retractionpubmedid": "23977712.0",
+      "originalpaperdate": "9/1/2012 0:00",
+      "originalpaperdoi": "10.1016/j.ahj.2012.06.016",
+      "originalpaperpubmedid": "22980306.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Analyses",
         "+Error in Data",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2013,
-      "year": 2012,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234d245",
-      "Record ID": "7927",
-      "Title": "Targeting Small Cell Lung Cancer Harboring PIK3CA Mutation with a Selective Oral PI3K Inhibitor PF-4989216",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Toxicology",
-        "(HSC) Medicine - Drug Design"
-      ],
-      "Institution": [
-        "Oncology Research Unit, Pfizer Worldwide Research and Development, San Diego, California, USA",
-        "Medicinal Chemistry, Pfizer Worldwide Research and Development, San Diego, California, USA",
-        "Computational Biology, Pfizer Worldwide Research and Development, San Diego, California, USA",
-        "Pharmacokinetics, Dynamics, and Metabolism, Pfizer Worldwide Research and Development, San Diego, California, USA",
-        "Drug Safety, Pfizer Worldwide Research and Development, San Diego, California, USA"
-      ],
-      "Journal": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
-      "Publisher": "American Association for Cancer Research",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Marlena Walls",
-        "Sangita M Baxi",
-        "Pramod P Mehta",
-        "Kevin K C Liu",
-        "JinJiang Zhu",
-        "Heather Estrella",
-        "Chunze Li",
-        "Michael Zientek",
-        "Qing Zong",
-        "Tod Smeal",
-        "Min-Jean Yin"
-      ],
-      "URLS": "http://retractionwatch.com/?s=min-jean+yin;http://retractionwatch.com/2017/08/28/case-closed-fired-pfizer-researcher-slated-seven-retractions/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "8/1/2017 0:00",
-      "RetractionDOI": "10.1158/1078-0432.CCR-17-1502",
-      "RetractionPubMedID": "28765399.0",
-      "OriginalPaperDate": "11/15/2013 0:00",
-      "OriginalPaperDOI": "10.1158/1078-0432.CCR-13-1663",
-      "OriginalPaperPubMedID": "24240111.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Error in Image",
-        "+Unreliable Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234984c",
-      "Record ID": "22852",
-      "Title": "An interim analysis of real-world safety data from an ongoing, non-interventional, observational study of patients with inflammatory bowel disease treated with CT-P13, an infliximab biosimilar, in the context of usual care with reference infliximab",
-      "Subject": [
-        "(HSC) Medicine - Gastroenterology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Gastroenterology Practice Minden, Minden, Germany",
-        "University Hospital Bratislava and Comenius University, Bratislava, Slovakia",
-        "AP-HP - H\u00f4pitaux Univ Saint-Louis-Lariboisi\u00e8re-Fernand-Widal, Paris, France",
-        "Pfizer Inc., New York City, USA",
-        "Pfizer Inc., Manila, Philippines",
-        "Pfizer Inc., Maidenhead, UK",
-        "IBD Clinical and Research Centre, ISCARE IVF and 1st Medical Faculty, Charles University, Prague, Czech Republic",
-        "Hospital Universitario de La Princesa, IIS-IP, CIBEREHD, Madrid, Spain"
-      ],
-      "Journal": "Journal of Crohn's and Colitis",
-      "Publisher": "Oxford Academic",
-      "Country": [
-        "Czech Republic",
-        "France",
-        "Germany",
-        "Philippines",
-        "Slovakia",
-        "Spain",
-        "United Kingdom",
-        "United States"
-      ],
-      "Author": [
-        "B Bokemeyer",
-        "T Hlavaty",
-        "M Allez",
-        "P Selema",
-        "S Moosavi",
-        "M J Cadatal",
-        "H Fowler",
-        "R Cheung",
-        "M Lukas",
-        "J P Gisbert"
-      ],
-      "ArticleType": [
-        "Conference Abstract/Paper"
-      ],
-      "RetractionDate": "3/13/2020 0:00",
-      "RetractionDOI": "10.1093/ecco-jcc/jjz127",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/25/2019 0:00",
-      "OriginalPaperDOI": "10.1093/ecco-jcc/jjy222.714",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Analyses",
-        "+Error in Methods"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2019,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234e9d5",
-      "Record ID": "1779",
-      "Title": "Amino Acid Sequence of a 12-kDa Inhibitor of Protein Kinase C. Mistaken Identity of a Protein Kinase C Inhibitor",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Biochemistry Department, Upjohn Laboratories, Kalamazoo, USA",
-        "Department of Medical Biochemistry, University of Calgary, Calgary, Alberta, Canada"
-      ],
-      "Journal": "European Journal of Biochemistry",
-      "Publisher": "Wiley",
-      "Country": [
-        "Canada",
-        "United States"
-      ],
-      "Author": [
-        "Ned M Mozier",
-        "Heidi A Zurcher-Neely",
-        "David M Guido",
-        "W Rodney Matthews",
-        "Robert L Heinrikson",
-        "Elaine D Fraser",
-        "Michael P Walsh",
-        "James D Pearson"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/15/1991 0:00",
-      "RetractionDOI": "10.1111/j.1432-1033.1991.tb16249.x",
-      "RetractionPubMedID": "1915353.0",
-      "OriginalPaperDate": "11/26/1990 0:00",
-      "OriginalPaperDOI": "10.1111/j.1432-1033.1990.tb19421.x",
-      "OriginalPaperPubMedID": "2253615.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 1991,
-      "year": 1990,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d234e085",
-      "Record ID": "4218",
-      "Title": "Estrogen receptor-interacting protein that modulates its nongenomic activity-crosstalk with Src/Erk phosphorylation cascade",
-      "Subject": [
-        "(BLS) Anatomy/Physiology",
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Department of Cell Biology, Women's Health Research Institute, Wyeth Pharmaceuticals, 500 Arcolla Road, Collegeville, PA 19426"
-      ],
-      "Journal": "PNAS: Proceedings of the National Academy of Sciences of the United States of America",
-      "Publisher": "National Academy of Sciences (NAS)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Chi-Wai Wong",
-        "Christopher McNally",
-        "Elliot Nickbarg",
-        "Barry S Komm",
-        "Boris J Cheskis"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "7/29/2009 0:00",
-      "RetractionDOI": "10.1073/pnas.0907607106",
-      "RetractionPubMedID": "19666546.0",
-      "OriginalPaperDate": "11/1/2002 0:00",
-      "OriginalPaperDOI": "10.1073/pnas.192569699",
-      "OriginalPaperPubMedID": "12415108.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "BA 6/7/17",
-      "notice_year": 2009,
-      "year": 2002,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234c640",
-      "Record ID": "11033",
-      "Title": "miR-122 Regulates Tumorigenesis in Hepatocellular Carcinoma by Targeting AKT3",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Biology - Molecular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Oncology Research, Pfizer Worldwide Research and Development, San Diego, California, United States of America"
-      ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Rounak Nassirpour",
-        "Pramod P Mehta",
-        "Min-Jean Yin"
-      ],
-      "URLS": "http://retractionwatch.com/2017/08/28/case-closed-fired-pfizer-researcher-slated-seven-retractions/;http://retractionwatch.com/?s=min-jean+yin",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "9/8/2017 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0184778",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "11/7/2013 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0079655",
-      "OriginalPaperPubMedID": "24244539.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Unreliable Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2017,
-      "year": 2013,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234cf05",
-      "Record ID": "8779",
-      "Title": "A novel class of specific Hsp90 small molecule inhibitors demonstrate in vitro and in vivo anti-tumor activity in human melanoma cells",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(HSC) Medicine - Dermatology",
-        "(HSC) Medicine - Drug Design",
-        "(HSC) Medicine - Oncology"
-      ],
-      "Institution": [
-        "Pfizer Worldwide Research and Development, Oncology Research, 10724 Science Center Drive, San Diego, CA 92121, United States"
-      ],
-      "Journal": "Cancer Letters",
-      "Publisher": "Elsevier",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Pramod P Mehta",
-        "Pei-Pei Kung",
-        "Shinji Yamazaki",
-        "Marlena Walls",
-        "Andrea Shen",
-        "Leslie Nguyen",
-        "Michael R Gehring",
-        "Gerrit Los",
-        "Tod Smeal",
-        "Min-Jean Yin"
-      ],
-      "URLS": "http://retractionwatch.com/2016/10/11/pfizer-fires-employee-requests-five-retractions/;http://retractionwatch.com/2017/01/17/breast-cancer-studies-fired-pfizer-employee-retracted/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/21/2018 0:00",
-      "RetractionDOI": "10.1016/j.canlet.2018.03.019",
-      "RetractionPubMedID": "29579439.0",
-      "OriginalPaperDate": "10/5/2010 0:00",
-      "OriginalPaperDOI": "10.1016/j.canlet.2010.09.002",
-      "OriginalPaperPubMedID": "20926183.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "Min Jean YIn fired as result of investigation.",
-      "notice_year": 2018,
-      "year": 2010,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2013",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1990,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
+      "serious": 0,
+      "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 1991,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2002,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2003,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2006,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2009,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 4,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
-      "supplemental": 1,
-      "research": 2,
-      "integrity": 1
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 4,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 4,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
-      "research": 3,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1339,10 +1362,10 @@
     {
       "year": 2017,
       "retraction_count": 0,
-      "retraction_notice_count": 6,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -1350,32 +1373,32 @@
     {
       "year": 2018,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
-      "retraction_count": 3,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

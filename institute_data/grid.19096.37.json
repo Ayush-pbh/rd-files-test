@@ -1,80 +1,28 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877f56",
+    "_id": "687ccbab09adbf7aa61b8b77",
     "grid_id": "grid.19096.37",
     "institute_name": "Indian Council of Medical Research",
     "country": "India",
     "retracted_record_ids": [
+      "58845",
+      "263",
+      "33295",
       "33294",
       "60847",
-      "33295",
-      "263",
-      "58845",
       "24499"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2346fa4",
-      "Record ID": "33294",
-      "Title": "A Model Based Analysis for COVID-19 Pandemic in India: Implications for Health Systems and Policy for Low- and Middle-Income Countries",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Infectious Disease",
-        "(HSC) Public Health and Safety"
-      ],
-      "Institution": [
-        "Department of Community Medicine & School of Public Health, Postgraduate Institute of Medical Education & Research, Chandigarh, India",
-        "London School of Hygiene and Tropical Medicine, London, England",
-        "Indian Council of Medical Research, New Delhi",
-        "The INCLEN Trust International, New Delhi",
-        "National COVID-19 Taskforce \u2013 Operations Research Group, New Delhi"
-      ],
-      "Journal": "medRxiv",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
-        "India",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Shankar Prinja",
-        "Pankaj Bahuguna",
-        "Yashika Chugh",
-        "Anna Vassall",
-        "Arvind Pandey",
-        "Sumit Aggarwal",
-        "Narendra Kumar Arora"
-      ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Preprint",
-        "Research Article"
-      ],
-      "RetractionDate": "8/18/2020 0:00",
-      "RetractionDOI": "10.1101/2020.06.11.20128231",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/1/2020 0:00",
-      "OriginalPaperDOI": "10.1101/2020.06.11.20128231",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Notice - Limited or No Information"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d2340473",
-      "Record ID": "60847",
-      "Title": "Bioremediation of polycyclic aromatic hydrocarbons: An updated microbiological review",
-      "Subject": [
+      "_id": "687cef631f662220d8985859",
+      "recordId": "60847",
+      "title": "Bioremediation of polycyclic aromatic hydrocarbons: An updated microbiological review",
+      "subject": [
         "(BLS) Biochemistry",
         "(ENV) Environmental Sciences"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biochemistry, University of Otago, Dunedin, 9054, New Zealand",
         "Division of Non-Communicable Diseases, Indian Council of Medical Research (ICMR), New Delhi, 110029, India",
         "Department of Microbiology, School of Life Sciences, Pondicherry University, Puducherry, 605014, India",
@@ -86,14 +34,14 @@
         "Center for Transdisciplinary Research (CFTR), Department of Pharmacology, Saveetha Dental College, Saveetha Institute of Medical and Technical Sciences, Saveetha University, Chennai, India",
         "University Centre for Research & Development, Department of Civil Engineering, Chandigarh University, Mohali, 140103, India"
       ],
-      "Journal": "Chemosphere",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Chemosphere",
+      "publisher": "Elsevier",
+      "country": [
         "India",
         "Lebanon",
         "New Zealand"
       ],
-      "Author": [
+      "author": [
         "Aswin Thacharodi",
         "Saqib Hassan",
         "Tripti Singh",
@@ -104,17 +52,17 @@
         "Kathirvel Brindhadevi",
         "Arivalagan Pugazhendhi"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "1/7/2025 0:00",
-      "RetractionDOI": "10.1016/j.chemosphere.2024.143868",
-      "RetractionPubMedID": "39734153.0",
-      "OriginalPaperDate": "4/8/2023 0:00",
-      "OriginalPaperDOI": "10.1016/j.chemosphere.2023.138498",
-      "OriginalPaperPubMedID": "36996919.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/7/2025 0:00",
+      "retractiondoi": "10.1016/j.chemosphere.2024.143868",
+      "retractionpubmedid": "39734153.0",
+      "originalpaperdate": "4/8/2023 0:00",
+      "originalpaperdoi": "10.1016/j.chemosphere.2023.138498",
+      "originalpaperpubmedid": "36996919.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Conflict of Interest",
         "+Fake Peer Review",
@@ -122,20 +70,71 @@
         "+Objections by Author(s)",
         "+Rogue Editor"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2023,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2346fa3",
-      "Record ID": "33295",
-      "Title": "Determinants of COVID-19 incidence and mortality: A cross-country analysis",
-      "Subject": [
+      "_id": "687cef6b1f662220d898602a",
+      "recordId": "58845",
+      "title": "Calcium Supplementation for the Prevention of Pre-Eclampsia",
+      "subject": [
+        "(HSC) Medicine - Obstetrics/Gynecology",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Department of Obstetrics and Gynecology, Maulana Azad Medical College and Lok Nayak Hospital, New Delhi, India",
+        "Division of Noncommunicable Diseases, Indian Council of Medical Research, New Delhi, India"
+      ],
+      "journal": "International Journal of Gynecology & Obstetrics",
+      "publisher": "Wiley",
+      "country": [
+        "India"
+      ],
+      "author": [
+        "Ashok Kumar",
+        "Salam Gyaneshwori Devi",
+        "Swaraj Batra",
+        "Chanchal Singh",
+        "Deepak Kumar Shukla"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/18/2024 0:00",
+      "retractiondoi": "10.1002/ijgo.16012",
+      "retractionpubmedid": "39558631.0",
+      "originalpaperdate": "10/11/2008 0:00",
+      "originalpaperdoi": "10.1016/j.ijgo.2008.08.027",
+      "originalpaperpubmedid": "18851852.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Duplication of Data",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Original Data and/or Images not Provided and/or not Available",
+        "+Unreliable Data",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/578922402AECEE6BCD13396061BCCE",
+      "year": "2008",
+      "noticeYear": "2024",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefcc1f662220d898c389",
+      "recordId": "33295",
+      "title": "Determinants of COVID-19 incidence and mortality: A cross-country analysis",
+      "subject": [
         "(HSC) Biostatistics/Epidemiology",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Department of Community Medicine & School of Public Health, Post Graduate Institute of Medical Education and Research, Chandigarh, India",
         "National Chair- Medical Statistics, Indian Council of Medical Research, New Delhi, India",
         "Translational Global Health Policy Research Cell, Indian Council of Medical Research, New Delhi, India",
@@ -143,12 +142,12 @@
         "Division of Epidemiology and Communicable Diseases, Indian Council of Medical Research, New Delhi, India",
         "The INCLEN Trust International, New Delhi, India"
       ],
-      "Journal": "medRxiv",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
+      "journal": "medRxiv",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
         "India"
       ],
-      "Author": [
+      "author": [
         "Gursimer Jeet",
         "Atul Sharma",
         "Aarti Goyal",
@@ -159,33 +158,141 @@
         "Sumit Aggarwal",
         "Narendra K Arora"
       ],
-      "URLS": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Preprint",
         "Research Article"
       ],
-      "RetractionDate": "6/19/2020 0:00",
-      "RetractionDOI": "10.1101/2020.06.11.20128561",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "6/12/2020 0:00",
-      "OriginalPaperDOI": "10.1101/2020.06.11.20128561",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/19/2020 0:00",
+      "retractiondoi": "10.1101/2020.06.11.20128561",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/12/2020 0:00",
+      "originalpaperdoi": "10.1101/2020.06.11.20128561",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234efa2",
-      "Record ID": "263",
-      "Title": "Characterization of V3 loop of HIV type 1 spreading rapidly among injection drug users of Manipur, India: a molecular epidemiological perspective",
-      "Subject": [
+      "_id": "687cefcc1f662220d898c38a",
+      "recordId": "33294",
+      "title": "A Model Based Analysis for COVID-19 Pandemic in India: Implications for Health Systems and Policy for Low- and Middle-Income Countries",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Infectious Disease",
+        "(HSC) Public Health and Safety"
+      ],
+      "institution": [
+        "Department of Community Medicine & School of Public Health, Postgraduate Institute of Medical Education & Research, Chandigarh, India",
+        "London School of Hygiene and Tropical Medicine, London, England",
+        "Indian Council of Medical Research, New Delhi",
+        "The INCLEN Trust International, New Delhi",
+        "National COVID-19 Taskforce \u2013 Operations Research Group, New Delhi"
+      ],
+      "journal": "medRxiv",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
+        "India",
+        "United Kingdom"
+      ],
+      "author": [
+        "Shankar Prinja",
+        "Pankaj Bahuguna",
+        "Yashika Chugh",
+        "Anna Vassall",
+        "Arvind Pandey",
+        "Sumit Aggarwal",
+        "Narendra Kumar Arora"
+      ],
+      "urls": "http://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Preprint",
+        "Research Article"
+      ],
+      "retractiondate": "8/18/2020 0:00",
+      "retractiondoi": "10.1101/2020.06.11.20128231",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "6/1/2020 0:00",
+      "originalpaperdoi": "10.1101/2020.06.11.20128231",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Notice - Limited or No Information"
+      ],
+      "paywalled": "No",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0081f662220d898e5ca",
+      "recordId": "24499",
+      "title": "Participants\u2019 perception of the AIIMS Trauma Assessment and Management (ATAM) course for management of polytrauma due to road traffic injuries: A multi-institutional experience from India",
+      "subject": [
+        "(B/T) Transportation",
+        "(HSC) Medicine - Orthopedics",
+        "(SOC) Psychology"
+      ],
+      "institution": [
+        "Division of Socio-Behavioural & Health Systems Research, Indian Council of Medical Research, New Delhi, India",
+        "Department of Orthopaedics, Pramukhswami Medical College, Karamsad, Gujarat, India",
+        "Department of Emergency Medicine, M.S. Ramaiah Medical College, Bengaluru, India",
+        "Division of Trauma Surgery and Critical Care, JPN Apex Trauma Centre, All India Institute of Medical Sciences, New Delhi, India",
+        "Department of General Surgery, King George's Medical University Lucknow, India",
+        "Department of Emergency Medicine, Jubilee Mission Medical College and Research Institute, Thrissur, India",
+        "Department of Paediatrics, Pramukhswami Medical College, Karamsad, Gujarat, India"
+      ],
+      "journal": "Journal of Clinical Orthopaedics and Trauma",
+      "publisher": "Elsevier",
+      "country": [
+        "India"
+      ],
+      "author": [
+        "Bontha V Babu",
+        "Karthink Vishwanathan",
+        "Aruna Ramesh",
+        "Amit Gupta",
+        "Sandeep Tiwari",
+        "Babu U Palatty",
+        "Somashekhar M Nimbalkar",
+        "Yogita Sharma"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/12/2020 0:00",
+      "retractiondoi": "10.1016/j.jcot.2020.09.016",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/3/2020 0:00",
+      "originalpaperdoi": "10.1016/j.jcot.2020.09.019",
+      "originalpaperpubmedid": "33716438.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "notes": "unknown date of retraction, unknown when updated from temporary removal to withdrawal (1/28/22 AJA)",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0d71f662220d8994388",
+      "recordId": "263",
+      "title": "Characterization of V3 loop of HIV type 1 spreading rapidly among injection drug users of Manipur, India: a molecular epidemiological perspective",
+      "subject": [
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Biostatistics/Epidemiology",
@@ -193,19 +300,19 @@
         "(HSC) Medicine - Pathology",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Indian Council of Medical Research (ICMR) Unit for Research On AIDS, DL-172, Salt Lake, Calcutta-700091, India",
         "Departments of Medicine and Microbiology & Immunology, UCLA School of Medicine, Los Angeles, California 90024",
         "Department of Biomathematics, UCLA School of Medicine, Los Angeles, California 90024",
         "Department of Epidemiology, UCLA School of Public Health, Los Angeles, California 90024"
       ],
-      "Journal": "AIDS Research and Human Retroviruses",
-      "Publisher": "Mary Ann Liebert",
-      "Country": [
+      "journal": "AIDS Research and Human Retroviruses",
+      "publisher": "Mary Ann Liebert",
+      "country": [
         "India",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Samiran Panda",
         "Guangqiang Wang",
         "Swarup Sarkar",
@@ -217,191 +324,91 @@
         "Roger Detels",
         "Andrew H Kaplan"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/10/1997 0:00",
-      "RetractionDOI": "10.1089/aid.1997.13.811",
-      "RetractionPubMedID": "9198477.0",
-      "OriginalPaperDate": "11/1/1996 0:00",
-      "OriginalPaperDOI": "10.1089/aid.1996.12.1571",
-      "OriginalPaperPubMedID": "8911584.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/10/1997 0:00",
+      "retractiondoi": "10.1089/aid.1997.13.811",
+      "retractionpubmedid": "9198477.0",
+      "originalpaperdate": "11/1/1996 0:00",
+      "originalpaperdoi": "10.1089/aid.1996.12.1571",
+      "originalpaperpubmedid": "8911584.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Contamination of Materials (General)"
       ],
-      "Paywalled": "Yes",
-      "Notes": "2/8/2017",
-      "notice_year": 1997,
-      "year": 1996,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2340c44",
-      "Record ID": "58845",
-      "Title": "Calcium Supplementation for the Prevention of Pre-Eclampsia",
-      "Subject": [
-        "(HSC) Medicine - Obstetrics/Gynecology",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Department of Obstetrics and Gynecology, Maulana Azad Medical College and Lok Nayak Hospital, New Delhi, India",
-        "Division of Noncommunicable Diseases, Indian Council of Medical Research, New Delhi, India"
-      ],
-      "Journal": "International Journal of Gynecology & Obstetrics",
-      "Publisher": "Wiley",
-      "Country": [
-        "India"
-      ],
-      "Author": [
-        "Ashok Kumar",
-        "Salam Gyaneshwori Devi",
-        "Swaraj Batra",
-        "Chanchal Singh",
-        "Deepak Kumar Shukla"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/18/2024 0:00",
-      "RetractionDOI": "10.1002/ijgo.16012",
-      "RetractionPubMedID": "39558631.0",
-      "OriginalPaperDate": "10/11/2008 0:00",
-      "OriginalPaperDOI": "10.1016/j.ijgo.2008.08.027",
-      "OriginalPaperPubMedID": "18851852.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Duplication of Data",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Original Data and/or Images not Provided and/or not Available",
-        "+Unreliable Data",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/578922402AECEE6BCD13396061BCCE",
-      "notice_year": 2024,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d23491e4",
-      "Record ID": "24499",
-      "Title": "Participants\u2019 perception of the AIIMS Trauma Assessment and Management (ATAM) course for management of polytrauma due to road traffic injuries: A multi-institutional experience from India",
-      "Subject": [
-        "(B/T) Transportation",
-        "(HSC) Medicine - Orthopedics",
-        "(SOC) Psychology"
-      ],
-      "Institution": [
-        "Division of Socio-Behavioural & Health Systems Research, Indian Council of Medical Research, New Delhi, India",
-        "Department of Orthopaedics, Pramukhswami Medical College, Karamsad, Gujarat, India",
-        "Department of Emergency Medicine, M.S. Ramaiah Medical College, Bengaluru, India",
-        "Division of Trauma Surgery and Critical Care, JPN Apex Trauma Centre, All India Institute of Medical Sciences, New Delhi, India",
-        "Department of General Surgery, King George's Medical University Lucknow, India",
-        "Department of Emergency Medicine, Jubilee Mission Medical College and Research Institute, Thrissur, India",
-        "Department of Paediatrics, Pramukhswami Medical College, Karamsad, Gujarat, India"
-      ],
-      "Journal": "Journal of Clinical Orthopaedics and Trauma",
-      "Publisher": "Elsevier",
-      "Country": [
-        "India"
-      ],
-      "Author": [
-        "Bontha V Babu",
-        "Karthink Vishwanathan",
-        "Aruna Ramesh",
-        "Amit Gupta",
-        "Sandeep Tiwari",
-        "Babu U Palatty",
-        "Somashekhar M Nimbalkar",
-        "Yogita Sharma"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/12/2020 0:00",
-      "RetractionDOI": "10.1016/j.jcot.2020.09.016",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/3/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.jcot.2020.09.019",
-      "OriginalPaperPubMedID": "33716438.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "Notes": "unknown date of retraction, unknown when updated from temporary removal to withdrawal (1/28/22 AJA)",
-      "notice_year": 2020,
-      "year": 2020
+      "paywalled": "Yes",
+      "notes": "2/8/2017",
+      "year": "1996",
+      "noticeYear": "1997",
+      "mark": "research",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 1996,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 1997,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 3,
-      "retraction_notice_count": 3,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -409,10 +416,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

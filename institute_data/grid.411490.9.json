@@ -1,111 +1,114 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06879133",
+    "_id": "687ccbab09adbf7aa61b9d54",
     "grid_id": "grid.411490.9",
     "institute_name": "Azienda Ospedaliero Universitaria Ospedali Riuniti",
     "country": "Italy",
     "retracted_record_ids": [
-      "37544",
-      "2991"
+      "2991",
+      "37544"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345f20",
-      "Record ID": "37544",
-      "Title": "Coronary arteries and aortic valve calcifications in COVID-19",
-      "Subject": [
+      "_id": "687cefba1f662220d898b306",
+      "recordId": "37544",
+      "title": "Coronary arteries and aortic valve calcifications in COVID-19",
+      "subject": [
         "(HSC) Medicine - Cardiology",
         "(HSC) Medicine - Infectious Disease"
       ],
-      "Institution": [
+      "institution": [
         "Department of Radiology, Azienda Ospedaliero-Universitaria \u201cOspedali Riuniti\u201d, Ancona, Italy",
         "Ospedale \u201cInfermi\u201d, Rimini, Italy"
       ],
-      "Journal": "Emergency Radiology",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Emergency Radiology",
+      "publisher": "Springer",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Marco Fogante",
         "Enrico Cavagna",
         "Giovanni Rinaldi"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "3/18/2022 0:00",
-      "RetractionDOI": "10.1007/s10140-021-02011-3",
-      "RetractionPubMedID": "35066659.0",
-      "OriginalPaperDate": "1/23/2022 0:00",
-      "OriginalPaperDOI": "10.1007/s10140-021-02011-3",
-      "OriginalPaperPubMedID": "35066659.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "3/18/2022 0:00",
+      "retractiondoi": "10.1007/s10140-021-02011-3",
+      "retractionpubmedid": "35066659.0",
+      "originalpaperdate": "1/23/2022 0:00",
+      "originalpaperdoi": "10.1007/s10140-021-02011-3",
+      "originalpaperpubmedid": "35066659.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of/in Article"
       ],
-      "Paywalled": "No",
-      "Notes": "html page overwrite;",
-      "notice_year": 2022,
-      "year": 2022
+      "paywalled": "No",
+      "notes": "html page overwrite;",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e532",
-      "Record ID": "2991",
-      "Title": "The spectrum of morphology in non-neoplastic prostate including cancer mimics",
-      "Subject": [
+      "_id": "687cf0cd1f662220d8993918",
+      "recordId": "2991",
+      "title": "The spectrum of morphology in non-neoplastic prostate including cancer mimics",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Section of Pathological Anatomy, Polytechnic University of the Marche Region, School of Medicine, United Hospitals, Ancona, Italy",
         "Department of Pathology and Laboratory Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
         "Department of Pathology, Reina Sofia University Hospital and Faculty of Medicine, Cordoba, Spain"
       ],
-      "Journal": "Histopathology",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Histopathology",
+      "publisher": "Wiley",
+      "country": [
         "Italy",
         "Spain",
         "United States"
       ],
-      "Author": [
+      "author": [
         "Rodolfo Montironi",
         "Marina Scarpelli",
         "Roberta Mazzucchelli",
         "Liang Cheng",
         "Antonio Lopez-Beltran"
       ],
-      "ArticleType": [
+      "articletype": [
         "Review Article"
       ],
-      "RetractionDate": "4/3/2014 0:00",
-      "RetractionDOI": "10.1111/his.12418",
-      "RetractionPubMedID": "24918237.0",
-      "OriginalPaperDate": "12/23/2011 0:00",
-      "OriginalPaperDOI": "10.1111/j.1365-2559.2011.04000.x",
-      "OriginalPaperPubMedID": "22212077.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/3/2014 0:00",
+      "retractiondoi": "10.1111/his.12418",
+      "retractionpubmedid": "24918237.0",
+      "originalpaperdate": "12/23/2011 0:00",
+      "originalpaperdoi": "10.1111/j.1365-2559.2011.04000.x",
+      "originalpaperpubmedid": "22212077.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2014,
-      "year": 2011,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -113,21 +116,21 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

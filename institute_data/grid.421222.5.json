@@ -1,131 +1,133 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687907b",
+    "_id": "687ccbab09adbf7aa61b9c9c",
     "grid_id": "grid.421222.5",
     "institute_name": "Cisco Systems (United States)",
     "country": "United States",
     "retracted_record_ids": [
-      "38836",
-      "21725"
+      "21725",
+      "38836"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345a1a",
-      "Record ID": "38836",
-      "Title": "Performance enhancements of ad hoc networks with localized route repair",
-      "Subject": [
+      "_id": "687cefb51f662220d898ae00",
+      "recordId": "38836",
+      "title": "Performance enhancements of ad hoc networks with localized route repair",
+      "subject": [
         "(B/T) Computer Science",
         "(PHY) Engineering - Electrical"
       ],
-      "Institution": [
+      "institution": [
         "Cisco Systems, Inc., San Jose, CA, USA",
         "Department of Electrical and Computer Engineering and Computer Science, University of Cincinnati, Cincinnati, OH, USA"
       ],
-      "Journal": "IEEE Transactions on Computers",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "IEEE Transactions on Computers",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Ramnath Duggirala",
         "Rahul Gupta",
         "Qing An Zeng",
         "Dharma P Agrawal"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "7/1/2003 0:00",
-      "RetractionDOI": "10.1109/TC.2003.1214335",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/1/2003 0:00",
-      "OriginalPaperDOI": "10.1109/TC.2003.1214335",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "7/1/2003 0:00",
+      "retractiondoi": "10.1109/TC.2003.1214335",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/1/2003 0:00",
+      "originalpaperdoi": "10.1109/TC.2003.1214335",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknnown, html page overwrite;",
-      "notice_year": 2003,
-      "year": 2003,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "date of retraction unknnown, html page overwrite;",
+      "year": "2003",
+      "noticeYear": "2003",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2349cb0",
-      "Record ID": "21725",
-      "Title": "An Efficient High-Speed Channel Modeling Method Based on Optimized Design-of-Experiment (DoE) for Artificial Neural Network Training",
-      "Subject": [
+      "_id": "687cf02f1f662220d898f096",
+      "recordId": "21725",
+      "title": "An Efficient High-Speed Channel Modeling Method Based on Optimized Design-of-Experiment (DoE) for Artificial Neural Network Training",
+      "subject": [
         "(PHY) Engineering - Electrical"
       ],
-      "Institution": [
+      "institution": [
         "Electromagnetic Compatibility Laboratory, Missouri University of Science and Technology, Rolla, MO, USA",
         "Cisco Systems, San Jose, CA, USA"
       ],
-      "Journal": "IEEE Transactions on Electromagnetic Compatibility",
-      "Publisher": "IEEE: Institute of Electrical and Electronics Engineers",
-      "Country": [
+      "journal": "IEEE Transactions on Electromagnetic Compatibility",
+      "publisher": "IEEE: Institute of Electrical and Electronics Engineers",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Heegon Kim",
         "Chunchun Sui",
         "Kevin Cai",
         "Bidyut Sen",
         "Jun Fan"
       ],
-      "URLS": "http://retractionwatch.com/2019/12/04/publisher-retracts-nearly-50-papers-at-once/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2019/12/04/publisher-retracts-nearly-50-papers-at-once/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/3/2019 0:00",
-      "RetractionDOI": "10.1109/TEMC.2018.2796091",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "2/16/2018 0:00",
-      "OriginalPaperDOI": "10.1109/TEMC.2018.2796091",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/3/2019 0:00",
+      "retractiondoi": "10.1109/TEMC.2018.2796091",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "2/16/2018 0:00",
+      "originalpaperdoi": "10.1109/TEMC.2018.2796091",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Fake Peer Review"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2018,
-      "mark": "integrity"
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2019",
+      "mark": "integrity",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2003,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

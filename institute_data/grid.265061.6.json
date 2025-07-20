@@ -1,91 +1,354 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878ae4",
+    "_id": "687ccbab09adbf7aa61b9705",
     "grid_id": "grid.265061.6",
     "institute_name": "Tokai University",
     "country": "Japan",
     "retracted_record_ids": [
-      "6814",
-      "8772",
       "48166",
-      "16851",
+      "8772",
+      "21803",
+      "6814",
       "48167",
-      "21170",
+      "16851",
       "41610",
-      "21803"
+      "21170"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234d692",
-      "Record ID": "6814",
-      "Title": "Destabilization and early termination of spiral-wave reentry by a class III antiarrhythmic agent, nifekalant, in a perfused two-dimensional layer of rabbit ventricular myocardium",
-      "Subject": [
-        "(HSC) Medicine - Cardiology",
-        "(HSC) Medicine - Cardiovascular"
+      "_id": "687cef941f662220d89889b9",
+      "recordId": "48167",
+      "title": "Chest digital dynamic radiography to detect changes in human pulmonary perfusion in response to alveolar hypoxia",
+      "subject": [
+        "(HSC) Medicine - Pulmonology",
+        "(HSC) Radiology/Imaging"
       ],
-      "Institution": [
-        "Research Institute of Environmental Medicine, Nagoya University, Japan",
-        "Department of Cardiology, Tokai University School of Medicine, Isehara, Japan",
-        "Graduate School of Frontier Sciences, The University of Tokyo, Japan"
+      "institution": [
+        "Department of Radiology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
+        "Department of Respiratory Medicine, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
+        "Department of Radiological Technology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
+        "Department of Radiology, Kochi University, Kochi Medical School, Nankoku, Kochi, Japan"
       ],
-      "Journal": "Circulation Research",
-      "Publisher": "American Heart Association",
-      "Country": [
+      "journal": "Journal of Medical Radiation Sciences (JMRS)",
+      "publisher": "Wiley",
+      "country": [
         "Japan"
       ],
-      "Author": [
-        "Masatoshi Yamazaki",
-        "Haruo Honjo",
-        "Harumichi Nakagawa",
-        "Yuko S Ishiguro",
-        "Yusuke Okuno",
-        "Mari Amino",
-        "Ichiro Sakuma",
-        "Kaichiro Kamiya",
-        "Itsuo Kodama"
+      "author": [
+        "Shota Yamamoto",
+        "Fumio Sakamaki",
+        "Genki Takahashi",
+        "Yusuke Kondo",
+        "Naoya Taguchi",
+        "Shogo Esashi",
+        "Ryotaro Yuji",
+        "Katsuki Murakami",
+        "Kensuke Osaragi",
+        "Kosuke Tomita",
+        "Shunsuke Kamei",
+        "Tomohiro Matsumoto",
+        "Yutaka Imai",
+        "Terumitsu Hasebe"
       ],
-      "ArticleType": [
-        "Research Article"
+      "articletype": [
+        "Case Report"
       ],
-      "RetractionDate": "2/16/2006 0:00",
-      "RetractionDOI": "10.1161/01.RES.0000200087.72223.c0",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/15/2005 0:00",
-      "OriginalPaperDOI": "10.1161/01.RES.0000200087.72223.c0",
-      "OriginalPaperPubMedID": "16357308.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Breach of Policy by Author",
-        "+Duplication of/in Article",
-        "+Euphemisms for Duplication"
+      "retractiondate": "1/2/2023 0:00",
+      "retractiondoi": "10.1002/jmrs.647",
+      "retractionpubmedid": "36594210.0",
+      "originalpaperdate": "9/13/2022 0:00",
+      "originalpaperdoi": "10.1002/jmrs.619",
+      "originalpaperpubmedid": "36101943.0",
+      "retractionnature": "Correction",
+      "reason": [
+        "+Error in Image",
+        "+Error in Text",
+        "+Updated to Retraction"
       ],
-      "Paywalled": "No",
-      "Notes": "Article full-text via Google Scholar link;",
-      "notice_year": 2006,
-      "year": 2005,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234cf0c",
-      "Record ID": "8772",
-      "Title": "Oxidative Stress Induced Inflammation Initiates Functional Decline of Tear Production",
-      "Subject": [
+      "_id": "687cef941f662220d89889ba",
+      "recordId": "48166",
+      "title": "Chest digital dynamic radiography to detect changes in human pulmonary perfusion in response to alveolar hypoxia",
+      "subject": [
+        "(HSC) Medicine - Pulmonology",
+        "(HSC) Radiology/Imaging"
+      ],
+      "institution": [
+        "Department of Radiology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
+        "Department of Respiratory Medicine, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
+        "Department of Radiological Technology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
+        "Department of Radiology, Kochi University, Kochi Medical School, Nankoku, Kochi, Japan"
+      ],
+      "journal": "Journal of Medical Radiation Sciences (JMRS)",
+      "publisher": "Wiley",
+      "country": [
+        "Japan"
+      ],
+      "author": [
+        "Shota Yamamoto",
+        "Fumio Sakamaki",
+        "Genki Takahashi",
+        "Yusuke Kondo",
+        "Naoya Taguchi",
+        "Shogo Esashi",
+        "Ryotaro Yuji",
+        "Katsuki Murakami",
+        "Kensuke Osaragi",
+        "Kosuke Tomita",
+        "Shunsuke Kamei",
+        "Tomohiro Matsumoto",
+        "Yutaka Imai",
+        "Terumitsu Hasebe"
+      ],
+      "articletype": [
+        "Case Report"
+      ],
+      "retractiondate": "10/15/2023 0:00",
+      "retractiondoi": "10.1002/jmrs.730",
+      "retractionpubmedid": "37840446.0",
+      "originalpaperdate": "9/13/2022 0:00",
+      "originalpaperdoi": "10.1002/jmrs.619",
+      "originalpaperpubmedid": "36101943.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Image",
+        "+Upgrade/Update of Prior Notice(s)"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefae1f662220d898a33f",
+      "recordId": "41610",
+      "title": "Effects of government regulations on under-reporting of carbon emission transfers by enterprises in supply chains",
+      "subject": [
+        "(B/T) Government",
+        "(B/T) Transportation",
+        "(ENV) Environmental Sciences"
+      ],
+      "institution": [
+        "School of Management, Jiangsu University, Zhenjiang, 212013, China",
+        "International Genome Center, Jiangsu University, Zhenjiang, 212013, China",
+        "School of Accounting and Finance, Faculty of Business and Law, Taylor's University, Malaysia",
+        "School of Finance &economics Jiangsu University, Zhenjiang, 212013, China",
+        "Tokai University, Tokai, 476-0000, Japan"
+      ],
+      "journal": "Journal of Cleaner Production",
+      "publisher": "Elsevier",
+      "country": [
+        "China",
+        "Japan",
+        "Malaysia"
+      ],
+      "author": [
+        "Biying Zhao",
+        "Licheng Sun",
+        "Xiaoxiao Cao",
+        "Siying Gao",
+        "Muhammad Sadiq",
+        "Muhammad Mohsin",
+        "Farhad Taghizadeh-Hesary"
+      ],
+      "articletype": [
+        "Article in Press",
+        "Research Article"
+      ],
+      "retractiondate": "8/20/2022 0:00",
+      "retractiondoi": "10.1016/j.jclepro.2022.133561",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "8/20/2022 0:00",
+      "originalpaperdoi": "10.1016/j.jclepro.2022.133561",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Date of Article and/or Notice Unknown",
+        "+Notice - Limited or No Information",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2022",
+      "noticeYear": "2022",
+      "mark": "supplemental",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf02f1f662220d898f048",
+      "recordId": "21803",
+      "title": "A Distributed Autonomous Approach to Developing a Disaster Evacuation Assist System",
+      "subject": [
+        "(B/T) Government",
+        "(B/T) Technology",
+        "(B/T) Transportation",
+        "(B/T) Urban Planning"
+      ],
+      "institution": [
+        "Department of Mathematical Sciences, Tokai University, 4-1-1 Kitakaname, Hiratsuka, Kanagawa 259-1292, Japan",
+        "System Research Co., LTD, Aichi, Japan",
+        "Senshu University, Kanagawa, Japan"
+      ],
+      "journal": "Journal of Disaster Research",
+      "publisher": "Fuji Technology Press Ltd",
+      "country": [
+        "Japan"
+      ],
+      "author": [
+        "Yasuki Iizuka",
+        "Katsuya Kinoshita",
+        "Kayo Iizuka"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/1/2019 0:00",
+      "retractiondoi": "10.20965/jdr.2019.p1353",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/1/2015 0:00",
+      "originalpaperdoi": "10.20965/jdr.2015.p1081",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf03f1f662220d898f2c0",
+      "recordId": "21170",
+      "title": "Recent Trends of Polymer Mediated Liposomal Gene Delivery System",
+      "subject": [
+        "(BLS) Genetics",
+        "(HSC) Medicine - Drug Design",
+        "(PHY) Materials Science"
+      ],
+      "institution": [
+        "Department of Physics, School of Basic and Applied Sciences, Galgotias University, Greater Noida 203201, India",
+        "Department of Physics, Tokai University, Hiratsuka-Shi, Kanagawa 259-1292, Japan",
+        "Institute for Skeletal Aging & Orthopedic Surgery, Hallym University-Chuncheon Sacred Heart Hospital, Chuncheon 200704, Republic of Korea",
+        "Medical Biotechnology Division, School of Biosciences and Technology, VIT University, Vellore, Tamil Nadu 632014, India",
+        "Department of Bioinformatics, School of Computer Sciences, Galgotias University, Greater Noida 203201, India"
+      ],
+      "journal": "BioMed Research International",
+      "publisher": "Hindawi",
+      "country": [
+        "India",
+        "Japan",
+        "South Korea"
+      ],
+      "author": [
+        "Shyamal Kumar Kundu",
+        "Ashish Ranjan Sharma",
+        "Sang Soo Lee",
+        "Garima Sharma",
+        "C George Priya Doss",
+        "Shin Yagihara",
+        "Do Young Kim",
+        "Ju Suk Nam",
+        "Chiranjib Chakraborty"
+      ],
+      "articletype": [
+        "Review Article"
+      ],
+      "retractiondate": "8/8/2019 0:00",
+      "retractiondoi": "10.1155/2019/8195729",
+      "retractionpubmedid": "31485446.0",
+      "originalpaperdate": "8/27/2014 0:00",
+      "originalpaperdoi": "10.1155/2014/934605",
+      "originalpaperpubmedid": "25250340.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Euphemisms for Plagiarism",
+        "+Objections by Author(s)",
+        "+Plagiarism of Text"
+      ],
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2019",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0971f662220d899037f",
+      "recordId": "16851",
+      "title": "Safety and effectiveness of high-dose methotrexate (over 8 mg/week) in 2838 Japanese patients with rheumatoid arthritis: A postmarketing surveillance report",
+      "subject": [
+        "(HSC) Medicine - Immunology",
+        "(HSC) Medicine - Orthopedics",
+        "(HSC) Medicine - Pharmacology"
+      ],
+      "institution": [
+        "Division of Rheumatology, Department of Internal Medicine, Tokai University School of Medicine, Kanagawa, Japan",
+        "Medical Affairs, Pfizer Japan Inc., Tokyo, Japan",
+        "Development Japan, Pfizer Japan Inc., Tokyo, Japan"
+      ],
+      "journal": "Modern Rheumatology",
+      "publisher": "Taylor and Francis",
+      "country": [
+        "Japan"
+      ],
+      "author": [
+        "Yasuo Suzuki",
+        "Naonobu Sugiyama",
+        "Yuri Fukuma",
+        "Noriko Sugiyama",
+        "Takeshi Kokubo"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "1/2/2020 0:00",
+      "retractiondoi": "10.1080/14397595.2017.1304857",
+      "retractionpubmedid": "28395637.0",
+      "originalpaperdate": "4/11/2017 0:00",
+      "originalpaperdoi": "10.1080/14397595.2017.1304857",
+      "originalpaperpubmedid": "28395637.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Error in Data",
+        "+Investigation by Company/Institution",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2017",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0b81f662220d89922f2",
+      "recordId": "8772",
+      "title": "Oxidative Stress Induced Inflammation Initiates Functional Decline of Tear Production",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Biology - Molecular",
         "(BLS) Genetics",
         "(HSC) Medicine - Ophthalmology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Ophthalmology, Keio University School of Medicine, Tokyo, Japan",
         "Department of Molecular Life Science, Tokai University School of Medicine, Kanagawa, Japan"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "Japan"
       ],
-      "Author": [
+      "author": [
         "Yuichi Uchino",
         "Tetsuya Kawakita",
         "Masaki Miyazawa",
@@ -97,340 +360,86 @@
         "Naoaki Ishii",
         "Kazuo Tsubota"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/11/2015 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0127720",
-      "RetractionPubMedID": "25961710.0",
-      "OriginalPaperDate": "10/5/2012 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0045805",
-      "OriginalPaperPubMedID": "23071526.0",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "5/11/2015 0:00",
+      "retractiondoi": "10.1371/journal.pone.0127720",
+      "retractionpubmedid": "25961710.0",
+      "originalpaperdate": "10/5/2012 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0045805",
+      "originalpaperpubmedid": "23071526.0",
+      "retractionnature": "Correction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions",
         "+Plagiarism of Text"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2012,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2012",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23435d4",
-      "Record ID": "48166",
-      "Title": "Chest digital dynamic radiography to detect changes in human pulmonary perfusion in response to alveolar hypoxia",
-      "Subject": [
-        "(HSC) Medicine - Pulmonology",
-        "(HSC) Radiology/Imaging"
+      "_id": "687cf0bf1f662220d8992a78",
+      "recordId": "6814",
+      "title": "Destabilization and early termination of spiral-wave reentry by a class III antiarrhythmic agent, nifekalant, in a perfused two-dimensional layer of rabbit ventricular myocardium",
+      "subject": [
+        "(HSC) Medicine - Cardiology",
+        "(HSC) Medicine - Cardiovascular"
       ],
-      "Institution": [
-        "Department of Radiology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
-        "Department of Respiratory Medicine, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
-        "Department of Radiological Technology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
-        "Department of Radiology, Kochi University, Kochi Medical School, Nankoku, Kochi, Japan"
+      "institution": [
+        "Research Institute of Environmental Medicine, Nagoya University, Japan",
+        "Department of Cardiology, Tokai University School of Medicine, Isehara, Japan",
+        "Graduate School of Frontier Sciences, The University of Tokyo, Japan"
       ],
-      "Journal": "Journal of Medical Radiation Sciences (JMRS)",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Circulation Research",
+      "publisher": "American Heart Association",
+      "country": [
         "Japan"
       ],
-      "Author": [
-        "Shota Yamamoto",
-        "Fumio Sakamaki",
-        "Genki Takahashi",
-        "Yusuke Kondo",
-        "Naoya Taguchi",
-        "Shogo Esashi",
-        "Ryotaro Yuji",
-        "Katsuki Murakami",
-        "Kensuke Osaragi",
-        "Kosuke Tomita",
-        "Shunsuke Kamei",
-        "Tomohiro Matsumoto",
-        "Yutaka Imai",
-        "Terumitsu Hasebe"
+      "author": [
+        "Masatoshi Yamazaki",
+        "Haruo Honjo",
+        "Harumichi Nakagawa",
+        "Yuko S Ishiguro",
+        "Yusuke Okuno",
+        "Mari Amino",
+        "Ichiro Sakuma",
+        "Kaichiro Kamiya",
+        "Itsuo Kodama"
       ],
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "10/15/2023 0:00",
-      "RetractionDOI": "10.1002/jmrs.730",
-      "RetractionPubMedID": "37840446.0",
-      "OriginalPaperDate": "9/13/2022 0:00",
-      "OriginalPaperDOI": "10.1002/jmrs.619",
-      "OriginalPaperPubMedID": "36101943.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Image",
-        "+Upgrade/Update of Prior Notice(s)"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234af99",
-      "Record ID": "16851",
-      "Title": "Safety and effectiveness of high-dose methotrexate (over 8 mg/week) in 2838 Japanese patients with rheumatoid arthritis: A postmarketing surveillance report",
-      "Subject": [
-        "(HSC) Medicine - Immunology",
-        "(HSC) Medicine - Orthopedics",
-        "(HSC) Medicine - Pharmacology"
-      ],
-      "Institution": [
-        "Division of Rheumatology, Department of Internal Medicine, Tokai University School of Medicine, Kanagawa, Japan",
-        "Medical Affairs, Pfizer Japan Inc., Tokyo, Japan",
-        "Development Japan, Pfizer Japan Inc., Tokyo, Japan"
-      ],
-      "Journal": "Modern Rheumatology",
-      "Publisher": "Taylor and Francis",
-      "Country": [
-        "Japan"
-      ],
-      "Author": [
-        "Yasuo Suzuki",
-        "Naonobu Sugiyama",
-        "Yuri Fukuma",
-        "Noriko Sugiyama",
-        "Takeshi Kokubo"
-      ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/2/2020 0:00",
-      "RetractionDOI": "10.1080/14397595.2017.1304857",
-      "RetractionPubMedID": "28395637.0",
-      "OriginalPaperDate": "4/11/2017 0:00",
-      "OriginalPaperDOI": "10.1080/14397595.2017.1304857",
-      "OriginalPaperPubMedID": "28395637.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Error in Data",
-        "+Investigation by Company/Institution",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2017,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d23435d3",
-      "Record ID": "48167",
-      "Title": "Chest digital dynamic radiography to detect changes in human pulmonary perfusion in response to alveolar hypoxia",
-      "Subject": [
-        "(HSC) Medicine - Pulmonology",
-        "(HSC) Radiology/Imaging"
-      ],
-      "Institution": [
-        "Department of Radiology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
-        "Department of Respiratory Medicine, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
-        "Department of Radiological Technology, Tokai University Hachioji Hospital, Tokai University School of Medicine, Tokyo, Japan",
-        "Department of Radiology, Kochi University, Kochi Medical School, Nankoku, Kochi, Japan"
-      ],
-      "Journal": "Journal of Medical Radiation Sciences (JMRS)",
-      "Publisher": "Wiley",
-      "Country": [
-        "Japan"
-      ],
-      "Author": [
-        "Shota Yamamoto",
-        "Fumio Sakamaki",
-        "Genki Takahashi",
-        "Yusuke Kondo",
-        "Naoya Taguchi",
-        "Shogo Esashi",
-        "Ryotaro Yuji",
-        "Katsuki Murakami",
-        "Kensuke Osaragi",
-        "Kosuke Tomita",
-        "Shunsuke Kamei",
-        "Tomohiro Matsumoto",
-        "Yutaka Imai",
-        "Terumitsu Hasebe"
-      ],
-      "ArticleType": [
-        "Case Report"
-      ],
-      "RetractionDate": "1/2/2023 0:00",
-      "RetractionDOI": "10.1002/jmrs.647",
-      "RetractionPubMedID": "36594210.0",
-      "OriginalPaperDate": "9/13/2022 0:00",
-      "OriginalPaperDOI": "10.1002/jmrs.619",
-      "OriginalPaperPubMedID": "36101943.0",
-      "RetractionNature": "Correction",
-      "Reason": [
-        "+Error in Image",
-        "+Error in Text",
-        "+Updated to Retraction"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2022,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d2349eda",
-      "Record ID": "21170",
-      "Title": "Recent Trends of Polymer Mediated Liposomal Gene Delivery System",
-      "Subject": [
-        "(BLS) Genetics",
-        "(HSC) Medicine - Drug Design",
-        "(PHY) Materials Science"
-      ],
-      "Institution": [
-        "Department of Physics, School of Basic and Applied Sciences, Galgotias University, Greater Noida 203201, India",
-        "Department of Physics, Tokai University, Hiratsuka-Shi, Kanagawa 259-1292, Japan",
-        "Institute for Skeletal Aging & Orthopedic Surgery, Hallym University-Chuncheon Sacred Heart Hospital, Chuncheon 200704, Republic of Korea",
-        "Medical Biotechnology Division, School of Biosciences and Technology, VIT University, Vellore, Tamil Nadu 632014, India",
-        "Department of Bioinformatics, School of Computer Sciences, Galgotias University, Greater Noida 203201, India"
-      ],
-      "Journal": "BioMed Research International",
-      "Publisher": "Hindawi",
-      "Country": [
-        "India",
-        "Japan",
-        "South Korea"
-      ],
-      "Author": [
-        "Shyamal Kumar Kundu",
-        "Ashish Ranjan Sharma",
-        "Sang Soo Lee",
-        "Garima Sharma",
-        "C George Priya Doss",
-        "Shin Yagihara",
-        "Do Young Kim",
-        "Ju Suk Nam",
-        "Chiranjib Chakraborty"
-      ],
-      "ArticleType": [
-        "Review Article"
-      ],
-      "RetractionDate": "8/8/2019 0:00",
-      "RetractionDOI": "10.1155/2019/8195729",
-      "RetractionPubMedID": "31485446.0",
-      "OriginalPaperDate": "8/27/2014 0:00",
-      "OriginalPaperDOI": "10.1155/2014/934605",
-      "OriginalPaperPubMedID": "25250340.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Euphemisms for Plagiarism",
-        "+Objections by Author(s)",
-        "+Plagiarism of Text"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2014,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2344f59",
-      "Record ID": "41610",
-      "Title": "Effects of government regulations on under-reporting of carbon emission transfers by enterprises in supply chains",
-      "Subject": [
-        "(B/T) Government",
-        "(B/T) Transportation",
-        "(ENV) Environmental Sciences"
-      ],
-      "Institution": [
-        "School of Management, Jiangsu University, Zhenjiang, 212013, China",
-        "International Genome Center, Jiangsu University, Zhenjiang, 212013, China",
-        "School of Accounting and Finance, Faculty of Business and Law, Taylor's University, Malaysia",
-        "School of Finance &economics Jiangsu University, Zhenjiang, 212013, China",
-        "Tokai University, Tokai, 476-0000, Japan"
-      ],
-      "Journal": "Journal of Cleaner Production",
-      "Publisher": "Elsevier",
-      "Country": [
-        "China",
-        "Japan",
-        "Malaysia"
-      ],
-      "Author": [
-        "Biying Zhao",
-        "Licheng Sun",
-        "Xiaoxiao Cao",
-        "Siying Gao",
-        "Muhammad Sadiq",
-        "Muhammad Mohsin",
-        "Farhad Taghizadeh-Hesary"
-      ],
-      "ArticleType": [
-        "Article in Press",
-        "Research Article"
-      ],
-      "RetractionDate": "8/20/2022 0:00",
-      "RetractionDOI": "10.1016/j.jclepro.2022.133561",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "8/20/2022 0:00",
-      "OriginalPaperDOI": "10.1016/j.jclepro.2022.133561",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Date of Article and/or Notice Unknown",
-        "+Notice - Limited or No Information",
-        "+Removed"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2022,
-      "mark": "supplemental"
-    },
-    {
-      "_id": "6855d574b14f7811d2349c62",
-      "Record ID": "21803",
-      "Title": "A Distributed Autonomous Approach to Developing a Disaster Evacuation Assist System",
-      "Subject": [
-        "(B/T) Government",
-        "(B/T) Technology",
-        "(B/T) Transportation",
-        "(B/T) Urban Planning"
-      ],
-      "Institution": [
-        "Department of Mathematical Sciences, Tokai University, 4-1-1 Kitakaname, Hiratsuka, Kanagawa 259-1292, Japan",
-        "System Research Co., LTD, Aichi, Japan",
-        "Senshu University, Kanagawa, Japan"
-      ],
-      "Journal": "Journal of Disaster Research",
-      "Publisher": "Fuji Technology Press Ltd",
-      "Country": [
-        "Japan"
-      ],
-      "Author": [
-        "Yasuki Iizuka",
-        "Katsuya Kinoshita",
-        "Kayo Iizuka"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/1/2019 0:00",
-      "RetractionDOI": "10.20965/jdr.2019.p1353",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "12/1/2015 0:00",
-      "OriginalPaperDOI": "10.20965/jdr.2015.p1081",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/16/2006 0:00",
+      "retractiondoi": "10.1161/01.RES.0000200087.72223.c0",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "12/15/2005 0:00",
+      "originalpaperdoi": "10.1161/01.RES.0000200087.72223.c0",
+      "originalpaperpubmedid": "16357308.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Breach of Policy by Author",
         "+Duplication of/in Article",
-        "+Removed"
+        "+Euphemisms for Duplication"
       ],
-      "Paywalled": "No",
-      "notice_year": 2019,
-      "year": 2015
+      "paywalled": "No",
+      "notes": "Article full-text via Google Scholar link;",
+      "year": "2005",
+      "noticeYear": "2006",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2005,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -438,65 +447,65 @@
     {
       "year": 2006,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2012,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2017,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2019,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -504,32 +513,32 @@
     {
       "year": 2020,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
-      "retraction_count": 3,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
-      "supplemental": 1,
-      "research": 1,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

@@ -1,37 +1,37 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06878da6",
+    "_id": "687ccbab09adbf7aa61b99c7",
     "grid_id": "grid.413372.0",
     "institute_name": "Affiliated Hospital of Guangdong Medical College Hospital",
     "country": "China",
     "retracted_record_ids": [
-      "43762",
-      "41161",
-      "43026",
       "21903",
+      "41161",
+      "43762",
+      "43026",
       "1830"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23446fb",
-      "Record ID": "43762",
-      "Title": "The Association of HMGB1 Gene with the Prognosis of HCC",
-      "Subject": [
+      "_id": "687cefa61f662220d8989ae1",
+      "recordId": "43762",
+      "title": "The Association of HMGB1 Gene with the Prognosis of HCC",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Department of Radiation Oncology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong, China",
         "Department of Cancer Center, Affiliated Hospital of Guangdong Medical College, Zhanjiang, Guangdong, China",
         "Department of Science and Training, General Hospital of Guangzhou Military Command of People's Liberation Army, Guangzhou, Guangdong, China"
       ],
-      "Journal": "PLoS One",
-      "Publisher": "PLoS",
-      "Country": [
+      "journal": "PLoS One",
+      "publisher": "PLoS",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Jianbiao Xiao",
         "Yi Ding",
         "Jing Huang",
@@ -43,17 +43,17 @@
         "Longhua Chen",
         "Bin Chen"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "4/11/2023 0:00",
-      "RetractionDOI": "10.1371/journal.pone.0284595",
-      "RetractionPubMedID": "37040368.0",
-      "OriginalPaperDate": "2/19/2014 0:00",
-      "OriginalPaperDOI": "10.1371/journal.pone.0089097",
-      "OriginalPaperPubMedID": "24586525.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "4/11/2023 0:00",
+      "retractiondoi": "10.1371/journal.pone.0284595",
+      "retractionpubmedid": "37040368.0",
+      "originalpaperdate": "2/19/2014 0:00",
+      "originalpaperdoi": "10.1371/journal.pone.0089097",
+      "originalpaperpubmedid": "24586525.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Contamination of Cell Lines/Tissues",
         "+Duplication of/in Image",
@@ -62,48 +62,96 @@
         "+Manipulation of Images",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2014,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2014",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d2345116",
-      "Record ID": "41161",
-      "Title": "Functional studies of miR-130a on the inhibitory pathways of apoptosis in patients with chronic myeloid leukemia",
-      "Subject": [
+      "_id": "687cefaa1f662220d8989dba",
+      "recordId": "43026",
+      "title": "MicroRNA-320a acts as a tumor suppressor by targeting BCR/ABL oncogene in chronic myeloid leukemia",
+      "subject": [
         "(BLS) Biology - Cancer",
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
+        "Clinical Research Center, Affiliated Hospital of Guangdong Medical College, 0086-027-7398722, China",
+        "Department of Urology, Weifang Traditional Chinese Medicine Hospital, 0086-0536-8300338, China"
+      ],
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
+        "China"
+      ],
+      "author": [
+        "Xishan Zhu",
+        "Lin Ziying",
+        "Du Jing",
+        "Liu Gang"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "3/2/2023 0:00",
+      "retractiondoi": "10.1038/s41598-023-30736-3",
+      "retractionpubmedid": "36864099.0",
+      "originalpaperdate": "7/31/2015 0:00",
+      "originalpaperdoi": "10.1038/srep12460",
+      "originalpaperpubmedid": "26228085.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Image",
+        "+Duplication of Text",
+        "+Paper Mill",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "notes": "see also: https://pubpeer.com/publications/BC492D0C224013B6B6DC9FEF850484",
+      "year": "2015",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb01f662220d898a4fc",
+      "recordId": "41161",
+      "title": "Functional studies of miR-130a on the inhibitory pathways of apoptosis in patients with chronic myeloid leukemia",
+      "subject": [
+        "(BLS) Biology - Cancer",
+        "(BLS) Biology - Cellular",
+        "(BLS) Genetics"
+      ],
+      "institution": [
         "Cancer Center, Beijing Shijitan Hospital, Capital Medical Hospital, Beijing, China",
         "Clinical Department, Capital Medical University, Beijing, China",
         "Clinical Research Center, Affiliated Hospital of Guangdong Medical College, Guangdong, China",
         "The Breast Center, Cancer Hospital, Shantou University Medical College, Shantou, China"
       ],
-      "Journal": "Cancer Gene Therapy",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Cancer Gene Therapy",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "X Zhu",
         "H Zhao",
         "Z Lin",
         "Guojun Zhang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "12/9/2022 0:00",
-      "RetractionDOI": "10.1038/s41417-022-00573-z",
-      "RetractionPubMedID": "36494583.0",
-      "OriginalPaperDate": "10/23/2015 0:00",
-      "OriginalPaperDOI": "10.1038/cgt.2015.50",
-      "OriginalPaperPubMedID": "26494558.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "12/9/2022 0:00",
+      "retractiondoi": "10.1038/s41417-022-00573-z",
+      "retractionpubmedid": "36494583.0",
+      "originalpaperdate": "10/23/2015 0:00",
+      "originalpaperdoi": "10.1038/cgt.2015.50",
+      "originalpaperpubmedid": "26494558.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Authorship/Affiliation",
         "+Euphemisms for Plagiarism",
         "+Fake Peer Review",
@@ -112,126 +160,82 @@
         "+Original Data and/or Images not Provided and/or not Available",
         "+Plagiarism of Article"
       ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2015,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d23449d4",
-      "Record ID": "43026",
-      "Title": "MicroRNA-320a acts as a tumor suppressor by targeting BCR/ABL oncogene in chronic myeloid leukemia",
-      "Subject": [
-        "(BLS) Biology - Cancer",
-        "(BLS) Biology - Cellular",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "Clinical Research Center, Affiliated Hospital of Guangdong Medical College, 0086-027-7398722, China",
-        "Department of Urology, Weifang Traditional Chinese Medicine Hospital, 0086-0536-8300338, China"
-      ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
-        "China"
-      ],
-      "Author": [
-        "Xishan Zhu",
-        "Lin Ziying",
-        "Du Jing",
-        "Liu Gang"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "3/2/2023 0:00",
-      "RetractionDOI": "10.1038/s41598-023-30736-3",
-      "RetractionPubMedID": "36864099.0",
-      "OriginalPaperDate": "7/31/2015 0:00",
-      "OriginalPaperDOI": "10.1038/srep12460",
-      "OriginalPaperPubMedID": "26228085.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Image",
-        "+Duplication of Text",
-        "+Paper Mill",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "Notes": "see also: https://pubpeer.com/publications/BC492D0C224013B6B6DC9FEF850484",
-      "notice_year": 2023,
-      "year": 2015,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2349bfe",
-      "Record ID": "21903",
-      "Title": "Risperidone promotes differentiation of glioma stem-like cells through the Wnt signaling pathway",
-      "Subject": [
+      "_id": "687cf02f1f662220d898efe4",
+      "recordId": "21903",
+      "title": "Risperidone promotes differentiation of glioma stem-like cells through the Wnt signaling pathway",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Neuroscience",
         "(HSC) Medicine - Neurology",
         "(HSC) Medicine - Oncology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Neurosurgery, Xiangya Hospital, Central South University, Changsha, China",
         "Department of Neurosurgery, Hainan Provincial People\u2019s Hospital, Haikou, China",
         "Department of Neurosurgery, Affiliated Hospital of Guangdong Medical College, Guangdong, China"
       ],
-      "Journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
-      "Publisher": "Springer",
-      "Country": [
+      "journal": "Tumor Biology (Tumour Biology) - Official Journal of the International Society of Oncology and BioMarkers (ISOBM)",
+      "publisher": "Springer",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Hao Peng",
         "Bing Jiang",
         "Jiannong Zhao",
         "Bing Chen",
         "Pengcheng Wang"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/1/2015 0:00",
-      "RetractionDOI": "10.1007/s13277-015-3087-x",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "1/18/2015 0:00",
-      "OriginalPaperDOI": "10.1007/s13277-015-3087-x",
-      "OriginalPaperPubMedID": "25596706.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/1/2015 0:00",
+      "retractiondoi": "10.1007/s13277-015-3087-x",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "1/18/2015 0:00",
+      "originalpaperdoi": "10.1007/s13277-015-3087-x",
+      "originalpaperpubmedid": "25596706.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Error in Materials",
         "+Error in Methods",
         "+Results Not Reproducible"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015,
-      "mark": "research"
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e9a4",
-      "Record ID": "1830",
-      "Title": "The EDA-containing cellular fibronectin induces epithelial-mesenchymal transition in lung cancer cells through integrin alpha9beta1-mediated activation of PI3-K/AKT and Erk1/2",
-      "Subject": [
+      "_id": "687cf0d11f662220d8993d8a",
+      "recordId": "1830",
+      "title": "The EDA-containing cellular fibronectin induces epithelial-mesenchymal transition in lung cancer cells through integrin alpha9beta1-mediated activation of PI3-K/AKT and Erk1/2",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics",
         "(HSC) Medicine - Oncology",
         "(HSC) Medicine - Pulmonology"
       ],
-      "Institution": [
+      "institution": [
         "Department of Biobank, Shenzhen Tumor Clinical Immune Gene Therapy Engineering Lab, Shenzhen Second People\u2019s Hospital, The First Affiliated Hospital of Shenzhen University, Shenzhen 518035, China",
         "Department of Central Lab, Affiliated Hospital of Guangdong Medical College, Zhanjiang 524023, China",
         "Guangdong and Shenzhen Key Laboratory of Male Reproductive Medicine and Genetics, Institute of Urology, Peking University Shenzhen Hospital, Shenzhen PKU-HKUST Medical Centre, Shenzhen 518036, China",
         "Department of Urology, Peking University Shenzhen Hospital, Shenzhen 518036, China"
       ],
-      "Journal": "Carcinogenesis",
-      "Publisher": "Oxford University Press",
-      "Country": [
+      "journal": "Carcinogenesis",
+      "publisher": "Oxford University Press",
+      "country": [
         "China"
       ],
-      "Author": [
+      "author": [
         "Xiaojuan Sun",
         "Pingping Fa",
         "Zhiwen Cui",
@@ -242,71 +246,72 @@
         "Yaoting Gui",
         "Zhiming Cai"
       ],
-      "URLS": "http://retractionwatch.com/2015/10/29/duplicated-data-careless-errors-expire-lung-cancer-paper/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2015/10/29/duplicated-data-careless-errors-expire-lung-cancer-paper/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "10/17/2015 0:00",
-      "RetractionDOI": "10.1093/carcin/bgv131",
-      "RetractionPubMedID": "26476439.0",
-      "OriginalPaperDate": "8/8/2013 0:00",
-      "OriginalPaperDOI": "10.1093/carcin/bgt276",
-      "OriginalPaperPubMedID": "23929437.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "10/17/2015 0:00",
+      "retractiondoi": "10.1093/carcin/bgv131",
+      "retractionpubmedid": "26476439.0",
+      "originalpaperdate": "8/8/2013 0:00",
+      "originalpaperdoi": "10.1093/carcin/bgt276",
+      "originalpaperpubmedid": "23929437.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Duplication of Data",
         "+Error in Analyses",
         "+Error in Data",
         "+Investigation by Journal/Publisher",
         "+Objections by Third Party"
       ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2014,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 3,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
+      "research": 0,
       "integrity": 0
     },
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -314,10 +319,10 @@
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 2,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

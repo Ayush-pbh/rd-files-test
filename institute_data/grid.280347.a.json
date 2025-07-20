@@ -1,36 +1,87 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c0687a0e1",
+    "_id": "687ccbab09adbf7aa61bad02",
     "grid_id": "grid.280347.a",
     "institute_name": "National Institute of Biomedical Imaging and Bioengineering",
     "country": "United States",
     "retracted_record_ids": [
-      "2672",
-      "2673",
       "392",
+      "2673",
+      "2672",
       "2671"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d234e66e",
-      "Record ID": "2672",
-      "Title": "Whole-body synthesis-secretion rates of long-chain n-3 PUFAs from circulating unesterified a-linolenic acid in unanesthetized rats",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993a53",
+      "recordId": "2673",
+      "title": "Whole-body synthesis secretion of docosahexaenoic acid from circulating eicosapentaenoic acid in unanesthetized rats",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Biology - Cellular",
+        "(BLS) Nutrition"
+      ],
+      "institution": [
+        "Brain Physiology and Metabolism Section, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892",
+        "Positron Emission Tomography Radiochemistry Group, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD 20892"
+      ],
+      "journal": "Journal of Lipid Research",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
+        "United States"
+      ],
+      "author": [
+        "Fei Gao",
+        "Dale Kiesewetter",
+        "Lisa Chang",
+        "Kaizong Ma",
+        "Stanley Isaac Rapoport",
+        "Miki Igarashi"
+      ],
+      "urls": "http://retractionwatch.com/?s=stanley+rapoport;http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "5/1/2014 0:00",
+      "retractiondoi": "10.1194/jlr.M005595ERR",
+      "retractionpubmedid": "24771869.0",
+      "originalpaperdate": "12/1/2009 0:00",
+      "originalpaperdoi": "10.1194/jlr.M900223-JLR200",
+      "originalpaperpubmedid": "19571329.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Falsification/Fabrication of Data",
+        "+Investigation by Company/Institution",
+        "+Misconduct - Official Investigation(s) and/or Finding(s)",
+        "+Misconduct by Author",
+        "+Removed"
+      ],
+      "paywalled": "No",
+      "notes": "Fei Gao named as responsible for misconduct",
+      "year": "2009",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0cf1f662220d8993a54",
+      "recordId": "2672",
+      "title": "Whole-body synthesis-secretion rates of long-chain n-3 PUFAs from circulating unesterified a-linolenic acid in unanesthetized rats",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Neuroscience",
         "(BLS) Nutrition"
       ],
-      "Institution": [
+      "institution": [
         "Brain Physiology and Metabolism Section, National Institute on Aging, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD 20892",
         "Positron Emission Tomography Radiochemistry Group, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD 20892"
       ],
-      "Journal": "Journal of Lipid Research",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "Journal of Lipid Research",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Fei Gao",
         "Dale Kiesewetter",
         "Lisa Chang",
@@ -39,98 +90,98 @@
         "Stanley Isaac Rapoport",
         "Miki Igarashi"
       ],
-      "URLS": "http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/;http://retractionwatch.com/?s=stanley+rapoport",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/;http://retractionwatch.com/?s=stanley+rapoport",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/1/2014 0:00",
-      "RetractionDOI": "10.1194/jlr.M005595ERR",
-      "RetractionPubMedID": "24771869.0",
-      "OriginalPaperDate": "4/1/2009 0:00",
-      "OriginalPaperDOI": "10.1194/jlr.D800056-JLR200",
-      "OriginalPaperPubMedID": "19074373.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/1/2014 0:00",
+      "retractiondoi": "10.1194/jlr.M005595ERR",
+      "retractionpubmedid": "24771869.0",
+      "originalpaperdate": "4/1/2009 0:00",
+      "originalpaperdoi": "10.1194/jlr.D800056-JLR200",
+      "originalpaperpubmedid": "19074373.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "Fei Gao named as responsible for misconduct",
-      "notice_year": 2014,
-      "year": 2009,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Fei Gao named as responsible for misconduct",
+      "year": "2009",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234e66d",
-      "Record ID": "2673",
-      "Title": "Whole-body synthesis secretion of docosahexaenoic acid from circulating eicosapentaenoic acid in unanesthetized rats",
-      "Subject": [
+      "_id": "687cf0cf1f662220d8993a55",
+      "recordId": "2671",
+      "title": "Quantifying conversion of linoleic to arachidonic and other n-6 polyunsaturated fatty acids in unanesthetized rats",
+      "subject": [
         "(BLS) Biochemistry",
-        "(BLS) Biology - Cellular",
+        "(BLS) Neuroscience",
         "(BLS) Nutrition"
       ],
-      "Institution": [
-        "Brain Physiology and Metabolism Section, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892",
-        "Positron Emission Tomography Radiochemistry Group, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD 20892"
+      "institution": [
+        "Brain Physiology and Metabolism Section, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD",
+        "National Institute on Aging, and Positron Emission Tomography Radiochemistry Group, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD"
       ],
-      "Journal": "Journal of Lipid Research",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
+      "journal": "Journal of Lipid Research",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Fei Gao",
         "Dale Kiesewetter",
         "Lisa Chang",
-        "Kaizong Ma",
         "Stanley Isaac Rapoport",
         "Miki Igarashi"
       ],
-      "URLS": "http://retractionwatch.com/?s=stanley+rapoport;http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=stanley+rapoport;http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "5/1/2014 0:00",
-      "RetractionDOI": "10.1194/jlr.M005595ERR",
-      "RetractionPubMedID": "24771869.0",
-      "OriginalPaperDate": "12/1/2009 0:00",
-      "OriginalPaperDOI": "10.1194/jlr.M900223-JLR200",
-      "OriginalPaperPubMedID": "19571329.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "5/1/2014 0:00",
+      "retractiondoi": "10.1194/jlr.M005595ERR",
+      "retractionpubmedid": "24771869.0",
+      "originalpaperdate": "10/1/2010 0:00",
+      "originalpaperdoi": "10.1194/jlr.M005595",
+      "originalpaperpubmedid": "20622136.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author",
-        "+Removed"
+        "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Fei Gao named as responsible for misconduct",
-      "notice_year": 2014,
-      "year": 2009,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Fei Gao named as responsible for misconduct",
+      "year": "2010",
+      "noticeYear": "2014",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234ef22",
-      "Record ID": "392",
-      "Title": "Liver conversion of docosahexaenoic and arachidonic acids from their 18-carbon precursors in rats on a DHA-free but alpha-LNA-containing n-3 PUFA adequate diet",
-      "Subject": [
+      "_id": "687cf0d71f662220d8994308",
+      "recordId": "392",
+      "title": "Liver conversion of docosahexaenoic and arachidonic acids from their 18-carbon precursors in rats on a DHA-free but alpha-LNA-containing n-3 PUFA adequate diet",
+      "subject": [
         "(BLS) Biochemistry",
         "(BLS) Nutrition"
       ],
-      "Institution": [
+      "institution": [
         "Brain Physiology and Metabolism Section, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892, USA",
         "Positron Emission Tomography Radiochemistry Group, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD 20892, USA"
       ],
-      "Journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+      "publisher": "Elsevier",
+      "country": [
         "United States"
       ],
-      "Author": [
+      "author": [
         "Fei Gao",
         "Hyung-Wook Kim",
         "Miki Igarashi",
@@ -139,108 +190,61 @@
         "Kaizong Ma",
         "Stanley Isaac Rapoport"
       ],
-      "URLS": "http://retractionwatch.com/?s=stanley+rapoport;http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/?s=stanley+rapoport;http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/6/2015 0:00",
-      "RetractionDOI": "10.1016/j.bbalip.2014.12.009",
-      "RetractionPubMedID": "26247069.0",
-      "OriginalPaperDate": "5/30/2011 0:00",
-      "OriginalPaperDOI": "10.1016/j.bbalip.2011.05.008",
-      "OriginalPaperPubMedID": "21651989.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "1/6/2015 0:00",
+      "retractiondoi": "10.1016/j.bbalip.2014.12.009",
+      "retractionpubmedid": "26247069.0",
+      "originalpaperdate": "5/30/2011 0:00",
+      "originalpaperdoi": "10.1016/j.bbalip.2011.05.008",
+      "originalpaperpubmedid": "21651989.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Falsification/Fabrication of Data",
         "+Investigation by Company/Institution",
         "+Misconduct - Official Investigation(s) and/or Finding(s)",
         "+Misconduct by Author"
       ],
-      "Paywalled": "No",
-      "Notes": "Fei Gao named as responsible for misconduct .",
-      "notice_year": 2015,
-      "year": 2011,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d234e66f",
-      "Record ID": "2671",
-      "Title": "Quantifying conversion of linoleic to arachidonic and other n-6 polyunsaturated fatty acids in unanesthetized rats",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Neuroscience",
-        "(BLS) Nutrition"
-      ],
-      "Institution": [
-        "Brain Physiology and Metabolism Section, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD",
-        "National Institute on Aging, and Positron Emission Tomography Radiochemistry Group, National Institute of Biomedical Imaging and Bioengineering, National Institutes of Health, Bethesda, MD"
-      ],
-      "Journal": "Journal of Lipid Research",
-      "Publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
-      "Country": [
-        "United States"
-      ],
-      "Author": [
-        "Fei Gao",
-        "Dale Kiesewetter",
-        "Lisa Chang",
-        "Stanley Isaac Rapoport",
-        "Miki Igarashi"
-      ],
-      "URLS": "http://retractionwatch.com/?s=stanley+rapoport;http://retractionwatch.com/2016/12/01/co-author-misconduct-raises-nih-neuroscientists-retraction-count-8/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "5/1/2014 0:00",
-      "RetractionDOI": "10.1194/jlr.M005595ERR",
-      "RetractionPubMedID": "24771869.0",
-      "OriginalPaperDate": "10/1/2010 0:00",
-      "OriginalPaperDOI": "10.1194/jlr.M005595",
-      "OriginalPaperPubMedID": "20622136.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Falsification/Fabrication of Data",
-        "+Investigation by Company/Institution",
-        "+Misconduct - Official Investigation(s) and/or Finding(s)",
-        "+Misconduct by Author"
-      ],
-      "Paywalled": "No",
-      "Notes": "Fei Gao named as responsible for misconduct",
-      "notice_year": 2014,
-      "year": 2010,
-      "mark": "alterations"
+      "paywalled": "No",
+      "notes": "Fei Gao named as responsible for misconduct .",
+      "year": "2011",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2009,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 2,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -248,10 +252,10 @@
     {
       "year": 2014,
       "retraction_count": 0,
-      "retraction_notice_count": 3,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -259,10 +263,10 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

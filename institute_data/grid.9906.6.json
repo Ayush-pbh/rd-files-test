@@ -1,118 +1,169 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877c28",
+    "_id": "687ccbab09adbf7aa61b8849",
     "grid_id": "grid.9906.6",
     "institute_name": "University of Salento",
     "country": "Italy",
     "retracted_record_ids": [
+      "4687",
       "45076",
       "62390",
-      "4687",
       "36731"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d23441dd",
-      "Record ID": "45076",
-      "Title": "Knowledge Sourcing and Knowledge Reuse in the Virtual Product Prototyping: An Exploratory Study in a Large Automotive Supplier of R&D",
-      "Subject": [
-        "(B/T) Business - Manufacturing",
-        "(B/T) Technology"
-      ],
-      "Institution": [
-        "Newcastle Business School, Northumbria University, Newcastle Upon Tyne, United Kingdom",
-        "Department of Business Engineering, Universit\u00e0 del Salento, via per Monteroni s.n. Lecce, Italy"
-      ],
-      "Journal": "Knowledge and Process Management",
-      "Publisher": "Wiley",
-      "Country": [
-        "Italy",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Raffaele Filieri",
-        "Salma Alguezaui"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "10/13/2015 0:00",
-      "RetractionDOI": "10.1002/kpm.1481",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/7/2015 0:00",
-      "OriginalPaperDOI": "10.1002/kpm.1455",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Duplication of/in Article"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2015,
-      "year": 2015
-    },
-    {
-      "_id": "6855d574b14f7811d233fe6c",
-      "Record ID": "62390",
-      "Title": "A Survey of Five Generations of MIMO Multiband Base Station Antennas",
-      "Subject": [
+      "_id": "687cef5d1f662220d8985252",
+      "recordId": "62390",
+      "title": "A Survey of Five Generations of MIMO Multiband Base Station Antennas",
+      "subject": [
         "(B/T) Technology",
         "(PHY) Engineering - General"
       ],
-      "Institution": [
+      "institution": [
         "Department of Electrical and Information Engineering, Politecnico di Bari, Bari, Italy",
         "Department of Innovation Engineering, University of Salento, Lecce, Italy"
       ],
-      "Journal": "Radio Science",
-      "Publisher": "Wiley",
-      "Country": [
+      "journal": "Radio Science",
+      "publisher": "Wiley",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Hafiz Usman Tahseen",
         "Luciano Mescia",
         "Luca Catarinucci"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "2/8/2025 0:00",
-      "RetractionDOI": "10.1029/rds.21394",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "7/5/2023 0:00",
-      "OriginalPaperDOI": "10.1029/2023RS007725",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "2/8/2025 0:00",
+      "retractiondoi": "10.1029/rds.21394",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "7/5/2023 0:00",
+      "originalpaperdoi": "10.1029/2023RS007725",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Euphemisms for Plagiarism",
         "+Objections by Author(s)",
         "+Plagiarism of Data",
         "+Plagiarism of Image"
       ],
-      "Paywalled": "No",
-      "notice_year": 2025,
-      "year": 2023,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2023",
+      "noticeYear": "2025",
+      "mark": "serious",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234deb7",
-      "Record ID": "4687",
-      "Title": "ER stress is associated with dedifferentiation and an epithelial-to-mesenchymal transition-like phenotype in PC Cl3 thyroid cells",
-      "Subject": [
+      "_id": "687cefa01f662220d89895c3",
+      "recordId": "45076",
+      "title": "Knowledge Sourcing and Knowledge Reuse in the Virtual Product Prototyping: An Exploratory Study in a Large Automotive Supplier of R&D",
+      "subject": [
+        "(B/T) Business - Manufacturing",
+        "(B/T) Technology"
+      ],
+      "institution": [
+        "Newcastle Business School, Northumbria University, Newcastle Upon Tyne, United Kingdom",
+        "Department of Business Engineering, Universit\u00e0 del Salento, via per Monteroni s.n. Lecce, Italy"
+      ],
+      "journal": "Knowledge and Process Management",
+      "publisher": "Wiley",
+      "country": [
+        "Italy",
+        "United Kingdom"
+      ],
+      "author": [
+        "Raffaele Filieri",
+        "Salma Alguezaui"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "10/13/2015 0:00",
+      "retractiondoi": "10.1002/kpm.1481",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/7/2015 0:00",
+      "originalpaperdoi": "10.1002/kpm.1455",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Duplication of/in Article"
+      ],
+      "paywalled": "No",
+      "year": "2015",
+      "noticeYear": "2015",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefbe1f662220d898b62f",
+      "recordId": "36731",
+      "title": "Genotoxicity and alteration of the Gene Regulatory Network expression during Paracentrotus lividus development in the presence of carbon nanoparticles",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics",
+        "(BLS) Zoology",
+        "(PHY) Nanotechnology"
+      ],
+      "institution": [
+        "Department of Biological and Environmental Science and Technology, Di.S.Te.B.A. University of Salento, Lecce, Italy",
+        "Department of Biology and Biotechnology \u201cC. Darwin\u201d, Sapienza University of Rome, Rome, Italy",
+        "CNR-Nanotec, Lecce, Italy"
+      ],
+      "journal": "Toxicology Research",
+      "publisher": "Springer",
+      "country": [
+        "Italy"
+      ],
+      "author": [
+        "Elisabetta Carata",
+        "Bernardetta Anna Tenuzzo",
+        "Stefania Mariano",
+        "Andrea Setini",
+        "Marco Fidaleo",
+        "Luciana Dini"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "2/3/2022 0:00",
+      "retractiondoi": "10.1007/s43188-020-00081-y",
+      "retractionpubmedid": "35415079.0",
+      "originalpaperdate": "4/12/2021 0:00",
+      "originalpaperdoi": "10.1007/s43188-020-00081-y",
+      "originalpaperpubmedid": "35415079.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Euphemisms for Plagiarism",
+        "+Plagiarism of Image"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2022",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c71f662220d899329d",
+      "recordId": "4687",
+      "title": "ER stress is associated with dedifferentiation and an epithelial-to-mesenchymal transition-like phenotype in PC Cl3 thyroid cells",
+      "subject": [
         "(BLS) Biology - Cellular",
         "(BLS) Genetics"
       ],
-      "Institution": [
+      "institution": [
         "Istituto di Endocrinologia ed Oncologia Sperimentale \u201cG. Salvatore\u201d, Via S. Pansini 5, 80131 Napoli, Italy",
         "Dipartimento di Biologia e Patologia Cellulare e Molecolare `L. Califano', Via S. Pansini 5, 80131 Napoli, Italy",
         "Dipartimento di Scienze e Tecnologie Biologiche ed Ambientali, Facolt\u00e0 di Scienze Matematiche Fisiche e Naturali, Universit\u00e0 degli Studi di Lecce, Strada Provinciale Lecce-Monteroni, 73100 Lecce, Italy"
       ],
-      "Journal": "Journal of Cell Science",
-      "Publisher": "The Company of Biologists",
-      "Country": [
+      "journal": "Journal of Cell Science",
+      "publisher": "The Company of Biologists",
+      "country": [
         "Italy"
       ],
-      "Author": [
+      "author": [
         "Luca Ulianich",
         "Corrado Garbi",
         "Antonella Sonia Treglia",
@@ -123,94 +174,48 @@
         "Eduardo Consiglio",
         "Bruno Di Jeso"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "9/15/2016 0:00",
-      "RetractionDOI": "10.1242/jcs.196584",
-      "RetractionPubMedID": "27635067.0",
-      "OriginalPaperDate": "1/22/2008 0:00",
-      "OriginalPaperDOI": "10.1242/jcs.017202",
-      "OriginalPaperPubMedID": "18211961.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "9/15/2016 0:00",
+      "retractiondoi": "10.1242/jcs.196584",
+      "retractionpubmedid": "27635067.0",
+      "originalpaperdate": "1/22/2008 0:00",
+      "originalpaperdoi": "10.1242/jcs.017202",
+      "originalpaperpubmedid": "18211961.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Duplication of Data",
         "+Euphemisms for Duplication",
         "+Unreliable Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "notice_year": 2016,
-      "year": 2008,
-      "mark": "alterations"
-    },
-    {
-      "_id": "6855d574b14f7811d2346249",
-      "Record ID": "36731",
-      "Title": "Genotoxicity and alteration of the Gene Regulatory Network expression during Paracentrotus lividus development in the presence of carbon nanoparticles",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics",
-        "(BLS) Zoology",
-        "(PHY) Nanotechnology"
-      ],
-      "Institution": [
-        "Department of Biological and Environmental Science and Technology, Di.S.Te.B.A. University of Salento, Lecce, Italy",
-        "Department of Biology and Biotechnology \u201cC. Darwin\u201d, Sapienza University of Rome, Rome, Italy",
-        "CNR-Nanotec, Lecce, Italy"
-      ],
-      "Journal": "Toxicology Research",
-      "Publisher": "Springer",
-      "Country": [
-        "Italy"
-      ],
-      "Author": [
-        "Elisabetta Carata",
-        "Bernardetta Anna Tenuzzo",
-        "Stefania Mariano",
-        "Andrea Setini",
-        "Marco Fidaleo",
-        "Luciana Dini"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "2/3/2022 0:00",
-      "RetractionDOI": "10.1007/s43188-020-00081-y",
-      "RetractionPubMedID": "35415079.0",
-      "OriginalPaperDate": "4/12/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s43188-020-00081-y",
-      "OriginalPaperPubMedID": "35415079.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Euphemisms for Plagiarism",
-        "+Plagiarism of Image"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2022,
-      "year": 2021,
-      "mark": "alterations"
+      "paywalled": "No",
+      "year": "2008",
+      "noticeYear": "2016",
+      "mark": "serious",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2008,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2015,
-      "retraction_count": 1,
-      "retraction_notice_count": 1,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -218,21 +223,21 @@
     {
       "year": 2016,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2021,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -240,21 +245,21 @@
     {
       "year": 2022,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2023,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 1,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -262,10 +267,10 @@
     {
       "year": 2025,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0

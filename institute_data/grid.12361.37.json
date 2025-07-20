@@ -1,119 +1,279 @@
 {
   "institute": {
-    "_id": "685b3f25aa23308c06877eb8",
+    "_id": "687ccbab09adbf7aa61b8ad9",
     "grid_id": "grid.12361.37",
     "institute_name": "Nottingham Trent University",
     "country": "United Kingdom",
     "retracted_record_ids": [
-      "41080",
-      "16348",
-      "23541",
+      "38619",
       "5742",
+      "61045",
       "61184",
       "24844",
-      "61045",
-      "38619"
+      "16348",
+      "23541",
+      "41080"
     ]
   },
   "retractions": [
     {
-      "_id": "6855d574b14f7811d2345167",
-      "Record ID": "41080",
-      "Title": "First COVID-19 suicide case in Bangladesh due to fear of COVID-19 and xenophobia: Possible suicide prevention strategies",
-      "Subject": [
+      "_id": "687cef611f662220d8985708",
+      "recordId": "61184",
+      "title": "Task-Oriented Intelligent Solution to Measure Parkinson\u2019s Disease Tremor Severity",
+      "subject": [
+        "(B/T) Computer Science",
+        "(B/T) Data Science",
+        "(B/T) Technology",
+        "(HSC) Medicine - Neurology",
+        "(HSC) Medicine - Rehabilitation/Therapy"
+      ],
+      "institution": [
+        "School of Science and Technology, Nottingham Trent University, Clifton Lane, Nottingham NG11 8NS, United Kingdom",
+        "ICON PLC, South County Business Park, Dublin 18, Ireland"
+      ],
+      "journal": "Journal of Healthcare Engineering",
+      "publisher": "Hindawi",
+      "country": [
+        "Ireland",
+        "United Kingdom"
+      ],
+      "author": [
+        "Ghayth AlMahadin",
+        "Ahmad Lotfi",
+        "Marie Mc Carthy",
+        "Philip Breedon"
+      ],
+      "urls": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "11/1/2023 0:00",
+      "retractiondoi": "10.1155/2023/9827845",
+      "retractionpubmedid": "37946902.0",
+      "originalpaperdate": "9/10/2021 0:00",
+      "originalpaperdoi": "10.1155/2021/9624386",
+      "originalpaperpubmedid": "34540191.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Concerns/Issues with Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Investigation by Third Party",
+        "+Paper Mill",
+        "+Computer-Aided Content or Computer-Generated Content",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2023",
+      "mark": "serious",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cef631f662220d8985793",
+      "recordId": "61045",
+      "title": "Forecasting major impacts of COVID-19 pandemic on country-driven sectors: challenges, lessons, and future roadmap",
+      "subject": [
+        "(B/T) Business - Economics",
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Medicine - Infectious Disease"
+      ],
+      "institution": [
+        "Amity School of Engineering and Technology, Amity University Uttar Pradesh, Noida, India",
+        "School of Computer Science, University of Petroleum, Energy Studies (UPES), Bidoli, Dehradun, India",
+        "Department of Computer Science, Nottingham Trent University, Clifton Campus, Clifton, Nottingham, NG11 8NS, UK",
+        "Medical Technologies Innovation Facility, Nottingham Trent University, Clifton Campus, Clifton, Nottingham, NG11 8NS, UK",
+        "Department of Computer Science and Engineering, Faculty of Engineering and Technology, M. S. Ramaiah University of Applied Sciences, Bangalore, Karnataka, India"
+      ],
+      "journal": "Personal and Ubiquitous Computing",
+      "publisher": "Springer",
+      "country": [
+        "India",
+        "United Kingdom"
+      ],
+      "author": [
+        "Saket Kumar",
+        "Rajkumar Viral",
+        "Vikas Deep",
+        "Purushottam Sharma",
+        "Manoj Kumar",
+        "Mufti Mahmud",
+        "Thompson Stephan"
+      ],
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "12/19/2024 0:00",
+      "retractiondoi": "10.1007/s00779-024-01842-4",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "3/26/2021 0:00",
+      "originalpaperdoi": "10.1007/s00779-021-01530-7",
+      "originalpaperpubmedid": "33815032.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Results and/or Conclusions",
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Fake Peer Review",
+        "+Investigation by Journal/Publisher",
+        "+Objections by Author(s)",
+        "+Rogue Editor",
+        "+Unreliable Results and/or Conclusions"
+      ],
+      "paywalled": "No",
+      "year": "2021",
+      "noticeYear": "2024",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cefb01f662220d898a54d",
+      "recordId": "41080",
+      "title": "First COVID-19 suicide case in Bangladesh due to fear of COVID-19 and xenophobia: Possible suicide prevention strategies",
+      "subject": [
         "(HSC) Medicine - Infectious Disease",
         "(HSC) Medicine - Surgery",
         "(HSC) Public Health and Safety"
       ],
-      "Institution": [
+      "institution": [
         "Undergraduate Research Organization, Savar, Dhaka, Bangladesh",
         "Department of Public Health & Informatics, Jahangirnagar University, Savar, Dhaka, Bangladesh",
         "Psychology Department, Nottingham Trent University, 50 Shakespeare Street, Nottingham, NG1 4FQ, UK"
       ],
-      "Journal": "Asian Journal of Psychiatry",
-      "Publisher": "Elsevier",
-      "Country": [
+      "journal": "Asian Journal of Psychiatry",
+      "publisher": "Elsevier",
+      "country": [
         "Bangladesh",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Mohammed A Mamun",
         "Mark D Griffiths"
       ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2023/01/03/elsevier-journal-temporarily-removes-article-by-prolific-psychologist-with-a-typo-at-frist/",
-      "ArticleType": [
+      "urls": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/;https://retractionwatch.com/2023/01/03/elsevier-journal-temporarily-removes-article-by-prolific-psychologist-with-a-typo-at-frist/",
+      "articletype": [
         "Case Report"
       ],
-      "RetractionDate": "4/7/2020 0:00",
-      "RetractionDOI": "10.1016/j.ajp.2020.102073",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "4/7/2020 0:00",
-      "OriginalPaperDOI": "10.1016/j.ajp.2020.102073",
-      "OriginalPaperPubMedID": "32278889.0",
-      "RetractionNature": "Reinstatement",
-      "Reason": [
+      "retractiondate": "4/7/2020 0:00",
+      "retractiondoi": "10.1016/j.ajp.2020.102073",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "4/7/2020 0:00",
+      "originalpaperdoi": "10.1016/j.ajp.2020.102073",
+      "originalpaperpubmedid": "32278889.0",
+      "retractionnature": "Reinstatement",
+      "reason": [
         "+Breach of Policy by Author",
         "+Date of Article and/or Notice Unknown",
         "+Retract and Replace",
         "+Removed"
       ],
-      "Paywalled": "No",
-      "Notes": "date of retraction unknown, html page overwrite; article originally temporarily removed, article reinstated on unknown date, with no explanatory notice;",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "integrity"
+      "paywalled": "No",
+      "notes": "date of retraction unknown, html page overwrite; article originally temporarily removed, article reinstated on unknown date, with no explanatory notice;",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234b18b",
-      "Record ID": "16348",
-      "Title": "Visual Research Methods: Using Cameras to Empower Socially Excluded Black Youth",
-      "Subject": [
-        "(SOC) Psychology",
-        "(SOC) Sociology"
+      "_id": "687cefb51f662220d898aed7",
+      "recordId": "38619",
+      "title": "Quantum dots high fluorescent signal amplification immunoassay using branched DNA and peptide nucleic acid conjugated antibody",
+      "subject": [
+        "(BLS) Biochemistry",
+        "(BLS) Genetics"
       ],
-      "Institution": [
-        "Nottingham Trent University",
-        "University of Nottingham",
-        "University of Salford"
+      "institution": [
+        "School of Science and Technology, Nottingham Trent University, Clifton Lane, Nottingham, UK"
       ],
-      "Journal": "Sociology",
-      "Publisher": "SAGE Publications",
-      "Country": [
+      "journal": "Analyst",
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "country": [
         "United Kingdom"
       ],
-      "Author": [
-        "Cecile Yvonne Wright",
-        "Natalie Darko",
-        "P J Standen",
-        "Tina G Patel"
+      "author": [
+        "Yuan Cheng Cao",
+        "Selman Ali",
+        "Quentin S Hanley",
+        "David Boocock",
+        "Balwir Matharoo-ball"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/10/2011 0:00",
-      "RetractionDOI": "10.1177/0038038511409851",
-      "OriginalPaperDate": "6/18/2010 0:00",
-      "OriginalPaperDOI": "10.1177/0038038510362483",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Copyright Claims"
+      "retractiondate": "12/16/2011 0:00",
+      "retractiondoi": "10.1039/C1AN15751E",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/20/2011 0:00",
+      "originalpaperdoi": "10.1039/c1an15751e",
+      "originalpaperpubmedid": "22016880.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+False/Forged Authorship"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2011,
-      "year": 2010,
-      "mark": "system"
+      "paywalled": "No",
+      "year": "2011",
+      "noticeYear": "2011",
+      "mark": "integrity",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234959f",
-      "Record ID": "23541",
-      "Title": "Insomnia, Sleepiness, Anxiety and Depression Among Different Types of Gamers in African Countries",
-      "Subject": [
+      "_id": "687cf0081f662220d898e474",
+      "recordId": "24844",
+      "title": "Insomnia and problematic gaming: a study in 9 low-and middle-incomes countries",
+      "subject": [
+        "(HSC) Biostatistics/Epidemiology",
+        "(HSC) Public Health and Safety",
+        "(SOC) Psychology",
+        "(SOC) Sports and Recreation"
+      ],
+      "institution": [
+        "H\u00f4pital Du Sacr\u00e9-Coeur De Montr\u00e9al, Center Of Advanced Research In Sleep Medicine, Research Center Of Neurosciences, Health And Society Institute",
+        "School Of Social Sciences, Department Of Psychology, International Gaming Research Unit And The Cyberpsychology Group, Nottingham Trent University"
+      ],
+      "journal": "BioRxiv",
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "country": [
+        "Canada",
+        "United Kingdom"
+      ],
+      "author": [
+        "Faustin Armel Etindele Sosso",
+        "Daria J Kuss"
+      ],
+      "urls": "http://retractionwatch.com/2020/06/12/how-i-got-fooled-the-story-of-how-a-study-of-gamers-came-to-be-retracted/",
+      "articletype": [
+        "Preprint",
+        "Research Article"
+      ],
+      "retractiondate": "6/19/2020 0:00",
+      "retractiondoi": "10.1101/451724",
+      "retractionpubmedid": "0.0",
+      "originalpaperdate": "10/26/2018 0:00",
+      "originalpaperdoi": "10.1101/451724",
+      "originalpaperpubmedid": "0.0",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues About Data",
+        "+Lack of Approval from Author"
+      ],
+      "paywalled": "No",
+      "year": "2018",
+      "noticeYear": "2020",
+      "mark": "integrity",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf00e1f662220d898e985",
+      "recordId": "23541",
+      "title": "Insomnia, Sleepiness, Anxiety and Depression Among Different Types of Gamers in African Countries",
+      "subject": [
         "(B/T) Technology",
         "(HSC) Medicine - General",
         "(SOC) Psychology"
       ],
-      "Institution": [
+      "institution": [
         "Center for Advanced Studies in Sleep Medicine, Hopital du Sacr\u00e9-Coeur de Montreal, Research Center of Cognitive Neurosciences, Institut Sant\u00e9 et Soci\u00e9t\u00e9, Universit\u00e9 du Qu\u00e9bec \u00e0 Montreal, Qu\u00e9bec, Canada",
         "School of Social Sciences, Department of Psychology, International Gaming Research Unit and the Cyberpsychology Group, Nottingham Trent University, Nottingham, UK",
         "School of Health, Medical and Applied Sciences, Physical Activity Research Group, Central Queensland University, Rockhampton, Australia",
@@ -127,9 +287,9 @@
         "Innovation and Evaluation in Health Psychology, Faculty of Psychology, Autonomous University of Nuevo Leon, Monterrey, Nuevo Leon, Mexico",
         "Lero Irish Software Research Centre, University of Limerick, Limerick, Ireland"
       ],
-      "Journal": "Scientific Reports",
-      "Publisher": "Springer - Nature Publishing Group",
-      "Country": [
+      "journal": "Scientific Reports",
+      "publisher": "Springer - Nature Publishing Group",
+      "country": [
         "Australia",
         "Canada",
         "Greece",
@@ -139,7 +299,7 @@
         "Mexico",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Faustin Armel Etindele Sosso",
         "Daria J Kuss",
         "Corneel Vandelanotte",
@@ -157,48 +317,91 @@
         "Mark J Campbell",
         "Adam J Toth"
       ],
-      "URLS": "http://retractionwatch.com/2020/06/12/how-i-got-fooled-the-story-of-how-a-study-of-gamers-came-to-be-retracted/#more-119681",
-      "ArticleType": [
+      "urls": "http://retractionwatch.com/2020/06/12/how-i-got-fooled-the-story-of-how-a-study-of-gamers-came-to-be-retracted/#more-119681",
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "6/4/2020 0:00",
-      "RetractionDOI": "10.1038/s41598-020-66798-w",
-      "RetractionPubMedID": "32499575.0",
-      "OriginalPaperDate": "2/6/2020 0:00",
-      "OriginalPaperDOI": "10.1038/s41598-020-58462-0",
-      "OriginalPaperPubMedID": "32029773.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
+      "retractiondate": "6/4/2020 0:00",
+      "retractiondoi": "10.1038/s41598-020-66798-w",
+      "retractionpubmedid": "32499575.0",
+      "originalpaperdate": "2/6/2020 0:00",
+      "originalpaperdoi": "10.1038/s41598-020-58462-0",
+      "originalpaperpubmedid": "32029773.0",
+      "retractionnature": "Retraction",
+      "reason": [
         "+Concerns/Issues About Data",
         "+Concerns/Issues about Results and/or Conclusions"
       ],
-      "Paywalled": "No",
-      "Notes": "see https://pubpeer.com/publications/D83DEBE1F9A83CEBE00E95ECF9661E;",
-      "notice_year": 2020,
-      "year": 2020,
-      "mark": "research"
+      "paywalled": "No",
+      "notes": "see https://pubpeer.com/publications/D83DEBE1F9A83CEBE00E95ECF9661E;",
+      "year": "2020",
+      "noticeYear": "2020",
+      "mark": "research",
+      "createdAt": ""
     },
     {
-      "_id": "6855d574b14f7811d234daaf",
-      "Record ID": "5742",
-      "Title": "Source-code plagiarism in universities: a comparative study of student perspectives in China and the UK",
-      "Subject": [
+      "_id": "687cf0991f662220d8990571",
+      "recordId": "16348",
+      "title": "Visual Research Methods: Using Cameras to Empower Socially Excluded Black Youth",
+      "subject": [
+        "(SOC) Psychology",
+        "(SOC) Sociology"
+      ],
+      "institution": [
+        "Nottingham Trent University",
+        "University of Nottingham",
+        "University of Salford"
+      ],
+      "journal": "Sociology",
+      "publisher": "SAGE Publications",
+      "country": [
+        "United Kingdom"
+      ],
+      "author": [
+        "Cecile Yvonne Wright",
+        "Natalie Darko",
+        "P J Standen",
+        "Tina G Patel"
+      ],
+      "articletype": [
+        "Research Article"
+      ],
+      "retractiondate": "6/10/2011 0:00",
+      "retractiondoi": "10.1177/0038038511409851",
+      "originalpaperdate": "6/18/2010 0:00",
+      "originalpaperdoi": "10.1177/0038038510362483",
+      "retractionnature": "Retraction",
+      "reason": [
+        "+Concerns/Issues about Referencing/Attributions",
+        "+Copyright Claims"
+      ],
+      "paywalled": "Yes",
+      "year": "2010",
+      "noticeYear": "2011",
+      "mark": "system",
+      "createdAt": ""
+    },
+    {
+      "_id": "687cf0c31f662220d8992e95",
+      "recordId": "5742",
+      "title": "Source-code plagiarism in universities: a comparative study of student perspectives in China and the UK",
+      "subject": [
         "(B/T) Computer Science"
       ],
-      "Institution": [
+      "institution": [
         "Department of Computer Science, University of Warwick, Coventry, UK",
         "College of Information and Management Science, Henan Agricultural University, Zhengzhou, P.R. China",
         "School of Science and Technology, Nottingham Trent University, Nottingham, UK",
         "Department of Computer Science, Malm\u00f6 University, Malm\u00f6, Sweden"
       ],
-      "Journal": "Assessment and Evaluation in Higher Education",
-      "Publisher": "Taylor and Francis",
-      "Country": [
+      "journal": "Assessment and Evaluation in Higher Education",
+      "publisher": "Taylor and Francis",
+      "country": [
         "China",
         "Sweden",
         "United Kingdom"
       ],
-      "Author": [
+      "author": [
         "Dongyang Zhang",
         "Mike Joy",
         "Georgina Cosma",
@@ -206,249 +409,54 @@
         "Jane Sinclair",
         "Jane Yau"
       ],
-      "ArticleType": [
+      "articletype": [
         "Research Article"
       ],
-      "RetractionDate": "1/13/2015 0:00",
-      "RetractionDOI": "10.1080/02602938.2014.1000001",
-      "OriginalPaperDate": "12/18/2013 0:00",
-      "OriginalPaperDOI": "10.1080/02602938.2013.870122",
-      "RetractionNature": "Correction",
-      "Reason": [
+      "retractiondate": "1/13/2015 0:00",
+      "retractiondoi": "10.1080/02602938.2014.1000001",
+      "originalpaperdate": "12/18/2013 0:00",
+      "originalpaperdoi": "10.1080/02602938.2013.870122",
+      "retractionnature": "Correction",
+      "reason": [
         "+Concerns/Issues about Referencing/Attributions"
       ],
-      "Paywalled": "Yes",
-      "notice_year": 2015,
-      "year": 2013,
-      "mark": "system"
-    },
-    {
-      "_id": "6855d574b14f7811d2340322",
-      "Record ID": "61184",
-      "Title": "Task-Oriented Intelligent Solution to Measure Parkinson\u2019s Disease Tremor Severity",
-      "Subject": [
-        "(B/T) Computer Science",
-        "(B/T) Data Science",
-        "(B/T) Technology",
-        "(HSC) Medicine - Neurology",
-        "(HSC) Medicine - Rehabilitation/Therapy"
-      ],
-      "Institution": [
-        "School of Science and Technology, Nottingham Trent University, Clifton Lane, Nottingham NG11 8NS, United Kingdom",
-        "ICON PLC, South County Business Park, Dublin 18, Ireland"
-      ],
-      "Journal": "Journal of Healthcare Engineering",
-      "Publisher": "Hindawi",
-      "Country": [
-        "Ireland",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Ghayth AlMahadin",
-        "Ahmad Lotfi",
-        "Marie Mc Carthy",
-        "Philip Breedon"
-      ],
-      "URLS": "https://retractionwatch.com/2022/09/28/exclusive-hindawi-and-wiley-to-retract-over-500-papers-linked-to-peer-review-rings/;https://retractionwatch.com/2023/04/05/wiley-and-hindawi-to-retract-1200-more-papers-for-compromised-peer-review/;https://retractionwatch.com/2023/12/19/hindawi-reveals-process-for-retracting-more-than-8000-paper-mill-articles/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "11/1/2023 0:00",
-      "RetractionDOI": "10.1155/2023/9827845",
-      "RetractionPubMedID": "37946902.0",
-      "OriginalPaperDate": "9/10/2021 0:00",
-      "OriginalPaperDOI": "10.1155/2021/9624386",
-      "OriginalPaperPubMedID": "34540191.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Concerns/Issues with Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Investigation by Third Party",
-        "+Paper Mill",
-        "+Computer-Aided Content or Computer-Generated Content",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2023,
-      "year": 2021,
-      "mark": "research"
-    },
-    {
-      "_id": "6855d574b14f7811d234908e",
-      "Record ID": "24844",
-      "Title": "Insomnia and problematic gaming: a study in 9 low-and middle-incomes countries",
-      "Subject": [
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Public Health and Safety",
-        "(SOC) Psychology",
-        "(SOC) Sports and Recreation"
-      ],
-      "Institution": [
-        "H\u00f4pital Du Sacr\u00e9-Coeur De Montr\u00e9al, Center Of Advanced Research In Sleep Medicine, Research Center Of Neurosciences, Health And Society Institute",
-        "School Of Social Sciences, Department Of Psychology, International Gaming Research Unit And The Cyberpsychology Group, Nottingham Trent University"
-      ],
-      "Journal": "BioRxiv",
-      "Publisher": "Cold Spring Harbor Laboratory Press",
-      "Country": [
-        "Canada",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Faustin Armel Etindele Sosso",
-        "Daria J Kuss"
-      ],
-      "URLS": "http://retractionwatch.com/2020/06/12/how-i-got-fooled-the-story-of-how-a-study-of-gamers-came-to-be-retracted/",
-      "ArticleType": [
-        "Preprint",
-        "Research Article"
-      ],
-      "RetractionDate": "6/19/2020 0:00",
-      "RetractionDOI": "10.1101/451724",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/26/2018 0:00",
-      "OriginalPaperDOI": "10.1101/451724",
-      "OriginalPaperPubMedID": "0.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues About Data",
-        "+Lack of Approval from Author"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2020,
-      "year": 2018,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d23403ad",
-      "Record ID": "61045",
-      "Title": "Forecasting major impacts of COVID-19 pandemic on country-driven sectors: challenges, lessons, and future roadmap",
-      "Subject": [
-        "(B/T) Business - Economics",
-        "(HSC) Biostatistics/Epidemiology",
-        "(HSC) Medicine - Infectious Disease"
-      ],
-      "Institution": [
-        "Amity School of Engineering and Technology, Amity University Uttar Pradesh, Noida, India",
-        "School of Computer Science, University of Petroleum, Energy Studies (UPES), Bidoli, Dehradun, India",
-        "Department of Computer Science, Nottingham Trent University, Clifton Campus, Clifton, Nottingham, NG11 8NS, UK",
-        "Medical Technologies Innovation Facility, Nottingham Trent University, Clifton Campus, Clifton, Nottingham, NG11 8NS, UK",
-        "Department of Computer Science and Engineering, Faculty of Engineering and Technology, M. S. Ramaiah University of Applied Sciences, Bangalore, Karnataka, India"
-      ],
-      "Journal": "Personal and Ubiquitous Computing",
-      "Publisher": "Springer",
-      "Country": [
-        "India",
-        "United Kingdom"
-      ],
-      "Author": [
-        "Saket Kumar",
-        "Rajkumar Viral",
-        "Vikas Deep",
-        "Purushottam Sharma",
-        "Manoj Kumar",
-        "Mufti Mahmud",
-        "Thompson Stephan"
-      ],
-      "URLS": "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/",
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/19/2024 0:00",
-      "RetractionDOI": "10.1007/s00779-024-01842-4",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "3/26/2021 0:00",
-      "OriginalPaperDOI": "10.1007/s00779-021-01530-7",
-      "OriginalPaperPubMedID": "33815032.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+Concerns/Issues about Results and/or Conclusions",
-        "+Concerns/Issues about Referencing/Attributions",
-        "+Fake Peer Review",
-        "+Investigation by Journal/Publisher",
-        "+Objections by Author(s)",
-        "+Rogue Editor",
-        "+Unreliable Results and/or Conclusions"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2024,
-      "year": 2021,
-      "mark": "integrity"
-    },
-    {
-      "_id": "6855d574b14f7811d2345af1",
-      "Record ID": "38619",
-      "Title": "Quantum dots high fluorescent signal amplification immunoassay using branched DNA and peptide nucleic acid conjugated antibody",
-      "Subject": [
-        "(BLS) Biochemistry",
-        "(BLS) Genetics"
-      ],
-      "Institution": [
-        "School of Science and Technology, Nottingham Trent University, Clifton Lane, Nottingham, UK"
-      ],
-      "Journal": "Analyst",
-      "Publisher": "Royal Society of Chemistry (RSC)",
-      "Country": [
-        "United Kingdom"
-      ],
-      "Author": [
-        "Yuan Cheng Cao",
-        "Selman Ali",
-        "Quentin S Hanley",
-        "David Boocock",
-        "Balwir Matharoo-ball"
-      ],
-      "ArticleType": [
-        "Research Article"
-      ],
-      "RetractionDate": "12/16/2011 0:00",
-      "RetractionDOI": "10.1039/C1AN15751E",
-      "RetractionPubMedID": "0.0",
-      "OriginalPaperDate": "10/20/2011 0:00",
-      "OriginalPaperDOI": "10.1039/c1an15751e",
-      "OriginalPaperPubMedID": "22016880.0",
-      "RetractionNature": "Retraction",
-      "Reason": [
-        "+False/Forged Authorship"
-      ],
-      "Paywalled": "No",
-      "notice_year": 2011,
-      "year": 2011,
-      "mark": "integrity"
+      "paywalled": "Yes",
+      "year": "2013",
+      "noticeYear": "2015",
+      "mark": "system",
+      "createdAt": ""
     }
   ],
   "stats": [
     {
       "year": 2010,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2011,
-      "retraction_count": 1,
-      "retraction_notice_count": 2,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2013,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
-      "system": 1,
-      "alterations": 0,
+      "system": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -456,54 +464,54 @@
     {
       "year": 2015,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
     },
     {
       "year": 2018,
-      "retraction_count": 1,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
-      "integrity": 1
+      "integrity": 0
     },
     {
       "year": 2020,
-      "retraction_count": 2,
-      "retraction_notice_count": 3,
-      "publication_count": 0,
-      "system": 0,
-      "alterations": 0,
-      "supplemental": 0,
-      "research": 1,
-      "integrity": 1
-    },
-    {
-      "year": 2021,
-      "retraction_count": 2,
+      "retraction_count": 0,
       "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
-      "research": 1,
-      "integrity": 1
+      "research": 0,
+      "integrity": 0
+    },
+    {
+      "year": 2021,
+      "retraction_count": 0,
+      "retraction_notice_count": 0,
+      "publication_count": 0,
+      "system": 0,
+      "serious": 0,
+      "supplemental": 0,
+      "research": 0,
+      "integrity": 0
     },
     {
       "year": 2023,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
@@ -511,10 +519,10 @@
     {
       "year": 2024,
       "retraction_count": 0,
-      "retraction_notice_count": 1,
+      "retraction_notice_count": 0,
       "publication_count": 0,
       "system": 0,
-      "alterations": 0,
+      "serious": 0,
       "supplemental": 0,
       "research": 0,
       "integrity": 0
